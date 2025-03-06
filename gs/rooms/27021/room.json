@@ -1,0 +1,28 @@
+{
+  "checksum": "29eeefc2bbc89cec731b0d8518bff659",
+  "room": {
+    "id": 27021,
+    "title": [
+      "[Lake of Fear, Southern Shore]"
+    ],
+    "description": [
+      "Ice crystals glitter in the sunlight all along the frozen shoreline.  An endless expanse of ice stretches into the northern distance, broken only sporadically by strange, dark shapes.",
+      "Ice crystals glitter in the moonlight all along the frozen shoreline.  An endless expanse of ice stretches into the northern darkness, broken only sporadically by strange, shadowy shapes."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10119": "go shore",
+      "27022": "/rooms/27021/wayto/stringproc-27022.rb"
+    },
+    "timeto": {
+      "10119": 0.2,
+      "27022": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

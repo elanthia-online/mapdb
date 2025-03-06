@@ -1,0 +1,53 @@
+{
+  "checksum": "bc5af6d80933deabed93b6ab99a3251d",
+  "room": {
+    "id": 3701,
+    "title": [
+      "[Darkstone, A Dark Tunnel]"
+    ],
+    "description": [
+      "As your eyes begin to adjust to the change of light you cannot help but notice the damp clay walls of this forgotten tunnel.  Smooth swirling patterns cover its surface."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3700": "northwest",
+      "3702": "east"
+    },
+    "timeto": {
+      "3700": 0.2,
+      "3702": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "red trafel mushroom",
+      "withered black mushroom",
+      "massive troll king",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388004
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      515,
+      1215,
+      525,
+      1225
+    ]
+  }
+}

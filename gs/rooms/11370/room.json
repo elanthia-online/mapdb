@@ -1,0 +1,38 @@
+{
+  "checksum": "8bd8cfbcbcf9fb5a78c7caddc5beec98",
+  "room": {
+    "id": 11370,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "The dust of many years covers the floor of the hallway and a stale smell assaults the senses.  The walls here glow with a pulsating light which speeds through the spectrum making you dizzy."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11364": "west",
+      "11371": "east"
+    },
+    "timeto": {
+      "11364": 0.2,
+      "11371": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377024
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      213,
+      1141,
+      223,
+      1151
+    ]
+  }
+}

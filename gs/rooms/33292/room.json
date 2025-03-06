@@ -1,0 +1,34 @@
+{
+  "checksum": "8274ef6d5f1615770e8c07ebc30d9f8a",
+  "room": {
+    "id": 33292,
+    "title": [
+      "[Great Western Sea]"
+    ],
+    "description": [
+      "The nearby schooner offers some protection from the choppy water of the Northern Waves.  The great hull of the nearby krolvin warship is dangerously close, threatening to crush you between the two ships.  A long rope ladder descends from the schooner above, allowing ease of access to the vessel for those overboard."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "somewhere on the Great Western Sea",
+    "wayto": {
+      "20016": "go ladder",
+      "33291": "west"
+    },
+    "timeto": {
+      "20016": 0.2,
+      "33291": 0.2
+    },
+    "uid": [
+      4031053
+    ],
+    "image": "quest-troubled_waters.png",
+    "image_coords": [
+      53,
+      109,
+      71,
+      130
+    ]
+  }
+}

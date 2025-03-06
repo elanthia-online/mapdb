@@ -1,0 +1,40 @@
+{
+  "checksum": "99f75d6e1f3dcaee13142edd25f97224",
+  "room": {
+    "id": 5719,
+    "title": [
+      "[Kahlyr's Precious Gems]"
+    ],
+    "description": [
+      "Everything in this small shop gleams softly in the candlelight flickering from a crystal chandelier hanging overhead.  A row of glaes-paned cases lines one wall, the first holding a collection of gems and the second displaying a diamond necklet.  A carved wooden counter rests opposite.  A carpeted stairway leads up to the second floor of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1448": "out",
+      "5720": "east",
+      "5721": "climb stairway",
+      "30710": "/rooms/5719/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1448": 0.2,
+      "5720": 0.2,
+      "5721": 0.2,
+      "30710": "/rooms/5719/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin guide gemshop",
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740035
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "730d900f94f9f7227b97ce31b1ccf55a",
+  "room": {
+    "id": 32406,
+    "title": [
+      "[Moonsedge, Dirge Row]"
+    ],
+    "description": [
+      "Hay lies in scattered piles near the entrance to the city's stables.  Although the telltale odors of horse lend their tang to the cold breeze, the smells are as faint as a memory.  Watering troughs along the outside of the building stand unused, their vessels dry and heaped with leaves and other detritus."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32405": "east",
+      "32407": "go stables",
+      "32408": "west"
+    },
+    "timeto": {
+      "32405": 0.2,
+      "32407": 0.2,
+      "32408": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577006
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      316,
+      161,
+      338,
+      182
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "b6b9b522185d21e9101ee2f3e8cc74c5",
+  "room": {
+    "id": 26259,
+    "title": [
+      "[Banshee Tower, Second Floor]"
+    ],
+    "description": [
+      "The piercing wail of a banshee reverberates through the tower, her cry sharp and forlorn.  Ghosts float about, their faces formed into silent screams."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26258": "west",
+      "26260": "go mist"
+    },
+    "timeto": {
+      "26258": 0.2,
+      "26260": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      170,
+      523,
+      197,
+      550
+    ]
+  }
+}

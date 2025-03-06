@@ -1,0 +1,46 @@
+{
+  "checksum": "b6ba9c85c42bdff17311e173399f2b0a",
+  "room": {
+    "id": 19930,
+    "title": [
+      "[Stone Baths, Nexus]"
+    ],
+    "description": [
+      "The dimly lit hallway opens up into a wide spherical chamber with a smooth, dark slate floor.  Maoral-framed paintings enhance the russet-hued walls, and arched windows provide a profusion of silvery moonlight.  Ceramic pots of white gardenia rest between a silver arch, a brass arch and a gold arch.",
+      "The dimly lit hallway opens up into a wide spherical chamber with a smooth, dark slate floor.  Maoral-framed paintings enhance the russet-hued walls, and arched windows provide a profusion of silvery moonlight.  Ceramic pots of white gardenia rest between a silver arch and a brass arch.  Spaced evenly around the room are number of different doors.",
+      "The dimly lit hallway opens up into a wide spherical chamber with a smooth, dark slate floor.  Maoral-framed paintings enhance the russet-hued walls, and arched windows provide a profusion of warm sunlight.  Ceramic pots of white gardenia rest between a silver arch and a brass arch. Spaced evenly around the room are number of different doors."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19929": "go hallway",
+      "25859": "go gold arch",
+      "25860": "go silver arch",
+      "25861": "go brass arch"
+    },
+    "timeto": {
+      "19929": 0.2,
+      "25859": 0.2,
+      "25860": 0.2,
+      "25861": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336015
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      702,
+      1045,
+      838,
+      1102
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "da571700d275aa021d7ef18b5e756fee",
+  "room": {
+    "id": 16863,
+    "title": [
+      "[D.H. Cobbling Outlet, Stock]"
+    ],
+    "description": [
+      "A wide steel counter runs along a parallel section of the western wall that has been fitted with sliding drawers housing a variety of skins, pelts, hides, and other cobbling supplies.  Thick inventory lists have been bound together in a book that rests on a table off to one side.  The mingled scents of leatherworking, tanning, and dying drift in from several directions."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16850": "south",
+      "16864": "east",
+      "16865": "north",
+      "30712": "/rooms/16863/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "16850": 0.2,
+      "16864": 0.2,
+      "16865": 0.2,
+      "30712": "/rooms/16863/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "cobbling",
+      "urchin guide cobbling",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      4056004
+    ]
+  }
+}

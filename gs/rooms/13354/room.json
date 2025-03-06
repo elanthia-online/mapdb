@@ -1,0 +1,40 @@
+{
+  "checksum": "ae58055b593a6df8672c550bc84065ac",
+  "room": {
+    "id": 13354,
+    "title": [
+      "[Moonglae Inn, Meeting Room]"
+    ],
+    "description": [
+      "This expansive chamber features a heavy oak bench that runs along each of the greystone walls.  On the wall opposite the archway leading from the cloister is a black granite speaker's rostrum.  The ceiling is crossed with sturdy ironwood beams from which hang a number of banners designating the guilds and professions that operate within the city."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Moonglae Inn",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13305": "go archway",
+      "13359": "go ladder"
+    },
+    "timeto": {
+      "13305": 0.2,
+      "13359": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13107112
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      1712,
+      2082,
+      1774,
+      2142
+    ]
+  }
+}

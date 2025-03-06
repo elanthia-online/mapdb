@@ -1,0 +1,56 @@
+{
+  "checksum": "32c6b323b64dc0da1b81b199414016ef",
+  "room": {
+    "id": 25617,
+    "title": [
+      "[Mistydeep, South of Ravelin]"
+    ],
+    "description": [
+      "A raucous raven call reverberates through the treetops, its point of origin hard to discern.  Directly southeast, a large island splits the flow of the Mistydeep River.  The western branch runs wide, swift, and deep while its other half progresses at a more leisurely pace, skimming small sandy shoals.  On both sides, clear pebbled basins provide hiding places for crafty fish at the river's bottom.  Far above, a dark granite tor rises sharply from the island's heavily-wooded heart."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18841": "/rooms/25617/wayto/stringproc-18841.rb",
+      "18842": "/rooms/25617/wayto/stringproc-18842.rb",
+      "25616": "/rooms/25617/wayto/stringproc-25616.rb",
+      "25618": "/rooms/25617/wayto/stringproc-25618.rb",
+      "25638": "/rooms/25617/wayto/stringproc-25638.rb",
+      "30508": "swim down"
+    },
+    "timeto": {
+      "18841": "/rooms/25617/timeto/stringproc-18841.rb",
+      "18842": "/rooms/25617/timeto/stringproc-18842.rb",
+      "25616": "/rooms/25617/timeto/stringproc-25616.rb",
+      "25618": "/rooms/25617/timeto/stringproc-25618.rb",
+      "25638": "/rooms/25617/timeto/stringproc-25638.rb",
+      "30508": "/rooms/25617/timeto/stringproc-30508.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117014
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1164,
+      772,
+      1182,
+      790
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "565d489fa0adb688d1af4fad7cf604e4",
+  "room": {
+    "id": 11987,
+    "title": [
+      "[Old Ta'Faendryl, Foothill]"
+    ],
+    "description": [
+      "Gnarled trees jutting from the side of the hill spread a canopy of branches above the narrow path that leads between the city wall and the side of the hill.  Opportunistic vines dangling from the heights of the western wall weave their way across the leafy bridge of limbs and branches, forming a dark tunnel of damp vegetation.",
+      "Gnarled trees jutting up from the ground spread a canopy of branches above the narrow path that leads between the city wall and the side of the hill.  Opportunistic vines dangling from the heights of the western wall weave their way across the leafy bridge of limbs and branches, forming an impenetrable tunnel of green."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11986": "south",
+      "11988": "northeast"
+    },
+    "timeto": {
+      "11986": 0.2,
+      "11988": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004032
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      381,
+      494,
+      391,
+      504
+    ]
+  }
+}

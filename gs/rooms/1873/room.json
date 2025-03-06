@@ -1,0 +1,42 @@
+{
+  "checksum": "c35806214911ac289529e857bc56750f",
+  "room": {
+    "id": 1873,
+    "title": [
+      "[Kharam-Dzu, Poor Quarter]"
+    ],
+    "description": [
+      "A pall of soot hangs in the air like a greasy black cloud.  The ramshackle housing is ill-kept, the windows boarded up or broken.  Dwarves clad in rags shuffle along without looking up.  From under a pile of rotting planks, a mangy cat stares out at you with dull red eyes.",
+      "A pall of soot hangs in the air like a greasy black cloud.  The ramshackle housing is ill-kept, the windows boarded up or broken.  Dwarves clad in rags shuffle along without looking up.  From the shadows under a pile of rotting planks, a mangy cat stares out at you with dull red eyes."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1872": "northeast",
+      "1874": "climb fence"
+    },
+    "timeto": {
+      "1872": 0.2,
+      "1874": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002029
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      115,
+      1009,
+      151,
+      1045
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "8c0bd4cb330a00a3c300db558ced0eb9",
+  "room": {
+    "id": 21156,
+    "title": [
+      "[Rogue Guild, Sewers]"
+    ],
+    "description": [
+      "Pools of prismatic sunlight spill through the open manhole that is recessed into the ceiling, its colorful illumination creating moving patterns upon the smooth, cobblestone walls.  Rising through the opening, a rusted ladder provides egress from the area and is surrounded by large flakes of rust and bits of discarded fabric."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21154": "northwest",
+      "21157": "go ladder",
+      "21158": "east"
+    },
+    "timeto": {
+      "21154": 0.2,
+      "21157": 0.2,
+      "21158": 0.2
+    },
+    "uid": [
+      265008
+    ],
+    "image": "ifw-rogue_guild.png",
+    "image_coords": [
+      536,
+      472,
+      550,
+      487
+    ]
+  }
+}

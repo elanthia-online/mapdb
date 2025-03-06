@@ -1,0 +1,24 @@
+{
+  "checksum": "a5c6e35d563883c7fa8b3a88bc5391e7",
+  "room": {
+    "id": 27766,
+    "title": [
+      "[Faire of the North, Ice Floe]"
+    ],
+    "description": [
+      "The footpath ends abruptly at the shore of a shallow lake, an immense, jagged ice floe covering most of its surface and seizing any ambient light in the area.  Several large blocks of ice coated in frozen crystalline specks have been arranged to provide makeshift seating.  Snow dusts the untrodden parts of the footpath with a sparkling, diamond-like sheen."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "27765": "west",
+      "27785": "go snowcat tent"
+    },
+    "timeto": {
+      "27765": 0.2,
+      "27785": 0.2
+    }
+  }
+}

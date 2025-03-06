@@ -1,0 +1,29 @@
+{
+  "checksum": "3dcddf51432d5a7d2ff1d3616d926e26",
+  "room": {
+    "id": 24849,
+    "title": [
+      "[Zellyle's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A vine-carved mahogany table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "352": "out",
+      "25023": "south",
+      "25024": "north"
+    },
+    "timeto": {
+      "352": 0.2,
+      "25023": 0.2,
+      "25024": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

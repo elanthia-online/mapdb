@@ -1,0 +1,45 @@
+{
+  "checksum": "f4704defd332f0fe4aca67af431f65a4",
+  "room": {
+    "id": 33228,
+    "title": [
+      "[Stout Street Armory, Foyer]"
+    ],
+    "description": [
+      "A charging mule seal is picked out in mosaic tiles on the floor of the armory, worn by time and the passage of many feet.  A short, blocky desk of carved modwir guards the area before a riveted heavy steel door, kept meticulously free of dust and debris.  Lanterns suspended from the ceiling are unlit, but the smell of lamp oil lends a sweetly tart fragrance to the air."
+    ],
+    "paths": [
+      "Obvious paths: east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33227": "out",
+      "33229": "go door",
+      "33230": "west",
+      "33231": "east"
+    },
+    "timeto": {
+      "33227": 0.2,
+      "33229": 0.2,
+      "33230": 0.2,
+      "33231": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4043082
+    ],
+    "image": "imt-StoutStreetArmory-1674167988.png",
+    "image_coords": [
+      247,
+      230,
+      314,
+      291
+    ]
+  }
+}

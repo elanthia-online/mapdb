@@ -1,0 +1,51 @@
+{
+  "checksum": "49f505b73bff255fd7640c2a4e427920",
+  "room": {
+    "id": 12080,
+    "title": [
+      "[Old Ta'Faendryl, River Bank]"
+    ],
+    "description": [
+      "A thick blanket of reeds and marshy vegetation wends its way alongside the bank of the river.  The ground here is soggy due to the overflow of small rivulets of water from undulating waves seeking to escape the imprisoning walls of the rocky river bed."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "12077": "northwest",
+      "12078": "west",
+      "12081": "north",
+      "12085": "east"
+    },
+    "timeto": {
+      "12077": 0.2,
+      "12078": 0.2,
+      "12081": 0.2,
+      "12085": 0.2
+    },
+    "tags": [
+      "wood violet",
+      "aloeas stem",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004091
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      886,
+      284,
+      896,
+      294
+    ]
+  }
+}

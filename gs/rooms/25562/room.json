@@ -1,0 +1,32 @@
+{
+  "checksum": "6173639f841638451d00b5e9205dc6a7",
+  "room": {
+    "id": 25562,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "At this end of the passage, a single torch aids the traverse from total darkness and around the small piles of dirt.  Brushing past, a small rat scurries along the floor and disappears into a small hole in the nearby wall.  The shiny carapace of a cockroach glimmers in the subdued light as it makes its way towards a more damp location."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south, northwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25561": "southeast",
+      "25563": "northwest",
+      "25564": "south",
+      "25574": "east"
+    },
+    "timeto": {
+      "25561": 0.2,
+      "25563": 0.2,
+      "25564": 0.2,
+      "25574": 0.2
+    },
+    "uid": [
+      8213717
+    ],
+    "check_location": true
+  }
+}

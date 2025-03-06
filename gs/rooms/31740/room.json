@@ -1,0 +1,43 @@
+{
+  "checksum": "7ec4617bacbdf836b9a60c0131c68a6d",
+  "room": {
+    "id": 31740,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "A massive stone monolith peeks above a dense fog bank on the western shore, the rock topped with an empty nest like a small, shabby hat.  The turbid river bubbles here and there as it winds away gently to the southwest.  Hazy shapes along the eastern bank resemble a veritable army of treekin druids, the thickening patches of fog serving as their beards."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31739": "go shore",
+      "31814": "push sw",
+      "31817": "push ne"
+    },
+    "timeto": {
+      "31739": 0.2,
+      "31814": 0.2,
+      "31817": 4.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083396
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      944,
+      723,
+      967,
+      744
+    ]
+  }
+}

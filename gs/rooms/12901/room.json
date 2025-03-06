@@ -1,0 +1,36 @@
+{
+  "checksum": "487792ab7dfb28ec3266c52b2fb57aab",
+  "room": {
+    "id": 12901,
+    "title": [
+      "[Velathae, North Sunset Street]"
+    ],
+    "description": [
+      "A wide intersection has been cleared to the north, allowing access to and from the outskirts of town.  Small, incomplete stone fences line the road as it splits in an attempt to bar access to the area's small gardens, yards, and homes.  A wooden hut stands to the south, contrasting oddly with the stone architecture that surrounds it."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12900": "north",
+      "12929": "west",
+      "12930": "east"
+    },
+    "timeto": {
+      "12900": 0.2,
+      "12929": 0.2,
+      "12930": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ],
+    "image_coords": [
+      787,
+      254,
+      815,
+      282
+    ]
+  }
+}

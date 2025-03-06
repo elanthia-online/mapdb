@@ -1,0 +1,45 @@
+{
+  "checksum": "1030f05aeeb44161bdecad15ca89ed2d",
+  "room": {
+    "id": 29531,
+    "title": [
+      "[Clovertooth, West Colonnade]"
+    ],
+    "description": [
+      "Extending from the east, the wide hallway is framed by high columns of white granite.  A carved grey stone bench covered with blackworked cushions sits low to the floor by the door to the town bondsman's office.  An old oil painting hangs on the south wall near a riverstone-framed arch that leads into the surveyor's suite."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2438": "go door",
+      "18246": "south",
+      "21689": "east",
+      "29532": "go arch"
+    },
+    "timeto": {
+      "2438": 0.2,
+      "18246": 0.2,
+      "21689": 0.2,
+      "29532": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043038
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      394,
+      1370,
+      480,
+      1462
+    ]
+  }
+}

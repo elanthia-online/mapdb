@@ -1,0 +1,43 @@
+{
+  "checksum": "1caee3b412c1f5555b3f94d5fec6ff4b",
+  "room": {
+    "id": 8782,
+    "title": [
+      "[Tiger Court, Lynx Circle]"
+    ],
+    "description": [
+      "The cobblestone road circles around a carved stone fountain to the east and south, branching off into a narrow lane to the west.  Gaily colored beds of lilies and petunias are planted by the side of the lane and around the fountain, and neatly trimmed hedges surround the cottages arranged around the circle."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8781": "west",
+      "8783": "south",
+      "8791": "east"
+    },
+    "timeto": {
+      "8781": 0.2,
+      "8783": 0.2,
+      "8791": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      700258
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      271,
+      1137,
+      289,
+      1155
+    ]
+  }
+}

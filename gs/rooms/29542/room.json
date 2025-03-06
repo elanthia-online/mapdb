@@ -1,0 +1,43 @@
+{
+  "checksum": "b9082a18dd386d9b5c99290ec3449d80",
+  "room": {
+    "id": 29542,
+    "title": [
+      "[Clovertooth Hall, Upper Gallery]"
+    ],
+    "description": [
+      "Rising from a natural stone fountain set into northern wall, the sound of trickling water provides a backdrop of pleasant crystalline music to the bustling space, feeding an overgrown tangle of iceblossoms in a curved planter at the base.  Next to the burbling font, a chiseled marble arch leads into the mayor's office suit.  A stern halfling guard watches over the area, her posture tense despite the calming surroundings."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29537": "southwest",
+      "29539": "southeast",
+      "29543": "go arch"
+    },
+    "timeto": {
+      "29537": 0.2,
+      "29539": 0.2,
+      "29543": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043045
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      586,
+      796,
+      672,
+      882
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "4c93afe58ff0e5198c3d84ba1136d722",
+  "room": {
+    "id": 23201,
+    "title": [
+      "[Timor's House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23200": "north",
+      "23207": "south"
+    },
+    "timeto": {
+      "23200": 0.2,
+      "23207": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001210
+    ],
+    "unique_loot": [
+      "grey curtain with the sigil of Moonstone Abbey"
+    ]
+  }
+}

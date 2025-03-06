@@ -1,0 +1,42 @@
+{
+  "checksum": "0b433917b0cc0ee6cb213deec098d030",
+  "room": {
+    "id": 3778,
+    "title": [
+      "[Adventurer's Guild, Lobby]"
+    ],
+    "description": [
+      "Complex layers of stacked stone, ranging in color from palest grey to nearly solid black, form the entire rear wall into one massive fireplace.  The flames spread their welcome warmth throughout the greatroom, warding off the chill let in by the constant comings and goings of guild members.  Enormous tusked and horned heads of the fierce beasts of the north are mounted along the east wall, gazing at the rest of the guild through glass eyes."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "the Adventurer's Guild",
+    "wayto": {
+      "2427": "out",
+      "3779": "west",
+      "30709": "/rooms/3778/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2427": 0.2,
+      "3779": 0.2,
+      "30709": "/rooms/3778/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin guide bounty",
+      "urchin-access",
+      "bounty"
+    ],
+    "uid": [
+      15004001
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      998,
+      970,
+      1064,
+      1033
+    ]
+  }
+}

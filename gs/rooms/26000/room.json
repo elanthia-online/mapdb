@@ -1,0 +1,45 @@
+{
+  "checksum": "c44322ee31667b54de40e8d79954d3d5",
+  "room": {
+    "id": 26000,
+    "title": [
+      "[Isharn Enclave, Courtyard]"
+    ],
+    "description": [
+      "Sunlight seethes through the branches of a huge, spiraling black lor sprouting from a raised planter at the courtyard's center.  The old stalwart long ago overgrew its boundaries, its gnarled roots spreading out to crack the surrounding paving stones in their unfettered growth.  Leaves the color of molten silver gleam from the stygian branches while their duller, deader cousins scurry underfoot at the breeze's urging.  The courtyard is enclosed by a low villa with iron-riveted doors and sloped rooftops."
+    ],
+    "paths": [
+      "Obvious paths: southeast, out"
+    ],
+    "location": "New Ta'Faendryl",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "665": "/rooms/26000/wayto/stringproc-665.rb",
+      "26001": "/rooms/26000/wayto/stringproc-26001.rb",
+      "26002": "/rooms/26000/wayto/stringproc-26002.rb"
+    },
+    "timeto": {
+      "665": 0.2,
+      "26001": 0.2,
+      "26002": 0.2
+    },
+    "tags": [
+      "meta:mapname:Elven Nations - Ta'Illistim - Isharn Enclave",
+      "meta:mapshortname:Isharn Enclave",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:MHO",
+      "no forageables"
+    ],
+    "uid": [
+      158101
+    ],
+    "image": "en-ta_illistim-isharn_enclave-1648064027.png",
+    "image_coords": [
+      673,
+      321,
+      970,
+      577
+    ]
+  }
+}

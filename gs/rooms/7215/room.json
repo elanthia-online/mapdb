@@ -1,0 +1,47 @@
+{
+  "checksum": "0ef9904b42007c9827ce28b22f691c56",
+  "room": {
+    "id": 7215,
+    "title": [
+      "[Underbarrow, Tunnels]"
+    ],
+    "description": [
+      "The steady drip of water echoes in the bleak rock chamber.  The scents of must and decay fill your nose, hanging heavy in the stagnant air.  Large blocks of grey stone have tumbled from the ceiling and walls, piling against the ancient arch that seems to lead out of the tunnels."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7214": "go arch",
+      "7216": "southeast"
+    },
+    "timeto": {
+      "7214": 0.2,
+      "7216": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162113
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      597,
+      188,
+      607,
+      198
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "checksum": "482f40f1c693541b0b54d075747a2cdd",
+  "room": {
+    "id": 26151,
+    "title": [
+      "[Reim Fortress, Heart]"
+    ],
+    "description": [
+      "The heart of the fortress is fed by four connecting passageways from the north, south, east, and west.  A glowing pylon perched on an elaborately carved stone platform emits a low hum that reverberates throughout the entire fortress.  Tendrils of viridian light spill from the crystal mechanism and snake through the air down all four corridors."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west",
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "26143": "south",
+      "26152": "west",
+      "26155": "north",
+      "26170": "east"
+    },
+    "timeto": {
+      "26143": 0.2,
+      "26152": 0.2,
+      "26155": 0.2,
+      "26170": 0.2
+    },
+    "tags": [
+      "pylon",
+      "meta:map:multi-uid",
+      "no forageables"
+    ],
+    "uid": [
+      7107073,
+      7107123,
+      7107173,
+      7107223,
+      7107273,
+      7107323,
+      7107373,
+      7107423,
+      7107473,
+      7107523,
+      7107573,
+      7107623,
+      7107673,
+      7107723,
+      7107773,
+      7107823
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      551,
+      296,
+      586,
+      331
+    ]
+  }
+}

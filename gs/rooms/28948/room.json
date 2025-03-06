@@ -1,0 +1,31 @@
+{
+  "checksum": "97a26b63403bc432b32ee85dd581e364",
+  "room": {
+    "id": 28948,
+    "title": [
+      "[The Sea Hag's Roost, Landing]"
+    ],
+    "description": [
+      "A large brass sea hag figurine, handsomely tarnished by time and the ocean air, sits atop the banister as if to greet guests on their way to their rooms.  A smattering of sand has collected between the planks of this landing's otherwise tidy bare wood floors.  Clinking tankards, merry voices, and other muffled sounds of life drift in from downstairs."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28946": "go staircase",
+      "28949": "north",
+      "29102": "go green-trimmed door",
+      "29103": "go red-trimmed door"
+    },
+    "timeto": {
+      "28946": 0.2,
+      "28949": 0.2,
+      "29102": 0.2,
+      "29103": 0.2
+    },
+    "uid": [
+      7118312
+    ]
+  }
+}

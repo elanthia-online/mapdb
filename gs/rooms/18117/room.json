@@ -1,0 +1,39 @@
+{
+  "checksum": "a25972cbeec000e8139a037e70aa5ed5",
+  "room": {
+    "id": 18117,
+    "title": [
+      "[Sorcerer Guild, Planetarium]"
+    ],
+    "description": [
+      "This sturdy pine platform rises fifty feet into the air, considerably higher than most of the surrounding terrain.  The platform has been painted black to absorb as much ambient light as possible, and the sides of the platform are walled to a height of four feet to shut off reflected light from below.  Under a nearby overhang, several charts depict the nighttime constellations along with descriptions of the most popular ones.  A gusty sea breeze causes the platform to sway somewhat precariously."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "18114": "climb ramp",
+      "18118": "go overhang",
+      "18894": "/rooms/18117/wayto/stringproc-18894.rb"
+    },
+    "timeto": {
+      "18114": 0.2,
+      "18118": 0.2,
+      "18894": 0.3
+    },
+    "tags": [
+      "meta:prof:sorcerer"
+    ],
+    "uid": [
+      661010
+    ],
+    "image": "wl-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      202,
+      619,
+      243,
+      658
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "52a5635283d906edd49050ef2b7a0618",
+  "room": {
+    "id": 29608,
+    "title": [
+      "[Earth Tower, Elemental Masters]"
+    ],
+    "description": [
+      "Desks have been crowded together into this small room, each a working area for a master on duty.  Piles of neverending paperwork are stacked high on each desk, some more neatly than others."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "29580": "southeast",
+      "30540": "ask nace about train alchemy"
+    },
+    "timeto": {
+      "29580": 0.2,
+      "30540": 0.2
+    },
+    "tags": [
+      "wizard alchemy masters",
+      "wizard guild masters"
+    ],
+    "uid": [
+      686017
+    ],
+    "image": "ifw-wizard_guild-1619773727.png",
+    "image_coords": [
+      370,
+      1107,
+      400,
+      1136
+    ]
+  }
+}

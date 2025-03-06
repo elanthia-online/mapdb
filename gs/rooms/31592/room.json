@@ -1,0 +1,49 @@
+{
+  "checksum": "599ff43c4a90d86c008efd77d828fe6b",
+  "room": {
+    "id": 31592,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Surrounded by bright lanterns, a sprawling manor gazes upon the open canal and bridges with dark windows and shadowed gables.  Blue-green grasses decorate the lawn, growing duskier the further they are from the violet-sheened light, while bushes dabbled with blossoms form a corridor leading to the manor's entry.  A well-trodden cobblestone pathway cuts through the streets to the east of the structure, while a dull green moss-covered stone arch connects the manor to its nearest neighbor."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31569": "go bridge",
+      "31591": "go arch",
+      "31598": "west",
+      "31603": "go pathway",
+      "31605": "go manor",
+      "31607": "northeast"
+    },
+    "timeto": {
+      "31569": 0.2,
+      "31591": 0.2,
+      "31598": 0.2,
+      "31603": 0.2,
+      "31605": 0.2,
+      "31607": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "no forageables"
+    ],
+    "uid": [
+      8083005
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      603,
+      435,
+      625,
+      455
+    ]
+  }
+}

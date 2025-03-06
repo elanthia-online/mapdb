@@ -1,0 +1,51 @@
+{
+  "checksum": "03f8cb4cacd0ea9c0de20d173f22f269",
+  "room": {
+    "id": 13048,
+    "title": [
+      "[Ta'Illistim, Alearyl Hall]"
+    ],
+    "description": [
+      "High, corbeled arches give way to elaborately frescoed ceiling partitions, each glorified in hues of majestic purple, grey, and blue.  The floor is highly polished, matching the blue-grey granite common among other Ta'Illistim architecture.  A massive, maoral desk consumes a great portion of the room's far end and beyond it stands an iron-bound door along the southwest wall.  Two guards carefully watch those who pass through the hall."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1767": "go door",
+      "13047": "out",
+      "13049": "east",
+      "13050": "west",
+      "30714": "/rooms/13048/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "1767": 0.2,
+      "13047": 0.2,
+      "13049": 0.2,
+      "13050": 0.2,
+      "30714": "/rooms/13048/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin guide bounty",
+      "urchin-access",
+      "bounty",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      15005002
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      1608,
+      2562,
+      1676,
+      2627
+    ]
+  }
+}

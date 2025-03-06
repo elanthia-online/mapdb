@@ -1,0 +1,40 @@
+{
+  "checksum": "399eafa28fb7d9a2b8dd38e9a3565691",
+  "room": {
+    "id": 32876,
+    "title": [
+      "[Brisker's Cove, Comyner's Gates]"
+    ],
+    "description": [
+      "Converging to a point in the north, the New Ward Wall and Old Ward Wall meet at the wide stone entry of the Comyner's Gates.  Large double-wide doors of reinforced ironwood, heavily scarred and positively ancient, stand open, their heavy bronze and steel hinges dappled with tarnish and rust.  Large wrought iron brackets hold torches aloft, their flickering fires illuminating the area."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32875": "go doors",
+      "32877": "south"
+    },
+    "timeto": {
+      "32875": 0.2,
+      "32877": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140010
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      441,
+      99,
+      456,
+      112
+    ]
+  }
+}

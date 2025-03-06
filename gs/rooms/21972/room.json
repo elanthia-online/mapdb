@@ -1,0 +1,31 @@
+{
+  "checksum": "fcc566d11a09780ef2bc78e173b07e72",
+  "room": {
+    "id": 21972,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "A large parchment map has been tacked into a wall with the broken blade of a pickaxe, but the map's details have all faded with time.  A bucket has been overturned nearby, its wooden frame warped and rotted."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21971": "west",
+      "21973": "northeast"
+    },
+    "timeto": {
+      "21971": 0.2,
+      "21973": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      867,
+      229,
+      881,
+      243
+    ]
+  }
+}

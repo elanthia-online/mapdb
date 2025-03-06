@@ -1,0 +1,24 @@
+{
+  "checksum": "8231b660819deeeee1e400b2f8e210ba",
+  "room": {
+    "id": 28427,
+    "title": [
+      "[The Jolly Geode]"
+    ],
+    "description": [
+      "The dark, musty cell is nearly barren with the exception of a small rusted shelf in the corner.  There is a distinct foul odor, which seems to emanate from a murky puddle pooling along the outer wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "28422": "out",
+      "28428": "go large door"
+    },
+    "timeto": {
+      "28422": 0.2,
+      "28428": 0.2
+    }
+  }
+}

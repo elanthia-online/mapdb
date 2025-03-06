@@ -1,0 +1,55 @@
+{
+  "checksum": "aa24442fd5bc99911b6d4753445163bf",
+  "room": {
+    "id": 12173,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The floor beneath you gives way, nearly trapping your foot in the stringy substance.  Looking down, you see a pocket of blackened tissue, destroyed by the hungry mouths of the worms.  Black ooze wells up from it, and the smell is horrible, making you choke and gag."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west",
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2579": "/rooms/12173/wayto/stringproc-2579.rb",
+      "12160": "northeast",
+      "12206": "southeast",
+      "12208": "west"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12160": 0.2,
+      "12206": 0.2,
+      "12208": 0.2
+    },
+    "tags": [
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "fleshsore bulb",
+      "oozing fleshsore bulb",
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570009
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      937,
+      1108,
+      947,
+      1118
+    ]
+  }
+}

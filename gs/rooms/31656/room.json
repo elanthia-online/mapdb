@@ -1,0 +1,41 @@
+{
+  "checksum": "fdcb2e1baf996dff6614621644dfff9b",
+  "room": {
+    "id": 31656,
+    "title": [
+      "[Gleyminn Anni River, Pool]"
+    ],
+    "description": [
+      "Formed by an ancient landslide, the river waters flow into a substantial pool before tumbling down over a natural dam in a crooked line of rocks.  High on an illuminated ridge, an extensive orchard filled with apple and nut trees glows like a smoldering ember against the darkened hills.  A small fleet of boats are left unattended near the shore."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31655": "go shore",
+      "31844": "/rooms/31656/wayto/stringproc-31844.rb"
+    },
+    "timeto": {
+      "31655": 0.2,
+      "31844": 3.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083428
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1787,
+      452,
+      1813,
+      476
+    ]
+  }
+}

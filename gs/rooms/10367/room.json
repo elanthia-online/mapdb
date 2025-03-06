@@ -1,0 +1,34 @@
+{
+  "checksum": "f03b4c8332cd85813746a4059c0cbed3",
+  "room": {
+    "id": 10367,
+    "title": [
+      "[The Ta'Vaalor Weaponry]"
+    ],
+    "description": [
+      "The aromatic scent of oil and leather fills the air.  Trimmed with faenor metal, a well-crafted solid oak counter dominates the length of this shop.  Skillfully wrought and forged from rare, exotic material and hanging from metal supports in the walls is an assemblage of various weapons of war.  They have been artfully arranged in geometric patterns.  A black-inked sign is directly above an executioner's axe, which is leaning in the corner behind the counter."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3526": "out",
+      "30713": "/rooms/10367/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3526": 0.2,
+      "30713": "/rooms/10367/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons",
+      "warrior guild sheet metal"
+    ],
+    "uid": [
+      14103025
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "checksum": "ff8209f3108162460a5433c2ef225778",
+  "room": {
+    "id": 8537,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The mist seems to lift slightly in this area and you are afforded a view of a large pool of bubbling dark water.  The trail seems to follow along the banks of the water and you find the black depths to be both fascinating and hideous."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "8536": "/rooms/8537/wayto/stringproc-8536.rb",
+      "8538": "/rooms/8537/wayto/stringproc-8538.rb"
+    },
+    "timeto": {
+      "8536": 5,
+      "8538": 5
+    },
+    "tags": [
+      "water chestnut",
+      "stalk of cattail",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "small wild rose",
+      "sunburst blossom",
+      "wavepetal blossom",
+      "calamia fruit",
+      "haphip root",
+      "trollfear mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "genkew mushroom",
+      "wild gooseberry",
+      "kylan berry",
+      "blue whortleberry",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "broken twig",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16008
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      900,
+      652,
+      910,
+      662
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "93e124f024ed46d783e2e79315e186e1",
+  "room": {
+    "id": 31304,
+    "title": [
+      "[Iyo Glade, Meadow]"
+    ],
+    "description": [
+      "The grassy trail is slicked down from heavy foot traffic, but despite the humid conditions there is no mud to speak of.  A spongy layer of moss cushions every footfall while also reducing the ambient noise in the area.  The trail splits here, encircling a large pond fed from a small stream trickling in from the jungle.  Cattails dot the banks of the pond, and a large oak tree stands on the far bank, offering a bit of shade in this otherwise open expanse."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "31275": "west",
+      "31299": "northeast",
+      "31305": "go makeshift hut",
+      "31306": "go pink wagon",
+      "31307": "southeast",
+      "33487": "go star wagon"
+    },
+    "timeto": {
+      "31275": 0.2,
+      "31299": 0.2,
+      "31305": 0.2,
+      "31306": 0.2,
+      "31307": 0.2,
+      "33487": 0.2
+    },
+    "uid": [
+      4410006
+    ],
+    "image": "fest-Iyo_Glade-1657378562.png",
+    "image_coords": [
+      605,
+      627,
+      660,
+      681
+    ]
+  }
+}

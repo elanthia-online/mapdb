@@ -1,0 +1,56 @@
+{
+  "checksum": "55e4db7abc520085809fa451c7bce22d",
+  "room": {
+    "id": 2426,
+    "title": [
+      "[Icemule Trace, East Road]"
+    ],
+    "description": [
+      "A pair of town guards are stationed outside the archway leading into the town's bank.  One halfling guard seems to be dozing on his stool, while the other keeps a close and wary eye on the foot traffic flowing past.  The bank is a tall building, its clapboard exterior painted a bright wintry blue that complements its dark slate-shingled roof.  Several krolvin sailors count their money nearby, using the top of an old oaken hogshead to stack coins familiar and strange.",
+      "A pair of guards lean back against the the archway of the bright blue building housing the Icemule Trace branch of the First Elanith Bank.  One guard seems to be dozing on his stool, while the other keeps a close and wary eye on the traffic flowing past.",
+      "A pair of guards lean back against the archway of the bright blue building housing the Icemule Trace branch of the First Elanith Bank.  One guard seems to be dozing on his stool, while the other keeps a close and wary eye on the traffic flowing past."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2300": "west",
+      "2423": "south",
+      "2427": "east",
+      "3370": "go archway",
+      "3668": "/rooms/2426/wayto/stringproc-3668.rb",
+      "26905": "/rooms/2426/wayto/stringproc-26905.rb",
+      "31558": "/rooms/2426/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "2300": 0.2,
+      "2423": 0.2,
+      "2427": 0.2,
+      "3370": 0.2,
+      "3668": "/rooms/2426/timeto/stringproc-3668.rb",
+      "26905": 2400,
+      "31558": "/rooms/2426/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "trash",
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:teleport",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      4042301
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      672,
+      786,
+      708,
+      822
+    ]
+  }
+}

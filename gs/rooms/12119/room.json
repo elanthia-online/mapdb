@@ -1,0 +1,56 @@
+{
+  "checksum": "29a72f15335bd53c2ed275424f805901",
+  "room": {
+    "id": 12119,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A knight in black armor rides through a crowd, his black steed prancing with ringing steps.  In his hand he holds a staff, topped with the head of a vanquished foe.  Five footsoldiers march beside him, holding similarly adorned staves.  Despite the hard and cruel expression on the knight's face, the crowd seems to adore him, cheering and throwing dead roses in his path."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12140": "northwest",
+      "12207": "/rooms/12119/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12119/wayto/stringproc-12235.rb",
+      "12252": "southeast"
+    },
+    "timeto": {
+      "12140": 0.2,
+      "12207": 11.4,
+      "12235": 11.4,
+      "12252": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569002
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      541,
+      1127,
+      551,
+      1137
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "ca1a73aa200c1e4173aa4cd83ec08b79",
+  "room": {
+    "id": 28871,
+    "title": [
+      "[Wandering Eye Market, North]"
+    ],
+    "description": [
+      "Starlight illuminates the sky, though the moons never truly show their faces this close to the sheer cliff wall that stretches towards the sky.  Purple clover blossoms grow between the dark cobblestones, and tangled flaeshorn vines strive for the peak.  Smaller stalls, dark and secretive, have popped up in the shadow of the cliff, while an enormous iron-bound door is built directly into its craggy face.  A small oak and stucco shop rests on the far southern edge of the square.",
+      "Sunlight peeks over the lip, though it never truly shows its face this close to the sheer cliff wall that stretches towards the sky.  Purple clover blossoms grow between the dark cobblestones as tangled flaeshorn vines strive for the peak.  Smaller stalls, dark and secretive, have popped up in the shadow of the cliff, while an enormous iron-bound door is built directly into its craggy face.  A small oak and stucco shop rests on the far southern edge of the square.",
+      "Starlight bathes the cobblestone lane in a silver sheen, while dark shadows created by the looming presence of a high cliff vie for dominance.  A large two-story inn to the west lends its hulking form to the battle for darkness by looming over the smaller cottages built along the eastern edge.  Removed from the fight, a southern slip of road leads closer to the ocean and is the home of a sprawling stone-sided complex."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28813": "south",
+      "28872": "west",
+      "28908": "east",
+      "28957": "go iron door",
+      "29096": "go oak shop",
+      "30716": "/rooms/28871/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28813": 0.2,
+      "28872": 0.2,
+      "28908": 0.2,
+      "28957": 0.2,
+      "29096": 0.2,
+      "30716": "/rooms/28871/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118212
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      405,
+      306,
+      420,
+      319
+    ]
+  }
+}

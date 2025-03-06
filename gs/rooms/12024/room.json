@@ -1,0 +1,45 @@
+{
+  "checksum": "635ddb20e8549f3be99d28ee80178803",
+  "room": {
+    "id": 12024,
+    "title": [
+      "[Old Ta'Faendryl, Amphitheatre]"
+    ],
+    "description": [
+      "Broken stone slabs sliding down a steep incline is all that remains of the tiered benches that once ran along the eastern side of a wide field.  A narrow platform along the edge of a retaining wall leads to the northwest and south."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12021": "climb slab",
+      "12023": "south",
+      "12025": "northwest",
+      "12045": "climb steps"
+    },
+    "timeto": {
+      "12021": 0.2,
+      "12023": 0.2,
+      "12025": 0.2,
+      "12045": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004049
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1049,
+      501,
+      1059,
+      511
+    ]
+  }
+}

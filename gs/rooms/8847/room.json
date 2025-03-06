@@ -1,0 +1,41 @@
+{
+  "checksum": "1f73a3dc4d164fddd7d4e12134840578",
+  "room": {
+    "id": 8847,
+    "title": [
+      "[Goblin Road, Alleyway]"
+    ],
+    "description": [
+      "The cobblestones turn through an area of tightly clustered cottages set across from a high wooden fence that borders the street, forming a narrow alleyway.  Some local artist has painted the fence with a fanciful mural of a group of trolls and giants engaged in some bloody sport.  Clumps of grass and a few weeds grow along the fence and between the old cobblestones."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8846": "northeast",
+      "8848": "south"
+    },
+    "timeto": {
+      "8846": 0.2,
+      "8848": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      701353
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      73,
+      721,
+      93,
+      741
+    ]
+  }
+}

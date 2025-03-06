@@ -1,0 +1,42 @@
+{
+  "checksum": "8ac0aa0c90d23d39a7c094f6321c64bf",
+  "room": {
+    "id": 2384,
+    "title": [
+      "[Underground Tunnel]",
+      "[Magical Burrow, Tunnelway]"
+    ],
+    "description": [
+      "An acrid scent, not entirely natural, travels through the air in a biting undercurrent.  Tangled roots hang from the walls, while a few larger ones stretch across the ground, making the terrain difficult but not impassable.  Fog mostly conceals the obstacles, but here and there, a gnarled tangle breaches through the mist.  To the south, an opening in the roots offers access to a shop occupying a well-lit burrow.",
+      "Tangled roots hang from the walls while a few larger ones lie on the ground, making walking difficult.  To the south, you can see an opening in the roots that looks like some sort of burrow."
+    ],
+    "paths": [
+      "Obvious exits: north",
+      "Obvious exits: south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2383": "south",
+      "2385": "go burrow"
+    },
+    "timeto": {
+      "2383": 0.2,
+      "2385": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042124
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1203,
+      170,
+      1213,
+      180
+    ]
+  }
+}

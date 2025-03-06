@@ -1,0 +1,31 @@
+{
+  "checksum": "dcc53db5565ca38304c880fb9ccaff47",
+  "room": {
+    "id": 30655,
+    "title": [
+      "[Zul Logoth Hall, Tunnel]"
+    ],
+    "description": [
+      "A half-dozen torches, some extinguished, line the tunnel walls.  Shadows dance and play along the path in a silent game of tag.  On each side of the tunnel stands a curtained arch, one draped in red and the other in grey."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "30654": "south",
+      "30656": "go grey arch",
+      "30657": "go red arch",
+      "30659": "east"
+    },
+    "timeto": {
+      "30654": 0.2,
+      "30656": 0.2,
+      "30657": 0.2,
+      "30659": 0.2
+    },
+    "uid": [
+      856004
+    ]
+  }
+}

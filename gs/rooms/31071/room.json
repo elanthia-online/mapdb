@@ -1,0 +1,36 @@
+{
+  "checksum": "808a85e824a7676fefa92db99e07e382",
+  "room": {
+    "id": 31071,
+    "title": [
+      "[Seethe Naedal, Way Station]"
+    ],
+    "description": [
+      "Standing to the side of a small wooden cabin is a large corral of mules, their braying echoing across the mountainside.  Drifts of snow brush up against a crude log building tucked against the rocky hillside.  A chill wind blows about the plateau, swirling snowflakes throughout the air with icicles hanging from most surfaces."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31070": "go rocky path",
+      "31072": "go log building",
+      "31073": "go wooden cabin"
+    },
+    "timeto": {
+      "31070": 0.2,
+      "31072": 0.2,
+      "31073": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13205101
+    ]
+  }
+}

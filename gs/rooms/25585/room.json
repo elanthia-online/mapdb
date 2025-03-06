@@ -1,0 +1,30 @@
+{
+  "checksum": "b83ce4099daf761d2df2095a079b7be5",
+  "room": {
+    "id": 25585,
+    "title": [
+      "[Mess Hall, Dining Area]"
+    ],
+    "description": [
+      "Numerous long oak tables line this large open hall, neatly lined in two rows along the breadth of the room.  A fair number of soldiers can be seen, most sitting and enjoying a hearty meal, while a few stand as they quickly eat a small snack.  At the very north end of the room are a number of large buffets, hosting a variety of foods for any appetite."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "3500": "out",
+      "25584": "north"
+    },
+    "timeto": {
+      "3500": 0.2,
+      "25584": 0.2
+    },
+    "tags": [
+      "meta:Crimson Legion"
+    ],
+    "uid": [
+      14102301
+    ]
+  }
+}

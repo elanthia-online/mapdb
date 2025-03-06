@@ -1,0 +1,50 @@
+{
+  "checksum": "802c56fccd1a493dba08431b6ec1e5b5",
+  "room": {
+    "id": 7063,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Assorted rubble--dirt, bones, and other debris--has been dug up from the ground beneath the dungeon, revealing a network of tunnels.  Sections of the tunnel are wide, others narrow and in danger of imminent collapse."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7062": "northeast",
+      "7064": "southwest",
+      "7070": "climb rubble"
+    },
+    "timeto": {
+      "7062": 0.2,
+      "7064": 0.2,
+      "7070": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42500
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      242,
+      926,
+      252,
+      936
+    ]
+  }
+}

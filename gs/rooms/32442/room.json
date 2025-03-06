@@ -1,0 +1,41 @@
+{
+  "checksum": "ec9cc2bc23524adc63a3ad65635ac915",
+  "room": {
+    "id": 32442,
+    "title": [
+      "[Moonsedge, Castle Approach]"
+    ],
+    "description": [
+      "The walls of the castle are high and crenellated, vaulting far overhead.  Cut and carved from dark basalt, they are etched with a bas-relief moon and briar emblem over a heavy steel portcullis that appears to be the primary means of entering the castle grounds.  Banners in scarlet and charcoal fabric bear the same device, flapping forlornly overhead on the cold highland breeze."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32440": "northwest",
+      "32443": "go port"
+    },
+    "timeto": {
+      "32440": 0.2,
+      "32443": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577106
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      503,
+      768,
+      521,
+      787
+    ]
+  }
+}

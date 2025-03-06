@@ -1,0 +1,30 @@
+{
+  "checksum": "75a88b86758556791c6c2e60e4a505c9",
+  "room": {
+    "id": 22105,
+    "title": [
+      "[Bard Guild, Entry Hall]"
+    ],
+    "description": [
+      "Just beyond a heavy wooden door leading back out onto the street lurks a warm, if not exceptionally spacious hallway with walls and ceiling of raw timber graced here and there by golden musical notes.  Several oil lamps hang from the beams, providing small pools of golden illumination leading to a little shop occupying a nook in the western wall.  The sounds of music drift upward from the darkened depths of a broad curving staircase, occasionally punctuated by bursts of laughter.",
+      "Snow is packed tightly between thick wooden support beams, creating a cocoon of warmth inside the snowdrift.  Several oil lamps hang from the beams, providing small pools of golden illumination on the packed snowy floor.  The sounds of music drift upward from the darkened depths of a broad curving staircase, occasionally punctuated by bursts of laughter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2408": "go door",
+      "22100": "go staircase",
+      "34403": "go little shop"
+    },
+    "timeto": {
+      "2408": 0.2,
+      "22100": 0.2,
+      "34403": 0.2
+    },
+    "uid": [
+      280001
+    ]
+  }
+}

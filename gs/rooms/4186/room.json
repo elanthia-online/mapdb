@@ -1,0 +1,39 @@
+{
+  "checksum": "cf588f100378a040321e4f397cafdfca",
+  "room": {
+    "id": 4186,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "This room is empty except for a few bloody barrels used to transport something, which are empty now but caked with dried blood.  A small cart in the corner is used to usher the barrels around, presumably when they are full."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4185": "south",
+      "4187": "north"
+    },
+    "timeto": {
+      "4185": 0.2,
+      "4187": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138126
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      837,
+      1100,
+      847,
+      1110
+    ]
+  }
+}

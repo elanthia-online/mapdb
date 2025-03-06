@@ -1,0 +1,42 @@
+{
+  "checksum": "a38d03d296dc9c6fb4fd50f8be2cd6c2",
+  "room": {
+    "id": 23337,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "The tunnel ends abruptly at a jagged wall that rises up to a stone ceiling.  Cobwebs shimmer from the light of a nearby torch, which also dimly illuminates a stained steel ladder leading up."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6929": "go ladder",
+      "23336": "west"
+    },
+    "timeto": {
+      "6929": 0.2,
+      "23336": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336785
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      591,
+      74,
+      627,
+      113
+    ]
+  }
+}

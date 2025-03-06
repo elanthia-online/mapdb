@@ -1,0 +1,41 @@
+{
+  "checksum": "30bfa420476f76550d3f913d16b1d05d",
+  "room": {
+    "id": 3020,
+    "title": [
+      "[Snow Fort, Battlement]"
+    ],
+    "description": [
+      "Ensconced torches glow with a magical blue fire, casting a cold light out over the battlement.  High above the tundra now, it seems all of Elanthia stretches out below you."
+    ],
+    "paths": [
+      "Obvious paths: east, down"
+    ],
+    "location": "the High Plains",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3019": "down",
+      "3021": "east"
+    },
+    "timeto": {
+      "3019": 0.2,
+      "3021": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129107
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      489,
+      794,
+      499,
+      804
+    ]
+  }
+}

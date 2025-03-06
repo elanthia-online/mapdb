@@ -1,0 +1,45 @@
+{
+  "checksum": "3d1b89781d3be0ec66e268333c561512",
+  "room": {
+    "id": 274,
+    "title": [
+      "[House Brigatta, Lane]"
+    ],
+    "description": [
+      "Stepping into the lane, you stand in front of a cozy looking, trim house of modest proportions.  A small brass sign, neatly engraved, announces: House Brigatta.",
+      "At the end of the lane stands a cozy-looking, trim house of modest proportions with a neatly painted door bearing a polished brass bell.  A small brass sign, neatly engraved, announces, \"House Brigatta.\"  A garden path leads through a rose-vined, wrought iron gate."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "273": "south",
+      "21304": "go door",
+      "24060": "go wrought gate"
+    },
+    "timeto": {
+      "273": 0.2,
+      "21304": 0.2,
+      "24060": 0.2
+    },
+    "tags": [
+      "brigatta",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      107100
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      660,
+      439,
+      693,
+      472
+    ]
+  }
+}

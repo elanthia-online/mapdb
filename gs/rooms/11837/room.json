@@ -1,0 +1,56 @@
+{
+  "checksum": "2f698a5a5d5fd7ebef86d033678cd78b",
+  "room": {
+    "id": 11837,
+    "title": [
+      "[Old Ta'Faendryl, South]"
+    ],
+    "description": [
+      "A dense jumble of collapsed walls and toppled pillars gives way to a scattering of stone blocks spread across an open plaza to the west.  A flight of wide stone steps leads up to the back of a building that is perched upon base of stone."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11836": "west",
+      "11838": "go steps",
+      "11855": "east"
+    },
+    "timeto": {
+      "11836": 0.2,
+      "11838": 0.2,
+      "11855": 0.2
+    },
+    "tags": [
+      "small rose",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004077
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      889,
+      919,
+      899,
+      929
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "7eeb48573cb9df1b5ca5aa79114a5eca",
+  "room": {
+    "id": 13523,
+    "title": [
+      "[Bacl's Magic Shoppe]",
+      "[Bacl's General Store]"
+    ],
+    "description": [
+      "An Arkati pantheon painting hangs on one of the refined oak-paneled walls, and a viridian Vornavian silk ceiling rises overhead.  A scarred ship's figurehead sits in one corner of a varnished dark oak floor.  There is a glass-topped mistwood counter on one side of the shop and a set of carved felwood shelves on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "9008": "out",
+      "13531": "west",
+      "13535": "east"
+    },
+    "timeto": {
+      "9008": 0.2,
+      "13531": 0.2,
+      "13535": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

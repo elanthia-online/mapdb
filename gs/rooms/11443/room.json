@@ -1,0 +1,43 @@
+{
+  "checksum": "370c9014a9543b35bcb7d462754abcbd",
+  "room": {
+    "id": 11443,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The green, foam-flecked waters of Maelstrom Bay stretch out in all directions.  A powerful, swirling current prevents any movement north and west.  To the southwest, a low coral reef rises above the wide, rolling swells.  The white spray from the swells slapping against the reef appears ghostly in the moonlight.",
+      "The green, foam-flecked waters of Maelstrom Bay stretch out in all directions.  A powerful, swirling current prevents any movement north and west.  To the southwest, a low coral reef rises above the wide, rolling swells.  The white spray from the swells slapping against the reef sparkles in the sunlight."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, south"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11440": "/rooms/11443/wayto/stringproc-11440.rb",
+      "11442": "/rooms/11443/wayto/stringproc-11442.rb",
+      "11444": "/rooms/11443/wayto/stringproc-11444.rb"
+    },
+    "timeto": {
+      "11440": 2,
+      "11442": 2,
+      "11444": "/rooms/11443/timeto/stringproc-11444.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304033
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      648,
+      1180,
+      658,
+      1190
+    ]
+  }
+}

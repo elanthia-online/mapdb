@@ -1,0 +1,34 @@
+{
+  "checksum": "630779be773a7f833f3b8adfd59f1769",
+  "room": {
+    "id": 22223,
+    "title": [
+      "[Officers' Prize Closet]"
+    ],
+    "description": [
+      "The closet is well-lit, but so small that it leaves barely enough space to turn around.  An oversized trunk rests at the base of one wall, while shelves rise to the ceiling lining two more walls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16202": "out"
+    },
+    "timeto": {
+      "16202": 0.2
+    },
+    "tags": [
+      "peer out =~ /^\\[Beacon Hall, Storage Room\\]$/",
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      821,
+      263,
+      868,
+      309
+    ],
+    "check_location": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "46ec4229bbb8e1b7a3cfab6ea3ecbc7a",
+  "room": {
+    "id": 29912,
+    "title": [
+      "[Ojandhaart, Furrier]"
+    ],
+    "description": [
+      "Acrid fumes belch forth from the open windows of a huge hut with hides stretched across drying racks in the surrounding yard.  Bear and wolf pelts commingle with hides that are vivid blue and heavily scaled.  A worktable sits next to the tall doorway of the home, and a skinning knife with a blade nearly the length of a falchion's is jammed, blade first, into the wood."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29906": "southwest",
+      "29913": "go hut",
+      "29915": "northeast"
+    },
+    "timeto": {
+      "29906": 0.2,
+      "29913": 0.2,
+      "29915": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503306
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1266,
+      1145,
+      1280,
+      1161
+    ]
+  }
+}

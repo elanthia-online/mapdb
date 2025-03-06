@@ -1,0 +1,39 @@
+{
+  "checksum": "0dea8637d2f036ea351de77e664c3678",
+  "room": {
+    "id": 4191,
+    "title": [
+      "[Dark-One's Keep]"
+    ],
+    "description": [
+      "There is a large smelting pot suspended by stone supports hanging over a small magma pool here.  The pool is the perfect method to melt down gold and silver into bars that might later be sold.  You see some residue layers of gold and silver on the pot and the trough where the process of smelting has occurred before.  Casting molds lie in the corner."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4175": "northwest",
+      "4187": "southeast"
+    },
+    "timeto": {
+      "4175": 0.2,
+      "4187": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138130
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      801,
+      1031,
+      811,
+      1041
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "0c114cf14343ab13b6b920af8b9d5f9d",
+  "room": {
+    "id": 31561,
+    "title": [
+      "[Evermore Hollow, Fallen Court]"
+    ],
+    "description": [
+      "Spilling into the courtyard from the inner ring, a well-trodden cobblestone pathway quickly becomes fractured and fragmented as it merges with circular pavers that grow further and further apart the closer they get to a scrollwork wrought iron gate.  Darkened windows gaze blankly upon the courtyard from shops and homes that face the inner ring, a moss-covered lancet stone archway offering passage between the two sections of the town.  A smattering of stone benches, some broken and cracked, rest in scattered clusters amid overgrown grass and copper-banded barrels."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31558": "go lancet archway",
+      "31559": "southwest",
+      "31562": "go cobblestone pathway",
+      "31563": "northeast",
+      "31931": "go wrought gate"
+    },
+    "timeto": {
+      "31558": 0.2,
+      "31559": 0.2,
+      "31562": 0.2,
+      "31563": 0.2,
+      "31931": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "node"
+    ],
+    "uid": [
+      8083007
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      633,
+      284,
+      655,
+      308
+    ]
+  }
+}

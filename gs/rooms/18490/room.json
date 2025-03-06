@@ -1,0 +1,30 @@
+{
+  "checksum": "2f8501ef107a9574d1bbaea2c39375a8",
+  "room": {
+    "id": 18490,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "The tall corn seems to whisper softly as the stalks rustle against one another in the breeze.  The hushed sounds this stilted shuffling produces overhead and off to the sides seems almost seem sinister in origin until they are held up in comparison to the music and laughter coming from the nearby town."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18468": "go bales",
+      "18489": "southeast",
+      "18491": "northeast"
+    },
+    "timeto": {
+      "18468": 0.2,
+      "18489": 0.2,
+      "18491": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

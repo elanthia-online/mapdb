@@ -1,0 +1,53 @@
+{
+  "checksum": "0eb0fea988f6d710479f5ea665379e49",
+  "room": {
+    "id": 13055,
+    "title": [
+      "[Sorena's Emporium, Consignment]"
+    ],
+    "description": [
+      "Caught in perpetual twilight, the narrow passageway carved from rock and dirt is roofed over with thick, tangled roots.  Twining among the roots is an equally tangled series of interconnected glass tubes, each carrying liquids of varying hue and density.  A slate slab is balanced, somewhat precariously, atop several empty, stained casks that line the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2385": "north",
+      "13056": "south",
+      "30709": "/rooms/13055/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2385": 0.2,
+      "13056": 0.2,
+      "30709": "/rooms/13055/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "consignment",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      160012
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1292,
+      170,
+      1302,
+      180
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "d88d60655f85ca25890f867b36b12b27",
+  "room": {
+    "id": 26274,
+    "title": [
+      "[Shade Square, East]"
+    ],
+    "description": [
+      "In the center of the dark and gloomy bazaar stands the towering black facade of a citadel, its shape looming large over the square.  Wisps of pale, white smoke swirl about the citadel's highest spire as eerie moans emanate from beyond its curved doors.  A group of ghastly figures kneel in a circle along the street, hauntingly chanting as they offer praise to the black fortress."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25945": "south",
+      "25969": "west",
+      "26275": "go citadel",
+      "26276": "north"
+    },
+    "timeto": {
+      "25945": 0.2,
+      "25969": 0.2,
+      "26275": 0.2,
+      "26276": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      842,
+      465,
+      869,
+      491
+    ]
+  }
+}

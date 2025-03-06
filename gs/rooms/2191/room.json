@@ -1,0 +1,42 @@
+{
+  "checksum": "bb0959c762d79da2c1f13875afb06367",
+  "room": {
+    "id": 2191,
+    "title": [
+      "[Eye of V'Tull, Outer Caverns]"
+    ],
+    "description": [
+      "The cavern slopes deeply to the southeast where a soft orange glow casts long black shadows from fresh igneous formations.  Heat wafts off the walls and floor, forming small whirlwinds of ash that dance chaotically for several moments before dispersing."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2190": "north",
+      "2192": "southeast"
+    },
+    "timeto": {
+      "2190": 0.2,
+      "2192": 0.2
+    },
+    "tags": [
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060013
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      868,
+      520,
+      878,
+      530
+    ]
+  }
+}

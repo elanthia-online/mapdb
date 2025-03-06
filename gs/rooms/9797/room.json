@@ -1,0 +1,38 @@
+{
+  "checksum": "5b9503a9d9a676e4b84397352e5e5166",
+  "room": {
+    "id": 9797,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Taking a tight bend, the tunnel twists back upon itself, heading almost in the opposite direction.  Numerous grey tiles set in the soft clay floor create a mosaic depicting a strange flower growing from a mass of dead bodies.  There is an unusual lack of heavy root growth surrounding the tiles."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9796": "southeast",
+      "9798": "east"
+    },
+    "timeto": {
+      "9796": 0.2,
+      "9798": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022037
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1176,
+      623,
+      1186,
+      633
+    ]
+  }
+}

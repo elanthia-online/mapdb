@@ -1,0 +1,55 @@
+{
+  "checksum": "5a81b1d6d3646cca66bc1a1c8b3604f4",
+  "room": {
+    "id": 7166,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "Several graves here are clustered around a large marble monument.  A low iron railing encloses the area.  The burial plots seem to be unplundered, but the dark, freshly turned earth atop one of the graves indicates the presence of an unquiet soul."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "rough",
+    "wayto": {
+      "7164": "west",
+      "7172": "go path"
+    },
+    "timeto": {
+      "7164": 0.2,
+      "7172": 0.2
+    },
+    "tags": [
+      "wild strawberry",
+      "wild gooseberry",
+      "bright red teaberry",
+      "wintergreen leaf",
+      "fiddlehead fern",
+      "stalk of chicory",
+      "sprig of larkspur",
+      "small wild rose",
+      "blueberries",
+      "broken twig",
+      "wild chokecherry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "skeleton",
+      "leafy arugula",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18061
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      288,
+      834,
+      298,
+      844
+    ]
+  }
+}

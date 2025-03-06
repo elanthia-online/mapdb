@@ -1,0 +1,43 @@
+{
+  "checksum": "82aba5121ee0b46b4654e21d60723c01",
+  "room": {
+    "id": 7349,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "The windswept plains stretch as far as you can see to the south.  You can see dust swirls blowing across the flats.  Far in the distance to the southeast, you can make out some dark hills."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7348": "northwest",
+      "7350": "southeast"
+    },
+    "timeto": {
+      "7348": 0.2,
+      "7350": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160001
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1173,
+      890,
+      1181,
+      898
+    ]
+  }
+}

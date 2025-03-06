@@ -1,0 +1,50 @@
+{
+  "checksum": "d2d0e09c1636e53808b6af680464c89c",
+  "room": {
+    "id": 3441,
+    "title": [
+      "[Icemule, Bootlegger's Alley]"
+    ],
+    "description": [
+      "The cobblestone alley is slick in some places, covered in frozen puddles.  Patches of snow and ice hang from the eaves of various short buildings that are spread out on either side of the alley.  To the south, you can see the gleam of sunlight reflecting off the icy wall.",
+      "The cobblestone alley is slick in some places, covered in frozen puddles.  Patches of snow and ice hang from the eaves of various short buildings that are spread out on either side of the alley.  To the south, you can see the gleam of moonlight reflecting off the icy wall."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3439": "east",
+      "3442": "west",
+      "15663": "go market",
+      "15700": "go stucco salon",
+      "33744": "go simple shop",
+      "33745": "go ebonwood warehouse"
+    },
+    "timeto": {
+      "3439": 0.2,
+      "3442": 0.2,
+      "15663": 0.2,
+      "15700": 0.2,
+      "33744": 0.2,
+      "33745": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      735025
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      298,
+      1399,
+      316,
+      1417
+    ]
+  }
+}

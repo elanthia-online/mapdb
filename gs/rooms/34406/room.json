@@ -1,0 +1,29 @@
+{
+  "checksum": "01944e40b30cc4d0de6ddbccdf36f4c2",
+  "room": {
+    "id": 34406,
+    "title": [
+      "[Bard Guild, Upstairs Hallway]"
+    ],
+    "description": [
+      "Standing to either side of the open window is a pair of thick verdant ferns billowing over the rim of their bright ceramic pots, their leaves draping across a patterned crimson carpet.  A beautiful marble sculpture rests next to a polished mahogany door.  The floor sparkles as beams of sunlight stream in, catching the gold flecks in the marble."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "34405": "southwest",
+      "34407": "east",
+      "34408": "go door"
+    },
+    "timeto": {
+      "34405": 0.2,
+      "34407": 0.2,
+      "34408": 0.2
+    },
+    "uid": [
+      289116
+    ]
+  }
+}

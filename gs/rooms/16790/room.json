@@ -1,0 +1,40 @@
+{
+  "checksum": "4dd8b0f2734935b4a244de2af88db2b6",
+  "room": {
+    "id": 16790,
+    "title": [
+      "[Temple Wyneb, Occipitum]"
+    ],
+    "description": [
+      "Carved so deeply into the red marble of the west wall that the lines appear black is the image of a sorcerer with arms outstretched to either side.  Arcing veins in the marble show the power he gathers from his surroundings and focuses out through his eyes.  No matter where you are in the room, those gouged black eyes are watching."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16769": "/rooms/16790/wayto/stringproc-16769.rb",
+      "16789": "southwest",
+      "16791": "northwest"
+    },
+    "timeto": {
+      "16769": 0.4,
+      "16789": 0.2,
+      "16791": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300039
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      636,
+      573,
+      646,
+      583
+    ]
+  }
+}

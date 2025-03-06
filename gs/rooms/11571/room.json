@@ -1,0 +1,48 @@
+{
+  "checksum": "38fe0e9d8744b2ca1a37ba4a8ddb8391",
+  "room": {
+    "id": 11571,
+    "title": [
+      "[Cargo Deck, Passageway]"
+    ],
+    "description": [
+      "The passageway is narrow and dark and the woodwork is rather dingy.  The deck tilts radically to starboard.  A companionway leads up and down."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast, south, west, up, down"
+    ],
+    "location": "the Shattered Moors",
+    "wayto": {
+      "11568": "west",
+      "11573": "northeast",
+      "11574": "southeast",
+      "11575": "north",
+      "11576": "south",
+      "11577": "up",
+      "11592": "down"
+    },
+    "timeto": {
+      "11568": 0.2,
+      "11573": 0.2,
+      "11574": 0.2,
+      "11575": 0.2,
+      "11576": 0.2,
+      "11577": 0.2,
+      "11592": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420531
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      238,
+      1315,
+      248,
+      1325
+    ]
+  }
+}

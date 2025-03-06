@@ -1,0 +1,43 @@
+{
+  "checksum": "7361b5cd1aa59226f0e4d6b618e0700c",
+  "room": {
+    "id": 7835,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "This is a bend in a dull grey corridor.  There's a door on the north wall, and an arch on the south wall.  Passages lead southwest and east."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7834": "southwest",
+      "7836": "east",
+      "7839": "go arch",
+      "7846": "go door"
+    },
+    "timeto": {
+      "7834": 0.2,
+      "7836": 0.2,
+      "7839": 0.2,
+      "7846": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35048
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      519,
+      384,
+      529,
+      394
+    ]
+  }
+}

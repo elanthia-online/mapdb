@@ -1,0 +1,28 @@
+{
+  "checksum": "e25121a07ed309d754e784bc4f73ba88",
+  "room": {
+    "id": 4413,
+    "title": [
+      "[Size Does Matter]"
+    ],
+    "description": [
+      "Flickering torchlight from a single iron sconce dimly illuminates a steel weapon rack and a large metal stand.  Numerous hooks along one wall display further wares next to a hastily scrawled sign, but the rocky walls and stone floor are otherwise bare."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4409": "out",
+      "4414": "east"
+    },
+    "timeto": {
+      "4409": 0.2,
+      "4414": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

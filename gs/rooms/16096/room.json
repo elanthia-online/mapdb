@@ -1,0 +1,32 @@
+{
+  "checksum": "49c7f343291f1d85d45bb00b542fb88f",
+  "room": {
+    "id": 16096,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "Scattered around the room are a wide range of roofing materials.  Tiles in assorted colors are stacked along one wall, a bunch of thick palm fronds lean in a corner, slate shingles are carefully piled beside the door.  The air is filled with dust from the thatching."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16092": "west",
+      "16097": "north"
+    },
+    "timeto": {
+      "16092": 0.2,
+      "16097": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734102
+    ]
+  }
+}

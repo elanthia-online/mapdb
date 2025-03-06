@@ -1,0 +1,59 @@
+{
+  "checksum": "d2e042a7bf7d840abcc7d3bb6afca863",
+  "room": {
+    "id": 3668,
+    "title": [
+      "[Gardenia Commons]"
+    ],
+    "description": [
+      "The soft, soothing sound of the carved marble fountain that dominates Gardenia Commons breaks the omnipresent silence of night.  Bright moonlight dapples the area in a silvery glow and reflects off the water pouring into the fountain, causing ripples of ethereal light to dance across the mist that clings to the cobblestone street.  A light, thin layer of dew glistens on the wrought iron benches that encircle the fountain.",
+      "The soft, soothing sound of the carved marble fountain that dominates Gardenia Commons breaks the silence of day.  Bright sunlight dapples the area in a warm glow and reflects off the water pouring into the fountain, causing rainbows of ethereal light to dance across the mist that clings to the cobblestone street.  A light, thin layer of dew glistens on the wrought iron benches that encircle the fountain."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3637": "north",
+      "3649": "west",
+      "3657": "south",
+      "3669": "east",
+      "30718": "/rooms/3668/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3637": 0.8,
+      "3649": 0.8,
+      "3657": 0.8,
+      "3669": 0.8,
+      "30718": "/rooms/3668/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "node",
+      "town",
+      "supernode",
+      "meta:mapname:Isle of the Four Winds - Mist Harbor",
+      "meta:mapshortname:Mist Harbor",
+      "meta:mapcategory:Isle of the Four Winds",
+      "meta:mapcategory:Towns",
+      "meta:mapcategory:Premium",
+      "urchin-access",
+      "urchin guide commons",
+      "commons",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201029
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2750,
+      1301,
+      2830,
+      1382
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "90423c30f53285c88d344a445d7cb920",
+  "room": {
+    "id": 11231,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "A single large terra cotta pot, bathed in the rays from a dusty skylight, rests in the center of the hallway.  A faded, time-ravaged carpet covers the floor.  Arched doorways lead east and south."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11230": "go staircase",
+      "11232": "east",
+      "11233": "south"
+    },
+    "timeto": {
+      "11230": 0.2,
+      "11232": 0.2,
+      "11233": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377224
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      164,
+      656,
+      174,
+      666
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "c0386bd22e846eae7a542b254cd7b738",
+  "room": {
+    "id": 8898,
+    "title": [
+      "[Wehnimer's, South Wharf]"
+    ],
+    "description": [
+      "Dockworkers curse you and each other as they carry their loads from the great trade ships to the warehouses of Wehnimer's Landing.  Intermixed with the dockworkers are the crews of ships from various exotic and faraway ports."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "moist",
+    "terrain": "hard, flat",
+    "wayto": {
+      "246": "west",
+      "8899": "go office",
+      "23178": "go dock",
+      "23492": "go wagon",
+      "23493": "go tent",
+      "30708": "/rooms/8898/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "246": 0.2,
+      "8899": 0.2,
+      "23178": 0.2,
+      "23492": 0.2,
+      "23493": 0.2,
+      "30708": "/rooms/8898/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "alchemy sea water",
+      "urchin-access",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin guide star",
+      "no forageables"
+    ],
+    "uid": [
+      7113
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1053,
+      525,
+      1091,
+      563
+    ]
+  }
+}

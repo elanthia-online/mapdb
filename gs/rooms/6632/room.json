@@ -1,0 +1,36 @@
+{
+  "checksum": "2a276d3fddd514176516c9dbbdddc789",
+  "room": {
+    "id": 6632,
+    "title": [
+      "[Broken Lands, Passage]"
+    ],
+    "description": [
+      "Incandescent globes hang at set intervals along the passage, casting an eerie light over it.  A symphony of shadows is played out along the walls, giving the impression that this passage is not as empty as it appears."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6631": "/rooms/6632/wayto/stringproc-6631.rb",
+      "6633": "west",
+      "6635": "southwest"
+    },
+    "timeto": {
+      "6631": 0.2,
+      "6633": 0.2,
+      "6635": 0.2
+    },
+    "uid": [
+      487012
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      304,
+      1073,
+      314,
+      1083
+    ]
+  }
+}

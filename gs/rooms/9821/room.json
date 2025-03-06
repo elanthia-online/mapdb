@@ -1,0 +1,38 @@
+{
+  "checksum": "130ca754354a593f54dd6d02b33f064b",
+  "room": {
+    "id": 9821,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Rounded walls of earth create a winding tunnel here, the dry surroundings allowing the sound of distant, faint wailing to echo about the chamber.  Slight depressions dot the floor, the dusty surface weathered with many deep fractures.  Each twisting crack is nearly concealed by the colonies of green fungus, which have made their home within."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9805": "southwest",
+      "9822": "northeast"
+    },
+    "timeto": {
+      "9805": 0.2,
+      "9822": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022018
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1069,
+      517,
+      1079,
+      527
+    ]
+  }
+}

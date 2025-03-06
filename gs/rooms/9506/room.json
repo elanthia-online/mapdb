@@ -1,0 +1,44 @@
+{
+  "checksum": "56e772803bd05f9dc939205dfd728bc9",
+  "room": {
+    "id": 9506,
+    "title": [
+      "[Sister Cocytel's Hospice]"
+    ],
+    "description": [
+      "Blood-splattered beams line blood-splattered walls and cross a relatively unmarred ceiling in this small healing room.  A few uncomfortable stone slabs occupy places near the walls, and the granite's light grey color in the corners indicates that the floor was not intended to be reddish brown.  A pile of dirty rags nestles in a far corner, and a stone arch provides an exit from the room.  The scent of drying blood and medicinal preparations hangs heavy in the air."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9505": "go arch",
+      "9507": "go hallway",
+      "30712": "/rooms/9506/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9505": 0.2,
+      "9507": 0.2,
+      "30712": "/rooms/9506/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "npchealer",
+      "npccleric",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide healer"
+    ],
+    "uid": [
+      13010005
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      557,
+      749,
+      593,
+      785
+    ]
+  }
+}

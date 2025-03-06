@@ -1,0 +1,37 @@
+{
+  "checksum": "17d056bd0298d2b750222bf122a422e3",
+  "room": {
+    "id": 20291,
+    "title": [
+      "[Feywrot Mire, Ring of Runes]"
+    ],
+    "description": [
+      "A thick stand of swamp sumac has claimed ownership of this moist, sloping ground.  The smooth, grey bark and verdant growth give little indication that this foliage should be avoided.  The pathway circles widely around the stand, to prevent all but the foolish from errantly brushing up against the greenery."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20288": "north",
+      "20292": "southwest",
+      "21507": "go dingy hovel",
+      "22494": "go bleached tent",
+      "22495": "go black wagon"
+    },
+    "timeto": {
+      "20288": 0.2,
+      "20292": 0.2,
+      "21507": 0.2,
+      "22494": 0.2,
+      "22495": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      916,
+      688,
+      931,
+      703
+    ]
+  }
+}

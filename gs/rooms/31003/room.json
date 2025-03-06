@@ -1,0 +1,35 @@
+{
+  "checksum": "4ad36c778afc098351777ce4fde1fa78",
+  "room": {
+    "id": 31003,
+    "title": [
+      "[The Impressed Olive, Entry]"
+    ],
+    "description": [
+      "Lowered to maintain warmth, the satin walls of the pavilion are bright white.  Brass lanterns with decorative red, orange, and green windows shed bright light throughout the space, banishing the shadows and aiding the workers in maintaining a cheery space.  Display cases, wire racks, and a couple of brass trays range about the entry, offering treats for those seeking solace at the nearby tables."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Needle of Pentas",
+    "wayto": {
+      "30969": "out",
+      "31004": "/rooms/31003/wayto/stringproc-31004.rb",
+      "31005": "/rooms/31003/wayto/stringproc-31005.rb",
+      "31006": "/rooms/31003/wayto/stringproc-31006.rb",
+      "31007": "/rooms/31003/wayto/stringproc-31007.rb",
+      "31008": "/rooms/31003/wayto/stringproc-31008.rb"
+    },
+    "timeto": {
+      "30969": 0.2,
+      "31004": 0.2,
+      "31005": 0.2,
+      "31006": 0.2,
+      "31007": 0.2,
+      "31008": 0.2
+    },
+    "uid": [
+      7110351
+    ]
+  }
+}

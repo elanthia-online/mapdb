@@ -1,0 +1,50 @@
+{
+  "checksum": "43db8cdf66927e561026f71313000aa0",
+  "room": {
+    "id": 12088,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A shoreline stretches before you, the sea dark and thick with salt.  Just a small way up the beach, an unusual sight catches your eye.  A small child walks the beach, holding hands with a large winged humanoid.  One of its reddish wings is wrapped protectively around the child, and her small hand is tightly clutching one of his large fingers. She appears to be talking, although what she is saying is too difficult to understand to any except her unusual companion."
+    ],
+    "paths": [
+      "Obvious exits: east, west, northwest",
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12088/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12088/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12088/wayto/stringproc-12093.rb",
+      "12109": "west",
+      "12114": "northwest",
+      "12148": "east"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12109": 0.2,
+      "12114": 0.2,
+      "12148": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4567051
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      894,
+      780,
+      904,
+      790
+    ]
+  }
+}

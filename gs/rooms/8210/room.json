@@ -1,0 +1,53 @@
+{
+  "checksum": "2f61e95c5d170d79c8faf3debab66305",
+  "room": {
+    "id": 8210,
+    "title": [
+      "[Sea Caverns, Sleeping Quarters]"
+    ],
+    "description": [
+      "This is the northeast corner of the large chamber.  The piles of rags are so thick here, progress in any direction requires wading through them, stirring up a noxious stink."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8208": "west",
+      "8209": "south",
+      "8211": "southwest"
+    },
+    "timeto": {
+      "8208": 0.2,
+      "8209": 0.2,
+      "8211": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391020
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      580,
+      235,
+      590,
+      245
+    ]
+  }
+}

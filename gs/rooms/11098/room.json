@@ -1,0 +1,43 @@
+{
+  "checksum": "517b330401541ce2218a64c4a4c28ebf",
+  "room": {
+    "id": 11098,
+    "title": [
+      "[Krol Ship, Corridor]"
+    ],
+    "description": [
+      "This corridor extends fore and aft here, connecting the officers' quarters and the wardroom to the quarterdeck."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11096": "south",
+      "11099": "go starboard door",
+      "11100": "go port door",
+      "11101": "north"
+    },
+    "timeto": {
+      "11096": 0.2,
+      "11099": 0.2,
+      "11100": 0.2,
+      "11101": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26014
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3967,
+      1368,
+      3989,
+      1391
+    ]
+  }
+}

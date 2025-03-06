@@ -1,0 +1,46 @@
+{
+  "checksum": "94a3665aa2ea7ff1347c92e3d8ee7b2a",
+  "room": {
+    "id": 7139,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The grey stone walls are covered with a spreading fungus.  It looks rather like milk that's been left out for a few days, and smells about the same too.  The floor is squishy beneath your feet, and strewn with scattered rocks and pebbles."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7137": "east",
+      "7140": "go door",
+      "7141": "west"
+    },
+    "timeto": {
+      "7137": 0.2,
+      "7140": 0.2,
+      "7141": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41020
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1000,
+      501,
+      1010,
+      511
+    ]
+  }
+}

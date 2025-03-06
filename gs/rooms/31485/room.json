@@ -1,0 +1,39 @@
+{
+  "checksum": "f61b5ab14c7860a8d5897efd6f71c356",
+  "room": {
+    "id": 31485,
+    "title": [
+      "[Airmen's Rest, Gathering]"
+    ],
+    "description": [
+      "Several leather-covered chairs are placed around a thick, woven reed carpet that is centered in front of a large grey stone fireplace.  Rich, spicy aromas from cooking food drift about the tavern, mixing with the scent of fresh ale.  Dark walls of lacquered wood glisten as the light from several black iron chandeliers illuminate the tavern.  A row of padded stools are lined up in front of a polished driftwood and glaes counter.  A narrow wooden staircase in the back leads up to an open hallway above."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Elven Nations Port",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "31484": "out",
+      "31486": "go staircase",
+      "31491": "north",
+      "31524": "go ladder"
+    },
+    "timeto": {
+      "31484": 0.2,
+      "31486": 0.2,
+      "31491": 0.2,
+      "31524": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "barkeep",
+      "no forageables"
+    ],
+    "uid": [
+      7136051
+    ]
+  }
+}

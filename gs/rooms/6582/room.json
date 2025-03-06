@@ -1,0 +1,40 @@
+{
+  "checksum": "4d40b2b915cbf21a1e012904dd50122a",
+  "room": {
+    "id": 6582,
+    "title": [
+      "[Small Courtyard]"
+    ],
+    "description": [
+      "This small courtyard is enclosed by the curtain wall and tower on the west, and an ancient keep that stands to the northeast.  There is a battlement walk that appears to connect the two, its walls covered with a thick curtain of ivy that's so dark, it appears more black than green.  Curiously, the fog has not intruded here, although low clouds are hanging around the parapets of the keep."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Castle Anwyn",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6579": "go tower",
+      "6583": "go doorcase"
+    },
+    "timeto": {
+      "6579": 0.2,
+      "6583": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285029
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      946,
+      516,
+      956,
+      526
+    ]
+  }
+}

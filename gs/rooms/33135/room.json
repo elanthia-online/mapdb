@@ -1,0 +1,30 @@
+{
+  "checksum": "e0c3215fd1d807722c4a322f80f9f257",
+  "room": {
+    "id": 33135,
+    "title": [
+      "[Amber Lounge, Cubbyhole]"
+    ],
+    "description": [
+      "This narrow, cramped space ends abruptly at a curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "33134": "pull small lever",
+      "33136": "go curtain"
+    },
+    "timeto": {
+      "33134": 0.2,
+      "33136": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Willow Hall"
+    ],
+    "uid": [
+      3003126
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "75712bd8156bb950121e446622e257fc",
+  "room": {
+    "id": 6652,
+    "title": [
+      "[Monastery, Carpeted Hall]"
+    ],
+    "description": [
+      "One large globe hangs from the ceiling emitting a soft red light that covers everything in the hallway.  The runes along the walls seem to converge on the set of black vaalin double doors which stand at the west end of the passage."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6651": "east",
+      "6653": "go doors"
+    },
+    "timeto": {
+      "6651": 0.2,
+      "6653": 0.2
+    },
+    "uid": [
+      487021
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      223,
+      1209,
+      233,
+      1219
+    ]
+  }
+}

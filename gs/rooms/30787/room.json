@@ -1,0 +1,60 @@
+{
+  "checksum": "ecc1cd42960db0fe8af1ea6b97861eb8",
+  "room": {
+    "id": 30787,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "Beneath a single mast the freshly swabbed wooden planking, stretching from the fore to the quarter deck, glints in the moonlight.  Large coils of hemp rope are neatly stacked between some cannons on either side of the main deck, while the sail snaps in the salty seabreeze overhead.  A rusty knife protrudes from the railing next to some debris."
+    ],
+    "paths": [
+      "Obvious paths: west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "go gangplank",
+      "30119": "go gangplank",
+      "30130": "go gangplank",
+      "30142": "go gangplank",
+      "30166": "go gangplank",
+      "30176": "go gangplank",
+      "30788": "west",
+      "30790": "down",
+      "30791": "up"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30788": 0.2,
+      "30790": 0.2,
+      "30791": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy sloop",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      804,
+      243,
+      819,
+      256
+    ]
+  }
+}

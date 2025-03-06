@@ -1,0 +1,37 @@
+{
+  "checksum": "92aa18a3f6937a81b25bd8a36564c2a1",
+  "room": {
+    "id": 23214,
+    "title": [
+      "[White Haven, Locker Entrance]"
+    ],
+    "description": [
+      "The walls are cool and damp.  Only the back of a mural mars the otherwise bleak appearance of the walls."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "White Haven",
+    "wayto": {
+      "23211": "go mural",
+      "23238": "go curtained opening"
+    },
+    "timeto": {
+      "23211": 0.2,
+      "23238": 0.2
+    },
+    "tags": [
+      "meta:che:White Haven"
+    ],
+    "uid": [
+      213040
+    ],
+    "image": "imt-WhiteHaven2.png",
+    "image_coords": [
+      682,
+      322,
+      759,
+      397
+    ]
+  }
+}

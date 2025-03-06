@@ -1,0 +1,57 @@
+{
+  "checksum": "5772f466f90b79c50e78e68be6ab337b",
+  "room": {
+    "id": 1009,
+    "title": [
+      "[Zul Logoth, Ruby Tunnel]"
+    ],
+    "description": [
+      "The few dwarves that pass this way seem somewhat perturbed by the presence of adventurers in their midst, particularly adventurers that are not dwarven.  Some dwarves stare outright.  Others gaze more with mixture of incredulity and awe.  Small dwarven children, frightened by the larger beings, hide behind a toadstool pot or behind their mother's skirt and stare, speechlessly, at these new ones who have been allowed to invade their city.",
+      "Overhead, the solid rock of the ceiling is broken by a steep chute.  The few dwarves that pass along the stretch of tunnel seem perturbed by the presence of visitors, particularly those not of dwarven heritage.  Some of the natives stare outright, while others greet intruders with a mixture of incredulity and awe.  Small dwarven children hide behind a toadstool pot or behind their mothers' skirts and stare, speechless, at the travelers invading their city."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1008": "east",
+      "1010": "west",
+      "5742": "go archway",
+      "5823": "south"
+    },
+    "timeto": {
+      "1008": 0.2,
+      "1010": 0.2,
+      "5742": 0.2,
+      "5823": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006004
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      398,
+      617,
+      434,
+      653
+    ]
+  }
+}

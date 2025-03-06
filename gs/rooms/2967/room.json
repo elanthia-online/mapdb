@@ -1,0 +1,43 @@
+{
+  "checksum": "ac87c23711dbbce7d7b25306234f07cc",
+  "room": {
+    "id": 2967,
+    "title": [
+      "[Abbey Chapel]"
+    ],
+    "description": [
+      "Ornate doors of heavy bronze muffle sounds from outside of the chapel, a long chamber with a low maple ceiling that has fanciful patterns of leaves and rosettes carved into its surface.  Framed on either side by pews of sturdy spruce, a walk proceeds to the east.  A thickly balustraded stair along the northern wall spirals up into a small loft.",
+      "To the right, a thickly balustraded stair leads upwards.  The low oak ceiling is carved into a fanciful pattern of leaves and rosettes."
+    ],
+    "paths": [
+      "Obvious exits: east",
+      "Obvious exits: east, up, out"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2968": "go stair",
+      "2969": "east",
+      "28867": "go doors"
+    },
+    "timeto": {
+      "2968": 0.2,
+      "2969": 0.2,
+      "28867": 0.2
+    },
+    "tags": [
+      "nedum vereri",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132044
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      830,
+      307,
+      882,
+      358
+    ]
+  }
+}

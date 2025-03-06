@@ -1,0 +1,43 @@
+{
+  "checksum": "df75569c83a64c9d93298ad162842caf",
+  "room": {
+    "id": 32335,
+    "title": [
+      "[The Snowcat's Den, Landing]"
+    ],
+    "description": [
+      "Looking down upon the common room of the inn, the landing is framed by a raw pine bannister scored with stylized claw marks.  Mounted on the walls are trophies of past hunts, ranging from an elk head to the scaled blue wings of a reptilian beast, each as wide as a man is tall.  Two doors, one of spruce and one of honey oak, break the trophy wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Crawling Shore",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32333": "go stairway",
+      "32336": "go honey door",
+      "32337": "go spruce door"
+    },
+    "timeto": {
+      "32333": 0.2,
+      "32336": 0.2,
+      "32337": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4576057
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      767,
+      982,
+      811,
+      1027
+    ]
+  }
+}

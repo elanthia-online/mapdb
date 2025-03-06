@@ -1,0 +1,45 @@
+{
+  "checksum": "8083cc4b005f210ebaf05434fa936c5b",
+  "room": {
+    "id": 7370,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "A shallow ravine cuts through the dying pasture making travel slightly treacherous.  Several large boulders and dead tree stumps litter the ground in an oddly shaped pattern."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7369": "northeast",
+      "7377": "southeast",
+      "7382": "southwest"
+    },
+    "timeto": {
+      "7369": 0.2,
+      "7377": 0.2,
+      "7382": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160018
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1201,
+      970,
+      1209,
+      978
+    ]
+  }
+}

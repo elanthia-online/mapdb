@@ -1,0 +1,30 @@
+{
+  "checksum": "fa76aae2cf59bf58a6b879923c8f4288",
+  "room": {
+    "id": 16537,
+    "title": [
+      "[Crisostomo's Lockpicks]",
+      "[Crisostomo's General Store]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A shell-lined bamboo counter and a salt-crusted sandstone case stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12267": "out",
+      "16385": "northeast",
+      "16594": "northwest"
+    },
+    "timeto": {
+      "12267": 0.2,
+      "16385": 0.2,
+      "16594": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "23dafbcbfdc26a97f06ff74164c6efbd",
+  "room": {
+    "id": 11711,
+    "title": [
+      "[Marsh Keep, Inner Portcullis]"
+    ],
+    "description": [
+      "Daylight pours through a kill hole located in the ceiling of the narrow inner chamber between the outer and inner portculli, illuminating a grim scene of abandoment and destruction.  Leaning askew against one wall are the remains of a once thick, wooden door with the hinges still attached to its sides.  Broken pieces of wood and gravel litter the ground between the outside and a courtyard visible to the north."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11710": "go portcullis",
+      "11712": "north"
+    },
+    "timeto": {
+      "11710": 0.2,
+      "11712": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376040
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      867,
+      1085,
+      877,
+      1095
+    ]
+  }
+}

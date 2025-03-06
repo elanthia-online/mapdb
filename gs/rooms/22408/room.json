@@ -1,0 +1,27 @@
+{
+  "checksum": "3e882d684ef7af92393d1b4e21624f25",
+  "room": {
+    "id": 22408,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "22407": "/rooms/22408/wayto/stringproc-22407.rb"
+    },
+    "timeto": {
+      "22407": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Annex, Beacon Hall Lobby\\]$/",
+      "bhalocker",
+      "meta:locker"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "d743857a3ea728a3b0c5c9b05d5e7341",
+  "room": {
+    "id": 17340,
+    "title": [
+      "[Ambreale's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a sturdy oak beam ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A gold-veined black marble counter and an intricately carved ebonwood stand sit in opposite corners while a worn rug rests on a plain cherrywood floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "10452": "out",
+      "17341": "east",
+      "17342": "north"
+    },
+    "timeto": {
+      "10452": 0.2,
+      "17341": 0.2,
+      "17342": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

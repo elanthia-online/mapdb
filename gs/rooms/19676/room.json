@@ -1,0 +1,40 @@
+{
+  "checksum": "8f3d5feee063565ce636ae32515601d3",
+  "room": {
+    "id": 19676,
+    "title": [
+      "[Cavernhold, Rutted Passage]"
+    ],
+    "description": [
+      "The floor of this passage becomes deeply rutted as it moves from the southwest to the east.  Apparently something of considerable weight has made several trips through here."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19675": "east",
+      "19677": "southwest"
+    },
+    "timeto": {
+      "19675": 0.2,
+      "19677": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11031
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      937,
+      709,
+      947,
+      720
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "d0f7a4dad5694f8b131f48f75dbed217",
+  "room": {
+    "id": 16251,
+    "title": [
+      "[Karazja Jungle, Stone Ruins]"
+    ],
+    "description": [
+      "An open space in the jungle reveals a pair of collapsed stone buildings.  The weed-dotted walkway of carefully laid, flat riverstones is strewn with bits of rubble from the crumbling structures.  One building remains partially intact, two of its walls still standing.  Faint symbols are visible on the lintel above the doorway."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16249": "east",
+      "16252": "west",
+      "16259": "south"
+    },
+    "timeto": {
+      "16249": 0.2,
+      "16252": 0.2,
+      "16259": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

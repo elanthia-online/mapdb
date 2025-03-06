@@ -1,0 +1,54 @@
+{
+  "checksum": "2f3987d2acec5fe43e5c2da7979a128a",
+  "room": {
+    "id": 25618,
+    "title": [
+      "[Mistydeep, South of Ravelin]"
+    ],
+    "description": [
+      "To the northwest, a sprinkling of homes can be spotted among the assorted hardwoods, but here, the river glides past patches of pristine wilderness.  The howl of a wolf resounds somewhere in the distance, yet two egrets wading on stilt-like legs at the shore seem unperturbed.  To the south, a large shape looms in the midst of the river."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18841": "/rooms/25618/wayto/stringproc-18841.rb",
+      "18842": "/rooms/25618/wayto/stringproc-18842.rb",
+      "25617": "/rooms/25618/wayto/stringproc-25617.rb",
+      "25619": "/rooms/25618/wayto/stringproc-25619.rb",
+      "30507": "swim down"
+    },
+    "timeto": {
+      "18841": "/rooms/25618/timeto/stringproc-18841.rb",
+      "18842": "/rooms/25618/timeto/stringproc-18842.rb",
+      "25617": "/rooms/25618/timeto/stringproc-25617.rb",
+      "25619": "/rooms/25618/timeto/stringproc-25619.rb",
+      "30507": "/rooms/25618/timeto/stringproc-30507.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117013
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1204,
+      730,
+      1222,
+      750
+    ]
+  }
+}

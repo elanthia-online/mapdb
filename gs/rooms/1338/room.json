@@ -1,0 +1,51 @@
+{
+  "checksum": "84966c7c31587165e43d5a24052cdc5b",
+  "room": {
+    "id": 1338,
+    "title": [
+      "[The Saddle]"
+    ],
+    "description": [
+      "Sun-bleached bones and the rusted remains of weapons and armor poke through the windswept snow.  Cold winds blowing across the plateau from the north are funneled through the pass, and carry enough moisture to bear a bone-chilling bite."
+    ],
+    "paths": [
+      "Obvious paths: south, down"
+    ],
+    "location": "the Central Caravansary",
+    "climate": "snowy, arctic",
+    "terrain": "mountainous",
+    "wayto": {
+      "1337": "down",
+      "1339": "south",
+      "3891": "go path"
+    },
+    "timeto": {
+      "1337": 0.2,
+      "1339": 0.2,
+      "3891": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4748300
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      150,
+      1002,
+      160,
+      1012
+    ]
+  }
+}

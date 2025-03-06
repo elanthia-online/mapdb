@@ -1,0 +1,24 @@
+{
+  "checksum": "8455c03931997537b301d26cd5681409",
+  "room": {
+    "id": 21402,
+    "title": [
+      "[A Leg Up]"
+    ],
+    "description": [
+      "The shabby staircase exits onto a long, narrow platform that is framed between a feeble, broken railing and mannequin foot-mounted wall.  Protruding into the walkway, the feet force travel to the far side of the hallway - the side which supplies a straight-down, stomach-dropping view over the railing of the lower floor of the shop.  Opposite the staircase, on the other end of the hall, is an archway leading further into the shop."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": false,
+    "wayto": {
+      "21401": "go staircase",
+      "22626": "east"
+    },
+    "timeto": {
+      "21401": 0.2,
+      "22626": 0.2
+    }
+  }
+}

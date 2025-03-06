@@ -1,0 +1,24 @@
+{
+  "checksum": "677864d4279d07b0389570206d321837",
+  "room": {
+    "id": 24144,
+    "title": [
+      "[Necropolis, Sunken Tunnel]"
+    ],
+    "description": [
+      "Forward progress is temporarily halted by a wide crevasse that spans the width of the tunnel.  Scuffs and claw marks are visible along the far edge.  The bottom of the crevasse is lost in the shadows."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24133": "southwest",
+      "24146": "jump"
+    },
+    "timeto": {
+      "24133": 0.2,
+      "24146": 0.2
+    }
+  }
+}

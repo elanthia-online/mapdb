@@ -1,0 +1,37 @@
+{
+  "checksum": "3dd9050494cd23dabfff0be97fb6382d",
+  "room": {
+    "id": 28163,
+    "title": [
+      "[Valley of Gold, Bazaar]"
+    ],
+    "description": [
+      "Stone urns filled with crimson blooms are scattered about the area.  Branches from the tall shade trees twist together to form a thick, verdant canopy above.  A beautifully carved stone bench rests beside one of the thick trunks."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "between Wehnimer's Landing and Zul Logoth",
+    "wayto": {
+      "28161": "northeast",
+      "28174": "south",
+      "28189": "go wagon",
+      "28190": "go tent",
+      "28191": "go canopy"
+    },
+    "timeto": {
+      "28161": 0.2,
+      "28174": 0.2,
+      "28189": 0.2,
+      "28190": 0.2,
+      "28191": 0.2
+    },
+    "image": "fest-valley_of_gold-1561138415.png",
+    "image_coords": [
+      87,
+      173,
+      104,
+      189
+    ]
+  }
+}

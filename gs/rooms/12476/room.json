@@ -1,0 +1,45 @@
+{
+  "checksum": "c81f235148daa5287a7d8cc154bb6af0",
+  "room": {
+    "id": 12476,
+    "title": [
+      "[Pebble Court, Park]"
+    ],
+    "description": [
+      "The trees here are trimmed neat as a halfling prince's toes, and even the grass looks well-combed.  Paths inlaid with polished grey stone crisscross the park, themselves lined with wood benches."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12470": "north",
+      "12484": "southwest",
+      "12485": "southeast",
+      "12486": "go gazebo"
+    },
+    "timeto": {
+      "12470": 0.2,
+      "12484": 0.2,
+      "12485": 0.2,
+      "12486": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703070
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      191,
+      861,
+      209,
+      879
+    ]
+  }
+}

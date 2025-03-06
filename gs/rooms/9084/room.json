@@ -1,0 +1,46 @@
+{
+  "checksum": "fee506556a4bd14ab65b95bcf80d43bc",
+  "room": {
+    "id": 9084,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "A natural ledge gives a clear view of a large chamber.  The ceiling is far above and the floor far below.  You might be able to make it down if you climbed over the edge.  But then who'd want to go down there?"
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9083": "climb edge",
+      "9085": "southwest",
+      "9086": "northeast",
+      "9087": "northwest",
+      "9088": "southeast"
+    },
+    "timeto": {
+      "9083": 0.2,
+      "9085": 0.2,
+      "9086": 0.2,
+      "9087": 0.2,
+      "9088": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045160
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1296,
+      264,
+      1306,
+      274
+    ]
+  }
+}

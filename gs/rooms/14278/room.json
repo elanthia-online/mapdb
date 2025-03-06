@@ -1,0 +1,41 @@
+{
+  "checksum": "52869436a29eae8e41f4bca78b24ad4c",
+  "room": {
+    "id": 14278,
+    "title": [
+      "[Solhaven, The Crooked Way]"
+    ],
+    "description": [
+      "A large house, with its sharply-sloped roof and arched windows, breaks the monotonous construction of the other tightly-packed buildings directly north.  The heavily blackened timbers, viciously warped wooden beams and shattered glass bespeak of some sort of cataclysmic damage to the structure, and its doors are barred with rusted slabs of iron.  A strange silence pervades the area, broken only by the wind whistling sharply through the winding alleyway."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14277": "southwest",
+      "14279": "southeast"
+    },
+    "timeto": {
+      "14277": 0.2,
+      "14279": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4902198
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      819,
+      1521,
+      843,
+      1545
+    ]
+  }
+}

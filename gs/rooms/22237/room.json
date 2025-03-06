@@ -1,0 +1,47 @@
+{
+  "checksum": "24ff5121d59cc49e5286bbc0722eaf73",
+  "room": {
+    "id": 22237,
+    "title": [
+      "[The Swale, Plaza Center]"
+    ],
+    "description": [
+      "The center of town is bustling with tourists and residents, carts and wagons lining each side of the plaza.  Merchants from all over proudly display their wares and beckon you with obnoxious shouts.  From clothing to food, representations from the surrounding regions decorate the area."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south, west, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "22235": "east",
+      "22238": "northwest",
+      "22239": "west",
+      "22241": "south",
+      "22245": "southeast",
+      "22247": "northeast"
+    },
+    "timeto": {
+      "22235": 0.2,
+      "22238": 0.2,
+      "22239": 0.2,
+      "22241": 0.2,
+      "22245": 0.2,
+      "22247": 0.2
+    },
+    "tags": [
+      "node",
+      "town",
+      "meta:mapname:Wehnimer's Landing - Swale, The",
+      "meta:mapshortname:Swale, The",
+      "meta:mapcategory:Wehnimer's Landing",
+      "closed"
+    ],
+    "image": "wl-swale-1405616532.png",
+    "image_coords": [
+      544,
+      150,
+      558,
+      164
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "5cafc5a0b4e930b5a49d8ad44e3eb645",
+  "room": {
+    "id": 32182,
+    "title": [
+      "[The Minaret, Ground Floor]"
+    ],
+    "description": [
+      "The ground floor of the minaret is packed earth, nearly frozen solid even within the thick walls.  A dusty cushion sits half askew at the base of a stone spiral staircase, the steep curve of which disappears upwards into a distant darkness.  Someone has left a bulky ceramic jug and a few lumpy pottery cups to lie in a dusty pile."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31873": "out",
+      "32183": "go spiral staircase"
+    },
+    "timeto": {
+      "31873": 0.2,
+      "32183": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084249
+    ]
+  }
+}

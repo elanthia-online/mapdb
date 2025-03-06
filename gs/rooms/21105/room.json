@@ -1,0 +1,33 @@
+{
+  "checksum": "39cc47f61c2f1515026c7cdce972bc70",
+  "room": {
+    "id": 21105,
+    "title": [
+      "[Monastery Ruins, Cleansing Path]"
+    ],
+    "description": [
+      "Separated from the ruins of the courtyard wall is a pair of large sandstone blocks with enormous iron rings set into their centers.  The rings act as an anchor to ropes that traverse the jungle to the northeast and have been covered with thin wooden planks to form a bridge.  Vines of soft and dark green hang from the canopy overhead, where flying squirrels and monkeys play in the sunlight.  Almost as an afterthought, a carved stone bench rests off to one side, half buried in vines.",
+      "Separated from the ruins of the courtyard wall is a pair of large sandstone blocks with enormous iron rings set into their centers.  The rings act as an anchor to ropes that traverse the jungle to the northeast and have been covered with thin wooden planks to form a bridge.  Vines of soft and dark green hang from the canopy overhead, where giant fruit bats flutter by in the moonlight.  Almost as an afterthought, a carved stone bench rests off to one side, half buried in vines."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21099": "southwest",
+      "21106": "go bridge"
+    },
+    "timeto": {
+      "21099": 0.2,
+      "21106": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3214043
+    ]
+  }
+}

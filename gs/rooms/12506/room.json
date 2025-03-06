@@ -1,0 +1,51 @@
+{
+  "checksum": "dacfcfef78097e285c6618376c13f454",
+  "room": {
+    "id": 12506,
+    "title": [
+      "[Golden Helm, Hearth Room]"
+    ],
+    "description": [
+      "An immense circular hearth fills the center of the room.  A roast sizzles on a spit over the fire.  The juices drip into the coals, popping and hissing as they land.  Sturdy oak tables are set throughout, surrounded by chairs wide enough for the most ample of patrons.  A pleasant breeze drifts through the open windows set high in the whitewashed wood-and-stone walls."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12504": "go door",
+      "28722": "/rooms/12506/wayto/stringproc-28722.rb",
+      "28725": "/rooms/12506/wayto/stringproc-28725.rb",
+      "28726": "/rooms/12506/wayto/stringproc-28726.rb",
+      "28729": "/rooms/12506/wayto/stringproc-28729.rb",
+      "28730": "/rooms/12506/wayto/stringproc-28730.rb",
+      "28731": "/rooms/12506/wayto/stringproc-28731.rb",
+      "28732": "/rooms/12506/wayto/stringproc-28732.rb",
+      "28733": "/rooms/12506/wayto/stringproc-28733.rb",
+      "28734": "/rooms/12506/wayto/stringproc-28734.rb",
+      "30715": "/rooms/12506/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12504": 0.2,
+      "28722": 0.2,
+      "28725": 0.2,
+      "28726": 0.2,
+      "28729": 0.2,
+      "28730": 0.2,
+      "28731": 0.2,
+      "28732": 0.2,
+      "28733": 0.2,
+      "28734": 0.2,
+      "30715": "/rooms/12506/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables"
+    ],
+    "uid": [
+      3003009
+    ]
+  }
+}

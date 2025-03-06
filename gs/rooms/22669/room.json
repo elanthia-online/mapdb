@@ -1,0 +1,25 @@
+{
+  "checksum": "76ddbcb608e7e157be1f3d98bdc0b06e",
+  "room": {
+    "id": 22669,
+    "title": [
+      "[Abandoned General Store, Attic]"
+    ],
+    "description": [
+      "The upper level of the store is hot and humid, with some daylight peeking through holes in the roof, but not enough to offer much ventilation.  Rafters are the only way to traverse the area, which isn't very spacious."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": false,
+    "wayto": {
+      "22565": "down",
+      "22670": "go gap"
+    },
+    "timeto": {
+      "22565": 0.2,
+      "22670": 0.2
+    },
+    "check_location": false
+  }
+}

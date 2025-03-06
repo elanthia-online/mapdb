@@ -1,0 +1,79 @@
+{
+  "checksum": "d9e0112722a1d34130bd6fa49185d08a",
+  "room": {
+    "id": 3158,
+    "title": [
+      "[Frozen Garden, Pond]"
+    ],
+    "description": [
+      "Small groves of evergreen trees grow at the edge of a small, frozen pond.  A thin ribbon of ice leads from the pond and marks what was once a shallow stream.  Snow drifts climb above the edges of the stream creating a narrow gully for it to wind its way through."
+    ],
+    "paths": [
+      "Obvious paths: east, south, northwest"
+    ],
+    "location": "the Frozen Garden",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous forest",
+    "wayto": {
+      "3157": "east",
+      "3159": "northwest",
+      "23281": "/rooms/3158/wayto/stringproc-23281.rb"
+    },
+    "timeto": {
+      "3157": 0.2,
+      "3159": 0.2,
+      "23281": 0.4
+    },
+    "tags": [
+      "slender twig",
+      "tkaro root",
+      "frostflower",
+      "some bolmara lichen",
+      "sunburst blossom",
+      "twisted twig",
+      "some frostweed",
+      "red winterberry",
+      "sweetfern stalk",
+      "snow lily",
+      "stick",
+      "some tree bark",
+      "orange rowanberry",
+      "bright red teaberry",
+      "handful of pinenuts",
+      "some pine needles",
+      "sticks",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "iceblossoms",
+      "winter rose",
+      "wintergreen leaf",
+      "broken twig",
+      "pine cone",
+      "pine needles",
+      "frostweed",
+      "snowberries",
+      "pale thornberry",
+      "small loganberry",
+      "tree bark",
+      "rockberry",
+      "crowberry",
+      "lingonberry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "bolmara lichen",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4160003
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      101,
+      655,
+      111,
+      665
+    ]
+  }
+}

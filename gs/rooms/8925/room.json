@@ -1,0 +1,34 @@
+{
+  "checksum": "4f2a44b34fda9cac812995767c50bf0a",
+  "room": {
+    "id": 8925,
+    "title": [
+      "[Wizard Guild, Hallway]"
+    ],
+    "description": [
+      "The faint sound of running water echoes off the high vaulted ceiling of the corridor and melds with the rhythm of the rustling robes of wizards making their way to and from the chamber to the west.  Shadows dance to the flickering of the torches that line the corridor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8924": "west",
+      "8926": "southeast"
+    },
+    "timeto": {
+      "8924": 0.2,
+      "8926": 0.2
+    },
+    "uid": [
+      680006
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      318,
+      486,
+      368,
+      534
+    ]
+  }
+}

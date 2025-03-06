@@ -1,0 +1,56 @@
+{
+  "checksum": "f13338f8285a94a27f73723d21071eb0",
+  "room": {
+    "id": 5765,
+    "title": [
+      "[Stonecutters' Lodge, Reception]"
+    ],
+    "description": [
+      "This large open hall once welcomed visitors and workers alike, though from its current state it appears that no guests have been received in quite some time.  Damp, dark, and uninviting, the room is completely empty of furnishings.  A number of vaulted archways lead into other sections of the lodge."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, northwest"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5755": "go door",
+      "5766": "northwest",
+      "5767": "north",
+      "5768": "northeast",
+      "5769": "east"
+    },
+    "timeto": {
+      "5755": 0.2,
+      "5766": 0.2,
+      "5767": 0.2,
+      "5768": 0.2,
+      "5769": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008005
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      330,
+      45,
+      340,
+      55
+    ]
+  }
+}

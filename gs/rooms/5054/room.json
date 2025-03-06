@@ -1,0 +1,41 @@
+{
+  "checksum": "bc931de19e60984aed4a320e47fa5a4b",
+  "room": {
+    "id": 5054,
+    "title": [
+      "[Vornavis, Broken Tower]"
+    ],
+    "description": [
+      "Inside the tower, the floor is still sturdy and strong.  The walls have cracked and crumbled, but still stand nearly two stories high in some places.  To the west, a large doorway leads outward to a cobblestone road.  The width of the ring of remains indicates that the tower was once very tall, possibly a watchtower capable of viewing the countryside for miles around."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the plains of Vornavis",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5053": "go breach",
+      "5055": "go doorway"
+    },
+    "timeto": {
+      "5053": 0.2,
+      "5055": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "node"
+    ],
+    "uid": [
+      4212006
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      826,
+      336,
+      836,
+      346
+    ]
+  }
+}

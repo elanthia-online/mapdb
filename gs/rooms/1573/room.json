@@ -1,0 +1,47 @@
+{
+  "checksum": "46203fd748aa219375893745eea437c3",
+  "room": {
+    "id": 1573,
+    "title": [
+      "[Solhaven, South Market SE]"
+    ],
+    "description": [
+      "Puffin Street, leading out of the market to the east, is torn up and impassable.  Piles of rotted planks alongside stacks of new ones lie beside the gaping hole that was once a roadway.  Dim light bathes the ground infront of the candle-laddened windows of a haon and fel shop.",
+      "Puffin Street, leading out of the market to the east, is torn up and impassable.  Piles of rotted planks alongside stacks of new ones lie beside the gaping hole that was once a roadway.  Despite the disruption, a shop of alternating haon and fel planks, and windows filled with brightly colored and sculpted candles, has a regular stream of customers coming and going from its open doorway."
+    ],
+    "paths": [
+      "Obvious paths: north, west, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1571": "north",
+      "1572": "northwest",
+      "1574": "west",
+      "13473": "go haon shop",
+      "34382": "go knotty shop"
+    },
+    "timeto": {
+      "1571": 0.2,
+      "1572": 0.2,
+      "1574": 0.2,
+      "13473": 0.2,
+      "34382": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902111
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      697,
+      1458,
+      721,
+      1482
+    ]
+  }
+}

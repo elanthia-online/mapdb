@@ -1,0 +1,56 @@
+{
+  "checksum": "118e4994aec900b8871a1a7b3dbb1b6e",
+  "room": {
+    "id": 20613,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "A narrow path winds through darkened rocks, their edges jagged and jutting out dangerously.  The walls of the burrow glisten slightly, their surface slick with moisture.  Strange, glowing green lichen clings to the walls, creating an eerie viridian glow throughout the area."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20610": "northeast",
+      "20611": "north",
+      "20614": "southeast",
+      "20616": "northwest"
+    },
+    "timeto": {
+      "20610": 0.2,
+      "20611": 0.2,
+      "20614": 0.2,
+      "20616": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336746
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      220,
+      628,
+      257,
+      664
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "a2d0bc1ee7bcee2080e594607fbcb4f5",
+  "room": {
+    "id": 16182,
+    "title": [
+      "[Beacon Hall, Entry Hall]"
+    ],
+    "description": [
+      "Burled red oak paneling reflects the warm lamplight in this entry area.  On the east wall crossed longswords hang above a shining gold plaque.  An antique wooden door provides an exit out to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "11010": "go door",
+      "16183": "north"
+    },
+    "timeto": {
+      "11010": 0.2,
+      "16183": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      509,
+      669,
+      556,
+      715
+    ]
+  }
+}

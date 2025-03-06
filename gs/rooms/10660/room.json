@@ -1,0 +1,47 @@
+{
+  "checksum": "030ed6aef1992789166df2573913b392",
+  "room": {
+    "id": 10660,
+    "title": [
+      "[Neartofar Forest, Stockade]"
+    ],
+    "description": [
+      "Within the stockade's high log walls, bare soil has been trampled into firm pavement by thousands of booted feet.  In the center of the square courtyard stands a squat wooden blockhouse, apparently constructed with neither windows nor doors.  A steep, shallow stairway cut into the logs runs parallel to the wall, leading to a rampart above."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest, up, out"
+    ],
+    "location": "the Neartofar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10643": "out",
+      "10661": "northeast",
+      "10665": "northwest",
+      "10667": "up",
+      "10668": "go barracks"
+    },
+    "timeto": {
+      "10643": 0.2,
+      "10661": 0.2,
+      "10665": 0.2,
+      "10667": 0.2,
+      "10668": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14015201
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      871,
+      999,
+      883,
+      1009
+    ]
+  }
+}

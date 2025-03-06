@@ -1,0 +1,41 @@
+{
+  "checksum": "9949193c4f549cf1ea849c2a986c5919",
+  "room": {
+    "id": 10946,
+    "title": [
+      "[Watchtower, Main Floor]"
+    ],
+    "description": [
+      "The thick stucco walls of the watchtower keep the room cool.  Moonlight filters in through a number of cross-shaped arrow loops.  A commemorative shield is hung on the wall beside a rack of oak-hafted spears.  A wooden stairway leading up follows the curve of the wall.",
+      "The thick stucco walls of the watchtower keep the room cool.  Sunlight filters in through a number of cross-shaped arrow loops.  A commemorative shield is hung on the wall beside a rack of oak-hafted spears.  A wooden stairway leading up follows the curve of the wall."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10849": "out",
+      "10947": "go stairway"
+    },
+    "timeto": {
+      "10849": 0.2,
+      "10947": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101044
+    ],
+    "image_coords": [
+      904,
+      711,
+      930,
+      737
+    ]
+  }
+}

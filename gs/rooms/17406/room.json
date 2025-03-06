@@ -1,0 +1,28 @@
+{
+  "checksum": "f780159dd7b0ee10cac0184b08f38a43",
+  "room": {
+    "id": 17406,
+    "title": [
+      "[Tlandro's General Store]"
+    ],
+    "description": [
+      "Beneath a swirl-painted white stucco ceiling, a tattered merchant permit hangs on one of the painted white plaster walls.  Some hammered copper display hooks and a Vornavian silk-covered table sit in opposite corners while a thick off-white carpet rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "9021": "out",
+      "17414": "northwest",
+      "17415": "northeast"
+    },
+    "timeto": {
+      "9021": 0.2,
+      "17414": 0.2,
+      "17415": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

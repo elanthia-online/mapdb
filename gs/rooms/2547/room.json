@@ -1,0 +1,39 @@
+{
+  "checksum": "0577481ac20ebc88f478af5b722aa1bc",
+  "room": {
+    "id": 2547,
+    "title": [
+      "[Glatoph, Icy Passage]"
+    ],
+    "description": [
+      "The ceiling seems too thin here, allowing a brief ray of light to enter the room and dance among the icicles stretching from above to meld with the floor.  The light reflects off the walls, forming a rainbow pattern the width of the room.",
+      "The ceiling seems too thin here, allowing a brief ray of moonlight to enter the room and dance among the icicles stretching from above to meld with the floor.  The light reflects off the walls, forming a rainbow pattern the width of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Icemule Trail",
+    "wayto": {
+      "2546": "/rooms/2547/wayto/stringproc-2546.rb",
+      "2548": "/rooms/2547/wayto/stringproc-2548.rb"
+    },
+    "timeto": {
+      "2546": 0.2,
+      "2548": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4044011
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      747,
+      714,
+      757,
+      724
+    ]
+  }
+}

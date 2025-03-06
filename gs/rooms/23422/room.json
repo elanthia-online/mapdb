@@ -1,0 +1,45 @@
+{
+  "checksum": "8184c910354dadd46a92f56c31300409",
+  "room": {
+    "id": 23422,
+    "title": [
+      "[A Dark Cave, Upper Landing]"
+    ],
+    "description": [
+      "The upward slope of the cave evens out here to create a stable, if somewhat narrow, landing.  Light from a guttering torch affixed to the wall shows a dark tunnel leading out.  A pair of iron spikes secure the top loops of a thick rope ladder with leather ties, which leads back to the lower portion of the cave."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23421": "go dark tunnel",
+      "23423": "go rope ladder"
+    },
+    "timeto": {
+      "23421": 0.2,
+      "23423": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018002
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      189,
+      940,
+      200,
+      950
+    ]
+  }
+}

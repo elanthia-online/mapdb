@@ -1,0 +1,50 @@
+{
+  "checksum": "dd2c3a197381ace304eb6d448c8e7f5e",
+  "room": {
+    "id": 23260,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "A huge sea of boiling mud stretches out to the south and east.  Steam rises off the churning mass, choking the air with a dense, malodorous fog."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southwest, west, northwest"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7454": "/rooms/23260/wayto/stringproc-7454.rb",
+      "7455": "/rooms/23260/wayto/stringproc-7455.rb",
+      "23261": "/rooms/23260/wayto/stringproc-23261.rb",
+      "23262": "/rooms/23260/wayto/stringproc-23262.rb",
+      "23264": "/rooms/23260/wayto/stringproc-23264.rb"
+    },
+    "timeto": {
+      "7454": 3.2,
+      "7455": 3.2,
+      "23261": 3.2,
+      "23262": 3.2,
+      "23264": 3.2
+    },
+    "tags": [
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306042
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      703,
+      951,
+      713,
+      961
+    ]
+  }
+}

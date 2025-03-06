@@ -1,0 +1,27 @@
+{
+  "checksum": "e4abd3e9fc044bc62f6ae2693a83c3c5",
+  "room": {
+    "id": 8723,
+    "title": [
+      "[Prestidigitorium, Front Room]"
+    ],
+    "description": [
+      "The front room of this fine establishment is sparsely furnished.  A small window looks out on the shacks and hovels of the poorest residents of Wehnimer's Landing, a stark contrast to the obvious wealth of this shop's owner.  The walls and ceiling are painted a soothing sky-blue, creating a peaceful atmosphere in which to perform business transactions.  The wall behind the counter has been painted with an amazing fresco which draws your attention."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3890": "go entrance",
+      "8724": "go curtain"
+    },
+    "timeto": {
+      "3890": 0.2,
+      "8724": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

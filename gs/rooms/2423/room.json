@@ -1,0 +1,45 @@
+{
+  "checksum": "1e2bc85c8870040861d24dbf3f0ebe77",
+  "room": {
+    "id": 2423,
+    "title": [
+      "[Commerce Burrow, Trader Way]",
+      "[Commerce Burrow, Trader's Way]"
+    ],
+    "description": [
+      "Peddlers from out of Briarmoon Cove and Pinefar wander up and down the road, loudly touting their wares.  A general store sits to the side of the road, decorated with banners in a cheerful rainbow of colors.  The customers are an eclectic mix of fledgling adventurers and townsfolk, the two groups united in their need for various odds and ends.",
+      "Halfling merchants wander up and down the road here, hawking their wares.  A low wooden building sits to the side of the road, decorated with banners in a rainbow of colors, each declaring it a general store.  From inside, the hustle and bustle of feet can be heard, punctuated by an occasional shout as items are bought and sold."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2421": "south",
+      "2424": "go store",
+      "2426": "north"
+    },
+    "timeto": {
+      "2421": 0.2,
+      "2424": 0.2,
+      "2426": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042306
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      671,
+      911,
+      707,
+      947
+    ]
+  }
+}

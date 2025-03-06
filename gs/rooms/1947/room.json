@@ -1,0 +1,49 @@
+{
+  "checksum": "457f8dfee9784114ce5e47d2c9d8a6b3",
+  "room": {
+    "id": 1947,
+    "title": [
+      "[Imflass Street]"
+    ],
+    "description": [
+      "The air in the tunnel is comfortably cool and clammy.  The stout little stone homes lining the street are bathed in a dim yellow glow.  Many folks are headed to or from a large wood and stone shop.  Its wares are displayed in the windows, cuts of meat, potatoes and other hearty foodstuffs."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1946": "west",
+      "1948": "east",
+      "12534": "go shop",
+      "26233": "go pale wagon",
+      "26234": "go tent",
+      "26241": "go second wagon"
+    },
+    "timeto": {
+      "1946": 0.2,
+      "1948": 0.2,
+      "12534": 0.2,
+      "26233": 0.2,
+      "26234": 0.2,
+      "26241": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001034
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1305,
+      428,
+      1335,
+      458
+    ]
+  }
+}

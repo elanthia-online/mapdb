@@ -1,0 +1,30 @@
+{
+  "checksum": "a217697372b642df60038ad5e25d45b6",
+  "room": {
+    "id": 33168,
+    "title": [
+      "[A Stone Chamber]"
+    ],
+    "description": [
+      "A single oil lamp hanging from the high vaulted ceiling illuminates the small oval chamber.  Smooth, dark-veined granite walls rise into the shadowed darkness.  Firmly bolted to the wall at one side of the room is a small, cast-iron ring.  At the far end of the chamber is a simple curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "33167": "pull ring",
+      "33169": "go curtained opening"
+    },
+    "timeto": {
+      "33167": 0.2,
+      "33169": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of the Rising Phoenix"
+    ],
+    "uid": [
+      13112202
+    ]
+  }
+}

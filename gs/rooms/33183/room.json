@@ -1,0 +1,30 @@
+{
+  "checksum": "a08b23960b906e6792fcfee55b56ecd0",
+  "room": {
+    "id": 33183,
+    "title": [
+      "[Introspection Dahcre Chamber]"
+    ],
+    "description": [
+      "Slender columns of mica-flecked black marble punctuate the walls of this room, supporting a ceiling of elegant black basalt tracery.  The hearth is crafted of the same unusual marble; set above the mantlepiece, a silver looking-glass glints oddly in the twice-reflected light.  A silver tray bearing exotic refreshments rests on a carved ebony sidetable nearby.  Above the obsidian archway opening into this room, a silvery moonstone medallion glitters coldly."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10408": "go obsidian archway",
+      "33184": "pull dhe'nar statue on pedestal"
+    },
+    "timeto": {
+      "10408": 0.2,
+      "33184": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Obsidian Tower"
+    ],
+    "uid": [
+      14109111
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "f9e0762f4badcfccc8ece31aff4ca879",
+  "room": {
+    "id": 9602,
+    "title": [
+      "[Czeroth Caverns, Tunnel]"
+    ],
+    "description": [
+      "A heap of boulders blocks what might have once been an adjacent tunnel to the west, indicating a possible cave-in here.  The walls in this section of tunnel are cracked and filled with crevices, as if under great stress."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9601": "southeast",
+      "9603": "northwest"
+    },
+    "timeto": {
+      "9601": 0.2,
+      "9603": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007035
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1311,
+      275,
+      1321,
+      285
+    ]
+  }
+}

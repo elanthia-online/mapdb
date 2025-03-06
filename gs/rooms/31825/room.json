@@ -1,0 +1,41 @@
+{
+  "checksum": "c69953c74479c647386a9f8590c46041",
+  "room": {
+    "id": 31825,
+    "title": [
+      "[Gleyminn Anni River, Cavern]"
+    ],
+    "description": [
+      "The subterraneous water passage narrows considerably without warning in this tunnel.  Lit only by a single lantern, details of the numerous rock formations are lost in vast shadows.  The wreckage of a small boat, its bow splintered against a large whale-shaped rock, bobs on the surface of the grim river."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31823": "/rooms/31825/wayto/stringproc-31823.rb",
+      "31826": "/rooms/31825/wayto/stringproc-31826.rb"
+    },
+    "timeto": {
+      "31823": 2.2,
+      "31826": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083404
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1098,
+      876,
+      1120,
+      898
+    ]
+  }
+}

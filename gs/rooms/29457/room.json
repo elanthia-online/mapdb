@@ -1,0 +1,32 @@
+{
+  "checksum": "d3504d34407b862b0999b431af6816f9",
+  "room": {
+    "id": 29457,
+    "title": [
+      "[Sorrow's Edge, Den of Memories]"
+    ],
+    "description": [
+      "An expansive carpeting made of tiny steel links occupies most of the room.  Out of a hole in its center rises a granite pedestal, and along one wall hangs a colorful tapestry depicting a battle scene.  Comfortably out of reach, some bloodied Faendryl armor has been affixed to the ceiling above the pedestal.  On a stone shelf are a pair of elaborate veil iron shackles and a crumpled battle flag."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Sorrow's Edge, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "29454": "south",
+      "29456": "go gate",
+      "29458": "go door"
+    },
+    "timeto": {
+      "29454": 0.2,
+      "29456": 0.2,
+      "29458": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1303204
+    ]
+  }
+}

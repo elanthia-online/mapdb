@@ -1,0 +1,39 @@
+{
+  "checksum": "d980bd358c7bfb5bc6be54150e95574d",
+  "room": {
+    "id": 7703,
+    "title": [
+      "[Underground, Hidden Wing]"
+    ],
+    "description": [
+      "This appears to be a small shrine of some sort.  Against the east wall is an altar with tarnished religious symbols on it.  The covering is tattered and the three pews here are dry and rotted.  For the first time you notice that the thick dust on the floor is punctuated by shallow footprints, leading you to think that this place is not as abandoned as you first imagined."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7702": "west",
+      "7704": "/rooms/7703/wayto/stringproc-7704.rb"
+    },
+    "timeto": {
+      "7702": 0.2,
+      "7704": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68033
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      430,
+      1057,
+      440,
+      1067
+    ]
+  }
+}

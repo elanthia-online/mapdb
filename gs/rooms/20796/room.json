@@ -1,0 +1,41 @@
+{
+  "checksum": "6241adf050e2e70703f7bb32c750b4e8",
+  "room": {
+    "id": 20796,
+    "title": [
+      "[House Sovyn, 2nd Floor Hallway]"
+    ],
+    "description": [
+      "Soft spring green carpet runs the length of this hallway.  The walls on either side are painted with scenes of inviting forests.  Miniature trees in gold pots flank the staircase."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20791": "go staircase",
+      "20803": "go door",
+      "20804": "go stairway",
+      "20806": "west"
+    },
+    "timeto": {
+      "20791": 0.2,
+      "20803": 0.2,
+      "20804": 0.2,
+      "20806": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210201
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      1689,
+      464,
+      1852,
+      576
+    ]
+  }
+}

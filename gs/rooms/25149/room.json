@@ -1,0 +1,75 @@
+{
+  "checksum": "5f501bbc6c0d29f4379f4c7e6adfd051",
+  "room": {
+    "id": 25149,
+    "title": [
+      "[Sea of Fire, Desert]"
+    ],
+    "description": [
+      "Surrounding you is the apotheosis of all deserts, a wildly shifting sea of sands that swirl in pools of tawny and ruddy hue.  Sunlight pounds down from an open sky that is as blue as a jewel, reflecting in rippling waves off of the superheated grit.  Winds sweep down in stinging waves, blowing golden veils before them.",
+      "Surrounding you is the apotheosis of all deserts, a wildly shifting sea of sands that swirl in pools of silver and shadow beneath the starlit sky.  Cold moonlight stretches its icy talons down from a sky as black as a bed of jeweler's velvet.  Frigid winds scream by in stinging waves, blowing veils of pallid grit before them."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the shadow of the Sanctum",
+    "climate": "cold, dry",
+    "terrain": "sandy",
+    "wayto": {
+      "25145": "/rooms/25149/wayto/stringproc-25145.rb",
+      "25150": "/rooms/25149/wayto/stringproc-25150.rb",
+      "25219": "/rooms/25149/wayto/stringproc-25219.rb",
+      "25224": "/rooms/25149/wayto/stringproc-25224.rb",
+      "25227": "/rooms/25149/wayto/stringproc-25227.rb"
+    },
+    "timeto": {
+      "25145": 10,
+      "25150": 10,
+      "25219": 10,
+      "25224": 10,
+      "25227": 10
+    },
+    "tags": [
+      "some strigae cactus",
+      "cactus flower",
+      "some angelica root",
+      "some wingstem root",
+      "yabathilium fruit",
+      "some acantha leaf",
+      "sassafras leaf",
+      "some bur-clover root",
+      "some cactacae spine",
+      "sweetfern stalk",
+      "some pennyroyal stem",
+      "yellow primrose",
+      "acantha leaf",
+      "strigae cactus",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "moonlight cactus-bloom",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:map:multi-uid",
+      "meta:maze"
+    ],
+    "uid": [
+      -4216147,
+      -4216146,
+      -4216145,
+      -4216144,
+      -4216143,
+      -4216141,
+      4216141,
+      4216148
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      361,
+      839,
+      385,
+      864
+    ]
+  }
+}

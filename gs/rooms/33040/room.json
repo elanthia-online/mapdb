@@ -1,0 +1,32 @@
+{
+  "checksum": "eb42e454b766795410f242f0eaf08f82",
+  "room": {
+    "id": 33040,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "30746": "go arch",
+      "33041": "go curtained opening",
+      "33042": "north"
+    },
+    "timeto": {
+      "30746": 0.2,
+      "33041": 0.2,
+      "33042": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sovyn"
+    ],
+    "uid": [
+      4219407
+    ]
+  }
+}

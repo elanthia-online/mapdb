@@ -1,0 +1,39 @@
+{
+  "checksum": "d8a1be6276d565dc881820e4505eea72",
+  "room": {
+    "id": 25708,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Extending outward from the island, a long wooden dock runs parallel to the towering cliffs known as Charl's Teeth.  Waves, capped with frothy white foam, splash against the obsidian face to the south and the rocky shoals of the island to the west."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25706": "/rooms/25708/wayto/stringproc-25706.rb",
+      "25709": "/rooms/25708/wayto/stringproc-25709.rb"
+    },
+    "timeto": {
+      "25706": 6,
+      "25709": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223883
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1840,
+      1999,
+      1860,
+      2019
+    ]
+  }
+}

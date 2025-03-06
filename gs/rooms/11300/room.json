@@ -1,0 +1,41 @@
+{
+  "checksum": "473c0972e69f01ee38af7bfd7cbb18cd",
+  "room": {
+    "id": 11300,
+    "title": [
+      "[Alchemist, Sitting Room]"
+    ],
+    "description": [
+      "Two contoured sandstone chairs rest in this chamber, although one has been half-buried by the wreckage of the eastern wall.  Moonlight-silvered leaves spotted with the fanciful shapes of orchids can be seen through a wide zigzagging crack in the wall, making the striped sandstone look dingy by contrast.  Crumpled papers litter the ground.",
+      "Two contoured sandstone chairs rest in this chamber, although one has been half-buried by the wreckage of the eastern wall.  Bright green leaves spotted with brightly hued orchids can be seen through a wide zigzagging crack in the wall, making the striped green sandstone look dingy by contrast.  Crumpled papers litter the ground."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11297": "west",
+      "11301": "south",
+      "11313": "go crack"
+    },
+    "timeto": {
+      "11297": 0.2,
+      "11301": 0.2,
+      "11313": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377109
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      861,
+      866,
+      871,
+      876
+    ]
+  }
+}

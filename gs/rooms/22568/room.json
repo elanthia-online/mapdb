@@ -1,0 +1,25 @@
+{
+  "checksum": "2816c3ae185c02233db6de68181508ac",
+  "room": {
+    "id": 22568,
+    "title": [
+      "[Ruined Office]"
+    ],
+    "description": [
+      "Complete with a plethora of disintegrating wooden beams overhead and entirely missing sections of wall, the building is in shambles.  Dirt, sludge, and cobwebs cling to every surface, the chill wafts of air constantly breezing through disturbing their sleep and creating a mist of dust that permanently swirls through the space.  In a shadowed corner, broken shards of glass scatter across a massive, rotting wooden desk overturned in haphazard fashion."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20353": "out",
+      "22571": "/rooms/22568/wayto/stringproc-22571.rb"
+    },
+    "timeto": {
+      "20353": 0.2,
+      "22571": 0.2
+    },
+    "check_location": true
+  }
+}

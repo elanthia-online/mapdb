@@ -1,0 +1,34 @@
+{
+  "checksum": "2b9613f62912db246ff4383f7b9e1945",
+  "room": {
+    "id": 23772,
+    "title": [
+      "[Duskruin Arena, Entrance]"
+    ],
+    "description": [
+      "Intricately carved into the wall of the corridor is a depiction of a grand battle.  Fighters do battle with gnarled ogres and decaying undead, while other adventurers fire arrows or throw spells from other corners of the engraving.  Burning iron sconces are fastened to the wall at either side, their light emphasizing the deep grooves as shadows across the scene."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23771": "southeast",
+      "23773": "west"
+    },
+    "timeto": {
+      "23771": 0.2,
+      "23773": 0.2
+    },
+    "uid": [
+      8213009
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1543,
+      151,
+      1573,
+      179
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "f6040a40322d7696ac83a4146fefc02a",
+  "room": {
+    "id": 3475,
+    "title": [
+      "[Deep Freeze, Cave of Ice]"
+    ],
+    "description": [
+      "Overhead, a wide fissure in the high ceiling of this cavern admits the screeching wind and spitting snow and appears to extend beyond the yawning gap in the southern wall of the chamber.  The falling snow threatens to obliterate the huge footprints that cover the ground."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3474": "/rooms/3475/wayto/stringproc-3474.rb",
+      "3476": "/rooms/3475/wayto/stringproc-3476.rb",
+      "3479": "go gap",
+      "3480": "/rooms/3475/wayto/stringproc-3480.rb"
+    },
+    "timeto": {
+      "3474": 0.2,
+      "3476": 0.2,
+      "3479": 0.2,
+      "3480": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044134
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      871,
+      687,
+      881,
+      697
+    ]
+  }
+}

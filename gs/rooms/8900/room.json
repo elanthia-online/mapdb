@@ -1,0 +1,32 @@
+{
+  "checksum": "da9eb03c25a329255d3d0966e30882af",
+  "room": {
+    "id": 8900,
+    "title": [
+      "[Wrenrick's, Main Chamber]"
+    ],
+    "description": [
+      "Dim light diffuses through the main chamber of Wrenrick's Storage.  Unlabeled crates are neatly stacked to the south, bags of dried bread lichen to the east, while barrels and casks with varying contents line the western and northern walls.  In the distance, the war cry of a cat signals the impending death of a would be inhabitant."
+    ],
+    "paths": [
+      "Obvious exits: south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "251": "out",
+      "8901": "south"
+    },
+    "timeto": {
+      "251": 0.2,
+      "8901": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3025
+    ]
+  }
+}

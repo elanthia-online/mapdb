@@ -1,0 +1,42 @@
+{
+  "checksum": "ddd6abe4948490621b8d7b257299f57b",
+  "room": {
+    "id": 32902,
+    "title": [
+      "[Brisker's Cove, Comyner's Docks]"
+    ],
+    "description": [
+      "Dockworkers diligently maneuver along the pier, their backs bowed as they haul crates by utilizing a series of straps across their backs.  Foremen sporadically call out orders, causing this section of the pier to have bursts of activity.  Pier 4 is noted to be to the west based on the simple arrow painted into the dock's planks, while a decorative sign nailed to one of the nearby pilings points further south to Pier 5."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32901": "north",
+      "32903": "south",
+      "32905": "east"
+    },
+    "timeto": {
+      "32901": 0.2,
+      "32903": 0.2,
+      "32905": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140129
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      376,
+      727,
+      390,
+      740
+    ]
+  }
+}

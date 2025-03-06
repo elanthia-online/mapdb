@@ -1,0 +1,41 @@
+{
+  "checksum": "26349e1f73199f7d9c81b66e14f78de4",
+  "room": {
+    "id": 7689,
+    "title": [
+      "[Underground Ruin, Worker's Dorm]"
+    ],
+    "description": [
+      "This large room contains many, many beds and footlockers.  Some tools are stacked neatly in wall mounted racks, while more litter the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7685": "north",
+      "7694": "south",
+      "7695": "southwest"
+    },
+    "timeto": {
+      "7685": 0.2,
+      "7694": 0.2,
+      "7695": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68014
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      471,
+      1177,
+      481,
+      1187
+    ]
+  }
+}

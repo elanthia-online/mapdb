@@ -1,0 +1,42 @@
+{
+  "checksum": "e02d4c71986659d8af7e7c62fca15c38",
+  "room": {
+    "id": 7009,
+    "title": [
+      "[Castle Darkstone, Guardtower]"
+    ],
+    "description": [
+      "A large oak desk sits prominently in the middle of this room; perhaps it was the office of the captain of the guards, or some similarly important post.  Tattered banners hang on the walls around the room, but they have long since faded and decayed beyond recognition."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7007": "out",
+      "7010": "go steps"
+    },
+    "timeto": {
+      "7007": 0.2,
+      "7010": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45140
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      693,
+      375,
+      703,
+      385
+    ]
+  }
+}

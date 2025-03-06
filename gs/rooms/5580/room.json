@@ -1,0 +1,43 @@
+{
+  "checksum": "4fdef0491a7c61c55e01183689432a6f",
+  "room": {
+    "id": 5580,
+    "title": [
+      "[Vornavis Caravansary, Interior]"
+    ],
+    "description": [
+      "From a low, rambling building built next to the North Wall hangs a weathered and faded sign, barely recognizable as a wagon laden with goods.",
+      "From a low, rambling building built entirely within the North Wall's shadow hangs a weathered and faded sign, barely recognizable as a wagon laden with goods."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5577": "north",
+      "5593": "west",
+      "5598": "go building"
+    },
+    "timeto": {
+      "5577": 0.2,
+      "5593": 0.2,
+      "5598": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2120051
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      615,
+      1052,
+      625,
+      1062
+    ]
+  }
+}

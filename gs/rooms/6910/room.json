@@ -1,0 +1,54 @@
+{
+  "checksum": "051cc1bf6f8fa53946ef0bc9a5a42c23",
+  "room": {
+    "id": 6910,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "A maze of tunnels branches off from this small pocket in the dirt.  There is barely room for a giantman to squeeze through, let alone someone laden with merchandise.  No lanterns or torches have been placed here, leaving the only light to filter in from the surrounding areas."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south, southwest, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6909": "northeast",
+      "6911": "west",
+      "6913": "southwest",
+      "6914": "north",
+      "6926": "south"
+    },
+    "timeto": {
+      "6909": 0.2,
+      "6911": 0.2,
+      "6913": 0.2,
+      "6914": 0.2,
+      "6926": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37004
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      987,
+      1275,
+      997,
+      1285
+    ]
+  }
+}

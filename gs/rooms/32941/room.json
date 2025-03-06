@@ -1,0 +1,35 @@
+{
+  "checksum": "70b89911a1e74013caec9b4eb64f4323",
+  "room": {
+    "id": 32941,
+    "title": [
+      "[Niima's Embrace]"
+    ],
+    "description": [
+      "A jovial woman patiently assists patrons in this freestanding pavilion, hawking wares strewn over makeshift tables and counters.  From the eastern corner of the roped-off displays and arching overhead to the west is a massive, artfully crafted coral and sea glass dolphin of enormous proportions.  The fins of the dolphin extend outward and provide a sheltered area beneath them."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Seareach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32887": "out",
+      "34400": "/rooms/32941/wayto/stringproc-34400.rb"
+    },
+    "timeto": {
+      "32887": 0.2,
+      "34400": "/rooms/32941/timeto/stringproc-34400.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "urchin-access",
+      "urchin guide armor"
+    ],
+    "uid": [
+      7140507
+    ]
+  }
+}

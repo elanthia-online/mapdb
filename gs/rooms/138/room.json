@@ -1,0 +1,38 @@
+{
+  "checksum": "abd2184f63130bb17729a13c17f77577",
+  "room": {
+    "id": 138,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Some unusual markings appear in bas-relief upon the wall.  The lack of light makes them difficult to read, and you must decipher them by touch as well as sight.  Although cryptic, the words may form some kind of clue."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "137": "east",
+      "139": "west"
+    },
+    "timeto": {
+      "137": 0.2,
+      "139": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300004
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      718,
+      438,
+      728,
+      448
+    ]
+  }
+}

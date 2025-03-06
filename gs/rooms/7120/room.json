@@ -1,0 +1,42 @@
+{
+  "checksum": "2574394e0f9781e15e804a6a4964a2bf",
+  "room": {
+    "id": 7120,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "This room is empty except for a trap door set in the middle of the floor. The wood is solid, and there's no ring or latch visible.  Even the hinges are on the other side, with whatever else may be there."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7121": "go door"
+    },
+    "timeto": {
+      "7121": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41049
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      975,
+      335,
+      985,
+      345
+    ]
+  }
+}

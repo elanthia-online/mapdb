@@ -1,0 +1,26 @@
+{
+  "checksum": "ac01db1f47cb76f0be5e7aa2854f0691",
+  "room": {
+    "id": 22573,
+    "title": [
+      "[Let It Burn]"
+    ],
+    "description": [
+      "Rickety wooden walls surround this small room, and they bear several layers of scorch marks, as if a fire had torn through the room and somehow left the walls standing.  A lantern hangs from the ceiling, the light shed from the clouded glass is barely enough to illuminate the center of the room, leaving the edges in deep shadow.  At the edge of the light, a long wooden rack rests on the blackened floor, its contents coated in a layer of dust.  A door and a ragged canvas curtain reside in walls opposite each other",
+      "Rickety wooden walls surround this small room, and they bear several layers of scorch marks, as if a fire had torn through the room and somehow left the walls standing.  A lantern hangs from the ceiling, the light shed from the clouded glass is barely enough to illuminate the center of the room, leaving the edges in deep shadow.  At the edge of the light, a long wooden rack rests on the blackened floor, its contents coated in a layer of dust.  A door and a ragged canvas curtain reside in walls opposite each other."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "20111": "go door",
+      "22574": "go curtain"
+    },
+    "timeto": {
+      "20111": 0.2,
+      "22574": 0.2
+    },
+    "check_location": true
+  }
+}

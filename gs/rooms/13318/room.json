@@ -1,0 +1,35 @@
+{
+  "checksum": "8594c78cf083cf80b83a9522a4a67446",
+  "room": {
+    "id": 13318,
+    "title": [
+      "[Temple of Eternity, Hallway]"
+    ],
+    "description": [
+      "The subtle image of a smooth and completely expressionless face is carved into the south wall, composed of mute grey granite which adds to its somber appearance.  A weathered black tablet is set beneath the carving, flanked by clusters of tall pillar candles.  Two hallways branch off to the left and right, the eastern cast in shadow, and the western illuminated by a soft, gentle light.  A pair of arched ebonwood doors open to the north, their dark surfaces inlaid with malachite patterns."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12826": "go doors",
+      "14226": "southwest",
+      "14388": "southeast"
+    },
+    "timeto": {
+      "12826": 0.2,
+      "14226": 0.2,
+      "14388": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900703
+    ]
+  }
+}

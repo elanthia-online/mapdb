@@ -1,0 +1,39 @@
+{
+  "checksum": "51de5c816a0159860341062217e1be3d",
+  "room": {
+    "id": 3316,
+    "title": [
+      "[Ice Tunnel, Winding Passage]"
+    ],
+    "description": [
+      "The ice glows a dirty grey, reflecting light from above the ice.  Occasionally a whisper of sound touches your ears, giving you goosebumps.  The tunnel winds to the northeast, where you can see dark shapes within the ice."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3315": "northwest",
+      "3317": "northeast"
+    },
+    "timeto": {
+      "3315": 0.2,
+      "3317": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130007
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1311,
+      1023,
+      1321,
+      1033
+    ]
+  }
+}

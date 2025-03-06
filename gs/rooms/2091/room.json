@@ -1,0 +1,67 @@
+{
+  "checksum": "673ac0f1c2eb4b7a7ae7b8b0db6a5831",
+  "room": {
+    "id": 2091,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "A slight breeze brings the putrid odor of something rotting.  It overpowers even the smoky smell to which you have become accustomed since entering the village.  The assault on your sense of smell quickly sends you reeling, gasping for relief."
+    ],
+    "paths": [
+      "Obvious paths: north, south, northwest"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2090": "north",
+      "2092": "south",
+      "2102": "northwest",
+      "2104": "go warehouse"
+    },
+    "timeto": {
+      "2090": 0.2,
+      "2092": 0.2,
+      "2102": 0.2,
+      "2104": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "small wild rose",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030229
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      1050,
+      1233,
+      1058,
+      1241
+    ]
+  }
+}

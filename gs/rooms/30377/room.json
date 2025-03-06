@@ -1,0 +1,45 @@
+{
+  "checksum": "5f34e15c637c6bc4b8e09a32cb0a9853",
+  "room": {
+    "id": 30377,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Dark blue water extends as far as the eye can see, the silver moonlight glinting off the relatively calm surface.  Dark objects, perhaps patches of seaweed, float on the water in the distance.  The wind blows towards the east, causing the occasional swell of the ocean."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, south, southwest, west"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30365": "pedal southeast",
+      "30366": "pedal south",
+      "30367": "pedal southwest",
+      "30368": "pedal west",
+      "30378": "pedal northeast"
+    },
+    "timeto": {
+      "30365": 6,
+      "30366": 6,
+      "30367": 6,
+      "30368": 6,
+      "30378": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216215
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1120,
+      4614,
+      1140,
+      4636
+    ]
+  }
+}

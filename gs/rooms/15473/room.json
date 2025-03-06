@@ -1,0 +1,36 @@
+{
+  "checksum": "0b4288ae8d72a68c14645b248240b6d9",
+  "room": {
+    "id": 15473,
+    "title": [
+      "[Helden Hall, Sweating Room]"
+    ],
+    "description": [
+      "Pine-scented steam quickly surrounds you, permeating your skin invigoratingly.  The heat inside the hut is almost unbearable, drawing sweat from your body quickly.  Large glowing stones give off the only light in the small room, and a small wooden bucket full of water sits beside the stones.  Small tendrils of steam slowly escape from the hut through a small opening in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3880": "go wooden door",
+      "3881": "out",
+      "15482": "go black door"
+    },
+    "timeto": {
+      "3880": 0.2,
+      "3881": 0.2,
+      "15482": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      249,
+      1087,
+      288,
+      1124
+    ]
+  }
+}

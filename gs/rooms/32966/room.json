@@ -1,0 +1,30 @@
+{
+  "checksum": "09b0a0ae4f01f5d7fbef52bb5bcd74a2",
+  "room": {
+    "id": 32966,
+    "title": [
+      "[Willow Hall, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "32965": "east",
+      "32967": "go beaded curtain"
+    },
+    "timeto": {
+      "32965": 0.2,
+      "32967": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Willow Hall"
+    ],
+    "uid": [
+      5001281
+    ]
+  }
+}

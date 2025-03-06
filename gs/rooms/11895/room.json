@@ -1,0 +1,43 @@
+{
+  "checksum": "dd795c7e8d71960bdedc5a0865660dee",
+  "room": {
+    "id": 11895,
+    "title": [
+      "[Basilica, East Apse]"
+    ],
+    "description": [
+      "This octagonal room appears to be some sort of council chamber, for centered within it is a large, circular table cut from red marble and surrounded by eight obsidian chairs.  The floor and walls, also of obsidian, are polished to a high sheen, and inlaid in the floor is a silver eight-pointed star.  A staircase, cut into the stone at the perimeter of the room, spirals out of sight to the floors above and below you."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11894": "go staircase",
+      "11896": "up",
+      "11897": "west"
+    },
+    "timeto": {
+      "11894": 0.2,
+      "11896": 0.2,
+      "11897": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17001103
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1215,
+      869,
+      1225,
+      879
+    ]
+  }
+}

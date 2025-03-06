@@ -1,0 +1,53 @@
+{
+  "checksum": "e434311f593aeb524fc4a1af16cb9931",
+  "room": {
+    "id": 3362,
+    "title": [
+      "[Empath Guild, Entrance]"
+    ],
+    "description": [
+      "A small iron door nestles into an expansive white marble wall.  To the left of the door the wall is decorated with a large insignia, and to the right a silver plaque is firmly affixed.  Torches line the top of the wall to await nightfall.  The ground is firm yet icy, the dirt covered by a layer of snow compressed by the passage of many footsteps.  A few small pines struggle for existence in the frigid conditions.",
+      "A small iron door nestles into an expansive white marble wall.  To the left of the door the wall is decorated with a large insignia, and to the right a silver plaque is firmly affixed.  Brightly burning torches line the top of the wall.  The ground is firm yet icy, the dirt covered by a layer of snow compressed by the passage of many footsteps.  A few small pines struggle for existence in the frigid conditions."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2306": "go street",
+      "19417": "go door",
+      "30709": "/rooms/3362/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2306": 0.2,
+      "19417": "/rooms/3362/timeto/stringproc-19417.rb",
+      "30709": "/rooms/3362/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "empathguild",
+      "Icemule empath guild entrance",
+      "meta:mapname:Icemule Trace - Empath Guild",
+      "meta:mapshortname:Empath Guild (Icemule)",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Guilds",
+      "urchin-access",
+      "urchin guide empathguild",
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "empath guild"
+    ],
+    "uid": [
+      650001
+    ],
+    "image": "imt-empath_guild-1307499864.png",
+    "image_coords": [
+      126,
+      425,
+      172,
+      468
+    ]
+  }
+}

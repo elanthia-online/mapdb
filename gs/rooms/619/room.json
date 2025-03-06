@@ -1,0 +1,43 @@
+{
+  "checksum": "54e51bdd00394792f581817c248c735c",
+  "room": {
+    "id": 619,
+    "title": [
+      "[Ta'Illistim, Moonglae Var]"
+    ],
+    "description": [
+      "The var passes to the east of the Ta'Illistim Amphitheatre, approaching the city walls that close off any view to the north.  Atop the amphitheatre's high wall, dark pennants snap in the sharp breeze that speeds some whispy white clouds across the starlit sky.  From a nearby cottage, you hear the sound of several clear voices raised in a gentle hymn.",
+      "The var passes to the east of the Ta'Illistim Amphitheatre, approaching the city walls that close off any view to the north.  Atop the amphitheatre's high wall, sapphire and silver pennants snap in the sharp breeze that speeds some billowy white clouds across the clear blue sky.  From the direction of a nearby cottage, the wonderful aroma of baking bread rises with the smoke from a greystone chimney.",
+      "The var passes to the east of the Ta'Illistim Amphitheater, approaching the city walls that close off any view to the north.  Atop the amphitheater's high wall, sapphire and silver pennants snap in the sharp cliff-top breeze."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "618": "east",
+      "620": "southwest"
+    },
+    "timeto": {
+      "618": 0.2,
+      "620": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101042
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      840,
+      85,
+      862,
+      106
+    ]
+  }
+}

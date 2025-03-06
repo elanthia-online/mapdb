@@ -1,0 +1,39 @@
+{
+  "checksum": "48ade79cff305893ec3b61fb30952afc",
+  "room": {
+    "id": 19976,
+    "title": [
+      "[Nature Wing, Mountain Specimens]"
+    ],
+    "description": [
+      "A winding path leads through this room which has been utterly transformed into the rocky terrain of a steep mountainside.  Perched on a nearby crag is a stuffed mountain ogre in a glass case, while on the opposite side of the path, a similarly protected humpbacked puma suns itself on a rock.  Watching all from the peak of the replicated mountain stands a lone mummified reiver.  The path leads through the mountain and down, leveling off before the next room."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19975": "west",
+      "19977": "east"
+    },
+    "timeto": {
+      "19975": 0.2,
+      "19977": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28109
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      237,
+      1603,
+      380,
+      1663
+    ]
+  }
+}

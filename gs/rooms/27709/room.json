@@ -1,0 +1,41 @@
+{
+  "checksum": "6312d5c9762e6c13b5f344bdbee794f8",
+  "room": {
+    "id": 27709,
+    "title": [
+      "[South Barbican, West Tower]"
+    ],
+    "description": [
+      "Small piles of pale white snow collect in the corners of the tower's doorway, the pale grey stone glistening with faint moisture.  A spiral of stairs slowly ascends the height of the barbican, and distant shafts of light pierce the gloom further upwards.  An iron-barred gate guards the base of the winding stairway, the metal bars encased in a thin shell of glistening ice."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2412": "go out",
+      "27710": "go gate"
+    },
+    "timeto": {
+      "2412": 0.2,
+      "27710": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4050103
+    ],
+    "image": "imt-Town_Walls_Map-1707071672.png",
+    "image_coords": [
+      407,
+      643,
+      441,
+      678
+    ]
+  }
+}

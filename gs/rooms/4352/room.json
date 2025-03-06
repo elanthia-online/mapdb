@@ -1,0 +1,28 @@
+{
+  "checksum": "30b7302157da8e3d551da41d8cf04885",
+  "room": {
+    "id": 4352,
+    "title": [
+      "[Emerald Level, Corridor]"
+    ],
+    "description": [
+      "Naturally formed stalactites and stalagmites give way to the ironwood bracings of an artificial tunnel.  Where torchlight streaming from farther up the passage strikes the ground, the stone appears to be a dusky green-grey shade, though it seems perfectly black in shadow."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4351": "go pass",
+      "4353": "northeast"
+    },
+    "timeto": {
+      "4351": 0.2,
+      "4353": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

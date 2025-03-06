@@ -1,0 +1,43 @@
+{
+  "checksum": "8fdbd47c84896f05b01c0e842b65e688",
+  "room": {
+    "id": 7332,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "Drab grey clouds twist overhead in muted anguish, casting writhing shadows over this secluded pasture.  The pasture spreads out dully to the southeast, broken only by the occasional misshapen tree or rotted trunk.  An ancient trail, overgrown from countless years of disuse, weaves its way from the rising valley walls into the desolation."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7329": "go trail",
+      "7333": "southeast"
+    },
+    "timeto": {
+      "7329": 0.2,
+      "7333": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161001
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1014,
+      730,
+      1024,
+      740
+    ]
+  }
+}

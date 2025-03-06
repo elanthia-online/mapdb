@@ -1,0 +1,30 @@
+{
+  "checksum": "255aa1f6f40099ab356677b6db3b75a1",
+  "room": {
+    "id": 32999,
+    "title": [
+      "[Rising Phoenix, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "32998": "east",
+      "33000": "go beaded curtain"
+    },
+    "timeto": {
+      "32998": 0.2,
+      "33000": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of the Rising Phoenix"
+    ],
+    "uid": [
+      5001067
+    ]
+  }
+}

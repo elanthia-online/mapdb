@@ -1,0 +1,45 @@
+{
+  "checksum": "daeef18fae8f47b888128d3947c0b183",
+  "room": {
+    "id": 19114,
+    "title": [
+      "[Spitfire, Cargo Hold]"
+    ],
+    "description": [
+      "A large stack of crates, boxes and barrels blocks further progress, forcing the aisle to turn back upon itself.  From one of the larger barrels sitting to the side, a small flicker of light peeks out from cracks marring its wooden slats."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19109": "southeast",
+      "19117": "go barrel",
+      "19119": "go black door",
+      "19120": "southwest",
+      "23452": "go driftwood hatch",
+      "23453": "go gap",
+      "23454": "go feather-carved hatch",
+      "23455": "go wooden door",
+      "23505": "go frost-covered hatch"
+    },
+    "timeto": {
+      "19109": 0.2,
+      "19117": 0.2,
+      "19119": 0.2,
+      "19120": 0.2,
+      "23452": 0.2,
+      "23453": 0.2,
+      "23454": 0.2,
+      "23455": 0.2,
+      "23505": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      1288,
+      159,
+      1322,
+      197
+    ]
+  }
+}

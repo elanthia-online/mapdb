@@ -1,0 +1,32 @@
+{
+  "checksum": "615e73b727db5c338bc003fc1518e65d",
+  "room": {
+    "id": 4402,
+    "title": [
+      "[Ruby Level, Central Access]"
+    ],
+    "description": [
+      "Passageways loom in all directions, all heavily fortified with wooden beams and quite secure.  Occasionally a dwarf will wander into view, far more interested in his beard than the strangers in the halls.  A ladder leads back up to ground level."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4398": "south",
+      "4403": "west",
+      "4417": "east",
+      "4427": "clim ladd"
+    },
+    "timeto": {
+      "4398": 0.2,
+      "4403": 0.2,
+      "4417": 0.2,
+      "4427": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

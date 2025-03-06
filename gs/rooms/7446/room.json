@@ -1,0 +1,50 @@
+{
+  "checksum": "dc17185bd58bc6be6dbe870f8a66502e",
+  "room": {
+    "id": 7446,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "One particularly large boulder sticks straight up in the air like a long, pointed finger.  The cliff that stretches from northwest to southeast is high and sheer, with no apparent way of climbing it.  A dense fog obscures your vision."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7447": "/rooms/7446/wayto/stringproc-7447.rb",
+      "7451": "/rooms/7446/wayto/stringproc-7451.rb",
+      "7452": "/rooms/7446/wayto/stringproc-7452.rb",
+      "23263": "/rooms/7446/wayto/stringproc-23263.rb"
+    },
+    "timeto": {
+      "7447": 3.2,
+      "7451": 3.2,
+      "7452": 3.2,
+      "23263": 3.2
+    },
+    "tags": [
+      "large black toadstool",
+      "some blackened moss",
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306022
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      623,
+      951,
+      633,
+      961
+    ]
+  }
+}

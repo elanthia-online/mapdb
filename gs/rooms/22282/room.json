@@ -1,0 +1,36 @@
+{
+  "checksum": "5a6928155091c3330ec9471805544ee4",
+  "room": {
+    "id": 22282,
+    "title": [
+      "[The Demon Draught]"
+    ],
+    "description": [
+      "Old, grey brick walls comprise the foundation of the spacious tavern, where oak tables and chairs are set up around the common area.  A plump boar is set near a large red brick fireplace, the roaring flames roasting the pig and warming the tavern.  From behind a brass-railed countertop, a scar-faced bartender pours drinks for the guests."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "22281": "out",
+      "22283": "go stairs",
+      "22286": "west"
+    },
+    "timeto": {
+      "22281": 0.2,
+      "22283": 0.2,
+      "22286": 0.2
+    },
+    "tags": [
+      "node"
+    ],
+    "image": "wl-swale-1405616532.png",
+    "image_coords": [
+      631,
+      470,
+      645,
+      483
+    ]
+  }
+}

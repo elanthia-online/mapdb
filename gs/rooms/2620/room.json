@@ -1,0 +1,54 @@
+{
+  "checksum": "af77cff381c2e5700025ab19a75bcbbf",
+  "room": {
+    "id": 2620,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A chariot sits in the center of the path.  The horses pulling it run hard, sweat and foam flying off their bodies as their hooves churn.  The driver whips them on, leaning into the wind.  He occasionally glances over his shoulder, as if watching for some threat from behind.  Despite the running horses or windblown driver, the chariot is going nowhere, simply spinning its wheels in the middle of the road."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2617": "east",
+      "2621": "west",
+      "2635": "/rooms/2620/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2620/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2620/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2617": 0.2,
+      "2621": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4566040
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      159,
+      804,
+      169,
+      814
+    ]
+  }
+}

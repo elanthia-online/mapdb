@@ -1,0 +1,30 @@
+{
+  "checksum": "89c5230c80f12bc4890daf977aef144b",
+  "room": {
+    "id": 33165,
+    "title": [
+      "[House Phoenix Annex]"
+    ],
+    "description": [
+      "Simple, but elegant, the tanik flooring of this room is polished to a lustrous sheen.  A crimson velvet pennant edged in gold hangs near a heavy white muslin curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32843": "go velvet curtain",
+      "33166": "go white curtain"
+    },
+    "timeto": {
+      "32843": 0.2,
+      "33166": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of the Rising Phoenix"
+    ],
+    "uid": [
+      2174010
+    ]
+  }
+}

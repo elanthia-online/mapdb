@@ -1,0 +1,40 @@
+{
+  "checksum": "df617a29cf926f420fb1495296201c79",
+  "room": {
+    "id": 8341,
+    "title": [
+      "[Spider Temple, Leg of Acolytes]"
+    ],
+    "description": [
+      "You are in a very narrow hallway. An ebony cell door lies to the south."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8340": "east",
+      "8342": "go door",
+      "8343": "west"
+    },
+    "timeto": {
+      "8340": 0.2,
+      "8342": 0.2,
+      "8343": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13012
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      434,
+      797,
+      444,
+      807
+    ]
+  }
+}

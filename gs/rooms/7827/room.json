@@ -1,0 +1,41 @@
+{
+  "checksum": "04b1f39877ddc4f66e724ad51fbbda03",
+  "room": {
+    "id": 7827,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "This is an intersection in a dull grey corridor.  Passages lead in three directions."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west, northwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7826": "west",
+      "7828": "northeast",
+      "7841": "northwest"
+    },
+    "timeto": {
+      "7826": 0.2,
+      "7828": 0.2,
+      "7841": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35053
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      627,
+      547,
+      637,
+      557
+    ]
+  }
+}

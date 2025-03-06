@@ -1,0 +1,26 @@
+{
+  "checksum": "1facff8602f2a8cd1a7b091972ff1193",
+  "room": {
+    "id": 20127,
+    "title": [
+      "[Tug-of-War, Aspen Knoll]"
+    ],
+    "description": [
+      "Rows of aspen benches are clustered atop a gently sloping knoll, providing a clear view of a span of trenched swampland below.  Bits and pieces of rope and clothing litter the area, each stained with blood, mud, and a multitude of unrecognized substances."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20126": "go path",
+      "20379": "northwest",
+      "20381": "go field"
+    },
+    "timeto": {
+      "20126": 0.2,
+      "20379": 0.2,
+      "20381": 0.2
+    }
+  }
+}

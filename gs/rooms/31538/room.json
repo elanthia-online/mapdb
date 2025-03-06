@@ -1,0 +1,29 @@
+{
+  "checksum": "35990b356bd94087e9d6f87364d30cc2",
+  "room": {
+    "id": 31538,
+    "title": [
+      "[Academy Nexus, Antechamber]"
+    ],
+    "description": [
+      "Grand tapestries cover the walls of the chamber.  Their bright colors of the fabric create a sharp contrast to the pale stone.  A pair of cushioned benches flank some double mistwood doors whose silver hue is accented by wrought iron fixtures."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "New Ta'Faendryl",
+    "wayto": {
+      "31537": "south",
+      "31539": "northeast",
+      "31542": "go mistwood doors"
+    },
+    "timeto": {
+      "31537": 0.2,
+      "31539": 0.2,
+      "31542": 0.2
+    },
+    "uid": [
+      13033003
+    ]
+  }
+}

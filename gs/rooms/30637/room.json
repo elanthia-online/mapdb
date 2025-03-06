@@ -1,0 +1,27 @@
+{
+  "checksum": "d471a8b128b929962add43f92e8ff288",
+  "room": {
+    "id": 30637,
+    "title": [
+      "[Landing Hall, Bar]"
+    ],
+    "description": [
+      "A large mahogany bar dominates the north end of this oak-paneled room, dozens of bottles lining the shelves behind it.  A few bar stools are bolted to the ground in front of the bar, while several plush lounge chairs line the walls.  The western wall bears a gold-framed oil painting, adding some decoration and color to this room, and a gold and red tapestry leads east.  Simple wooden tables are spaced several feet apart, offering patrons a place to sit with others and converse."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30635": "go tapestry",
+      "30642": "out"
+    },
+    "timeto": {
+      "30635": 0.2,
+      "30642": 0.2
+    },
+    "uid": [
+      853013
+    ]
+  }
+}

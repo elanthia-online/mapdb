@@ -1,0 +1,30 @@
+{
+  "checksum": "5fe2305f77ce833ce2d9f581ecce11ae",
+  "room": {
+    "id": 14499,
+    "title": [
+      "[Reptile House]"
+    ],
+    "description": [
+      "In the center of the room is a completely enclosed glass aquarium attached to a large, round vivarium.  The tank water is murky, the shallow water covering a muddy base.  The ground-covered portion of the enclosure is swampy and populated by numerous water-loving grasses.  A few coils of a huge anaconda can be seen along the sides of the glass, the rest of the creature obscured by the darkness."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14498": "west",
+      "14500": "southwest"
+    },
+    "timeto": {
+      "14498": 0.2,
+      "14500": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      411166
+    ]
+  }
+}

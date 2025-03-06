@@ -1,0 +1,24 @@
+{
+  "checksum": "e673c1ff74336af07a735185ee695ee0",
+  "room": {
+    "id": 29289,
+    "title": [
+      "[Warped Wavedancer, Coral Alcove]"
+    ],
+    "description": [
+      "Terminating in an alcove of splintered and rotted wood, the hallway sports coral structures and moldy velvet.  Two paintings depicting faded scenes of the Southron Wastes, one of a violent storm and the other a rare desert bloom, hang at tilted angles along the wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29287": "east",
+      "29290": "go hole"
+    },
+    "timeto": {
+      "29287": 0.2,
+      "29290": 0.2
+    }
+  }
+}

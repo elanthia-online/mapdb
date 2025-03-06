@@ -1,0 +1,32 @@
+{
+  "checksum": "3faffb7d76fe43d13449ef39119d4ee0",
+  "room": {
+    "id": 18501,
+    "title": [
+      "[Grawood Farmstead, Field]"
+    ],
+    "description": [
+      "A wooden gate frozen open on rusted hinges allows passage from the meadow path to the field.  Underfoot, the grass is a soft cushion to each step, and brightly hued dandelions dot the green here and there.  Looking off into the distance, the blocky and peaked forms of booths and tents rise against the sky."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, south, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18502": "northwest",
+      "18504": "south",
+      "18509": "southeast",
+      "18591": "east"
+    },
+    "timeto": {
+      "18502": 0.2,
+      "18504": 0.2,
+      "18509": 0.2,
+      "18591": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

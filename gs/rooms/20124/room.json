@@ -1,0 +1,26 @@
+{
+  "checksum": "afba42d2eeb34201b1a90b6eda531088",
+  "room": {
+    "id": 20124,
+    "title": [
+      "[Tug-of-War, Witchwood Knoll]"
+    ],
+    "description": [
+      "Rows of witchwood benches are clustered atop a gently sloping knoll, offering a clear view of a span of trenched swampland below.  Bits and pieces of rope and clothing litter the area, each stained with blood, mud, and a multitude of unrecognized substances."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20123": "go path",
+      "20376": "southeast",
+      "22619": "/rooms/20124/wayto/stringproc-22619.rb"
+    },
+    "timeto": {
+      "20123": 0.2,
+      "20376": 0.2,
+      "22619": 0.2
+    }
+  }
+}

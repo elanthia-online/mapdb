@@ -1,0 +1,27 @@
+{
+  "checksum": "625e4488bbb3ccdaebec35f465230375",
+  "room": {
+    "id": 27023,
+    "title": [
+      "[Lake of Fear, Southern Expanse]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  Nearby, a half-eaten fish stares blankly up through the ice, its crystalized entrails adding a bit of macabre color to an otherwise bleak environment."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27022": "/rooms/27023/wayto/stringproc-27022.rb",
+      "27024": "/rooms/27023/wayto/stringproc-27024.rb"
+    },
+    "timeto": {
+      "27022": 0.2,
+      "27024": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "d1670bb603e0c99962007981260bbf7d",
+  "room": {
+    "id": 30007,
+    "title": [
+      "[Fjallarhaart, Ruins]"
+    ],
+    "description": [
+      "Mist blankets the ground, muting sound and obscuring sight.  Corpses have been left to rot beneath the aurora's light.  Their jangled limbs poke out of the dense fog here and there.  They would be reminiscent of broken toys, were the corpses not many times the size of a man."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, damp",
+    "terrain": "rough",
+    "wayto": {
+      "30005": "southwest",
+      "30009": "northeast"
+    },
+    "timeto": {
+      "30005": 0.2,
+      "30009": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "blueberries",
+      "stalk of chicory",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "bearberries",
+      "broken twig",
+      "sprig of larkspur",
+      "small wild rose",
+      "wild chokecherry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503331
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      242,
+      679,
+      256,
+      693
+    ]
+  }
+}

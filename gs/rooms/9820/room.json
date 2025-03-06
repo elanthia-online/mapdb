@@ -1,0 +1,38 @@
+{
+  "checksum": "305a6969975b2a912b47c7310e92316f",
+  "room": {
+    "id": 9820,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Abruptly the tunnel turns in upon itself, heading almost back in the same direction.  There are a few pale roots running along the smooth clay walls.  A small patch of moss grows by itself on the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9819": "north",
+      "9826": "northeast"
+    },
+    "timeto": {
+      "9819": 0.2,
+      "9826": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022020
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1203,
+      518,
+      1213,
+      528
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "c1ed69cfdfc7d438290b91ade1196221",
+  "room": {
+    "id": 27809,
+    "title": [
+      "[Lelqui's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by thick slate walls, the shop features a woven Vornavian silk rug in the center of its ebonwood floor.  A pair of cast iron sconces hangs under the dark birch ceiling.  Right near the front is a glass-topped mistwood counter and an elegantly carved oak armoire."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "642": "out",
+      "27808": "west",
+      "27810": "east"
+    },
+    "timeto": {
+      "642": 0.2,
+      "27808": 0.2,
+      "27810": 0.2
+    },
+    "tags": [
+      "lelqui",
+      "meta:playershop"
+    ]
+  }
+}

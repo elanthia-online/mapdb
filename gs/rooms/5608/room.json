@@ -1,0 +1,33 @@
+{
+  "checksum": "b1ae0fecdccdd61162e9af556afbb1a7",
+  "room": {
+    "id": 5608,
+    "title": [
+      "[Mercantylers' Hall, Hallway]"
+    ],
+    "description": [
+      "The paneled hallway ends at an oak doorway, above which is a sign in the shape of a bulging pouch of coins.  A tapestry adorns the north wall, showing a fleet of ships, apparently heavy-laden, approaching a sprawling harbor town.  The light from the brass lanterns highlights the rich colors of the tapestry, practically bringing the scene to life before your eyes."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5606": "west",
+      "5610": "go doorway"
+    },
+    "timeto": {
+      "5606": 0.2,
+      "5610": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120084
+    ]
+  }
+}

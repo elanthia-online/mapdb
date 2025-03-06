@@ -1,0 +1,41 @@
+{
+  "checksum": "f10b51334e3be4a34c57df27774412ab",
+  "room": {
+    "id": 7464,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The tunnel meanders through the surrounding stone, twisting and turning, rising and falling with no particular regularity or pattern.  The stone surface is irregular, but the tunnel maintains the same general size and shape as it continues along.  The dim, green illumination, provided by patches of glowing lichen that dot the walls, makes visibility poor and you find yourself squinting at the dark features of the tunnel walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7463": "/rooms/7464/wayto/stringproc-7463.rb",
+      "7465": "/rooms/7464/wayto/stringproc-7465.rb"
+    },
+    "timeto": {
+      "7463": 0.2,
+      "7465": 0.2
+    },
+    "tags": [
+      "some cave moss",
+      "sponge mushroom",
+      "some blackened moss",
+      "magru",
+      "some glowing green lichen"
+    ],
+    "uid": [
+      94007
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      807,
+      933,
+      817,
+      943
+    ]
+  }
+}

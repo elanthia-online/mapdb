@@ -1,0 +1,42 @@
+{
+  "checksum": "bd6b95c34a617cafffee55a529eec211",
+  "room": {
+    "id": 658,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "A small path reveals a rather unkempt stone building sitting far back from the road, its roof in a state of disrepair.  The building is a rather stark contrast to the otherwise rich farmland that surrounds it.  One window appears to have been broken at some distant time past, and has been patched with a piece of dirty oilcloth.  A metal sign hangs beside the front door, through which a few patrons wander."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "657": "northwest",
+      "659": "southeast",
+      "9920": "go inn"
+    },
+    "timeto": {
+      "657": 0.2,
+      "659": 0.2,
+      "9920": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049014
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      433,
+      613,
+      443,
+      623
+    ]
+  }
+}

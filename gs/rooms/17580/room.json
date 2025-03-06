@@ -1,0 +1,30 @@
+{
+  "checksum": "75412eaeeb224b273eb8ea810e21895a",
+  "room": {
+    "id": 17580,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "17579": "go curtain"
+    },
+    "timeto": {
+      "17579": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Annex, Twilight Hall Lobby\\]$/",
+      "locker:twilighthall",
+      "meta:locker"
+    ],
+    "uid": [
+      3215141
+    ]
+  }
+}

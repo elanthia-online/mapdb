@@ -1,0 +1,51 @@
+{
+  "checksum": "86fb28e82659e7959de2d3869952e02c",
+  "room": {
+    "id": 9592,
+    "title": [
+      "[Czeroth Caverns, Tunnel]"
+    ],
+    "description": [
+      "A large mound of rubble slopes steeply up towards the northeast, blocking passage in that direction.  Mingled with the steady sound of water dripping, strange scraping and chittering noises can be heard."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9591": "go opening",
+      "9593": "southwest"
+    },
+    "timeto": {
+      "9591": 0.2,
+      "9593": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007025
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1258,
+      222,
+      1268,
+      232
+    ]
+  }
+}

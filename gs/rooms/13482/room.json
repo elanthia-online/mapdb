@@ -1,0 +1,35 @@
+{
+  "checksum": "caddb59a0817281fd869918533083187",
+  "room": {
+    "id": 13482,
+    "title": [
+      "[Ta'Vaalor, Fishing Shack]"
+    ],
+    "description": [
+      "A small wooden counter with various shelves underneath is the only adornment to this cramped shack.  Various fishing poles have been hung on the walls, and the counter shelves hold lures, weights, chests, and other fishing items.  A withered looking elf mans the counter, muttering to himself on occasion.  An opening lies on the east wall, through which a smoky aroma with an undercurrent of seared fish wafts."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10381": "out",
+      "14032": "east"
+    },
+    "timeto": {
+      "10381": 0.2,
+      "14032": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11",
+      "fishing shop"
+    ],
+    "uid": [
+      14100084
+    ]
+  }
+}

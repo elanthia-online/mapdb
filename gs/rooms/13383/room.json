@@ -1,0 +1,44 @@
+{
+  "checksum": "896720d9215f8d8cf0b75e51746ba0e8",
+  "room": {
+    "id": 13383,
+    "title": [
+      "[Veythorne Manor, Gaming Hall]"
+    ],
+    "description": [
+      "A long hallway stretches toward the north, and the rich velvet rugs are tinted a shade of deep, solid carmine.  Dark amber waves of light carve intricate, shifting patterns across the silver-chased walls, their flames wavering in several ornate chandeliers hanging from the ceiling.  Rows of thin fluted ivory columns line the edges of the hallway, their pristine surfaces swirled with patterns of dark ivy."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13370": "out",
+      "13377": "north",
+      "13384": "go sapphire arch",
+      "13385": "go silver arch",
+      "13386": "go opal arch",
+      "13387": "go emerald arch",
+      "13388": "go golden arch"
+    },
+    "timeto": {
+      "13370": 0.2,
+      "13377": 0.2,
+      "13384": 0.2,
+      "13385": 0.2,
+      "13386": 0.2,
+      "13387": 0.2,
+      "13388": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13119031
+    ]
+  }
+}

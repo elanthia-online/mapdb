@@ -1,0 +1,24 @@
+{
+  "checksum": "7cd93a2b694d267f08ac042754d261e8",
+  "room": {
+    "id": 23470,
+    "title": [
+      "[Swords 'n Boards, Dead End]"
+    ],
+    "description": [
+      "The ceiling is barely high enough to accommodate standing, and indirect light filters through into this narrow space from a small crack in the wall, illuminating a pile of rat droppings in the corner.  The scent of mold is pervasive, and dust motes hang in the stagnant air, barely visible in the dim light.  Stale drafts of air drift in through a dimly lit passage."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "23469": "crawl passage",
+      "23471": "/rooms/23470/wayto/stringproc-23471.rb"
+    },
+    "timeto": {
+      "23469": 0.2,
+      "23471": 0.2
+    }
+  }
+}

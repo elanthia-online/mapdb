@@ -1,0 +1,59 @@
+{
+  "checksum": "74cd4704cf1603716285abfd2ef83b46",
+  "room": {
+    "id": 32372,
+    "title": [
+      "[Frostmain Docks, Cold Pier]"
+    ],
+    "description": [
+      "Wailing and biting, the gale shrieking down off of the icebergs in the distance carries a cruel chill.  In concert with the seaspray, it has coated the pier in ice crystals that gleam and glisten, distracting from the rotting wood beneath.  Some of the planks, clad in icy skin, shine like polished glass."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "250": "/rooms/32372/wayto/stringproc-250.rb",
+      "1870": "/rooms/32372/wayto/stringproc-1870.rb",
+      "10838": "/rooms/32372/wayto/stringproc-10838.rb",
+      "11756": "/rooms/32372/wayto/stringproc-11756.rb",
+      "29033": "/rooms/32372/wayto/stringproc-29033.rb",
+      "31493": "/rooms/32372/wayto/stringproc-31493.rb",
+      "32371": "south",
+      "32928": "/rooms/32372/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "250": "/rooms/32372/timeto/stringproc-250.rb",
+      "1870": "/rooms/32372/timeto/stringproc-1870.rb",
+      "10838": "/rooms/32372/timeto/stringproc-10838.rb",
+      "11756": "/rooms/32372/timeto/stringproc-11756.rb",
+      "29033": "/rooms/32372/timeto/stringproc-29033.rb",
+      "31493": "/rooms/32372/timeto/stringproc-31493.rb",
+      "32371": 0.2,
+      "32928": "/rooms/32372/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "portmaster",
+      "silver-cost:250:10000",
+      "silver-cost:11756:12500",
+      "silver-cost:10838:25000",
+      "silver-cost:1870:25000",
+      "silver-cost:29033:25000",
+      "silver-cost:31493:35000",
+      "silver-cost:32928:25000",
+      "no forageables"
+    ],
+    "uid": [
+      7133026
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1272,
+      167,
+      1316,
+      213
+    ]
+  }
+}

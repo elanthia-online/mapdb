@@ -1,0 +1,41 @@
+{
+  "checksum": "502eb4484f24da80c684f0cc949ef87f",
+  "room": {
+    "id": 12471,
+    "title": [
+      "[Pebble Court, Granite Way]"
+    ],
+    "description": [
+      "Traffic forks about some obstacle in the middle of the road.  It's a mule, standing there peacefully, gnawing on some weeds sprouting up between the cobbles."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12470": "northwest",
+      "12472": "northeast"
+    },
+    "timeto": {
+      "12470": 0.2,
+      "12472": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703057
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      246,
+      879,
+      264,
+      897
+    ]
+  }
+}

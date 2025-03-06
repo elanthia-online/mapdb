@@ -1,0 +1,40 @@
+{
+  "checksum": "f3f1c91b7a19ac287b649892c906fb5d",
+  "room": {
+    "id": 10071,
+    "title": [
+      "[Hagatha's Brew and Barley]"
+    ],
+    "description": [
+      "Wooden planks worn smooth by years of constant use line the floor of the tavern, strewn with fresh rushes and smelling slightly of ale.  Several elves are crowded around an ornately carved bar that runs the length of one wall, drinking and conversing quietly.  A few tables, each decorated with a lone candle as centerpiece, are scattered about the tavern."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "680": "out",
+      "15607": "go bar",
+      "18590": "/rooms/10071/wayto/stringproc-18590.rb",
+      "18592": "/rooms/10071/wayto/stringproc-18592.rb",
+      "18593": "/rooms/10071/wayto/stringproc-18593.rb",
+      "18594": "/rooms/10071/wayto/stringproc-18594.rb",
+      "18595": "/rooms/10071/wayto/stringproc-18595.rb"
+    },
+    "timeto": {
+      "680": 0.2,
+      "15607": 0.2,
+      "18590": 0.2,
+      "18592": 0.2,
+      "18593": 0.2,
+      "18594": 0.2,
+      "18595": 0.2
+    },
+    "tags": [
+      "table"
+    ],
+    "uid": [
+      13051003
+    ]
+  }
+}

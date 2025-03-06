@@ -1,0 +1,40 @@
+{
+  "checksum": "f83bd77ecd9609698688a2bd86601b9a",
+  "room": {
+    "id": 12729,
+    "title": [
+      "[Ruined Temple]"
+    ],
+    "description": [
+      "A massive stone pillar from the upper level has crashed into the staircase, rendering it an unusable pile of rubble.  Glints of silver flash through the water as fish dart by."
+    ],
+    "paths": [
+      "Obvious exits: southeast, up",
+      ""
+    ],
+    "location": false,
+    "wayto": {
+      "12662": "/rooms/12729/wayto/stringproc-12662.rb",
+      "12677": "/rooms/12729/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12729/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "meta:map:ignore-blanks"
+    ],
+    "uid": [
+      3031023
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      607,
+      926,
+      645,
+      964
+    ]
+  }
+}

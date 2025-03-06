@@ -1,0 +1,46 @@
+{
+  "checksum": "b5b2178977f3acd788729299f6f965f3",
+  "room": {
+    "id": 4311,
+    "title": [
+      "[Mine]"
+    ],
+    "description": [
+      "The tunnel slopes slightly upward towards the northern end and you can hear the sounds of fluttering wings coming from the north.  The floor of the passage is slippery and there is an unsettling absence of rubble here."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4310": "south",
+      "4312": "north"
+    },
+    "timeto": {
+      "4310": 0.2,
+      "4312": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24049
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      754,
+      417,
+      764,
+      427
+    ]
+  }
+}

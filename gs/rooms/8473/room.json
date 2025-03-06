@@ -1,0 +1,40 @@
+{
+  "checksum": "5a72e9fc765373d165149e0be994e2e6",
+  "room": {
+    "id": 8473,
+    "title": [
+      "[Temple, Hallway]"
+    ],
+    "description": [
+      "Stale air fills the hall.  The dust here is thick, breeding undisturbed by wind or being.  A narrow staircase, flanked by two empty torch sconces, leads up into darkness, while the hallway continues to the north."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Temple of Love",
+    "wayto": {
+      "8472": "southeast",
+      "8474": "north",
+      "8477": "go staircase"
+    },
+    "timeto": {
+      "8472": 0.2,
+      "8474": 0.2,
+      "8477": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2155014
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      216,
+      808,
+      226,
+      818
+    ]
+  }
+}

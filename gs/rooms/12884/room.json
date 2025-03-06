@@ -1,0 +1,28 @@
+{
+  "checksum": "4ae69a80e1b8744aea8a8ca996a556ac",
+  "room": {
+    "id": 12884,
+    "title": [
+      "[Apple Orchard, Seedlings]"
+    ],
+    "description": [
+      "A rustic wooden fence blocks further travel to the north.  Tiny young apple seedlings have been tethered to the fence in a crude attempt at an espalier."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12883": "south",
+      "12885": "east"
+    },
+    "timeto": {
+      "12883": 0.2,
+      "12885": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

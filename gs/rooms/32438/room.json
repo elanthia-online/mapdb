@@ -1,0 +1,41 @@
+{
+  "checksum": "3d398c005cb90def2db67b2b3668f61a",
+  "room": {
+    "id": 32438,
+    "title": [
+      "[Moonsedge, Nimbus Bridge]"
+    ],
+    "description": [
+      "Grotesques stand on parapets along the walls of the bridge, wings outstretched.  Their horned heads are lifted in an alert posture, and their stony eyes glare outward as if watching for threats to the bridge.  One of the stone carvings has crashed down onto the bridge and lies in craggy chunks.  Its unoccupied parapet is a jagged ruin."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32423": "northwest",
+      "32439": "south"
+    },
+    "timeto": {
+      "32423": 0.2,
+      "32439": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577102
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      441,
+      584,
+      460,
+      604
+    ]
+  }
+}

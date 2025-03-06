@@ -1,0 +1,30 @@
+{
+  "checksum": "88aff042cff232ab6e228020e8153047",
+  "room": {
+    "id": 13803,
+    "title": [
+      "[Mecrea's Outfitting]",
+      "[Mecrea's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a viridian Vornavian silk ceiling, a tattered merchant permit hangs on one of the refined oak-paneled walls.  Some wrought-iron hooks and a heavy lead glass display case sit in opposite corners while a woven Vornavian silk rug rests on a varnished dark oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9021": "out",
+      "13854": "east",
+      "13855": "north"
+    },
+    "timeto": {
+      "9021": 0.2,
+      "13854": 0.2,
+      "13855": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "101fd388ec4d291fe4dda1f59816591c",
+  "room": {
+    "id": 11819,
+    "title": [
+      "[Old Ta'Faendryl, Southern Road]"
+    ],
+    "description": [
+      "The broken surface of the cobbled road winds down to the south, disappearing from view as it bends slightly to the west and is hidden by a heavy growth of underbrush.  Two long shadowed lines of tumbled stones, which appear to have once been columns, flank each side of the road."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11818": "south",
+      "11820": "north"
+    },
+    "timeto": {
+      "11818": 0.2,
+      "11820": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004004
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      676,
+      971,
+      686,
+      981
+    ]
+  }
+}

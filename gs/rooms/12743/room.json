@@ -1,0 +1,42 @@
+{
+  "checksum": "061ee6073874f9aebb6708e625797149",
+  "room": {
+    "id": 12743,
+    "title": [
+      "[Ruined Temple, Third Floor]"
+    ],
+    "description": [
+      "A single copper urn remains upright on the floor, while its counterparts have been smashed as a segment of the wall fell into the hall.  Faded chips of paint offer a mere glimpse of the vivid images they once formed on the stones.  A humanoid skull sits in the shadow of a massive pillar that is missing its top half."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12742": "west",
+      "12744": "east",
+      "12746": "south"
+    },
+    "timeto": {
+      "12742": 0.2,
+      "12744": 0.2,
+      "12746": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3031068
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      878,
+      101,
+      914,
+      137
+    ]
+  }
+}

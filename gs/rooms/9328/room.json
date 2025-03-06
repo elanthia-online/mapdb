@@ -1,0 +1,40 @@
+{
+  "checksum": "cde69108d269db38827152e3b96a4236",
+  "room": {
+    "id": 9328,
+    "title": [
+      "[Underway, Tunnel]"
+    ],
+    "description": [
+      "The tunnel descends more slowly as it veers westward, the gurgle of running water echoing up from below.  To the south, magicked gemstones light the way as the path continues uphill."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "the Central Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9327": "up",
+      "9329": "west"
+    },
+    "timeto": {
+      "9327": 0.2,
+      "9329": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4748102
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      441,
+      765,
+      451,
+      775
+    ]
+  }
+}

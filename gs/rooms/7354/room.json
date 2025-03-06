@@ -1,0 +1,43 @@
+{
+  "checksum": "e88034c0e07a4ceddd702924a346daa0",
+  "room": {
+    "id": 7354,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "The remains of a small hovel sit at the base of the black hills.  The hovel, charred black, is nothing more than ashes and cold embers now."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7353": "northwest",
+      "7355": "southeast"
+    },
+    "timeto": {
+      "7353": 0.2,
+      "7355": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160006
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1306,
+      916,
+      1314,
+      924
+    ]
+  }
+}

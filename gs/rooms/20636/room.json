@@ -1,0 +1,54 @@
+{
+  "checksum": "ae53eff98c87b65840543aa6b135f7b2",
+  "room": {
+    "id": 20636,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "The faded light of nearby sconces causes a number of cobwebs among the rafters to shimmer slightly.  Trapped among the silk, a tiny black bug squirms uselessly to try to avoid the shared fate of the insect husks next to it."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20635": "northwest",
+      "20637": "east",
+      "20643": "/rooms/20636/wayto/stringproc-20643.rb"
+    },
+    "timeto": {
+      "20635": 0.2,
+      "20637": 0.2,
+      "20643": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336705
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      904,
+      448,
+      940,
+      485
+    ]
+  }
+}

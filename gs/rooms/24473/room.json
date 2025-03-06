@@ -1,0 +1,52 @@
+{
+  "checksum": "d410b65866fb7247b35f495626ebce7c",
+  "room": {
+    "id": 24473,
+    "title": [
+      "[Rone Academy, Elanthian Library]"
+    ],
+    "description": [
+      "Ornately carved pillars punctuate each corner of this spacious library.  Students wander amongst the bookshelf-lined walls, their footsteps muffled by worn tapestry rugs covering the wood floor.  Sunlight filters in through a domed skylight in the ceiling, illuminating large antique tables.  Wrought iron railing borders a wide descending staircase in the center of the room.  On the north wall, an open doorway is flanked by an antique fel bookcase and a marble pedestal displaying a dark leather volume."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Rone Academy",
+    "wayto": {
+      "24407": "south",
+      "24474": "go doorway",
+      "24475": "go staircase",
+      "24482": "/rooms/24473/wayto/stringproc-24482.rb",
+      "29615": "/rooms/24473/wayto/stringproc-29615.rb",
+      "29616": "/rooms/24473/wayto/stringproc-29616.rb",
+      "29617": "/rooms/24473/wayto/stringproc-29617.rb",
+      "29618": "/rooms/24473/wayto/stringproc-29618.rb"
+    },
+    "timeto": {
+      "24407": 0.2,
+      "24474": 0.2,
+      "24475": 0.2,
+      "24482": 0.2,
+      "29615": 0.2,
+      "29616": 0.2,
+      "29617": 0.2,
+      "29618": 0.2
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "table",
+      "roneacademy"
+    ],
+    "uid": [
+      217006
+    ],
+    "image": "wl-rone_academy-1619899949.png",
+    "image_coords": [
+      657,
+      211,
+      681,
+      235
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "7e921d903edb06521e284f6613e7ed36",
+  "room": {
+    "id": 3483,
+    "title": [
+      "[Ta'Vaalor, Amaranth Wey]"
+    ],
+    "description": [
+      "The crush of passersby makes this busy intersection difficult to navigate.  Above all, the towering gate looms, casting the entire area into deep shadow despite the brightness of day.  A group of guardsmen stands to one side, casually watching the crowd.",
+      "Few people wander through the area at this hour.  The towering gate looms above, blocking any view of the moons and stars and leaving the area only dimly lit by several ironwork torches placed along the wey.  A group of guardsmen stands to one side, casually watching the crowd."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3484": "east",
+      "3496": "south",
+      "3727": "go gate",
+      "25590": "go ladder",
+      "30713": "/rooms/3483/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3484": 0.2,
+      "3496": 0.2,
+      "3727": 0.2,
+      "25590": 0.2,
+      "30713": "/rooms/3483/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "advpickup",
+      "urchin guide amaranthgate",
+      "urchin-access",
+      "amaranthgate",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100004
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      699,
+      255,
+      736,
+      288
+    ]
+  }
+}

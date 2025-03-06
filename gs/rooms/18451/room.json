@@ -1,0 +1,30 @@
+{
+  "checksum": "23dc2740ca43fb971485b2b96e04d7b9",
+  "room": {
+    "id": 18451,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "As the road takes a turn northward, this curve is left without the clutter of buildings, and the view into the pasture beyond the split-rail fence bordering the town is left unobstructed.  On the other side of the fence, a herd of cows mill about idly, some munching on bits of grass, while others have settled on the ground beneath one of the few trees that dot the landscape."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18427": "northeast",
+      "18430": "northwest",
+      "18452": "go shed"
+    },
+    "timeto": {
+      "18427": 0.2,
+      "18430": 0.2,
+      "18452": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

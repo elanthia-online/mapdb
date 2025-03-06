@@ -1,0 +1,36 @@
+{
+  "checksum": "94da079e288ba692f53e267ec680294c",
+  "room": {
+    "id": 24101,
+    "title": [
+      "[Necropolis, Narthex]"
+    ],
+    "description": [
+      "A huge pile of bones dominates the center of the room.  Femurs, phalanges, tibias, skulls, and other various bones lay jumbled in a pile nearly the height of a giantman.  Deep teeth marks mar each bone, and most of the longer ones have been broken in half."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24097": "southeast",
+      "24098": "south",
+      "24099": "southwest",
+      "24100": "west",
+      "24103": "east",
+      "24104": "northeast",
+      "24106": "north",
+      "24107": "northwest"
+    },
+    "timeto": {
+      "24097": 0.2,
+      "24098": 0.2,
+      "24099": 0.2,
+      "24100": 0.2,
+      "24103": 0.2,
+      "24104": 0.2,
+      "24106": 0.2,
+      "24107": 0.2
+    }
+  }
+}

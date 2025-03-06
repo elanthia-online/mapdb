@@ -1,0 +1,43 @@
+{
+  "checksum": "793b9df59ca5693f27eaf9c459271d39",
+  "room": {
+    "id": 20806,
+    "title": [
+      "[House Sovyn, Green Suite]"
+    ],
+    "description": [
+      "Stepping into this room is like stepping into a jungle.  Exotic trees and plants abound, and you only catch glimpses of secluded groupings of benches and chairs among the greenery."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20796": "east",
+      "20807": "go maoral door",
+      "20808": "go dark door",
+      "20809": "go haon door",
+      "25613": "go cherrywood door"
+    },
+    "timeto": {
+      "20796": 0.2,
+      "20807": 0.2,
+      "20808": 0.2,
+      "20809": 0.2,
+      "25613": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210202
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      1483,
+      478,
+      1649,
+      565
+    ]
+  }
+}

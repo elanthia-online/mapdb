@@ -1,0 +1,38 @@
+{
+  "checksum": "668a9fc166759d3b42174e0619398adf",
+  "room": {
+    "id": 9098,
+    "title": [
+      "[Great Cavern, Limestone Stairs]"
+    ],
+    "description": [
+      "The stone steps grow warmer as they descend.  The passing of the numbing cold is a welcome change as insensitive feet can easily misstep, but with the new warmth comes another change less welcome.  The stairs are now covered with a thin layer of slime."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9097": "up",
+      "9099": "down"
+    },
+    "timeto": {
+      "9097": 0.2,
+      "9099": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045207
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      200,
+      411,
+      210,
+      421
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "a4edb12f3218019f0921fbdf08455abe",
+  "room": {
+    "id": 740,
+    "title": [
+      "[Ta'Illistim, Caear Var]"
+    ],
+    "description": [
+      "The glaesine windows of a nearby cottage are thrown open, and voices rich with laughter float out upon the breeze.  Workers pull and push carts bearing cargo towards the airship docks.",
+      "The windows of a nearby shop are thrown open to catch a breeze.  Next door, a stone warehouse has been converted into multiple family dwellings, each home demarcated by its individual door.  One door is sapphire, another lapis, a third azure and a fourth a peeling dark blue."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "611": "southeast",
+      "741": "southwest",
+      "4019": "go shop"
+    },
+    "timeto": {
+      "611": 0.2,
+      "741": 0.2,
+      "4019": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101051
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      899,
+      192,
+      920,
+      213
+    ]
+  }
+}

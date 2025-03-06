@@ -1,0 +1,32 @@
+{
+  "checksum": "33eddfc6971fb69952514e2b51fb1d32",
+  "room": {
+    "id": 13639,
+    "title": [
+      "[Celasian's Magic Shoppe]",
+      "[Celasian's Outfitting]",
+      "[Celasian's Weaponry]",
+      "[Celasian's General Store]"
+    ],
+    "description": [
+      "An intricate knot-worked wall-hanging hangs on one of the textured red silk walls, and a high arched ceiling rises overhead.  A wyvern painted ivory vase sits in one corner of a parquet red maple floor.  There is a carved oak table on one side of the shop and a twisted dark metal rack on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10445": "out",
+      "13649": "northwest",
+      "13650": "northeast"
+    },
+    "timeto": {
+      "10445": 0.2,
+      "13649": 0.2,
+      "13650": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

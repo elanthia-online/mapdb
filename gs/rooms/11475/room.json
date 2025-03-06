@@ -1,0 +1,48 @@
+{
+  "checksum": "c3e83e2528fc8d859c4f454eabd3baea",
+  "room": {
+    "id": 11475,
+    "title": [
+      "[Maelstrom Bay, Under Water]"
+    ],
+    "description": [
+      "Light green water above, deep green water below, green water all around.  To the southwest is a reef covered with club-fingered coral.  A powerful current makes swimming to the west and north impossible."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, south, up, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11441": "/rooms/11475/wayto/stringproc-11441.rb",
+      "11472": "/rooms/11475/wayto/stringproc-11472.rb",
+      "11474": "/rooms/11475/wayto/stringproc-11474.rb",
+      "11476": "/rooms/11475/wayto/stringproc-11476.rb",
+      "11479": "/rooms/11475/wayto/stringproc-11479.rb",
+      "16121": "/rooms/11475/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11441": 3,
+      "11472": 2,
+      "11474": 3,
+      "11476": 2,
+      "11479": 2,
+      "16121": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304132
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      760,
+      1180,
+      770,
+      1190
+    ]
+  }
+}

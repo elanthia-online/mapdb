@@ -1,0 +1,41 @@
+{
+  "checksum": "040d88091087e2073b4ff1488ff58b90",
+  "room": {
+    "id": 1392,
+    "title": [
+      "[Cairnfang Pineforest, Bridge]"
+    ],
+    "description": [
+      "In the gully below, a line of wrack and driftwood marks the upper reaches of the stream during floods."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Cairnfang",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1391": "northeast",
+      "1393": "southwest"
+    },
+    "timeto": {
+      "1391": 0.2,
+      "1393": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4745015
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      1311,
+      570,
+      1321,
+      580
+    ]
+  }
+}

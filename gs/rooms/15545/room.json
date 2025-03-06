@@ -1,0 +1,36 @@
+{
+  "checksum": "c5de0d44a7c1fbe18f1ad10d778a2162",
+  "room": {
+    "id": 15545,
+    "title": [
+      "[Rone Academy, Alumni Hall]"
+    ],
+    "description": [
+      "The sound of footsteps echoes off the stone floor of the main thoroughfare of the Academy, mixing with the soft voices of passing students.  Portraits of graduates crowd the walls beneath the vaulted ceilings.  A studious white-robed novice stands out from those passing as he stands before an intricately carved arch to the west."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Rone Academy",
+    "wayto": {
+      "14621": "go doors",
+      "15546": "east",
+      "24407": "go arch"
+    },
+    "timeto": {
+      "14621": 0.2,
+      "15546": 0.2,
+      "24407": 0.2
+    },
+    "uid": [
+      217004
+    ],
+    "image": "wl-rone_academy-1619899949.png",
+    "image_coords": [
+      785,
+      265,
+      810,
+      289
+    ]
+  }
+}

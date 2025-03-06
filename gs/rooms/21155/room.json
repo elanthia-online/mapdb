@@ -1,0 +1,73 @@
+{
+  "checksum": "fac331f559a5460f3aa182cfb1342d13",
+  "room": {
+    "id": 21155,
+    "title": [
+      "[Bard Guild, Courtyard]"
+    ],
+    "description": [
+      "Offering an excellent view of the harbor, the stone-lined walkway opens up into a large cobblestone courtyard.  Beds of bright flowers are planted about, splashing color over the pale grey stones leading up to an elegant whitewashed manor.  A pair of bright ceramic urns flank the staircase, each one filled with beautiful island blossoms.  Several varieties of orchid and fern trees surround the area, creating a colorful canopy."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "cultivated",
+    "wayto": {
+      "21141": "go walkway",
+      "22062": "go staircase",
+      "30718": "/rooms/21155/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "21141": 0.2,
+      "22062": 0.2,
+      "30718": "/rooms/21155/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin guide bardguild",
+      "urchin-access",
+      "bardguild",
+      "bard guild",
+      "yellow heliconia",
+      "orange heliconia",
+      "pink heliconia",
+      "red heliconia",
+      "purple passionflower",
+      "pink passionflower",
+      "red passionflower",
+      "white passionflower",
+      "yellow passionflower",
+      "blue passionflower",
+      "yew twig",
+      "luckbloom blossom",
+      "wavepetal blossom",
+      "nightbloom blossom",
+      "onion skin",
+      "bay leaf",
+      "tobacco leaves",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "sweet potato",
+      "red onion",
+      "sweet onion",
+      "yellow papaya",
+      "orange-yellow starfruit",
+      "red-green mango",
+      "purple passion fruit",
+      "red lychee",
+      "green guava",
+      "curly garlic scapes",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      289101
+    ]
+  }
+}

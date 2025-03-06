@@ -1,0 +1,29 @@
+{
+  "checksum": "57c77ec3b65359df87b2ec7ebf4f6d68",
+  "room": {
+    "id": 25561,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Affording a bit of a glimpse ahead, a large chunk of one wall has fallen to the ground and smashed into shards and fist-sized stones amid the tiny pyramids of dirt.  The exit at the other end is clearly visible beyond the next weaving of the pass."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south, northwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25555": "southeast",
+      "25562": "northwest",
+      "25567": "south",
+      "25575": "east"
+    },
+    "timeto": {
+      "25555": 0.2,
+      "25562": 0.2,
+      "25567": 0.2,
+      "25575": 0.2
+    },
+    "check_location": true
+  }
+}

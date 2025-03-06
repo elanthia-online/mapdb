@@ -1,0 +1,41 @@
+{
+  "checksum": "3ee550a6012cb09e4da1f985a816232e",
+  "room": {
+    "id": 34345,
+    "title": [
+      "[Titan's Crown, Tempest Shore]"
+    ],
+    "description": [
+      "The distance between the shore of the turbulent lake and the island at its center is shorter here where the land and water bend to the east.  The ever-present threat of lightning would give all but the bravest, or most foolish, pause before attempting the short swim."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Stormpeak",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "34344": "southwest",
+      "34346": "northeast",
+      "34353": "/rooms/34345/wayto/stringproc-34353.rb"
+    },
+    "timeto": {
+      "34344": 0.2,
+      "34346": 0.2,
+      "34353": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13150407
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      994,
+      361,
+      1013,
+      380
+    ]
+  }
+}

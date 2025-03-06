@@ -1,0 +1,40 @@
+{
+  "checksum": "651b7017a63e25d694e497623fb07cdd",
+  "room": {
+    "id": 1970,
+    "title": [
+      "[Wizard Guild, Workshop]"
+    ],
+    "description": [
+      "Mephitic vapors emanate from a collection of retorts and alembics which occupy most of the dark ash wood table in the center of the workshop, despite the flue carved in the raw stone ceiling high above.  A narrow channel directs lava from a cleft in the rocky floor to the east hallway.  The room glows from the ruddy illumination cast by the magma through the thin veil of translucent glaes walls."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "1969": "east",
+      "18081": "go steps",
+      "18082": "west"
+    },
+    "timeto": {
+      "1969": 0.2,
+      "18081": 0.2,
+      "18082": 0.2
+    },
+    "tags": [
+      "wizard workshop",
+      "wizard guild workshop"
+    ],
+    "uid": [
+      682007
+    ],
+    "image": "ti-wizard_guild.png",
+    "image_coords": [
+      267,
+      533,
+      333,
+      597
+    ]
+  }
+}

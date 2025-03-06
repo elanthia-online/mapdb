@@ -1,0 +1,24 @@
+{
+  "checksum": "7fedcfb72561eb43194db347aee2afe4",
+  "room": {
+    "id": 19783,
+    "title": [
+      "[Now is the Write Time, Storage]"
+    ],
+    "description": [
+      "Partially concealed behind a parchment screen, the polished hardwood floor is littered with crumpled paper beneath a spindly-legged escritoire piled high with vellum and near-empty ink wells.  Sleek feathers and ostentatious plumes hang from the ceiling by nearly invisible silk threads over a small mistwood worktable in one corner."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19780": "south",
+      "27356": "go screen"
+    },
+    "timeto": {
+      "19780": 0.2,
+      "27356": 0.2
+    }
+  }
+}

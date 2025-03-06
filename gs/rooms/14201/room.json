@@ -1,0 +1,27 @@
+{
+  "checksum": "a1bbf286004bb396be5a86b6b4e22fa4",
+  "room": {
+    "id": 14201,
+    "title": [
+      "[Temple of Lorminstra, Hallway]"
+    ],
+    "description": [
+      "A polished ebon door set with golden hinges and a golden latch fills the end of the corridor."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14199": "southwest",
+      "14202": "go door"
+    },
+    "timeto": {
+      "14199": 0.2,
+      "14202": 0.2
+    },
+    "uid": [
+      4742026
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "4bd952042d05641a3eecdf8bd22c7785",
+  "room": {
+    "id": 12122,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A white bier rests in the center of a copse of dead trees.  Four swords stand about it, one at each corner.  Resting upon the cold stone bed is a man.  His grey hair is held back by a golden crown, and his beard flows down his broad chest.  Upon the side of the stone is carved a set of characters.  Most of the letters have been lost to time, leaving only \"---r, K--g of -h- -od-.\""
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12153": "northwest",
+      "12157": "southeast",
+      "12207": "/rooms/12122/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12122/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12153": 0.2,
+      "12157": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569003
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      568,
+      1126,
+      578,
+      1136
+    ]
+  }
+}

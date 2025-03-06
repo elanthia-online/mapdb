@@ -1,0 +1,48 @@
+{
+  "checksum": "b01edc5c18069a31e1e03f863a240d1d",
+  "room": {
+    "id": 719,
+    "title": [
+      "[Ta'Illistim, Aaendarein Var]"
+    ],
+    "description": [
+      "Meandering along towards the edges of the cliffs, the var continues to skirt the bottom of the belltower.  Deep green ivy encases the bottom section of the tower in a living green carpet, as the upper portion of the grey stone belltower soars overhead.",
+      "Meandering along towards the edges of the cliffs, the var continues to skirt the bottom of the bell tower.  Deep green ivy encases the bottom section of the tower in a living green carpet, as the upper portion of the silvery blue stone bell tower soars overhead.  A silvery blue stone building and a small shop are tucked back to either side of the spire."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "718": "southwest",
+      "720": "northeast",
+      "724": "east",
+      "1772": "go building",
+      "1773": "go shop"
+    },
+    "timeto": {
+      "718": 0.2,
+      "720": 0.2,
+      "724": 0.2,
+      "1772": 0.2,
+      "1773": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100034
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1424,
+      498,
+      1447,
+      520
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "0050c273d6c6189780209751217379a0",
+  "room": {
+    "id": 6286,
+    "title": [
+      "[Dirt Mines, Dark Opening]"
+    ],
+    "description": [
+      "A long dark tunnel opens onto the mine's main vertical shaft.  A huge bucket swings lazily in the void, striking the opening every so often.  A musty breeze blows out from the tunnel, carrying the frighteningly seductive odor of warm loam."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6285": "/rooms/6286/wayto/stringproc-6285.rb",
+      "6287": "go tunnel"
+    },
+    "timeto": {
+      "6285": 0.2,
+      "6287": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pothinir grass",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372004
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      230,
+      254,
+      240,
+      264
+    ]
+  }
+}

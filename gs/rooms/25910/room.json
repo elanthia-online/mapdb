@@ -1,0 +1,33 @@
+{
+  "checksum": "c3b3c7877d7e2b48805a33a8d5b0c9a9",
+  "room": {
+    "id": 25910,
+    "title": [
+      "[Sylinar's Spire]"
+    ],
+    "description": [
+      "A dusty suit of platemail stands at rest, leaning against the dull greatsword held downward before it.  Across from the armor, a pocket of cold air enshrouds an open door.  A spiraling stone staircase spirals further upward to the sixth level of the tower."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25909": "down",
+      "25911": "go staircase",
+      "25913": "go door"
+    },
+    "timeto": {
+      "25909": 0.2,
+      "25911": 0.2,
+      "25913": 0.2
+    },
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      937,
+      211,
+      988,
+      264
+    ]
+  }
+}

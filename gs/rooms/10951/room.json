@@ -1,0 +1,39 @@
+{
+  "checksum": "efa9bfa4b1e5c3cd837e7e8c90f1cdc0",
+  "room": {
+    "id": 10951,
+    "title": [
+      "[Targon's Tavern, Tap Room]"
+    ],
+    "description": [
+      "Revelry seems to be the order of the day in this spacious room.  Targon reigns at fireside, exchanging tales of heroism with his customers which border on the impossible, but no one seems to mind.  As the tavern's back door opens to admit yet another hungry and thirsty traveler a barmaid makes her way to the bar, filling her tray with an order for the table in the corner.  Behind the gleaming bar, a wizened dwarf bartender awaits his next order, polishing the bartop with a well-used rag while he waits."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10851": "go door",
+      "10860": "out"
+    },
+    "timeto": {
+      "10851": 0.2,
+      "10860": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101951
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2686,
+      1006,
+      2726,
+      1045
+    ]
+  }
+}

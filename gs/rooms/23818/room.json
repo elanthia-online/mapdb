@@ -1,0 +1,32 @@
+{
+  "checksum": "5ff76554b46f4d9c238a54c86fed321d",
+  "room": {
+    "id": 23818,
+    "title": [
+      "[Collectibles Shop]"
+    ],
+    "description": [
+      "Numerous baubles and trinkets fill nearly every available nook and cranny of the building.  Dark and musty, a slight hint of dust and mildew hangs heavily in the air.  Sturdy shelves and deep oak bins strive fruitlessly to contain the jumbled mess.  Several attendents move confidently among the items, seemingly knowing exactly where everything is."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3503": "go out",
+      "30713": "/rooms/23818/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3503": 0.2,
+      "30713": "/rooms/23818/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "collectibles",
+      "urchin-access",
+      "urchin guide collectibles"
+    ],
+    "uid": [
+      14103475
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "212ee550d4f21df3751ac59be8a321f0",
+  "room": {
+    "id": 19747,
+    "title": [
+      "[Empath Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "19744": "east",
+      "19754": "north",
+      "30580": "ask igepton about train alchemy"
+    },
+    "timeto": {
+      "19744": 0.2,
+      "19754": 0.2,
+      "30580": 0.2
+    },
+    "tags": [
+      "empath alchemy masters",
+      "empath guild masters"
+    ],
+    "uid": [
+      654016
+    ],
+    "check_location": true
+  }
+}

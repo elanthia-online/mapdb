@@ -1,0 +1,31 @@
+{
+  "checksum": "7580a5890a9c0fa743ee6e2c7b3e8559",
+  "room": {
+    "id": 14012,
+    "title": [
+      "[West Wing Corridor]"
+    ],
+    "description": [
+      "This corridor is quiet, and the decorations here are minimal.  A soft carpet woven with several hues of complementary springtime shades matches the sage green silk covering the walls.  An oak door stands between a pair of triple-pronged candelabrum affixed to the walls, and opposite is a folded bamboo door."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14008": "east",
+      "18814": "go bamboo door"
+    },
+    "timeto": {
+      "14008": 0.2,
+      "18814": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384024
+    ]
+  }
+}

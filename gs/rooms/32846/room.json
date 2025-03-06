@@ -1,0 +1,35 @@
+{
+  "checksum": "bc3b24400af979297b50477433c10f05",
+  "room": {
+    "id": 32846,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Ramie silk carpeting extends down the hallway, patterned in shades of pale gold and green.  A cushioned white oak bench rests against the wall between a mistwood arch and a rune-embroidered ash grey curtain.  Climbing up a miniature trellis is a rosebush, its pale pink blossoms contrast and complement the pale ivory walls."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32840": "south",
+      "32845": "east",
+      "33145": "go mistwood arch",
+      "33186": "go ash curtain"
+    },
+    "timeto": {
+      "32840": 0.2,
+      "32845": 0.2,
+      "33145": 0.2,
+      "33186": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053307
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "164369f8554004824af5eab43f3d6858",
+  "room": {
+    "id": 32900,
+    "title": [
+      "[Brisker's Cove, Comyner's Docks]"
+    ],
+    "description": [
+      "Painted in deep, navy blue upon the golden, refurbished planks of the dock, a trio of arrows directs traffic either south to Piers 3 through 5, north towards Pier 1, or east towards Pier 2.  Guardrails fashioned of rope threaded through holes in thick pilings separate the western edge of the long dock, where there is a clear view of the bright ships owned by the wealthy and military of Seareach."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32899": "north",
+      "32901": "south",
+      "32907": "east"
+    },
+    "timeto": {
+      "32899": 0.2,
+      "32901": 0.2,
+      "32907": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140127
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      376,
+      659,
+      389,
+      674
+    ]
+  }
+}

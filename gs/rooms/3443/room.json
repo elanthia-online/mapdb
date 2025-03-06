@@ -1,0 +1,39 @@
+{
+  "checksum": "71fea677b6c045fba753b259394c7d85",
+  "room": {
+    "id": 3443,
+    "title": [
+      "[Bootlegger's and Brewer's]"
+    ],
+    "description": [
+      "The intersection of Bootlegger's Alley and Brewer's Alley creates a large clear space in front of the defensive tower that occupies the southwestern corner of Icemule Trace.  The comings and goings of the militia can be seen as uniformed halflings weave their way in and among the cobbles.",
+      "The intersection of Bootlegger's Alley and Brewer's Alley creates a large, clear space in front of the defensive tower that occupies the southwestern corner of Icemule Trace.  A pair of flickering torches outside the tower illuminates the area and causes the shadows of the militia to flicker off the walls, as the guards weave their way in and among the cobbles."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3442": "east",
+      "3444": "north",
+      "8981": "go tower"
+    },
+    "timeto": {
+      "3442": 0.2,
+      "3444": 0.2,
+      "8981": 0.2
+    },
+    "uid": [
+      735027
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      49,
+      1398,
+      69,
+      1418
+    ]
+  }
+}

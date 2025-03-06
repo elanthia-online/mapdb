@@ -1,0 +1,41 @@
+{
+  "checksum": "3ae557e0669765804e6adb192703ccfc",
+  "room": {
+    "id": 23388,
+    "title": [
+      "[A Narrow Shaft, Ladder]"
+    ],
+    "description": [
+      "A few snowflakes dance through the air near the top of the ladder, and the freezing wind howls mercilessly."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23387": "up",
+      "23389": "down"
+    },
+    "timeto": {
+      "23387": 0.2,
+      "23389": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018036
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      219,
+      70,
+      229,
+      81
+    ]
+  }
+}

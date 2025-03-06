@@ -1,0 +1,40 @@
+{
+  "checksum": "8da5ca3cd6d9ee238fc7626cd82f08b4",
+  "room": {
+    "id": 7671,
+    "title": [
+      "[Sea Cave, Waterfall Ledge]"
+    ],
+    "description": [
+      "You stare down at a multitude of tiny droplets dancing around the cascading waterfall below you.  A fresh breeze blows in from a crevice in the wall.  As you gaze around the room, a drawing, deeply chiseled into the rock wall, catches your eye.  A small stone shelf protrudes from the wall below the drawing."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7670": "down",
+      "7672": "go crevice"
+    },
+    "timeto": {
+      "7670": 0.2,
+      "7672": 0.2
+    },
+    "tags": [
+      "shelfae chieftain",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84413
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      953,
+      411,
+      963,
+      421
+    ]
+  }
+}

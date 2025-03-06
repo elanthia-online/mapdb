@@ -1,0 +1,40 @@
+{
+  "checksum": "cdd616549320b0cade3a3a25f2b1a594",
+  "room": {
+    "id": 31368,
+    "title": [
+      "[Illithien Aerie, Petrel Parlor]"
+    ],
+    "description": [
+      "Open and airy, the large chamber is brightly lit by refracted light from a chandelier above, though faint starlight can be glimpsed through high windows.  An immense carved marble fireplace dominates one pale wall, while the rest are adorned in paintings and tapestries.  Scattered chairs and settees are arranged in small clusters around low tables, while a lacquered tanik sideboard rests discreetly below a curving staircase leading upward."
+    ],
+    "paths": [
+      "Obvious exits: east, down"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "31366": "down",
+      "31369": "east",
+      "31371": "go staircase"
+    },
+    "timeto": {
+      "31366": 0.2,
+      "31369": 0.2,
+      "31371": 0.2
+    },
+    "tags": [
+      "meta:mho",
+      "meta:mho:The Ilyan Syndicate"
+    ],
+    "uid": [
+      18053003
+    ],
+    "image": "en-ta_illistim-illithien_aerie_mho-1670786460.png",
+    "image_coords": [
+      408,
+      800,
+      479,
+      829
+    ]
+  }
+}

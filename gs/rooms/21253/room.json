@@ -1,0 +1,29 @@
+{
+  "checksum": "255b1da5a9bac0358ff42659832f64ef",
+  "room": {
+    "id": 21253,
+    "title": [
+      "[Malrubius' Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a swirl-painted white stucco ceiling, a tattered merchant permit hangs on one of the painted white plaster walls.  Some hammered copper display hooks and a Vornavian silk-lined display case sit in opposite corners while a thick off-white carpet rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9021": "out",
+      "21272": "west",
+      "21273": "east"
+    },
+    "timeto": {
+      "9021": 0.2,
+      "21272": 0.2,
+      "21273": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

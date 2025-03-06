@@ -1,0 +1,41 @@
+{
+  "checksum": "0460192a97e2b9b6d9dc2d8608a906b2",
+  "room": {
+    "id": 12648,
+    "title": [
+      "[Constabulary, Hallway]"
+    ],
+    "description": [
+      "This short hallway is marked by two small grates that allow a dim light to filter in, and two iron-bound doors on opposite walls.  The poorly circulated air is stuffy and carries a slightly sour odor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "12647": "northeast",
+      "12649": "west",
+      "12650": "go first door",
+      "12651": "go second door"
+    },
+    "timeto": {
+      "12647": 0.2,
+      "12649": 0.2,
+      "12650": 0.2,
+      "12651": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030007
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      508,
+      1120,
+      518,
+      1130
+    ]
+  }
+}

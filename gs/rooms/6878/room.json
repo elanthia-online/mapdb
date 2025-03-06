@@ -1,0 +1,40 @@
+{
+  "checksum": "1f6fecadb64ebc2eeb2d1efe6be9985a",
+  "room": {
+    "id": 6878,
+    "title": [
+      "[Abandoned Inn, Larder]"
+    ],
+    "description": [
+      "Shelves full of preserves, jars of ingredients, and other foodstuffs line the walls, neatly placed with their labels facing out.  Boxes marked with the names of durable vegetables and fruits sit before them, and rounds of wax-covered cheese hang from the ceiling.  A small jar of honey has been opened and dribbles of the golden liquid cling to the container, as if a member of the kitchen staff had been snitching a sweet treat while fetching another item."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6876": "east",
+      "6879": "south",
+      "6880": "west"
+    },
+    "timeto": {
+      "6876": 0.2,
+      "6879": 0.2,
+      "6880": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21126
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      960,
+      1027,
+      970,
+      1037
+    ]
+  }
+}

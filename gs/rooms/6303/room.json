@@ -1,0 +1,41 @@
+{
+  "checksum": "0ab6d468f1b33c525b0c1c61d5ca32fe",
+  "room": {
+    "id": 6303,
+    "title": [
+      "[Dirt Mines, Sluice]"
+    ],
+    "description": [
+      "The thirsty roots of the forest hold the old sewer in a death grip, their fingers piercing the walls and ceiling and choking the stream.  This contest of strength is slower than the ponderous wrestling matches of Stone Trolls, but while the end may be centuries away, the outcome is certain.  Kiln-fired clay and masonry are no equal to these remorseless wooden hands."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6302": "northeast",
+      "6304": "/rooms/6303/wayto/stringproc-6304.rb"
+    },
+    "timeto": {
+      "6302": 0.2,
+      "6304": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372020
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      144,
+      203,
+      154,
+      213
+    ]
+  }
+}

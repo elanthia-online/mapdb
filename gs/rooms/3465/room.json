@@ -1,0 +1,45 @@
+{
+  "checksum": "e1b3e7caf755248ef93239ba5a8165c0",
+  "room": {
+    "id": 3465,
+    "title": [
+      "[Snowy Plains, Deep Freeze]"
+    ],
+    "description": [
+      "As you plod along in this wintry wasteland, you find it hard to avoid the slippery ice patches.  The snowfall has reduced visibility to less than an arm's length and it is decidedly colder."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "rough",
+    "wayto": {
+      "3464": "/rooms/3465/wayto/stringproc-3464.rb",
+      "3466": "/rooms/3465/wayto/stringproc-3466.rb"
+    },
+    "timeto": {
+      "3464": 0.2,
+      "3466": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044130
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      836,
+      608,
+      846,
+      618
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "2973b39f1fc7bcc1702051b496d6befd",
+  "room": {
+    "id": 20871,
+    "title": [
+      "[Obsidian Tower, Steam Cavern]"
+    ],
+    "description": [
+      "Wisps of steam curl about the cavern, rising from the natural hot springs in the center.  Benches carved from the walls hold towels and folded robes, and several pairs of soft sandals rest beneath them.  A few blue fire torches flicker from the walls, giving the room a gentle glow and illuminating the stairway upwards."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20870": "go stairway",
+      "20874": "go springs",
+      "20875": "east"
+    },
+    "timeto": {
+      "20870": 0.2,
+      "20874": 0.2,
+      "20875": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower"
+    ],
+    "uid": [
+      214013
+    ],
+    "image": "wo-obsidian-tower-1626034546.png",
+    "image_coords": [
+      917,
+      280,
+      973,
+      336
+    ]
+  }
+}

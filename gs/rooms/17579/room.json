@@ -1,0 +1,31 @@
+{
+  "checksum": "9bc60586d5a4c2136dc8fb5305e85b01",
+  "room": {
+    "id": 17579,
+    "title": [
+      "[Annex, Twilight Hall Lobby]"
+    ],
+    "description": [
+      "Simple, but elegant, the teakwood flooring of this room is polished to a lustrous sheen.  A scarlet velvet pennant edged with silver and deep blue hangs between a heavy, white muslin curtain and a scarlet linen curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12296": "go pointed arch",
+      "17580": "go scarlet curtain",
+      "31057": "go white curtain"
+    },
+    "timeto": {
+      "12296": 0.2,
+      "17580": 0.2,
+      "31057": 0.2
+    },
+    "tags": [
+      "lockerentrance:twilighthall",
+      "twilight locker",
+      "meta:locker annex:Twilight Hall"
+    ]
+  }
+}

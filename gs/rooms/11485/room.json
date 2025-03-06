@@ -1,0 +1,78 @@
+{
+  "checksum": "8bdd42b6c25bccb14399b5681609d2cc",
+  "room": {
+    "id": 11485,
+    "title": [
+      "[Ruined Tower, Exterior]"
+    ],
+    "description": [
+      "Deep grass extends all the way to the stony reef to the south.  Waves crash into the reef, sending up a white plume of salt spray.  The magnificent, white-capped expanse of Maelstrom Bay is spread out before you.  The reef extends to the southwest, beyond which can be seen a portion of the forested mainland and a sliver of the island of River's Rest."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Ruined Tower",
+    "climate": "temperate",
+    "terrain": "barren scrub",
+    "wayto": {
+      "11442": "/rooms/11485/wayto/stringproc-11442.rb",
+      "11486": "northeast",
+      "11487": "northwest"
+    },
+    "timeto": {
+      "11442": 0.2,
+      "11486": 0.2,
+      "11487": 0.2
+    },
+    "tags": [
+      "stalk of goldenrod",
+      "bright red teaberry",
+      "wild chokecherry",
+      "pink clover blossom",
+      "sprig of larkspur",
+      "golden buttercup",
+      "stalk of chicory",
+      "purple clover blossom",
+      "sagebrush root",
+      "wild strawberry",
+      "white clover blossom",
+      "yellow primrose",
+      "sprig of wild lilac",
+      "yellow clover blossom",
+      "cactacae spine",
+      "wintergreen leaf",
+      "blueberries",
+      "handful of currants",
+      "elderberries",
+      "wild grapes",
+      "broken twig",
+      "sprig of alyssum",
+      "red clover blossom",
+      "small wild rose",
+      "Imaera's Lace",
+      "branch of acacia",
+      "murkweed",
+      "mistweed",
+      "fire lily",
+      "pepperthorn root",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      305055
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      675,
+      1058,
+      685,
+      1068
+    ]
+  }
+}

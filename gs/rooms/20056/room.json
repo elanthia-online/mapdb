@@ -1,0 +1,33 @@
+{
+  "checksum": "b78a20cbc94c7f660fc321500aba3d01",
+  "room": {
+    "id": 20056,
+    "title": [
+      "[Museum, Basement Tunnel]"
+    ],
+    "description": [
+      "A draft gently blows through the room at odd intervals, causing the torches that dot the walls to gutter and flare with each passing breeze.  The rough walls are crafted of timber braces and mortared stone, allowing the room to remain cool even in the summer.  An open archway in the north wall leads to an adjacent room, while a similar arch in the south wall has been bricked up with a contrastingly lighter color than the wall around it."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20054": "east",
+      "20057": "go archway"
+    },
+    "timeto": {
+      "20054": 0.2,
+      "20057": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28150
+    ]
+  }
+}

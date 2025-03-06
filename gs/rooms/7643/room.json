@@ -1,0 +1,43 @@
+{
+  "checksum": "d9684622f1465261b6a69589023b4801",
+  "room": {
+    "id": 7643,
+    "title": [
+      "[Beach Area, Dock Piling]"
+    ],
+    "description": [
+      "You manage to make it this far, clinging to the sour smelling wood, your fingers digging splinters out of the piling.  Above you is the relative safety of the dock.  Below you is a slimy wooden platform largely covered with odd growths."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "7642": "up",
+      "7644": "down"
+    },
+    "timeto": {
+      "7642": 0.2,
+      "7644": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "broken twig",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84207
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      276,
+      331,
+      286,
+      341
+    ]
+  }
+}

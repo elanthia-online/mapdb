@@ -1,0 +1,33 @@
+{
+  "checksum": "39bd63b0e889bf424fa2b18365e72b1b",
+  "room": {
+    "id": 30291,
+    "title": [
+      "[Wandering Kraken's Mail Shop]"
+    ],
+    "description": [
+      "Neat as a pin and cozy, the shop has several mail-related wares stacked on shelves behind a polished driftwood counter with crystalline sides, and red-bricked walls are painted with cheerful images of absinthe green krakens juggling packages, letters, and books of stamps in their many, ocean blue tentacles.  Several tropical plants in terracotta vases line the walls, and a bright red hibiscus shrub flourishes next to piles of stacked mail."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28898": "out",
+      "30716": "/rooms/30291/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28898": 0.2,
+      "30716": "/rooms/30291/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      7118541
+    ]
+  }
+}

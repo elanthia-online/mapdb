@@ -1,0 +1,87 @@
+{
+  "checksum": "9df5c504c9f050701497d57a23802d7d",
+  "room": {
+    "id": 18897,
+    "title": [
+      "[Mist Harbor, Vineyard]"
+    ],
+    "description": [
+      "Verdant foliage tumbles across the short wall of the vineyard, its lush tendrils seeking purchase in the dirt and stone that line the pathway.  Here and there, dragonflies flicker in and out of deep shadows cast by the large stone-faced building that towers over the area.  A blue and red-paned lantern hangs lightless to one side above an ornate bronze plaque.",
+      "Verdant foliage tumbles across the short wall of the vineyard, its lush tendrils seeking purchase in the dirt and stone that line the pathway.  Here and there, fireflies flicker in the deep shadows of the exotic and domestic plant life that threatens to consume the large stone-faced building that towers above the area.  A blue and red-paned lantern provides ample light to see by and also illuminates an ornate bronze plaque."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "cultivated",
+    "wayto": {
+      "16728": "southeast",
+      "19548": "southwest",
+      "19860": "go building",
+      "30718": "/rooms/18897/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "16728": 0.2,
+      "19548": 0.2,
+      "19860": "/rooms/18897/timeto/stringproc-19860.rb",
+      "30718": "/rooms/18897/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "clericguild",
+      "meta:mapname:Isle of the Four Winds - Cleric Guild",
+      "meta:mapshortname:Cleric Guild (FWI)",
+      "meta:mapcategory:Isle of the Four Winds",
+      "meta:mapcategory:Guilds",
+      "meta:mapcategory:Premium",
+      "urchin guide clericguild",
+      "urchin-access",
+      "cleric guild",
+      "yellow heliconia",
+      "orange heliconia",
+      "pink heliconia",
+      "red heliconia",
+      "purple passionflower",
+      "pink passionflower",
+      "red passionflower",
+      "white passionflower",
+      "yellow passionflower",
+      "blue passionflower",
+      "yew twig",
+      "luckbloom blossom",
+      "wavepetal blossom",
+      "onion skin",
+      "bay leaf",
+      "tobacco leaves",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "sweet potato",
+      "red onion",
+      "sweet onion",
+      "yellow papaya",
+      "orange-yellow starfruit",
+      "red-green mango",
+      "purple passion fruit",
+      "red lychee",
+      "green guava",
+      "curly garlic scapes",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      678031
+    ],
+    "image": "ifw-cleric_guild.png",
+    "image_coords": [
+      1264,
+      1920,
+      1472,
+      2098
+    ]
+  }
+}

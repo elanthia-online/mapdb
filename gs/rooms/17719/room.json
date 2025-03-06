@@ -1,0 +1,38 @@
+{
+  "checksum": "e55cc5e8e42aa995e15ce65eb40960cf",
+  "room": {
+    "id": 17719,
+    "title": [
+      "[Citadel, Dungeon Corridor]"
+    ],
+    "description": [
+      "Placed in the corner of the corridor is a square table set with plates, glasses, and utensils, all coated with thick layers of dust.  Chairs lie on their sides or back by the table joined by a single skeleton still grasping a spoon in its bony grasp.  Underneath the table sits a bucket."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17711": "south",
+      "17717": "east"
+    },
+    "timeto": {
+      "17711": 0.2,
+      "17717": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377305
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      37,
+      984,
+      47,
+      994
+    ]
+  }
+}

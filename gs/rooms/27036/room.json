@@ -1,0 +1,42 @@
+{
+  "checksum": "056954ccd4a654542ff580b2eeed3a8c",
+  "room": {
+    "id": 27036,
+    "title": [
+      "[Mooring Dock, Walkway]"
+    ],
+    "description": [
+      "The coastline of the island is still visible from this point on the dock despite the murky shadows that night brings to the island, its white sands greeting the steps jutting forth from the walkway further north.  Flickering lanterns cast light upon the planks of the dock as well as the post-tied boats bobbing slowly in the ocean's current."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "18315": "north",
+      "27037": "south",
+      "27039": "go boat"
+    },
+    "timeto": {
+      "18315": 0.2,
+      "27037": 0.2,
+      "27039": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3210487
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1844,
+      4717,
+      1876,
+      4747
+    ]
+  }
+}

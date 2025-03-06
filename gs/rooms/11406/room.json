@@ -1,0 +1,42 @@
+{
+  "checksum": "dfacbca36a90bf211775095858cf0291",
+  "room": {
+    "id": 11406,
+    "title": [
+      "[Cavern, Ledge]"
+    ],
+    "description": [
+      "You are balanced on a small ledge which is jutting out from a soft waterfall which forms the north wall.  Below is the cavern floor and above you can make out the edge of a chamber.  From here you can see more hand-holds which can get you to the top."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11405": "down",
+      "11407": "up"
+    },
+    "timeto": {
+      "11405": 0.2,
+      "11407": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      36004
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      747,
+      1166,
+      757,
+      1176
+    ]
+  }
+}

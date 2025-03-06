@@ -1,0 +1,45 @@
+{
+  "checksum": "6a7a3488067d1f4dc662e82b62408496",
+  "room": {
+    "id": 21355,
+    "title": [
+      "[Sylvanfair, Rose Garden]"
+    ],
+    "description": [
+      "The scent of a hundred different kinds of roses fills the air here.  Bushes and vines grafted into the Sylvanfair tree bear magical blooms of every imaginable color, throughout every season.  A large branch arches off to the west."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21331": "west",
+      "21356": "go ora door",
+      "21357": "go crystal door",
+      "21358": "go oak door",
+      "21359": "go rosewood door",
+      "21360": "go wooden door"
+    },
+    "timeto": {
+      "21331": 0.2,
+      "21356": 0.2,
+      "21357": 0.2,
+      "21358": 0.2,
+      "21359": 0.2,
+      "21360": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211022
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      727,
+      86,
+      767,
+      126
+    ]
+  }
+}

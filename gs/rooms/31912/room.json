@@ -1,0 +1,34 @@
+{
+  "checksum": "b7c821f914287a5761bbc29af71b8210",
+  "room": {
+    "id": 31912,
+    "title": [
+      "[House of Twilight]"
+    ],
+    "description": [
+      "Curls of once decadent wallpaper are abandoning the wall in several places, leaving bare wood beneath, and cobwebs span every corner.  An archway, staircase, and door at the rear of the foyer are roped off, but a lintel-capped mistwood door stands open off to the side, framed on one side by a repurposed coat rack laden with harnesses and an old nail barrel with a plank top on the other.  A hastily written note is attached to the barrel, a small sign is attached to the rack, and a very large parchment notice hangs directly above a massive hole in the floor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31613": "out",
+      "31913": "go hole",
+      "32098": "go mistwood door"
+    },
+    "timeto": {
+      "31613": 0.2,
+      "31913": 0.2,
+      "32098": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084613
+    ]
+  }
+}

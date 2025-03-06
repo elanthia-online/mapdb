@@ -1,0 +1,32 @@
+{
+  "checksum": "f858a8a931f9318c2517cea4f5a1e820",
+  "room": {
+    "id": 8893,
+    "title": [
+      "[Lanai's Warehouse, Clay Jars]"
+    ],
+    "description": [
+      "Sealed clay jars lie neatly stacked against the western wall of the warehouse.  They seem to be given a wide berth by the warehouse workers."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8892": "east",
+      "8894": "south"
+    },
+    "timeto": {
+      "8892": 0.2,
+      "8894": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5045
+    ]
+  }
+}

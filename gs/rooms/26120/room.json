@@ -1,0 +1,47 @@
+{
+  "checksum": "dd7d06f58ac092d7c0fbc533fc6ae967",
+  "room": {
+    "id": 26120,
+    "title": [
+      "[Empyrean Tower, Repository]"
+    ],
+    "description": [
+      "A forgotten cart loaded with leather-bound tomes and neatly rolled scrolls is parked between two openings in the expansive stone wall of the tower.  Glowing light emanating from within crystal-filled chambers floods the area with color, the beams drawn to the east, focused on a bulky metal contraption.  A humming noise echoes throughout the cavernous darkness above."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26117": "southwest",
+      "26121": "west",
+      "26125": "go salmon chamber",
+      "26126": "go cyan chamber",
+      "26127": "go magenta chamber",
+      "26128": "go mauve chamber"
+    },
+    "timeto": {
+      "26117": 0.2,
+      "26121": 0.2,
+      "26125": 0.2,
+      "26126": 0.2,
+      "26127": 0.2,
+      "26128": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7107004
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      1314,
+      335,
+      1349,
+      370
+    ]
+  }
+}

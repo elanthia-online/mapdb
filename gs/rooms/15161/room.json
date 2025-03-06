@@ -1,0 +1,29 @@
+{
+  "checksum": "711ccbaeed8bd6aa915946a655c19bde",
+  "room": {
+    "id": 15161,
+    "title": [
+      "[Rogane's Combat Gear]",
+      "[Rogane's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by varnished ebonwood walls, the shop features a large potted fern in the center of its black marble floor.  An intricate knot-worked wall-hanging hangs under the vaulted ceiling.  Right near the front is an intricately carved ebonwood stand and an oval-shaped speckled marble counter."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "354": "out",
+      "15485": "west",
+      "15486": "east"
+    },
+    "timeto": {
+      "354": 0.2,
+      "15485": 0.2,
+      "15486": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

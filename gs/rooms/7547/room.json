@@ -1,0 +1,53 @@
+{
+  "checksum": "14bf081e74f24736a6d46c303c146737",
+  "room": {
+    "id": 7547,
+    "title": [
+      "[Catacombs, Dark Cavern]"
+    ],
+    "description": [
+      "The thick limestone columns are spaced widely apart here forming a clearing in the forest of stone.  Rivulets of water run down the walls of the cavern to gather in large puddles where the walls meet the floor.  A dark passage opens to the north and continues out of sight."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7545": "southwest",
+      "7546": "west",
+      "7548": "north"
+    },
+    "timeto": {
+      "7545": 0.2,
+      "7546": 0.2,
+      "7548": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490003
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      394,
+      1070,
+      404,
+      1080
+    ]
+  }
+}

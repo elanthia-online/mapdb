@@ -1,0 +1,56 @@
+{
+  "checksum": "76a528567a418170df36b3a20e06585f",
+  "room": {
+    "id": 6120,
+    "title": [
+      "[Krag Slopes]"
+    ],
+    "description": [
+      "A worn mountain trail climbs up the side of the slope.  Sparse patches of vegetation testify to the harsh conditions of this rocky mountainside.  A deep chasm yawns to the north, its depths lost in the darkness as it seems to swallow the dim light that manages its way past the towering heights to the south."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "the Krag slopes",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6119": "/rooms/6120/wayto/stringproc-6119.rb",
+      "6121": "southwest"
+    },
+    "timeto": {
+      "6119": 0.2,
+      "6121": 0.2
+    },
+    "tags": [
+      "sprig of larkspur",
+      "wild pink geranium",
+      "cuctucae berry",
+      "sassafras leaf",
+      "golden aster",
+      "stalk of bluebells",
+      "sweetfern stalk",
+      "marallis berry",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      495002
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1709,
+      26,
+      1745,
+      62
+    ]
+  }
+}

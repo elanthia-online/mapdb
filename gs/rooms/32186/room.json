@@ -1,0 +1,32 @@
+{
+  "checksum": "d8544fa2d6d3c852458e8f5101835c50",
+  "room": {
+    "id": 32186,
+    "title": [
+      "[The Minaret, Rooftop]"
+    ],
+    "description": [
+      "In the center of the minaret, a decorative stone spire has been rudely truncated and the carved block left to sit alongside its former place.  An enormous telescope of aged brass and shining glass sits atop the makeshift dais, sturdy and steady as if it had always been there.  Around the instrument are boxes of papers and crates of ornaments.  A trapdoor, or a long fall, are the only ways off of the rooftop."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32185": "go trapdoor"
+    },
+    "timeto": {
+      "32185": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084253
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "a5e1df3b452afad0f4f34b4287f49a5a",
+  "room": {
+    "id": 33285,
+    "title": [
+      "[Vornavis, Outer Bailey Avenue]"
+    ],
+    "description": [
+      "Wide and spacious, the lane to the east is free of buildings to allow the guards on the parapets of the outer bailey walls an unobstructived view of the area, while below them, an iron-reinforced ironwood portcullis provides access to a built-in gatehouse.  The nearest building is a three-story orphanage with a gabled roof that is set back from the walls by a distance of thirty or forty paces, its nearest partners sitting across the street are much smaller buildings that are clustered along the edges of a crowded cobblestone avenue that darts deeper into the city."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33284": "west",
+      "33294": "go ironwood portcullis"
+    },
+    "timeto": {
+      "33284": 0.2,
+      "33294": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201114
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1789,
+      765,
+      1811,
+      787
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "260aec23e29e409622574de6cda9f7d1",
+  "room": {
+    "id": 19205,
+    "title": [
+      "[Baker's Good Baked Goods]"
+    ],
+    "description": [
+      "Behind a long oak-topped counter stand three short halfling-sized mannequins in one corner of the room.  Each of the three is dressed up to resemble a cook or perhaps a pastry chef, and an interesting variety of tools adorns the counter before them.  Oddly, the faces of all three mannequins are covered with jam, fruit, and chocolate.  It seems almost as if a food fight occurred here...recently."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19203": "north",
+      "19206": "east",
+      "19207": "northeast"
+    },
+    "timeto": {
+      "19203": 0.2,
+      "19206": 0.2,
+      "19207": 0.2
+    }
+  }
+}

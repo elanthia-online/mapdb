@@ -1,0 +1,39 @@
+{
+  "checksum": "5b4b798b3fe47ced543769c49803e953",
+  "room": {
+    "id": 11208,
+    "title": [
+      "[Armory, Latrine]"
+    ],
+    "description": [
+      "This room holds a large tub and a row of four seats, all of which connect to the large sewage cavern below.  The roof here has been pulled completely down, which has done nothing to relieve the stench."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Citadel",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11207": "north"
+    },
+    "timeto": {
+      "11207": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2100116
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      278,
+      233,
+      288,
+      243
+    ]
+  }
+}

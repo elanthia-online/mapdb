@@ -1,0 +1,56 @@
+{
+  "checksum": "5481d1e9a336e5f129ce01d8149b96fa",
+  "room": {
+    "id": 11423,
+    "title": [
+      "[Troll Lair, Long Hall]"
+    ],
+    "description": [
+      "The stench lessens as you continue along the passage, yet you are still surrounded by filth.  Rotting leaves and gamey-smelling skins litter the floor.  Dried blood stains the walls and floors, which are pitted and marked as if they had been hit with something heavy.  A large skin lies in the center of the hall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southwest"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11416": "southwest",
+      "11424": "east",
+      "11425": "north",
+      "11426": "climb trap"
+    },
+    "timeto": {
+      "11416": 0.2,
+      "11424": 0.2,
+      "11425": 0.2,
+      "11426": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "ironfern root",
+      "murdroot",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      40004
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      906,
+      1357,
+      916,
+      1367
+    ]
+  }
+}

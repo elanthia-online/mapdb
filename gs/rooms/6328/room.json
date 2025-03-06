@@ -1,0 +1,46 @@
+{
+  "checksum": "6d830dc020d94cad93793837226358ff",
+  "room": {
+    "id": 6328,
+    "title": [
+      "[Wizard Guild, Courtyard]"
+    ],
+    "description": [
+      "A few fireflies flit around the large courtyard of lush green grass.  The faint scent of twisted rose bushes wafts with the night air.  A dark glistening obelisk rests upon a pedestal in the center of the courtyard and a few lanterns light the doors to the guild foyer.",
+      "A large courtyard of lush green grass surrounds the guild.  The sweet scent of twisted rose bushes mingles with the fresh air.  A dark glistening obelisk rests upon a pedestal in the center of the courtyard and a few benches line the south wall of the guild fortifications."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6327": "go portcullis",
+      "6329": "go ironbound doors",
+      "9399": "go archway"
+    },
+    "timeto": {
+      "6327": 0.2,
+      "6329": "/rooms/6328/timeto/stringproc-6329.rb",
+      "9399": 0.2
+    },
+    "tags": [
+      "wizardguild",
+      "wizard guild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      681001
+    ],
+    "image": "wl-wizard_guild.jpg",
+    "image_coords": [
+      317,
+      616,
+      366,
+      663
+    ]
+  }
+}

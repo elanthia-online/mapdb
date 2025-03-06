@@ -1,0 +1,41 @@
+{
+  "checksum": "77d07ba6b9398d70a7fddf9fa0de47f0",
+  "room": {
+    "id": 12753,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "A rusted iron sconce has fallen from the wall, resting below the surface of the water, near the base of the doorway in the northern wall.  Small pieces of debris drift back and forth with the current, and bits of foam line the walls where sea meets stone."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, northwest"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12751": "northwest",
+      "12752": "north",
+      "12754": "east",
+      "12762": "west"
+    },
+    "timeto": {
+      "12751": 0.2,
+      "12752": 0.2,
+      "12754": 0.2,
+      "12762": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031092
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      607,
+      303,
+      643,
+      339
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "b99881268cb5fdd57ab81b5b01030ea6",
+  "room": {
+    "id": 12347,
+    "title": [
+      "[Wyvern Keep, City Clerk]"
+    ],
+    "description": [
+      "Thick walnut bookshelves run from the floor to the ceiling on all the walls of this spacious office.  The shelves even extend above the doorsill, making use of every bit of available wall space.  Heavy tomes, ledgers, and volume after volume of legal documents crowd the shelves.  Lanterns suspended from the varnished ceiling beams cast ample light to illuminate the room.  A large, polished walnut desk with an accompanying straight-backed chair occupies a place on the red marble floor in the room's center."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10313": "go archway",
+      "30713": "/rooms/12347/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "10313": 0.2,
+      "30713": "/rooms/12347/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "debt",
+      "urchin-access",
+      "urchin guide debts",
+      "debts"
+    ],
+    "uid": [
+      14104002
+    ],
+    "image": "en-ta_vaalor-wyverns_keep-1488759285.png",
+    "image_coords": [
+      309,
+      606,
+      452,
+      668
+    ]
+  }
+}

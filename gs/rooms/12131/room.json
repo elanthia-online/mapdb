@@ -1,0 +1,50 @@
+{
+  "checksum": "6cc820f98a9003c1ff4455be083a2913",
+  "room": {
+    "id": 12131,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A dilapidated yellow house sits just to the west of you.  It is surrounded by a small, white fence, and a pebble walkway flanked by withered flowers leads to the old domicile.  Sitting in the windowsill is a large, orange cat that looks at you with spectral eyes.  Just behind it is a small, ghostly girl with her hair in pigtails, stroking the fur of her long departed friend. She looks at you with large eyes, seeming to see through you into some other realm altogether."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest",
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12131/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12131/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12131/wayto/stringproc-12093.rb",
+      "12120": "northwest",
+      "12132": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12120": 0.2,
+      "12132": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4567011
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      949,
+      617,
+      959,
+      627
+    ]
+  }
+}

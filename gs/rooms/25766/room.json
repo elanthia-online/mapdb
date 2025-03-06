@@ -1,0 +1,43 @@
+{
+  "checksum": "5542a90ec0c3af78263f7a1bc3f34d21",
+  "room": {
+    "id": 25766,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Parting the waters to either side of it, a long wooden dock stretches outward from the island to the northeast and is ringed by buoys and boats.  High above, the clouds stretch from the eastern horizon and briefly obscure the pale glow of the moon."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25765": "/rooms/25766/wayto/stringproc-25765.rb",
+      "25768": "/rooms/25766/wayto/stringproc-25768.rb",
+      "25772": "/rooms/25766/wayto/stringproc-25772.rb",
+      "33238": "/rooms/25766/wayto/stringproc-33238.rb"
+    },
+    "timeto": {
+      "25765": 6,
+      "25768": 6,
+      "25772": 6,
+      "33238": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223831
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1761,
+      1279,
+      1780,
+      1299
+    ]
+  }
+}

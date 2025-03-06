@@ -1,0 +1,46 @@
+{
+  "checksum": "1d850e7c2af3c4d95c28f5f5d6d9bb1e",
+  "room": {
+    "id": 7147,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A great stone table dominates the center of this room.  Arcane runes are carved into its pitted surface, and are all but obscured by time and wear.  A stone pillar stands at the head of the table, close against the wall."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7148": "south",
+      "7149": "southwest"
+    },
+    "timeto": {
+      "7148": 0.2,
+      "7149": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01",
+      "meta:maze",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      41004,
+      41009,
+      41014
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      899,
+      498,
+      909,
+      508
+    ]
+  }
+}

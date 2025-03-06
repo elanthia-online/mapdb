@@ -1,0 +1,29 @@
+{
+  "checksum": "85734580378c8fed964dc981aee58e1b",
+  "room": {
+    "id": 24653,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Turning this way and that in a horizontal undulation, the narrow walls and low ceiling contribute to the claustrophobic sensation of this winding connector.  Passing in any direction is difficult and made unpleasant by the piled mounds of dirt staggered along the edges of the walkway."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southwest"
+    ],
+    "location": false,
+    "wayto": {
+      "24643": "northeast",
+      "24650": "southwest",
+      "24654": "north",
+      "24655": "east"
+    },
+    "timeto": {
+      "24643": 0.2,
+      "24650": 0.2,
+      "24654": 0.2,
+      "24655": 0.2
+    },
+    "check_location": true
+  }
+}

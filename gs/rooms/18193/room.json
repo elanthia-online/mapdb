@@ -1,0 +1,40 @@
+{
+  "checksum": "7f70a6dec7b52a5a67d796651b1a57ef",
+  "room": {
+    "id": 18193,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "A small stream flows across the path with only two unsteady looking foot stones set in the water to allow crossing.  Beneath the surface, numerous gold and silvery fish dart about exploring their watery abode."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18192": "south",
+      "18194": "north"
+    },
+    "timeto": {
+      "18192": 0.2,
+      "18194": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312020
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      403,
+      212,
+      415,
+      223
+    ]
+  }
+}

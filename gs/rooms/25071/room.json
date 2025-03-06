@@ -1,0 +1,34 @@
+{
+  "checksum": "beaa3aff940dd83386392c68ff925a53",
+  "room": {
+    "id": 25071,
+    "title": [
+      "[Reim Settlement, Dungeon]"
+    ],
+    "description": [
+      "A single, narrow hole is carved directly overhead, casting a spotlight into the center of the dungeon.  Water trickles down the moss-covered stone walls, the drops echoing loudly amidst the sounds of strange clicking, hissing, and screams.  The stairwell narrows as it continues down, deeper into the dungeon."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Settlement of Reim",
+    "wayto": {
+      "25070": "up",
+      "25072": "down"
+    },
+    "timeto": {
+      "25070": 0.2,
+      "25072": 0.2
+    },
+    "uid": [
+      -7105134
+    ],
+    "image": "imt-Reim-1260914759.png",
+    "image_coords": [
+      209,
+      606,
+      221,
+      618
+    ]
+  }
+}

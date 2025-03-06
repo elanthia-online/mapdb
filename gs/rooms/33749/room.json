@@ -1,0 +1,31 @@
+{
+  "checksum": "f1dacc90c451b9d244bbe8ff643ab7a7",
+  "room": {
+    "id": 33749,
+    "title": [
+      "[Imperial County House, Exchange]"
+    ],
+    "description": [
+      "Dimly lit and cramped, the small hallway is stifling and warm.  Very little airflow makes its way through the passage as crates and boxes fill the eastern wall from floor to ceiling.  Illuminated from within, a small exchange booth houses a sleepy clerk."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Seareach",
+    "wayto": {
+      "33748": "west",
+      "33750": "east"
+    },
+    "timeto": {
+      "33748": 0.2,
+      "33750": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "exchange"
+    ],
+    "uid": [
+      7140513
+    ]
+  }
+}

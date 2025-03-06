@@ -1,0 +1,43 @@
+{
+  "checksum": "9b8bbded7fd6bb8b68aa12fec74cfe85",
+  "room": {
+    "id": 17192,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "A small black marble building is set against the walls of the courtyard, its diminutive form shaded by a large willow tree overhead.  The willow's vines sway slowly every few moments, obscuring the dark walls of the building as stray winds pass by.  A pair of golden doors lead into the small structure, their surfaces engraved with a detailed rendition of keys.  The very air seems to muffle all sounds, imparting a strange pervasive silence to the area."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6321": "north",
+      "17194": "go building",
+      "18596": "go shop"
+    },
+    "timeto": {
+      "6321": 0.2,
+      "17194": 0.2,
+      "18596": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      671016
+    ],
+    "image": "wl-cleric_guild-1275417297.png",
+    "image_coords": [
+      577,
+      408,
+      623,
+      454
+    ]
+  }
+}

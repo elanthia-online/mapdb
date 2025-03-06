@@ -1,0 +1,43 @@
+{
+  "checksum": "ee14272a00d88614bbc0f8eb335246ad",
+  "room": {
+    "id": 11845,
+    "title": [
+      "[Old Ta'Faendryl, East Market]"
+    ],
+    "description": [
+      "A huge oak tree rises from the cracked pavement of the plaza.  The gnarled, massive roots of the tree churn up the ground around it, adding a finishing touch to the destruction that time has wrought on the ancient market square."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11836": "south",
+      "11844": "northeast",
+      "11846": "northwest"
+    },
+    "timeto": {
+      "11836": 0.2,
+      "11844": 0.2,
+      "11846": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004025
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      783,
+      766,
+      793,
+      776
+    ]
+  }
+}

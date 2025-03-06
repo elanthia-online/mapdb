@@ -1,0 +1,29 @@
+{
+  "checksum": "4c3516aeb4a23357bfcacbdb50510577",
+  "room": {
+    "id": 30635,
+    "title": [
+      "[Landing Hall, Ballroom]"
+    ],
+    "description": [
+      "Judging by the grandiose decoration and large size, this room seems to be intended for formal occasions.  An elegant crystal chandelier hangs from the ceiling, and gold and red tapestries cover the walls.  A dance floor is in the center of the room, surrounded by dinner tables.  Along the north wall, a stage has been set up for the band that is currently playing soft music.  The eastern wall is made entirely out of paneled glass, with two glass doors leading outside."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30634": "go grand doors",
+      "30636": "go doors",
+      "30637": "go tapestry"
+    },
+    "timeto": {
+      "30634": 0.2,
+      "30636": 0.2,
+      "30637": 0.2
+    },
+    "uid": [
+      853012
+    ]
+  }
+}

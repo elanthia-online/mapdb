@@ -1,0 +1,47 @@
+{
+  "checksum": "acf34ab5ed432e43253e59e0281a6ccf",
+  "room": {
+    "id": 23408,
+    "title": [
+      "[A Dark Tunnel, Crossroads]"
+    ],
+    "description": [
+      "The tunnel opens up considerably in this small room.  Three torches burn steadily, one in-between each archway leading a different direction.  A few uncut gems, stuck in the walls of the space, gleam dimly in the dancing light."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23407": "west",
+      "23409": "east",
+      "23412": "south"
+    },
+    "timeto": {
+      "23407": 0.2,
+      "23409": 0.2,
+      "23412": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018013
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      160,
+      640,
+      171,
+      650
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "4ab6062499d466ea8db4bb75012b6853",
+  "room": {
+    "id": 31544,
+    "title": [
+      "[Mahkra Academy, Antechamber]"
+    ],
+    "description": [
+      "Several pots of flowering cactus are scattered about the small chamber.  An iron sconce is fixed to the wall next to a thick mistwood door.  Windowless, the area is blanketed in shadow despite being crafted from silvery, alabaster stone."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "New Ta'Faendryl",
+    "wayto": {
+      "31543": "east",
+      "31545": "go mistwood door",
+      "31546": "west"
+    },
+    "timeto": {
+      "31543": 0.2,
+      "31545": 0.2,
+      "31546": 0.2
+    },
+    "uid": [
+      13033102
+    ]
+  }
+}

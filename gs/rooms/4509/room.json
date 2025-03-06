@@ -1,0 +1,32 @@
+{
+  "checksum": "5625804d8f22a45548a138da078b0aa6",
+  "room": {
+    "id": 4509,
+    "title": [
+      "[The Pack Mule, Entry]"
+    ],
+    "description": [
+      "Small braziers stand in each corner of this small room, casting reflections off the various mining tools mounted securely to the walls.  Two large archways lead off to the east and west from the center of the room.  Along the north wall a heavy velvet curtain conceals the contents of the room behind it."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4503": "out",
+      "4510": "west",
+      "4511": "east",
+      "4512": "north"
+    },
+    "timeto": {
+      "4503": 0.2,
+      "4510": 0.2,
+      "4511": 0.2,
+      "4512": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

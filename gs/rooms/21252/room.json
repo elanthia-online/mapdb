@@ -1,0 +1,29 @@
+{
+  "checksum": "44a2851c47c56b6a350796095185fb04",
+  "room": {
+    "id": 21252,
+    "title": [
+      "[Spert's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by refined oak-paneled walls, the shop features an elegantly woven reed mat in the center of its dark oak floor.  A trio-bladed mounted vellum fan hangs under the light oak ceiling.  Right near the front is a slender driftwood counter and a set of carved felwood shelves."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9021": "out",
+      "21270": "east",
+      "21271": "north"
+    },
+    "timeto": {
+      "9021": 0.2,
+      "21270": 0.2,
+      "21271": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

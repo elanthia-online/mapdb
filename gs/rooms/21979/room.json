@@ -1,0 +1,31 @@
+{
+  "checksum": "5292ed985137303ffaf47548ba3ede25",
+  "room": {
+    "id": 21979,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "The ground has been torn apart, twisted cracks running through the area to drop into endless darkness below.  The walls are blackened from smoke and fire."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21978": "east",
+      "21980": "west"
+    },
+    "timeto": {
+      "21978": 0.2,
+      "21980": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      801,
+      31,
+      815,
+      45
+    ]
+  }
+}

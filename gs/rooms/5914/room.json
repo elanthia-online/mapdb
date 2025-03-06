@@ -1,0 +1,49 @@
+{
+  "checksum": "97b7417b643f1b800a933709f08f4f9b",
+  "room": {
+    "id": 5914,
+    "title": [
+      "[Catacombs, Tunnels]"
+    ],
+    "description": [
+      "Oddly deformed mushrooms dot the rocky surface in this chamber.",
+      "Oddly deformed mushrooms dot the rocky surface in this chamber.  The horrid, ghastly-grey mushrooms are thin and flat in some places, while other sections appear ready to burst in a spray of viscid liquid.  Unlit torches adorn both sides of an opened doorway."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5913": "west",
+      "5915": "go door"
+    },
+    "timeto": {
+      "5913": 0.2,
+      "5915": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "ironfern root",
+      "white hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009006
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      405,
+      738,
+      413,
+      751
+    ]
+  }
+}

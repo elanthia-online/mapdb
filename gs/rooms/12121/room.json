@@ -1,0 +1,52 @@
+{
+  "checksum": "6f244e0840dbcfbd3efaaa9d7b58af44",
+  "room": {
+    "id": 12121,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Mist swirls and flows around a small monument here.  A man lies on the ground face down, quite dead.  There are ten longswords protruding from his back, from the tip of the neck to the back of the knees.  Small rivulets of blood have dried as they left the body, forming an unusual pattern in the dirt."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west",
+      "Obvious paths: east, southeast, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12121/wayto/stringproc-2605.rb",
+      "2619": "east",
+      "2635": "/rooms/12121/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12121/wayto/stringproc-12093.rb",
+      "12120": "west",
+      "12129": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2619": 0.2,
+      "2635": 16,
+      "12093": 21.6,
+      "12120": 0.2,
+      "12129": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud"
+    ],
+    "uid": [
+      4567004
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      948,
+      590,
+      958,
+      600
+    ]
+  }
+}

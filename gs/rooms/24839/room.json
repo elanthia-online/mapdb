@@ -1,0 +1,32 @@
+{
+  "checksum": "9f85c66553e74830f76169301ee0e82d",
+  "room": {
+    "id": 24839,
+    "title": [
+      "[Banthal's Magic Shoppe]",
+      "[Banthal's Weaponry]",
+      "[Banthal's Outfitting]",
+      "[Banthal's Armory]"
+    ],
+    "description": [
+      "Beneath a ceiling of jagged crystals, a sphere-hilted mounted sword plaque hangs on one of the iridescent crystal walls.  A heavy lead glass display case sits in one corner while a suit of silver-chased armor rests on the crystal floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "349": "out",
+      "24877": "east",
+      "24878": "north"
+    },
+    "timeto": {
+      "349": 0.2,
+      "24877": 0.2,
+      "24878": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "1cf91305d4c5c2eb723b455580dcf541",
+  "room": {
+    "id": 7301,
+    "title": [
+      "[Graveyard, Under Crypt]"
+    ],
+    "description": [
+      "A bewildering series of tunnels through the rock greets you.  While not shaped by clever craftsmen, the channels do not appear natural.  Trails of slime coat the ground and lead off in several directions."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west, down"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7300": "south",
+      "7303": "down",
+      "16792": "west",
+      "16793": "east"
+    },
+    "timeto": {
+      "7300": 0.2,
+      "7303": 0.2,
+      "16792": 0.2,
+      "16793": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18055
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      513,
+      558,
+      521,
+      566
+    ]
+  }
+}

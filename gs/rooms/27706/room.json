@@ -1,0 +1,40 @@
+{
+  "checksum": "02d5e1df3035c0a1e9e9c83e235968d0",
+  "room": {
+    "id": 27706,
+    "title": [
+      "[Icemule Defenses, South Wall]"
+    ],
+    "description": [
+      "Thick forests dominated by pine and spruce obscure the southern approaches to the city.  To the north, the wall looms over Barter Alley, which attracts a very respectable clientele among the halfling citizens of Icemule Trace.  The prevailing winds blow perpendicular to the South Wall, causing a tremendous buildup of frosty muck in the southern corner of the wall."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "27705": "west",
+      "27707": "east"
+    },
+    "timeto": {
+      "27705": 0.2,
+      "27707": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4050020
+    ],
+    "image": "imt-Town_Walls_Map-1707071672.png",
+    "image_coords": [
+      578,
+      823,
+      610,
+      852
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "5d7d920020091c7b695d28277c701e8c",
+  "room": {
+    "id": 2599,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Despair and desolation hang heavy in the air over the small plain before you.  Off in the distance, near the coast, what was once a small city lies smouldering in ruins.  The thick, black smoke from the razed hamlet lies heavy near the building tops, as if the weight of the carnage held it fast.  A huge stack of bodies is piled near the western gate, some of which almost look familiar."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west",
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2598": "west",
+      "2600": "southeast",
+      "2635": "/rooms/2599/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2599/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2599/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2598": 0.2,
+      "2600": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "twisted black mawflower"
+    ],
+    "uid": [
+      4566021
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      253,
+      723,
+      263,
+      733
+    ]
+  }
+}

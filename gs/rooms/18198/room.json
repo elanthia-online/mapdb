@@ -1,0 +1,41 @@
+{
+  "checksum": "b47c1e6b01fd13121352fb8f63090835",
+  "room": {
+    "id": 18198,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Shining from the skies, a single beam of light falls upon a fountain shaped in the form of a natural waterfall.  Here, a quiet breeze crosses in front of you carrying with it a scent of kylan berry.  Sparkling in a dance of light, the small pool at the waterfall's base teases you with thoughts of gold.",
+      "Shining from the skies, a single beam of moonlight falls upon a fountain shaped in the form of a natural waterfall.  Here, a quiet breeze crosses in front of you carrying with it a scent of kylan berry.  Sparkling in a dance of silver light, the small pool at the waterfall's base teases you with thoughts of gold."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18197": "east",
+      "18199": "west"
+    },
+    "timeto": {
+      "18197": 0.2,
+      "18199": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312015
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      271,
+      78,
+      284,
+      92
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "e383fddeaf2dd52b1c404f30f9865190",
+  "room": {
+    "id": 18253,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "18248": "south",
+      "25690": "go opening"
+    },
+    "timeto": {
+      "18248": 0.2,
+      "25690": 0.2
+    },
+    "tags": [
+      "pauperslockers",
+      "paupers locker",
+      "meta:locker annex:House of Paupers"
+    ],
+    "uid": [
+      4219374
+    ]
+  }
+}

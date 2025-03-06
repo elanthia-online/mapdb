@@ -1,0 +1,30 @@
+{
+  "checksum": "95f45ac1a747c7370f101988f80c3f3a",
+  "room": {
+    "id": 33365,
+    "title": [
+      "[Spindrift Sanctuary, Approach]"
+    ],
+    "description": [
+      "Pale golden yellow snow lilies sprout from around a wall of mottled grey stone, its overhang partially shadowing a slurry of ice and snow that trails down a shadowy stone-lined path.  Frost-swept clusters of ruffled clover blot the niveous surroundings with striking dollops of greenery.  A sturdy, nicely appointed cypress log cabin with a gabled roof is plunked among some blue-blushed winter roses and encircled by unruly crallisberry hedges."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Spindrift Sanctuary, inside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "3197": "go stone-lined path",
+      "33366": "/rooms/33365/wayto/stringproc-33366.rb"
+    },
+    "timeto": {
+      "3197": 0.2,
+      "33366": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022576
+    ]
+  }
+}

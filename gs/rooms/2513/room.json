@@ -1,0 +1,45 @@
+{
+  "checksum": "90ac4314c45feeb495fcbe5ef34066ea",
+  "room": {
+    "id": 2513,
+    "title": [
+      "[Icemule Trail, Tundra]"
+    ],
+    "description": [
+      "The icy trail skirts the very edge of the deadly, partially frozen marsh.  Beside the trail lies the dead carcass of some unidentifiable animal--mute evidence that the marsh should be avoided at all costs."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "glacial",
+    "terrain": "barren scrub",
+    "wayto": {
+      "2512": "/rooms/2513/wayto/stringproc-2512.rb",
+      "2514": "/rooms/2513/wayto/stringproc-2514.rb"
+    },
+    "timeto": {
+      "2512": 0.2,
+      "2514": 0.2
+    },
+    "tags": [
+      "snow pansy",
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044203
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      1170,
+      415,
+      1180,
+      425
+    ]
+  }
+}

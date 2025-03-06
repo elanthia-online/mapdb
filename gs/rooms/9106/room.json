@@ -1,0 +1,38 @@
+{
+  "checksum": "632c0d4f428f8caa551d2850883bfba7",
+  "room": {
+    "id": 9106,
+    "title": [
+      "[Great Cavern, Stalagmite Forest]"
+    ],
+    "description": [
+      "A clearing opens unexpectedly among the columns of stone.  The strange double-layer of fog still obscures floor and ceiling, but you begin to get a sense of how truly large this cavern is.  In the open space, the charred remnants of a fire mar the stone floor beneath the mist.  It's impossible to say whether this was some battle, a camp, or perhaps a religious rite."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9104": "northeast",
+      "9107": "east"
+    },
+    "timeto": {
+      "9104": 0.2,
+      "9107": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045215
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      64,
+      596,
+      74,
+      606
+    ]
+  }
+}

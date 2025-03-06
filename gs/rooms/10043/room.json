@@ -1,0 +1,60 @@
+{
+  "checksum": "f082f5840e285dd0efd64999c27ea596",
+  "room": {
+    "id": 10043,
+    "title": [
+      "[Black Moor, Old Barrow Road]"
+    ],
+    "description": [
+      "No stone walls mark the edges of the ancient road here, only a narrow strip of black dirt that is clearer of plants and jagged rocks than the desolate landscape that surrounds it.  A massive stone gate marks the southern edge of the moor, standing sentinel over the slope that leads beyond it into the lowlands."
+    ],
+    "paths": [
+      "Obvious paths: north, east, northwest"
+    ],
+    "location": "the Yegharren Plains",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "10010": "go gate",
+      "10039": "north",
+      "10046": "northwest",
+      "10047": "east"
+    },
+    "timeto": {
+      "10010": 0.2,
+      "10039": 0.2,
+      "10046": 0.2,
+      "10047": 0.2
+    },
+    "tags": [
+      "small wild rose",
+      "cothinar flower",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "blueberries",
+      "stalk of chicory",
+      "broken twig",
+      "sprig of larkspur",
+      "sprig of wild lilac",
+      "wild chokecherry",
+      "blue whortleberry",
+      "ironfern root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13036407
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1350,
+      437,
+      1358,
+      445
+    ]
+  }
+}

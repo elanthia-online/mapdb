@@ -1,0 +1,32 @@
+{
+  "checksum": "82033c18ad0f745126b6b501a2aa4d12",
+  "room": {
+    "id": 14086,
+    "title": [
+      "[Schoolhouse, Hallway]"
+    ],
+    "description": [
+      "Silence permeates the long corridor, and shadows restlessly flicker along the black-speckled white tile that stretches down the hallway.  Artwork created by the students hangs neatly on the walls, the only testament that someone comes here.",
+      "The sound of children fills this portion of the hallway, the noise drifting out of the classrooms as well as from those darting along the corridor.  The black-speckled white tile continues here, adding an echoing quality to the narrow egress, and artwork created by the students hangs neatly on the walls."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "13499": "south",
+      "14087": "go #-61053",
+      "14088": "north",
+      "34089": "go #-61051"
+    },
+    "timeto": {
+      "13499": 0.2,
+      "14087": 0.2,
+      "14088": 0.2,
+      "34089": 0.2
+    },
+    "uid": [
+      4747003
+    ]
+  }
+}

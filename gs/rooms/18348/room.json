@@ -1,0 +1,37 @@
+{
+  "checksum": "dea0d366945fd092b668b01e4be3634a",
+  "room": {
+    "id": 18348,
+    "title": [
+      "[Basement]"
+    ],
+    "description": [
+      "Several elves stare at you, not terribly impressed at your entrance.  One of them drums his fingers impatiently on a small table, apparently waiting for something.  A rather solid door is just visible beyond the group, while a visible tunnel leads off into the darkness."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17806": "/rooms/18348/wayto/stringproc-17806.rb",
+      "18349": "go tunnel"
+    },
+    "timeto": {
+      "17806": "/rooms/18348/timeto/stringproc-17806.rb",
+      "18349": 0.2
+    },
+    "tags": [
+      "rogue guild"
+    ],
+    "uid": [
+      267101
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      911,
+      1155,
+      949,
+      1195
+    ]
+  }
+}

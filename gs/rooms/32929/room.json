@@ -1,0 +1,33 @@
+{
+  "checksum": "d98db020a71840af3bade7514019f74b",
+  "room": {
+    "id": 32929,
+    "title": [
+      "[Billinggate Tavern, Taproom]"
+    ],
+    "description": [
+      "Bawdy music, raucous laughter, and discordant singing fills the air of the room, mingling with the scent of stale ale, unwashed bodies, and ocean air.  Stretching left to right along the back, south-facing wall, a long bar surrounded by long-legged oak stools gathers a crowd of workers and sailors, each thirsty and insistent on receiving attention.  The atmosphere within the tavern is stifling and hot."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Seareach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32897": "out",
+      "32930": "west"
+    },
+    "timeto": {
+      "32897": 0.2,
+      "32930": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140401
+    ]
+  }
+}

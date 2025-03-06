@@ -1,0 +1,50 @@
+{
+  "checksum": "ef1821c6b5970b20fdb1342b501de656",
+  "room": {
+    "id": 6927,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Golden light shines in from the northwest, driving back the darkness encroaching from the southern reaches of the tunnel.  The illumination displays a variety of footprints in the dirt, booted and barefoot alike.  Disturbingly, not all seem made by humans or other friendly races."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west, northwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6917": "west",
+      "6918": "southwest",
+      "6924": "northwest"
+    },
+    "timeto": {
+      "6917": 0.2,
+      "6918": 0.2,
+      "6924": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37014
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1012,
+      1381,
+      1022,
+      1391
+    ]
+  }
+}

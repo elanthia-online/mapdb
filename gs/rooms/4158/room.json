@@ -1,0 +1,39 @@
+{
+  "checksum": "63bd4ecaaf901399ab853ea8c37f7a64",
+  "room": {
+    "id": 4158,
+    "title": [
+      "[Hall of the Dead, Common Crypt]"
+    ],
+    "description": [
+      "The smell of death is getting stronger and a feeling of foreboding churns your stomach as the stench increases.  The room is lit only by the single torch in its mounting."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4151": "south",
+      "4159": "east"
+    },
+    "timeto": {
+      "4151": 0.2,
+      "4159": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138016
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      888,
+      735,
+      898,
+      745
+    ]
+  }
+}

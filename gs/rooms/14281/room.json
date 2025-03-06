@@ -1,0 +1,41 @@
+{
+  "checksum": "8bd25049e0c09971ce50e5d171602cb7",
+  "room": {
+    "id": 14281,
+    "title": [
+      "[Solhaven, The Crooked Way]"
+    ],
+    "description": [
+      "Small whirlwinds of dust and other debris randomly pick up and die again as stiff breezes blow through the twisting alleyway.  The peaks of buildings loom far too close for comfort here, their walls providing a narrow pathway that barely allows room to walk through."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14280": "northwest",
+      "14282": "east"
+    },
+    "timeto": {
+      "14280": 0.2,
+      "14282": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4902201
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      1647,
+      1026,
+      1671
+    ]
+  }
+}

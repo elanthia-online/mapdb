@@ -1,0 +1,38 @@
+{
+  "checksum": "880bee444abd22db82781d803f21c405",
+  "room": {
+    "id": 23759,
+    "title": [
+      "[Bloodriven Village, Sewer Grate]"
+    ],
+    "description": [
+      "Dim light filters down from above a crooked ladder, reflecting off the wet slime that coats the stone walls of this dank, fetid passage.  An old tunnel sweeper stands in front of a rusty sewer grate."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "26851": "go ladder",
+      "33578": "/rooms/23759/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "26851": 0.2,
+      "33578": "/rooms/23759/timeto/stringproc-33578.rb"
+    },
+    "tags": [
+      "sewer",
+      "dr sewer"
+    ],
+    "uid": [
+      8214001
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      957,
+      916,
+      977,
+      936
+    ]
+  }
+}

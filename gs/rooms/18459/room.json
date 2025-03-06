@@ -1,0 +1,28 @@
+{
+  "checksum": "a9d56e988fd478785a0ed06a1498f46a",
+  "room": {
+    "id": 18459,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "The sounds of town beyond the gate are faint here, replaced instead by the whispering of occasional breezes through the meadow.  Wild roses, buttercups, and hyacinth grow freely here, along the gate posts, near the fence's edge, and intermittently throughout this stretch of grass-blanketed land."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18457": "southeast",
+      "18460": "go gate"
+    },
+    "timeto": {
+      "18457": 0.2,
+      "18460": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

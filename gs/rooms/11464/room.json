@@ -1,0 +1,50 @@
+{
+  "checksum": "42d54cb37cf9ad9db84299ad7492da86",
+  "room": {
+    "id": 11464,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "To the west a coral reef grows out of the golden sand of the bay floor.  A large colony of spiral gilled tube worms has attached itself to the coral.  The wreck of a small coastal cutter lies on its side.  The tracks of crabs and lobsters lead in and out of the wreck."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11460": "/rooms/11464/wayto/stringproc-11460.rb",
+      "11463": "/rooms/11464/wayto/stringproc-11463.rb",
+      "11465": "/rooms/11464/wayto/stringproc-11465.rb",
+      "11467": "/rooms/11464/wayto/stringproc-11467.rb",
+      "11471": "/rooms/11464/wayto/stringproc-11471.rb",
+      "11473": "/rooms/11464/wayto/stringproc-11473.rb",
+      "11482": "go cutter"
+    },
+    "timeto": {
+      "11460": 2,
+      "11463": 2,
+      "11465": 3,
+      "11467": 2,
+      "11471": 2,
+      "11473": 2,
+      "11482": 0.2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304223
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      922,
+      1234,
+      932,
+      1244
+    ]
+  }
+}

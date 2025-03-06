@@ -1,0 +1,44 @@
+{
+  "checksum": "e1106c4f02d58582b56c8f54099b3f8a",
+  "room": {
+    "id": 19377,
+    "title": [
+      "[Eastern Harbor, Boat Rental]"
+    ],
+    "description": [
+      "Surrounded by polished railings, the small dock is comprised of whitewashed floorboards and is occupied by a lanky and tanned sailor.  Benches provide a convenient place to rest, while colorful umbrellas stand open and offer protection against the heat of the day.  Ascending to the pier, a pair of smooth wooden steps slips through an arch and is anchored in place by large black iron nails.",
+      "Surrounded by polished railings, the small dock is comprised of whitewashed floorboards and is occupied by a lanky and tanned sailor.  Benches provide a convenient place to rest, while glass lanterns dispel the dark of the night.  Ascending to the pier, a pair of smooth wooden steps slips through an arch and is anchored in place by large black iron nails."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "19376": "climb steps",
+      "25691": "/rooms/19377/wayto/stringproc-25691.rb",
+      "30718": "/rooms/19377/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "19376": 0.2,
+      "25691": 2,
+      "30718": "/rooms/19377/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "silver-cost:25691:500",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      3223020
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      3612,
+      2306,
+      3647,
+      2333
+    ]
+  }
+}

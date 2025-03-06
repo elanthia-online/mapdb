@@ -1,0 +1,58 @@
+{
+  "checksum": "338a8134529940a89c7be308e4d68b15",
+  "room": {
+    "id": 8429,
+    "title": [
+      "[Thanatoph Bowels, Cavern]"
+    ],
+    "description": [
+      "Fallen boulders cant at precarious angles within a span of stalactites and stalagmites, creating a crumbling stone bridge rising up over a channel of water, and making it a dangerous proposition to cross.  A violent churning within the depths of the stream brings a boiling fury of bubbles to the top, then it subsides.  A moment later, it begins anew in a different spot."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the bowels of Thanatoph",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3839": "/rooms/8429/wayto/stringproc-3839.rb",
+      "8419": "east",
+      "8420": "go bridge",
+      "8421": "north",
+      "8423": "west",
+      "8424": "south"
+    },
+    "timeto": {
+      "3839": 0.2,
+      "8419": 0.2,
+      "8420": 0.2,
+      "8421": 0.2,
+      "8423": 0.2,
+      "8424": 0.2
+    },
+    "tags": [
+      "some wingstem root",
+      "some wolifrew lichen",
+      "withered black mushroom",
+      "some cave moss",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4293042
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      1222,
+      700,
+      1232,
+      710
+    ]
+  }
+}

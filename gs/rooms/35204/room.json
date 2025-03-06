@@ -1,0 +1,32 @@
+{
+  "checksum": "cb6b7a2229248f0710f5dacb89c3c201",
+  "room": {
+    "id": 35204,
+    "title": [
+      "[Spiritlight Dahcre Chamber]"
+    ],
+    "description": [
+      "Wrapped in the warm embrace of dark maplewood wainscoting, this room invites the intrepid adventurer to rest.  Comfortable puma-hide couches form an open square facing a silver-veined white marble hearth, above which is set a maple-framed silver looking-glass.  Along one wall, flanked by two green banners displaying silver dragons, a well-stocked bar offers refreshment to the thirsty.  A silver-edged green faenor medallion is set at the apex of the soulstone studded arch leading into the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10401": "go studded arch",
+      "35205": "pull silver statue"
+    },
+    "timeto": {
+      "10401": 0.2,
+      "35205": 0.2
+    },
+    "tags": [
+      "meta:locker",
+      "annex:Argent",
+      "Aspis"
+    ],
+    "uid": [
+      14109100
+    ]
+  }
+}

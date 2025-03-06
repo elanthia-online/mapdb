@@ -1,0 +1,29 @@
+{
+  "checksum": "8a8d9363644f8d9ab37fda9339bbcc9c",
+  "room": {
+    "id": 35043,
+    "title": [
+      "[Glaoveln Road, Conquerors' Gate]"
+    ],
+    "description": [
+      "Framed and inlaid with scrimshawed whalebone, a reinforced gate of black spruce guards the entrance into the city.  High watchtowers loom over the entry, their crenellated crowns occupied by krolvin sentries armed with heavy arbalests.  Traffic flows through the gates in a clattering press of wagons and aurochs-drawn carts, perfuming the air with a bewildering melange of exotic spices, musk, and road dust."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35042": "west",
+      "35044": "go gate",
+      "35045": "east"
+    },
+    "timeto": {
+      "35042": 0.2,
+      "35044": 0.2,
+      "35045": 0.2
+    },
+    "uid": [
+      4426318
+    ]
+  }
+}

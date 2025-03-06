@@ -1,0 +1,39 @@
+{
+  "checksum": "6ff8bdb696fb10d8421e03ebd21c64e1",
+  "room": {
+    "id": 23199,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23198": "south",
+      "23205": "north",
+      "27903": "go silvery curtain",
+      "28258": "go white curtain"
+    },
+    "timeto": {
+      "23198": 0.2,
+      "23205": 0.2,
+      "27903": 0.2,
+      "28258": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001055
+    ],
+    "unique_loot": [
+      "white curtain with the sigil of House Sovyn"
+    ]
+  }
+}

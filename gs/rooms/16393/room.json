@@ -1,0 +1,41 @@
+{
+  "checksum": "12907402f74945a5bd6c0a4386c4a1f7",
+  "room": {
+    "id": 16393,
+    "title": [
+      "[Beldrin's, Backroom]"
+    ],
+    "description": [
+      "This small, bare room seems to have been no more than a storage closet in earlier days.  The addition of some faded wood paneling and a rickety desk and chair has converted it to a makeshift office.  A dusty, gold-framed portrait of a portly human in a ceremonial snowcat vest hangs askew above the desk, and a surprisingly heavy oaken door is set in one wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8820": "out",
+      "16394": "/rooms/16393/wayto/stringproc-16394.rb"
+    },
+    "timeto": {
+      "8820": 0.2,
+      "16394": "/rooms/16393/timeto/stringproc-16394.rb"
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - Rogue Guild",
+      "meta:mapshortname:Rogue Guild (Wehnimer's)",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:Guilds",
+      "rogue guild"
+    ],
+    "uid": [
+      261001
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      460,
+      527,
+      488,
+      555
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "5110fc21adc3a2c0c90aeefb86ca8a57",
+  "room": {
+    "id": 14107,
+    "title": [
+      "[Captain's Rest, Upstairs Hall]"
+    ],
+    "description": [
+      "The green carpeted hall comes to an end here.  A large fishing net with glass floats is draped artfully along the one wall not occupied by a door.  Several pieces of driftwood appear to be stuck in the net."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14105": "east",
+      "14108": "go monir door",
+      "14109": "go hazel door"
+    },
+    "timeto": {
+      "14105": 0.2,
+      "14108": 0.2,
+      "14109": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740109
+    ]
+  }
+}

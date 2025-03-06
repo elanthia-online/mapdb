@@ -1,0 +1,32 @@
+{
+  "checksum": "09673017e1db1cf2d2e8e1ac9b13b718",
+  "room": {
+    "id": 25553,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "As if the closing-in walls were not bad enough, a large chunk of the ruin's ceiling has fallen and smashed upon the floor, creating an obstacle to climb around or over in order to exit the tunnel.  Attempts have been made to chip away at the ruin's rubble, evidenced by the sharp gouges in the surface and piles of dirt lying around the base."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, west, northwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25550": "west",
+      "25554": "northwest",
+      "25569": "southeast",
+      "25570": "north"
+    },
+    "timeto": {
+      "25550": 0.2,
+      "25554": 0.2,
+      "25569": 0.2,
+      "25570": 0.2
+    },
+    "uid": [
+      8213713
+    ],
+    "check_location": true
+  }
+}

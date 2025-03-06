@@ -1,0 +1,49 @@
+{
+  "checksum": "d3ab565fb28ab9f0e4137c5774ca1f51",
+  "room": {
+    "id": 5940,
+    "title": [
+      "[Catacombs, Balcony]"
+    ],
+    "description": [
+      "Thick, clear slimy stuff covers both walls and floor in the room.",
+      "Thick, clear slimy stuff covers both walls and floor in the room.  A strange green glow seems to emanate eerily from within the unknown substance which illuminates this chamber.  Peering closely within the green slime, the fossilized remains of insects are visible.  Stone steps leading to a balcony, with skulls carefully placed in each corner, stand at the back of this room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5939": "northeast",
+      "5941": "southwest"
+    },
+    "timeto": {
+      "5939": 0.2,
+      "5941": 0.2
+    },
+    "tags": [
+      "some wingstem root",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009025
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      149,
+      847,
+      155,
+      855
+    ]
+  }
+}

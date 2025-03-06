@@ -1,0 +1,41 @@
+{
+  "checksum": "e78618fa333edb6dd42f6c00e92be593",
+  "room": {
+    "id": 32435,
+    "title": [
+      "[Moonsedge, Scarlet Road]"
+    ],
+    "description": [
+      "At the bend of the road sits a shrine in an overgrown bed of wolfsbane, the purple blossoms drooping mournfully over the stone carving.  The effigy, a half-dome of white marble encasing a woman with wild locks and an athletic build, has tokens and offerings heaped before it, from ribbons to golden coins.  Overhead, a gargoyle on the walls watches the offerings with dispassionate eyes."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32430": "west",
+      "32434": "north"
+    },
+    "timeto": {
+      "32430": 0.2,
+      "32434": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577020
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      562,
+      285,
+      581,
+      304
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "c01712f9ecc27ae7e36f2bc640337419",
+  "room": {
+    "id": 26418,
+    "title": [
+      "[Damsel of the Deep, Passageway]"
+    ],
+    "description": [
+      "Though some light streams down an open stairwell from the forecastle above, brass lanterns provide most of the illumination in the enclosed companionway.  Staterooms for traveling merchants and other distinquished guests punctuate the illuminated passage, each highlighted on either side with a pair of softly glowing wall sconces."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Damsel of the Deep",
+    "wayto": {
+      "26417": "go stairwell",
+      "26600": "go maple door",
+      "26601": "go mahogany door",
+      "26603": "south",
+      "26625": "go entry"
+    },
+    "timeto": {
+      "26417": 0.2,
+      "26600": 0.2,
+      "26601": 0.2,
+      "26603": 0.2,
+      "26625": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      594,
+      681,
+      607,
+      696
+    ]
+  }
+}

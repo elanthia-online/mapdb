@@ -1,0 +1,38 @@
+{
+  "checksum": "c38c30a25a8bac9218f1c0446066197a",
+  "room": {
+    "id": 33656,
+    "title": [
+      "[Keep Tower, Corridor]"
+    ],
+    "description": [
+      "Light filters in from the arched opening at one end of the corridor, a surprising change from the previous levels.  The same two doors -- one hidden near the shadow of the stairs leading down, the other opposite an arrow loop -- are the only embellishment to the otherwise plain ashlar walls."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33655": "down",
+      "33657": "go opening",
+      "33690": "go shadowed door",
+      "33696": "go unadorned door"
+    },
+    "timeto": {
+      "33655": 0.2,
+      "33657": 0.2,
+      "33690": 0.2,
+      "33696": 0.2
+    },
+    "uid": [
+      7101177
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1461,
+      229,
+      1505,
+      275
+    ]
+  }
+}

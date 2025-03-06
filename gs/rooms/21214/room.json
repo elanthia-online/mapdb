@@ -1,0 +1,30 @@
+{
+  "checksum": "ed0ef00be0054288679e5585fad15c7c",
+  "room": {
+    "id": 21214,
+    "title": [
+      "[Gilralyn's General Store]",
+      "[Gilralyn's Armory]"
+    ],
+    "description": [
+      "Beneath a domed white stucco ceiling, a multihued Vornavian silk tapestry hangs on one of the refined oak-paneled walls.  A Vornavian silk-lined display case sits in one corner while a leaping dolphin statuette rests on the slate floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9010": "out",
+      "21219": "southwest",
+      "21220": "northeast"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "21219": 0.2,
+      "21220": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "ee859c330aec2783603768dcac324734",
+  "room": {
+    "id": 15065,
+    "title": [
+      "[Xandalf's Combat Gear]"
+    ],
+    "description": [
+      "Enclosed by mottled grey marble walls, the shop features a sphere-topped black marble fountain in the center of its black marble floor.  A ruby-eyed grinning skull hangs under the vaulted ceiling.  Right near the front is a twisted dark metal rack and a spacious grey slate counter."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "367": "out",
+      "15365": "west",
+      "15366": "east"
+    },
+    "timeto": {
+      "367": 0.2,
+      "15365": 0.2,
+      "15366": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

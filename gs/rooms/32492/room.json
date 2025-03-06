@@ -1,0 +1,41 @@
+{
+  "checksum": "513a64e9ee08fc6f5b4cce20473e6653",
+  "room": {
+    "id": 32492,
+    "title": [
+      "[Moonsedge Castle, Gardens]"
+    ],
+    "description": [
+      "A babbling spring feeds a small, cold pool that is surrounded by an abundance of thriving greenery.  It looks like it has been some time since the hands of a gardener pruned a branch or plucked a weed.  Dwarf mountain ash trees have spread thickly gnarled roots through the earth and litter the ground with bright red berries.  The blossoms of sweetbrier and wolfsbane seem to be competing with one another for brilliance of color."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32491": "southeast",
+      "32518": "north"
+    },
+    "timeto": {
+      "32491": 0.2,
+      "32518": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577114
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      682,
+      526,
+      704,
+      547
+    ]
+  }
+}

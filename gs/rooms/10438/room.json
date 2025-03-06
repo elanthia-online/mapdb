@@ -1,0 +1,50 @@
+{
+  "checksum": "41b2a87775ba5d14b82b0d2116a1b2bd",
+  "room": {
+    "id": 10438,
+    "title": [
+      "[Bard Guild, Entry]"
+    ],
+    "description": [
+      "Slender oak columns frame this grand entry hall, whose pale granite walls rise the full two stories of the building.  The columns support a second floor gallery, reached by a sweeping staircase and bordered by a heavily carved balustrade from which are hung dozens of banners bearing crests of ancient elven families.  The east and west walls are pierced by tall, lancet-topped leaded glass windows, through which dappled sunlight pours into the hall.",
+      "Slender oak columns frame this grand entry hall, whose pale granite walls rise the full two stories of the building.  The columns support a second floor gallery, reached by a sweeping staircase and bordered by a heavily carved balustrade from which are hung dozens of banners bearing crests of ancient elven families.  A trio of gracefully wrought vaalorn chandeliers fills the hall with warm, steady light."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Ta'Vaalor Bard Guild",
+    "wayto": {
+      "3508": "out",
+      "10761": "go staircase",
+      "13538": "go gateway",
+      "13539": "go door",
+      "28335": "go passageway",
+      "30713": "/rooms/10438/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3508": 0.2,
+      "10761": 0.2,
+      "13538": 0.2,
+      "13539": 0.2,
+      "28335": "/rooms/10438/timeto/stringproc-28335.rb",
+      "30713": "/rooms/10438/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "bard guild",
+      "bardguild",
+      "no forageables",
+      "urchin guide bardguild",
+      "urchin-access"
+    ],
+    "uid": [
+      287001
+    ],
+    "image": "en-vaalor-bard-guild.png",
+    "image_coords": [
+      269,
+      441,
+      290,
+      459
+    ]
+  }
+}

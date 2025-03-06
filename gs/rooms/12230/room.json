@@ -1,0 +1,49 @@
+{
+  "checksum": "b5d21dcf063bd60faafe6f2388c8e354",
+  "room": {
+    "id": 12230,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Overturned desks lie in disarray on the bloody floor of an old classroom.  All along the weathered walls, school books have had their pages stabbed through with daggers, securing them to the wooden panels beneath.  The freezing wind rushes in through an open window, howling and moaning like a spirit possessed.",
+      "Overturned desks lie in disarray on the bloody floor of an old classroom.  All along the weathered walls, school books have had their pages stabbed through with daggers, securing them to the wooden panels beneath.  The scorching wind rushes in through an open window, howling and moaning like a spirit possessed."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12151": "/rooms/12230/wayto/stringproc-12151.rb",
+      "12231": "southeast",
+      "12232": "northeast"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12231": 0.2,
+      "12232": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4571005
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      238,
+      210,
+      262,
+      234
+    ]
+  }
+}

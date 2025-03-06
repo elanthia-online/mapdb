@@ -1,0 +1,38 @@
+{
+  "checksum": "513da7fa4ccefdcfaea9723a04e5130d",
+  "room": {
+    "id": 17231,
+    "title": [
+      "[Citadel, Chamber of Remembrance]"
+    ],
+    "description": [
+      "Adorning each of the walls of this high-ceiling room is a weapon, a shield, and a set of armor. All look well maintained, but clearly used.  There is a small brass placard beneath one of the longswords."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17230": "out",
+      "17232": "go doors",
+      "17238": "west",
+      "17243": "east"
+    },
+    "timeto": {
+      "17230": 0.2,
+      "17232": 0.2,
+      "17238": 0.2,
+      "17243": 0.2
+    },
+    "uid": [
+      257035
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      184,
+      371,
+      204,
+      390
+    ]
+  }
+}

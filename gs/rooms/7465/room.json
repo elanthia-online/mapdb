@@ -1,0 +1,42 @@
+{
+  "checksum": "0a0596ac8a3cc1164f61b2955656408d",
+  "room": {
+    "id": 7465,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The tunnel branches in three directions here.  The air is still, there is no detectable breeze or air current from any of the branches.  A subtle, bitter odor nags at your palate, leaving a foul taste in your mouth, and irritating your nose and eyes."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7464": "/rooms/7465/wayto/stringproc-7464.rb",
+      "7466": "/rooms/7465/wayto/stringproc-7466.rb",
+      "7467": "/rooms/7465/wayto/stringproc-7467.rb"
+    },
+    "timeto": {
+      "7464": 0.2,
+      "7466": 0.2,
+      "7467": 0.2
+    },
+    "tags": [
+      "some blackened moss",
+      "some cave moss",
+      "magru",
+      "some glowing green lichen"
+    ],
+    "uid": [
+      94008
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      807,
+      960,
+      817,
+      970
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "8bf0e44828f1cda4ccd672893d4a7939",
+  "room": {
+    "id": 5832,
+    "title": [
+      "[Timmorain Road]"
+    ],
+    "description": [
+      "The road runs steadily northeast and southwest, and though the trees press in rather close, no cobblestones are buckled by encroaching tree roots.  The road's surface is smooth, and the cobblestones huddle closely together to allow fast, unhindered travel.  Strangely, the cobblestones are cleaner than one might expect for a road through the forest, as if someone has recently come out and given them a brisk sweeping."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Timmorain Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5831": "southwest",
+      "5833": "northeast",
+      "25637": "/rooms/5832/wayto/stringproc-25637.rb"
+    },
+    "timeto": {
+      "5831": 0.2,
+      "5833": 0.2,
+      "25637": 6.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14003003
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      446,
+      941,
+      459,
+      951
+    ]
+  }
+}

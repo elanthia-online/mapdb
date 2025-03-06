@@ -1,0 +1,27 @@
+{
+  "checksum": "06db98bd988c2148de0fd553c5e5c7b2",
+  "room": {
+    "id": 28157,
+    "title": [
+      "[Midnight Heron, Cargo Hold]"
+    ],
+    "description": [
+      "Darkness dominates this cavernous, empty space below deck.  Oversized hinges connect the floor to the back wall securing a massive stern door.  Sturdy, midnight blue oak planks across the expansive floor show signs of wear.  Faint scents of sulfur, sawdust, and spices linger in the open space.  A hatch leads to the deck above, while a portal leads deeper into the belly of the galleon."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "28151": "go hatch",
+      "28158": "go portal"
+    },
+    "timeto": {
+      "28151": 0.2,
+      "28158": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "1a7e5d9552b04c17fb5772e62d00a6f9",
+  "room": {
+    "id": 126,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Scores of small holes perforate the stone walls and, although dusty, they do not appear clogged.  Without knowing exactly what might set off one of these ancient traps, all you can do is proceed with great caution.  The tiniest crack in the floor could bring your life to a premature end."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "125": "south",
+      "127": "north"
+    },
+    "timeto": {
+      "125": 0.2,
+      "127": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300016
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      772,
+      736,
+      782,
+      746
+    ]
+  }
+}

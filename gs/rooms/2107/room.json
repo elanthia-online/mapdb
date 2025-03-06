@@ -1,0 +1,39 @@
+{
+  "checksum": "72f4da47733e528b49c6acb6c3a4d019",
+  "room": {
+    "id": 2107,
+    "title": [
+      "[Manor House, Kitchen]"
+    ],
+    "description": [
+      "A great heap of mud, soot and debris pours in from an enormous crack in one wall.  Beneath the sticky hill of mud, you can barely make out the rough edges of the huge boulder that nearly destroyed the outer wall of this room."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2102": "go door",
+      "2108": "north",
+      "2111": "west"
+    },
+    "timeto": {
+      "2102": 0.2,
+      "2108": 0.2,
+      "2111": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030039
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      965,
+      1095,
+      973,
+      1103
+    ]
+  }
+}

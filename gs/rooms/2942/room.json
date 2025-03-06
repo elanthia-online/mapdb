@@ -1,0 +1,41 @@
+{
+  "checksum": "96acbf824f26219abbc18990d6cba927",
+  "room": {
+    "id": 2942,
+    "title": [
+      "[Abbey Stables, Entrance]"
+    ],
+    "description": [
+      "Motes of dust and the occasional piece of drifting hay float gently in shafts of light streaming into the stable through small gaps in the thatched ceiling.  Near the entrance, fresh straw is piled high on the hard-packed floor.  The neighs and whinnies of horses is a constant chorus from the north, punctuated occasionally by the needful braying of a mule.",
+      "Motes of dust and the occasional piece of drifting hay float gently in wan moonlight creeping into the stable through small gaps in the thatched ceiling.  Near the entrance, fresh straw is piled high on the hard-packed floor.  The shuffling and heavy breath of sleeping horses comes from the north, punctuated occasionally by the plaintive braying of a mule."
+    ],
+    "paths": [
+      "Obvious exits: north",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2941": "go entrance",
+      "23830": "north"
+    },
+    "timeto": {
+      "2941": 0.2,
+      "23830": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      4132016
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      380,
+      1076,
+      431,
+      1128
+    ]
+  }
+}

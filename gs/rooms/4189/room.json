@@ -1,0 +1,39 @@
+{
+  "checksum": "17cec7becfb86e9996e53b20482dd7a2",
+  "room": {
+    "id": 4189,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "The ground is covered with the swirling monster of a mist.  You can only hope there is not an abyss in here that you might fall into, maybe never to return.  You begin to move with guarded caution as you slide your feet forward feeling for a possible hole."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4188": "south",
+      "4190": "west"
+    },
+    "timeto": {
+      "4188": 0.2,
+      "4190": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138125
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      836,
+      995,
+      846,
+      1005
+    ]
+  }
+}

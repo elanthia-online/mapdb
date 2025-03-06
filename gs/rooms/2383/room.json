@@ -1,0 +1,44 @@
+{
+  "checksum": "cef4f11dac9a859af873c974dff29316",
+  "room": {
+    "id": 2383,
+    "title": [
+      "[Underground Tunnel]",
+      "[Magical Burrow, Tunnelway]"
+    ],
+    "description": [
+      "Roots dangle from the ceiling and snatch from the walls of the tunnel, old and nearly as unyielding as iron.  The fog choking the ground swirls and eddies, driven by the languorous air currents underground.  So cold is it below the earth that the walls have frozen.  They glisten darkly with a sheet of glassy ice.",
+      "Roots dangle from the ceiling and from the walls.  As you move they continually brush against you, almost like some small insects were running all over you.  Instinctively, you run a quick hand across your face to brush the imaginary creatures away."
+    ],
+    "paths": [
+      "Obvious exits: east, south",
+      "Obvious exits: north, east"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2382": "east",
+      "2384": "north",
+      "9071": "go roots"
+    },
+    "timeto": {
+      "2382": 0.2,
+      "2384": 0.2,
+      "9071": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042123
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1202,
+      145,
+      1212,
+      155
+    ]
+  }
+}

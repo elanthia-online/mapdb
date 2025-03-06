@@ -1,0 +1,27 @@
+{
+  "checksum": "5d17ce6e1e7ed99daffb4d350b6efcb3",
+  "room": {
+    "id": 32232,
+    "title": [
+      "[Sonreeva, Vertical Shaft]"
+    ],
+    "description": [
+      "The stairwell wraps around the walls, with the occasional torch giving just enough light to not plummet downward.  Ghoulish screams echo from above and below the void in the center of this area."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "32231": "up",
+      "32233": "down"
+    },
+    "timeto": {
+      "32231": 0.2,
+      "32233": 0.2
+    },
+    "uid": [
+      8088024
+    ]
+  }
+}

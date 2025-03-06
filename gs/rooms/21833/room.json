@@ -1,0 +1,35 @@
+{
+  "checksum": "53e508f252152f7a14a7411967031cdf",
+  "room": {
+    "id": 21833,
+    "title": [
+      "[Doggoroth Keep]"
+    ],
+    "description": [
+      "Burly soldiers haul carts of crated grain through the area, dispensing them into the granary buildings nearby.  A scrawny human squire stands outside of a small shop, carving away at a wooden symbol with his knife."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21832": "go gatehouse",
+      "21834": "go shop",
+      "21835": "west",
+      "21838": "east"
+    },
+    "timeto": {
+      "21832": 0.2,
+      "21834": 0.2,
+      "21835": 0.2,
+      "21838": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      850,
+      172,
+      864,
+      186
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "273244523ab81682527e9184ec2cb469",
+  "room": {
+    "id": 2409,
+    "title": [
+      "[Icemule Trace, South Road]"
+    ],
+    "description": [
+      "A narrow house juts out into the cobblestone thoroughfare as if displaced from where it ought to be by the sprawl of the gaming hall to the southwest.  The savory aroma of baked apples tantalizes from an open window at street level.  Less pleasant, though mostly muted by hanging nosegays of rosebay and bilberry, is the odor of dyes wafting from a colorful canvas pavilion on the opposite side of the road.",
+      "A narrow house juts into the street, as though pushed off its foundation by the expanding gaming hall to the southwest.  You step carefully along the cobblestones and try not to glance into the open window at street level."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2302": "north",
+      "2410": "south",
+      "34076": "go canvas pavilion"
+    },
+    "timeto": {
+      "2302": 0.2,
+      "2410": 0.2,
+      "34076": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042228
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      583,
+      964,
+      619,
+      1000
+    ]
+  }
+}

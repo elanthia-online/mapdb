@@ -1,0 +1,50 @@
+{
+  "checksum": "83d9f4c19e54701a63572a948048773e",
+  "room": {
+    "id": 12109,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A woman stands at the head of the huge cavern.  The right half of her is perhaps the most beautiful woman you have seen.  Her skin is the color of milk, and blonde hair streams down over one feathered wing.  The other half of her body is the opposite.  The skin is rough, with matted hair tangled with a wing like leather.  In her right hand she holds a staff of light, with which she gestures towards a field of surpassing beauty.  Her left bears a scythe, pointing towards a pit of angry flames."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12109/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12109/wayto/stringproc-2635.rb",
+      "12088": "east",
+      "12093": "/rooms/12109/wayto/stringproc-12093.rb",
+      "12110": "west"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12088": 0.2,
+      "12093": 21.6,
+      "12110": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4567050
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1031,
+      780,
+      1039,
+      788
+    ]
+  }
+}

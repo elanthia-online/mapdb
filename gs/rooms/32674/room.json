@@ -1,0 +1,32 @@
+{
+  "checksum": "1589a1264c8e4d83e4ed65cc5349eff4",
+  "room": {
+    "id": 32674,
+    "title": [
+      "[Woodland Market]"
+    ],
+    "description": [
+      "Various bins, counters, and shelves overflowing with grocery staples line the white oak walls and pale blue tiled floors of the bright and airy market.  A sizable ceramic-topped cupboard is centered along the back, its shelves bursting with fresh baked goods.  Large glaesineth orbs hanging from the raftered ceiling fill the spacious room with warm light."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "678": "out",
+      "30714": "/rooms/32674/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "678": 0.2,
+      "30714": "/rooms/32674/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "grocer",
+      "urchin-access",
+      "urchin guide grocer"
+    ],
+    "uid": [
+      13051031
+    ]
+  }
+}

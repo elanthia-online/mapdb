@@ -1,0 +1,41 @@
+{
+  "checksum": "af06e564b7345d789a0cd736de8bd845",
+  "room": {
+    "id": 1839,
+    "title": [
+      "[Rolaren Street, River Crossing]"
+    ],
+    "description": [
+      "A cobblestone road leads east into the commercial center of the town.  Leaning against a stone guardpost, a uniformed dwarf appraises those who pass.  You hear angry shouts from inside the building.  Streams of people cross the stone bridge to the west, which spans the River Muagh."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1837": "east",
+      "1840": "go bridge"
+    },
+    "timeto": {
+      "1837": 0.2,
+      "1840": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001012
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      952,
+      781,
+      982,
+      811
+    ]
+  }
+}

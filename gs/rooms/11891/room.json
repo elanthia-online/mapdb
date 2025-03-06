@@ -1,0 +1,44 @@
+{
+  "checksum": "84aa4ca979baff7cd89c9abe751fcb95",
+  "room": {
+    "id": 11891,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "Green liquid oozes up from the floor to mingle with the water flowing through from the northeast.  As it disperses, it colors the water a light emerald green and imparts a glow to the stream that bathes the floor and walls with a dim luminescence.  Thus the tunnel to the northeast, sans liquid, is shrouded in darkness, while the tunnel to the south is eerily lit from below."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11888": "south",
+      "11892": "northeast"
+    },
+    "timeto": {
+      "11888": 0.2,
+      "11892": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003028
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1159,
+      964,
+      1169,
+      974
+    ]
+  }
+}

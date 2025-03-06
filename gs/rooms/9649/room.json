@@ -1,0 +1,39 @@
+{
+  "checksum": "b3161e04e08e97eb1367bd1681f7e269",
+  "room": {
+    "id": 9649,
+    "title": [
+      "[Hall of the Feast]"
+    ],
+    "description": [
+      "The too-sweet smell of rot grows stronger to the east and mingles with the scents of cinnamon, cardamom, and clove.  Beeswax candles set in bronze sconces cast a fitful illumination on the mural, the flickering light giving the painted figures the illusion of movement.",
+      "The too-sweet smell of rot grows stronger to the east and mingles with the scents of cinnamon, cardamom, and clove.  One window has lost its shutter, admitting the strong sunlight to reveal the mural in all its vibrant color."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "9648": "east",
+      "9650": "west"
+    },
+    "timeto": {
+      "9648": 0.2,
+      "9650": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2191007
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      713,
+      736,
+      723,
+      746
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "feb3e054060eba042c0191212fd30e54",
+  "room": {
+    "id": 30045,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "The corpse of a huge winged creature with cloudy blue scales lies splayed on the stones, its silvery eyes filmed over in death.  Scavengers have picked meat away from its belly, leaving behind bleached bones.  A tremendous spear with an obsidian head protrudes from the fallen beast's side, having found purchase in a spot of thinner armor."
+    ],
+    "paths": [
+      "Obvious paths: north, south, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30044": "south",
+      "30046": "southwest",
+      "30049": "north"
+    },
+    "timeto": {
+      "30044": 0.2,
+      "30046": 0.2,
+      "30049": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503474
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      942,
+      148,
+      956,
+      163
+    ]
+  }
+}

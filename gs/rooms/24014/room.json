@@ -1,0 +1,33 @@
+{
+  "checksum": "cb0c7b9523fec07ccadeb86aba66a291",
+  "room": {
+    "id": 24014,
+    "title": [
+      "[Inner Walkway, Plaza]"
+    ],
+    "description": [
+      "The wide flagstone walkway opens up into an expansive plaza.  Bubbling fountains and decorative pots filled with indigenous flora mark the entrance to a massive limestone coliseum that dominates the area.  Small benches line the northern edge of the expanse, providing comfortable seating for those waiting to enjoy the spectacle."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "24012": "east",
+      "24015": "go coliseum",
+      "24017": "west"
+    },
+    "timeto": {
+      "24012": 0.2,
+      "24015": 0.2,
+      "24017": 0.2
+    },
+    "image": "fest-Festival_of_the_Fallen-1442606479.png",
+    "image_coords": [
+      522,
+      274,
+      572,
+      324
+    ]
+  }
+}

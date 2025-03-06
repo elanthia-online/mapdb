@@ -1,0 +1,40 @@
+{
+  "checksum": "90b357e04a2b18d408c2eaa9a3d1c2de",
+  "room": {
+    "id": 5146,
+    "title": [
+      "[Vornavian Coast, Caverns]"
+    ],
+    "description": [
+      "An updraft of cold air blows through this room from the south to the north, making the damp chill of the caverns seem more extreme.  Brighter light to the north illuminates the room, revealing a wide crevice to the south.  The crevice is not wide enough to move through, but allows a strong, cold wind to pass.",
+      "An updraft of cold air blows through this room from the south to the north, making the damp chill of the caverns seem more extreme.  Bright light to the north illuminates the room, revealing a wide crevice to the south.  The crevice is not wide enough to move through, but allows a strong, cold wind to pass."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest"
+    ],
+    "location": "the Vornavian Coast",
+    "wayto": {
+      "5144": "northwest",
+      "5147": "north"
+    },
+    "timeto": {
+      "5144": 0.2,
+      "5147": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4202180
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      344,
+      871,
+      354,
+      881
+    ]
+  }
+}

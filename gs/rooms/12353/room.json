@@ -1,0 +1,35 @@
+{
+  "checksum": "50e0fbdddd006618144ab376f8374755",
+  "room": {
+    "id": 12353,
+    "title": [
+      "[Aftcastle Companionway]"
+    ],
+    "description": [
+      "Black walnut wainscotting below silvery haon paneling lines this hallway.  The aftcastle door is at one end of this companionway, with the gold inlaid black walnut door of the Captain's cabin filling the other.  A heavily grained monir door in the starboard bulkhead bears the Master's plaque, while ashwood and oak doors in the port bulkhead are marked with the Pilot's and First Mate's plaques."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Glaesen Star",
+    "wayto": {
+      "12352": "go aftcastle door",
+      "12354": "climb maindeck ladder",
+      "12358": "go monir door",
+      "12359": "go oak door",
+      "12360": "go ashwood door",
+      "12361": "go black door"
+    },
+    "timeto": {
+      "12352": 0.2,
+      "12354": 0.2,
+      "12358": 0.2,
+      "12359": 0.2,
+      "12360": 0.2,
+      "12361": 0.2
+    },
+    "uid": [
+      3070006
+    ]
+  }
+}

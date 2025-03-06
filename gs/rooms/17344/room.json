@@ -1,0 +1,45 @@
+{
+  "checksum": "cb24d9fe239534b025e832e7b5bd5b10",
+  "room": {
+    "id": 17344,
+    "title": [
+      "[Warrior Guild, West Lawn]"
+    ],
+    "description": [
+      "The grass grows lush and green, bordered by well-kept shrubbery that is bounded in turn by a low stone wall.  A weathered woodshed stands several paces away from a solid oak door that leads into the Guild proper.  Several large vertical wheels similar to those on sailing ships are set up along the southwestern side of the lawn.",
+      "The grass grows lushly, bordered by well-kept shrubbery that is bounded in turn by a low stone wall.  A weathered woodshed stands several paces away from a solid oak door that leads into the Guild proper.  Moonlight glints off of the brass fittings of several large vertical wheels, similar to those on sailing ships, which are set up along the southwestern side of the lawn."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17343": "go door",
+      "17364": "go woodshed",
+      "17365": "go building",
+      "30524": "ask nihma about training berserk"
+    },
+    "timeto": {
+      "17343": 0.2,
+      "17364": 0.2,
+      "17365": 0.2,
+      "30524": 0.2
+    },
+    "tags": [
+      "warrior guild shrubbery",
+      "warrior guild masters",
+      "warrior guild leaves",
+      "warrior guild wheel"
+    ],
+    "uid": [
+      253016
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      554,
+      987,
+      573,
+      1005
+    ]
+  }
+}

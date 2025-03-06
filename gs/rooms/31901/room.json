@@ -1,0 +1,32 @@
+{
+  "checksum": "1da1693fe075657d577e7a15d7f68b64",
+  "room": {
+    "id": 31901,
+    "title": [
+      "[The Four Humours, Entry]"
+    ],
+    "description": [
+      "Cozy but elegant, the polished wooden walls of this room are partially covered by two tapestries, one water-stained and one moldy, hanging from the ceiling.  A glass-fronted display cabinet is a focal point of the space, its clawed feet resting upon a tasseled throw rug beneath it.  Set in an open corner is a wide silver tray, the instruments scattered across its surface well within reach of a hard wooden stool and the black leather chair in front of it.  The faint scent of blood lingers in the air."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31619": "out",
+      "32095": "go wooden door"
+    },
+    "timeto": {
+      "31619": 0.2,
+      "32095": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084081
+    ]
+  }
+}

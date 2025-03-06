@@ -1,0 +1,31 @@
+{
+  "checksum": "aef1e707046834086b05af3392c8232c",
+  "room": {
+    "id": 13993,
+    "title": [
+      "[Stockade, Storage Room]",
+      "[Bastille, Storage Room]"
+    ],
+    "description": [
+      "Flickering in the slight draft that flows by, torchlight stretches down to the earth, where the dirt floor quickly absorbs the bright invasion.  The small storage room is filled with boxes and crates stacked against its walls.  On the far wall, behind the stairway, a rusting door leads into a tiny cell.  An eerie series of sounds drifts in from further down the hallway, where darkness has taken over."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10421": "climb stairway",
+      "13995": "west"
+    },
+    "timeto": {
+      "10421": 0.2,
+      "13995": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      14114008
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "c7d30cfe28f7af09edf6873aba9fe1e4",
+  "room": {
+    "id": 24800,
+    "title": [
+      "[Boora's Outfitting]",
+      "[Boora's Combat Gear]"
+    ],
+    "description": [
+      "Beneath an ebonwood beam ceiling, a blue watered silk tapestry hangs on one of the celadon marble walls.  An oval-shaped speckled marble counter and an etched brass bin sit in opposite corners while a bronzed drake sculpture rests on a speckled black marble floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "361": "out",
+      "24822": "northwest",
+      "24823": "northeast"
+    },
+    "timeto": {
+      "361": 0.2,
+      "24822": 0.2,
+      "24823": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

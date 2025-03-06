@@ -1,0 +1,27 @@
+{
+  "checksum": "3c951fd8581d81ab337724a5091c3190",
+  "room": {
+    "id": 33560,
+    "title": [
+      "[Lizard Vivarium, Blue Walkway]"
+    ],
+    "description": [
+      "The heat and humidity along this walkway are magnified by the ample amount of sunlight streaming in through the glass ceiling.  Under the wooden beams forming the perimeter of the fence, blue hyacinths and irises have been planted to provide a natural demarcation for the pen."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Rumor Woods",
+    "wayto": {
+      "33546": "northwest",
+      "33561": "go blue gate"
+    },
+    "timeto": {
+      "33546": 0.2,
+      "33561": 0.2
+    },
+    "uid": [
+      8209353
+    ]
+  }
+}

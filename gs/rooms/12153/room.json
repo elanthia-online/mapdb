@@ -1,0 +1,45 @@
+{
+  "checksum": "269c13087ac141093cdf7a388881e0c2",
+  "room": {
+    "id": 12153,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The garden about you is dead, as dead as the rubble of the castle it sits behind.  Dead branches overhang the paths, their bark scorched and marred by deep gashes.  Flowerbeds contain dried blossoms, trampled beneath a multitude of uncaring booted feet.  Upon a cracked and battered pedestal resting in one of the flowerbeds rests a gold coin, still strangely bright."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12122": "northeast",
+      "12146": "southeast",
+      "12207": "/rooms/12153/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12153/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12122": 0.2,
+      "12146": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "withered deathblossom"
+    ],
+    "uid": [
+      4569001
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      514,
+      1127,
+      524,
+      1137
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "1dfd155a5832a709cf4b50870f3da234",
+  "room": {
+    "id": 8380,
+    "title": [
+      "[Thanatoph Bowels, Tunnel]"
+    ],
+    "description": [
+      "Loose dirt is piled along the edges of the floor, but the middle of the path is smooth and flat as if something heavy travels this direction quite often.  A giant pockmark mars the earthen wall of this tunnel, but the faint light of the area refuses to reveal its contents."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast"
+    ],
+    "location": "the bowels of Thanatoph",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8379": "northeast",
+      "8381": "southeast",
+      "8382": "north"
+    },
+    "timeto": {
+      "8379": 0.2,
+      "8381": 0.2,
+      "8382": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "some wingstem root",
+      "some cave moss",
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4293008
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      1051,
+      492,
+      1061,
+      502
+    ]
+  }
+}

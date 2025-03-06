@@ -1,0 +1,44 @@
+{
+  "checksum": "ea320769c6d25c5dde89ffd13e121ddc",
+  "room": {
+    "id": 12331,
+    "title": [
+      "[Firefly Villa, Lobby]"
+    ],
+    "description": [
+      "Various blue hues decorate the passage to create a nautical theme that culminates in a spiral staircase north of the hall and a small fountain to the south.  White birch inlays the thanot floorboards in an alternating pattern of scallop shells and starfish along the border, while the center is covered by a plush runner of soft white.  Standing opposite one another is a carved double-wide archway leading to a lounge and a set of open doors leading to the inn's central gardens.  A bounty of paintings decorates the walls.",
+      "Various blue hues decorate the passage to create a nautical theme that culminates in a spiral staircase north of the hall and a small fountain to the south.  White birch inlays the thanot floorboards in an alternating pattern of scallop shells and starfish along the border, while the center is covered by a plush runner of soft white.  Standing opposite one another is a carved double-wide archway leading to a lounge and an open doors leading to the inn's central gardens.  A bounty of paintings decorates the walls."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12330": "go doors",
+      "16338": "go archway",
+      "16410": "south",
+      "16431": "north",
+      "30718": "/rooms/12331/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "12330": 0.2,
+      "16338": 0.2,
+      "16410": 0.2,
+      "16431": 0.2,
+      "30718": "/rooms/12331/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access"
+    ],
+    "uid": [
+      3209321
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      920,
+      2160,
+      941,
+      2181
+    ]
+  }
+}

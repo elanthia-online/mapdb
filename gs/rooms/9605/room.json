@@ -1,0 +1,53 @@
+{
+  "checksum": "7869d19b1530778f4b98714ba50afd3a",
+  "room": {
+    "id": 9605,
+    "title": [
+      "[Czeroth Caverns, Great Cavern]"
+    ],
+    "description": [
+      "Drops of water fall into the holes of a bottle-shaped flowstone formation, creating a drumming sound that echoes throughout the cavern and sounds like a distant moaning.  The floor of the cavern is slick and treacherous."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9604": "northeast",
+      "9606": "southeast",
+      "9609": "go pool"
+    },
+    "timeto": {
+      "9604": 0.2,
+      "9606": 0.2,
+      "9609": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007038
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1222,
+      310,
+      1232,
+      320
+    ]
+  }
+}

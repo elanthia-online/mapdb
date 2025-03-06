@@ -1,0 +1,55 @@
+{
+  "checksum": "9fcdaf69ec6cbc6a495ba10778b45d8a",
+  "room": {
+    "id": 3807,
+    "title": [
+      "[Land Tower East, Office]"
+    ],
+    "description": [
+      "The ground floor of this guard tower appears to be some kind of office.  A single guard sits behind one of the desks reviewing some paperwork.  A small wood stove in the corner provides heat to the room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "223": "out",
+      "6932": "go wooden steps",
+      "23335": "go wooden trapdoor",
+      "30708": "/rooms/3807/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "223": 0.2,
+      "6932": 0.2,
+      "23335": 0.3,
+      "30708": "/rooms/3807/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "meta:teleport:fwi",
+      "locksmith pool",
+      "meta:boxpool:table:sturdy wooden table",
+      "meta:boxpool:npc:scruffy human worker",
+      "meta:trashcan:large wastebasket",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "urchin guide easttower",
+      "locksmithpool",
+      "easttower",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3040
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      317,
+      84,
+      353,
+      120
+    ]
+  }
+}

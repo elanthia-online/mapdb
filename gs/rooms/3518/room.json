@@ -1,0 +1,46 @@
+{
+  "checksum": "506a9797d8c286d07033aac28d6af525",
+  "room": {
+    "id": 3518,
+    "title": [
+      "[Ta'Vaalor, Victory Court]",
+      "[Ta'Vaalor, Tyrnian Court]",
+      "[Ta'Vaalor, King's Court]"
+    ],
+    "description": [
+      "Windowless and forbidding, the grey granite walls of the Hall of Justice sit squarely beneath the Keep.  Several city guardsmen patrol the tops of the crennelated walls while half a dozen guards flank the double doors leading into the Hall.  A large mithril plaque hangs from the rightmost ironbound door.",
+      "Windowless and forbidding, the grey granite walls of the Hall of Justice sit squarely beneath the Keep.  Several city guardsmen patrol the tops of the crenellated walls while half a dozen guards flank the double doors leading into the Hall.  A large mithril plaque hangs from the rightmost ironbound door."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3517": "west",
+      "3519": "east",
+      "10382": "go justice"
+    },
+    "timeto": {
+      "3517": 0.2,
+      "3519": 0.6,
+      "10382": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100049
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      850,
+      853,
+      883,
+      889
+    ]
+  }
+}

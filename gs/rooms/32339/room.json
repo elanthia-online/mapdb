@@ -1,0 +1,46 @@
+{
+  "checksum": "693d9bdde76da8d15b5483a4fac2af32",
+  "room": {
+    "id": 32339,
+    "title": [
+      "[Frostmain Docks, Shoreline]",
+      "[Frostmain, Docks]"
+    ],
+    "description": [
+      "Sprouting from a shore of black sand and sharp stone, the docks are an aging trident of planks that stretch out into the forbidding waters of the Frostmain.  Chunks of ice born from the vast white icebergs not far offshore bob in the dark water to the seaward side of the walk.  Despite the cold, silvery fish dart in the dark waters, little bothered by the frigid tides in which they swim."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32338": "go shore",
+      "32340": "north",
+      "32351": "east",
+      "32357": "west"
+    },
+    "timeto": {
+      "32338": 0.2,
+      "32340": 0.2,
+      "32351": 0.2,
+      "32357": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133002
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1198,
+      670,
+      1238,
+      720
+    ]
+  }
+}

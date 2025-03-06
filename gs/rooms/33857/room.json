@@ -1,0 +1,57 @@
+{
+  "checksum": "b53f37fb230eb5cbaf3b51c80cd8cd78",
+  "room": {
+    "id": 33857,
+    "title": [
+      "[Nielira Harbor, Boardwalk]"
+    ],
+    "description": [
+      "Small, rope-bound carts rest against the ebony-carved planks along the boardwalk, the various bottle-filled cases barely concealed beneath sheets of emerald wool.  A branch-latticed pergola of entwined haon and willow provides temporary respite from the elements, the splayed pieces interwoven in verdant heartleaf, the tendrils curling down towards several silk-cushioned benches.  Set beneath the archway is a ledger-filled ebonwood stand, its surface covered in quills and sheets of parchment."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, west, northwest"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33856": "west",
+      "33858": "east",
+      "33863": "northwest",
+      "33864": "north",
+      "33865": "northeast",
+      "34423": "/rooms/33857/wayto/stringproc-34423.rb"
+    },
+    "timeto": {
+      "33856": 0.2,
+      "33858": 0.2,
+      "33863": 0.2,
+      "33864": 0.2,
+      "33865": 0.2,
+      "34423": "/rooms/33857/timeto/stringproc-34423.rb"
+    },
+    "tags": [
+      "boatswain",
+      "tiny white elderflowers",
+      "snake's head fritillary",
+      "vert and orange frog-cup",
+      "green acistira leaves",
+      "acistira stem",
+      "pinkish green rosegrass",
+      "yellowish green twisted-fan",
+      "blackish green twisted-fan",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09",
+      "urchin-access",
+      "urchin guide boatswain"
+    ],
+    "uid": [
+      14150051
+    ],
+    "image": "en-nalfein-1695787165.png",
+    "image_coords": [
+      510,
+      514,
+      539,
+      541
+    ]
+  }
+}

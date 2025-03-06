@@ -1,0 +1,56 @@
+{
+  "checksum": "0f91337744c4c62f08d46771d1ec45e5",
+  "room": {
+    "id": 11826,
+    "title": [
+      "[Old Ta'Faendryl, West]"
+    ],
+    "description": [
+      "The sound of running water can be heard to the north.  A narrow road also leads to the east, past the time-blasted remains of roofless stone buildings."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11825": "southeast",
+      "11827": "north",
+      "11832": "east"
+    },
+    "timeto": {
+      "11825": 0.2,
+      "11827": 0.2,
+      "11832": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004014
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      543,
+      839,
+      553,
+      849
+    ]
+  }
+}

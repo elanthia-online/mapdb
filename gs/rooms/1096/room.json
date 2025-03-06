@@ -1,0 +1,50 @@
+{
+  "checksum": "c050ff8a755f6cff2b10194bef07f678",
+  "room": {
+    "id": 1096,
+    "title": [
+      "[Dead Plateau, River Chasm]"
+    ],
+    "description": [
+      "A crevice a hundred feet wide blocks passage along the plateau's edge to the east.  Several hundred feet below, a torrent of water gushes out of the crevice in a spectacular waterfall, crashing down to the hills below and winding away to the southeast.  The plateau is arid and inhospitable, indicating that rainfall is a rare occurrence, yet the sheer amount of water suggests a voluminous source.  The only travel options available are to follow the crevice to the north or the plateau's edge to the west."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the Locksmehr Trail",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "1095": "north",
+      "1097": "west"
+    },
+    "timeto": {
+      "1095": 0.2,
+      "1097": 0.2
+    },
+    "tags": [
+      "cothinar flower",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "stalk of chicory",
+      "broken twig",
+      "sprig of larkspur",
+      "ironfern root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13001014
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      1212,
+      980,
+      1222,
+      990
+    ]
+  }
+}

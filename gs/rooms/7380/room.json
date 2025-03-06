@@ -1,0 +1,43 @@
+{
+  "checksum": "e9e41b25d880b239c9dbf780714dba43",
+  "room": {
+    "id": 7380,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "A putrid greenish-yellow spring oozes from a jagged outcropping, forming a small puddle on the ground.  The overwhelming stench of rotted flesh rises up from the puddle, filling the air with a sickly sweet odor."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7379": "northeast",
+      "7384": "southeast"
+    },
+    "timeto": {
+      "7379": 0.2,
+      "7384": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160022
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1252,
+      1021,
+      1262,
+      1031
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "335f3060580653b29c95db41029b34e3",
+  "room": {
+    "id": 17653,
+    "title": [
+      "[Smuggler's Tunnels, Nexus]"
+    ],
+    "description": [
+      "A single shaft of light comes from the ceiling of the cavern, assisting the paltry light offered by a single torch.  The air is damp and cool, scented with the moistness of earth.  The room has the appearance of being carved from stone and is the meeting place of several tunnel mouths.  Several chairs sit beside a crate and behind them, set against the wall, are some canvas-covered boxes.  A large tunnel entrance leads to the north, while another leads west, and a third, smaller opening to the south."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17652": "go entrance",
+      "17654": "go opening",
+      "17675": "west"
+    },
+    "timeto": {
+      "17652": 0.2,
+      "17654": 0.2,
+      "17675": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "genkew mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5008006
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      678,
+      783,
+      716,
+      821
+    ]
+  }
+}

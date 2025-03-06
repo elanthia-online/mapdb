@@ -1,0 +1,47 @@
+{
+  "checksum": "59c2685d5288fa876618f5066d160f1b",
+  "room": {
+    "id": 11010,
+    "title": [
+      "[Courtyard]",
+      "[Beacon Hall, Courtyard]"
+    ],
+    "description": [
+      "The building is comprised entirely of huge red sandstone blocks.  The upper story is accented with airy galleries and latticework windows of white-and-red marble.  A tall door frame of ornately carved basalt surrounds an antique wooden door.  Numerous torches held in wrought iron sconces illuminate the house's exterior and surrounding courtyard.",
+      "Silhouetted against the bay, an imposing structure dominates the paved courtyard.  The building is comprised entirely of huge red sandstone blocks.  The upper story is accented with airy galleries and latticework windows of white-and-red marble.  A tall door frame of ornately carved basalt surrounds an antique wooden door."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11009": "out",
+      "16182": "/rooms/11010/wayto/stringproc-16182.rb",
+      "22221": "go gazebo"
+    },
+    "timeto": {
+      "11009": 0.2,
+      "16182": 0.2,
+      "22221": 0.2
+    },
+    "tags": [
+      "meta:mapname:River's Rest - Beacon Hall Archive",
+      "meta:mapshortname:Beacon Hall Archive",
+      "meta:mapcategory:River's Rest",
+      "meta:mapcategory:CHE",
+      "no forageables"
+    ],
+    "uid": [
+      216003
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      507,
+      769,
+      556,
+      814
+    ]
+  }
+}

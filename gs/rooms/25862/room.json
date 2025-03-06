@@ -1,0 +1,31 @@
+{
+  "checksum": "2d9e88bd811955a5490e82175686b86c",
+  "room": {
+    "id": 25862,
+    "title": [
+      "[Blacksmith, The Forge]"
+    ],
+    "description": [
+      "Burly ogre zombies tower over the rows of forges, some of their skin melting from the heat as it rolls through the chamber.  The creatures groan eerily, constantly toiling away at their work."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25685": "southeast",
+      "25689": "southwest"
+    },
+    "timeto": {
+      "25685": 0.2,
+      "25689": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      738,
+      689,
+      764,
+      716
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "checksum": "98795b11550c476365e6f32fe053c8fd",
+  "room": {
+    "id": 31598,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Occupying the center of the boulevard, a two-story ebonwood building with a silver gypsum-inlaid door faces the canal where a lantern-lined cobblestone bridge spans the water, providing egress to and from a towering inn.  Narrow streets glittering with the perpetual dew and limned in violet hues from the everlasting twilight twist deeper into the sprawling town.  Trees dot the street within small expanses of grass, their limbs dappled with blue-green leaves and laden with fruit."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "grassland",
+    "wayto": {
+      "31569": "go bridge",
+      "31572": "west",
+      "31591": "south",
+      "31592": "east",
+      "31599": "go building"
+    },
+    "timeto": {
+      "31569": 0.2,
+      "31572": 0.2,
+      "31591": 0.2,
+      "31592": 0.2,
+      "31599": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "orange milkweed flowers",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "orange-yellow chamomile",
+      "pineapple sage",
+      "evermore rosehip",
+      "downy skullcap",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083016
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      543,
+      435,
+      563,
+      455
+    ]
+  }
+}

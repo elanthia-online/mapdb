@@ -1,0 +1,44 @@
+{
+  "checksum": "de71417565a3f6336e7315eddcf0b225",
+  "room": {
+    "id": 25214,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "A veritable maze opens here, a myriad of passages cut from the cavernous walls stretching out before you.  There is a thick coating of dust covering the craggy ground, the faint outlines of footprints barely visible in the murky darkness of the room.  From somewhere beyond the range of sight, a soft shuffling sound is heard from within the twisting tunnels."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25212": "north",
+      "25213": "southeast",
+      "25215": "northeast"
+    },
+    "timeto": {
+      "25212": 0.2,
+      "25213": 0.2,
+      "25215": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900312
+    ]
+  }
+}

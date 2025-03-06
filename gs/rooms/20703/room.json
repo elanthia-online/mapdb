@@ -1,0 +1,42 @@
+{
+  "checksum": "ed78efd6b3fe1ddc4cec337159b4e8f6",
+  "room": {
+    "id": 20703,
+    "title": [
+      "[Meazernis Villa, Hallway]"
+    ],
+    "description": [
+      "Stretching north from the hallway entrance, the white birch-paneled corridor leads into the more private areas of the villa.  On the western wall, an oak-framed landscape painting hangs beside a pale green birch door, while on the opposite wall, a rounded oak arch leads into a dimly lit room.  Running up the center of the pale birch floorboards is a muted burgundy rug with a faint golden pineapple design.  Polished crystal sconces set into narrow niches in the wall supply the windowless hall with ample candlelight."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "18691": "go entrance",
+      "20704": "go arch",
+      "20705": "go door",
+      "20707": "north"
+    },
+    "timeto": {
+      "18691": 0.2,
+      "20704": 0.2,
+      "20705": 0.2,
+      "20707": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:premium"
+    ],
+    "uid": [
+      4002708
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      2838,
+      1648,
+      2964,
+      1702
+    ]
+  }
+}

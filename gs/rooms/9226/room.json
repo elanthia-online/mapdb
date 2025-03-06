@@ -1,0 +1,38 @@
+{
+  "checksum": "8ed28d871f693d401f7ff0193acc7a81",
+  "room": {
+    "id": 9226,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "Smeared on the wall is a long trail of slime.  The dim light of the passageway glistens off the shiny substance, the goo evidently very slow to dry.  A few bits of cracked shell are scattered on the path, but if they came from a snail, it was far larger than most."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9225": "north",
+      "9227": "south"
+    },
+    "timeto": {
+      "9225": 0.2,
+      "9227": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532020
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1253,
+      949,
+      1263,
+      959
+    ]
+  }
+}

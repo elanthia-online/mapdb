@@ -1,0 +1,46 @@
+{
+  "checksum": "26a6b7ed0f0aac3f6f05279d940789f2",
+  "room": {
+    "id": 8327,
+    "title": [
+      "[Spider Temple, Central Chamber]"
+    ],
+    "description": [
+      "The flickering, shifting light of candles fills this imposing central chamber with moving shadows.  Overhead a web-patterned tracery of red glaes supports the high domed ceiling, which rises tens of feet over the altar that lies at the center of the chamber.  Candle sconces flank each of the doors that lead to the \"legs\" of this shrine to the spider goddess.  Your eyes are drawn to the grotesque arrangement of inlaid floor tiles which depict scenes of death by poison."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8326": "go arch",
+      "8328": "go modwir door",
+      "8330": "go bejeweled door",
+      "8332": "southwest",
+      "8349": "northwest",
+      "8361": "go altar"
+    },
+    "timeto": {
+      "8326": 0.2,
+      "8328": 0.2,
+      "8330": 0.2,
+      "8332": 0.2,
+      "8349": 0.2,
+      "8361": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13001
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      707,
+      798,
+      717,
+      808
+    ]
+  }
+}

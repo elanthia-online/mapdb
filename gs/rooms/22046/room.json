@@ -1,0 +1,48 @@
+{
+  "checksum": "c4c48987b138d2790e8357d050b3def8",
+  "room": {
+    "id": 22046,
+    "title": [
+      "[Silvergate, Short Corridor]"
+    ],
+    "description": [
+      "Set off the main hallway and quiet, the corridor is well-lit by a small window to the east.  Small portraits line the white walls on either side of the doors."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21226": "west",
+      "22047": "go vaalin door",
+      "22048": "go ivory door",
+      "22049": "go oak door",
+      "22050": "go cedar door",
+      "22051": "south",
+      "22057": "north"
+    },
+    "timeto": {
+      "21226": 0.2,
+      "22047": 0.2,
+      "22048": 0.2,
+      "22049": 0.2,
+      "22050": 0.2,
+      "22051": 0.2,
+      "22057": 0.2
+    },
+    "tags": [
+      "meta:che:Silvergate Inn",
+      "meta:che:Silvergate Manor"
+    ],
+    "uid": [
+      109207
+    ],
+    "image": "wl-silvergate_inn-1487242763.png",
+    "image_coords": [
+      394,
+      214,
+      478,
+      270
+    ]
+  }
+}

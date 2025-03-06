@@ -1,0 +1,44 @@
+{
+  "checksum": "9ec442fc2078ae33ba7832a138d30810",
+  "room": {
+    "id": 30057,
+    "title": [
+      "[Angargreft, Berserker's End]"
+    ],
+    "description": [
+      "Pieces of the roof have collapsed into the chamber below, releasing the faint stink of lizard through the resulting gaps.  The unsteady wreckage is draped in slimy silk that fluoresces faintly in the light of the aurora.  Though the glimpses of the chamber below come through crevices too small to pass through, they offer tantalizing hints of glinting riches hoarded within."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30052": "north",
+      "30053": "west",
+      "30056": "south"
+    },
+    "timeto": {
+      "30052": 0.2,
+      "30053": 0.2,
+      "30056": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503492
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      690,
+      147,
+      706,
+      161
+    ]
+  }
+}

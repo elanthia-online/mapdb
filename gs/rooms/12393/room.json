@@ -1,0 +1,45 @@
+{
+  "checksum": "4e88ff0ea9b7c3ae4c52853139ce91ce",
+  "room": {
+    "id": 12393,
+    "title": [
+      "[Golvern Street]"
+    ],
+    "description": [
+      "The street is drilled into the walls of the canyon.  Just outside the great tunnel leading into the rock, several small homes skirt the street.  They are all freshly-whitewashed, and some have small shrubberies planted out front."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12392": "east",
+      "12394": "west",
+      "26859": "go ironwork gate",
+      "30589": "go copper arch"
+    },
+    "timeto": {
+      "12392": 0.2,
+      "12394": 0.2,
+      "26859": 0.2,
+      "30589": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001039
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1213,
+      342,
+      1243,
+      372
+    ]
+  }
+}

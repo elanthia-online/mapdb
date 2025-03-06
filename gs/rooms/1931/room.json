@@ -1,0 +1,43 @@
+{
+  "checksum": "aa27b996e2631481c556ddbdde580958",
+  "room": {
+    "id": 1931,
+    "title": [
+      "[Krodera Street]"
+    ],
+    "description": [
+      "There is an enormous hole in the middle of this cobblestone street, wide enough to swallow a small hill and deep enough that you can't see the bottom.  The dwarves who wander by ignore it, walking around the edges on their way.  A small wooden booth sits near the edge of the crater."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1929": "east",
+      "1932": "west",
+      "19506": "go hovel"
+    },
+    "timeto": {
+      "1929": 0.2,
+      "1932": 0.2,
+      "19506": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001026
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1124,
+      519,
+      1154,
+      549
+    ]
+  }
+}

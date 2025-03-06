@@ -1,0 +1,51 @@
+{
+  "checksum": "9b0d731df46f9b8766c47e8742604737",
+  "room": {
+    "id": 3933,
+    "title": [
+      "[Catacombs, Rat's Nest]"
+    ],
+    "description": [
+      "This suffocatingly close room is dark and foul-smelling.  Murky light filters in through a clawed-out hole in the crumbling brick wall on one side of the chamber.  Decaying straw and rotting refuse litter the floor.  From somewhere nearby, you can hear the faint trickling of water."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3932": "go hole",
+      "3934": "go opening"
+    },
+    "timeto": {
+      "3932": 0.2,
+      "3934": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46006
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      901,
+      1021,
+      911,
+      1031
+    ]
+  }
+}

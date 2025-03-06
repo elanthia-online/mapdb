@@ -1,0 +1,46 @@
+{
+  "checksum": "2d233e3f519e7928fc1036962e98ec48",
+  "room": {
+    "id": 24384,
+    "title": [
+      "[Massive Oak, Cozy Crooks]"
+    ],
+    "description": [
+      "The central trunk ascends high into the sky, and a variety of huge branches arc off in all different directions -- each curved and sporting a thick cushion of leaves for relaxing and surveying the surrounding landscape.  Light filters down in soft waves, the harsh glare of the sun broken into refreshing spots of warmth mingled with patches of cool shade.  The faint trill of birds can occasionally be heard as they hop from branch to branch and disappear high up in the bough."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24382": "down",
+      "24404": "/rooms/24384/wayto/stringproc-24404.rb"
+    },
+    "timeto": {
+      "24382": 0.2,
+      "24404": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:mapname:Elven Nations - Ta'Illistim Ranger Guild",
+      "meta:mapshortname:Ranger Guild (Ta'Illistim)",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:Guilds",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      275019
+    ],
+    "image": "en-ta_illistim-rangerguild-v2.png",
+    "image_coords": [
+      111,
+      241,
+      131,
+      259
+    ]
+  }
+}

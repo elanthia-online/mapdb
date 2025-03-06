@@ -1,0 +1,34 @@
+{
+  "checksum": "c156ea9ac4ebb96c86c107b2f5d5e73d",
+  "room": {
+    "id": 32571,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "A cold wind races across the surface of the bay, sending moisture and salt swirling about.  Beneath the waters, a large bed of kelp can be seen."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32573": "/rooms/32571/wayto/stringproc-32573.rb",
+      "32574": "/rooms/32571/wayto/stringproc-32574.rb"
+    },
+    "timeto": {
+      "32573": 3.2,
+      "32574": 3.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      336809
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "4ce087d22164e6f43a8ef86854acdc2e",
+  "room": {
+    "id": 12217,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Skeletal birds circle a giant black marble statue depicting a winged demon.  The earth at the feet of the statuary has been frozen solid, all plant and animal life encased in a thick layer of ice.  A bluish mist lingers in the air, ebbing and flowing like the tide over time.",
+      "Skeletal birds circle a giant black marble statue depicting a winged demon.  The earth at the feet of the statuary has been scorched of all life, both plant and animal.  A reddish mist lingers in the air, ebbing and flowing like the tide over time."
+    ],
+    "paths": [
+      "Obvious exits: northwest, down",
+      "Obvious paths: northwest, down"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12217/wayto/stringproc-12151.rb",
+      "12219": "down",
+      "12220": "northwest",
+      "12256": "go barrier"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12219": 0.2,
+      "12220": 0.2,
+      "12256": 0.2
+    },
+    "tags": [
+      "meta:mapname:Icemule Trace - Scatter, The",
+      "meta:mapshortname:Scatter, The",
+      "meta:mapcategory:Icemule Trace"
+    ],
+    "uid": [
+      4571024
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      183,
+      321,
+      207,
+      345
+    ]
+  }
+}

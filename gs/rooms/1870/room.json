@@ -1,0 +1,74 @@
+{
+  "checksum": "b910e71d7b53aab484b9970320014581",
+  "room": {
+    "id": 1870,
+    "title": [
+      "[Copper Avenue, West Docks]"
+    ],
+    "description": [
+      "Clanging bells, steam whistles and hoarse dwarven shouts crowd the air of this busy port.  Squat ferryboats wallow in from a gaping hole in the mountain just to the south.  They are piled high with lumps of raw ore and pick-bearing dwarves.  A large building to the northwest belches forth great clouds of black soot, and everything here has a layer of grime."
+    ],
+    "paths": [
+      "Obvious paths: north",
+      "Obvious paths: north, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "250": "/rooms/1870/wayto/stringproc-250.rb",
+      "1869": "north",
+      "1871": "go office",
+      "10838": "/rooms/1870/wayto/stringproc-10838.rb",
+      "11756": "/rooms/1870/wayto/stringproc-11756.rb",
+      "12377": "south",
+      "29033": "/rooms/1870/wayto/stringproc-29033.rb",
+      "30238": "go ramp",
+      "30715": "/rooms/1870/wayto/stringproc-30715.rb",
+      "31493": "/rooms/1870/wayto/stringproc-31493.rb",
+      "32372": "/rooms/1870/wayto/stringproc-32372.rb",
+      "32928": "/rooms/1870/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "250": "/rooms/1870/timeto/stringproc-250.rb",
+      "1869": 0.2,
+      "1871": 0.2,
+      "10838": "/rooms/1870/timeto/stringproc-10838.rb",
+      "11756": "/rooms/1870/timeto/stringproc-11756.rb",
+      "12377": 0.2,
+      "29033": "/rooms/1870/timeto/stringproc-29033.rb",
+      "30238": 0.2,
+      "30715": "/rooms/1870/timeto/stringproc-30715.rb",
+      "31493": "/rooms/1870/timeto/stringproc-31493.rb",
+      "32372": "/rooms/1870/timeto/stringproc-32372.rb",
+      "32928": "/rooms/1870/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "alchemy sea water",
+      "urchin-access",
+      "urchin guide star",
+      "silver-cost:250:25000",
+      "silver-cost:11756:25000",
+      "silver-cost:10838:25000",
+      "silver-cost:29033:25000",
+      "portmaster",
+      "silver-cost:31493:35000",
+      "urchin guide docks",
+      "silver-cost:32372:25000",
+      "silver-cost:32928:25000",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002033
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      289,
+      1101,
+      325,
+      1137
+    ]
+  }
+}

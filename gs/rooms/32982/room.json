@@ -1,0 +1,30 @@
+{
+  "checksum": "65b1ac71a1c0b55b0b991a37e90886b1",
+  "room": {
+    "id": 32982,
+    "title": [
+      "[Grumbleberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain, which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "32981": "pull lever",
+      "32983": "go leather curtain"
+    },
+    "timeto": {
+      "32981": 0.2,
+      "32983": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Obsidian Tower"
+    ],
+    "uid": [
+      4043935
+    ]
+  }
+}

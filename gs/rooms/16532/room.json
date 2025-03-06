@@ -1,0 +1,29 @@
+{
+  "checksum": "f0a2c6a80dee2f74108c602fd46cbd60",
+  "room": {
+    "id": 16532,
+    "title": [
+      "[Greysleeve's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A splintered cargo crate and a plain wooden table sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12262": "out",
+      "16578": "south",
+      "16579": "north"
+    },
+    "timeto": {
+      "12262": 0.2,
+      "16578": 0.2,
+      "16579": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

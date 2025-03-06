@@ -1,0 +1,32 @@
+{
+  "checksum": "2387054eed22d92ab5a4dca7a0404458",
+  "room": {
+    "id": 31977,
+    "title": [
+      "[The Vamped Vault, Arch]"
+    ],
+    "description": [
+      "The serene nook of smooth, uncolored stone surrounds a rune-etched shelf of the same material.  Delicately leaded windows lend their brilliant colorations to the otherwise unadorned area.  Dried herbs and blossoms litter the corners of the floor, scenting the area with their memories."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31976": "south",
+      "32109": "go trefoil archway"
+    },
+    "timeto": {
+      "31976": 0.2,
+      "32109": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084526
+    ]
+  }
+}

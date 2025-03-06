@@ -1,0 +1,39 @@
+{
+  "checksum": "24d531f0bb2980c5cef829ab98cda353",
+  "room": {
+    "id": 23213,
+    "title": [
+      "[White Haven, Stairway Landing]"
+    ],
+    "description": [
+      "A railing fashioned from crystal, relieved by golden flecks, binds the limits of the landing.  Prisms of light glint off the railing and bestow a colorful warmth to the carved modwir stairway.  Set in the corner is a water clock trimmed with polished metals that patiently marks the hours and minutes of each day."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "White Haven",
+    "wayto": {
+      "23211": "go stairway",
+      "23228": "up",
+      "23229": "west"
+    },
+    "timeto": {
+      "23211": 0.2,
+      "23228": 0.2,
+      "23229": 0.2
+    },
+    "tags": [
+      "meta:che:White Haven"
+    ],
+    "uid": [
+      213018
+    ],
+    "image": "imt-WhiteHaven2.png",
+    "image_coords": [
+      441,
+      203,
+      519,
+      279
+    ]
+  }
+}

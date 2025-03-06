@@ -1,0 +1,28 @@
+{
+  "checksum": "0b9b2976d47bb00149ef7c4aec302d9d",
+  "room": {
+    "id": 15188,
+    "title": [
+      "[Jovana's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by blue watered silk walls, the shop features a woven Vornavian silk rug in the center of its oak floor.  A trio-bladed mounted vellum fan hangs under the vaulted ceiling.  Right near the front is a vine-carved mahogany table and a Vornavian silk-lined display case."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "343": "out",
+      "15253": "east",
+      "15254": "north"
+    },
+    "timeto": {
+      "343": 0.2,
+      "15253": 0.2,
+      "15254": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

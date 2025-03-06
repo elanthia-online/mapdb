@@ -1,0 +1,37 @@
+{
+  "checksum": "d26c42329ee0a47d50121b1f0a6a0faa",
+  "room": {
+    "id": 26063,
+    "title": [
+      "[Sylvanfair, Magical Workshop]"
+    ],
+    "description": [
+      "You can feel the magic in the air in this room.  The walls are bare here, even of bark -- the ironwood walls have been blasted clean by past accidents.  A large workbench fashioned from the same ironwood as the walls contains all manner of vials, jars, and papers."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21332": "go door",
+      "26062": "north"
+    },
+    "timeto": {
+      "21332": 0.2,
+      "26062": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211020
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      229,
+      338,
+      268,
+      376
+    ]
+  }
+}

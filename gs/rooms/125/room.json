@@ -1,0 +1,38 @@
+{
+  "checksum": "08dc627ec7113933800b6ebe15496351",
+  "room": {
+    "id": 125,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Still more stone walls surround you, tunnelling endlessly within this mountain of marble and granite.  For all the danger, there seems to be little reward as yet.  The featureless rock offers up no clue, no guidance."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "124": "southwest",
+      "126": "north"
+    },
+    "timeto": {
+      "124": 0.2,
+      "126": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300017
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      772,
+      764,
+      782,
+      774
+    ]
+  }
+}

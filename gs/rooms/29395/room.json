@@ -1,0 +1,24 @@
+{
+  "checksum": "d10d5e812706a2ddd70d5abc5b371a1e",
+  "room": {
+    "id": 29395,
+    "title": [
+      "[Yllira Sutara, Showroom]"
+    ],
+    "description": [
+      "Walls of warm wool felt patterned in rich jewel tones of burgundy, emerald, and sapphire blue hang from a silvery beech frame.  Ornate crystal globes hang from the ceiling, each etched with a detailed pattern of roses.  A thick velvet curtain is flanked by a slender polished oak stand and an etched glass case."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29057": "go curtain",
+      "29394": "west"
+    },
+    "timeto": {
+      "29057": 0.2,
+      "29394": 0.2
+    }
+  }
+}

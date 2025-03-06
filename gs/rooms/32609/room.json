@@ -1,0 +1,33 @@
+{
+  "checksum": "3b1e8052fc573b6838627311b4674389",
+  "room": {
+    "id": 32609,
+    "title": [
+      "[The Rhimar Rink, Entrance]"
+    ],
+    "description": [
+      "Modwir walls enclose the well-sized shop, their surfaces colored with a whorled pattern of deep and light blues.  Small child-sized handprints of white paint are scattered along the walls, each one containing a scribbled name, and shaped to resemble a falling snowflake.  A large window opens near the entrance, where a burly giantman greets visitors.  A crowd of onlookers stand on the outside of a half-walled arena, watching as several people skate along a stretch of ice."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32606": "out",
+      "32616": "go arena"
+    },
+    "timeto": {
+      "32606": 0.2,
+      "32616": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      336427
+    ]
+  }
+}

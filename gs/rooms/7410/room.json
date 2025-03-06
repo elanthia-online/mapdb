@@ -1,0 +1,44 @@
+{
+  "checksum": "1b569d68fdcd59cb3998dd86deefbca6",
+  "room": {
+    "id": 7410,
+    "title": [
+      "[Mine Tunnels]"
+    ],
+    "description": [
+      "A steady dripping sound intrudes on the dead silence of the tunnels.  Despite a careful inspection, you cannot find the source of the drip.  The air tastes stale and dry regardless of the audible signs of moisture."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7409": "northeast",
+      "7424": "southwest"
+    },
+    "timeto": {
+      "7409": 0.2,
+      "7424": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2158019
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1204,
+      84,
+      1212,
+      92
+    ]
+  }
+}

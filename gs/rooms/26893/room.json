@@ -1,0 +1,44 @@
+{
+  "checksum": "108f8ab7f7debd397fdd6dae2b75f4e4",
+  "room": {
+    "id": 26893,
+    "title": [
+      "[Bloodriven Village, Pewter Road]"
+    ],
+    "description": [
+      "Slipping between terraces, the narrow street is littered with uneven cobblestones and copper-banded rain barrels.  Balconies, draped with an assortment of drying clothes, crowd the air above and do little to lighten the prevailing gloom.  The cloying scent of flowers wages war with that of the pervading mildew and moss.",
+      "Slipping between terraces, the narrow street is littered with slippery cobblestones and holly-strewn barrels.  Balconies, draped with an assortment of colorful scarves, crowd the air above and lighten the prevailing gloom.  The cloying scent of cinnamon wages war with that of the pervading woodsmoke."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Bloodriven Village",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "26888": "east",
+      "26892": "west",
+      "29844": "go dark structure",
+      "30314": "go canted building"
+    },
+    "timeto": {
+      "26888": 0.2,
+      "26892": 0.2,
+      "29844": 0.2,
+      "30314": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8214531
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1138,
+      913,
+      1168,
+      941
+    ]
+  }
+}

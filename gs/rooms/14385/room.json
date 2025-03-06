@@ -1,0 +1,35 @@
+{
+  "checksum": "8ab04a4040bc4644b8054b294f523a47",
+  "room": {
+    "id": 14385,
+    "title": [
+      "[Temple, Hall of Death]"
+    ],
+    "description": [
+      "The hall widens and the ceiling rises in a gentle arch to form a tomblike chamber, its curving south wall cradling a pair of arched mistwood doors etched in vinelike patterns of malachite and silver.   A stylized yew tree is carved into the smooth granite of the north wall, its gnarled branches almost lifelike in detail, and the floor is inlaid with grey tile that forms interlocking symbols of eternity.  An ancient silver sickle hangs mounted on a moss-green stone plaque above the doors."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14226": "northwest",
+      "14386": "go doors",
+      "14388": "northeast"
+    },
+    "timeto": {
+      "14226": 0.2,
+      "14386": 0.2,
+      "14388": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900705
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "43bb1cc13345bc48e8343c342e702dc6",
+  "room": {
+    "id": 16758,
+    "title": [
+      "[Temple Wyneb, Tanthuz]"
+    ],
+    "description": [
+      "A sculpted white marble fountain stands in the center of this room.  Kneeling on a dais rising from the pool of water is a willowy cleric holding an alabaster ewer.  Water streams forth from the vessel, splashing over a fallen warrior draped across the platform.  Overflow from the fountain has been channelled off to the south."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16756": "west",
+      "16757": "south",
+      "16759": "go pool",
+      "16763": "east"
+    },
+    "timeto": {
+      "16756": 0.2,
+      "16757": 0.2,
+      "16759": 0.2,
+      "16763": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300057
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      663,
+      713,
+      671,
+      721
+    ]
+  }
+}

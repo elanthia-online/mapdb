@@ -1,0 +1,42 @@
+{
+  "checksum": "cc7dac54c6fc3f7706787cca17f000bc",
+  "room": {
+    "id": 9087,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "The piles of bones are so high here that the tunnel is almost impassable.  They shift and crunch with every movement, and even when all else seems still.  There's no telling how many foul creatures are crawling around in this mess."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, southwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9084": "southeast",
+      "9086": "east",
+      "9090": "southwest"
+    },
+    "timeto": {
+      "9084": 0.2,
+      "9086": 0.2,
+      "9090": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045162
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1270,
+      225,
+      1280,
+      235
+    ]
+  }
+}

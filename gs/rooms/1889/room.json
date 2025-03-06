@@ -1,0 +1,33 @@
+{
+  "checksum": "edf1bb46e2ee90f61896c898c1f55cb2",
+  "room": {
+    "id": 1889,
+    "title": [
+      "[Company Store, Weaponry]"
+    ],
+    "description": [
+      "The sharp smell of oil greets your senses while the wide selection of weaponry displayed around you seems enough to appease the desires of even the most jaded warrior.  Racks of weapons line the walls while the center of the room is dominated by a large grindstone.  The weapons seem to be of uncommonly high quality for a mining town."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1888": "west",
+      "30715": "/rooms/1889/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1888": 0.2,
+      "30715": "/rooms/1889/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons"
+    ],
+    "uid": [
+      3003098
+    ]
+  }
+}

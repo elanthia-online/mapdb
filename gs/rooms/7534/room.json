@@ -1,0 +1,55 @@
+{
+  "checksum": "4b8462ae59d9adcb4854ba600a1a8c75",
+  "room": {
+    "id": 7534,
+    "title": [
+      "[Catacombs, Twisting Tunnels]"
+    ],
+    "description": [
+      "This junction of tunnels is very disorienting.  Here the walls are perfectly smooth and featureless except for an occasional streak of mineral deposits.  The tunnel slopes sharply upward to the north and east, while the ceiling arches up in the center to form a small, dark hole."
+    ],
+    "paths": [
+      "Obvious exits: north, east, up"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7533": "north",
+      "7535": "east",
+      "7537": "up",
+      "7565": "go deep crack"
+    },
+    "timeto": {
+      "7533": 0.2,
+      "7535": 0.2,
+      "7537": 0.2,
+      "7565": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "red trafel mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46031
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      447,
+      1367,
+      457,
+      1377
+    ]
+  }
+}

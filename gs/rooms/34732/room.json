@@ -1,0 +1,29 @@
+{
+  "checksum": "6b5ec2a6dca5ca34f06097f0812c507d",
+  "room": {
+    "id": 34732,
+    "title": [
+      "[The Archive, Radiance's Price]"
+    ],
+    "description": [
+      "Heavy chains of dull golden metal are riveted to the ceiling and walls of the expansive atrium.  They cruelly enmesh the statue of a raw-boned older man, suspending his form above a sea of dancing flames roaring from a stone-walled pit.  The heat of the flames makes the air of the cavernous chamber shimmer and warp, and the stones of the wall seem to writhe in the inferno.  Opposite the arch leading to the edifice's vestibule, a corridor proceeds northward before branching off to the west."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Sablecross",
+    "wayto": {
+      "34731": "go arch",
+      "34776": "west",
+      "34777": "north"
+    },
+    "timeto": {
+      "34731": 0.2,
+      "34776": 0.2,
+      "34777": 0.2
+    },
+    "uid": [
+      4572305
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "48d29e9767ff7c89b2e0757e2b835541",
+  "room": {
+    "id": 6926,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Dark and narrow, this section of tunnel is any claustrophobic's nightmare.  The dirt raining down from the ceiling certainly does not help matters, only serving to exacerbate the feeling of being closed in.  Ambient light filters in from other areas, providing only scant illumination."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6910": "north",
+      "6913": "west",
+      "6915": "southwest",
+      "6925": "south"
+    },
+    "timeto": {
+      "6910": 0.2,
+      "6913": 0.2,
+      "6915": 0.2,
+      "6925": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37006
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      988,
+      1303,
+      998,
+      1313
+    ]
+  }
+}

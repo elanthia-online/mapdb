@@ -1,0 +1,27 @@
+{
+  "checksum": "a5bd0f237689e3f6b154badc0b2a5091",
+  "room": {
+    "id": 33382,
+    "title": [
+      "[Vornavis, Tower Stairs]"
+    ],
+    "description": [
+      "A small landing and a door to the tower room at this level interrupt the sweep of the stairs."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Vornavis Proper",
+    "wayto": {
+      "33381": "down",
+      "33383": "up"
+    },
+    "timeto": {
+      "33381": 0.2,
+      "33383": 0.2
+    },
+    "uid": [
+      4201003
+    ]
+  }
+}

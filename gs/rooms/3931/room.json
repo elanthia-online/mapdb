@@ -1,0 +1,53 @@
+{
+  "checksum": "5762ab5eadc52a7dac99f0f7df1f1051",
+  "room": {
+    "id": 3931,
+    "title": [
+      "[Wehnimer's, Catacombs]"
+    ],
+    "description": [
+      "Several niches in the stone walls of this small, musty chamber hold heaps of dust, tarnished trinkets and shreds of cloth.  The sunken, dried face of a crumpled corpse in the center of the room still wears an expression of shock and horror.  Small, furry creatures dart in and out of a jagged opening, where some stones have been removed, in the far wall.  As it dawns on you that they cannot be the source of the loud, sinister scraping noises coming from the east, a chill runs down your spine."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "324": "go opening",
+      "3932": "east",
+      "7491": "west"
+    },
+    "timeto": {
+      "324": 0.2,
+      "3932": 0.2,
+      "7491": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "white hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46001
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      874,
+      968,
+      884,
+      978
+    ]
+  }
+}

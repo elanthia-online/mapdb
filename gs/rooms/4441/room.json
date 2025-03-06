@@ -1,0 +1,30 @@
+{
+  "checksum": "27a0b45b69e1fc72cbc3615ca6d6c58e",
+  "room": {
+    "id": 4441,
+    "title": [
+      "[Topaz Level, Mess]"
+    ],
+    "description": [
+      "Several long tables surrounded by simple wooden chairs serve as a mess area for the miners.  Pewter flagons filled with ale rest near large loaves of bread and assorted fruit and nuts.  A cook stares out from the nearby pantry, his apron covered with food stains."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4431": "northwest",
+      "4442": "southwest",
+      "4443": "east"
+    },
+    "timeto": {
+      "4431": 0.2,
+      "4442": 0.2,
+      "4443": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

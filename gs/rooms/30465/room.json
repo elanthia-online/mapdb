@@ -1,0 +1,51 @@
+{
+  "checksum": "f8291ba61531a698c787c72b9430cef2",
+  "room": {
+    "id": 30465,
+    "title": [
+      "[Western Waterway, Harbor]"
+    ],
+    "description": [
+      "Lanterns dangle from several small fishing boats occupying this area, their nets floating languidly in the water and glistening with moonlight as it reflects from the attached floats.  Occasionally, a crew member will appear and check on a net, but most of the boats are quiet as the fisherman sleep."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30461": "pedal southwest",
+      "30462": "pedal southeast",
+      "30463": "pedal south",
+      "30466": "pedal west",
+      "30468": "pedal east",
+      "30469": "pedal northwest",
+      "30470": "pedal northeast",
+      "30471": "pedal north"
+    },
+    "timeto": {
+      "30461": 6,
+      "30462": 6,
+      "30463": 6,
+      "30466": 6,
+      "30468": 6,
+      "30469": 6,
+      "30470": 6,
+      "30471": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216122
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      423,
+      1021,
+      440,
+      1038
+    ]
+  }
+}

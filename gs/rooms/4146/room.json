@@ -1,0 +1,43 @@
+{
+  "checksum": "16959202fdabede7259be7a6b6e737c3",
+  "room": {
+    "id": 4146,
+    "title": [
+      "[Hall of the Dead, Tunnel]"
+    ],
+    "description": [
+      "This room is a stark contrast to the others, brightly lit by torches and oil-filled pots.  The walls are painted pure white, with pictures depicting scenes of peace and serenity.  Various artworks depict many of the local deities.  No one worship has been slighted as each sect has tried to outdo the other in worship of their gods."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southwest, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4145": "west",
+      "4147": "east",
+      "4164": "southwest",
+      "4165": "northeast"
+    },
+    "timeto": {
+      "4145": 0.2,
+      "4147": 0.2,
+      "4164": 0.2,
+      "4165": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138002
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      696,
+      760,
+      706,
+      770
+    ]
+  }
+}

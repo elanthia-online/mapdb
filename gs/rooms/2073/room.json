@@ -1,0 +1,70 @@
+{
+  "checksum": "178c4dbeff6ecb442f92f26851d0e7ac",
+  "room": {
+    "id": 2073,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "The twisted mass of vines and small bushes that have nearly overtaken the village make travel difficult, but not impossible.  Nothing has escaped their insidious, creeping onslaught.  Nearby, the walls of the guild hall and jail show signs of being gradually overtaken, as tendrils push their way through even the tiniest cracks in the outer walls.",
+      "The twisted mass of vines and small bushes that have nearly overtaken the village make travel difficult, but not impossible.  Nothing has escaped their insidious, creeping onslaught.  Nearby, the walls of the guild hall and jail show signs of being gradually overtaken, as bright tendrils of green push their way through even the tiniest cracks in the outer walls."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2070": "east",
+      "2074": "west",
+      "12649": "go jail",
+      "12652": "north",
+      "12658": "go hall"
+    },
+    "timeto": {
+      "2070": 0.2,
+      "2074": 0.2,
+      "12649": 0.2,
+      "12652": 0.2,
+      "12658": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "withered black mushroom",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030209
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      391,
+      1151,
+      401,
+      1161
+    ]
+  }
+}

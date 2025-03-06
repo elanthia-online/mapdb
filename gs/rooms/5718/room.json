@@ -1,0 +1,46 @@
+{
+  "checksum": "0494d16cb61eb63d5fda4aae153616d1",
+  "room": {
+    "id": 5718,
+    "title": [
+      "[The Tentacled Tavern, Lounge]"
+    ],
+    "description": [
+      "Wall sconces made of candlelit conch shells cast a warm glow across this room.  Fishnets, strung with starfish and other seashells, decorate the modwir-paneled walls.  High half-walls surround each table, allowing the occupants conversational privacy."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "199": "/rooms/5718/wayto/stringproc-199.rb",
+      "5717": "go archway",
+      "13973": "/rooms/5718/wayto/stringproc-13973.rb",
+      "19340": "/rooms/5718/wayto/stringproc-19340.rb",
+      "19341": "/rooms/5718/wayto/stringproc-19341.rb",
+      "19342": "/rooms/5718/wayto/stringproc-19342.rb",
+      "19343": "/rooms/5718/wayto/stringproc-19343.rb",
+      "19344": "/rooms/5718/wayto/stringproc-19344.rb",
+      "19345": "/rooms/5718/wayto/stringproc-19345.rb"
+    },
+    "timeto": {
+      "199": 0.2,
+      "5717": 0.2,
+      "13973": 0.2,
+      "19340": 0.2,
+      "19341": 0.2,
+      "19342": 0.2,
+      "19343": 0.2,
+      "19344": 0.2,
+      "19345": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4740002
+    ]
+  }
+}

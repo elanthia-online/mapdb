@@ -1,0 +1,35 @@
+{
+  "checksum": "402fd84659cd2d6e374befd5f9b4d0e7",
+  "room": {
+    "id": 5606,
+    "title": [
+      "[Mercantylers' Hall, Hallway]"
+    ],
+    "description": [
+      "The white plaster walls are partially paneled in highly polished oak and extend to the east and west.   The warm highlights in the paneling are enhanced by light from brass ship lanterns along either wall.  A pair of carved signs, one pointing east and the other pointing west, hang on the wall opposite the arched doorway."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5590": "go doorway",
+      "5607": "west",
+      "5608": "east"
+    },
+    "timeto": {
+      "5590": 0.2,
+      "5607": 0.2,
+      "5608": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120081
+    ]
+  }
+}

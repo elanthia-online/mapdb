@@ -1,0 +1,52 @@
+{
+  "checksum": "a84f60d737885e6b9277f66ec7936db0",
+  "room": {
+    "id": 11420,
+    "title": [
+      "[Troll Lair, Quarters]"
+    ],
+    "description": [
+      "This room is small, cramped and dank.  There are three skins, covering matted leaves, which serve as beds.  Moss competes with garbage for floor space.  The walls are caked with grime and decaying meat.  The corners are crowded with bones and rancid flesh."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11417": "west",
+      "11421": "east"
+    },
+    "timeto": {
+      "11417": 0.2,
+      "11421": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "ironfern root",
+      "murdroot",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      40009
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      933,
+      1412,
+      943,
+      1422
+    ]
+  }
+}

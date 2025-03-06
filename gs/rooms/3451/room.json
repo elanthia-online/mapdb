@@ -1,0 +1,44 @@
+{
+  "checksum": "d71b63f42f665942b319450587b4eaee",
+  "room": {
+    "id": 3451,
+    "title": [
+      "[Xenophon's Fletcher Shop]"
+    ],
+    "description": [
+      "This cozy shop is lit by dozens of wax candles that glimmer on the shelves, illuminating stacks of elk hide quivers and various style of bolts and arrows.  Bows of fine wood and bone stand along the walls, ready for inspection by discerning archers.  Shop assistants busy themselves with wood and feathers in the back of the room, and a wooden counter inlaid with polished mithril stands before you."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2394": "out",
+      "30709": "/rooms/3451/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2394": 0.2,
+      "30709": "/rooms/3451/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin-access",
+      "urchin guide fletcher",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043865
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      226,
+      1233,
+      262,
+      1269
+    ]
+  }
+}

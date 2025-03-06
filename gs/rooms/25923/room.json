@@ -1,0 +1,34 @@
+{
+  "checksum": "441c38ea69414db725b53bfba516478d",
+  "room": {
+    "id": 25923,
+    "title": [
+      "[Ostwicke Hall, Office]"
+    ],
+    "description": [
+      "A scribe's desk sits before a cushioned wooden bench in the center of the room.  Behind it, a long row of cabinets is topped by books, ledgers, and scrolls.  A tall door has been wedged open by a wooden block, though the boxes that threaten to spill out would likely be enough to keep the door from closing."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25922": "out",
+      "25924": "go door"
+    },
+    "timeto": {
+      "25922": 0.2,
+      "25924": 0.2
+    },
+    "uid": [
+      8211318
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      581,
+      91,
+      632,
+      143
+    ]
+  }
+}

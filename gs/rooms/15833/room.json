@@ -1,0 +1,30 @@
+{
+  "checksum": "969a09f566dbcf2fce5110e73f251638",
+  "room": {
+    "id": 15833,
+    "title": [
+      "[Kodachii's Weaponry]"
+    ],
+    "description": [
+      "Beneath an oak beam ceiling, a colorful Icemule map hangs on one of the smooth white plaster walls.  A large brass-bound chest and a long varnished counter sit in opposite corners while a knotted woolen rug rests on a russet oak floor.",
+      "Smooth white plaster walls rise from a russet oak floor.  Just above a knotted woolen rug hangs a colorful Icemule map, and an oak beam ceiling completes the picture.  A long varnished counter and a large brass-bound chest stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2377": "out",
+      "15844": "northwest",
+      "15845": "north"
+    },
+    "timeto": {
+      "2377": 0.2,
+      "15844": 0.2,
+      "15845": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

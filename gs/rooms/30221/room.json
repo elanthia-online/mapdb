@@ -1,0 +1,43 @@
+{
+  "checksum": "6938c41594e15bfc60ec70a076045e0e",
+  "room": {
+    "id": 30221,
+    "title": [
+      "[North Dock, Briny Dakris Pier]"
+    ],
+    "description": [
+      "Buoys emblazoned with the image of Spike the War Rat are strung along the water-roughened teak and oak pier, and cork and canvas bumpers pad each docking slip.  The soft sound of waves slapping against wooden support posts fills the air, and the pervasive scent of salt water and rotting seaweed drifts upon the wind.  A carved driftwood sign reads, \"Briny Dakris Pier - Slips 1-5.\""
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30220": "south",
+      "30222": "east",
+      "30223": "north"
+    },
+    "timeto": {
+      "30220": 0.2,
+      "30222": 0.2,
+      "30223": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7122016
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      243,
+      833,
+      271,
+      862
+    ]
+  }
+}

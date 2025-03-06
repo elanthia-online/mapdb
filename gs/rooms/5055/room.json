@@ -1,0 +1,40 @@
+{
+  "checksum": "fbd2e21e635245bbf3140e764ac1e715",
+  "room": {
+    "id": 5055,
+    "title": [
+      "[Vornavis, West Road]"
+    ],
+    "description": [
+      "The road here was once extremely well maintained, and looks to be more like a city street than a wilderness road.  Cobblestones pave the road that runs up to the remains of a broken and ruined tower to the east, and into the distance in the west."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the plains of Vornavis",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5054": "go doorway",
+      "5056": "west"
+    },
+    "timeto": {
+      "5054": 0.2,
+      "5056": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4212101
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      826,
+      283,
+      836,
+      293
+    ]
+  }
+}

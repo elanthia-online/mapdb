@@ -1,0 +1,49 @@
+{
+  "checksum": "7f191793a1742bb16b72345bcdd1ea22",
+  "room": {
+    "id": 10059,
+    "title": [
+      "[North Barrow, Pit]"
+    ],
+    "description": [
+      "Piles of broken bones lie stacked around the scratched and lichen-stained walls of the deep pit, their random arrangement suggesting that the osseous collection was thrown in piecemeal from above -- perhaps rejected by the designers of the bone-adorned chamber overhead.  The deep scratches on the dirt walls hint at some unknown inhabitants' long-ago efforts to escape, though a crude rope ladder now leads up to the dimly-lit barrow chambers."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Yegharren Plains",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10058": "climb ladder",
+      "10060": "north",
+      "10061": "west"
+    },
+    "timeto": {
+      "10058": 0.2,
+      "10060": 0.2,
+      "10061": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13036511
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1256,
+      167,
+      1266,
+      177
+    ]
+  }
+}

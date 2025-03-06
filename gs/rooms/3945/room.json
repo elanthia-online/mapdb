@@ -1,0 +1,39 @@
+{
+  "checksum": "0d9cb0e6832840e0ae8e54e7e6dd924c",
+  "room": {
+    "id": 3945,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "The air smells unbelievably fresh, and you inhale great gasping breaths, having nearly forgotten what fresh air smells like.  You seem to have reached the end of the tunnel, as it empties out into a large underground river.  The slope is quite steep, and the small stream of sludge would be racing along, if it was any less thick."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "24818": "/rooms/3945/wayto/stringproc-24818.rb",
+      "32764": "southeast"
+    },
+    "timeto": {
+      "24818": 0.2,
+      "32764": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2136208
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      343,
+      249,
+      354,
+      259
+    ]
+  }
+}

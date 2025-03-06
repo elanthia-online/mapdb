@@ -1,0 +1,39 @@
+{
+  "checksum": "8923bedb9b3c9356f7ec813b5139f53b",
+  "room": {
+    "id": 11077,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "The cave flattens out for a brief stretch before continuing upward to the northwest and downward to the southeast.  Bubbles occasionally burst through the surface of a dark pool near the northeast wall."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11076": "northwest",
+      "11078": "southeast"
+    },
+    "timeto": {
+      "11076": 0.2,
+      "11078": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26115
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4604,
+      855,
+      4626,
+      877
+    ]
+  }
+}

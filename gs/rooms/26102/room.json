@@ -1,0 +1,43 @@
+{
+  "checksum": "61f8fd8dd8ed8de741caf32fc7f112b1",
+  "room": {
+    "id": 26102,
+    "title": [
+      "[Hendoran Outpost, Kitchen]"
+    ],
+    "description": [
+      "The kitchen is a place of constant movement as the Hendoran cooks and staff continues a dance of constant clean up and preparation for the meals to feed their armed counterparts.  Rich and savory smells flow from various boiling pots and several spits of meat slowly being rotated by small cogs in wheels built next to the kitchen's fires.  Occasionally, an auxiliary disappears with a large plate of food and returns later balancing a number of wooden plates."
+    ],
+    "paths": [
+      "Obvious exits: south, out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25421": "out",
+      "26100": "south",
+      "26103": "go steps"
+    },
+    "timeto": {
+      "25421": 0.2,
+      "26100": 0.2,
+      "26103": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336342
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      903,
+      116,
+      938,
+      152
+    ]
+  }
+}

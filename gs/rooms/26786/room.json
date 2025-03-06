@@ -1,0 +1,36 @@
+{
+  "checksum": "6e4bfd9bf1e08269ac3645c804d10a6f",
+  "room": {
+    "id": 26786,
+    "title": [
+      "[Catacombs, Dark Tunnels]"
+    ],
+    "description": [
+      "This leg of the tunnel has been reinforced with oaken timbers that are only beginning to show signs of decay.  Along many of the walls you see large holes that disappear into the darkness.  The floor shows signs of being well-travelled but you are not sure whether the tracks were made by man or beast."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, down"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "26785": "north",
+      "26787": "down",
+      "26789": "southeast"
+    },
+    "timeto": {
+      "26785": 0.2,
+      "26787": 0.2,
+      "26789": 0.2
+    },
+    "uid": [
+      4126014
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      1007,
+      1412,
+      1017,
+      1423
+    ]
+  }
+}

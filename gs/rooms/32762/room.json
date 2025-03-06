@@ -1,0 +1,41 @@
+{
+  "checksum": "55f472c6527035ac04acea007e181079",
+  "room": {
+    "id": 32762,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "Large blobs of some sort of slime occasionally drip from the ceiling here.  They collect on the floor, making the footing a bit more treacherous than normal.  Keeping one eye on the descending blobs, and one eye on your path, you gingerly pick your way through."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32761": "southeast",
+      "32763": "northwest"
+    },
+    "timeto": {
+      "32761": 0.2,
+      "32763": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2136205
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      426,
+      329,
+      434,
+      339
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "b1b8921bec4030283441ae66be5d5768",
+  "room": {
+    "id": 13717,
+    "title": [
+      "[Empath Guild, Cloister]"
+    ],
+    "description": [
+      "Shadowy ivy vines across the limestone walls of a building forming the western side of the cloister, and climbing figs and leafy vines with tightly furled flowers meander about the columns which open onto the darkened garth.  A single rambling rose vine with blood red blooms frames a white door limned with stylized acantha leaf knotwork, matching a mosaic underfoot.",
+      "Ivy vines across the limestone walls of a building forming the western side of the cloister, and climbing figs and flower-filled leafy vines meander about the columns which open onto the garth.  A single rambling rose vine with blood red blooms frames a white door limned with stylized acantha leaf knotwork, matching a mosaic underfoot."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13716": "go steps",
+      "13720": "north",
+      "13721": "south",
+      "18757": "go door"
+    },
+    "timeto": {
+      "13716": 0.2,
+      "13720": 0.2,
+      "13721": 0.2,
+      "18757": "/rooms/13717/timeto/stringproc-18757.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      657004
+    ],
+    "image": "en-ta_vaalor_empath_guild.png",
+    "image_coords": [
+      1007,
+      449,
+      1076,
+      513
+    ]
+  }
+}

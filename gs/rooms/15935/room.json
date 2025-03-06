@@ -1,0 +1,35 @@
+{
+  "checksum": "21f748fc0c1bb7b37a57bcbe69165134",
+  "room": {
+    "id": 15935,
+    "title": [
+      "[Northern Fortress, Great Hall]"
+    ],
+    "description": [
+      "Set with oak double doors in each wall, this large room is lit by oil-lamps that hang from the ceiling.  A stone fireplace rests in one corner, with a basket of sticks nearby.  Around the fireplace, thirteen portraits of battle-arrayed persons have been hung, while a large collection of paintings adorns the remaining walls.  Bearskin rugs cover the floor, comfortable leather couches line the walls, and there is a sturdy wastebasket adjacent to the fireplace."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3040": "south",
+      "15936": "west",
+      "18915": "east",
+      "21873": "go doors"
+    },
+    "timeto": {
+      "3040": 0.2,
+      "15936": 0.2,
+      "18915": 0.2,
+      "21873": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      18012006
+    ]
+  }
+}

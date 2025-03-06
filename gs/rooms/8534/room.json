@@ -1,0 +1,72 @@
+{
+  "checksum": "8602280e33ec027c381219a95d215197",
+  "room": {
+    "id": 8534,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The tangled mass of roots that grow here seem to reach out and grab your ankles as you pass.  The fact that you are sinking deep into the mud only complicates your situation."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "8533": "/rooms/8534/wayto/stringproc-8533.rb",
+      "8535": "/rooms/8534/wayto/stringproc-8535.rb"
+    },
+    "timeto": {
+      "8533": 5,
+      "8535": 5
+    },
+    "tags": [
+      "water chestnut",
+      "daggerstalk mushroom",
+      "withered black mushroom",
+      "trollfear mushroom",
+      "genkew mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "wild gooseberry",
+      "calamia fruit",
+      "haphip root",
+      "flathead mushroom",
+      "stalk of cattail",
+      "small wild rose",
+      "kylan berry",
+      "blue whortleberry",
+      "pepperthorn root",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "sunburst blossom",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "broken twig",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16011
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      954,
+      652,
+      964,
+      662
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "d55acf1c3c40477acb70e27950b0bd9b",
+  "room": {
+    "id": 30037,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "Compromised by corrosion and great age, the easternmost verge of the tomb's terrace has given way.  The resulting pile of rubble is a treacherous mess of ruddy stone and snowfall, a terrifying jangle of sharp edges and false handholds that has spilled across the niveous grove below.  Wind claws ruthlessly at the remaining intact stone, as if desperate to tear it down as well."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30036": "climb rubble",
+      "30038": "west"
+    },
+    "timeto": {
+      "30036": 10,
+      "30038": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503471
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      982,
+      267,
+      998,
+      283
+    ]
+  }
+}

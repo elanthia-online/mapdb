@@ -1,0 +1,48 @@
+{
+  "checksum": "ee7571fd12807a0c6b7c2db0dc6a27ca",
+  "room": {
+    "id": 2397,
+    "title": [
+      "[Tavern Burrow, Porter Street]"
+    ],
+    "description": [
+      "Two-story rowhouses painted in vivid colors line Porter Street.  On the steps of a blue and white house, an older halfling woman sits, peeling apples and watching the people passing by.  Opposite the homes, a colorful wooden sign hangs next to the door of a dyer's shop.  Several of the homes burn herbs in their windows to keep out the faint stench of the dyes.",
+      "Two-story row houses painted in vivid colors line Porter Street, though at second glance, they are not as new as they had first appeared.  An older halfling woman sits on the steps of a blue-tinted house, peeling apples and watching the people passing by."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2395": "south",
+      "2398": "east",
+      "2399": "northeast",
+      "3454": "west",
+      "3820": "go door"
+    },
+    "timeto": {
+      "2395": 0.2,
+      "2398": 0.2,
+      "2399": 0.2,
+      "3454": 0.2,
+      "3820": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042206
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      316,
+      1143,
+      352,
+      1179
+    ]
+  }
+}

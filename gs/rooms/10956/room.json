@@ -1,0 +1,41 @@
+{
+  "checksum": "09f0d63a82efdb6176a3de144d83ecf7",
+  "room": {
+    "id": 10956,
+    "title": [
+      "[River's Rest Inn, Lobby]"
+    ],
+    "description": [
+      "Spacious and airy, the lobby of this small island inn welcomes the weary traveler.  Tucked away in the far corner of the room, a simple wooden staircase spirals up, out of sight, to the second floor.  Casual groups of comfortably worn sofas and chairs are scattered about.  At the base of the staircase, a jovial innkeeper stands behind a massive counter, passing out keys and keeping an eye on the lobby.  Occasional bursts of laughter filter in from the archway to the north."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10860": "out",
+      "10957": "north",
+      "10959": "west",
+      "10960": "climb staircase",
+      "30711": "/rooms/10956/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10860": 0.2,
+      "10957": 0.2,
+      "10959": 0.2,
+      "10960": 0.2,
+      "30711": "/rooms/10956/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "inn",
+      "urchin-access",
+      "urchin guide inn",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101955
+    ]
+  }
+}

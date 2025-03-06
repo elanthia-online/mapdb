@@ -1,0 +1,42 @@
+{
+  "checksum": "7fd81f58633bc61adfd090d7f5f7e955",
+  "room": {
+    "id": 18313,
+    "title": [
+      "[Saewehna Jungle, Coast]"
+    ],
+    "description": [
+      "Water rushing in from the northern river has created a natural gulley through which the foaming, vegetation-strewn water escapes to the vast expanse of the sea awaiting it.  The few precarious rocks that manage to prevail in the struggle with the liquid provide a way to continue northeast, but all other passage is impossible as the gulley dominates the sands of the beach.  Shadows darken the nooks and crannies dotting the shoreline, and moonlight glistens on the water like diamonds."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "saltwater",
+    "terrain": "hilly",
+    "wayto": {
+      "18312": "northwest",
+      "18314": "go rocks"
+    },
+    "timeto": {
+      "18312": 0.2,
+      "18314": 0.2
+    },
+    "tags": [
+      "yew twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3210413
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      1574,
+      844,
+      1626,
+      892
+    ]
+  }
+}

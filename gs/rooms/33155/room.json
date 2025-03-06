@@ -1,0 +1,30 @@
+{
+  "checksum": "d8d950e9b7ffb8cf8c6184e1a51d0bbd",
+  "room": {
+    "id": 33155,
+    "title": [
+      "[House Annex, White Haven]"
+    ],
+    "description": [
+      "Devoid of nearby furnishings, the western wall is painted to resemble an arctic night sky and is dominated by the image of a golden-eyed polar bear.  Several frosted glaesine globes bath the room in a warm from their anchored position in the ceiling.  Plush snow white carpeting dappled with golden threads lends the otherwise austere space a coziness that is enhanced by the presence of a golden crushed velvet settee.  A lacquered white door leads to the hallway, while a gold-edged niveous silk curtain provides access to the storage facilities."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "26923": "go white door",
+      "33156": "go niveous curtain"
+    },
+    "timeto": {
+      "26923": 0.2,
+      "33156": 0.2
+    },
+    "tags": [
+      "meta:locker annex:White Haven"
+    ],
+    "uid": [
+      7121230
+    ]
+  }
+}

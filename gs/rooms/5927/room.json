@@ -1,0 +1,50 @@
+{
+  "checksum": "68bb47949280fc8ea8ebc68a8c1e0c20",
+  "room": {
+    "id": 5927,
+    "title": [
+      "[Catacombs, Sewers]"
+    ],
+    "description": [
+      "A small cave-in happened here recently, nearly blocking the path to the west.",
+      "A small cave-in happened here recently, nearly blocking the path to the west.  Stone and debris cover the floor in large piles.  Even the slightest of disturbances in the area cause more dust to rain down from the ceiling every so often."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5926": "west",
+      "5928": "east"
+    },
+    "timeto": {
+      "5926": 0.2,
+      "5928": 0.2
+    },
+    "tags": [
+      "some bolmara lichen",
+      "some wingstem root",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "ironfern root",
+      "white hook mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009038
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      343,
+      903,
+      352,
+      911
+    ]
+  }
+}

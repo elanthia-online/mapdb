@@ -1,0 +1,46 @@
+{
+  "checksum": "c1068e714d1a4afbe63ce9663e3a985d",
+  "room": {
+    "id": 13119,
+    "title": [
+      "[Hearthstone, Balcony]"
+    ],
+    "description": [
+      "Lining the edge of this balcony, which overlooks the main lobby below, a polished oak railing glows in the soft moonlight emanating through windows high on the southern wall of the lobby.  Rich burgundy carpet underfoot softens the echo of voices drifting on the air.  To the east a fieldstone staircase curves down out of view, an alcove tucked into the wall at the top step.",
+      "Lining the edge of this balcony, which overlooks the main lobby below, a polished oak railing gleams in the warm sunlight streaming through windows high on the southern wall of the lobby.  Rich burgundy carpet underfoot softens the echo of voices drifting on the air.  To the east a fieldstone staircase curves down out of view, an alcove tucked into the wall at the top step."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13500": "go staircase",
+      "14675": "go alcove",
+      "14676": "go doors",
+      "14679": "go white door",
+      "14681": "go oak door"
+    },
+    "timeto": {
+      "13500": 0.2,
+      "14675": 0.2,
+      "14676": 0.2,
+      "14679": 0.2,
+      "14681": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397017
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      730,
+      235,
+      797,
+      277
+    ]
+  }
+}

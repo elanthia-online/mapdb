@@ -1,0 +1,41 @@
+{
+  "checksum": "b9ae46645d11407878f2ab9b7b68b974",
+  "room": {
+    "id": 29482,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "The beginnings of an undisturbed layer of blue clay follows the southwestern end of this section of the passage.  No sign of what has been mined can be seen in the slanted walls of the excavated space many fathoms below the surface.  A narrow shaft shrouded in darkness allows access to the lower level of this complex."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, down"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29481": "down",
+      "29487": "southeast",
+      "29488": "southwest"
+    },
+    "timeto": {
+      "29481": 0.2,
+      "29487": 0.2,
+      "29488": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007213
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      276,
+      279,
+      302,
+      300
+    ]
+  }
+}

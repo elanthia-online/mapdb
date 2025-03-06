@@ -1,0 +1,36 @@
+{
+  "checksum": "b85d5d2f901cbfd0f6f98d42a72000c5",
+  "room": {
+    "id": 25922,
+    "title": [
+      "[Ostwicke Hall, Auditorium]"
+    ],
+    "description": [
+      "The vast hall is filled with dozens of seats.  To the front, open velvet curtains frame a large stage perfect for performances, meetings, or lecturing large groups.  Overhead, crystal teardrops dangle from brass chandeliers.  The entrance to a small office stands discretely at the back of the hall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25921": "out",
+      "25923": "go office",
+      "25925": "go stage"
+    },
+    "timeto": {
+      "25921": 0.2,
+      "25923": 0.2,
+      "25925": 0.2
+    },
+    "uid": [
+      8211316
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      583,
+      185,
+      631,
+      235
+    ]
+  }
+}

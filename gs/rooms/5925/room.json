@@ -1,0 +1,49 @@
+{
+  "checksum": "64a44214511e7b68a80b11c92d25d77e",
+  "room": {
+    "id": 5925,
+    "title": [
+      "[Catacombs, Sewers]"
+    ],
+    "description": [
+      "The flow of the murky water is abruptly halted by a huge mass of garbage.  Rats and roaches hunt through the refuse for signs of food.  Crumpled papers sail across the water on the damp breezes of the cavern.  The walls of the cavern sweat from the cold dampness of the stale air."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5924": "west",
+      "5926": "east"
+    },
+    "timeto": {
+      "5924": 0.2,
+      "5926": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "some wingstem root",
+      "some bolmara lichen",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "ironfern root",
+      "white hook mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009040
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      288,
+      904,
+      296,
+      913
+    ]
+  }
+}

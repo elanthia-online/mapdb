@@ -1,0 +1,41 @@
+{
+  "checksum": "50094ea98a5920bbcb77e37bc324cb3a",
+  "room": {
+    "id": 16175,
+    "title": [
+      "[Bamboo Cottage, Entry]"
+    ],
+    "description": [
+      "This quaint cottage, smelling of rich earth and damp foliage, is home to a hard-packed dirt floor covered in wood shavings and golden hay.  When even the slightest breeze blows through the room, dust dances and swirls around the floor while sharp whistling noises serve as musical accompaniments.  Many tendrils of bright green ivy drape from the ceiling to the floor along the east wall, creating a delicate curtain leading into the next room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16128": "out",
+      "16176": "go curtain"
+    },
+    "timeto": {
+      "16128": 0.2,
+      "16176": 0.2
+    },
+    "tags": [
+      "meta:mapname:River's Rest - Dyer's Tent",
+      "meta:mapshortname:Dyer's Tent",
+      "meta:mapcategory:River's Rest",
+      "meta:mapcategory:Dyer's Tents:River's Rest",
+      "dyers"
+    ],
+    "uid": [
+      34226
+    ],
+    "image": "rr-dyers_tent-1512165849.png",
+    "image_coords": [
+      1335,
+      662,
+      1477,
+      735
+    ]
+  }
+}

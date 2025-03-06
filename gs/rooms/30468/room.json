@@ -1,0 +1,49 @@
+{
+  "checksum": "952a26c14ffe7f7f5c25764090523782",
+  "room": {
+    "id": 30468,
+    "title": [
+      "[Western Waterway, Harbor]"
+    ],
+    "description": [
+      "Bereft of people, the harbor to the east is cluttered with empty sailboats and fishing boats docked for the evening.  Flickering lanterns dangle from their posts, casting their own illumination to mix with the moonlight glistening on the lapping water."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30462": "pedal south",
+      "30463": "pedal southwest",
+      "30465": "pedal west",
+      "30467": "pedal southeast",
+      "30470": "pedal north",
+      "30471": "pedal northwest",
+      "30472": "pedal northeast"
+    },
+    "timeto": {
+      "30462": 6,
+      "30463": 6,
+      "30465": 6,
+      "30467": 6,
+      "30470": 6,
+      "30471": 6,
+      "30472": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216121
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      521,
+      1021,
+      539,
+      1038
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "f736280fc84f4add91d0920d360ec081",
+  "room": {
+    "id": 25245,
+    "title": [
+      "[Sanctum, Hall of Making]"
+    ],
+    "description": [
+      "Flames blaze from twin casings of crystal to either side of the entry doors, green as grass and swirling in spirals both languid and unnatural.  They burn without heat in the cold chamber, revealing walls of black sandstone that embrace the circular interior like a mother's arms.  The air is still and heavy-laden with the sharpness of preservatives."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "25244": "go black doors",
+      "25246": "northeast",
+      "25247": "northwest"
+    },
+    "timeto": {
+      "25244": 0.2,
+      "25246": 0.2,
+      "25247": 0.2
+    },
+    "uid": [
+      4216049
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      121,
+      239,
+      145,
+      264
+    ]
+  }
+}

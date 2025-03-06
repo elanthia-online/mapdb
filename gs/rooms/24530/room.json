@@ -1,0 +1,53 @@
+{
+  "checksum": "4060d7f242488bfd6f51157221722058",
+  "room": {
+    "id": 24530,
+    "title": [
+      "[Frozen Bramble Patch]"
+    ],
+    "description": [
+      "There seems to be little escape from the spiked thorns of the surrounding area.  Small bits of shredded cloth and leather litter the ground, some caught in the growth, testament to others attempting to pass this way."
+    ],
+    "paths": [
+      "Obvious paths: north, west, northwest"
+    ],
+    "location": "the Abandoned Farm",
+    "climate": "snowy, arctic",
+    "terrain": "barren scrub",
+    "wayto": {
+      "24520": "west",
+      "24529": "northwest",
+      "24545": "north"
+    },
+    "timeto": {
+      "24520": 0.2,
+      "24529": 0.2,
+      "24545": 0.2
+    },
+    "tags": [
+      "snow lily",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "rockberry",
+      "crowberry",
+      "lingonberry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4124039
+    ],
+    "image": "imt-bramble_patch-1307499864.png",
+    "image_coords": [
+      233,
+      256,
+      246,
+      269
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "9c99c307e37518d9473cfc7dd7ecf1a4",
+  "room": {
+    "id": 24244,
+    "title": [
+      "[Hatouk's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by glossy mistwood walls, the shop features a miniature rock-lined waterfall in the center of its oak floor.  A blue watered silk tapestry hangs under the fel panel ceiling.  Right near the front is a gilded maple cabinet and a vine-carved mahogany table."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "360": "out",
+      "24245": "north",
+      "24246": "south"
+    },
+    "timeto": {
+      "360": 0.2,
+      "24245": 0.2,
+      "24246": 0.2
+    },
+    "tags": [
+      "fshop",
+      "meta:playershop"
+    ],
+    "uid": [
+      634113
+    ]
+  }
+}

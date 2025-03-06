@@ -1,0 +1,46 @@
+{
+  "checksum": "f1dec84266e1a0328d5b2e768ceb5541",
+  "room": {
+    "id": 2459,
+    "title": [
+      "[Commerce Burrow, Dwarven Circle]"
+    ],
+    "description": [
+      "Several townhouses stand along the cobblestone street.  Their neatly manicured yards are home to fine-looking statuary, and all are kept meticulously clear of snow, suggesting that they are the residences of well-to-do merchants and other luminaries of the town.  Smaller homes front a nearby alley, while an arched gate leads to a less prosperous neighborhood lazing beneath the town's outer wall.  A young halfling girl sweeps the walk in front of one of the homes, hurrying to complete her daily chores.",
+      "Several simple houses line the road here, providing homes for merchants and businessmen of the Trace.  Towering high behind them, the town wall provides protection from the wilds beyond.  A young halfling boy sweeps the walk in front of one of the homes, hurrying to complete his daily chore."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2456": "west",
+      "2460": "south",
+      "2473": "go gate",
+      "2476": "go alley"
+    },
+    "timeto": {
+      "2456": 0.2,
+      "2460": 0.2,
+      "2473": 0.2,
+      "2476": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042310
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      1026,
+      965,
+      1062,
+      1001
+    ]
+  }
+}

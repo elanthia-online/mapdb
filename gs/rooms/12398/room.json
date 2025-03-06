@@ -1,0 +1,45 @@
+{
+  "checksum": "b618180b406b5d1d33e0f2b638a7b35d",
+  "room": {
+    "id": 12398,
+    "title": [
+      "[Pig Puddle Lane, Mud Wallow]"
+    ],
+    "description": [
+      "A particularly large and smelly piebald pig tromps about a pool of filth.  Passers-by give both pool and pig a wide berth.  It eyes them hungrily, whuffles a bit then continues to snuffle about in the muck, searching for edible morsels.  The few run-down dwellings in the area all have sturdy fences about their front doors."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12397": "south",
+      "12399": "north",
+      "12401": "east",
+      "12408": "west"
+    },
+    "timeto": {
+      "12397": 0.2,
+      "12399": 0.2,
+      "12401": 0.2,
+      "12408": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703309
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      569,
+      871,
+      587,
+      889
+    ]
+  }
+}

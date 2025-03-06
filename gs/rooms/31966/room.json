@@ -1,0 +1,32 @@
+{
+  "checksum": "7d9a724371176d4b44be4ab041bd489a",
+  "room": {
+    "id": 31966,
+    "title": [
+      "[The Witching Family Vault]"
+    ],
+    "description": [
+      "Within the hallowed walls of the massive vault lie a pair of black marble tombs nestled into two shallow depressions in the floor, both carved into elven figures lying in repose.  Silver sconces set high on the walls flank the tombs, while a black iron candelabra stands lit between them."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31712": "out",
+      "31967": "/rooms/31966/wayto/stringproc-31967.rb"
+    },
+    "timeto": {
+      "31712": 0.2,
+      "31967": 3.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084609
+    ]
+  }
+}

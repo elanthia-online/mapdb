@@ -1,0 +1,38 @@
+{
+  "checksum": "c0cd5f8c95438ecf59d7392eaae6f5ef",
+  "room": {
+    "id": 129,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Tiny openings dot the walls here in an irregular and artificial-looking manner.  This could be part of a complex defense system set up to repel intruders.  That, or the neverending darkness has you seeing traps at every turn."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "128": "southwest",
+      "130": "northeast"
+    },
+    "timeto": {
+      "128": 0.2,
+      "130": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300013
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      827,
+      654,
+      837,
+      664
+    ]
+  }
+}

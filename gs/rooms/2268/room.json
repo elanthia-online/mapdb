@@ -1,0 +1,53 @@
+{
+  "checksum": "c9686781de4d977e9a004221945f06d0",
+  "room": {
+    "id": 2268,
+    "title": [
+      "[Abandoned Mine]"
+    ],
+    "description": [
+      "The spluttering glow of torchlight illuminates a marbled black stone and rainbow glaes wall blocking further travel to the south.  A few deep niches carved into the rockface look as if the miners who worked this strike might have been planning further excavation to the south, though it was obviously abandoned for some reason.",
+      "The spluttering glow of torchlight illuminates a marbled black stone and rainbow glaes a cracked stone and glaes wall blocking further travel to the south.  A few deep niches carved into the rockface look as if the miners who worked this strike might have been planning further excavation to the south, though it was obviously abandoned for some reason."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "the Abandoned Mine",
+    "wayto": {
+      "2267": "northeast",
+      "2269": "north",
+      "2273": "go crevice"
+    },
+    "timeto": {
+      "2267": 0.2,
+      "2269": 0.2,
+      "2273": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "flathead mushroom",
+      "genkew mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3005010
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      521,
+      1079,
+      531,
+      1089
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "961fbf8bdc050fc179342d541644d035",
+  "room": {
+    "id": 9612,
+    "title": [
+      "[Tregg's Tavern]"
+    ],
+    "description": [
+      "Half-rotten beams precariously hold up the old roof of the tavern.  Bursts of air rush through the open windows and cracks in the walls, creating a chilly draft.  Grimy unfinished tables and chairs are scattered across the uneven floor.  Glasses of different shapes, sizes and colors sit on top of a shoddy rough shelf on the back wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Khazar's Hold",
+    "wayto": {
+      "1017": "out",
+      "9613": "go door"
+    },
+    "timeto": {
+      "1017": 0.2,
+      "9613": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13002200
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      42,
+      460,
+      52,
+      470
+    ]
+  }
+}

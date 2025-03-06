@@ -1,0 +1,27 @@
+{
+  "checksum": "dce5fb4ef8ec5bb958df10371b1d123c",
+  "room": {
+    "id": 19202,
+    "title": [
+      "[A Candlelit Closet]"
+    ],
+    "description": [
+      "Rows of candles set halfway up each wall of this closet do nothing to ease the close confines.  Yelps and groans issue from visitors as they reach for the weapons arrayed on the flame-etched rack above the candles.  Shoppers have better luck with an icy blue rack and a heavy golden rack arrayed beneath the burning tapers."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19083": "go door",
+      "19204": "north"
+    },
+    "timeto": {
+      "19083": 0.2,
+      "19204": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

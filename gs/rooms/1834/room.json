@@ -1,0 +1,81 @@
+{
+  "checksum": "ce3fbce43f157fb55074763f58063fb9",
+  "room": {
+    "id": 1834,
+    "title": [
+      "[Wraithenmist, Narrow Trail]"
+    ],
+    "description": [
+      "The trail winds its way into the edge of the forest, twisting around enormous tree trunks and bushes so tall and thick they stand higher than a giantman.  Odd vines climb the trees, twisting in a sinuous pattern around the trunks and draping themselves across limbs with a snake-like grace."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Wraithenmist",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "1833": "southeast",
+      "1835": "southwest",
+      "27470": "/rooms/1834/wayto/stringproc-27470.rb"
+    },
+    "timeto": {
+      "1833": 0.2,
+      "1835": 0.2,
+      "27470": "/rooms/1834/timeto/stringproc-27470.rb"
+    },
+    "tags": [
+      "withered black mushroom",
+      "bright red cranberry",
+      "sprig of wild lilac",
+      "wild chokecherry",
+      "sweetfern stalk",
+      "small wild rose",
+      "fiddlehead fern",
+      "wild gooseberry",
+      "white hook mushroom",
+      "wintergreen leaf",
+      "blue trafel mushroom",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "soft white mushroom",
+      "blue whortleberry",
+      "sassafras leaf",
+      "tkaro root",
+      "bright red teaberry",
+      "willow twig",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "blueberries",
+      "broken twig",
+      "tree bark",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "brostheras grass",
+      "meta:forage-sensed:night:2022-11",
+      "dwarf billberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13027002
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      53,
+      369,
+      63,
+      379
+    ]
+  }
+}

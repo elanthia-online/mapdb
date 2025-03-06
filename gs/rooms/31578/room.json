@@ -1,0 +1,43 @@
+{
+  "checksum": "f9ff252bfed0d75435d773898a036f21",
+  "room": {
+    "id": 31578,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Stacked stones and wrought iron fencing rises in a slow incline from the south to the north along this curve of the cobblestone road.  Enormous scrollwork gates offer passage down a well-trod dirt path that leads into the mist-laced graveyard, while cobbled steps lead to decorative brownstones with shutter-flanked windows.  Decorative urns filled with lilies hold the enormous gates open."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31577": "northwest",
+      "31579": "go path",
+      "31587": "southeast"
+    },
+    "timeto": {
+      "31577": 0.2,
+      "31579": 0.2,
+      "31587": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083031
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      360,
+      436,
+      382,
+      455
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "ca709d8972e59ac44e3f0b6e19ea4d63",
+  "room": {
+    "id": 24657,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "As if the closing-in walls were not bad enough, a large chunk of the ruin's ceiling has fallen and smashed upon the floor, creating an obstacle to climb around or over in order to exit the tunnel.  Attempts have been made to chip away at the ruin's rubble, evidenced by the sharp gouges in the surface and piles of dirt lying around the base."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, west, northwest"
+    ],
+    "location": false,
+    "wayto": {
+      "24652": "west",
+      "24658": "northwest",
+      "24662": "southeast",
+      "24663": "north"
+    },
+    "timeto": {
+      "24652": 0.2,
+      "24658": 0.2,
+      "24662": 0.2,
+      "24663": 0.2
+    },
+    "check_location": true
+  }
+}

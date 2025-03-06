@@ -1,0 +1,35 @@
+{
+  "checksum": "faffee41c3b49e01333076480fd3d93c",
+  "room": {
+    "id": 28944,
+    "title": [
+      "[Mystigoggles Consignment]"
+    ],
+    "description": [
+      "A one-eyed wench warily glances about the shop, her hands placed firmly upon an elongated ebonwood counter situated at the center of the rug-covered floor.  The occasional spark of light flickers from a series of glass spheres flanking the counter, highlighting a pair of realistic leathery toad and frog figurines leaning against a brass-latched box.  Matching chests overflowing with a number of magical components line the brocaded walls, the contents clicking and twinkling together at various intervals."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28943": "north",
+      "28945": "east",
+      "30716": "/rooms/28944/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28943": 0.2,
+      "28945": 0.2,
+      "30716": "/rooms/28944/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy"
+    ],
+    "uid": [
+      160027
+    ]
+  }
+}

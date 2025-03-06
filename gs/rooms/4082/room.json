@@ -1,0 +1,27 @@
+{
+  "checksum": "037e0902264e858757a7bb98d5a1dbc2",
+  "room": {
+    "id": 4082,
+    "title": [
+      "[Warehouse, West Wing]"
+    ],
+    "description": [
+      "The hallway is darker, cooler, and much quieter then the warehouse itself.  Small torches light the long hallway at even intervals, softly illuminating the scattered bits of straw, which cover the oak floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4077": "southeast",
+      "4083": "west"
+    },
+    "timeto": {
+      "4077": 0.2,
+      "4083": 0.2
+    },
+    "uid": [
+      4051005
+    ]
+  }
+}

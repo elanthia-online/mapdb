@@ -1,0 +1,54 @@
+{
+  "checksum": "1b333eb861d460cc764e845af46b27aa",
+  "room": {
+    "id": 12043,
+    "title": [
+      "[Old Ta'Faendryl, Alley]"
+    ],
+    "description": [
+      "Animal tracks stamped into the damp ground lead north toward a river, then back south down a narrow alley.  Bramble bushes springing up amidst tumbles of bricks and mud crowd in on both sides of the passage.  Their thorny branches reach out toward each other like grasping hands striving to touch and close the remaining space between them."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "12042": "south",
+      "12044": "north"
+    },
+    "timeto": {
+      "12042": 0.2,
+      "12044": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004028
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1121,
+      546,
+      1131,
+      556
+    ]
+  }
+}

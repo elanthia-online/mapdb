@@ -1,0 +1,36 @@
+{
+  "checksum": "2af30e7cecb06cbc86e7728c71564306",
+  "room": {
+    "id": 17037,
+    "title": [
+      "[Warrior Guild, West Hall]"
+    ],
+    "description": [
+      "Darker here, the hallway continues along the exterior wall.  Small bits of sawdust lay about sweeping past in the drafts.  A small scuffle can be heard just through the door on the interior wall, and the faint scent of something odd drifts past your nostrils."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven's Warrior Guild",
+    "wayto": {
+      "17004": "south",
+      "17035": "north",
+      "17038": "go door"
+    },
+    "timeto": {
+      "17004": 0.2,
+      "17035": 0.2,
+      "17038": 0.2
+    },
+    "uid": [
+      254015
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      912,
+      236,
+      934,
+      256
+    ]
+  }
+}

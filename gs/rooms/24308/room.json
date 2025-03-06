@@ -1,0 +1,48 @@
+{
+  "checksum": "a73d4809a460e2086843a7b9fb123f6b",
+  "room": {
+    "id": 24308,
+    "title": [
+      "[Ranger Guild, Nexus]"
+    ],
+    "description": [
+      "Large and ringed with bay windows, this room leads to several others.  The walls are covered in dark felwood paneling, and sturdy wool tapestries depicting forest scenes cover the walls.  An arch in the west side of the room leads outside, with a coyote hide curtain in place to keep out the elements.  Large beeswax candles brightly light the room from their holders in the walls.  One of the tree's branches has penetrated the room and has been carved into stairs leading to the next floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "24306": "go arch",
+      "24309": "go stairs",
+      "24313": "northwest",
+      "24314": "southwest",
+      "24315": "south",
+      "24317": "southeast",
+      "24318": "east",
+      "24320": "northeast",
+      "24332": "north"
+    },
+    "timeto": {
+      "24306": 0.2,
+      "24309": 0.2,
+      "24313": 0.2,
+      "24314": 0.2,
+      "24315": 0.2,
+      "24317": 0.2,
+      "24318": 0.2,
+      "24320": 0.2,
+      "24332": 0.2
+    },
+    "uid": [
+      274007
+    ],
+    "image": "vo-rangerguild-1649447217.png",
+    "image_coords": [
+      262,
+      347,
+      280,
+      363
+    ]
+  }
+}

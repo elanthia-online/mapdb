@@ -1,0 +1,32 @@
+{
+  "checksum": "7f884dd494f0944b92a6ce9e76e223e3",
+  "room": {
+    "id": 16859,
+    "title": [
+      "[D.H. Cobbling Outlet, Corridor]"
+    ],
+    "description": [
+      "Secluded from the main workshop area, this corridor is quieter than the rest of the building, though no less spartan in decor.  Two sturdy chairs have been placed to one side, creating a makeshift waiting area.  Along the western wall, thick glass windows set around a simple white stone door offer a view into a large office."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16850": "east",
+      "16860": "go door"
+    },
+    "timeto": {
+      "16850": 0.2,
+      "16860": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4056003
+    ]
+  }
+}

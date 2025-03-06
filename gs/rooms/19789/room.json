@@ -1,0 +1,44 @@
+{
+  "checksum": "06d53255617cd61b15fb1e0800b7fd4c",
+  "room": {
+    "id": 19789,
+    "title": [
+      "[Cleric Guild, Corridor]"
+    ],
+    "description": [
+      "Austere, moss green runners flow like verdant rivers upon the polished limestone floor.  The wide corridor splits to the east, where muffled chanting can be heard."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, west"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "19788": "west",
+      "19790": "go doors",
+      "19791": "east",
+      "19796": "northeast"
+    },
+    "timeto": {
+      "19788": 0.2,
+      "19790": 0.2,
+      "19791": 0.2,
+      "19796": 0.2
+    },
+    "tags": [
+      "meta:mapcategory:Zul Logoth",
+      "meta:mapcategory:Guilds",
+      "meta:mapshortname:Cleric Guild (Zul Logoth)",
+      "meta:mapname:Zul Logoth - Cleric Guild"
+    ],
+    "uid": [
+      677002
+    ],
+    "image": "en-zul-logoth-cleric-guild.png",
+    "image_coords": [
+      117,
+      314,
+      169,
+      365
+    ]
+  }
+}

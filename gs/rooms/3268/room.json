@@ -1,0 +1,38 @@
+{
+  "checksum": "a138963bce79f29f9980e963fb3a67ce",
+  "room": {
+    "id": 3268,
+    "title": [
+      "[Ice Plains, Dark Cavern]"
+    ],
+    "description": [
+      "The light is very dim here and you can barely make out your hand in front of your face.  The wind is but a whisper this deep into the cavern and the only sound you hear are your footsteps as you walk through the tunnel with caution.  The passage begins to narrow and for a moment you would swear you heard something breathing."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3267": "south",
+      "3269": "west"
+    },
+    "timeto": {
+      "3267": 0.2,
+      "3269": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4127018
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      369,
+      299,
+      379,
+      309
+    ]
+  }
+}

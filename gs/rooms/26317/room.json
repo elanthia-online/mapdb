@@ -1,0 +1,33 @@
+{
+  "checksum": "c5173875c89ab44d2c083267816045a6",
+  "room": {
+    "id": 26317,
+    "title": [
+      "[Lich Citadel, Soul Pit]"
+    ],
+    "description": [
+      "The smooth, black floor comes to an abrupt end here, giving way to a gigantic pit below.  From all sides of the pit, ghoulish creatures climb forth, scrambling into the darkness."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26292": "south",
+      "26318": "west",
+      "26319": "north"
+    },
+    "timeto": {
+      "26292": 0.2,
+      "26318": 0.2,
+      "26319": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1143,
+      728,
+      1169,
+      755
+    ]
+  }
+}

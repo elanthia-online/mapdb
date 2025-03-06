@@ -1,0 +1,24 @@
+{
+  "checksum": "cc7404073bc5c37aaebb1d91797f894e",
+  "room": {
+    "id": 20543,
+    "title": [
+      "[Stone Keep, Outer Wall]"
+    ],
+    "description": [
+      "The stone wall has completely collapsed here making any further travel around the keep impossible.  A fraying rope hangs down the side of the wall and lowers into the open courtyard below."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20542": "west",
+      "20568": "/rooms/20543/wayto/stringproc-20568.rb"
+    },
+    "timeto": {
+      "20542": 0.2,
+      "20568": 0.2
+    }
+  }
+}

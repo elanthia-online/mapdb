@@ -1,0 +1,39 @@
+{
+  "checksum": "214380c914e0b69467fff5f2edee4a94",
+  "room": {
+    "id": 7470,
+    "title": [
+      "[Dark Grotto, Cavern]"
+    ],
+    "description": [
+      "A sour, fetid odor fills this cavern, stinging your eyes and making breathing difficult.  A strange, gritty substance covers the floor of the cavern which crunches when it is walked upon.  At first sight it appeared to be simply a layer of dirt, but closer examination shows it to be some kind of finely pulverized stone.  The grey-white caps of mushrooms poke up in small clusters dotted around on the surface of the grit."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7469": "/rooms/7470/wayto/stringproc-7469.rb",
+      "7471": "/rooms/7470/wayto/stringproc-7471.rb"
+    },
+    "timeto": {
+      "7469": 0.2,
+      "7471": 0.2
+    },
+    "tags": [
+      "some blackened moss",
+      "some glowing green lichen",
+      "magru"
+    ],
+    "uid": [
+      94013
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      889,
+      988,
+      899,
+      998
+    ]
+  }
+}

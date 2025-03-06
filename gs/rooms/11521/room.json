@@ -1,0 +1,40 @@
+{
+  "checksum": "a2b5e986698b27ead6069d3f474882d7",
+  "room": {
+    "id": 11521,
+    "title": [
+      "[Ruined Dungeon, Passageway]"
+    ],
+    "description": [
+      "The rough, utilitarian workmanship of the tenebrous dungeon corridor emphasizes the grim environment.  From the southwest a slight breeze filters in, tinging the barely perceptible odor of rotting wood with the brackish scent of saltwater."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11519": "southwest",
+      "11522": "northwest",
+      "11523": "northeast"
+    },
+    "timeto": {
+      "11519": 0.2,
+      "11522": 0.2,
+      "11523": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305007
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      1008,
+      982,
+      1018,
+      992
+    ]
+  }
+}

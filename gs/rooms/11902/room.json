@@ -1,0 +1,43 @@
+{
+  "checksum": "79c2be024ec536ed900b1527840d23dd",
+  "room": {
+    "id": 11902,
+    "title": [
+      "[Execution Square]"
+    ],
+    "description": [
+      "The paving stones of this open plaza fit together so precisely that the entire area appears to be covered by one huge slab of granite.  No sign of cracking, pitting, dust or debris mars the hard surface.  Even the ubiquitous vines creeping up the walls that surround the plaza seem reluctant to cast their invasive branches across the polished pavement."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11901": "southeast",
+      "11903": "east",
+      "11904": "northeast"
+    },
+    "timeto": {
+      "11901": 0.2,
+      "11903": 0.2,
+      "11904": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004200
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1210,
+      569,
+      1220,
+      579
+    ]
+  }
+}

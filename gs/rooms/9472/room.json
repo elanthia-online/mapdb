@@ -1,0 +1,47 @@
+{
+  "checksum": "04798e915c8d1316b7d737cc2c1a7524",
+  "room": {
+    "id": 9472,
+    "title": [
+      "[Bank of Zul Logoth]"
+    ],
+    "description": [
+      "Two heavily heavily barred windows set just above a small marble ledge are the only items of real interest in this barren yet elegant lobby.  The walls, ceiling and floor, though, speak of a wealth of silvers that have enriched the owners of the establishment.  Two dwarves mill about behind the windows, counting coins, writing notes, and conducting the customary bank business.  A gilded sign, affixed to the wall between the two windows, gives information on the use of the bank's services.",
+      "Two heavily barred windows set just above a small marble ledge are the only items of real interest in this barren yet elegant lobby.  The walls, ceiling and floor, though, speak of a wealth of silvers that have enriched the owners of the establishment.  Two dwarves mill about behind the windows, counting coins, writing notes, and conducting the customary bank business.  A gilded sign, affixed to the wall between the two windows, gives information on the use of the bank's services."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9410": "out",
+      "9473": "go arch",
+      "29682": "go alcove",
+      "30712": "/rooms/9472/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9410": 0.2,
+      "9473": 0.2,
+      "29682": 0.2,
+      "30712": "/rooms/9472/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "bank",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide bank",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13010001
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      677,
+      451,
+      713,
+      487
+    ]
+  }
+}

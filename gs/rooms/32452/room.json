@@ -1,0 +1,37 @@
+{
+  "checksum": "4f72c4611cc83af5bf0a5368f06598cf",
+  "room": {
+    "id": 32452,
+    "title": [
+      "[Moonsedge Castle, Antechamber]"
+    ],
+    "description": [
+      "Forbidding pillars of charcoal grey marble support a cathedral ceiling that is limned with an elaborate mural of a night sky alive with a fall of bright crimson petals.  From the support arches are strung banners bearing the rising moon and briar sprig of the house.  Two suits of full plate armor, far too tall and broad to be other than display pieces, stand guard over the grey stone doors leading out into the castle yard."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32451": "go door",
+      "32454": "north"
+    },
+    "timeto": {
+      "32451": 0.2,
+      "32454": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577201
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1107,
+      765,
+      1131,
+      789
+    ]
+  }
+}

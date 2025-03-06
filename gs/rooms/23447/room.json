@@ -1,0 +1,24 @@
+{
+  "checksum": "d64b1f0ebd69a8f17fa7e8d199704b8b",
+  "room": {
+    "id": 23447,
+    "title": [
+      "[Huff and Puff, Pipes and Stuff]"
+    ],
+    "description": [
+      "Small and damp, this cabin has been turned into an impromptu store.  A varnished mistwood plank rests atop two wine barrels, displaying a nice assortment of goods.  An old cask near the back bulkhead gives off the strong odor of stale rum."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19143": "out",
+      "23448": "go trapdoor"
+    },
+    "timeto": {
+      "19143": 0.2,
+      "23448": 0.2
+    }
+  }
+}

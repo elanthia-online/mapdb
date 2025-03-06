@@ -1,0 +1,52 @@
+{
+  "checksum": "1bb21d1dce698088a38b3542342527d8",
+  "room": {
+    "id": 29623,
+    "title": [
+      "[Estate, Greatroom]"
+    ],
+    "description": [
+      "The greatroom boasts square mahogany paneling that climbs gracefully to hand-hewn beams pegged with thick treenails.  At the center of the room, a variety of trophies surmount a mantel, three thickly tufted couches arcing about its carved granite fireplace.  A burnished brass and oak sideboard stretches along the rear wall beneath arched windows with leaded diamond panes that suffuse the room with sunlight.  The hallway to the west terminates in a pile of rubble."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29622": "out",
+      "29624": "west",
+      "29625": "east",
+      "29632": "go mahogany door",
+      "29633": "go recessed panel",
+      "30716": "/rooms/29623/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "29622": 0.2,
+      "29624": 0.2,
+      "29625": 0.2,
+      "29632": 0.2,
+      "29633": 0.2,
+      "30716": "/rooms/29623/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "supernode",
+      "node",
+      "urchin-access",
+      "meta:mapname:Kraken's Fall - Hand of the Arkati",
+      "meta:mapshortname:Hand of the Arkati",
+      "meta:mapcategory:Kraken's Fall",
+      "meta:mapcategory:MHO",
+      "meta:mho:Hand of the Arkati"
+    ],
+    "uid": [
+      18050002
+    ],
+    "image": "mho-hand_of_the_arkati-1652309586.png",
+    "image_coords": [
+      371,
+      341,
+      451,
+      420
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "8dcc20048086e49318cf9d80e18d0441",
+  "room": {
+    "id": 25861,
+    "title": [
+      "[Stone Baths, Patron Suite]"
+    ],
+    "description": [
+      "Rich grey-toned walls encompass the men's suite while midnight blue carpeting stretches across the entire floor.  A ring of high-backed chairs occupies the middle of the room with wooden drink stands positioned between each seat.  From behind a marble countertop, a burly human man greets guests while smoke trails up from his thick cigar."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "19930": "out",
+      "25971": "/rooms/25861/wayto/stringproc-25971.rb"
+    },
+    "timeto": {
+      "19930": 0.2,
+      "25971": 0.3
+    },
+    "tags": [
+      "silver-cost:25971:2000",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336010
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      208,
+      956,
+      350,
+      1018
+    ]
+  }
+}

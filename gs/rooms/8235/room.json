@@ -1,0 +1,50 @@
+{
+  "checksum": "dc28e705ee312bf0af274001d583cd2b",
+  "room": {
+    "id": 8235,
+    "title": [
+      "[Wolves' Den, Long Hallway]"
+    ],
+    "description": [
+      "Six wooden doors line the eastern wall of this cold stone passage.  The first, second, and third doors seem almost intact, but insect husks lie thick on the floor around the fourth and fifth and a smell of mildew fills that part of the hall.  The sixth door is nearly broken off its hinges."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8234": "north",
+      "8236": "south",
+      "8249": "go fourt door",
+      "8250": "go sixt door",
+      "8251": "go firs door",
+      "8252": "go secon door",
+      "8253": "go thir door",
+      "8254": "go fift door"
+    },
+    "timeto": {
+      "8234": 0.2,
+      "8236": 0.2,
+      "8249": 0.2,
+      "8250": 0.2,
+      "8251": 0.2,
+      "8252": 0.2,
+      "8253": 0.2,
+      "8254": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390028
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      37,
+      388,
+      47,
+      398
+    ]
+  }
+}

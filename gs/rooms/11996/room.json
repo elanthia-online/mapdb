@@ -1,0 +1,54 @@
+{
+  "checksum": "a416bcc109e6784df1782ef568ad48bb",
+  "room": {
+    "id": 11996,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "A layer of water only a foot deep covers the floor of what once was an aqueduct for the city above.  A tunnel runs off in six directions from this point to carry the water to the thirsty residents.  A hole leads upward, and a small amount of light filters down from the hole.  The main illumination, however, is provided by a light green glow from the water underneath.  The air is still and cool, and sounds echo easily off the cramped walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, southwest, west, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11995": "climb hole",
+      "11997": "northwest",
+      "11998": "northeast",
+      "11999": "west",
+      "12000": "east",
+      "12002": "southwest",
+      "12008": "southeast"
+    },
+    "timeto": {
+      "11995": 0.2,
+      "11997": 0.2,
+      "11998": 0.2,
+      "11999": 0.2,
+      "12000": 0.2,
+      "12002": 0.2,
+      "12008": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003202
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      149,
+      211,
+      159,
+      221
+    ]
+  }
+}

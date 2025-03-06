@@ -1,0 +1,39 @@
+{
+  "checksum": "15a4a7bdf0f7622e035836074d828f3b",
+  "room": {
+    "id": 11081,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "A jumble of boulders blocks what might have once been an adjunct to this cave to the west, indicating a recent cave-in here.  The walls in this section of cave are cracked and flaking, as if under great stress."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11080": "southeast",
+      "11082": "north"
+    },
+    "timeto": {
+      "11080": 0.2,
+      "11082": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26119
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4525,
+      1014,
+      4548,
+      1036
+    ]
+  }
+}

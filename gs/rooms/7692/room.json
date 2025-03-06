@@ -1,0 +1,39 @@
+{
+  "checksum": "99c90f13c602b5a2815ef5128b751e07",
+  "room": {
+    "id": 7692,
+    "title": [
+      "[Underground Ruin, West Wing]"
+    ],
+    "description": [
+      "The walls here are unfinished.  Marks gouged deep into the rock suggest that the work was abandoned long before it was finished.  Tools lie scattered about the floor.  The dry air has kept them in remarkably good shape."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7691": "east",
+      "7693": "west"
+    },
+    "timeto": {
+      "7691": 0.2,
+      "7693": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68003
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      295,
+      1150,
+      305,
+      1160
+    ]
+  }
+}

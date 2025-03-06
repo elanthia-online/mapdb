@@ -1,0 +1,45 @@
+{
+  "checksum": "552d97e20c35b066eedd6380bf47df19",
+  "room": {
+    "id": 30428,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Teal water scurries on its eastern path toward the inland shore.  Small whitecaps emerge here and there as occasional energetic spurts are funneled northeastward toward a whirlpool whose force is much diminished at this particular point in the sea surface."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southeast, south, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30420": "pedal southeast",
+      "30429": "pedal northwest",
+      "30435": "pedal northeast",
+      "30436": "pedal south",
+      "30440": "pedal north"
+    },
+    "timeto": {
+      "30420": 6,
+      "30429": 6,
+      "30435": 6,
+      "30436": 6,
+      "30440": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216158
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      522,
+      2120,
+      540,
+      2140
+    ]
+  }
+}

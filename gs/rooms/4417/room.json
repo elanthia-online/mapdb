@@ -1,0 +1,36 @@
+{
+  "checksum": "526d8b94c083dd1e7553aa3aa575a38f",
+  "room": {
+    "id": 4417,
+    "title": [
+      "[Ruby Level, Passage]"
+    ],
+    "description": [
+      "A heated argument can be heard coming from the room to the north, something about cheating.  A stout dwarven woman in a thick leather apron leans against one wall, staring in consternation at a broken hammer."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4386": "east",
+      "4402": "west",
+      "4418": "go door",
+      "4419": "go second door",
+      "4423": "go cave",
+      "4426": "north"
+    },
+    "timeto": {
+      "4386": 0.2,
+      "4402": 0.2,
+      "4418": 0.2,
+      "4419": 0.2,
+      "4423": 0.2,
+      "4426": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

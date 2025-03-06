@@ -1,0 +1,28 @@
+{
+  "checksum": "4e10cae070372be5cb10a08b01e84a6f",
+  "room": {
+    "id": 29560,
+    "title": [
+      "[Disbarring Dahcre Chamber]"
+    ],
+    "description": [
+      "The polished red sandstone floors and dark modwir wainscoting give this ample lounge a peaceful warmth.  Deep-cushioned chairs are drawn up around a white and red marble fireplace, above which hangs a beveled glass mirror framed in wrought iron.  A silver serving cart is stationed near the carved basalt arch that leads into this room, an ivory medallion set at its apex."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10403": "go carved arch",
+      "29561": "pull driftwood statue"
+    },
+    "timeto": {
+      "10403": 0.2,
+      "29561": 0.2
+    },
+    "tags": [
+      "bhalocker",
+      "meta:locker annex:Beacon Hall Archive"
+    ]
+  }
+}

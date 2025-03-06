@@ -1,0 +1,44 @@
+{
+  "checksum": "6f47edbc068da1152678b57aeb4fa2de",
+  "room": {
+    "id": 1850,
+    "title": [
+      "[Emerald Street, River's Edge]"
+    ],
+    "description": [
+      "The street widens sharply to the east in a delta of smoother stone, giving way at its end to a lawn of low-cut green grass.  Several dwarven warriors rest on the turf, leaning lazily against the taut canvas side of a tent.",
+      "The street widens sharply to the east in a delta of smoother stone, giving way at its end to a lawn of low-cut green grass.  Several dwarven warriors rest on the turf, leaning lazily against the taut canvas side of a red and white tent."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1849": "west",
+      "1851": "go tent",
+      "1852": "south"
+    },
+    "timeto": {
+      "1849": 0.2,
+      "1851": 0.2,
+      "1852": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002016
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      469,
+      485,
+      505,
+      521
+    ]
+  }
+}

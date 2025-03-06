@@ -1,0 +1,41 @@
+{
+  "checksum": "03c8ef2303df354b245acb1a79229e6c",
+  "room": {
+    "id": 31835,
+    "title": [
+      "[Gleyminn Anni River, Ferry]"
+    ],
+    "description": [
+      "Sinuous and dark, the water flows in a serpentine fashion as it winds along its unceasing course.  A deserted ferry next to a dilapidated wooden dock is situated on the western shore.  Nearby, a haphazard pile of wooden poles lie forgotten on the strand."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31829": "/rooms/31835/wayto/stringproc-31829.rb",
+      "31836": "/rooms/31835/wayto/stringproc-31836.rb"
+    },
+    "timeto": {
+      "31829": 4.2,
+      "31836": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083414
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1330,
+      760,
+      1351,
+      782
+    ]
+  }
+}

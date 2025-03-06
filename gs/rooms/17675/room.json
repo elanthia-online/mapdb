@@ -1,0 +1,50 @@
+{
+  "checksum": "08532e04a553b191eb3732814e366ab8",
+  "room": {
+    "id": 17675,
+    "title": [
+      "[Smuggler's Tunnels, Storage]"
+    ],
+    "description": [
+      "Torch light casts shadows across the cavern that stretch onwards to the west.  Single drops of water fall from the ceiling into a small puddle on the cavern floor offering a resounding plinking noise every so many minutes.  The chamber is haphazardly filled with various containers and crates.  Against one wall are three small wine casks set beside a makeshift weapon rack with muddy tracks leading from one to the other, then out of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17653": "east",
+      "17676": "west"
+    },
+    "timeto": {
+      "17653": 0.2,
+      "17676": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "genkew mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5008007
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      598,
+      784,
+      637,
+      822
+    ]
+  }
+}

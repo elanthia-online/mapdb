@@ -1,0 +1,24 @@
+{
+  "checksum": "315df3c478778b45b80041aead6cd813",
+  "room": {
+    "id": 28195,
+    "title": [
+      "[The Tailored Imperial, Showroom]"
+    ],
+    "description": [
+      "A pair of glass-eyed mannequins stare across the room into a gilt-framed mirror hung on a deep blue silk-covered wall.  At the far end of the wagon, ceiling mounted racks create a colorful exhibit of garments, while fine jewelry is showcased beneath the glass of a gold-framed display case."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "between Wehnimer's Landing and Zul Logoth",
+    "wayto": {
+      "28189": "south",
+      "28196": "go screen"
+    },
+    "timeto": {
+      "28189": 0.2,
+      "28196": 0.2
+    }
+  }
+}

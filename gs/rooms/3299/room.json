@@ -1,0 +1,38 @@
+{
+  "checksum": "1e3f8950175570a46005127d1437f41c",
+  "room": {
+    "id": 3299,
+    "title": [
+      "[Ice Plains, Master Quarters]"
+    ],
+    "description": [
+      "As you enter, you bang your knee into a hardened surface.  As you rub your pained joint, you glance around to see a small bedroom.  A bed made from modwir is set along the wall with a dresser at the foot of the bed.  Both pieces bear some odd markings that look vaguely familiar.  The bed is lined with large furs that look very comfortable and warm.  Off to one side of the room is a very narrow crack that leads south."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3296": "southeast",
+      "3300": "south"
+    },
+    "timeto": {
+      "3296": 0.2,
+      "3300": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4127044
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      603,
+      270,
+      613,
+      280
+    ]
+  }
+}

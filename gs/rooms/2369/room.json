@@ -1,0 +1,48 @@
+{
+  "checksum": "9d5866549982e5a196e5a5e4bb25d24e",
+  "room": {
+    "id": 2369,
+    "title": [
+      "[Magical Burrow, Sage Bend]",
+      "[Magical Burrow, Cursed Street]",
+      "[Magical Burrow, Sages' Bend]"
+    ],
+    "description": [
+      "A mural stretches along the face of a low stone fence separating a nearby manor from the street.  Depicted in vivid paint is a battle between ten small, dark figures with stretching shadows and a brave force of adventurers.  The leader of the tenebrous coterie is wreathed in twisting flames.  An ironwork gate opens out of the center of the fence, offering access to a welcoming if wintry courtyard beyond.",
+      "A few empty houses line the road here, probably vacated due to all the noise coming from the other burrows to the south and southeast."
+    ],
+    "paths": [
+      "Obvious paths: east, south, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2301": "east",
+      "2368": "northwest",
+      "3233": "south",
+      "8696": "go gate"
+    },
+    "timeto": {
+      "2301": 0.2,
+      "2368": 0.2,
+      "3233": 0.2,
+      "8696": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042117
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      495,
+      698,
+      531,
+      734
+    ]
+  }
+}

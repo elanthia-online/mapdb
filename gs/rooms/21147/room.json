@@ -1,0 +1,29 @@
+{
+  "checksum": "3967a7aaebcd32fa171083057013d06d",
+  "room": {
+    "id": 21147,
+    "title": [
+      "[The Colonnade, Balcony]"
+    ],
+    "description": [
+      "Where the staircase ends, its beautiful carved railings spread to each side, dividing the balcony from the open space above the lobby with twisting marble wildflowers and twining ivy vines.  Velvet ropes define the areas open to the public and those which require tickets.  A rowan door embossed with a silver plaque rests in the wall at one end, while an oak door embossed with a gold plaque stands at the other."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21142": "go staircase",
+      "21148": "go oak door",
+      "21149": "go rowan door"
+    },
+    "timeto": {
+      "21142": 0.2,
+      "21148": 0.2,
+      "21149": 0.2
+    },
+    "uid": [
+      289009
+    ]
+  }
+}

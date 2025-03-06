@@ -1,0 +1,40 @@
+{
+  "checksum": "5fa2c3aafc638ed04be58edf51bbdc49",
+  "room": {
+    "id": 10949,
+    "title": [
+      "[Relynard's Pawnshop]"
+    ],
+    "description": [
+      "A bit brighter than it appears from the alley outside, this small shop is piled haphazardly with all manner of goods.  A pile of armor in one corner is complimented by a row of neatly arranged weapons in another corner.  Shelves full of other assorted items tower along the walls and seem ready to fall at the slightest touch.  Relynard is resting at his counter, apparently asleep.  However, you somehow know he is not and you resolve to watch your step."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10851": "out",
+      "10950": "north",
+      "30711": "/rooms/10949/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10851": 0.2,
+      "10950": 0.2,
+      "30711": "/rooms/10949/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "meta:trashcan:oaken barrel",
+      "urchin guide pawn",
+      "urchin-access",
+      "pawn",
+      "trash",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101905
+    ]
+  }
+}

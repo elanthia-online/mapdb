@@ -1,0 +1,50 @@
+{
+  "checksum": "f8061574ba170c1f5a778b7fa18bed48",
+  "room": {
+    "id": 12199,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Thousands upon thousands of black wings cover the walls, moving restlessly in an almost deafening whisper of feathers.  Eyes wink out from beneath the ebon pinions, glaring malevolently at you before being covered once again."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12199/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12199/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12199/wayto/stringproc-12152.rb",
+      "12198": "west",
+      "12200": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12198": 0.2,
+      "12200": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4568030
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      158,
+      1032,
+      168,
+      1042
+    ]
+  }
+}

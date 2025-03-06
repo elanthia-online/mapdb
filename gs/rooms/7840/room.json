@@ -1,0 +1,39 @@
+{
+  "checksum": "45239ab6acf608ed4ce868f82e82345d",
+  "room": {
+    "id": 7840,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "A long wooden table stretches the length of this room.  A grand, tall-backed chair sits at the head, while benches are placed along the sides.  The chair is moldy and dusty, and is missing an arm.  One of the benches has fallen over, and the other has collapsed.  The table is still standing, but doesn't look terribly steady."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7830": "east",
+      "7839": "northwest"
+    },
+    "timeto": {
+      "7830": 0.2,
+      "7839": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35057
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      601,
+      492,
+      611,
+      502
+    ]
+  }
+}

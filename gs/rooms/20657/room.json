@@ -1,0 +1,38 @@
+{
+  "checksum": "8d5c54449bee6444c73e88e18e1941b9",
+  "room": {
+    "id": 20657,
+    "title": [
+      "[Warrior Guild, Central Walkway]"
+    ],
+    "description": [
+      "Giant blue-speckled toadstools cast a cheerful light over the wide walkway, and a cluster of gold-hued moss clings to the iron columns on either side.  The faint aroma of loam hangs lightly in the air, along with a trace of fragrant cigar smoke.  An inscribed marble tablet marks the sandstone-inlaid path heading towards an immense granite edifice."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "20656": "southeast",
+      "20658": "go edifice",
+      "20659": "west",
+      "20664": "northeast"
+    },
+    "timeto": {
+      "20656": 0.2,
+      "20658": 0.2,
+      "20659": 0.2,
+      "20664": 0.2
+    },
+    "uid": [
+      258006
+    ],
+    "image": "en-zul_logoth-warriorguild-1697063613.png",
+    "image_coords": [
+      537,
+      212,
+      551,
+      224
+    ]
+  }
+}

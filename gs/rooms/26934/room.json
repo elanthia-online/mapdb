@@ -1,0 +1,24 @@
+{
+  "checksum": "f57ecf6c43660c1fb95056ae869500de",
+  "room": {
+    "id": 26934,
+    "title": [
+      "[Unpredictable Outcomes, Shop]"
+    ],
+    "description": [
+      "It's difficult to grasp the full size of this dilapidated shop from the inside.  Towering stacks of ephemera create narrow passageways through this treasure trove of novelties.  Dim lighting casts the dusty stacks in a macabre light, concealing more than it reveals.  An inexplicable display is prominently featured in the cramped space, dominating one entire wall.  The claustrophobic path winds its way towards a shadowy doorway."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "26054": "out",
+      "26935": "go doorway"
+    },
+    "timeto": {
+      "26054": 0.2,
+      "26935": 0.2
+    }
+  }
+}

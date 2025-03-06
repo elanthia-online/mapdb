@@ -1,0 +1,41 @@
+{
+  "checksum": "bef66cc8ebc14e812e9c484145493104",
+  "room": {
+    "id": 864,
+    "title": [
+      "[Whistler's Pass, Crevasse]"
+    ],
+    "description": [
+      "Icy cold water cascades down one wall and drains along a shallow channel in the floor.  The dark black stone becomes shiny when wet, reflecting the dim moonlight that penetrates the narrow walls of the crevasse.",
+      "Icy cold water cascades down one wall and drains along a shallow channel in the floor.  The dark black stone becomes shiny when wet, reflecting the dim light that penetrates the narrow walls of the crevasse."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "863": "north",
+      "865": "south"
+    },
+    "timeto": {
+      "863": 0.2,
+      "865": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13016009
+    ],
+    "image": "en-whistlers_pass-1639036092.png",
+    "image_coords": [
+      893,
+      1118,
+      903,
+      1128
+    ]
+  }
+}

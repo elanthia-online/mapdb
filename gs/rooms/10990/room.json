@@ -1,0 +1,37 @@
+{
+  "checksum": "7595a42c6f6b9eb9f2e889888c553c23",
+  "room": {
+    "id": 10990,
+    "title": [
+      "[Relegan's Fletcher Shop]"
+    ],
+    "description": [
+      "Small intertwined branches make up the walls of this small workshop.  Carved from the stump of a haon tree, a counter sits in the middle of the room, partially covered in woodshavings and cut feathers.  Lining the walls are shelves which hold bows and crossbows, a dark curtain situated between two of them."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10858": "out",
+      "16221": "go curtain",
+      "30711": "/rooms/10990/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10858": 0.2,
+      "16221": 0.2,
+      "30711": "/rooms/10990/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "fletcher",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "urchin guide fletcher",
+      "urchin-access"
+    ],
+    "uid": [
+      2101920
+    ]
+  }
+}

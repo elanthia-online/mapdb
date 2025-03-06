@@ -1,0 +1,25 @@
+{
+  "checksum": "78745a484674e5b9b9b7d8640e2276d0",
+  "room": {
+    "id": 28441,
+    "title": [
+      "[Off the Beaten Trail]"
+    ],
+    "description": [
+      "Thick oak poles stand in each corner of the tent, holding the oilcloth canopy up overhead.  A round marble pedestal sits off in one corner of the tent, while a large mahogany map table occupies much of the central floor space.  An oilcloth flap hangs across the rear of the tent, concealing the back portion of the structure."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23800": "out",
+      "28442": "go flap"
+    },
+    "timeto": {
+      "23800": 0.2,
+      "28442": 0.2
+    },
+    "check_location": false
+  }
+}

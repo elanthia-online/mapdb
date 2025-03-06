@@ -1,0 +1,37 @@
+{
+  "checksum": "709477894283338f1ab129bb6c04ede2",
+  "room": {
+    "id": 17387,
+    "title": [
+      "[Abandoned Warehouse]"
+    ],
+    "description": [
+      "This room seems to provide a waiting area for several common workshops.  Bits of rope and rusted nails clutter the floor, likely escapees from the work rooms.  A sagging arch leads back into the warehouse."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "17382": "go arch",
+      "17389": "go toolbenches"
+    },
+    "timeto": {
+      "17382": 0.2,
+      "17389": 0.2
+    },
+    "tags": [
+      "rogue guild workshop"
+    ],
+    "uid": [
+      262006
+    ],
+    "image": "ti-rogue_guild-1486041266.png",
+    "image_coords": [
+      611,
+      844,
+      729,
+      921
+    ]
+  }
+}

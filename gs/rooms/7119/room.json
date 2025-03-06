@@ -1,0 +1,42 @@
+{
+  "checksum": "90aef5d9a004e2584905caec0e3d67fa",
+  "room": {
+    "id": 7119,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "You hear a steady dripping sound, the PLOPLOPLOP of water trickling slowly from a height.  The stone under your feet is patchy with moss, but there's no other indication of water nearby."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7118": "east",
+      "7153": "go door"
+    },
+    "timeto": {
+      "7118": 0.2,
+      "7153": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44008
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      841,
+      1150,
+      851,
+      1160
+    ]
+  }
+}

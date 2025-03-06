@@ -1,0 +1,24 @@
+{
+  "checksum": "a9c42123950994b671b7c95ab25504c9",
+  "room": {
+    "id": 20176,
+    "title": [
+      "[Dilapidated Party Boat]"
+    ],
+    "description": [
+      "Grand in its day, the party boat is in complete disrepair.  Most of the white paint has flaked away, and the exposed wood is mildewing.  A busted string of lights enclose the main area that once served as a dance floor.  The wooden floor sags and creaks even with the lightest of footsteps, providing a shaky barrier from the swamp underneath.  A thick, twisted rope provides both mooring and a means to venture back to the muddy road."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20175": "go rope",
+      "20363": "west"
+    },
+    "timeto": {
+      "20175": 0.2,
+      "20363": 0.2
+    }
+  }
+}

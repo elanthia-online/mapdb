@@ -1,0 +1,52 @@
+{
+  "checksum": "cd10e7a7062a1c2041e49a2bc7c0bd60",
+  "room": {
+    "id": 4041,
+    "title": [
+      "[Temple, Chapel]"
+    ],
+    "description": [
+      "Two pillars frame a simple chapel.  Followers of the land's many religions offer prayers here, each to their own gods.  On a pine pew a Zhaolmin monk in tattered robes sits beside a solitary elf softly intoning an ancient chant.  In front of the pews, you see an unadorned altar."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "234": "out",
+      "4040": "go white arch",
+      "4044": "go black arch",
+      "4046": "go door",
+      "7523": "go altar",
+      "8687": "go curved arch",
+      "30708": "/rooms/4041/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "234": 0.2,
+      "4040": 0.2,
+      "4044": 0.2,
+      "4046": 0.2,
+      "7523": 0.2,
+      "8687": 0.2,
+      "30708": "/rooms/4041/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "urchin-access",
+      "urchin guide temple",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      2033
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      585,
+      881,
+      615,
+      911
+    ]
+  }
+}

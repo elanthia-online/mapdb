@@ -1,0 +1,31 @@
+{
+  "checksum": "6277b9261733c8ff13d02142b832e572",
+  "room": {
+    "id": 19757,
+    "title": [
+      "[Empath Guild, Corridor]"
+    ],
+    "description": [
+      "Giant linked rings of brass have been inlaid into the pale grey marble floor, gleaming under the illumination of the toadstools lining the corridor.  A heavy, moss green curtain has been draped across the carved archway to the east."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "19756": "northeast",
+      "19758": "go doors",
+      "19759": "southeast",
+      "19762": "east"
+    },
+    "timeto": {
+      "19756": 0.2,
+      "19758": 0.2,
+      "19759": 0.2,
+      "19762": 0.2
+    },
+    "uid": [
+      658003
+    ]
+  }
+}

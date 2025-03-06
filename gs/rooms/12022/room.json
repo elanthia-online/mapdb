@@ -1,0 +1,43 @@
+{
+  "checksum": "c402d752f19796925abe1491352481fe",
+  "room": {
+    "id": 12022,
+    "title": [
+      "[Old Ta'Faendryl, Amphitheatre]"
+    ],
+    "description": [
+      "The long woody branches of a vine creep up the southern wall of the amphitheatre then descend across the tiered benches toward the ground below in a thick curtain of green.  A thick, sweet fragrance rises from the tubular orange blossoms clustered along the stems of the vine."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12015": "northwest",
+      "12017": "climb benches",
+      "12023": "northeast"
+    },
+    "timeto": {
+      "12015": 0.2,
+      "12017": 0.2,
+      "12023": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004065
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      958,
+      647,
+      968,
+      657
+    ]
+  }
+}

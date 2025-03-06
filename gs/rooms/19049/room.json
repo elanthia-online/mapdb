@@ -1,0 +1,33 @@
+{
+  "checksum": "4cffe2b2b7c007024f547ac953ccf573",
+  "room": {
+    "id": 19049,
+    "title": [
+      "[Spitfire, Poopdeck Portside]"
+    ],
+    "description": [
+      "The tall mizzenmast's sails are furled, and a couple of halflings are busy in the rigging, checking for wear.  From the mast, a spanker boom traverses the poopdeck's promenade and juts out over the stern rail.  The spanker boom is secured over the beautiful ship's wheel, a masterpiece of polished wood.  Chatter can be heard from the saloon skylight, located just aft of the coach house."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19048": "go stairs",
+      "19076": "east",
+      "19081": "southeast"
+    },
+    "timeto": {
+      "19048": 0.2,
+      "19076": 0.2,
+      "19081": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      17,
+      529,
+      53,
+      566
+    ]
+  }
+}

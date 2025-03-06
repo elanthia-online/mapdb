@@ -1,0 +1,51 @@
+{
+  "checksum": "b8b782d62a6d94ec0d6113ce5b64bd44",
+  "room": {
+    "id": 3525,
+    "title": [
+      "[Ta'Vaalor, Maerneis Var]"
+    ],
+    "description": [
+      "Crowds bustle through the intersection, many of the passersby jostling one another in their haste to reach their destinations.  Several city guardsmen watch the crowd with casual interest.",
+      "Few pass through the intersection at this late hour.  Several city guardsmen stand idly by, watching the deserted var with casual interest.",
+      "Few pass through the intersection at this late hour, and those that do nod only briefly to one another before hurrying on towards their destinations.  Several city guardsmen stand idly by, watching the deserted var with casual interest.",
+      "Passersby pick their way through piles ash and burned timbers, struggling to reach their destinations.  Several city guardsmen watch the crowd with intent interest, while others help drag away the debris.",
+      "Few pass through the intersection piled with ash and burned timbers at this late hour, and those that do nod only briefly to one another before hurrying on towards their destinations.  Several city guardsmen stand by, watching the deserted var with intent interest.",
+      "Few pass through the intersection at this late hour.  Several city guardsmen stand outside a mithril gate, watching the crowd with intent interest.",
+      "Crowds bustle through the intersection, many of the passersby jostling one another in their haste to reach their destinations.  Several city guardsmen stand outside a mithril gate, watching the crowd with intent interest."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3524": "west",
+      "3526": "north",
+      "3536": "east",
+      "27929": "go mithril gate"
+    },
+    "timeto": {
+      "3524": 0.2,
+      "3526": 0.2,
+      "3536": 0.2,
+      "27929": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100035
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1225,
+      779,
+      1261,
+      816
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "851b75e9f9be5de63f8139b63f7d9177",
+  "room": {
+    "id": 16550,
+    "title": [
+      "[Arroke's Magic Shoppe]",
+      "[Arroke's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor.",
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A fish hook rack and a warped treasure chest sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12269": "/rooms/16550/wayto/stringproc-12269.rb",
+      "16608": "east",
+      "16609": "north"
+    },
+    "timeto": {
+      "12269": 0.2,
+      "16608": 0.2,
+      "16609": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:playershop"
+    ]
+  }
+}

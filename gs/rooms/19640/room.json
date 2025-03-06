@@ -1,0 +1,44 @@
+{
+  "checksum": "ac762803ae0a4afff6f32a04d2e6c030",
+  "room": {
+    "id": 19640,
+    "title": [
+      "[Cavernhold, Main Hall]"
+    ],
+    "description": [
+      "A low rampart of earth arcs gracefully along the walls of this, the northern, end of the Main Hall.  Several spheres of clay and mud rest in ceramic cups along the top of the low mound of dirt."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19641": "go opening",
+      "19642": "southwest",
+      "19650": "south",
+      "19652": "southeast"
+    },
+    "timeto": {
+      "19641": 0.2,
+      "19642": 0.2,
+      "19650": 0.2,
+      "19652": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10016
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      581,
+      1092,
+      590,
+      1102
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "09e01a4de0c3a1d04a952e751a8447e5",
+  "room": {
+    "id": 22375,
+    "title": [
+      "[Halfling Embassy, Great Hall]"
+    ],
+    "description": [
+      "Vaulted ceilings are hung with a series of thick, beaded tapestries, their woven lengths adding a splash of color to the silver-veined white marble they rest against.  An enormous circular table crafted of bird's-eye maple is centered beneath a round skylight of stained glass, its surface covered with delicacies and treats.  Overlapping rugs bearing geometric patterns give a warm, welcoming feel to the sterile white of the room and support the weight of several high-backed armchairs."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim Embassies",
+    "wayto": {
+      "22358": "out",
+      "22376": "go flap"
+    },
+    "timeto": {
+      "22358": 0.2,
+      "22376": "/rooms/22375/timeto/stringproc-22376.rb"
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13125048
+    ],
+    "image": "en-ta_illistim-embassies-1405076623.png",
+    "image_coords": [
+      1079,
+      471,
+      1145,
+      509
+    ]
+  }
+}

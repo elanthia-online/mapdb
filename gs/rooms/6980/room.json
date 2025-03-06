@@ -1,0 +1,42 @@
+{
+  "checksum": "f0a5794d9dda61f63cd793c6ce673c2c",
+  "room": {
+    "id": 6980,
+    "title": [
+      "[Behind the Waterfall]"
+    ],
+    "description": [
+      "You stand in a small alcove in the rock behind the trickling waterfall.  Although the sheet of water is only a few feet away, this area is mostly dry, protected by the thick rocks above, yet the sound of the water fills this chamber with a hollow echo.  A narrow ledge leads out around the waterfall, and a dark passage also leads further into the rocks to the south."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6976": "south",
+      "6981": "go narrow ledge"
+    },
+    "timeto": {
+      "6976": 0.2,
+      "6981": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      43017
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      51,
+      526,
+      61,
+      536
+    ]
+  }
+}

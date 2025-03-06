@@ -1,0 +1,36 @@
+{
+  "checksum": "a49fbbbd1c4ce0e671b312f45bc2d757",
+  "room": {
+    "id": 20864,
+    "title": [
+      "[Obsidian Tower, Dungeon]"
+    ],
+    "description": [
+      "Black iron braziers line the walls of the spacious chamber, their glowing coals faintly illuminating the well-oiled shackles and racks of instruments set along the rough stone walls.  A tilted wooden table equipped with heavy leather straps and brass fittings stands in the center of the dark-stained floor."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20855": "north",
+      "20865": "go door"
+    },
+    "timeto": {
+      "20855": 0.2,
+      "20865": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower",
+      "rewritten",
+      "meta:pending restoration"
+    ],
+    "image": "wo-obsidian-tower-1626034546.png",
+    "image_coords": [
+      402,
+      1164,
+      458,
+      1220
+    ]
+  }
+}

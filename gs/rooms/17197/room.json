@@ -1,0 +1,33 @@
+{
+  "checksum": "e60dd89d4cba603f1634a5ba816b54b0",
+  "room": {
+    "id": 17197,
+    "title": [
+      "[Temple of Ronan, Altar]"
+    ],
+    "description": [
+      "The silver-veined black marble floor has been polished to a high shine, and not a speck of dust can be seen anywhere.  The high ceiling is of ornately carved onyx, and the walls are draped in black velvet and spidersilk tapestries.  The tapestries depict aspects of Ronan's world, from one showing Koar and Lumnis cradling twin infants to another painted with a scene of a battle with Sheru, Ronan's long-time enemy.  A black marble altar sits beneath the tapestries for those wishing to make offerings."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "17177": "southeast",
+      "17198": "go passageway"
+    },
+    "timeto": {
+      "17177": 0.2,
+      "17198": 0.2
+    },
+    "tags": [
+      "ronan",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749005
+    ]
+  }
+}

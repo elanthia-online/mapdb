@@ -1,0 +1,36 @@
+{
+  "checksum": "870dfb9b1d667bc7437c7fd9d614e09e",
+  "room": {
+    "id": 13274,
+    "title": [
+      "[West Wing]"
+    ],
+    "description": [
+      "The corridor stretches away to the north and southeast.  The high vaulted ceiling lowers here, supporting a small chandelier filled with burning, cream-colored candles."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "13273": "southeast",
+      "13448": "north",
+      "29737": "go arch"
+    },
+    "timeto": {
+      "13273": 0.2,
+      "13448": 0.2,
+      "29737": 0.2
+    },
+    "uid": [
+      13112012
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      185,
+      174,
+      242,
+      227
+    ]
+  }
+}

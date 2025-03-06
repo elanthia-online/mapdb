@@ -1,0 +1,41 @@
+{
+  "checksum": "130f6fc337ca1b1ae0fe31fbc009e85b",
+  "room": {
+    "id": 30719,
+    "title": [
+      "[Wyvern Keep, Hallway]"
+    ],
+    "description": [
+      "A runner of thick, red woolen carpet follows the hallway north and south.  The runner covers the center of the red marble floor, providing a stable, soft, quiet area on which to walk.  Along the hallway, heavy golden velvet curtains allow entrance to private booths where one can access a personal locker.  Candles burn steadily in brass candleholders spaced evenly along the hallway's walnut walls, casting a dim but consistent illumination throughout the corridor."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10323": "south",
+      "28255": "go curtain",
+      "30720": "north"
+    },
+    "timeto": {
+      "10323": 0.2,
+      "28255": 240,
+      "30720": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "publiclockers"
+    ],
+    "uid": [
+      14104013
+    ],
+    "image": "en-ta_vaalor-wyverns_keep-1488759285.png",
+    "image_coords": [
+      834,
+      1198,
+      976,
+      1258
+    ]
+  }
+}

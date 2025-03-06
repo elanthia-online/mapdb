@@ -1,0 +1,37 @@
+{
+  "checksum": "9204a112dbb95e8afb44d0bcabec1459",
+  "room": {
+    "id": 12706,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The ruined hall continues north and south, the environment oddly undisturbed, save for the occasional drop of water that falls from the ceiling.  A pair of clay pots rests at the base of the wall, each filled to the brim with water."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12705": "north",
+      "12707": "south"
+    },
+    "timeto": {
+      "12705": 0.2,
+      "12707": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031081
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      405,
+      641,
+      441,
+      677
+    ]
+  }
+}

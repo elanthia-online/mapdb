@@ -1,0 +1,34 @@
+{
+  "checksum": "f66513fdcce4ddd13308036617046919",
+  "room": {
+    "id": 18347,
+    "title": [
+      "[Channel]"
+    ],
+    "description": [
+      "The passage slowly curves and leads to a rusted iron ladder that leads back up.  Something heavy must have fallen from above, as the cobblestones at the base of the ladder are cracked badly."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17833": "climb ladder",
+      "18346": "southwest"
+    },
+    "timeto": {
+      "17833": 0.2,
+      "18346": 0.2
+    },
+    "uid": [
+      267128
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      388,
+      297,
+      428,
+      336
+    ]
+  }
+}

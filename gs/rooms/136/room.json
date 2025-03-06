@@ -1,0 +1,38 @@
+{
+  "checksum": "162247c485908d53b6e7be7912b8a1ca",
+  "room": {
+    "id": 136,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Surely there must be more to this stark tunnel than meets the eye.  Somewhere in the chiseled rock a secret panel or doorway hides, awaiting your clever touch.  In every shadow you see the glint of gold, though when you turn there is nothing but cold, damp stone."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "135": "southeast",
+      "137": "northwest"
+    },
+    "timeto": {
+      "135": 0.2,
+      "137": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300006
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      771,
+      466,
+      781,
+      476
+    ]
+  }
+}

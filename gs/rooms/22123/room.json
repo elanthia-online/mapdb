@@ -1,0 +1,39 @@
+{
+  "checksum": "a9be633ec9e232f97004f3a5f6e5bcdb",
+  "room": {
+    "id": 22123,
+    "title": [
+      "[Cairnfang Manor, Art Gallery]"
+    ],
+    "description": [
+      "Glass shelves supported by bronze fixtures spread across the outer wall, which is decorated with an inverted teardrop pattern of indigo and emerald damask.  Rib-like exposed rafters of lacquered mahogany stretch across the vaulted ceiling and provide an excellent anchoring point for the frosted globes that dangle throughout the air.  Gold foil decorates the ornate arch that leads into a garden, its polished expanse carved to resemble enormous peacocks."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "22120": "northeast",
+      "22122": "northwest",
+      "22124": "go arch"
+    },
+    "timeto": {
+      "22120": 0.2,
+      "22122": 0.2,
+      "22124": 0.2
+    },
+    "tags": [
+      "meta:che:Cairnfang Manor"
+    ],
+    "uid": [
+      106503
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      70,
+      307,
+      82,
+      318
+    ]
+  }
+}

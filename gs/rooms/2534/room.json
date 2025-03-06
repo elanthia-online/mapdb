@@ -1,0 +1,50 @@
+{
+  "checksum": "7a21c9c25f72f3a802c1aba3d3cd7f66",
+  "room": {
+    "id": 2534,
+    "title": [
+      "[Snowy Plains, White Ice Lake]"
+    ],
+    "description": [
+      "The snow-packed trail has led you to where the raging river feeds into White Ice Lake.  The roiling water sends huge ice chunks crashing together, some skittering and sliding across the frozen lake."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "riparian",
+    "wayto": {
+      "2533": "/rooms/2534/wayto/stringproc-2533.rb",
+      "2535": "/rooms/2534/wayto/stringproc-2535.rb"
+    },
+    "timeto": {
+      "2533": 0.2,
+      "2535": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "frostweed",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "thorny wintersbite",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044103
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      871,
+      574,
+      881,
+      584
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "0165be0946f731f091f9afa106832876",
+  "room": {
+    "id": 2922,
+    "title": [
+      "[Northward Trail, Ice Floe]"
+    ],
+    "description": [
+      "Carved over centuries by the floe of ice at its bottom, this narrow gorge provides some relief from the elements.  The air is still bitterly cold, but at least the harsh winter winds are kept at bay by the lichen-covered walls that lie to the north and the south.  The carcass of a mule lies nearby, preserved from decay by the freezing temperatures."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Sleeping Lady Mountains",
+    "wayto": {
+      "2921": "go northern wall",
+      "2923": "go southern wall"
+    },
+    "timeto": {
+      "2921": 0.2,
+      "2923": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4560010
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1026,
+      594,
+      1036,
+      604
+    ]
+  }
+}

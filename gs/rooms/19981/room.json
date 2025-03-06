@@ -1,0 +1,39 @@
+{
+  "checksum": "ded991e7ec42c982e1550f1468553469",
+  "room": {
+    "id": 19981,
+    "title": [
+      "[History Wing, Jantalar]"
+    ],
+    "description": [
+      "Artifacts and paintings litter this room, the metal bits glittering in the light of several oil lanterns mounted to the walls.  A life-sized wax figure stands in the center of the room, while a scale model of the Glaesen Star rests off to one side.  One particularly well-preserved painting with an imflass frame hangs on the wall near a velvet-lined display case."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19980": "west",
+      "19982": "north"
+    },
+    "timeto": {
+      "19980": 0.2,
+      "19982": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28116
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      1732,
+      1604,
+      1875,
+      1667
+    ]
+  }
+}

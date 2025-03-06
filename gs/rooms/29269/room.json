@@ -1,0 +1,24 @@
+{
+  "checksum": "3bed70ccf3bab0dda8fc373cba9c9070",
+  "room": {
+    "id": 29269,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "A steady stream of water flows in from the north and forms a tiny river down the center of the corridor, its rippling current illuminated by candles placed along a perpendicular wall.  Paint bubbles in the facing wall hold pockets of mist that are intermittently discharged into the air."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29270": "north",
+      "29272": "south"
+    },
+    "timeto": {
+      "29270": 0.2,
+      "29272": 0.2
+    }
+  }
+}

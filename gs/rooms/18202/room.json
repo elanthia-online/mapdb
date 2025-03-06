@@ -1,0 +1,41 @@
+{
+  "checksum": "04c58938bed33cf2ca918793c10085ae",
+  "room": {
+    "id": 18202,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "The light along the path suddenly diminishes as if the night had descended to rest in this very spot but despite the sudden darkness, you feel as though nothing could ever cause you harm in this place.  Fresh hoof tracks mark the edge of the path.",
+      "This part of the path seems darker even than the cloudless night would account for, yet despite the shadows, you feel as though nothing could ever cause you harm in this place.  Fresh hoof tracks mark the edge of the path."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18201": "east",
+      "18203": "southwest"
+    },
+    "timeto": {
+      "18201": 0.2,
+      "18203": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312011
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      105,
+      78,
+      118,
+      91
+    ]
+  }
+}

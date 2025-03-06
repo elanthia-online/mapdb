@@ -1,0 +1,48 @@
+{
+  "checksum": "c8eb8a2c951d97d385cb75b164fa1f01",
+  "room": {
+    "id": 7054,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Tightly-woven spider webs blanket the walls and cling to your face and hair as you slip through the narrow crevice that passes for a tunnel.  Blind centipedes writhe frantically, trapped in the webs, awaiting death."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7052": "southwest",
+      "7055": "northeast"
+    },
+    "timeto": {
+      "7052": 0.2,
+      "7055": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42519
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      323,
+      790,
+      333,
+      800
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "0879082ab22cc0257724133df153f503",
+  "room": {
+    "id": 10906,
+    "title": [
+      "[Secondfoot Floors]"
+    ],
+    "description": [
+      "Samples of flooring are stacked about the room.  Some are in excellent condition, while some seem to be pre-owned and broken in.  The smell of floor varnish and other, less pleasant scents, assail your nose, making your time here a truly unique experience."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10898": "go door",
+      "10907": "north"
+    },
+    "timeto": {
+      "10898": 0.2,
+      "10907": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2300020
+    ]
+  }
+}

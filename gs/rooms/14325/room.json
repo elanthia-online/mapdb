@@ -1,0 +1,37 @@
+{
+  "checksum": "c0558785a73cf80cd113cd57cb9153c8",
+  "room": {
+    "id": 14325,
+    "title": [
+      "[The Krawling Kraken, Commons]"
+    ],
+    "description": [
+      "The room is a bit quieter than the main bar serving area, though noisy cheers and raucous laughter can be heard coming from the bar to the southwest.  Long benches and rectangular tables seat high-spirited patrons intent on serious drinking and various card games of chance.  The clatter of clay tankards and the smell of good ale provide some small comfort to the steady stream of wayfarers who pause here to meet and greet one another."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14309": "east",
+      "14326": "northwest",
+      "14329": "southwest",
+      "15409": "go sloshed table",
+      "25864": "go savage table",
+      "28685": "go tangled table",
+      "28686": "go tipsy table"
+    },
+    "timeto": {
+      "14309": 0.2,
+      "14326": 0.2,
+      "14329": 0.2,
+      "15409": 0.2,
+      "25864": 0.2,
+      "28685": 0.2,
+      "28686": 0.2
+    },
+    "uid": [
+      4901093
+    ]
+  }
+}

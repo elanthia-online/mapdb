@@ -1,0 +1,49 @@
+{
+  "checksum": "5e2d9afae243388a36f3241583802675",
+  "room": {
+    "id": 6971,
+    "title": [
+      "[Darkstone, Derelict Road]"
+    ],
+    "description": [
+      "Broken cobblestones and scattered gravel show that this once was a fine paved road, but lately has fallen into disrepair.  At its height, this road could have carried heavy traffic of carts and horses, but now it is little better than the forest path on the north side of the gorge.  The road runs precisely north-south here."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "rough",
+    "wayto": {
+      "6970": "north",
+      "6972": "south"
+    },
+    "timeto": {
+      "6970": 0.2,
+      "6972": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "heath aster",
+      "sprig of larkspur",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "broken twig",
+      "moonlight cactus-bloom",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      43053
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      158,
+      487,
+      168,
+      497
+    ]
+  }
+}

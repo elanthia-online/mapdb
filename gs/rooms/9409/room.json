@@ -1,0 +1,40 @@
+{
+  "checksum": "97659cef6ea74ba8510c492832d09cf7",
+  "room": {
+    "id": 9409,
+    "title": [
+      "[Solano Hall, Entrance]"
+    ],
+    "description": [
+      "A short corridor runs between a granite arch and a steel gate.  Near the arch, the walls are composed of grey granite, but near the gate they suddenly give way to a black rock flecked with silvery flakes of mica.  The grey granite floor is rough but level, and two toadstools in stone pots, one at either end of the corridor, provide ample light.  The sound of rushing water comes from somewhere beyond the gate.",
+      "A short corridor runs from a granite arch to a steel gate, a curved grey doorway set between them.  Near the arch, the walls are composed of grey granite, but near the gate they give way to a black rock flecked with silvery flakes of mica.  The grey granite floor is rough but level, and two toadstools in stone pots that flank the gate provide ample light, while a dark wooden planter containing a myriad of colorful flowers, somehow growing in the harsh environment, sits against one wall.  The sound of rushing water comes from beyond the gate."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9408": "go arch",
+      "20688": "go doorway",
+      "20689": "go gate"
+    },
+    "timeto": {
+      "9408": 0.2,
+      "20688": 0.2,
+      "20689": 0.2
+    },
+    "tags": [
+      "meta:premium"
+    ],
+    "uid": [
+      4002401
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      3162,
+      1132,
+      3302,
+      1191
+    ]
+  }
+}

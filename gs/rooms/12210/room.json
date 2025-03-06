@@ -1,0 +1,51 @@
+{
+  "checksum": "3b12d962fd29d3ac0500552f7d0d1864",
+  "room": {
+    "id": 12210,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Grey-green worms tunnel in and out of the crimson walls of the chamber.  In their wake pour miniature waterfalls of blood which sluice north with the liquid running over the floor.  The walls squeeze in on you, in predictable rhythm, but it almost seems that each constriction is less forceful than the last, as if whatever force is driving them weakens with each push."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest",
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12210/wayto/stringproc-2579.rb",
+      "12159": "northwest",
+      "12162": "east",
+      "12215": "southwest"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12159": 0.2,
+      "12162": 0.2,
+      "12215": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570006
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      965,
+      1217,
+      975,
+      1227
+    ]
+  }
+}

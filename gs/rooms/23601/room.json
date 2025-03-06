@@ -1,0 +1,31 @@
+{
+  "checksum": "18c0651eaa7cc3a6d1507f473ca93ccc",
+  "room": {
+    "id": 23601,
+    "title": [
+      "[Catacombs, Passageway]"
+    ],
+    "description": [
+      "Set directly underneath the trapdoor above is a considerably sized star-shaped pool.  Intricately etched golden sconces have been placed along the wall behind it, and a few feet away from the pool stands a stone bench with some towels upon it.  The lighting from the torches reflects on the surface of the water, reflecting a series of wavering lines over the walls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "23561": "go hallway",
+      "23606": "out"
+    },
+    "timeto": {
+      "23561": 0.2,
+      "23606": 0.2
+    },
+    "tags": [
+      "meta:society:Council of Light"
+    ],
+    "uid": [
+      14113001
+    ],
+    "check_location": true
+  }
+}

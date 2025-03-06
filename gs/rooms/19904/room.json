@@ -1,0 +1,25 @@
+{
+  "checksum": "f1a96e2fd5cfc4026838b71a3b95886e",
+  "room": {
+    "id": 19904,
+    "title": [
+      "[Vindicate's Private Home]"
+    ],
+    "description": [
+      "The trail bends from the north to the west through a sunny clearing that breaks the deep woods.  Tangles of blackberry bushes grow around the trunks of the scattered trees, their brambles extending into the small paths that lead to homes in the underbrush.  A flock of blackbirds have stopped to rest in the branches of a nearby oak, filling the clearing with their cries."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19903": "/rooms/19904/wayto/stringproc-19903.rb"
+    },
+    "timeto": {
+      "19903": 0.6
+    },
+    "tags": [
+      "meta:private home"
+    ]
+  }
+}

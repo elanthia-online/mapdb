@@ -1,0 +1,33 @@
+{
+  "checksum": "4f863983775360d9042417b2e5ed968d",
+  "room": {
+    "id": 33109,
+    "title": [
+      "[Lower Deck, Bow]"
+    ],
+    "description": [
+      "Rope-coiled rungs driven into the port and starboard sides near their convergence form a ladder of sorts, allowing quick travel between decks.  A bucket with a mop in it sits in a corner, ready for use on the scuffed pine floor.  Hanging next to a port side door is a large starfish, and nailed next to starboard side door is a lobster claw."
+    ],
+    "paths": [
+      "Obvious exits: south, up, down"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33103": "up",
+      "33110": "go starboard door",
+      "33111": "go port door",
+      "33112": "down",
+      "33114": "south"
+    },
+    "timeto": {
+      "33103": 0.2,
+      "33110": 0.2,
+      "33111": 0.2,
+      "33112": 0.2,
+      "33114": 0.2
+    },
+    "uid": [
+      7134154
+    ]
+  }
+}

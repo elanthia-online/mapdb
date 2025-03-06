@@ -1,0 +1,42 @@
+{
+  "checksum": "efe6eb00cc36351e347579c59ccc2ff5",
+  "room": {
+    "id": 13897,
+    "title": [
+      "[Hearthstone, Pub]"
+    ],
+    "description": [
+      "Quieter than its neighbor to the west, the pub is filled with comfortable oak tables and chairs.  Muted moonlight from a large leaded glass window on the north wall highlights the gleam of polished oak flooring.  Deep green, plastered walls provide a backdrop for several murals depicting life in a country village.  A large fireplace on the western wall promises warmth on the chilliest of winter nights.",
+      "Quieter than its neighbor to the west, the pub is filled with comfortable oak tables and chairs.  Muted light from a large leaded glass window on the north wall highlights the gleam of polished oak flooring.  Deep green, plastered walls provide a backdrop for several murals depicting life in a country village.  A large fireplace on the western wall promises warmth on the chilliest of winter nights."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13500": "out",
+      "14684": "west",
+      "14688": "go door"
+    },
+    "timeto": {
+      "13500": 0.2,
+      "14684": 0.2,
+      "14688": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397008
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      424,
+      477,
+      491,
+      521
+    ]
+  }
+}

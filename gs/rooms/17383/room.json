@@ -1,0 +1,29 @@
+{
+  "checksum": "239e6c8e8e8c297d534ac39ba69a2ca9",
+  "room": {
+    "id": 17383,
+    "title": [
+      "[Mikare's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a dark and light oak ceiling, a tattered merchant permit hangs on one of the refined oak-paneled walls.  A Vornavian silk-covered table and a Vornavian silk-lined display case sit in opposite corners while a woven Vornavian silk rug rests on a varnished dark oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9010": "out",
+      "17384": "northwest",
+      "17385": "east"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "17384": 0.2,
+      "17385": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

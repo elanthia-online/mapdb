@@ -1,0 +1,38 @@
+{
+  "checksum": "c54641672a7c3fb9fb82fc61f50a70f1",
+  "room": {
+    "id": 110,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "The perforated floor in this hidden chamber serves to separate the sand from anything else that may have fallen through the trap above.  The light is dim and the air is choked with slowly settling dust."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "111": "south",
+      "145": "northeast"
+    },
+    "timeto": {
+      "111": 0.2,
+      "145": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300032
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      502,
+      547,
+      512,
+      557
+    ]
+  }
+}

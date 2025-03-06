@@ -1,0 +1,29 @@
+{
+  "checksum": "360fbf3d87eeb2c7754934479e90fead",
+  "room": {
+    "id": 34411,
+    "title": [
+      "[Bard Guild, Upstairs Hallway]"
+    ],
+    "description": [
+      "Placed under the large, open window, a small cushioned teakwood bench looks out over the lush green garden below.  A thick crimson carpet rests before a teak-trimmed arch, its silk drapes caught by a gentle jungle breeze.  Off to the side, a translucent crystal flute ringed with bands of white gold rests protected inside a gold-trimmed polished glass case upon a gold-flecked ivory marble stand."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "34410": "west",
+      "34412": "east",
+      "34414": "go arch"
+    },
+    "timeto": {
+      "34410": 0.2,
+      "34412": 0.2,
+      "34414": 0.2
+    },
+    "uid": [
+      289121
+    ]
+  }
+}

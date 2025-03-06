@@ -1,0 +1,42 @@
+{
+  "checksum": "472b3f604fa5cd9965c2564868a557af",
+  "room": {
+    "id": 5216,
+    "title": [
+      "[Vornavian Coast, South Beach]"
+    ],
+    "description": [
+      "The rock formations on the beach grow larger, and form a maze to walk through on this section of beach.  The shallow surf pours in around the rocks here, pushed in by the tide, but the force of the waves is spent on the rocks, leaving only foam-covered, rushing sea water."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "5215": "north",
+      "5217": "south"
+    },
+    "timeto": {
+      "5215": 0.2,
+      "5217": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "meta:forage-sensed",
+      "broken twig",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202402
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      334,
+      661,
+      344,
+      671
+    ]
+  }
+}

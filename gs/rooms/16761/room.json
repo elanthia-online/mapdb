@@ -1,0 +1,40 @@
+{
+  "checksum": "088586236e8e034a59c19cf45fccb07c",
+  "room": {
+    "id": 16761,
+    "title": [
+      "[Temple Wyneb, Tanthuz]"
+    ],
+    "description": [
+      "The unfinished nature of this room sets it apart from all the rest.  Scaffolding covers one rough marble wall, still awaiting use.  One can only guess at the fate of the artist and of the others involved in the construction of this vast temple."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16760": "west",
+      "16762": "north",
+      "16775": "east"
+    },
+    "timeto": {
+      "16760": 0.2,
+      "16762": 0.2,
+      "16775": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300070
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      690,
+      758,
+      698,
+      766
+    ]
+  }
+}

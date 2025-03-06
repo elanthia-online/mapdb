@@ -1,0 +1,41 @@
+{
+  "checksum": "9ba7dc30a103b0e0a4c36a75d75ad249",
+  "room": {
+    "id": 12403,
+    "title": [
+      "[Pig Puddle Lane, Alley]"
+    ],
+    "description": [
+      "This narrow lane is more an alley, closed in by two and three story squats bunched together on both of its sides.  The stinking puddles of filth on the ground look to be mostly rainwater.  Somewhere on a rooftop above you, something chitters and scrambles about."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12402": "west",
+      "12404": "east"
+    },
+    "timeto": {
+      "12402": 0.2,
+      "12404": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703313
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      641,
+      906,
+      659,
+      924
+    ]
+  }
+}

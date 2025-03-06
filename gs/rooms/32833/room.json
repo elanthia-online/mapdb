@@ -1,0 +1,44 @@
+{
+  "checksum": "b350fce426f9e3bf5e49d2d94439ba85",
+  "room": {
+    "id": 32833,
+    "title": [
+      "[Dead End]"
+    ],
+    "description": [
+      "It is so dark the immediate surroundings are impossible to see.  The walls are rough with the sharp jagged protrusions one would find in the beginning stages of a tunnel being dug.  However cobwebs and dust belie the age of the crude passage.  Feeling around the unfinished tunnel walls reveals no obvious exits."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9408": "/rooms/32833/wayto/stringproc-9408.rb",
+      "32832": "north"
+    },
+    "timeto": {
+      "9408": 3.2,
+      "32832": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4490013
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "fdd2696a4f4bd1f0c5000fe6c69e4af0",
+  "room": {
+    "id": 2282,
+    "title": [
+      "[Abandoned Mine]"
+    ],
+    "description": [
+      "The passage here is narrow, and care must be taken to avoid the sharp outcroppings jutting from the abrasive walls.  Despite the cramped space, the cargo railway continues on in both directions unimpeded.  To the east, a faintly flickering light can be seen further along the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Abandoned Mine",
+    "wayto": {
+      "2275": "southwest",
+      "2280": "east"
+    },
+    "timeto": {
+      "2275": 0.2,
+      "2280": 0.2
+    },
+    "tags": [
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "daggerstalk mushroom",
+      "withered black mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "genkew mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3005022
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      693,
+      1027,
+      703,
+      1037
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "b785bfdffeb4319b983236a94a8d070c",
+  "room": {
+    "id": 30799,
+    "title": [
+      "[Enemy Ship, Helm]"
+    ],
+    "description": [
+      "Bars for a capstan are stacked neatly alongside heaps of coiled rope ready to be wound around its wooden drum and to the anchor beneath the ship.  Atop a small platform, a wheel takes pride of place at the ships helm below the mizzenmast, just a stones throw away from a wooden door leading to the Captains Quarters."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "30798": "east",
+      "30800": "go door"
+    },
+    "timeto": {
+      "30798": 0.2,
+      "30800": 0.2
+    },
+    "tags": [
+      "enemy galleon",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120002,
+      7120014,
+      7120026,
+      7120038,
+      7120050,
+      7120062,
+      7120074
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      764,
+      724,
+      778,
+      738
+    ]
+  }
+}

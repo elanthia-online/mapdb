@@ -1,0 +1,33 @@
+{
+  "checksum": "909e02f29ed18e6744a648caad5ed69f",
+  "room": {
+    "id": 31629,
+    "title": [
+      "[The Haunting Sphere, Entry]"
+    ],
+    "description": [
+      "Creeping vines of blackened ivy engulf the walls of the small shop, the tendrils wrapped tightly along the exposed wooden crossbeams, spilling foliage across the velvet-draped glass counter in the center of the room.  Vellum-cut lanterns of glazed parchment cast uneven shadows across the rune-etched floor, exposing the circular patterns inscribed in faded ebon chalk.  Various sealed glass jars line the back wall, filled with macabre oddities that float suspended in the luminescent liquid."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31559": "out",
+      "31752": "north"
+    },
+    "timeto": {
+      "31559": 0.2,
+      "31752": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "alchemist"
+    ],
+    "uid": [
+      8084056
+    ]
+  }
+}

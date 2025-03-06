@@ -1,0 +1,27 @@
+{
+  "checksum": "8769bbb71b00bfd1cf09d3dfd844d635",
+  "room": {
+    "id": 21111,
+    "title": [
+      "[Monastery, Ruined Hall]"
+    ],
+    "description": [
+      "The most prominent thing about this room is the lack of any sturdy overhead protection due to collapsed stone walls and a falling archway.  A finely thatched roof makes for temporary protection from the weather, though a heavy storm would threaten its stability.  This portion of the library has been cleared of all books and shelving, though stone desks and wooden chairs are scattered about the room."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21108": "north",
+      "21112": "south"
+    },
+    "timeto": {
+      "21108": 0.2,
+      "21112": 0.2
+    },
+    "uid": [
+      3214053
+    ]
+  }
+}

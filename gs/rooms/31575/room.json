@@ -1,0 +1,33 @@
+{
+  "checksum": "949d1ca82519f3357dd5023304a7de04",
+  "room": {
+    "id": 31575,
+    "title": [
+      "[Gavelsdown Hall, Hallway]"
+    ],
+    "description": [
+      "Carved of alabaster and onyx, a pair of elegant statues flanks a flight of broad mahogany stairs, their arms raised above their head as they hold frosted orbs aloft.  Ochre fleur-de-lis patterns decorate the burgundy rug that covered the floorboards, while matching velvet swatches cover the walls.  Standing opposite the stairs are a set of polished double doors."
+    ],
+    "paths": [
+      "Obvious exits: none",
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "33980": "go stairs",
+      "33981": "go doors"
+    },
+    "timeto": {
+      "33980": 0.2,
+      "33981": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084016
+    ]
+  }
+}

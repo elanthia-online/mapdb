@@ -1,0 +1,32 @@
+{
+  "checksum": "df0d465e7ce66939d26ff68236bc7081",
+  "room": {
+    "id": 10074,
+    "title": [
+      "[Sylvarraend Bowyer Supplies]"
+    ],
+    "description": [
+      "The wooden walls have been sanded smooth, but left unvarnished, creating a rustic look.  Bows of various types, some appearing to be nearly antiques, hang from the walls.  The flames flickering in the small fireplace cast a yellow-orange glow across the smooth maple planked flooring."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "10073": "out",
+      "30714": "/rooms/10074/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "10073": 0.2,
+      "30714": "/rooms/10074/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin guide fletcher",
+      "urchin-access"
+    ],
+    "uid": [
+      13051010
+    ]
+  }
+}

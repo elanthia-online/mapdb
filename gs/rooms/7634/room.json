@@ -1,0 +1,43 @@
+{
+  "checksum": "af85a7f28b1d807eef95e0f1c5df542a",
+  "room": {
+    "id": 7634,
+    "title": [
+      "[Beach Area, Tide Pools]"
+    ],
+    "description": [
+      "Here, at the bottom of the rocky slope, you stand along the edge of the pool itself.  The far end opens out to the sea and unknown depths.  The only way out is back up the slope behind you, as even with power to walk on water, the pounding surf a few yards out would make short work of any such attempt.  As you lean against a worn boulder to rest a moment, you notice an odd smell all around the area.  Further examining of the rocks shows a large smudge of some black viscous goo that stains your fingers."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "7633": "up",
+      "7651": "go boulder"
+    },
+    "timeto": {
+      "7633": 0.2,
+      "7651": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "broken twig",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84304
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      547,
+      611,
+      557,
+      621
+    ]
+  }
+}

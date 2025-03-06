@@ -1,0 +1,43 @@
+{
+  "checksum": "47147cc878694ce2e34d9a3dfcce80ed",
+  "room": {
+    "id": 3842,
+    "title": [
+      "[Cobblestone Path]"
+    ],
+    "description": [
+      "The cobblestone path narrows slightly as the sidewalk becomes wider, creating better access for the pedestrian.  Houses and cottages dot the areas, many of them nondescript and rather ordinary.  One particular cottage stands out from the rest because of the driftwood gate that has a flower painted into its face.  A large stone wall covered with climbing ivy is fitted with a white picket gate set before a pathway that leads to the west, the moonlight causing the ivy to pale to a greyish-green."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12299": "east",
+      "17519": "go picket gate",
+      "18234": "go gate"
+    },
+    "timeto": {
+      "12299": 0.2,
+      "17519": 0.2,
+      "18234": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201049
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2071,
+      1319,
+      2107,
+      1358
+    ]
+  }
+}

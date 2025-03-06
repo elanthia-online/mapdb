@@ -1,0 +1,27 @@
+{
+  "checksum": "55c5397cac2c03700fab33cce894dc40",
+  "room": {
+    "id": 14185,
+    "title": [
+      "[Temple of Lorminstra, Hallway]"
+    ],
+    "description": [
+      "Even more dimly lit than the temple's main hallway, this narrow passageway is clearly not intended for use by the public."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14183": "go door",
+      "14199": "southeast"
+    },
+    "timeto": {
+      "14183": 0.2,
+      "14199": 0.2
+    },
+    "uid": [
+      4742024
+    ]
+  }
+}

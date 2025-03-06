@@ -1,0 +1,38 @@
+{
+  "checksum": "f215320af347ca57c11ac91136b2894e",
+  "room": {
+    "id": 16773,
+    "title": [
+      "[Temple Wyneb, Effluentorium]"
+    ],
+    "description": [
+      "A slight curve in the tunnel brings the water straight across the floor until it hits the wall on the opposite side and unwillingly shifts its course.  The ground is slippery and traversing it requires attention and care."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16772": "north",
+      "16774": "southeast"
+    },
+    "timeto": {
+      "16772": 0.2,
+      "16774": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300052
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      690,
+      655,
+      698,
+      663
+    ]
+  }
+}

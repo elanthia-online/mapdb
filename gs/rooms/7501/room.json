@@ -1,0 +1,53 @@
+{
+  "checksum": "5ba94c8a32985d6e7226e7337702880c",
+  "room": {
+    "id": 7501,
+    "title": [
+      "[Wehnimer's, Tunnel]"
+    ],
+    "description": [
+      "You are on a broad stone landing, with a series of wedge-shaped stone stairs fanning out before you.  As you look down, they are swallowed up by increasing darkness.  Two torches in crude iron sconces flicker off the clammy walls, casting a harsh, unrelenting light that illuminates a trapdoor just within reach above your head."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1248": "go trapdoor",
+      "7500": "down"
+    },
+    "timeto": {
+      "1248": 0.2,
+      "7500": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "ayana'al leaf",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:nomagic"
+    ],
+    "uid": [
+      46005
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      927,
+      860,
+      937,
+      870
+    ]
+  }
+}

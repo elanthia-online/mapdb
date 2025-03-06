@@ -1,0 +1,40 @@
+{
+  "checksum": "06d2aa279cda4c620cca3cd1fe6d6e38",
+  "room": {
+    "id": 657,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "A slight bend in the road reveals a long section of farmland to the west.  The fields flank the road on the north and south, with crops ranging from wheat, to corn, to a mix of unrecognizable vegetables.  The land here appears rich and vibrant."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "656": "west",
+      "658": "southeast"
+    },
+    "timeto": {
+      "656": 0.2,
+      "658": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049013
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      415,
+      595,
+      425,
+      605
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "366dc12cf6230588d8f33b0c244856f8",
+  "room": {
+    "id": 664,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The winding hills give way to an advancing forest off to the northwest, with the road cutting through the middle like a carving knife.  Small game trails crisscross the fields nearby, entering and exiting the road itself only to appear again on the other side."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "663": "northwest",
+      "665": "southeast"
+    },
+    "timeto": {
+      "663": 0.2,
+      "665": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049020
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      539,
+      684,
+      549,
+      694
+    ]
+  }
+}

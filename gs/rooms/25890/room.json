@@ -1,0 +1,34 @@
+{
+  "checksum": "523dd6e8e1775f85f28e28dcfb63838d",
+  "room": {
+    "id": 25890,
+    "title": [
+      "[Shrine of Leya, Secret Passage]"
+    ],
+    "description": [
+      "Clay and shale walls glisten with a slight, damp trickle from the verdant forest above, sproutings of tangled roots run along the sides like skeletal fingers.  The gently sloping dirt floor leads down a torch-lit passage towards a flickering light glowing brightly at the far end.  Along the east wall, a long tapestry has been draped, illumination showing through where the edges warp and bow out."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the distant forest",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8148": "/rooms/25890/wayto/stringproc-8148.rb",
+      "25889": "down",
+      "25891": "go tapestry"
+    },
+    "timeto": {
+      "8148": 0.3,
+      "25889": 0.2,
+      "25891": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      386073
+    ]
+  }
+}

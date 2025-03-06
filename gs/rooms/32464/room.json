@@ -1,0 +1,37 @@
+{
+  "checksum": "fa7916f56f6edb0d8ffeb4eddaed3e56",
+  "room": {
+    "id": 32464,
+    "title": [
+      "[Moonsedge Castle, Chapel]"
+    ],
+    "description": [
+      "Twin candelabra to either side of the jeweled archway illuminate the chapel.  Ceiling murals display scenes of winter and snow-swept landscapes, broken into vignettes by an impressive array of high arches.  An alcove along the northern wall is given over to an immense organ whose brass pipes occupy the surrounding walls.  Between pews, a center aisle lushly carpeted in scarlet and charcoal proceeds eastward and up to a colossal statue of white marble."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32463": "go arch",
+      "32484": "east"
+    },
+    "timeto": {
+      "32463": 0.2,
+      "32484": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577213
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1229,
+      645,
+      1253,
+      669
+    ]
+  }
+}

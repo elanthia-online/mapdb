@@ -1,0 +1,42 @@
+{
+  "checksum": "552b9e2919e9bbe2d47e69bb35ea58ee",
+  "room": {
+    "id": 7031,
+    "title": [
+      "[Castle Darkstone, Gatehouse]"
+    ],
+    "description": [
+      "You are standing between the gate towers in front of a massive iron-bound door.  This door was obviously of first-rate construction as it has taken the passage of time far better than the rest of the castle.  Despite the flakes of rust on its hinges and fittings, the door remains solid."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7025": "out",
+      "7032": "go door"
+    },
+    "timeto": {
+      "7025": 0.2,
+      "7032": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45120
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      569,
+      509,
+      579,
+      519
+    ]
+  }
+}

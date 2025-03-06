@@ -1,0 +1,41 @@
+{
+  "checksum": "2ec723ade5097cd5784c61629b3fcc22",
+  "room": {
+    "id": 2779,
+    "title": [
+      "[Pinefar, General Store]"
+    ],
+    "description": [
+      "This is a warm domain of polished oak surfaces and clumps of sweet-smelling herbs hanging from low rafters.  Another of the generous hearths covers one wall, with a low sales-counter opposite it.  Shelves stretch from floor to ceiling behind the counter, filled with a variety of merchandise, and pastries line the counter-top in a tempting display."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "2777": "west",
+      "2780": "south",
+      "2781": "go door"
+    },
+    "timeto": {
+      "2777": 0.2,
+      "2780": 0.2,
+      "2781": 0.2
+    },
+    "tags": [
+      "general store",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4564005
+    ],
+    "image": "imt-PinefarTradingPost-1615312810.png",
+    "image_coords": [
+      384,
+      279,
+      476,
+      335
+    ]
+  }
+}

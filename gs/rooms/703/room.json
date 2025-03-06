@@ -1,0 +1,49 @@
+{
+  "checksum": "8c40cd8cf5b6e538edc2b76db350df96",
+  "room": {
+    "id": 703,
+    "title": [
+      "[Ta'Illistim, Sylvar Wey]"
+    ],
+    "description": [
+      "The wey is much less occupied here, its only tenant being a small stone cottage set far back from the street.  The cottage's diamond-paned glaesine windows glow with a warm amber hue in the dark night.  Columbine covers the ironwork fence surrounding the cottage, its blooms barely visible in the quicksilver moonlight.",
+      "The wey is much less occupied here, its only tenant being a small stone cottage set far back from the street.  Columbine covers the ironwork fence surrounding the cottage, its deep pink blooms nodding drowsily in the sunlight.",
+      "The wey is barely built up along this stretch, its only tenant being a small stone house set far back from the street.  Columbine covers the ironwork fence surrounding the building, its white blooms open wide to receive the evening.  Meandering away, a cobbled walk is marked with lit silver lanterns.",
+      "The wey is barely built up along this stretch, its only tenant being a small stone house set far back from the street.  Columbine covers the ironwork fence surrounding the building, its white blooms nodding drowsily.  Meandering away, a cobbled walk is marked with unlit silver lanterns."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "702": "southwest",
+      "704": "north",
+      "13323": "go walk",
+      "30714": "/rooms/703/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "702": 0.2,
+      "704": 0.2,
+      "13323": 0.2,
+      "30714": "/rooms/703/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100063
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1258,
+      191,
+      1281,
+      212
+    ]
+  }
+}

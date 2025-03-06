@@ -1,0 +1,43 @@
+{
+  "checksum": "b2b632c18e34b0a0a0e863e58359483e",
+  "room": {
+    "id": 8616,
+    "title": [
+      "[Blacksmith, Forge]"
+    ],
+    "description": [
+      "Iron Jack's boasts four well-sized forges, three of which are currently in operation.  Several new apprentices are gathered around one, learning the finer points of Smithery, while the blacksmith's eldest son is crafting a large sword at another.  At the third forge, two older apprentices are working on shorter blades suitable for knives."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8615": "south",
+      "8617": "north",
+      "30708": "/rooms/8616/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "8615": 0.2,
+      "8617": 0.2,
+      "30708": "/rooms/8616/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide blacksmith",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3020
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      505,
+      463,
+      514,
+      473
+    ]
+  }
+}

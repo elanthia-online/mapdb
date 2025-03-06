@@ -1,0 +1,41 @@
+{
+  "checksum": "81260fccb4431ae261bbf8f03919eafd",
+  "room": {
+    "id": 19534,
+    "title": [
+      "[Empath Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "19512": "east",
+      "19535": "north",
+      "30542": "ask genhal about train alchemy"
+    },
+    "timeto": {
+      "19512": 0.2,
+      "19535": 0.2,
+      "30542": 0.2
+    },
+    "tags": [
+      "empath alchemy masters",
+      "empath guild masters"
+    ],
+    "uid": [
+      655025
+    ],
+    "image": "ti-empaths_guild-1638321977.jpg",
+    "image_coords": [
+      1,
+      528,
+      59,
+      584
+    ],
+    "check_location": true
+  }
+}

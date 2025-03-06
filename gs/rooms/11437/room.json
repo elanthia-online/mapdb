@@ -1,0 +1,44 @@
+{
+  "checksum": "c9fb33d2e6dca6892d1d050e0b8b7e10",
+  "room": {
+    "id": 11437,
+    "title": [
+      "[Tempest River, Bay Mouth]"
+    ],
+    "description": [
+      "The cliffs of the mainland rise steeply from the green swells of the bay.  From this angle it's impossible to see what's on top of the cliffs.  Clumps of scrub brush cling tenaciously to the sides of the cliff.  The wide mouth of the north fork of the Tempest River lies to the southeast.  To the west is Maelstrom Bay, and beyond it lies the great western sea.  The water, though deep, is clear enough that the gold-colored sand that forms the floor of the bay is visible."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, west, northwest"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11436": "/rooms/11437/wayto/stringproc-11436.rb",
+      "11438": "/rooms/11437/wayto/stringproc-11438.rb",
+      "11448": "/rooms/11437/wayto/stringproc-11448.rb",
+      "11449": "/rooms/11437/wayto/stringproc-11449.rb"
+    },
+    "timeto": {
+      "11436": 2,
+      "11438": 2,
+      "11448": 2,
+      "11449": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304014
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      756,
+      1314,
+      766,
+      1324
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "7ceea3205eee5cf65513fdf78cdb75e0",
+  "room": {
+    "id": 8484,
+    "title": [
+      "[Temple, Priestesses' Chambers]"
+    ],
+    "description": [
+      "The twisted wrecks of a half dozen bedframes fill the room.  More disturbing is the mangled dress form in the corner, torso shredded in such a way as to suggest a living person's body.  A few cobwebs hang from the rafters, although you can see no sign of the spiders that made them."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Temple of Love",
+    "wayto": {
+      "8483": "south",
+      "8485": "go doorway",
+      "8487": "go wood door"
+    },
+    "timeto": {
+      "8483": 0.2,
+      "8485": 0.2,
+      "8487": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2155034
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      136,
+      727,
+      146,
+      737
+    ]
+  }
+}

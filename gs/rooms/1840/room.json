@@ -1,0 +1,50 @@
+{
+  "checksum": "bfa33c69449958cd37981f6ce5f4c777",
+  "room": {
+    "id": 1840,
+    "title": [
+      "[Ghorsa Isle, Plaza Northeast]"
+    ],
+    "description": [
+      "The burbling of the river and the buzz of the crowd blend together, and you can hear little else for the din.  A stout stone bridge spans the river Muagh, crossing east toward the commercial district.  Down by the river's edge squats a fat old dwarf.  He sits and stares into the water, mumbling to no one in particular."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1839": "go bridge",
+      "1841": "west",
+      "1843": "southwest",
+      "1845": "south",
+      "20775": "go path",
+      "30715": "/rooms/1840/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1839": 0.2,
+      "1841": 0.2,
+      "1843": 0.2,
+      "1845": 0.2,
+      "20775": "/rooms/1840/timeto/stringproc-20775.rb",
+      "30715": "/rooms/1840/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001004
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      768,
+      657,
+      804,
+      693
+    ]
+  }
+}

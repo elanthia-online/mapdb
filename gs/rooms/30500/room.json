@@ -1,0 +1,54 @@
+{
+  "checksum": "6d242833d8450002589d9b2f92e80461",
+  "room": {
+    "id": 30500,
+    "title": [
+      "[Mistydeep, Swimming Hole]"
+    ],
+    "description": [
+      "Jagged cliffs melt into old-growth forest to the west, where tumbled boulders line the shore and jut their smooth-worn heads above the surface of the water.  The bank drops off sharply towards the east, where the swimming hole is at its broadest and deepest.  Not to be contained, the Mistydeep River spills out of its rocky confines, gamboling over natural stone terraces to flow in a southerly direction.  From nearby, the thunder of a waterfall can be heard."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "13960": "/rooms/30500/wayto/stringproc-13960.rb",
+      "25622": "/rooms/30500/wayto/stringproc-25622.rb",
+      "25623": "/rooms/30500/wayto/stringproc-25623.rb",
+      "30501": "swim east",
+      "30502": "swim northeast"
+    },
+    "timeto": {
+      "13960": 0.2,
+      "25622": 0.2,
+      "25623": 0.2,
+      "30501": 0.2,
+      "30502": 0.2
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117002
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1083,
+      571,
+      1100,
+      588
+    ]
+  }
+}

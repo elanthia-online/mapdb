@@ -1,0 +1,34 @@
+{
+  "checksum": "9d9eb2d9f5f05efe774b7c0909605cdd",
+  "room": {
+    "id": 6359,
+    "title": [
+      "[Henty's Depot, Facades]"
+    ],
+    "description": [
+      "An assortment of tables and counters have been arranged in orderly rows based on size.  Entrepreneurs shuffle around the bulky merchandise in search of a piece to fit their invidual needs.  The scratched wooden planks of the floor bear the scars and wear of the store's constant foot traffic."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6357": "west",
+      "6360": "east",
+      "6361": "south"
+    },
+    "timeto": {
+      "6357": 0.2,
+      "6360": 0.2,
+      "6361": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      731041
+    ]
+  }
+}

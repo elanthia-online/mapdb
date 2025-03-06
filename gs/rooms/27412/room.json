@@ -1,0 +1,24 @@
+{
+  "checksum": "49c67caac6ba90b8bb2e4c2a4e22e3fa",
+  "room": {
+    "id": 27412,
+    "title": [
+      "[Feets of Strength, Shop]"
+    ],
+    "description": [
+      "Pink canvas flaps line this room, making it a flimsy so-called shop littered with empty liquor barrels containing wares.  The dusty floor has a worn path leading from the entrance to the performance area in the back."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "27404": "out",
+      "27413": "go flap"
+    },
+    "timeto": {
+      "27404": 0.2,
+      "27413": 0.2
+    }
+  }
+}

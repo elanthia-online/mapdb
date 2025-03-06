@@ -1,0 +1,24 @@
+{
+  "checksum": "0d58b46b1f2f4ee892caee5f6edf3f7d",
+  "room": {
+    "id": 19105,
+    "title": [
+      "[Swords 'n Boards]"
+    ],
+    "description": [
+      "Cramped quarters only allow for sparse furniture.  A narrow wooden table stands near a solid black wooden door, its surface covered with small weaponry.  Near the back, a rickety ladder leads through a rectangular hole in the ceiling.  Partially falling apart with rot, a long water-damaged rack encompasses one full wall and houses shields of various sizes and styles."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19104": "go door",
+      "23468": "go ladder"
+    },
+    "timeto": {
+      "19104": 0.2,
+      "23468": 0.2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "8f4d537fcfdb0c7b2a89f273ad42dd30",
+  "room": {
+    "id": 32077,
+    "title": [
+      "[Gleyminn Anni River, Bridge]"
+    ],
+    "description": [
+      "The collapse of an ancient black willow provides a makeshift bridge across the narrow, dark water for the wildlife inhabiting the riverbanks.  The boughs of the great tree stretch out lazily in the direction of the current, its branches netting a collection of fallen leaves and broken twigs that have floated downstream.  Beneath the fallen tree, a lantern hangs from a rusty nail as a warning of the low clearance."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31589": "/rooms/32077/wayto/stringproc-31589.rb",
+      "31818": "/rooms/32077/wayto/stringproc-31818.rb"
+    },
+    "timeto": {
+      "31589": 0.2,
+      "31818": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083391
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1021,
+      607,
+      1044,
+      628
+    ]
+  }
+}

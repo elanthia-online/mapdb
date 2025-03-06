@@ -1,0 +1,47 @@
+{
+  "checksum": "642dff378dc4281770dc81b9535ea525",
+  "room": {
+    "id": 1520,
+    "title": [
+      "[Solhaven, Limpet Trail]"
+    ],
+    "description": [
+      "A solid wall of close-planted evergreens reaches well past the top of the courtyard wall of the manor nearest the corner.  In sharp contrast, the rest of the estates along here have limited themselves to a few widely separated trees growing taller than -- and well away from -- their protective walls."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west",
+      "Obvious paths: east, south, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1500": "northwest",
+      "1521": "east",
+      "1524": "south",
+      "13478": "climb tree",
+      "13479": "go pathway"
+    },
+    "timeto": {
+      "1500": 0.2,
+      "1521": 0.2,
+      "1524": 0.2,
+      "13478": 0.2,
+      "13479": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902046
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1124,
+      1143,
+      1148,
+      1167
+    ]
+  }
+}

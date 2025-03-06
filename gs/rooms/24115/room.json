@@ -1,0 +1,24 @@
+{
+  "checksum": "951d2216d450a9de5a9c6482d871c72d",
+  "room": {
+    "id": 24115,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "A single smoky torch is set on the eastern wall to light the path.  Several bones have been wedged into cracks in the walls, perhaps as an attempt to reinforce them for a bit longer."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24113": "out",
+      "24116": "north"
+    },
+    "timeto": {
+      "24113": 0.2,
+      "24116": 0.2
+    }
+  }
+}

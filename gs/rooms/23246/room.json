@@ -1,0 +1,31 @@
+{
+  "checksum": "6070d1d2369b86945713f811a975870a",
+  "room": {
+    "id": 23246,
+    "title": [
+      "[Alchemist's House, Laboratory]"
+    ],
+    "description": [
+      "The stench of brimstone and sting of ozone hang heavy in the air of the laboratory.  A boiling alembic giving off noxious fumes sits over a brazier on a stained, deal-topped lab table.  Around the equipment are unstoppered vials of brightly colored substances.  It appears the alchemist was called away in mid-experiment."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "1249": "out"
+    },
+    "timeto": {
+      "1249": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5011
+    ]
+  }
+}

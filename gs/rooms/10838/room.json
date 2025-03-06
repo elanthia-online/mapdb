@@ -1,0 +1,99 @@
+{
+  "checksum": "caef3224b70e3dcafdd7a1c623f4d877",
+  "room": {
+    "id": 10838,
+    "title": [
+      "[River's Rest, Underbridge]"
+    ],
+    "description": [
+      "It's shady and cool beneath the drawbridge.  The Tempest River, though swift in the channel, chuckles slowly and cheerfully among the stones and alluvium along the bank.  Reeds, cattails, tall river grasses, and other various weeds flourish in the rich mud and silt.  Set off to the side of the drawbridge is a rickety shack with a cast iron fish set into the ground in front of it.",
+      "It's dark and cool beneath the drawbridge.  The Tempest River, though swift in the channel, chuckles slowly and cheerfully among the stones and alluvium along the bank.  Reeds, cattails, tall river grasses, and other various weeds flourish in the rich mud and silt.  Set off to the side of the drawbridge is a rickety shack with a cast iron fish set into the ground in front of it.",
+      "It's shady and cool beneath the drawbridge.  The Tempest River, though swift in the channel, chuckles slowly and cheerfully among the stones and alluvium along the bank.  Reeds, cattails, tall river grasses, and other various weeds flourish in the rich mud and silt."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "moist",
+    "terrain": "riparian",
+    "wayto": {
+      "250": "/rooms/10838/wayto/stringproc-250.rb",
+      "1870": "/rooms/10838/wayto/stringproc-1870.rb",
+      "10839": "east",
+      "10840": "go weeds",
+      "11756": "/rooms/10838/wayto/stringproc-11756.rb",
+      "29033": "/rooms/10838/wayto/stringproc-29033.rb",
+      "29577": "go grasses",
+      "30711": "/rooms/10838/wayto/stringproc-30711.rb",
+      "31493": "/rooms/10838/wayto/stringproc-31493.rb",
+      "32372": "/rooms/10838/wayto/stringproc-32372.rb",
+      "32928": "/rooms/10838/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "250": "/rooms/10838/timeto/stringproc-250.rb",
+      "1870": "/rooms/10838/timeto/stringproc-1870.rb",
+      "10839": 0.2,
+      "10840": 0.2,
+      "11756": "/rooms/10838/timeto/stringproc-11756.rb",
+      "29033": "/rooms/10838/timeto/stringproc-29033.rb",
+      "29577": 0.2,
+      "30711": "/rooms/10838/timeto/stringproc-30711.rb",
+      "31493": "/rooms/10838/timeto/stringproc-31493.rb",
+      "32372": "/rooms/10838/timeto/stringproc-32372.rb",
+      "32928": "/rooms/10838/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "stalk of bluebells",
+      "water chestnut",
+      "striped heart mushroom",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "stalk of cattail",
+      "wild chokecherry",
+      "bright red cranberry",
+      "kylan berry",
+      "murdroot",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "silver-cost:250:25000",
+      "silver-cost:1870:25000",
+      "silver-cost:29033:25000",
+      "portmaster",
+      "silver-cost:31493:35000",
+      "urchin-access",
+      "urchin guide docks",
+      "silver-cost:11756:12500",
+      "silver-cost:32372:12500",
+      "silver-cost:32928:25000",
+      "talneo root",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "bright orange",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101030
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2342,
+      1242,
+      2381,
+      1281
+    ]
+  }
+}

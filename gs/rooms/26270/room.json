@@ -1,0 +1,31 @@
+{
+  "checksum": "17f368980e6b5cad68318c64e2ab41a6",
+  "room": {
+    "id": 26270,
+    "title": [
+      "[Banshee Tower, Fifth Floor]"
+    ],
+    "description": [
+      "Strange, glowing white orbs move through the air, tiny black forms shifting above inside of them.  The piercing shriek of a banshee periodically echoes through the chamber."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26269": "south",
+      "26271": "north"
+    },
+    "timeto": {
+      "26269": 0.2,
+      "26271": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      170,
+      128,
+      197,
+      154
+    ]
+  }
+}

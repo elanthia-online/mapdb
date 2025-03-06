@@ -1,0 +1,44 @@
+{
+  "checksum": "1fceb2a8b31c4089ee9e7e303b815483",
+  "room": {
+    "id": 2202,
+    "title": [
+      "[Eye of V'Tull, Inner Circle]"
+    ],
+    "description": [
+      "The main passage heads north here, while a smaller one winds around a large pillar of rock to the northeast.  The walls are covered with small crystals that reflect a little light through the ash filled air."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2200": "north",
+      "2201": "northwest",
+      "2203": "southwest"
+    },
+    "timeto": {
+      "2200": 0.2,
+      "2201": 0.2,
+      "2203": 0.2
+    },
+    "tags": [
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061009
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      848,
+      734,
+      858,
+      744
+    ]
+  }
+}

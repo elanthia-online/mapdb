@@ -1,0 +1,47 @@
+{
+  "checksum": "f3e3e40156979ce014dc0d2ceea374bf",
+  "room": {
+    "id": 16800,
+    "title": [
+      "[Hall of the Dead, Debtors Vault]"
+    ],
+    "description": [
+      "The crypts, though not carved neatly are exceedingly large and spacious.  At first you think this might be the room used to house giantmen, but looking inside the hollowed out wall you find out the truth.  To save time and money many bodies are now stuffed together as if it were a mass burial.  Anything of value has been taken from the poor dead."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16799": "west",
+      "16801": "north"
+    },
+    "timeto": {
+      "16799": 0.2,
+      "16801": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138103
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      967,
+      890,
+      975,
+      898
+    ]
+  }
+}

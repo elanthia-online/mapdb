@@ -1,0 +1,40 @@
+{
+  "checksum": "7cf547e4ae0c75a3bbd5414bda454867",
+  "room": {
+    "id": 8821,
+    "title": [
+      "[The Merchants' Emporium]"
+    ],
+    "description": [
+      "Customers wander through this room, headed into and out of the various shops.  Lazing against a nearby wall, a merchant takes a break from the bustle of his work."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "243": "out",
+      "8822": "go haon door",
+      "8823": "go thanot door",
+      "8825": "go maoral door",
+      "8828": "go wood door",
+      "8829": "go glaes door"
+    },
+    "timeto": {
+      "243": 0.2,
+      "8822": 0.2,
+      "8823": 0.2,
+      "8825": 0.2,
+      "8828": 0.2,
+      "8829": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3207
+    ]
+  }
+}

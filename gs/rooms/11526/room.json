@@ -1,0 +1,38 @@
+{
+  "checksum": "79c06d41daab7bf1fa1a756ca36c7d9a",
+  "room": {
+    "id": 11526,
+    "title": [
+      "[Ruined Dungeon, Stairway]"
+    ],
+    "description": [
+      "A rough stone stairway has been carved out of the limestone that leads up from the watery passageway.  A few steps up, mist-laden spiderwebs hang across the stairwell, their creators long gone from this secluded corridor.  The gentle splashing of water can be heard to the west, carried on a warm, salty breeze."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11518": "up",
+      "11527": "west"
+    },
+    "timeto": {
+      "11518": 0.2,
+      "11527": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305004
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      954,
+      1062,
+      964,
+      1072
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "5960f0d28cc403fecf97c1ccd41f2c82",
+  "room": {
+    "id": 32346,
+    "title": [
+      "[Frostmain Docks, Albatross Pier]",
+      "[Frostmain, Main Pier]"
+    ],
+    "description": [
+      "A spread-winged albatross of carved wood stands guard from one of the nearby pilings.  They flaying of the wind has stripped all but the last hints of painted color from its wings.  Heaped at the bottom of the pilings is a coil of hempen line that is stained and useless, too frayed for any purpose.",
+      "The thoroughfare of the main pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32340": "south",
+      "32345": "north"
+    },
+    "timeto": {
+      "32340": 0.2,
+      "32345": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133004
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1201,
+      527,
+      1247,
+      575
+    ]
+  }
+}

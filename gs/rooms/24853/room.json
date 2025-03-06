@@ -1,0 +1,42 @@
+{
+  "checksum": "f8072f1f35f177b5694d9ade45e2b1ac",
+  "room": {
+    "id": 24853,
+    "title": [
+      "[Krolvin Warship, Brig]"
+    ],
+    "description": [
+      "Grimy copper-banded barrels, dented and scarred from misuse, stand to the side of a series of iron-barred cells.  Each barrel is filled to overflowing with tattered and rotting garments, most of which are so faded that it is hard to discern their original hues.  One barrel lies on its side, pinned between a cell wall and another container, its contents spilled in a heap across the stained decking."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest, west, northwest"
+    ],
+    "location": "somewhere on the Great Western Sea",
+    "wayto": {
+      "18249": "south",
+      "18700": "southwest",
+      "18703": "/rooms/24853/wayto/stringproc-18703.rb",
+      "18706": "west",
+      "18707": "northwest",
+      "18708": "north"
+    },
+    "timeto": {
+      "18249": 0.2,
+      "18700": 0.2,
+      "18703": 0.2,
+      "18706": 0.2,
+      "18707": 0.2,
+      "18708": 0.2
+    },
+    "uid": [
+      4031029
+    ],
+    "image": "quest-troubled_waters.png",
+    "image_coords": [
+      632,
+      401,
+      649,
+      420
+    ]
+  }
+}

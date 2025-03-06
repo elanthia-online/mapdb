@@ -1,0 +1,30 @@
+{
+  "checksum": "fc24d501c4bff51856a6949c8586e01c",
+  "room": {
+    "id": 8620,
+    "title": [
+      "[Ye Old Magick Shoppe]"
+    ],
+    "description": [
+      "This room is dark and filled with the acrid smell of smoke, ozone and brimstone that rises from a glowing black iron brazier before you.  A few stools are grouped around it."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "294": "out",
+      "8621": "west"
+    },
+    "timeto": {
+      "294": 0.2,
+      "8621": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      3010
+    ]
+  }
+}

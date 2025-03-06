@@ -1,0 +1,43 @@
+{
+  "checksum": "cef7eaea62d4321a6879abd4deb8e161",
+  "room": {
+    "id": 14064,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "Bits of rotted tack and harness litter the area around you.  To the north, the castle stables sit in the shadow of the northern walls.  A pair of large barn doors leading into the stable's interior stand open just enough for someone to squeeze by."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14062": "east",
+      "14065": "go doors",
+      "14066": "west"
+    },
+    "timeto": {
+      "14062": 0.2,
+      "14065": 0.2,
+      "14066": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750034
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      734,
+      224,
+      742,
+      232
+    ]
+  }
+}

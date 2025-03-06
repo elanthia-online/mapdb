@@ -1,0 +1,28 @@
+{
+  "checksum": "33b7661df62c67770e08aab5ad6fbd0e",
+  "room": {
+    "id": 13124,
+    "title": [
+      "[Sunfist Outpost, Barracks]"
+    ],
+    "description": [
+      "Copper lanterns, shielded so as not to disturb those that slumber, frame the open door that leads into the corridor.  Several bunkbeds are arranged against the back wall, and the opposite wall houses an alternating pattern of footlockers, with hooks above them, and bookcases.  Many of the bunks are occupied with prone shadowy figures, while others lie empty.",
+      "Sunlight creates pools of light where it streams into the barracks from the open door that leads into the corridor.  Several bunkbeds are arranged against the back wall, and the opposite wall houses an alternating pattern of footlockers, with hooks above them, and bookcases.  Several people wander in and out of the room, their voices jovial as they banter with one another."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "wayto": {
+      "13112": "go door",
+      "13125": "southwest"
+    },
+    "timeto": {
+      "13112": 0.2,
+      "13125": 0.2
+    },
+    "uid": [
+      562020
+    ]
+  }
+}

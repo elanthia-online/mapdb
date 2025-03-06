@@ -1,0 +1,28 @@
+{
+  "checksum": "00c59060df93515e54fa375be6b4ea75",
+  "room": {
+    "id": 4460,
+    "title": [
+      "[The Invar Dog, Entry]"
+    ],
+    "description": [
+      "Some time in the past, this narrow cavern was visited by an industrious dwarf who took his pickaxe to the wall, creating a wider space complete with a stone-hewn bar.  In a nook behind the bar, a dog, fashioned from invar and accompanied by a plaque, watches over the patrons.  Some visitors, especially dwarves, belly up to the bar for a drink, but many others drift to the east, searching for wares."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4459": "out",
+      "4461": "east"
+    },
+    "timeto": {
+      "4459": 0.2,
+      "4461": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

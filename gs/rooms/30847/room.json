@@ -1,0 +1,47 @@
+{
+  "checksum": "4ebe2a02e6b0635b664747e3f3f4e307",
+  "room": {
+    "id": 30847,
+    "title": [
+      "[Atoll, Ivory Path]"
+    ],
+    "description": [
+      "Ivory blocks are stacked up around a grotto to form a provisional wall.  Tall tropical trees with far-reaching fronds offer shade throughout the area.  Dark and ominous, the ocean waters crash against the shore, and jagged rocks break the sea's surface in sharp, pointed clusters.",
+      "Ivory blocks are stacked up around a grotto to form a makeshift wall.  Tall tropical trees with far-reaching fronds offer shade for those nearby, the ocean waters dark and ominous with jagged rocks protruding from the surface."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Atoll",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30846": "northeast",
+      "30848": "go grotto",
+      "30849": "southwest"
+    },
+    "timeto": {
+      "30846": 0.2,
+      "30848": 0.2,
+      "30849": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      7138110
+    ],
+    "image": "kf-atoll-1652294074.jpg",
+    "image_coords": [
+      193,
+      190,
+      223,
+      219
+    ]
+  }
+}

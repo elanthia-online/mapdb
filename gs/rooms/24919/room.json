@@ -1,0 +1,40 @@
+{
+  "checksum": "57467b24eb4a8d506928f4ddbcf0185e",
+  "room": {
+    "id": 24919,
+    "title": [
+      "[Reim Settlement, Village]"
+    ],
+    "description": [
+      "Empty wooden crates and upside down barrels litter the yard of a whitewashed stone tavern with shuttered windows.  At the edge of the lane, long, withered vines cling to an arched trellis over a walkway leading to a bakeshop.  To the east, a plaza spreads out in the middle of the square."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the Settlement of Reim",
+    "wayto": {
+      "24904": "south",
+      "24912": "go plaza",
+      "24930": "go tavern",
+      "24931": "west",
+      "24946": "north"
+    },
+    "timeto": {
+      "24904": 0.2,
+      "24912": 0.2,
+      "24930": 0.2,
+      "24931": 0.2,
+      "24946": 0.2
+    },
+    "uid": [
+      -7105012
+    ],
+    "image": "imt-Reim-1260914759.png",
+    "image_coords": [
+      670,
+      836,
+      684,
+      850
+    ]
+  }
+}

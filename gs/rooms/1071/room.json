@@ -1,0 +1,42 @@
+{
+  "checksum": "dc56ad2c0912e2aac780e60a0f0b120c",
+  "room": {
+    "id": 1071,
+    "title": [
+      "[Rope Ladder]"
+    ],
+    "description": [
+      "Thick mist fills your vision on three sides, while on the fourth the sheer basalt wall of the cliff looms vertical and close.  Sounds become muffled and distorted by the thick, damp air, preventing their location from being ascertained at all.  Nothing moves in the mist or on the cliff face, and the only thing to do is continue to climb, either up through the mist, or down through the mist."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Locksmehr Trail",
+    "climate": "cold, damp",
+    "terrain": "",
+    "wayto": {
+      "1070": "/rooms/1071/wayto/stringproc-1070.rb",
+      "1072": "/rooms/1071/wayto/stringproc-1072.rb"
+    },
+    "timeto": {
+      "1070": 15,
+      "1072": 15
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13001041
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      1247,
+      772,
+      1257,
+      782
+    ]
+  }
+}

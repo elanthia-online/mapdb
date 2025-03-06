@@ -1,0 +1,41 @@
+{
+  "checksum": "343783cad33ff96b2116c30f5bc4d7ac",
+  "room": {
+    "id": 2244,
+    "title": [
+      "[Glaes Vein]"
+    ],
+    "description": [
+      "Tunnels veer off in three directions.  Air currents have quickened, carrying the stink of sulfur and fire.  To the south, the passageway widens, and a cavern is just visible around a bend of the walls.  Opposite that, a tunnel to the north leads into deep shadow, in which no landmarks are visible other than a churned up pile of stone at its mouth to lend hazard to the darkness."
+    ],
+    "paths": [
+      "Obvious exits: north, south, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2243": "northwest",
+      "2245": "south",
+      "2247": "north"
+    },
+    "timeto": {
+      "2243": 0.2,
+      "2245": 0.2,
+      "2247": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051013
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      198,
+      788,
+      206,
+      796
+    ]
+  }
+}

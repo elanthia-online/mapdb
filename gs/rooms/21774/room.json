@@ -1,0 +1,43 @@
+{
+  "checksum": "632d19c30f98a5a4f8ff46b055539a07",
+  "room": {
+    "id": 21774,
+    "title": [
+      "[Phoenix Annex, North Hall]"
+    ],
+    "description": [
+      "Your footsteps are muffled by a long embroidered rug lining this hallway.  A green crystal chandelier hangs from the ceiling, holding several flickering candles."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "21771": "south",
+      "21775": "go modwir door",
+      "21776": "go pinewood door",
+      "21777": "go rosewood door"
+    },
+    "timeto": {
+      "21771": 0.2,
+      "21775": 0.2,
+      "21776": 0.2,
+      "21777": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      103504
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      982,
+      1352,
+      1102,
+      1429
+    ]
+  }
+}

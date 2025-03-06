@@ -1,0 +1,37 @@
+{
+  "checksum": "eebf72148aea73f26bb6adcc63b838ee",
+  "room": {
+    "id": 33444,
+    "title": [
+      "[House Aspis, Hallway]"
+    ],
+    "description": [
+      "You stand in front of the strong room where each member keeps his or her valuables.  A dark opening leads into the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "33443": "east",
+      "33445": "west"
+    },
+    "timeto": {
+      "33443": 0.2,
+      "33445": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102900
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      241,
+      1243,
+      367,
+      1313
+    ]
+  }
+}

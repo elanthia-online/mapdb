@@ -1,0 +1,35 @@
+{
+  "checksum": "687a5556490a2c2f0d8ddb21085dad54",
+  "room": {
+    "id": 2959,
+    "title": [
+      "[Abbey Prioress' Chamber]"
+    ],
+    "description": [
+      "Small as any of the cells in the dorter, the chamber of the abbey's prioress is made brighter by a tall lancet window to the north.  To the east, a broken doorway leads to an even smaller chamber."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2958": "south",
+      "2960": "east"
+    },
+    "timeto": {
+      "2958": 0.2,
+      "2960": 0.2
+    },
+    "tags": [
+      "nedum vereri",
+      "closed"
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      938,
+      684,
+      948,
+      694
+    ]
+  }
+}

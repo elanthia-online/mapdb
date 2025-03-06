@@ -1,0 +1,44 @@
+{
+  "checksum": "b244f8f71358e3d26bdaeae75a353e8f",
+  "room": {
+    "id": 11481,
+    "title": [
+      "[Maelstrom Bay, Coral Reef]"
+    ],
+    "description": [
+      "Barely rising above the surface of the bay, the coral reef offers a slippery foothold.  The reef stretches to the north.  The shells of small crabs and shellfish, cracked and empty, lie scattered about in the nooks and crannies of the reef.  Sea birds screech overhead as they search for food."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "11445": "east",
+      "11480": "north"
+    },
+    "timeto": {
+      "11445": 0.2,
+      "11480": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "meta:forage-sensed",
+      "murdroot",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      304025
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      567,
+      1233,
+      577,
+      1243
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "92b18c69b618ac79997b6d0c444c2761",
+  "room": {
+    "id": 3699,
+    "title": [
+      "[Darkstone, A Dark Tunnel]"
+    ],
+    "description": [
+      "Darkness blankets you like a thick cloak weighing heavily across your shoulders.  Struggling to focus on something, anything, you spot a skeleton partially buried in the mud."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3698": "go panel",
+      "3700": "down"
+    },
+    "timeto": {
+      "3698": 0.2,
+      "3700": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "red trafel mushroom",
+      "white hook mushroom",
+      "massive troll king",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388002
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      488,
+      1161,
+      498,
+      1171
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "456912c5c973e3a04d71c1348f3882e4",
+  "room": {
+    "id": 14610,
+    "title": [
+      "[Manor House, Second Floor]"
+    ],
+    "description": [
+      "The windows along the corridor have all been broken in for some time, the floorboards beneath each of them having warped badly.  A pale green door fills the north end of the hallway, and a peeling blue door is set in the east wall opposite the middle window."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "14597": "south",
+      "14611": "go blue door",
+      "14612": "go green door"
+    },
+    "timeto": {
+      "14597": 0.2,
+      "14611": 0.2,
+      "14612": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215149
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1046,
+      797,
+      1058,
+      809
+    ]
+  }
+}

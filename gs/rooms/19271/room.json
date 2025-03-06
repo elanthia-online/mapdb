@@ -1,0 +1,41 @@
+{
+  "checksum": "f26f237d74b3e948b155789467a2b8b5",
+  "room": {
+    "id": 19271,
+    "title": [
+      "[Dark Shrine, Short Hallway]"
+    ],
+    "description": [
+      "Three doors lead off from this short, featureless hallway.  The doors to the east and west are plain wooden doors, but the door at the south end of the hallway is a large bronze door, framed with stone."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "19269": "north",
+      "19272": "go small door",
+      "19273": "go large door",
+      "19274": "go bronze door"
+    },
+    "timeto": {
+      "19269": 0.2,
+      "19272": 0.2,
+      "19273": 0.2,
+      "19274": 0.2
+    },
+    "tags": [
+      "lesser vruul"
+    ],
+    "uid": [
+      94048
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      867,
+      278,
+      875,
+      285
+    ]
+  }
+}

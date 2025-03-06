@@ -1,0 +1,32 @@
+{
+  "checksum": "57428327e522fc16e5e694645911aacf",
+  "room": {
+    "id": 14251,
+    "title": [
+      "[Grand Dais, Eye of the Empress]"
+    ],
+    "description": [
+      "Standing guard beside an amber-inlaid white illthorn door is the tall bronze statue of an armed woman, her features striking but far from beautiful.  Behind her stone dais, an illuminated scene of battle rages on in a clash of metallic golds and livid reds, the painting curving to follow the statue's small enclave."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "14117": "south",
+      "14130": "go white door"
+    },
+    "timeto": {
+      "14117": 0.2,
+      "14130": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749511
+    ]
+  }
+}

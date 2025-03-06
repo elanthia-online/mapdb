@@ -1,0 +1,56 @@
+{
+  "checksum": "d537f4a8dd8df83f746231c6c8540ed9",
+  "room": {
+    "id": 33421,
+    "title": [
+      "[Nereid's Cradle, Beach]"
+    ],
+    "description": [
+      "Small and large tidepools decorate the western edge of the beach, where a rickety sun-faded staircase attaches to the cliff face and leads to a grassy plain.  Soft sands are covered with shallow water, the small inlet protected from the encroaching surf by large boulders that jut out of the turquoise waters.  To the east, the surf carries bits of seaweed and empty mermaid's purses across the mica-flecked sands, while a twisted grass-flanked pathway heads to a distant boardwalk."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "33418": "go grass-flanked pathway",
+      "33420": "go staircase",
+      "33422": "southeast",
+      "33427": "northeast"
+    },
+    "timeto": {
+      "33418": 0.2,
+      "33420": 0.2,
+      "33422": 0.2,
+      "33427": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "small wild rose",
+      "pepperthorn root",
+      "small coconut",
+      "soft white plumeria",
+      "turquoise plumeria",
+      "vibrant yellow plumeria",
+      "dark pink plumeria",
+      "bright pink plumeria",
+      "pristine white plumeria",
+      "banana leaf",
+      "phoenix palm frond",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      1917017
+    ],
+    "image": "Nereids Cradle.png",
+    "image_coords": [
+      128,
+      95,
+      152,
+      115
+    ]
+  }
+}

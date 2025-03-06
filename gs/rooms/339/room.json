@@ -1,0 +1,89 @@
+{
+  "checksum": "0ff594a11647e8541174a162cff0a4f6",
+  "room": {
+    "id": 339,
+    "title": [
+      "[East Row, Modwir Way]"
+    ],
+    "description": [
+      "A pair of modwirs stand sentinel for the roadway heading east.  A cooing morning dove lends a rhythmic pace to the surroundings, causing merchant and townsfolk alike to walk slowly along the dusty paths in measured time."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "338": "south",
+      "340": "north",
+      "366": "east",
+      "15021": "go boutique",
+      "15022": "go bejewelled citadel",
+      "15024": "go wooden treehouse",
+      "24768": "/rooms/339/wayto/stringproc-24768.rb",
+      "33475": "go rustic store",
+      "33478": "go red-brick building"
+    },
+    "timeto": {
+      "338": 0.2,
+      "340": 0.2,
+      "366": 0.2,
+      "15021": 0.2,
+      "15022": 0.2,
+      "15024": 0.2,
+      "24768": 0.2,
+      "33475": 0.2,
+      "33478": 0.2
+    },
+    "tags": [
+      "some acantha leaf",
+      "some sovyn clove",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild carrot",
+      "ginger root",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      731011
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1344,
+      144,
+      1350,
+      152
+    ]
+  }
+}

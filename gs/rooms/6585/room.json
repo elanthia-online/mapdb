@@ -1,0 +1,38 @@
+{
+  "checksum": "b36370afcad6bed8abfd587d35059461",
+  "room": {
+    "id": 6585,
+    "title": [
+      "[Castle Crypt]"
+    ],
+    "description": [
+      "Long tendrils of cobweb trail down from the shadowy ceiling, creating a haphazard garland that attaches to the burial slabs.  The biers are spaced closely together and each one carries its silent passenger covered with a shroud of netting.  Light from the crypt's door barely trespasses, as if in deference to the chamber's inhabitants."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6584": "southeast",
+      "6586": "south"
+    },
+    "timeto": {
+      "6584": 0.2,
+      "6586": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285100
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      787,
+      488,
+      797,
+      498
+    ]
+  }
+}

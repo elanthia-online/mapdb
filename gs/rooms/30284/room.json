@@ -1,0 +1,52 @@
+{
+  "checksum": "192de9bedf68dcffa74c4eb95736758f",
+  "room": {
+    "id": 30284,
+    "title": [
+      "[Rusty Cutlass, Quarterdeck]"
+    ],
+    "description": [
+      "Two wooden stairs lead up to the expansive quarterdeck that provides a wide view of the deck and forecastle beyond.  A notched ship's wheel juts up from the center, while far behind it several tables and chairs for guests have been positioned about with each wooden leg nailed into the deck.  Several blued steel lanterns hang from a long wooden railing."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30279": "go stairs",
+      "30941": "/rooms/30284/wayto/stringproc-30941.rb",
+      "30942": "/rooms/30284/wayto/stringproc-30942.rb",
+      "30943": "/rooms/30284/wayto/stringproc-30943.rb",
+      "30944": "/rooms/30284/wayto/stringproc-30944.rb",
+      "30945": "/rooms/30284/wayto/stringproc-30945.rb",
+      "30946": "/rooms/30284/wayto/stringproc-30946.rb"
+    },
+    "timeto": {
+      "30279": 0.2,
+      "30941": 0.2,
+      "30942": 0.2,
+      "30943": 0.2,
+      "30944": 0.2,
+      "30945": 0.2,
+      "30946": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      336663
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      1057,
+      574,
+      1083,
+      604
+    ]
+  }
+}

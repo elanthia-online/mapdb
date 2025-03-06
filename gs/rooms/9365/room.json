@@ -1,0 +1,43 @@
+{
+  "checksum": "8110adc1d26d8a5bd997bddbb830ee45",
+  "room": {
+    "id": 9365,
+    "title": [
+      "[Caves]"
+    ],
+    "description": [
+      "Eerie sounds echo from further into the cave, punctuated by the incessant dripping of water.  The air is damp and growing cooler with each step into the cave."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest, down"
+    ],
+    "location": "the Cairnfang",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9357": "northwest",
+      "9364": "southwest",
+      "9366": "down"
+    },
+    "timeto": {
+      "9357": 0.2,
+      "9364": 0.2,
+      "9366": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      630017
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      1008,
+      115,
+      1020,
+      127
+    ]
+  }
+}

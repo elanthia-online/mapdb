@@ -1,0 +1,44 @@
+{
+  "checksum": "1b003ae164ffeecbd2ef6ed139bcb22a",
+  "room": {
+    "id": 19945,
+    "title": [
+      "[Theatre, Backstage]"
+    ],
+    "description": [
+      "The area behind the stage is in disarray, with wooden props scattered about the floor while fanciful costumes are overflowing from iron-bound chests.  Bins of old paint rest near a few discolored wooden sets, their transformation still incomplete.  A few stools rest before a row of vanities, and a dim passageway leads back to the theatre's auditorium."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8683": "go door",
+      "19944": "go passageway",
+      "19946": "/rooms/19945/wayto/stringproc-19946.rb"
+    },
+    "timeto": {
+      "8683": 10,
+      "19944": 0.2,
+      "19946": 0.4
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336028
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      1147,
+      405,
+      1288,
+      467
+    ]
+  }
+}

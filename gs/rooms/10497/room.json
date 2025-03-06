@@ -1,0 +1,45 @@
+{
+  "checksum": "3628d69ce5ffa502e8dcc48212c1b6e1",
+  "room": {
+    "id": 10497,
+    "title": [
+      "[Neartofar Road]"
+    ],
+    "description": [
+      "Raised above the level of the underbrush and banked to provide for drainage after storms, the road provides a safe and comfortable journey through the forest.  Constant maintenance keeps the road clear of leaves and twigs, and the acorns that pose an even more serious danger to the cobblestone pavement.  At either side of the road, small clumps of young oaks grow out of refuse piles left by the road-clearing crews."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Neartofar Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10496": "northwest",
+      "10498": "southeast",
+      "10499": "climb bank",
+      "10622": "go oaks"
+    },
+    "timeto": {
+      "10496": 0.2,
+      "10498": 0.2,
+      "10499": 0.2,
+      "10622": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14017002
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      288,
+      1335,
+      300,
+      1346
+    ]
+  }
+}

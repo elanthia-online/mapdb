@@ -1,0 +1,31 @@
+{
+  "checksum": "bf352c71f81aed7530c5e08ce8a31568",
+  "room": {
+    "id": 30659,
+    "title": [
+      "[Zul Logoth Hall, Tunnel]"
+    ],
+    "description": [
+      "A few torches line the tunnel as it winds its way through the mountain.  Fluorescent toadstools have been placed as markers for the location of a dark oak door and a heavy pine door.  A rhythmic dripping sound echoes from deeper within the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "30655": "west",
+      "30660": "north",
+      "30663": "go pine door",
+      "30664": "go oak door"
+    },
+    "timeto": {
+      "30655": 0.2,
+      "30660": 0.2,
+      "30663": 0.2,
+      "30664": 0.2
+    },
+    "uid": [
+      856007
+    ]
+  }
+}

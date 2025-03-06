@@ -1,0 +1,43 @@
+{
+  "checksum": "91a256bfe3897f4afbc4846a98172e98",
+  "room": {
+    "id": 9503,
+    "title": [
+      "[Zul Logoth, Constabulary]"
+    ],
+    "description": [
+      "A massive metal desk dominates this office.  Perhaps it is not that the desk is so massive, though, but that the office is so very small.  The surface of the desk is rather clean, though, as if the constable is either very organized, caught up on his work, or both.  Toward the back of the office, a barred doorway leads into a dimly-lit area."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9415": "out",
+      "30712": "/rooms/9503/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9415": 0.2,
+      "30712": "/rooms/9503/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "jail",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13010020
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      659,
+      719,
+      669,
+      729
+    ]
+  }
+}

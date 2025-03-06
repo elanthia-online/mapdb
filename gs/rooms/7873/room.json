@@ -1,0 +1,42 @@
+{
+  "checksum": "d42cf0f2fbd5d04ef79c04158219077a",
+  "room": {
+    "id": 7873,
+    "title": [
+      "[Tunnel of Trees]"
+    ],
+    "description": [
+      "Thick, low-hanging branches force you on your belly and you find yourself having to wiggle your way under them.  Fortunately, the ground is relatively clear and covered in soft grass, making your worst worry fall into the range of the odd grass stain."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1213": "/rooms/7873/wayto/stringproc-1213.rb",
+      "7874": "/rooms/7873/wayto/stringproc-7874.rb"
+    },
+    "timeto": {
+      "1213": 5,
+      "7874": 5
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2122020
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      789,
+      1043,
+      799,
+      1053
+    ]
+  }
+}

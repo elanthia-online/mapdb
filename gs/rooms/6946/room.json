@@ -1,0 +1,31 @@
+{
+  "checksum": "37e6333d02000fe7dab19b0878d27a54",
+  "room": {
+    "id": 6946,
+    "title": [
+      "[Militia Barracks, Dormitory]"
+    ],
+    "description": [
+      "This plain barracks room, devoid of any ornamentation save for the narrow cots the militiamen sleep on, seems to be standard fare throughout the local military."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6945": "north",
+      "6947": "south",
+      "6949": "east",
+      "6950": "west"
+    },
+    "timeto": {
+      "6945": 0.2,
+      "6947": 0.2,
+      "6949": 0.2,
+      "6950": 0.2
+    },
+    "tags": [
+      "meta:game:GSPlat"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "921c9406fa3b5b2a3bf57e63ab543f48",
+  "room": {
+    "id": 29781,
+    "title": [
+      "[Tower of Knowledge, Nexus]"
+    ],
+    "description": [
+      "A crystal chandelier hangs from above, casting dim light on a rough ring of leather armchairs.  Vine-etched arches lead off in various directions, while their spandels depict wizards locked in battle with beasts from ages long past.  Nearly hidden behind a tapestry is a darkened alcove."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest, up"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29778": "up",
+      "29782": "go alcove",
+      "29783": "northwest",
+      "29784": "west",
+      "29785": "southwest",
+      "29786": "south",
+      "29787": "southeast",
+      "29788": "east",
+      "29789": "northeast",
+      "29790": "north"
+    },
+    "timeto": {
+      "29778": 0.2,
+      "29782": 0.2,
+      "29783": 0.2,
+      "29784": 0.2,
+      "29785": 0.2,
+      "29786": 0.2,
+      "29787": 0.2,
+      "29788": 0.2,
+      "29789": 0.2,
+      "29790": 0.2
+    },
+    "uid": [
+      689014
+    ],
+    "image": "kf-wizardguild.png",
+    "image_coords": [
+      163,
+      523,
+      182,
+      544
+    ]
+  }
+}

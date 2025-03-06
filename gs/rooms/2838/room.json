@@ -1,0 +1,69 @@
+{
+  "checksum": "22733f876ccbf81250770a04583db578",
+  "room": {
+    "id": 2838,
+    "title": [
+      "[Northern Slopes, Quiet Forest]"
+    ],
+    "description": [
+      "The thick tree coverage runs up to the edge of a steep cliff and provides welcome shelter from the harsh wind. Without those frigid gusts howling through the tree branches, the forest is remarkably peaceful. Several sets of tracks wind chaotically through the forest, and a few disappear up a fairly steep incline."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Sleeping Lady Mountains",
+    "climate": "snowy, arctic",
+    "terrain": "mountainous",
+    "wayto": {
+      "2837": "/rooms/2838/wayto/stringproc-2837.rb",
+      "2839": "climb incline",
+      "2872": "west"
+    },
+    "timeto": {
+      "2837": 0.2,
+      "2839": 0.2,
+      "2872": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "handful of snowberries",
+      "lingonberry",
+      "some arctic moss",
+      "calamintha blossom",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "edelweiss",
+      "iceblossoms",
+      "snow lily",
+      "winter rose",
+      "arctic moss",
+      "tundra grass",
+      "golden aster",
+      "snowberries",
+      "pale thornberry",
+      "red winterberry",
+      "small loganberry",
+      "rockberry",
+      "crowberry",
+      "orange rowanberry",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4565004
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      302,
+      1322,
+      312,
+      1332
+    ]
+  }
+}

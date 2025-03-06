@@ -1,0 +1,35 @@
+{
+  "checksum": "d12136accc555dc9be8dc38a2c90dee4",
+  "room": {
+    "id": 32600,
+    "title": [
+      "[Solhaven Grocer]"
+    ],
+    "description": [
+      "The narrow door gives way to the interior of the small shop.  Shelves line both of the side walls from floor to ceiling, each replete with jars, boxes, and containers of every sort to hold goods and staples.  Several lanterns hang overhead, providing soft warm light over the low tables that cover the floor.  A wide oak counter runs along the back of the store, with a ladder in one corner to provide access to hard to reach items."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1478": "out",
+      "30710": "/rooms/32600/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1478": 0.2,
+      "30710": "/rooms/32600/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "grocer",
+      "urchin-access",
+      "urchin guide grocer",
+      "no forageables"
+    ],
+    "uid": [
+      4740160
+    ]
+  }
+}

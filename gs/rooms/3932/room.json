@@ -1,0 +1,53 @@
+{
+  "checksum": "b7b531c609925bc841fe917e9694d6b3",
+  "room": {
+    "id": 3932,
+    "title": [
+      "[Wehnimer's, Tunnel]"
+    ],
+    "description": [
+      "The stone floor is slimy and treacherous underfoot.  Although you find it difficult to see well enough to progress unaided, you hesitate to feel your way along the clammy, lichen-covered walls.  Water seeps from the ceiling with a constant dripping sound that echoes around you.  Disturbing grunts and squeals emanate from a particularly dark corner of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3931": "west",
+      "3933": "go hole",
+      "7490": "northeast"
+    },
+    "timeto": {
+      "3931": 0.2,
+      "3933": 0.2,
+      "7490": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46002
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      901,
+      967,
+      911,
+      977
+    ]
+  }
+}

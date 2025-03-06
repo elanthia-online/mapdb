@@ -1,0 +1,29 @@
+{
+  "checksum": "264e50488f432bee8601fc84f99df084",
+  "room": {
+    "id": 13211,
+    "title": [
+      "[Shimmarglin Inn, Landing]"
+    ],
+    "description": [
+      "Illuminated by twin glass orbs, a hanging tapestry covers one wall of the second floor landing.  A detailed nightscape sits forever frozen within its expertly woven fibers.  A dimly lit hallway heads off in opposite directions."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "599": "go staircase",
+      "13213": "west",
+      "13218": "east"
+    },
+    "timeto": {
+      "599": 0.2,
+      "13213": 0.2,
+      "13218": 0.2
+    },
+    "uid": [
+      13108007
+    ]
+  }
+}

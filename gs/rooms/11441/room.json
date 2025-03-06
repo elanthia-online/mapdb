@@ -1,0 +1,48 @@
+{
+  "checksum": "2b44cf1a0da6d26264dfb97ed28873ec",
+  "room": {
+    "id": 11441,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The rolling green waters of Maelstrom Bay stretch out in all directions.  A pale tower rises needle-like over the rise of the mainland cliffs to the east.  The soft susurration of the gentle swells rolling against the cliff base is almost hypnotic.  Overhead, sea birds whirl and frolic in a complex avian dance."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, southwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11440": "/rooms/11441/wayto/stringproc-11440.rb",
+      "11442": "/rooms/11441/wayto/stringproc-11442.rb",
+      "11444": "/rooms/11441/wayto/stringproc-11444.rb",
+      "11453": "/rooms/11441/wayto/stringproc-11453.rb",
+      "11454": "/rooms/11441/wayto/stringproc-11454.rb",
+      "11475": "/rooms/11441/wayto/stringproc-11475.rb"
+    },
+    "timeto": {
+      "11440": 2,
+      "11442": 2,
+      "11444": 2,
+      "11453": 2,
+      "11454": 2,
+      "11475": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304032
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      675,
+      1180,
+      685,
+      1190
+    ]
+  }
+}

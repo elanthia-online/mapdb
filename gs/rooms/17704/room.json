@@ -1,0 +1,38 @@
+{
+  "checksum": "26c52da9e8d46db7063bfee04abfa382",
+  "room": {
+    "id": 17704,
+    "title": [
+      "[Citadel, Study]"
+    ],
+    "description": [
+      "Hot drafts of air flowing underneath the door of the study create a soft whistling sound that grows and diminishes in intensity with the arrival and departure of every warm breeze.  A dust-laden crystal chalice sits on top of a desk covered with papers and a small bronze astrolabe.  Behind the desk is a narrow stone door."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17703": "out",
+      "17705": "go door"
+    },
+    "timeto": {
+      "17703": 0.2,
+      "17705": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377327
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      437,
+      1165,
+      447,
+      1175
+    ]
+  }
+}

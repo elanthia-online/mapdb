@@ -1,0 +1,67 @@
+{
+  "checksum": "92fb380168e2c7587903941c4e0de165",
+  "room": {
+    "id": 2087,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "The eastern annex of the village is much smaller than the main part of the community across the river.  A dozen or so buildings once stood here, but like nearly everything else in this gloomy place, the rest have been destroyed by fire."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2068": "go footbridge",
+      "2088": "northeast",
+      "2101": "southwest",
+      "2112": "go house"
+    },
+    "timeto": {
+      "2068": 0.2,
+      "2088": 0.2,
+      "2101": 0.2,
+      "2112": 0.2
+    },
+    "tags": [
+      "small wild rose",
+      "stalk of goldenrod",
+      "wild chokecherry",
+      "stalk of chicory",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "withered black mushroom",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030225
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      880,
+      999,
+      890,
+      1009
+    ]
+  }
+}

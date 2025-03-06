@@ -1,0 +1,41 @@
+{
+  "checksum": "12534af30740282f4240b1382d22d659",
+  "room": {
+    "id": 11289,
+    "title": [
+      "[Zoo, Fox Cage]"
+    ],
+    "description": [
+      "A clean-picked fox skeleton lies in the back corner of this cage.  Aside from the small wooden box that was once its den, the cage is barren."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "the Citadel",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11288": "out",
+      "11290": "/rooms/11289/wayto/stringproc-11290.rb"
+    },
+    "timeto": {
+      "11288": 0.2,
+      "11290": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      377080
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      489,
+      761,
+      499,
+      771
+    ]
+  }
+}

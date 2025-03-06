@@ -1,0 +1,24 @@
+{
+  "checksum": "033a17208567b95b768ad55c100ff2b3",
+  "room": {
+    "id": 24095,
+    "title": [
+      "[Necropolis, Corridor]"
+    ],
+    "description": [
+      "Rivulets of water glisten on the walls, disappearing in and out of patches of moss that cling to the limestone.  Small piles of entrails shine wetly in the light of the torches set into several sconces placed around the room.  Drag marks in dust-caked blood lead from the north toward a crumbling stone archway."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24094": "south",
+      "24096": "go stone archway"
+    },
+    "timeto": {
+      "24094": 0.2,
+      "24096": 0.2
+    }
+  }
+}

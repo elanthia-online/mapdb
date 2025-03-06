@@ -1,0 +1,34 @@
+{
+  "checksum": "5ac21636b3921f4f39a8f026fed350b3",
+  "room": {
+    "id": 15912,
+    "title": [
+      "[Southeast Tower, Barracks]"
+    ],
+    "description": [
+      "The cold stone walls of this upper room are broken only by a simple banner bearing the word \"Glory,\" which ripples in the frigid wind coursing through the hole leading through the ceiling to the roof.  A legion of beds stand at attention in the barracks, ready to give comfort to the weary and the wounded.  At the head of the stairway is a large cabinet designed to hold bandages and herbs for the cure of the wounded."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "15788": "down",
+      "15823": "climb ladder"
+    },
+    "timeto": {
+      "15788": 0.2,
+      "15823": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4050215
+    ]
+  }
+}

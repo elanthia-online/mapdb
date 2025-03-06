@@ -1,0 +1,31 @@
+{
+  "checksum": "afc191c089918dd42d29221ea121bc9d",
+  "room": {
+    "id": 25183,
+    "title": [
+      "[Idant's Caravans, Conductor]"
+    ],
+    "description": [
+      "The smell of unwashed bodies is strong and sharp in the tent, commingling with the acridity of hardened rolton hide from the walls.  Leaning on a small fel sign, a conductor wearing a dark bowler hat raises her voice above the stinking din, shouting out orders as wagons creak in the near distance."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "419": "go flap",
+      "25145": "/rooms/25183/wayto/stringproc-25145.rb"
+    },
+    "timeto": {
+      "419": 0.2,
+      "25145": "/rooms/25183/timeto/stringproc-25145.rb"
+    },
+    "tags": [
+      "caravan",
+      "silver-cost:25145:3000"
+    ],
+    "uid": [
+      4216903
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "4b34c2f7d74e4ac9f5b446826998ed31",
+  "room": {
+    "id": 11397,
+    "title": [
+      "[Citadel, Battlement]"
+    ],
+    "description": [
+      "Sand spills out from a rusted metal bucket knocked over on its side beside a battlement, covering much of the surrounding floor with its gritty substance.  Interspersed in the spillage are numerous metal arrowheads and faded fletchings, absent the wooden shafts that once made them whole."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Citadel",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11396": "south",
+      "11398": "north"
+    },
+    "timeto": {
+      "11396": 0.2,
+      "11398": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377342
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      423,
+      1375,
+      433,
+      1385
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "bc1e90f971c1785e291490acb2a7bf23",
+  "room": {
+    "id": 31488,
+    "title": [
+      "[Mistwatch, Walkway]"
+    ],
+    "description": [
+      "Nestled in a circular clearing at the end of the walkway are a rough oak building and a dark modwir shop.  Uneven stacks of boards and other shipbuilding supplies are piled up between the two structures.  Colorful patches of wildflowers sprout up between the materials.  Several twisted trees grow about the area, their full canopies providing shade from the hot sun above.",
+      "Nestled in a circular clearing at the end of the walkway are a rough oak building and a dark modwir shop.  Uneven stacks of boards and other shipbuilding supplies are piled up between the two structures.  Colorful patches of wildflowers sprout up between the materials.  Several twisted trees grow about the area, their full canopies allow bits of moonlight to filter through."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Elven Nations Port",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31484": "south",
+      "31489": "go shop",
+      "31490": "go building"
+    },
+    "timeto": {
+      "31484": 0.2,
+      "31489": 0.2,
+      "31490": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7136091
+    ],
+    "image": "en-ta_vaalor_port-1662946910.png",
+    "image_coords": [
+      767,
+      293,
+      785,
+      310
+    ]
+  }
+}

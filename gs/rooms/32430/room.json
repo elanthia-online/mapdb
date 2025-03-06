@@ -1,0 +1,47 @@
+{
+  "checksum": "6e17ab7f77f6852b8f04bf628c243a11",
+  "room": {
+    "id": 32430,
+    "title": [
+      "[Moonsedge, Scarlet Road]"
+    ],
+    "description": [
+      "Beneath flapping scarlet banners, a decrepit jeweler's shop stands at an intersection choked with empty carriages and wagons.  Beds of black velvet near the windows of the shop have been stripped of their valuables and the door hangs open.  Outside, the vehicles are abandoned, whatever wares or baggage they carried either taken or ruined by the elements."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32425": "west",
+      "32426": "northwest",
+      "32431": "go shop",
+      "32435": "east",
+      "32436": "south"
+    },
+    "timeto": {
+      "32425": 0.2,
+      "32426": 0.2,
+      "32431": 0.2,
+      "32435": 0.2,
+      "32436": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577019
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      502,
+      283,
+      519,
+      303
+    ]
+  }
+}

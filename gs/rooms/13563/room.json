@@ -1,0 +1,30 @@
+{
+  "checksum": "d6d3b7adba90478f3ce979d0801e7a23",
+  "room": {
+    "id": 13563,
+    "title": [
+      "[Kaseopea's Combat Gear]",
+      "[Kaseopea's Armory]"
+    ],
+    "description": [
+      "The broad sweep of the pine floor is interrupted by a pile of unmarked crates.  Halfway to the arched ceiling, a pair of crossed cavalry sabers hangs on one of the plain wooden walls.  A rusted metal display rack and a splintered cargo crate are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10460": "out",
+      "13683": "west",
+      "13684": "north"
+    },
+    "timeto": {
+      "10460": 0.2,
+      "13683": 0.2,
+      "13684": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

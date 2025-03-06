@@ -1,0 +1,49 @@
+{
+  "checksum": "c08cbfa32b890a2e8cc2a82cb49fde91",
+  "room": {
+    "id": 31874,
+    "title": [
+      "[Darkbriar Woods, Haunted Bridge]"
+    ],
+    "description": [
+      "Dark cedars, rowan, and ash crowd together and join branches over the main path, casting eerie shadows across the area, and trails lead through the snow and underbrush to a variety of buildings.  A stream meanders to and fro with a twisting bridge arching from steep mossy bank to steep mossy bank."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous",
+    "wayto": {
+      "31873": "east",
+      "31875": "west",
+      "31907": "go stone tower",
+      "33950": "go snow-covered house",
+      "34853": "go spiked gate"
+    },
+    "timeto": {
+      "31873": 0.2,
+      "31875": 0.2,
+      "31907": 0.2,
+      "33950": 0.2,
+      "34853": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083083
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1167,
+      243,
+      1188,
+      265
+    ]
+  }
+}

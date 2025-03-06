@@ -1,0 +1,45 @@
+{
+  "checksum": "28e2cc0843a1865f894b1ad001108ec8",
+  "room": {
+    "id": 1898,
+    "title": [
+      "[Dragonspine and Mithril]"
+    ],
+    "description": [
+      "The flow of the crowd parts around a large hole in the middle of the road.  A dwarven work crew stands around the hole, doing very little work.  From the many shops and vendors' stalls along the street, you hear the cries of hawkers, the lamentations of hagglers and the occasional clink of a coin."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1882": "south",
+      "1899": "east",
+      "1932": "north",
+      "12538": "go building"
+    },
+    "timeto": {
+      "1882": 0.2,
+      "1899": 0.2,
+      "1932": 0.2,
+      "12538": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001020
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1037,
+      610,
+      1067,
+      640
+    ]
+  }
+}

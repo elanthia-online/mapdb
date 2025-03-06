@@ -1,0 +1,31 @@
+{
+  "checksum": "8dc9d67352d5a16db33795d8b33b040e",
+  "room": {
+    "id": 33114,
+    "title": [
+      "[Lower Deck, Stern]"
+    ],
+    "description": [
+      "Rope-coiled rungs driven into the aft boards form a ladder of sorts, allowing quick travel between decks.  A bucket with a mop in it sits in a corner, ready for use on the scuffed pine floor.  Hanging next to a port side door is a strip of bloodied linen."
+    ],
+    "paths": [
+      "Obvious exits: north, up, down"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33108": "up",
+      "33109": "north",
+      "33115": "go door",
+      "33116": "down"
+    },
+    "timeto": {
+      "33108": 0.2,
+      "33109": 0.2,
+      "33115": 0.2,
+      "33116": 0.2
+    },
+    "uid": [
+      7134155
+    ]
+  }
+}

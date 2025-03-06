@@ -1,0 +1,44 @@
+{
+  "checksum": "60eae475024bdec19df6a5067b5365e8",
+  "room": {
+    "id": 3688,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A reinforced, iron door appears to have been ripped from its hinges by a remarkable force.  It hangs by fragile, twisted bits of metal from its frame, revealing the utter darkness within the cell beyond."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3687": "north",
+      "3689": "south",
+      "3802": "go door"
+    },
+    "timeto": {
+      "3687": 0.2,
+      "3689": 0.2,
+      "3802": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42013
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      176,
+      1152,
+      186,
+      1162
+    ]
+  }
+}

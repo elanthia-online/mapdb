@@ -1,0 +1,46 @@
+{
+  "checksum": "bbd69fc44348de33b8eda73b9c9a97c9",
+  "room": {
+    "id": 7328,
+    "title": [
+      "[Shadow Valley]"
+    ],
+    "description": [
+      "The walls open wide and high forming a small valley forgotten by the waking world.  Covering the entire range is a low layer of thick black mist, lending the land an eerie demeanor.  Near the base of the wall, you see a crevice leading down into darkness."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7327": "northwest",
+      "7329": "southwest",
+      "7331": "/rooms/7328/wayto/stringproc-7331.rb"
+    },
+    "timeto": {
+      "7327": 0.2,
+      "7329": 0.2,
+      "7331": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02",
+      "shadow mare"
+    ],
+    "uid": [
+      389035
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1390,
+      615,
+      1400,
+      625
+    ]
+  }
+}

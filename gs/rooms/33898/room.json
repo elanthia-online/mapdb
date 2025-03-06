@@ -1,0 +1,32 @@
+{
+  "checksum": "92192decb9d469e484b2dc3b41738f20",
+  "room": {
+    "id": 33898,
+    "title": [
+      "[Cordwainer's Muse]"
+    ],
+    "description": [
+      "Jewel-toned swathes of fabric are draped across the jade-washed stucco walls of the shop, the brocades and laces entwined with chain-strung faerthiel in accompanying colors.  Wrought pewter brackets loft cases in vertical rows against the back wall, the footwear displayed behind panes of glass set before the ivy-curtained counter covered in dye swatches.  A lace-appliqued shoe form stands nestled in the far corner, its surface covered in silk-petaled naefira trailing down toward the planked floor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33887": "out",
+      "34423": "/rooms/33898/wayto/stringproc-34423.rb"
+    },
+    "timeto": {
+      "33887": 0.2,
+      "34423": "/rooms/33898/timeto/stringproc-34423.rb"
+    },
+    "tags": [
+      "cobbling",
+      "urchin-access",
+      "urchin guide cobbling"
+    ],
+    "uid": [
+      14150211
+    ]
+  }
+}

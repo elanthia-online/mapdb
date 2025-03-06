@@ -1,0 +1,42 @@
+{
+  "checksum": "4791d7e5b74c06c0f473d9c52bbf341d",
+  "room": {
+    "id": 1073,
+    "title": [
+      "[Rope Ladder]"
+    ],
+    "description": [
+      "The sheer side of the Dead Plateau looms in front of you, the surface smooth and devoid of plant life.  To the north and east the mists spread out below to blanket the area in a white, frothy covering.  The rope ladder extends several hundred feet above to the top of the plateau, while below it drops straight down into the concealing mists.  A slight wind buffets you, causing the rope ladder to rock back and forth."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Locksmehr Trail",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1072": "/rooms/1073/wayto/stringproc-1072.rb",
+      "1074": "/rooms/1073/wayto/stringproc-1074.rb"
+    },
+    "timeto": {
+      "1072": 15,
+      "1074": 15
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13001039
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      1245,
+      739,
+      1255,
+      749
+    ]
+  }
+}

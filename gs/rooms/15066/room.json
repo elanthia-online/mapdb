@@ -1,0 +1,32 @@
+{
+  "checksum": "4ea1703983e29bdf81544f524f89b439",
+  "room": {
+    "id": 15066,
+    "title": [
+      "[Deuter's Weaponry]",
+      "[Deuter's General Store]",
+      "[Deuter's Magic Shoppe]",
+      "[Deuter's Armory]"
+    ],
+    "description": [
+      "Beneath a mistwood beam ceiling, a pair of iron manacles hangs on one of the celadon marble walls.  A dovetailed oak table and a narrow glass-topped table sit in opposite corners while a bathing maiden statue rests on a dappled celadon marble floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "367": "out",
+      "15363": "south",
+      "15364": "southeast"
+    },
+    "timeto": {
+      "367": 0.2,
+      "15363": 0.2,
+      "15364": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

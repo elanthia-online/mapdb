@@ -1,0 +1,39 @@
+{
+  "checksum": "7d657713aa90d75c30fb3102f3eadcff",
+  "room": {
+    "id": 11728,
+    "title": [
+      "[Marsh Keep, Dungeon Hallway]"
+    ],
+    "description": [
+      "Filfth of undeterminable origin is spread over the floor of the hallway in smelly clumps of grey sludge speckled with white, and fills the air with a nauseating stench.  No torches line this part of the dungeon's hallway, leaving only the sputtering light of torches to the east and west, which splay constantly shifting shadows on the floor and walls.",
+      "Filth of undeterminable origin is spread over the floor of the hallway in smelly clumps of grey sludge speckled with white, and fills the air with a nauseating stench.  No torches line this part of the dungeon's hallway, leaving only the sputtering light of torches to the east and west, which splay constantly shifting shadows on the floor and walls."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Marsh Keep",
+    "wayto": {
+      "11727": "east",
+      "11729": "west"
+    },
+    "timeto": {
+      "11727": 0.2,
+      "11729": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376066
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      554,
+      401,
+      564,
+      411
+    ]
+  }
+}

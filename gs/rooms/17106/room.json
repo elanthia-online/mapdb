@@ -1,0 +1,31 @@
+{
+  "checksum": "8e0e6864053e06f9738b951ea0a95b5a",
+  "room": {
+    "id": 17106,
+    "title": [
+      "[Shannivar's Outfitting]",
+      "[Shannivar's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a domed white stucco ceiling, a midnight blue rising phoenix tapestry hangs on one of the refined oak-paneled walls.  Some wrought-iron hooks and a series of low oak shelves sit in opposite corners while a thin gold-edge black runner rests on a white limestone floor.",
+      "Beneath a domed white stucco ceiling, a snowy forest glade tapestry hangs on one of the refined oak-paneled walls.  Some wrought-iron hooks and a series of low oak shelves sit in opposite corners while a thin gold-edge black runner rests on a white limestone floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9011": "out",
+      "17111": "northwest",
+      "17112": "northeast"
+    },
+    "timeto": {
+      "9011": 0.2,
+      "17111": 0.2,
+      "17112": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "7d4422528e336e7ac79a110164a125c8",
+  "room": {
+    "id": 15072,
+    "title": [
+      "[Wexna's Outfitting]",
+      "[Wexna's General Store]"
+    ],
+    "description": [
+      "Blue watered silk walls rise from a glossy mahogany floor.  Just above a large potted fern hangs an intricate knot-worked wall-hanging, and a vaulted ceiling completes the picture.  An elegantly carved oak armoire and a polished maoral table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "366": "out",
+      "15357": "east",
+      "15358": "north"
+    },
+    "timeto": {
+      "366": 0.2,
+      "15357": 0.2,
+      "15358": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

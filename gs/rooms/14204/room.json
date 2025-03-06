@@ -1,0 +1,32 @@
+{
+  "checksum": "c420e1b064b9b9e94526e7bf9a47bb08",
+  "room": {
+    "id": 14204,
+    "title": [
+      "[Temple of Lorminstra, Courtyard]"
+    ],
+    "description": [
+      "Decorated in the same faux winter setting as the rest of the temple courtyard, the building nestled in the corner of the compound is half-timbered and set with numerous evenly spaced small windows.  It appears likely that it is a residence hall for the temple's clergy."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14203": "northwest",
+      "14205": "go hall"
+    },
+    "timeto": {
+      "14203": 0.2,
+      "14205": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4742030
+    ]
+  }
+}

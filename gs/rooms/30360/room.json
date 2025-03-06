@@ -1,0 +1,36 @@
+{
+  "checksum": "e5cc289c59b4332177570e7a28803b1d",
+  "room": {
+    "id": 30360,
+    "title": [
+      "[Scrivener's, Mail Room]"
+    ],
+    "description": [
+      "The entire back wall of this utilitarian room is covered with wooden shelving to form a latticework of pigeonholes for mail.  Each of the side walls holds a similar set of shelves, though the openings are larger, some almost ample enough to accommodate an average-sized dwarf.  Separating the sparsely furnished reception area from the bustling activity of the mail center is a tall slate-topped counter.  Smaller display cases topped with thick glass bracket the entryway."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20588": "north",
+      "30708": "/rooms/30360/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "20588": 0.2,
+      "30708": "/rooms/30360/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "postoffice",
+      "mail",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      3015
+    ]
+  }
+}

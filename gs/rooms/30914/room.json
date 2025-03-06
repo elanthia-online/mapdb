@@ -1,0 +1,30 @@
+{
+  "checksum": "3709088694efbb9f470193490b013c45",
+  "room": {
+    "id": 30914,
+    "title": [
+      "[Bard Guild, Office]"
+    ],
+    "description": [
+      "The Bard Guild office is a circular chamber sitting on the back of the main building.  It features tall, narrow windows that offer an expansive view of the rocky cliffs surrounding the Guild.  Outside, moonlight bathes the crags in its silvery caress, giving them a stark appearance.  A large teak desk occupies the room's center, beneath the lazily turning blades of a ceiling fan."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "30912": "go door",
+      "30916": "southeast"
+    },
+    "timeto": {
+      "30912": 0.2,
+      "30916": 0.2
+    },
+    "tags": [
+      "bard guild guildmaster"
+    ],
+    "uid": [
+      282011
+    ]
+  }
+}

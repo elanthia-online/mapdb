@@ -1,0 +1,48 @@
+{
+  "checksum": "8f93245316b823fc2c49f450f596eb3f",
+  "room": {
+    "id": 8185,
+    "title": [
+      "[Mine, Crystal Caves]"
+    ],
+    "description": [
+      "Great outcroppings of citrine give this cavern a warm, golden radiance.  As you look around, you notice that many of the crystals are shattered, their fragments littering the floor.  You hear a dripping sound in the distance, but can't quite figure out where it's coming from."
+    ],
+    "paths": [
+      "Obvious exits: east, south, down"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8182": "south",
+      "8184": "east",
+      "8186": "down"
+    },
+    "timeto": {
+      "8182": 0.2,
+      "8184": 0.2,
+      "8186": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24062
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      991,
+      443,
+      1001,
+      453
+    ]
+  }
+}

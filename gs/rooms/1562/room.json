@@ -1,0 +1,43 @@
+{
+  "checksum": "12a8c51beb532304ad93cb37c1aa62fc",
+  "room": {
+    "id": 1562,
+    "title": [
+      "[Solhaven, Kraken Run]"
+    ],
+    "description": [
+      "A wooden representation of an oversized rolton steak swings gently in the night breeze beneath a shop's overhang on the south side of the Run.  The shop's windows and front door are open and a faint light filters out to the street.  Intent on their own business, only a few townsfolk are present on this section of the street, which looks like it sees more activity during the day.",
+      "Chops, steaks and strings of sausage cover the plank tables set out in front of a shop on the Run's south side.  Sides of rolton hang in a row beneath the building's overhang, forming a backdrop to the butcher's tabled wares and obscuring the storefront itself.  A sharpener wheels her stone down the street, nodding to well-known customers and calling out prices to those that show an interest."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1554": "west",
+      "1563": "east",
+      "13475": "go shop"
+    },
+    "timeto": {
+      "1554": 0.2,
+      "1563": 0.2,
+      "13475": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902082
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      758,
+      1332,
+      782,
+      1356
+    ]
+  }
+}

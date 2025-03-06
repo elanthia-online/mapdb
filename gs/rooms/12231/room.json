@@ -1,0 +1,49 @@
+{
+  "checksum": "c8eff2d99ba4f0b0a033eee0d527c2ba",
+  "room": {
+    "id": 12231,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Frost coats an enormous pile of candlesticks and service ware that has been fused together in the middle of the room.  Reaching out of the floor is a bleached skeletal hand, clutching a warped, silver serving tray.",
+      "An enormous pile of candlesticks and service ware has been fused together through some source of incredible heat; though the entire room has been scorched save for the three feet space surrounding the clump.  Reaching out of the floor is a bleached skeletal hand, clutching a warped, silver serving tray."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12151": "/rooms/12231/wayto/stringproc-12151.rb",
+      "12230": "northwest",
+      "12233": "southeast"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12230": 0.2,
+      "12233": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4571002
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      295,
+      267,
+      317,
+      289
+    ]
+  }
+}

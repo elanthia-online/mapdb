@@ -1,0 +1,32 @@
+{
+  "checksum": "984d12895cebc6642f99f7c1a3357856",
+  "room": {
+    "id": 6363,
+    "title": [
+      "[Henty's Depot, Walls]"
+    ],
+    "description": [
+      "Amid the bartering of merchants, the furniture showcased in this section of the store all reflect deep, rich earth tones.  Lingering in the air is the faint scent of leather, although there is no apparent hide in this area.  Gold-accented plaques proudly display the artisan who created each piece."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6360": "northeast",
+      "6361": "southwest"
+    },
+    "timeto": {
+      "6360": 0.2,
+      "6361": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      731050
+    ]
+  }
+}

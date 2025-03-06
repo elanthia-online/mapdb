@@ -1,0 +1,39 @@
+{
+  "checksum": "7b34884fc0ddbae00730b8c98867dc5d",
+  "room": {
+    "id": 1263,
+    "title": [
+      "[Frith's Inn, Main Saloon]"
+    ],
+    "description": [
+      "Drawn by the aroma of good food and strong drink, you enter the main saloon.  The innkeeper presides merrily, ensuring everyone gets a share of attention from the pretty serving wenches and the handsome lad behind the bar.  Long benches and rectangular tables seat high-spirited patrons."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1262": "north",
+      "1264": "go doors",
+      "8816": "go booth",
+      "30708": "/rooms/1263/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "1262": 0.2,
+      "1264": 0.2,
+      "8816": 0.2,
+      "30708": "/rooms/1263/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      5052
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "f4ee9c359197ddb81c0347e7915a295b",
+  "room": {
+    "id": 5778,
+    "title": [
+      "[Mraent Cavern, Waterfall Quarry]"
+    ],
+    "description": [
+      "An underground river runs through this natural cavern, which has been enlarged and beautified by the stonecutters' work.  The water enters near the ceiling and cascades down a rippled ramp.  Reforming into a rushing stream, the water runs back and forth across the room in a series of channels cut deep into the stone until it crashes against a black marble wall, throwing up a tremendous mist.  The water collects in a large pool at the base of this wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5776": "east",
+      "5779": "go gate",
+      "9459": "climb stairs"
+    },
+    "timeto": {
+      "5776": 0.2,
+      "5779": 0.2,
+      "9459": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008027
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      304,
+      177,
+      314,
+      187
+    ]
+  }
+}

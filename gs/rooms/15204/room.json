@@ -1,0 +1,28 @@
+{
+  "checksum": "4f488190f6027be6a59d268f890a4c0c",
+  "room": {
+    "id": 15204,
+    "title": [
+      "[Erindril's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A bamboo rack and a vine-carved mahogany table sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "346": "out",
+      "15283": "west",
+      "15284": "east"
+    },
+    "timeto": {
+      "346": 0.2,
+      "15283": 0.2,
+      "15284": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

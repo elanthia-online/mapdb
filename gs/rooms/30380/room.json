@@ -1,0 +1,43 @@
+{
+  "checksum": "d0dc52926468cad8bc7f74b968a54d01",
+  "room": {
+    "id": 30380,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Moonlight descends upon the white sandy beaches of the island coastline to the east as it gently rounds to the south.  Dark jungle covers the hillside that rises behind the beach, and the call of distant birds can be heard.  Silver glints off water in the darkness of the foliage, and a waterfall is barely visible to the south."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, west"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "30369": "pedal southwest",
+      "30370": "pedal west",
+      "30378": "pedal southeast"
+    },
+    "timeto": {
+      "30369": 6,
+      "30370": 6,
+      "30378": 6
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216210
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1117,
+      4418,
+      1136,
+      4435
+    ]
+  }
+}

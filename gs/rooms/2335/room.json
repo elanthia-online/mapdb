@@ -1,0 +1,39 @@
+{
+  "checksum": "f44b7b449a209720ecc3e79a6ad61d10",
+  "room": {
+    "id": 2335,
+    "title": [
+      "[Icemule Temple, Nave]"
+    ],
+    "description": [
+      "High overhead, an enormous dome has been carved into the encasing glacier.  Sunlight filters through the thin layer of ice, bathing the circular nave in soft white light.  Several dozen pews crafted of dark-stained oak stand in two rows atop a plush red carpet.  One row faces north toward a black marble arch, while the other faces south toward a pair of wide mithril doors.",
+      "High overhead, an enormous dome has been carved into the encasing glacier.  Starlight filters through the thin layer of ice, bathing the circular nave in pale, silvery light.  Several dozen pews crafted of dark-stained oak stand in two rows atop a plush red carpet.  One row faces north toward a black marble arch, while the other faces south toward a pair of wide mithril doors."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2334": "west",
+      "2336": "east",
+      "3633": "go arch",
+      "15702": "go doors"
+    },
+    "timeto": {
+      "2334": 0.2,
+      "2336": 0.2,
+      "3633": 0.2,
+      "15702": 0.2
+    },
+    "uid": [
+      4047002
+    ],
+    "image": "imt-temple-1512640476.png",
+    "image_coords": [
+      670,
+      730,
+      798,
+      786
+    ]
+  }
+}

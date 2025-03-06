@@ -1,0 +1,38 @@
+{
+  "checksum": "aa67b7d3fb8e626212fe1e309756ff86",
+  "room": {
+    "id": 123,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "A large alcove catches your eye, and even in this faint light you can see the harsh yellow of a sulfur deposit standing out against the grey stone.  It looks as though a great deal of mining took place here once, carving out a significant section of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "122": "west",
+      "124": "east"
+    },
+    "timeto": {
+      "122": 0.2,
+      "124": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300019
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      719,
+      791,
+      729,
+      801
+    ]
+  }
+}

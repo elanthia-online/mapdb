@@ -1,0 +1,35 @@
+{
+  "checksum": "bba0b3e4bceb1ddb37d53804f97d5bf4",
+  "room": {
+    "id": 28382,
+    "title": [
+      "[Moonstone Abbey, Lounge]"
+    ],
+    "description": [
+      "A gleaming mahogany bar trimmed with polished brass runs the length of the south wall, tall stools lined up before it.  Halfway to the vaulted stone ceiling, an unusually large blackened fel dart board cabinet hangs on one of the paneled walls.  Facing the huge grey-streaked marble fireplace, a semicircular dark leather couch invites you to relax and put your troubles aside.  Soft burgundy carpet matches the thick velvet drapes that cover the windows, giving the room a comfortable dusky feel at any hour."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28354": "northwest",
+      "28383": "/rooms/28382/wayto/stringproc-28383.rb",
+      "28384": "/rooms/28382/wayto/stringproc-28384.rb",
+      "28385": "/rooms/28382/wayto/stringproc-28385.rb",
+      "28386": "/rooms/28382/wayto/stringproc-28386.rb",
+      "28387": "/rooms/28382/wayto/stringproc-28387.rb"
+    },
+    "timeto": {
+      "28354": 0.2,
+      "28383": 0.2,
+      "28384": 0.2,
+      "28385": 0.2,
+      "28386": 0.2,
+      "28387": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

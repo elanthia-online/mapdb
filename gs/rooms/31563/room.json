@@ -1,0 +1,51 @@
+{
+  "checksum": "f1717e852a4dba2098dc2d29b8e38d3c",
+  "room": {
+    "id": 31563,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Facing the Fallen Court across a stretch of cobbled street, the constabulary hunches amid the encroaching brush and foliage of the Bittermere Woods to the southeast and the thick iron fencing that disappears to the northwest.  Partially dilapidated homes dot the lane, their vacant windows reflecting the violet sheen of the twilight-kissed sky.  Silvery blue pampas grass grows in thick masses between the northern buildings, its feather heads swaying and rustling despite the lack of breeze."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31561": "southwest",
+      "31632": "southeast",
+      "31633": "go constabulary",
+      "31635": "northwest",
+      "31856": "go black door",
+      "32290": "go ramshackle cottage",
+      "33955": "go ebonwood cottage"
+    },
+    "timeto": {
+      "31561": 0.2,
+      "31632": 0.2,
+      "31633": 0.2,
+      "31635": 0.2,
+      "31856": 0.2,
+      "32290": 0.2,
+      "33955": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083018
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      663,
+      254,
+      685,
+      275
+    ]
+  }
+}

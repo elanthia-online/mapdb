@@ -1,0 +1,58 @@
+{
+  "checksum": "eda218fd21c92bde224591a14f1e478b",
+  "room": {
+    "id": 26153,
+    "title": [
+      "[Reim Fortress, West Gate]"
+    ],
+    "description": [
+      "Cool winds rush downward from the upper deck and carry a faint aroma of burning oil.  Dark stains soil both the sloped walkway and passage walls, and a long corridor continues east toward a large intersection.  A faint viridian glow illuminates the passageway toward the east."
+    ],
+    "paths": [
+      "Obvious exits: east, up",
+      "Obvious paths: east, up"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "26152": "east",
+      "26154": "up",
+      "26165": "go gate"
+    },
+    "timeto": {
+      "26152": 0.2,
+      "26154": 0.2,
+      "26165": 0.2
+    },
+    "tags": [
+      "meta:map:multi-uid",
+      "no forageables"
+    ],
+    "uid": [
+      7107079,
+      7107129,
+      7107179,
+      7107229,
+      7107279,
+      7107329,
+      7107379,
+      7107429,
+      7107479,
+      7107529,
+      7107579,
+      7107629,
+      7107679,
+      7107729,
+      7107779,
+      7107829
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      389,
+      296,
+      425,
+      331
+    ]
+  }
+}

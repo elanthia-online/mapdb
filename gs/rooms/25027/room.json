@@ -1,0 +1,28 @@
+{
+  "checksum": "dece8d11f05e3e901a660acd28e87b80",
+  "room": {
+    "id": 25027,
+    "title": [
+      "[Papie's Outfitting]",
+      "[Papie's Weaponry]",
+      "[Papie's General Store]",
+      "[Papie's Magic Shoppe]"
+    ],
+    "description": [
+      "Smooth granite walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an ebonwood beam ceiling completes the picture.  A gilded maple cabinet and a wicker basket stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24851": "east"
+    },
+    "timeto": {
+      "24851": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

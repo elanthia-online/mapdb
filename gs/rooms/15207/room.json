@@ -1,0 +1,29 @@
+{
+  "checksum": "42429b9f4ca967d492608e2a46c8cd07",
+  "room": {
+    "id": 15207,
+    "title": [
+      "[Atious's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a mistwood beam ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A gold-leafed mistwood cabinet sits in one corner while a worn rug rests on the oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "346": "out",
+      "15277": "south",
+      "15278": "north"
+    },
+    "timeto": {
+      "346": 0.2,
+      "15277": 0.2,
+      "15278": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

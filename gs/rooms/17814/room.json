@@ -1,0 +1,34 @@
+{
+  "checksum": "7321541c6bdb284b7a24be69159b648e",
+  "room": {
+    "id": 17814,
+    "title": [
+      "[Rooftop]"
+    ],
+    "description": [
+      "A slender plank precariously offers a path to the adjacent rooftop.  It would be wise not to drink too much before attempting the task, as it's going to take a great deal of concentration to cross safely.  There is a very large, very visible stain of some sort on the alley floor directly beneath the plank."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17813": "go plank",
+      "17815": "west"
+    },
+    "timeto": {
+      "17813": 0.2,
+      "17815": 0.2
+    },
+    "uid": [
+      267116
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      596,
+      633,
+      635,
+      672
+    ]
+  }
+}

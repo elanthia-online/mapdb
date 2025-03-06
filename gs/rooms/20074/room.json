@@ -1,0 +1,31 @@
+{
+  "checksum": "ac7c124dc6cf2a017f52a3332bba69d4",
+  "room": {
+    "id": 20074,
+    "title": [
+      "[Haunted Pass, Under the Willow]"
+    ],
+    "description": [
+      "A thin path of packed soil offers some support while traveling under the tree.  The dirt walls surrounding the undergrowth are quite moist, and the ground below is difficult to traverse due to the swampy mud.  A series of tangled roots look as though they can be climbed to lead back outside the weeping willow tree."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Feymist Cemetery",
+    "wayto": {
+      "20066": "east",
+      "20075": "go roots"
+    },
+    "timeto": {
+      "20066": 0.2,
+      "20075": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      174,
+      975,
+      183,
+      984
+    ]
+  }
+}

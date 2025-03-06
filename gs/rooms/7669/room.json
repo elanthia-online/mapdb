@@ -1,0 +1,40 @@
+{
+  "checksum": "92c148e2562fa59139ac615854d7c788",
+  "room": {
+    "id": 7669,
+    "title": [
+      "[Sea Cave, High Path]"
+    ],
+    "description": [
+      "From this high point, you can see clusters of stalagmites rising from the floor below.  A path continues up the ledge.  A fresh sea breeze wafts in from the high ceiling holes."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7664": "down",
+      "7670": "up"
+    },
+    "timeto": {
+      "7664": 0.2,
+      "7670": 0.2
+    },
+    "tags": [
+      "shelfae chieftain",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84411
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      952,
+      465,
+      962,
+      475
+    ]
+  }
+}

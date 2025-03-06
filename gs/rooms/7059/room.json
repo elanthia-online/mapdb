@@ -1,0 +1,50 @@
+{
+  "checksum": "8fc4d77b22220c669f9dcd3eae9d19b6",
+  "room": {
+    "id": 7059,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A number of passages converge here, some tiny and cramped, others a bit wider, but all of them musty and damp.  A strange, sticky substance oozes from the dirt walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7052": "west",
+      "7056": "northeast",
+      "7060": "southwest"
+    },
+    "timeto": {
+      "7052": 0.2,
+      "7056": 0.2,
+      "7060": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42516
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      351,
+      817,
+      361,
+      827
+    ]
+  }
+}

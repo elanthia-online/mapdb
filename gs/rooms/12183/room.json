@@ -1,0 +1,58 @@
+{
+  "checksum": "37e41420bd4f6bd4c707b359c5026008",
+  "room": {
+    "id": 12183,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A dilapidated yellow house sits just to the west of you.  It is surrounded by a small, white fence, and a pebble walkway flanked by withered flowers leads to the old domicile.  Sitting in the windowsill is a large, orange cat that looks at you with spectral eyes.  Just behind it is a small, ghostly girl with her hair in pigtails, stroking the fur of her long departed friend. She looks at you with large eyes, seeming to see through you into some other realm altogether."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12183/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12183/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12183/wayto/stringproc-12152.rb",
+      "12182": "north",
+      "12184": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12182": 0.2,
+      "12184": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568011
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      348,
+      1099,
+      358,
+      1109
+    ]
+  }
+}

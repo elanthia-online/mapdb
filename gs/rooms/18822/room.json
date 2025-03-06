@@ -1,0 +1,50 @@
+{
+  "checksum": "5e1906285d87e6b75efac64ea4ce2a78",
+  "room": {
+    "id": 18822,
+    "title": [
+      "[Sorcerer's Isle, Shore]"
+    ],
+    "description": [
+      "Wavelets from the river lap incessantly against the pebbly beach created by an outwash of a small creek flowing in from the heart of the island.  A pair of large pine trees frame the beach, their ancient roots clinging to the eroding soil like gnarled fingers.  The creek-bed wends its way to the river through a dense thicket of reeds to the southwest."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Sorcerer's Isle",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18821": "southwest",
+      "18823": "/rooms/18822/wayto/stringproc-18823.rb"
+    },
+    "timeto": {
+      "18821": 0.2,
+      "18823": 0.2
+    },
+    "tags": [
+      "wood violet",
+      "water chestnut",
+      "stalk of cattail",
+      "aloeas stem",
+      "wild gooseberry",
+      "murdroot",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-05",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14202001
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1239,
+      286,
+      1267,
+      311
+    ]
+  }
+}

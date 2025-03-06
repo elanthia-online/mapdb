@@ -1,0 +1,28 @@
+{
+  "checksum": "057f9218b42c7743f8c921514f93ab19",
+  "room": {
+    "id": 4428,
+    "title": [
+      "[Abandoned Mine, Interior]"
+    ],
+    "description": [
+      "Light filters in from a distant opening, but it is still very dim in this portion of the tunnel.  A broken shovel lies discarded off to one side, its handle badly cracked and splintered.  Footprints lead in all directions, but most seem to be heading out."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4427": "east",
+      "4429": "west"
+    },
+    "timeto": {
+      "4427": 0.2,
+      "4429": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

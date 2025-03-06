@@ -1,0 +1,51 @@
+{
+  "checksum": "8380aaa756d886c59b5f7db01a220630",
+  "room": {
+    "id": 31568,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Leaning like an aging uncle, a monstrous mansion rises above the cramped streets with slanted windows and crooked pillars that support a sprawling, if ill-repaired porch.  Burgundy, chocolate, and black cherry roses weave through long trellises that decorate the facade, their creeping vines spreading to eclipse a dull green moss-covered stone arch.  Looping over the canal, and opposite a pathway leading southwest, a cobbled bridge provides egress to the town's infamous inn."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31560": "northeast",
+      "31567": "go arch",
+      "31569": "go bridge",
+      "31571": "go pathway",
+      "31577": "west",
+      "31580": "southeast",
+      "33980": "go mansion"
+    },
+    "timeto": {
+      "31560": 0.2,
+      "31567": 0.2,
+      "31569": 0.2,
+      "31571": 0.2,
+      "31577": 0.2,
+      "31580": 0.2,
+      "33980": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "no forageables"
+    ],
+    "uid": [
+      8083002
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      420,
+      375,
+      443,
+      396
+    ]
+  }
+}

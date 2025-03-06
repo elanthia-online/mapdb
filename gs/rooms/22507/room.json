@@ -1,0 +1,25 @@
+{
+  "checksum": "ce1408b3dc0649de57069c4e8ebb266e",
+  "room": {
+    "id": 22507,
+    "title": [
+      "[Woods In the Woods, Upstairs]"
+    ],
+    "description": [
+      "The second story of the shop is nearly identical to the bottom level, to which the staircase leads.  A rickety ladder has been propped through a hole the ceiling leading to the third floor.  A rough-hewn plank has been nailed to the front of a tall wooden wardrobe."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "22506": "go staircase",
+      "22508": "go ladder"
+    },
+    "timeto": {
+      "22506": 0.2,
+      "22508": 0.2
+    },
+    "check_location": false
+  }
+}

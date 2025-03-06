@@ -1,0 +1,50 @@
+{
+  "checksum": "6c4ecbef2ab700e5d9e1e5443e648b05",
+  "room": {
+    "id": 12179,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Chains creak and strain under the load they are holding in the center of this stone-walled room.  Eight rolaren chains reach up, entangle, and reach down to the ground on the opposite side of the large shadowy mass hovering just above the floor.  It shifts and moves, as if alive and seeking an escape from the bindings.  The chains glow slightly in the dim light, throwing unusual shadows on the walls while keeping the mass from growing too much."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12179/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12179/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12179/wayto/stringproc-12152.rb",
+      "12178": "west",
+      "12180": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12178": 0.2,
+      "12180": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud"
+    ],
+    "uid": [
+      4568007
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      294,
+      1004,
+      304,
+      1014
+    ]
+  }
+}

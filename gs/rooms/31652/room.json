@@ -1,0 +1,50 @@
+{
+  "checksum": "50abae1584b47c72685b068fde1a9fd8",
+  "room": {
+    "id": 31652,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Transitioning from cobbled stones to rough-slatted wooden boardwalks, the road becomes a wide bridgelike structure that traverses the boggy ground in this section of the town.   Perched at the junction of stone and wood, a glittering golden stone-strewn footpath darts between thick bushes and staghorn sumacs.  Hovels and huts rise above the muddy road on stilts, their entrances accessible via twisting ramps."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "31613": "southwest",
+      "31630": "northeast",
+      "31653": "go footpath",
+      "31885": "go dusky house",
+      "31902": "go tile-roofed hovel"
+    },
+    "timeto": {
+      "31613": 0.2,
+      "31630": 0.2,
+      "31653": 0.2,
+      "31885": 0.2,
+      "31902": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "seedhead of beebalm",
+      "white willow bark",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083028
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      723,
+      435,
+      745,
+      456
+    ]
+  }
+}

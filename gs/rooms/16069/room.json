@@ -1,0 +1,28 @@
+{
+  "checksum": "ec3d6c71f56dfd91b7f195deec7d9190",
+  "room": {
+    "id": 16069,
+    "title": [
+      "[Alkera's Outfitting]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A simple trestle table and a badly scarred oak counter sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "10875": "out",
+      "16099": "west",
+      "16100": "east"
+    },
+    "timeto": {
+      "10875": 0.2,
+      "16099": 0.2,
+      "16100": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

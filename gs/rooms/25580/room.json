@@ -1,0 +1,35 @@
+{
+  "checksum": "5c4afdcd318fcba44f46cae71548e00f",
+  "room": {
+    "id": 25580,
+    "title": [
+      "[Victory Barracks, Corridor]"
+    ],
+    "description": [
+      "The corridor is barren of furnishings and wide enough for four soldiers to line up in formation.  Broad archways open to the east and west, and to the north, the corridor opens onto the dormitory.  A pair of golden wyverns is inlaid in the stone walls, flanking each archway, and a reinforced oak door to the south leads back to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "25579": "north",
+      "25581": "west",
+      "25582": "east",
+      "25583": "go reinforced door"
+    },
+    "timeto": {
+      "25579": 0.2,
+      "25581": 0.2,
+      "25582": 0.2,
+      "25583": 0.2
+    },
+    "tags": [
+      "meta:mho",
+      "meta:Crimson Legion"
+    ],
+    "uid": [
+      14115251
+    ]
+  }
+}

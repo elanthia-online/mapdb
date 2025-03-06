@@ -1,0 +1,43 @@
+{
+  "checksum": "eaf3f2dc8d6beb8a0d4a66b3182d1560",
+  "room": {
+    "id": 30408,
+    "title": [
+      "[Western Waterway, Cliff's Face]"
+    ],
+    "description": [
+      "Creating a natural rim, lines of pale mineral deposits cling to the northern cliffs, a sharp contrast to the dark coloring of the towering walls.  Waves crash against the rock face, sending spray into the air."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30400": "pedal west",
+      "30401": "pedal northwest",
+      "30407": "pedal southwest",
+      "30409": "pedal south"
+    },
+    "timeto": {
+      "30400": 6,
+      "30401": 6,
+      "30407": 6,
+      "30409": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216183
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      621,
+      3019,
+      641,
+      3041
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "a01d1450aabc23745dcef0ff6f94fd10",
+  "room": {
+    "id": 9367,
+    "title": [
+      "[Lower Caves]"
+    ],
+    "description": [
+      "The damp air grows distinctly colder as you descend into the caves.  The scant warmth from the torch is almost as welcome as the light it sheds.  The utter darkness presses in at the edge of the torchlight, almost a physical presence."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Cairnfang",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9366": "northwest",
+      "9368": "northeast"
+    },
+    "timeto": {
+      "9366": 0.2,
+      "9368": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      630026
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      1034,
+      167,
+      1046,
+      179
+    ]
+  }
+}

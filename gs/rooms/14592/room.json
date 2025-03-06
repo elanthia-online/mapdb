@@ -1,0 +1,32 @@
+{
+  "checksum": "dcef41206a00f969a66fbf2fe2a6c5b8",
+  "room": {
+    "id": 14592,
+    "title": [
+      "[Gypsy Compound, Lore Circle]"
+    ],
+    "description": [
+      "Neatly trimmed grass surrounded by bright white riverstones creates a quiet clearing set between two pathways.  Enormous boulders worn smooth at their tops are set around a sea glass ring and covered with thick blankets for comfort.  A pair of copper lanterns are set into the support poles of a small cottage, while a slender track leads around behind."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "near the Outlands",
+    "wayto": {
+      "14506": "southwest",
+      "14593": "go track",
+      "14594": "northwest",
+      "17077": "go cottage"
+    },
+    "timeto": {
+      "14506": 0.2,
+      "14593": 0.2,
+      "14594": 0.2,
+      "17077": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:mho:The Gypsy Troupe"
+    ]
+  }
+}

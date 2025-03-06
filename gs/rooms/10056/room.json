@@ -1,0 +1,38 @@
+{
+  "checksum": "d04b3cb470a0980c494fa4cff5547d90",
+  "room": {
+    "id": 10056,
+    "title": [
+      "[North Barrow, Ossuary]"
+    ],
+    "description": [
+      "Water drips in glistening rivulets down the cracks in the rough limestone walls, seeping into the black dirt between the heavy, flat stones that form the floor.  Tiny black spiders skitter over the piles of skulls and bones that lie stacked against the walls like piles of old firewood, and a faint scratching sound echoing from somewhere nearby hints at the presence of some larger denizens."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Yegharren Plains",
+    "wayto": {
+      "10055": "south",
+      "10057": "north"
+    },
+    "timeto": {
+      "10055": 0.2,
+      "10057": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13036508
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1322,
+      250,
+      1332,
+      260
+    ]
+  }
+}

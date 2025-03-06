@@ -1,0 +1,32 @@
+{
+  "checksum": "be735bf9a7a0c60db8a30d42712edc3c",
+  "room": {
+    "id": 31795,
+    "title": [
+      "[Evermore Hotel, Wine Cellar]"
+    ],
+    "description": [
+      "A barrel-vaulted wine cellar is dimly lit by glass-paned lanterns, the walls lined with wooden racks filled with dusty glass bottles, most of which are empty.  A cache of steel-banded hickory casks flank an aged oak press.  To one side of a curtained archway, a board of cheeses, breads, and fresh fruit have been left on a three-legged table, a trail of crumbs leading away from the fare to a small mouse hole in the corner."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31793": "northwest",
+      "31796": "go archway"
+    },
+    "timeto": {
+      "31793": 0.2,
+      "31796": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8087166
+    ]
+  }
+}

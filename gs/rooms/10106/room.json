@@ -1,0 +1,40 @@
+{
+  "checksum": "ed607db3037bcaf5730b2c33a422c8ea",
+  "room": {
+    "id": 10106,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "Set within the middle of the western field lies a small, decrepit building.  The fence and path curve towards the east, forming a sharp corner.  A small rabbit can be seen hopping away from the path."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10105": "northwest",
+      "10107": "east"
+    },
+    "timeto": {
+      "10105": 0.2,
+      "10107": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049040
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      804,
+      1018,
+      814,
+      1028
+    ]
+  }
+}

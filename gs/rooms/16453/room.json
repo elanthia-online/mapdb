@@ -1,0 +1,29 @@
+{
+  "checksum": "14fbdc81640dc310ff951ae8be948d8b",
+  "room": {
+    "id": 16453,
+    "title": [
+      "[Misty Isle Exteriors, Display]"
+    ],
+    "description": [
+      "Slabs of the finest marble and granite line the edges of this opulent display room.  Gilded gold candelabra stand like guards at each corner, the light from their candles casting a soft glow across a display of polished woods.  A well-dressed woman wanders the room with a porcelain tray offering tea and pastries to customers."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16343": "east",
+      "16454": "go mistwood door",
+      "16456": "go cherrywood door"
+    },
+    "timeto": {
+      "16343": 0.2,
+      "16454": 0.2,
+      "16456": 0.2
+    },
+    "uid": [
+      3204416
+    ]
+  }
+}

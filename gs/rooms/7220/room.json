@@ -1,0 +1,47 @@
+{
+  "checksum": "630b67e4c0c40c908ae518905c1bac53",
+  "room": {
+    "id": 7220,
+    "title": [
+      "[Underbarrow, Tunnels]"
+    ],
+    "description": [
+      "Clammy, cold air caresses your skin, awakening goosebumps over any exposed flesh.  Spiderwebs tie the bones scattered across the floor together like delicate tendons, forming a collapsed parody of a complete skeleton.  Dust sifts out from between the grey stone blocks of the walls, telling a tale of age and instability in the architecture."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7219": "west",
+      "7221": "northeast"
+    },
+    "timeto": {
+      "7219": 0.2,
+      "7221": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162120
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      678,
+      161,
+      688,
+      171
+    ]
+  }
+}

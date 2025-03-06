@@ -1,0 +1,34 @@
+{
+  "checksum": "888f1b867c22cb508369ab285080ea0c",
+  "room": {
+    "id": 19228,
+    "title": [
+      "[Dark Tunnel]"
+    ],
+    "description": [
+      "There is just enough light to enable you to make out the sturdy wooden beams and braces that shore up the tunnel.  An empty torch bracket is attached to one of the braces.  Narrow steps lead up.  The tunnel to the west is completely dark."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19227": "up",
+      "19229": "west"
+    },
+    "timeto": {
+      "19227": 0.2,
+      "19229": 0.2
+    },
+    "uid": [
+      263045
+    ],
+    "image": "rr-rogue_guild-1305438533.png",
+    "image_coords": [
+      198,
+      259,
+      220,
+      279
+    ]
+  }
+}

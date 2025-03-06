@@ -1,0 +1,50 @@
+{
+  "checksum": "a3e912a790410c805774e375c0683a64",
+  "room": {
+    "id": 2624,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "An immense statue stands before you towering hundreds of feet high, giving you an excellent view of its ankle.  The statue has a large, muscular frame, and is resting his hands on the pommel of a two-handed sword.  As you look up the statue's length, you realize it has one fatal flaw - it's headless."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east",
+      "Obvious paths: northeast, east"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2623": "northeast",
+      "2625": "east",
+      "2635": "/rooms/2624/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2624/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2624/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2623": 0.2,
+      "2625": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "withered deathblossom"
+    ],
+    "uid": [
+      4566046
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      64,
+      831,
+      74,
+      841
+    ]
+  }
+}

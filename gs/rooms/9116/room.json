@@ -1,0 +1,41 @@
+{
+  "checksum": "c375d58bcc5a0af4c2fe6034cc2026c8",
+  "room": {
+    "id": 9116,
+    "title": [
+      "[Great Cavern, Bog]"
+    ],
+    "description": [
+      "The sheer west wall of the cavern looms darkly in the gray haze.  A great plant has grown against it, perhaps finding some solid purchase among the cracked stone.  The plant is like nothing you've ever seen, half mold and half palm."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9115": "east",
+      "9117": "north",
+      "9118": "southeast"
+    },
+    "timeto": {
+      "9115": 0.2,
+      "9117": 0.2,
+      "9118": 0.2
+    },
+    "tags": [
+      "some orchil lichen",
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045229
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      171,
+      752,
+      181,
+      762
+    ]
+  }
+}

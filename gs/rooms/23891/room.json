@@ -1,0 +1,24 @@
+{
+  "checksum": "8c40ac421a2584cdb0e1b392b7e8d71d",
+  "room": {
+    "id": 23891,
+    "title": [
+      "[Unlocking Nature]"
+    ],
+    "description": [
+      "Thatched walls surround this small room with a large opening set for the door and another for a window.  Growing across the latter are several layers of flower-laden vines that offer their sweet scent to the room.  The wooden floor is covered with a fine layer of pollen and flower petals, and a glass-topped wooden case rests in the center of the room.  Hanging from the thatched ceiling above is a woven vine net basket, its contents clearly visible through holes in the netting."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23890": "out",
+      "23892": "go vines"
+    },
+    "timeto": {
+      "23890": 0.2,
+      "23892": 0.2
+    }
+  }
+}

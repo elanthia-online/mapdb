@@ -1,0 +1,41 @@
+{
+  "checksum": "8cf7f98bb9310258465daf9d730b0361",
+  "room": {
+    "id": 6849,
+    "title": [
+      "[Colossus, Knees]"
+    ],
+    "description": [
+      "The knees of the giant are fused into a single smooth mass, unlike the pitted shins of the stone legs below.  A pair of great stone thighs stretches over to the bulk of the torso.  The stone is deathly cold, even through booted feet."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6848": "climb shin",
+      "6850": "go thighs"
+    },
+    "timeto": {
+      "6848": 0.2,
+      "6850": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      374018
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1152,
+      361,
+      1162,
+      371
+    ]
+  }
+}

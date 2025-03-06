@@ -1,0 +1,28 @@
+{
+  "checksum": "d7a5ba00dbbfc12bde342d9e6dfb8c1d",
+  "room": {
+    "id": 4437,
+    "title": [
+      "[Shield Shed, Recess]"
+    ],
+    "description": [
+      "The stone wall of the tunnel curves into a small recess in this part of the shop.  A splintered beam hangs low overhead, causing taller patrons to have to stoop, and a spluttering torch sends shifting light over the displayed shields."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4436": "southeast",
+      "4439": "northeast"
+    },
+    "timeto": {
+      "4436": 0.2,
+      "4439": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

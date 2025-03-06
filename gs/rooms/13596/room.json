@@ -1,0 +1,32 @@
+{
+  "checksum": "b18e437f7597d7ecdf03a5a5ba16c118",
+  "room": {
+    "id": 13596,
+    "title": [
+      "[Gisselle's Outfitting]",
+      "[Gisselle's General Store]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A large cherrywood cabinet and a twisted dark metal rack stand side by side in the middle of the room.",
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A large cherrywood cabinet and an engraved pine case stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: west, out",
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10455": "out",
+      "13693": "west",
+      "17347": "east"
+    },
+    "timeto": {
+      "10455": 0.2,
+      "13693": 0.2,
+      "17347": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

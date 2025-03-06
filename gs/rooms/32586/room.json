@@ -1,0 +1,36 @@
+{
+  "checksum": "1b39dc0c0a94cd5f840f62e25e098a26",
+  "room": {
+    "id": 32586,
+    "title": [
+      "[Imperial Campsite]"
+    ],
+    "description": [
+      "Smoke coils up from some nearby fire pits as dozens of settlers converge upon a boiling stew pot bordered by several logs.  Each passerby helps themselves to the ladle, filling their tin bowl before heading off elsewhere into the camp.  Stretching wide in a field across the way is a huge dusty brown canvas pavilion."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32538": "east",
+      "32587": "go brown pavilion",
+      "32818": "go huge tower"
+    },
+    "timeto": {
+      "32538": 0.2,
+      "32587": 0.2,
+      "32818": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-12"
+    ],
+    "uid": [
+      171516
+    ]
+  }
+}

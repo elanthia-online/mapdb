@@ -1,0 +1,33 @@
+{
+  "checksum": "05ea7a36b762d1afa9157e4ca86c74db",
+  "room": {
+    "id": 12574,
+    "title": [
+      "[Stormbrow Gallery, Lobby]"
+    ],
+    "description": [
+      "Sunlight filters in throught the gates, glittering off a wide staircase that leads upward, spiraling round and round beneath the enormous, glass dome ceiling.  The room is quite spacious, and though sparsely decorated, exudes a sense of elegance and respect.",
+      "The moonlight adds an ethereal glow to the torchlight in the room.  A wide staircase leads upward, spiraling round and round beneath the enormous, glass dome ceiling.  Even at night, the sparsely decorated room exudes a sense of elegance and respect.  A seemingly endless blue-black sky glitters with the hundreds of white starstones that dangle from the ceiling far overhead."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Stormbrow Gallery",
+    "wayto": {
+      "1950": "go gates",
+      "12981": "climb staircase",
+      "14707": "east"
+    },
+    "timeto": {
+      "1950": 0.2,
+      "12981": 0.2,
+      "14707": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3013001
+    ]
+  }
+}

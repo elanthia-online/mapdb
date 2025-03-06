@@ -1,0 +1,38 @@
+{
+  "checksum": "caae84872751963d83d35639a8b721cf",
+  "room": {
+    "id": 7472,
+    "title": [
+      "[Dark Grotto, Cavern]"
+    ],
+    "description": [
+      "A broad ledge runs all the way around the edge of this cavern, circling a huge pit at the center.  The ledge is smooth and even, with plenty of room for you to walk around."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7471": "/rooms/7472/wayto/stringproc-7471.rb",
+      "7473": "/rooms/7472/wayto/stringproc-7473.rb"
+    },
+    "timeto": {
+      "7471": 0.2,
+      "7473": 0.2
+    },
+    "tags": [
+      "some glowing green lichen",
+      "magru"
+    ],
+    "uid": [
+      94015
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      943,
+      934,
+      953,
+      944
+    ]
+  }
+}

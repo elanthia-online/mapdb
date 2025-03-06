@@ -1,0 +1,43 @@
+{
+  "checksum": "276121dba89c95788ddb4e5874a8b769",
+  "room": {
+    "id": 22119,
+    "title": [
+      "[Cairnfang Manor, Dining Room]"
+    ],
+    "description": [
+      "Crystal chandeliers hang from the ceiling, their positioning perfectly illuminates a trio of flowery tables set about the room.  Blue and green braided throw rugs decorate the polished linden floors, their patterns swirling about creating a fanciful pattern.  Framed by a pair of blooming rose bushes, a swinging door leads out of the dining area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "22118": "go doors",
+      "30953": "go linden door",
+      "30956": "/rooms/22119/wayto/stringproc-30956.rb",
+      "30957": "/rooms/22119/wayto/stringproc-30957.rb",
+      "30958": "/rooms/22119/wayto/stringproc-30958.rb"
+    },
+    "timeto": {
+      "22118": 0.2,
+      "30953": 0.2,
+      "30956": 0.2,
+      "30957": 0.2,
+      "30958": 0.2
+    },
+    "tags": [
+      "meta:che:Cairnfang Manor"
+    ],
+    "uid": [
+      106016
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      310,
+      247,
+      321,
+      257
+    ]
+  }
+}

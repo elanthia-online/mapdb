@@ -1,0 +1,32 @@
+{
+  "checksum": "a448a29bc744116e9187c6349e38bc96",
+  "room": {
+    "id": 16095,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "The walls of this room are covered with strange and wonderful objects.  Some are astonishing in their delicacy and beauty, others are amazingly ugly and grotesque.  They are arrayed across the walls in seemingly random order, yet there is an overall organic feeling to the displays."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16091": "south",
+      "16094": "east"
+    },
+    "timeto": {
+      "16091": 0.2,
+      "16094": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734107
+    ]
+  }
+}

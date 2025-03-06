@@ -1,0 +1,45 @@
+{
+  "checksum": "7b2964a9538c604eea4718e0b13846d1",
+  "room": {
+    "id": 31863,
+    "title": [
+      "[Icebriar Lake, Lake's Edge]"
+    ],
+    "description": [
+      "Several lake houses cluster near the snow-covered banks of Icebriar Lake, while others nestle between clusters of trees set to the other side of the cobblestone path that winds along the length of the lake.  Several snowmen loom atop large drifts of snow, many wielding weapons where stick hands would normally be found.  While most of the lake's shore is inaccessible, a single icy bank appears relatively safe, albeit guarded by a squat snowman with a claidhmore."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "icy glacier",
+    "wayto": {
+      "31862": "east",
+      "31864": "go bank",
+      "31865": "west",
+      "31883": "go veranda"
+    },
+    "timeto": {
+      "31862": 0.2,
+      "31864": 0.2,
+      "31865": 0.2,
+      "31883": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083074
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1166,
+      165,
+      1189,
+      187
+    ]
+  }
+}

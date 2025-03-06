@@ -1,0 +1,40 @@
+{
+  "checksum": "0a3926b2382540a7af56085822325bd1",
+  "room": {
+    "id": 5092,
+    "title": [
+      "[Vornavis, West Road]"
+    ],
+    "description": [
+      "The flat stones of the bridge have been expertly crafted to fit snugly together and provide safe passage across the water.  From the bridge, the river seems to flow by slowly with few ripples and no rapids.  Judging from the size of the river, however, it must flow swifter below than on the surface."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the plains of Vornavis",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5091": "east",
+      "5093": "west"
+    },
+    "timeto": {
+      "5091": 0.2,
+      "5093": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4213106
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      1126,
+      787,
+      1136,
+      797
+    ]
+  }
+}

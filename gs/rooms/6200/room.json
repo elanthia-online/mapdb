@@ -1,0 +1,57 @@
+{
+  "checksum": "c8dc7ede00aeb9a631f58c4254716a36",
+  "room": {
+    "id": 6200,
+    "title": [
+      "[Labyrinth, Crossroads]"
+    ],
+    "description": [
+      "Dimly glowing firepits rest along the base of the wall with increased regularity, vastly improving area visibility.  The path opens at a large granite archway carved into the stone walls, though what lies beyond is shrouded in darkness."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6199": "west",
+      "6201": "northwest",
+      "6211": "southwest",
+      "6221": "east",
+      "6247": "go archway"
+    },
+    "timeto": {
+      "6199": 0.2,
+      "6201": 0.2,
+      "6211": 0.2,
+      "6221": 0.2,
+      "6247": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "foe:minotaur warrior",
+      "soft white mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167066
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      943,
+      401,
+      979,
+      437
+    ]
+  }
+}

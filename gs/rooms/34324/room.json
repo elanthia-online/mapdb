@@ -1,0 +1,44 @@
+{
+  "checksum": "2d4d4383311d26e9541ee556de617c04",
+  "room": {
+    "id": 34324,
+    "title": [
+      "[Thunder Plateau, Griffin Path]"
+    ],
+    "description": [
+      "Unrelenting weather has a cruel effect on this area, leaving the muddy ground slick in areas where the rocks have shifted, and the rocky ground dangerous where moss and mildew have taken residence.  A precipitous rockface leading to a western plateau appears formidable, while the southern trail, lined with broken shells and cracked eggs, appears much more stable."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Stormpeak",
+    "climate": "moist",
+    "terrain": "rough",
+    "wayto": {
+      "34322": "/rooms/34324/wayto/stringproc-34322.rb",
+      "34326": "south"
+    },
+    "timeto": {
+      "34322": 0.2,
+      "34326": 0.2
+    },
+    "tags": [
+      "broken twig",
+      "wild chokecherry",
+      "cabbage rose",
+      "virescent rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150307
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1449,
+      160,
+      1467,
+      179
+    ]
+  }
+}

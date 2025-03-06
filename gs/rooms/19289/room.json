@@ -1,0 +1,29 @@
+{
+  "checksum": "f3f5dbe1be250069c680fccf8db2818b",
+  "room": {
+    "id": 19289,
+    "title": [
+      "[Fennik's Weaponry]"
+    ],
+    "description": [
+      "The broad sweep of the dark oak floor is interrupted by a plush black bear fur rug.  Halfway to the white stucco ceiling, a fused sun and moon wall-hanging hangs on one of the rough white stucco walls.  A set of carved felwood shelves is pushed to the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9017": "out",
+      "21245": "west",
+      "21246": "east"
+    },
+    "timeto": {
+      "9017": 0.2,
+      "21245": 0.2,
+      "21246": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "92289a6e2babef6fb9d8dde2dbac7874",
+  "room": {
+    "id": 21216,
+    "title": [
+      "[Zandie's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a dark and light oak ceiling, a tattered merchant permit hangs on one of the refined oak-paneled walls.  A Vornavian silk-covered table and a Vornavian silk-lined display case sit in opposite corners while a woven Vornavian silk rug rests on a varnished dark oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9010": "out",
+      "21293": "northwest",
+      "21294": "east"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "21293": 0.2,
+      "21294": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

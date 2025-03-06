@@ -1,0 +1,29 @@
+{
+  "checksum": "2ba84baaf0557c40b4a349dbf2bd08e8",
+  "room": {
+    "id": 18811,
+    "title": [
+      "[Psystahldar's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10451": "out",
+      "19566": "east",
+      "19567": "north"
+    },
+    "timeto": {
+      "10451": 0.2,
+      "19566": 0.2,
+      "19567": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

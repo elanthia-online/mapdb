@@ -1,0 +1,43 @@
+{
+  "checksum": "bf391ffe44d2744d9fdde4119701d8ce",
+  "room": {
+    "id": 31962,
+    "title": [
+      "[Vigil's End, Legion Lane]"
+    ],
+    "description": [
+      "Almost nothing man-made has survived here, the buildings merely empty, broken shells of their former selves.  Virid moss patches and blooming ivy climb over the scorched stones of the crumbling homes as nature reclaims its territory.  The stench of decaying flesh suffocates any delicate notes from the surrounding verdure, emanating from an enormous, blood red corpse flower blossoming in the half-shattered carapace of a bisected two-story house."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31961": "east",
+      "31963": "west",
+      "32177": "go two-story house"
+    },
+    "timeto": {
+      "31961": 0.2,
+      "31963": 0.2,
+      "32177": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083091
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1128,
+      334,
+      1151,
+      356
+    ]
+  }
+}

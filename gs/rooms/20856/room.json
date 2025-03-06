@@ -1,0 +1,41 @@
+{
+  "checksum": "553b68cdf7b1356d564aa38817a38213",
+  "room": {
+    "id": 20856,
+    "title": [
+      "[Obsidian Tower, Passageway]"
+    ],
+    "description": [
+      "This hallway is stunningly decorated with a mural of silver beaten into the glossy black walls and ceiling.  The scene depicts a fantastic battle of great dragons and powerful Ur'Daemon, each figure a silver silhouette on a field of obsidian.  Several torches mounted on the walls burn with a strange blue flame, sending an eerie glow of scintillating light reflecting across the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20848": "west",
+      "20857": "go doors",
+      "20866": "east",
+      "20867": "northeast"
+    },
+    "timeto": {
+      "20848": 0.2,
+      "20857": 0.2,
+      "20866": 0.2,
+      "20867": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower"
+    ],
+    "uid": [
+      214017
+    ],
+    "image": "wo-obsidian-tower-1626034546.png",
+    "image_coords": [
+      792,
+      798,
+      849,
+      852
+    ]
+  }
+}

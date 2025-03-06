@@ -1,0 +1,41 @@
+{
+  "checksum": "b6dd2384223df3cd032a7b1c203a4122",
+  "room": {
+    "id": 3396,
+    "title": [
+      "[Inking Den, Annex Hallway]"
+    ],
+    "description": [
+      "Frosted globes nestled within decorative wall sconces provide a steady glow of welcoming light down the long corridor.  The walls are hidden behind bright ivory white silk drapery, the soft ends of which pool upon the thick cerulean and azure carpet.  Built into opposing walls, a lacquered beige door and a lacquered white door part the drapery and have a trio of brightly glowing globes directly above their pointed, cinquefoil frames."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "2437": "southwest",
+      "7705": "northeast",
+      "30607": "go white door",
+      "33180": "go beige door"
+    },
+    "timeto": {
+      "2437": 0.2,
+      "7705": 0.2,
+      "30607": 0.2,
+      "33180": 0.2
+    },
+    "tags": [
+      "peer door =~ /Silvergate Inn|Twilight Hall/"
+    ],
+    "uid": [
+      7121204
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      603,
+      408,
+      632,
+      438
+    ]
+  }
+}

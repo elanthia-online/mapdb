@@ -1,0 +1,67 @@
+{
+  "checksum": "2e979bc66609dec704d686612deb9096",
+  "room": {
+    "id": 26905,
+    "title": [
+      "[Bloodriven Village, River Bank]"
+    ],
+    "description": [
+      "Feeding in through the Locksmehr River to the south, dark waters flow north from the wide watercourse.  The shore is narrow, and the only pathway is a muddy trail leading up the river bank.",
+      "Small tributaries feed into the Locksmehr River, creating a wide watercourse filled with swiftly flowing dark waters that eventually empty into Darkstone Bay.  The narrow shoreline follows the river's edge, the newly shorn grasses providing a rundown hovel in the distance, while nearer at hand a muddy trail provides the only pathway up the riverbank to the city gates.",
+      "Small frozen tributaries feed into the Locksmehr River, creating a wide solid watercourse filled with dark ice that leads into Darkstone Bay. The narrow shoreline follows the river's edge, the barren ground providing a rundown hovel in the distance, while nearer at hand a ice and mud-covered trail provides the only pathway up the riverbank to the city gates."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "7": "/rooms/26905/wayto/stringproc-7.rb",
+      "284": "/rooms/26905/wayto/stringproc-284.rb",
+      "1448": "/rooms/26905/wayto/stringproc-1448.rb",
+      "1944": "/rooms/26905/wayto/stringproc-1944.rb",
+      "2426": "/rooms/26905/wayto/stringproc-2426.rb",
+      "3669": "/rooms/26905/wayto/stringproc-3669.rb",
+      "3727": "/rooms/26905/wayto/stringproc-3727.rb",
+      "4651": "/rooms/26905/wayto/stringproc-4651.rb",
+      "9410": "/rooms/26905/wayto/stringproc-9410.rb",
+      "9652": "/rooms/26905/wayto/stringproc-9652.rb",
+      "10862": "/rooms/26905/wayto/stringproc-10862.rb",
+      "26386": "go shore",
+      "26904": "up",
+      "28908": "/rooms/26905/wayto/stringproc-28908.rb",
+      "33578": "/rooms/26905/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "7": "/rooms/26905/timeto/stringproc-7.rb",
+      "284": "/rooms/26905/timeto/stringproc-284.rb",
+      "1448": "/rooms/26905/timeto/stringproc-1448.rb",
+      "1944": "/rooms/26905/timeto/stringproc-1944.rb",
+      "2426": "/rooms/26905/timeto/stringproc-2426.rb",
+      "3669": "/rooms/26905/timeto/stringproc-3669.rb",
+      "3727": "/rooms/26905/timeto/stringproc-3727.rb",
+      "4651": "/rooms/26905/timeto/stringproc-4651.rb",
+      "9410": "/rooms/26905/timeto/stringproc-9410.rb",
+      "9652": "/rooms/26905/timeto/stringproc-9652.rb",
+      "10862": "/rooms/26905/timeto/stringproc-10862.rb",
+      "26386": 0.2,
+      "26904": 0.2,
+      "28908": "/rooms/26905/timeto/stringproc-28908.rb",
+      "33578": "/rooms/26905/timeto/stringproc-33578.rb"
+    },
+    "tags": [
+      "exit",
+      "meta:teleport"
+    ],
+    "uid": [
+      8214501
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      631,
+      1130,
+      661,
+      1161
+    ],
+    "check_location": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "b25e5d1de48aaee1565e1bef2d6cc357",
+  "room": {
+    "id": 17813,
+    "title": [
+      "[Rooftop]"
+    ],
+    "description": [
+      "A plank in horrible condition leads the way to another rooftop.  It's warped, rotting and cracked in several places.  It's a long fall if you slip."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17810": "south",
+      "17814": "go plank"
+    },
+    "timeto": {
+      "17810": 0.2,
+      "17814": 0.2
+    },
+    "uid": [
+      267115
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      700,
+      633,
+      740,
+      672
+    ]
+  }
+}

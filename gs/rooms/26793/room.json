@@ -1,0 +1,34 @@
+{
+  "checksum": "fb178e30a08af38c60150a8806aafcc7",
+  "room": {
+    "id": 26793,
+    "title": [
+      "[Catacombs, Dark Tunnels]"
+    ],
+    "description": [
+      "The walls of the tunnel are still fairly intact here, with little sign of decay.  A draft of stale air wafts up from a shaft in the center of the floor.  The tattered remains of a rope cling to a small ring in the ceiling, poised directly over the shaft."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "7502": "go shaft",
+      "26791": "southwest"
+    },
+    "timeto": {
+      "7502": 0.2,
+      "26791": 0.2
+    },
+    "uid": [
+      4126023
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      1007,
+      1198,
+      1018,
+      1209
+    ]
+  }
+}

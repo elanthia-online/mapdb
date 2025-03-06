@@ -1,0 +1,54 @@
+{
+  "checksum": "c481c9e672c73214e7cd0ce5fd7f3ba2",
+  "room": {
+    "id": 25621,
+    "title": [
+      "[Mistydeep, Ravelin]"
+    ],
+    "description": [
+      "Here, the Mistydeep slows its pace as it meanders through a quiet community.  Homes blend in with the surrounding foliage as if part of the forest itself.  Propped in the fork of a tree, a fishing pole leans out over the water, its line and cork float bobbing gaily in the current.  On the other side of the river, a pebbled shoal gives way to a marshy area where dragonflies dart about a tall stand of cattails."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "13966": "/rooms/25621/wayto/stringproc-13966.rb",
+      "25620": "/rooms/25621/wayto/stringproc-25620.rb",
+      "25622": "/rooms/25621/wayto/stringproc-25622.rb",
+      "25623": "/rooms/25621/wayto/stringproc-25623.rb",
+      "30505": "swim down"
+    },
+    "timeto": {
+      "13966": "/rooms/25621/timeto/stringproc-13966.rb",
+      "25620": "/rooms/25621/timeto/stringproc-25620.rb",
+      "25622": "/rooms/25621/timeto/stringproc-25622.rb",
+      "25623": "/rooms/25621/timeto/stringproc-25623.rb",
+      "30505": "/rooms/25621/timeto/stringproc-30505.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117007
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1083,
+      651,
+      1103,
+      669
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "7ec00ad0aaded8f855c6046fcb94d5dc",
+  "room": {
+    "id": 14996,
+    "title": [
+      "[Brass Tower, Entrance]"
+    ],
+    "description": [
+      "Cold and damp, the tower interior is smaller than expected though roomy enough to feel comfortable even in a large group.  The smell of the sea is still strong here, providing a musty flavor to the air.  A circular stairway leads to a landing above you, but the upper portion of it is scorched and twisted."
+    ],
+    "paths": [
+      "Obvious exits: up, out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "14995": "out",
+      "15521": "up"
+    },
+    "timeto": {
+      "14995": 0.2,
+      "15521": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      7115
+    ]
+  }
+}

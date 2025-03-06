@@ -1,0 +1,56 @@
+{
+  "checksum": "4f97f06649254e75cb412b33eb148f81",
+  "room": {
+    "id": 6327,
+    "title": [
+      "[Melgorehn's Reach, Tower]"
+    ],
+    "description": [
+      "Looming before you stands a tall grey tower shrouded in a misty fog.  A courtyard surrounds the tower and is protected by a massive portcullis.  A thin blanket of mist flows toward a narrow set of stairs leading down.",
+      "Looming before you stands a tall grey tower silhouetted by a dark mountain.  A courtyard surrounds the tower and is protected by a massive portcullis.  A few steps away lie a narrow set of stairs leading down."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6326": "/rooms/6327/wayto/stringproc-6326.rb",
+      "6328": "go portcullis"
+    },
+    "timeto": {
+      "6326": 0.2,
+      "6328": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "marallis berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "golden aster",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      52023
+    ],
+    "image": "wl-wizard_guild.jpg",
+    "image_coords": [
+      315,
+      718,
+      366,
+      766
+    ]
+  }
+}

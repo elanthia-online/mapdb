@@ -1,0 +1,41 @@
+{
+  "checksum": "af31cd39925b1cd31746a98e99163fe1",
+  "room": {
+    "id": 2115,
+    "title": [
+      "[Teras Isle, High Road]"
+    ],
+    "description": [
+      "As the causeway makes the main slope of V'tull, you notice that much of its construction is glaes, cut with vents and channels.  The black residue striping the road and the wafting odor of brimstone suggest these channels guide lava safely across or under the path.  Steaming lines of red liquid stone etch the higher slopes, making you glad for Dwarven foresight."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the old Logging Road",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2114": "southwest",
+      "2116": "northeast"
+    },
+    "timeto": {
+      "2114": 0.2,
+      "2116": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3009024
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      471,
+      297,
+      481,
+      307
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "8a8572f94f7fb5661db3f41e383cb92e",
+  "room": {
+    "id": 7065,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Crude tools--sharpened stones, bone fragments, bits of metal--are strewn about the tunnel in various states of decay, hinting at their ineffectiveness.  The tunnel is narrow here, as if its creators were trying to save their strength."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7064": "northeast",
+      "7066": "southwest",
+      "7067": "northwest"
+    },
+    "timeto": {
+      "7064": 0.2,
+      "7066": 0.2,
+      "7067": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42502
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      189,
+      979,
+      199,
+      989
+    ]
+  }
+}

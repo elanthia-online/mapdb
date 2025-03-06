@@ -1,0 +1,28 @@
+{
+  "checksum": "fa2d3a297d0ab0c00727f64fb7a06ab7",
+  "room": {
+    "id": 12880,
+    "title": [
+      "[Apple Orchard, Entry]"
+    ],
+    "description": [
+      "Rows of apple trees, their lush, leaf-covered branches arching overhead, stretch out as far as the eye can see.  Moss and leaf litter cover the ground below, and the stench of rotting apples permeates the air."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12879": "south",
+      "12899": "north"
+    },
+    "timeto": {
+      "12879": 0.2,
+      "12899": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

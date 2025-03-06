@@ -1,0 +1,54 @@
+{
+  "checksum": "8db2b3fb5869cc2d0b119873516ea485",
+  "room": {
+    "id": 6244,
+    "title": [
+      "[Labyrinth, The Forge]"
+    ],
+    "description": [
+      "The cold, damp bite of the complex begins to fade as the tunnel takes another sharp turn."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6237": "southeast",
+      "6238": "northwest",
+      "6239": "north",
+      "6240": "northeast",
+      "6242": "east",
+      "6243": "southwest"
+    },
+    "timeto": {
+      "6237": 0.2,
+      "6238": 0.2,
+      "6239": 0.2,
+      "6240": 0.2,
+      "6242": 0.2,
+      "6243": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2167088
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1085,
+      602,
+      1103,
+      620
+    ]
+  }
+}

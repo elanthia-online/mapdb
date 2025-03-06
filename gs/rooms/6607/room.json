@@ -1,0 +1,40 @@
+{
+  "checksum": "b25df19427be8c2ba8838fa1532e22a1",
+  "room": {
+    "id": 6607,
+    "title": [
+      "[Castle Chamber]"
+    ],
+    "description": [
+      "This room is dominated by a beautifully preserved hearth, its handsome overmantel rich with carved grotesques and armorial bearings.  Wood-paneled walls surround it, and the whole is illuminated by three large, mullioned windows.  Tapestries decorate the walls, offering faded views of woodland scenes.  A small door on the north wall is crowned by a carved panel bearing an elaborate coat-of-arms."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6576": "north",
+      "6598": "out",
+      "6608": "go tapestries"
+    },
+    "timeto": {
+      "6576": 0.2,
+      "6598": 0.2,
+      "6608": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285035
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1095,
+      634,
+      1105,
+      644
+    ]
+  }
+}

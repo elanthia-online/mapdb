@@ -1,0 +1,38 @@
+{
+  "checksum": "376457459fa054820f55f2dbb033c260",
+  "room": {
+    "id": 9747,
+    "title": [
+      "[Maaghara Tower, Stair]"
+    ],
+    "description": [
+      "The tree towers up and up into the misty darkness, while the spiraling steps continue their climb up the side of the trunk.  High above, bats circle in and amongst the huge, woody branches and growths that run across the interior of the tree.  Mists rise from below, cloaking the bottom of the tower in a hazy shroud."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9740": "climb staircase",
+      "9748": "east"
+    },
+    "timeto": {
+      "9740": 0.2,
+      "9748": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021014
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      807,
+      518,
+      817,
+      528
+    ]
+  }
+}

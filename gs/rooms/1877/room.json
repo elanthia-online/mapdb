@@ -1,0 +1,45 @@
+{
+  "checksum": "b401e5a29d252c616ed68184d4c4ea47",
+  "room": {
+    "id": 1877,
+    "title": [
+      "[Kharam-Dzu, Poor Quarter]"
+    ],
+    "description": [
+      "Tumble-down houses lean against one another like tired old drunks.  On the north side of the street, an abandoned warehouse squats in a haze of soot.  A shabby-looking group of dwarves, humans and others huddles before it, muttering quietly to one another.  One of the dwarves seems to be staring at you from beneath the hood of his grimy cloak."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1867": "east",
+      "1874": "southwest",
+      "1875": "west",
+      "12420": "go warehouse"
+    },
+    "timeto": {
+      "1867": 0.2,
+      "1874": 0.2,
+      "1875": 0.2,
+      "12420": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002025
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      204,
+      834,
+      240,
+      870
+    ]
+  }
+}

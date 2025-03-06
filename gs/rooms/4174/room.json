@@ -1,0 +1,47 @@
+{
+  "checksum": "4c3e6f464c0d86a4907c45c2d8f42fbf",
+  "room": {
+    "id": 4174,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "This cavern is caked with dried blood which coats the floor and walls in this area drinking in all the light.  Every cave looks like the last as you struggle to find your way around inside them."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4175": "/rooms/4174/wayto/stringproc-4175.rb",
+      "16805": "southwest"
+    },
+    "timeto": {
+      "4175": 0.2,
+      "16805": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138122
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      701,
+      866,
+      711,
+      876
+    ]
+  }
+}

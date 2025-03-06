@@ -1,0 +1,30 @@
+{
+  "checksum": "897630e631cb3463de1a7e4c46bea5fe",
+  "room": {
+    "id": 33713,
+    "title": [
+      "[Emberthorn Refuge, Platform]"
+    ],
+    "description": [
+      "Secluded behind drapes of interwoven vines, an oversized, downy feather bed nestled in a cradle of curving branches is situated in the center of a lofty platform overlooking a lush garden.  A near-perfect circular opening in the canopy overhead acts as a skylight, offering a glimpse beyond the verdurous sanctuary.  Thrown over a gnarled branch of a prodigious, hollow-trunk tree, a length of knotted rope dangles over the pooling water of a woodland waterfall below."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "33712": "down",
+      "33714": "/rooms/33713/wayto/stringproc-33714.rb"
+    },
+    "timeto": {
+      "33712": 0.2,
+      "33714": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022630
+    ]
+  }
+}

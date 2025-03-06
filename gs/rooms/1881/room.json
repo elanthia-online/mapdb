@@ -1,0 +1,35 @@
+{
+  "checksum": "7a6fb35740c83f751916889dec8bc8f4",
+  "room": {
+    "id": 1881,
+    "title": [
+      "[Locks Picked & Lockpicks]"
+    ],
+    "description": [
+      "Darkness seems to be the theme for this room as it has no lighting save for what washes in from the entrance.  Before you is a short wooden counter with an odd-looking tree of keys resting on it.  You notice a small note just under the tree.  Behind the counter, a slit-eyed halfling watches you with a practice-wary gaze.",
+      "Darkness seems to be the theme for this room as it has no lighting save for what washes in from the entrance.  Before you is a short wooden counter with an odd-looking tree of keys resting on it, beneath which is a small note.  A dusty wooden crate sits in a shadowed corner.  Behind the counter, a slit-eyed halfling watches you with a practice-wary gaze."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1880": "out",
+      "30715": "/rooms/1881/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1880": 0.2,
+      "30715": "/rooms/1881/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "locksmith",
+      "meta:trashcan:dusty wooden crate",
+      "urchin-access",
+      "urchin guide locksmith",
+      "locksmith shop"
+    ],
+    "uid": [
+      3003066
+    ]
+  }
+}

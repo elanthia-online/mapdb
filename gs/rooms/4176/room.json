@@ -1,0 +1,39 @@
+{
+  "checksum": "a8484b65d2e9722705914f1fdf2822cd",
+  "room": {
+    "id": 4176,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "The heat here is very intense, and you take short shallow breaths to prevent your lungs from being singed.  Sweat runs down your arms and into your hands, causing you to rub them unconsciously to dry them."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4175": "east",
+      "4177": "west"
+    },
+    "timeto": {
+      "4175": 0.2,
+      "4177": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138137
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      731,
+      998,
+      741,
+      1008
+    ]
+  }
+}

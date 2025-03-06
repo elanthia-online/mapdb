@@ -1,0 +1,47 @@
+{
+  "checksum": "9e3fd83ae5999ec4736bbfb90cff006a",
+  "room": {
+    "id": 15918,
+    "title": [
+      "[Twisting Tunnels]"
+    ],
+    "description": [
+      "A maze of tunnels leads away from this small chamber in all directions.  The low ceiling, poor lighting, and sudden twists and turns make it impossible to see far enough in any direction to get your bearings.  Some passageways lead only a few feet and dead end, while others twist and turn in odd directions before opening into another chamber."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southwest, west, up"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "15917": "up",
+      "15921": "north",
+      "15923": "west",
+      "15928": "east",
+      "23255": "southwest"
+    },
+    "timeto": {
+      "15917": 0.2,
+      "15921": 0.2,
+      "15923": 0.2,
+      "15928": 0.2,
+      "23255": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "some bolmara lichen",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045132
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      975,
+      214,
+      985,
+      224
+    ]
+  }
+}

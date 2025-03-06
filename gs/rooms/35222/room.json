@@ -1,0 +1,27 @@
+{
+  "checksum": "263cc920014fdb309c78fd4fc5b1cde3",
+  "room": {
+    "id": 35222,
+    "title": [
+      "[Argent Aspis, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "35221": "east",
+      "35223": "go beaded curtain"
+    },
+    "timeto": {
+      "35221": 0.2,
+      "35223": 0.2
+    },
+    "uid": [
+      5001064
+    ]
+  }
+}

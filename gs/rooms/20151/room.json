@@ -1,0 +1,35 @@
+{
+  "checksum": "b09240b06229ea7c818b72219c19ad06",
+  "room": {
+    "id": 20151,
+    "title": [
+      "[Feywrot Mire, Banyan Cirque]"
+    ],
+    "description": [
+      "Long tendrils of grey-green moss drape gracefully from the overhead branches of an ancient cedar.  An artistic touch has been rendered with the twisting of red silk ribbons into the tendrils, like a grey-haired matriarch with beribboned braids.  Beneath the living curtain, chiseled-stone statues stand sentinel at the corners of a raised wooden platform."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20145": "southwest",
+      "20152": "go moss",
+      "20156": "northeast",
+      "22530": "go ebon-draped wagon"
+    },
+    "timeto": {
+      "20145": 0.2,
+      "20152": 0.2,
+      "20156": 0.2,
+      "22530": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      465,
+      381,
+      478,
+      394
+    ]
+  }
+}

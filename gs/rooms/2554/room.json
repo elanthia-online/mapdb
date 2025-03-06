@@ -1,0 +1,40 @@
+{
+  "checksum": "e64cfbca65b09e72804f1c48627081fc",
+  "room": {
+    "id": 2554,
+    "title": [
+      "[Glatoph, Chasm Floor]"
+    ],
+    "description": [
+      "Trickles of water flow down the icy walls and gather in a pool.  Above you the chasm widens and a trail winds its way upward.  Off to the north, the trail heads into a large icy passage.  Flowing from the pool, a small stream runs down the ice and into the opening."
+    ],
+    "paths": [
+      "Obvious paths: north, up"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2553": "north",
+      "2555": "up"
+    },
+    "timeto": {
+      "2553": 0.2,
+      "2555": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4044004
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      713,
+      839,
+      723,
+      849
+    ]
+  }
+}

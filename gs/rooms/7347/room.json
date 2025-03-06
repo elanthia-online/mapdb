@@ -1,0 +1,44 @@
+{
+  "checksum": "e5fd96f20ceb8ca4fc2c8247f6be8d27",
+  "room": {
+    "id": 7347,
+    "title": [
+      "[Dark Pasture, Black Stream]"
+    ],
+    "description": [
+      "Walking down the bank into the stream bed, you notice that it's not as dry as you thought.  Instead of water, a black viscous liquid oozes slowly beneath your feet, a ghastly echo of the water that once ran here."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "riparian",
+    "wayto": {
+      "7344": "east",
+      "7346": "northwest",
+      "7374": "southwest"
+    },
+    "timeto": {
+      "7344": 0.2,
+      "7346": 0.2,
+      "7374": 0.2
+    },
+    "tags": [
+      "black slime",
+      "meta:forage-sensed",
+      "longgrass",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161011
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1042,
+      811,
+      1050,
+      819
+    ]
+  }
+}

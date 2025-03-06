@@ -1,0 +1,36 @@
+{
+  "checksum": "2663d0c9bc41073a1924ac266f8a56ce",
+  "room": {
+    "id": 23658,
+    "title": [
+      "[Locus Lyceum, Western Corridor]"
+    ],
+    "description": [
+      "Tangerine-hued zebra wood is cut into thin planks to create the darkly grained floor panels that line the corridor and stretch both north and south.  Deep plum hues decorate the western walls, which are crafted of bamboo-framed screens, while a vine-etched golden linden archway sits in the northwestern wall.  Silvery moonlight and sweet scents spread through the room from the wide opening that the archway creates."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23653": "southeast",
+      "23654": "go golden archway",
+      "23657": "northwest"
+    },
+    "timeto": {
+      "23653": 0.2,
+      "23654": 0.2,
+      "23657": 0.2
+    },
+    "uid": [
+      15006006
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      826,
+      1892,
+      894,
+      1955
+    ]
+  }
+}

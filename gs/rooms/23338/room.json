@@ -1,0 +1,63 @@
+{
+  "checksum": "587cf471c8960754ca4b21fce9cdf3dd",
+  "room": {
+    "id": 23338,
+    "title": [
+      "[Alpine Forest, Clearing]"
+    ],
+    "description": [
+      "A perfectly round clearing is shielded from falling snow by a thick canopy of pine branches overhead.  A lone tree stump sits in the middle of the area, in front of a long black granite table.  Shielding the bottom of the tree trunks from view are two half-circles of thorny hedges, broken only by the entrance to the clearing and by a towering spiked gate."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Zul Logoth",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous",
+    "wayto": {
+      "23339": "/rooms/23338/wayto/stringproc-23339.rb",
+      "23385": "out"
+    },
+    "timeto": {
+      "23339": 0.2,
+      "23385": 0.2
+    },
+    "tags": [
+      "tkaro root",
+      "sticks",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "handful of pinenuts",
+      "broken twig",
+      "pine cone",
+      "pine needles",
+      "cluster of butterflyweed",
+      "snowberries",
+      "tree bark",
+      "rockberry",
+      "crowberry",
+      "ironfern root",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wintercrisp apple",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018040
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      310,
+      10,
+      320,
+      20
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "af3714c2103d1e9f441f5b3dfe89f098",
+  "room": {
+    "id": 31134,
+    "title": [
+      "[House Aspis, 3rd Floor Landing]"
+    ],
+    "description": [
+      "This floor holds the rooms of the House Officers and other senior members.  It is richly panelled in fine woods, and thick woven rugs cover the floor.  A staircase leads down to the lower floors.  A row of multi-paned windows gives light during the day, and a small table holds brass oil lamps and candles for use at night."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31126": "go staircase",
+      "31135": "east",
+      "31136": "west"
+    },
+    "timeto": {
+      "31126": 0.2,
+      "31135": 0.2,
+      "31136": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102301
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      617,
+      127,
+      751,
+      197
+    ]
+  }
+}

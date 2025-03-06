@@ -1,0 +1,37 @@
+{
+  "checksum": "a0b1b88ba116a87c10f13dea98ef0856",
+  "room": {
+    "id": 17935,
+    "title": [
+      "[Guild Shop]"
+    ],
+    "description": [
+      "Brass sconces provide the only light in here except a few stray rays of sunshine filtering through the boarded window.  The shopkeeper cleans his nails with a broken lockpick while keeping a watchful eye on the merchandise."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "17934": "go door",
+      "17958": "south"
+    },
+    "timeto": {
+      "17934": 0.2,
+      "17958": 0.2
+    },
+    "tags": [
+      "rogue guild shop"
+    ],
+    "uid": [
+      264019
+    ],
+    "image": "vo-rogue_guild-1305438533.png",
+    "image_coords": [
+      552,
+      817,
+      581,
+      843
+    ]
+  }
+}

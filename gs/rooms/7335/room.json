@@ -1,0 +1,47 @@
+{
+  "checksum": "ebda89fc9e6598731086cac6e7b0e66a",
+  "room": {
+    "id": 7335,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "A dull mist hangs low to the ground, obscuring whatever features this pasture had.  Above you dull grey clouds float in a lazy mimic of the mist at your feet.  A lone twisted tree rises up from the mist, in muted defiance of the desolation around it."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7334": "northwest",
+      "7336": "northeast",
+      "7342": "southeast",
+      "7345": "southwest"
+    },
+    "timeto": {
+      "7334": 0.2,
+      "7336": 0.2,
+      "7342": 0.2,
+      "7345": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161005
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1094,
+      756,
+      1104,
+      766
+    ]
+  }
+}

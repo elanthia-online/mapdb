@@ -1,0 +1,38 @@
+{
+  "checksum": "88d42847316dee745d9ab57a4f9ee167",
+  "room": {
+    "id": 16905,
+    "title": [
+      "[Municipal Building, Hallway]"
+    ],
+    "description": [
+      "Dingy white stone walls meet dark grey tiled floor, creating a rather drab backdrop to a few sparse steel-framed chairs.  Most of the doors along the hallway have identifying signs tacked on or next to them, though a few are missing."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16843": "west",
+      "16906": "go agate-inset door",
+      "16907": "go metal door",
+      "30288": "go faux-wood door",
+      "32821": "go steel door"
+    },
+    "timeto": {
+      "16843": 0.2,
+      "16906": 0.2,
+      "16907": 0.2,
+      "30288": 0.2,
+      "32821": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13014055
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "checksum": "552c5d3bce64a32ef894bef277730c9a",
+  "room": {
+    "id": 1448,
+    "title": [
+      "[Solhaven, North Market NE]"
+    ],
+    "description": [
+      "The northeast corner of the market is somewhat quieter than the bustling center.  A steady stream of customers flows through the door of an elegant stone building.  Windowboxes burst with bright red begonias.  A gleaming brass plaque is affixed to the bright blue front door."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1436": "north",
+      "1437": "west",
+      "1438": "southwest",
+      "1449": "east",
+      "1453": "south",
+      "3668": "/rooms/1448/wayto/stringproc-3668.rb",
+      "5719": "go front door",
+      "26905": "/rooms/1448/wayto/stringproc-26905.rb",
+      "30710": "/rooms/1448/wayto/stringproc-30710.rb",
+      "31558": "/rooms/1448/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "1436": 0.2,
+      "1437": 0.2,
+      "1438": 0.2,
+      "1449": 0.2,
+      "1453": 0.2,
+      "3668": "/rooms/1448/timeto/stringproc-3668.rb",
+      "5719": 0.2,
+      "26905": 2400,
+      "30710": "/rooms/1448/timeto/stringproc-30710.rb",
+      "31558": "/rooms/1448/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "meta:teleport",
+      "no forageables",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      4209023
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      513,
+      1026,
+      537
+    ]
+  }
+}

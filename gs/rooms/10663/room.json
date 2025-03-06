@@ -1,0 +1,43 @@
+{
+  "checksum": "46f50aab216f49dee80100cd92a41348",
+  "room": {
+    "id": 10663,
+    "title": [
+      "[Neartofar Forest, Stockade]"
+    ],
+    "description": [
+      "A few small pens have been erected against the back of the blockhouse, their split pine rails secured with rope-like vines.  Loose straw covers the hard-packed earth, perhaps to create a comfortable resting place--but there are no signs to indicate what animals inhabited the pens.  A rickety wooden ladder leans against the outer wall, providing access to the northern gallery."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, up"
+    ],
+    "location": "the Neartofar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10661": "southeast",
+      "10664": "up",
+      "10665": "southwest"
+    },
+    "timeto": {
+      "10661": 0.2,
+      "10664": 0.2,
+      "10665": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14015203
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      871,
+      843,
+      883,
+      855
+    ]
+  }
+}

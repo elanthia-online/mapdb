@@ -1,0 +1,39 @@
+{
+  "checksum": "95d4f11a7b99b3d14adf8d070caad4d8",
+  "room": {
+    "id": 14679,
+    "title": [
+      "[Hearthstone, Linen Closet]"
+    ],
+    "description": [
+      "Serving the various needs of the manor, this roomy closet is filled with all sorts of linens.  Shelves are neatly stacked with sheets and towels for the living quarters, tablecloths for the pub and clean cloths for the bar.  A supply of accessories for the bath, including lightly scented bars of soap, fills one shelf.  In one corner of the room, a steep stair, resembling a ship's ladder rises to a hatch door in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13119": "out",
+      "14680": "go hatch"
+    },
+    "timeto": {
+      "13119": 0.2,
+      "14680": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397014
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      605,
+      232,
+      670,
+      282
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "406753ba9cc255bb3e1224f3e6ecdf44",
+  "room": {
+    "id": 27494,
+    "title": [
+      "[Noteworthiness, Coda]",
+      "[Noteworthiness]"
+    ],
+    "description": [
+      "Spanning several feet, a long wooden plank has been repurposed and painted into a blue and seafoam green shelf, supported by empty rum barrels.  A thin teakwood tray rests atop a wave-painted table along with a glass jug filled with seashells.  Beyond a rather plain-looking steel rack, a cuphea-edged layered linen curtain obscures what lies to the west.",
+      "Spanning several feet, a long wooden plank has been repurposed and painted into a blue and seafoam green shelf supported by empty rum barrels.  A thin teakwood tray rests atop a wave-painted table along with a glass jug filled with seashells.  Beyond a rather plain-looking steel rack, a cuphea-edged layered linen curtain obscures what lies to the west."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "27493": "northeast",
+      "27586": "go curtain"
+    },
+    "timeto": {
+      "27493": 0.2,
+      "27586": 0.2
+    }
+  }
+}

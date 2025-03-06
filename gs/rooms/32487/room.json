@@ -1,0 +1,37 @@
+{
+  "checksum": "7b35841813cac73046def3eaf315615f",
+  "room": {
+    "id": 32487,
+    "title": [
+      "[Moonsedge Castle, Wine Cellar]"
+    ],
+    "description": [
+      "Barrels of wine occupy wrought iron racks that travel from floor to ceiling in the frigid cellar.  A silvery layer of dust clings to even the newest barrel, a cask of syrah from Talador.  Shelves along the eastern wall are home to glinting bottles of rarer vintages, the glass's colors ranging from deep red to gentle green."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32486": "west",
+      "32554": "pull bottle"
+    },
+    "timeto": {
+      "32486": 0.2,
+      "32554": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577220
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1349,
+      765,
+      1374,
+      789
+    ]
+  }
+}

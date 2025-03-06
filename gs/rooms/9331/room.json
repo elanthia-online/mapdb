@@ -1,0 +1,43 @@
+{
+  "checksum": "ebcfb8b68135e484f57885c5f6689a9e",
+  "room": {
+    "id": 9331,
+    "title": [
+      "[Underway, Cavern]"
+    ],
+    "description": [
+      "A thin layer of mud covers the cavern floor, evidence that whatever water source is echoing in here must flood from time to time.  Footprints, wheel marks, and hoofprints create an unmistakable trail that runs northeast to southwest."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southwest"
+    ],
+    "location": "the Central Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9330": "northeast",
+      "9332": "north",
+      "9333": "southwest"
+    },
+    "timeto": {
+      "9330": 0.2,
+      "9332": 0.2,
+      "9333": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4748105
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      389,
+      817,
+      399,
+      828
+    ]
+  }
+}

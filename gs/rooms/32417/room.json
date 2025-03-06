@@ -1,0 +1,43 @@
+{
+  "checksum": "3d568ad344a41fbc97913f2d362ca34a",
+  "room": {
+    "id": 32417,
+    "title": [
+      "[Moonsedge, Blade Court]"
+    ],
+    "description": [
+      "Empty weapon racks outside of an old stone smithy have begun to warp and splinter, the nails holding them together rusted to the point of uselessness.  Char rims the open windows, making them look like sunken sockets that stare out at the court.  Beds of briars once meant to decorate the court's landscape are overgrown, thorny heaps that stretch threateningly out onto the roadside, snatching thorns aggressively displayed."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32413": "north",
+      "32418": "go smithy",
+      "32419": "east"
+    },
+    "timeto": {
+      "32413": 0.2,
+      "32418": 0.2,
+      "32419": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577021
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      319,
+      347,
+      338,
+      362
+    ]
+  }
+}

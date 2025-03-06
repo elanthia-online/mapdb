@@ -1,0 +1,60 @@
+{
+  "checksum": "b77cf713ff331f49feff712aa5d7e3e3",
+  "room": {
+    "id": 9417,
+    "title": [
+      "[Zul Logoth, Chalcedony Tunnel]"
+    ],
+    "description": [
+      "Dwarven men and women trudge slowly in and out of the stone arch to the south.  Those entering the arch seem to be alert and talkative, while those exiting are, for the most part, tired and quiet.  A desk abuts the wall just beside the arch, and a dwarven guard carefully examines those passing through.  The guard points to various items on each dwarf and notes something on her clipboard.  The items she points to most often are tools of the mining trade."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9416": "north",
+      "9418": "east",
+      "19756": "go building",
+      "30712": "/rooms/9417/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9416": 0.2,
+      "9418": 0.2,
+      "19756": "/rooms/9417/timeto/stringproc-19756.rb",
+      "30712": "/rooms/9417/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "empathguild",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "urchin guide empathguild",
+      "urchin-access",
+      "empath guild",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006024
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      609,
+      847,
+      629,
+      867
+    ]
+  }
+}

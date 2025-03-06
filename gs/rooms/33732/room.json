@@ -1,0 +1,27 @@
+{
+  "checksum": "0f6142b4b66a958947990f989ed93d61",
+  "room": {
+    "id": 33732,
+    "title": [
+      "[Darkened Chamber]"
+    ],
+    "description": [
+      "A single glaesine sconce attached to the wall illuminates the small chamber, casting a fitfully flickering light across the room's few features.  Smooth, dark-veined granite walls rise into the shadowed darkness.  Dangling from a chain at one side of the room is a small mithglin ring.  At the far end of the chamber is an ivory curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "33731": "pull mithglin ring",
+      "33733": "go curtain"
+    },
+    "timeto": {
+      "33731": 0.2,
+      "33733": 0.2
+    },
+    "uid": [
+      14109217
+    ]
+  }
+}

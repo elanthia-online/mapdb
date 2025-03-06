@@ -1,0 +1,33 @@
+{
+  "checksum": "a3b4ed14ce127cb9cd6fe7e63c63004c",
+  "room": {
+    "id": 8687,
+    "title": [
+      "[Temple, Monks' Room]"
+    ],
+    "description": [
+      "Several humble cots are arranged around this chamber, a dormitory for monks and clerics from outlying districts who come to visit town and its temple.  You see a rack hung with robes and bedrolls stowed atop it.  A stairway ascends to the southeast."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4041": "go arch",
+      "8688": "go stairway"
+    },
+    "timeto": {
+      "4041": 0.2,
+      "8688": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      2035
+    ]
+  }
+}

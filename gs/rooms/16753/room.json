@@ -1,0 +1,42 @@
+{
+  "checksum": "63895db55d85716f3db6f8443cc956d4",
+  "room": {
+    "id": 16753,
+    "title": [
+      "[Temple Wyneb, Tanthuz]"
+    ],
+    "description": [
+      "The marble walls start black as night on the western side, then fade ever so gradually to dusky grey, and finally become pure white at the eastern end.  A water chute is cut right down the center of the floor, sending its stream through a small opening in the southern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "120": "go chute",
+      "16752": "west",
+      "16754": "north",
+      "16760": "east"
+    },
+    "timeto": {
+      "120": 0.2,
+      "16752": 0.2,
+      "16754": 0.2,
+      "16760": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300068
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      636,
+      757,
+      646,
+      767
+    ]
+  }
+}

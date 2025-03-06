@@ -1,0 +1,38 @@
+{
+  "checksum": "b02fb550d2cf9f68198970e34dbd38f5",
+  "room": {
+    "id": 9556,
+    "title": [
+      "[Wizard Guild, Second Stratum]"
+    ],
+    "description": [
+      "A few potted luminescent toadstools shed diffuse light upon the silver-flecked cobalt blue marble.  Embossed runes adorn the wall around the mithril-framed doors to the north while an azurite-inset door stands to the south."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9555": "up",
+      "9557": "down",
+      "9562": "go doors",
+      "13129": "go azurite-inset door"
+    },
+    "timeto": {
+      "9555": 0.2,
+      "9557": 0.2,
+      "9562": 0.2,
+      "13129": 0.2
+    },
+    "uid": [
+      688006
+    ],
+    "image": "en-zul-wizard_guild-1648064027.png",
+    "image_coords": [
+      279,
+      278,
+      342,
+      337
+    ]
+  }
+}

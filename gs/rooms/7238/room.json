@@ -1,0 +1,39 @@
+{
+  "checksum": "c5036003009a5cde5daadc5e6dc053d2",
+  "room": {
+    "id": 7238,
+    "title": [
+      "[Under Barrow, Deep Shaft]"
+    ],
+    "description": [
+      "Inside the old cabinet, you find dessicated remnants of various items of food: slabs of mouldy beef, dusty mounds that once were vegetables and other less identifiable things.  These have mostly been shoved off the shelves and lie heaped on the flooring.  Part of the floor is an old wooden grating, now so warped and rotted that you could easily squeeze through it into the chilling darkness below."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7237": "go grating",
+      "7239": "out"
+    },
+    "timeto": {
+      "7237": 0.2,
+      "7239": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18107
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      645,
+      521,
+      655,
+      531
+    ]
+  }
+}

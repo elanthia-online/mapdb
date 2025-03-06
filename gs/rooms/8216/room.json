@@ -1,0 +1,51 @@
+{
+  "checksum": "936b157aa8d608ff95cdd25a8df61051",
+  "room": {
+    "id": 8216,
+    "title": [
+      "[Sea Caverns, Refuse Pile]"
+    ],
+    "description": [
+      "The floor is covered with rotting piles of garbage, apparently dumped from the dark fissure above.  Some of the piles seem to be writhing, though it's tough to be sure through the noxious fog that blankets the floor.  To the southeast, a mass of webs fills the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8217": "go webs",
+      "8220": "west"
+    },
+    "timeto": {
+      "8217": 0.2,
+      "8220": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      392005
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      436,
+      231,
+      446,
+      241
+    ]
+  }
+}

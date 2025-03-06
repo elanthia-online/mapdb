@@ -1,0 +1,40 @@
+{
+  "checksum": "721a3c668a52431d242f4e4634f79483",
+  "room": {
+    "id": 6654,
+    "title": [
+      "[Monastery, Stone Corridor]"
+    ],
+    "description": [
+      "Torches are mounted on the walls at evenly spaced five-foot intervals down this corridor.  A portcullis is raised into the ceiling here, looking as if it could drop down at any moment to bar access in either direction.  A single iron-bound door stands on the east side of the portcullis."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6637": "west",
+      "6655": "east",
+      "6656": "go door",
+      "6657": "northeast",
+      "6662": "southeast"
+    },
+    "timeto": {
+      "6637": 0.2,
+      "6655": 0.2,
+      "6656": 0.2,
+      "6657": 0.2,
+      "6662": 0.2
+    },
+    "uid": [
+      487023
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      357,
+      1184,
+      367,
+      1194
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "ca8ccffcb8e156fa8253ceca847639d5",
+  "room": {
+    "id": 31608,
+    "title": [
+      "[Bones and Baubles, Entry]"
+    ],
+    "description": [
+      "The well-dressed form of a greenish grey zombie stands before a bejeweled counter, the proprietor attempting to wipe away clumps of dirt and flesh from the glass, despite being the origin of the detritus.  Every corner of the shop is filled with antiques and weaponry, the stacked crates sorted by a small family of raccoons grasping each item curiously between their claws.  The tiniest of the cubs waves about a single finger bone as it attempts to add it to the treasure pile."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31607": "out",
+      "31753": "east"
+    },
+    "timeto": {
+      "31607": 0.2,
+      "31753": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "pawnshop"
+    ],
+    "uid": [
+      8084071
+    ]
+  }
+}

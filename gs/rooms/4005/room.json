@@ -1,0 +1,50 @@
+{
+  "checksum": "dc08cfa4835fa8d6350a6b5501f151f0",
+  "room": {
+    "id": 4005,
+    "title": [
+      "[Griffin's Keen, Inner Trail]"
+    ],
+    "description": [
+      "Billowing snow tumbles down the mountainside carried on the shrieking wind.  The frozen carcass of a mountain rolton lies wedged into the crease formed where the trail meets the mountainside.  Even through the layers of ice you can see the matted coat has been torn into ragged strips."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4004": "/rooms/4005/wayto/stringproc-4004.rb",
+      "4006": "/rooms/4005/wayto/stringproc-4006.rb"
+    },
+    "timeto": {
+      "4004": 4.2,
+      "4006": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302141
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      744,
+      291,
+      754,
+      301
+    ]
+  }
+}

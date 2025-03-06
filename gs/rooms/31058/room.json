@@ -1,0 +1,37 @@
+{
+  "checksum": "940df04c464cc7e66b7468cd8c1983ec",
+  "room": {
+    "id": 31058,
+    "title": [
+      "[Brindlestoat's, Gem Shop]"
+    ],
+    "description": [
+      "The low eaves of the shop are smoke-stained and adorned with hanging sashes in a variety of faded colors.  A few pieces of old jewelry glint sullenly from beds of threadbare black velvet near the windows, but they are of low quality and luster.  Behind the smooth wooden counter, protected from the rest of the room by an old steel grate, is a more impressive trove of baubles and trinkets in a variety of metals and jeweled hues."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29870": "out",
+      "31059": "east",
+      "34399": "/rooms/31058/wayto/stringproc-34399.rb"
+    },
+    "timeto": {
+      "29870": 0.2,
+      "31059": 0.2,
+      "34399": "/rooms/31058/timeto/stringproc-34399.rb"
+    },
+    "tags": [
+      "gemshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "urchin-access",
+      "urchin guide gemshop"
+    ],
+    "uid": [
+      7503259
+    ]
+  }
+}

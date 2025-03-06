@@ -1,0 +1,34 @@
+{
+  "checksum": "609025ddf8a635fb34a4072f5468d21c",
+  "room": {
+    "id": 33296,
+    "title": [
+      "[Vornavis, Vestibule]"
+    ],
+    "description": [
+      "Large and circular, the grand vestibule has a domed ceiling and an enormous crystal chandelier anchored to three points in the sandstone walls.  Wall-hugging stairs form an arch over a pair of large fel doors, a banded brown wicket discreetly tucked in the shadows of the eastern staircase, while a double-wide green feldspar archway on the northern wall offers a view of an enormous dining hall.  Emerald green and ivory tiles form a decorative tile mosaic in the circular floor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Vornavis Proper",
+    "wayto": {
+      "33295": "out",
+      "33297": "go wall-hugging stairs",
+      "33300": "go brown wicket",
+      "33301": "go green archway"
+    },
+    "timeto": {
+      "33295": 0.2,
+      "33297": 0.2,
+      "33300": 0.2,
+      "33301": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ],
+    "uid": [
+      4201016
+    ]
+  }
+}

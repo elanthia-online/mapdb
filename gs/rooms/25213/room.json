@@ -1,0 +1,42 @@
+{
+  "checksum": "28a38c080e4d17ba70a8364bef3783a1",
+  "room": {
+    "id": 25213,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "The walls open up into a circular chamber, the dark grey rock dotted with deep pits and fractures.  The entrances to several different tunnels line the curving walls, each narrow passageway quite dark and featureless.  A skeleton hangs limply from a pair of manacles bolted to the ceiling, the lifeless bones liberally draped with a shroud of cobwebs."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25212": "north",
+      "25214": "northwest"
+    },
+    "timeto": {
+      "25212": 0.2,
+      "25214": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900311
+    ]
+  }
+}

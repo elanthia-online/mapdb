@@ -1,0 +1,55 @@
+{
+  "checksum": "9d9ea1fa98b05b742dd8ead870ba88d9",
+  "room": {
+    "id": 12138,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The dining hall is full of shadows, lit only dimly by guttering candles.  Around the table sit nine skeletons, each holding a golden cup.  The undead seem to be chatting, drinking from their chalices only to have the liquid flow out and over their ribcages.  With a wave of disgust, you realize that the skeletons are drinking blood."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12146": "northeast",
+      "12207": "/rooms/12138/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12138/wayto/stringproc-12235.rb",
+      "12248": "southeast"
+    },
+    "timeto": {
+      "12146": 0.2,
+      "12207": 11.4,
+      "12235": 11.4,
+      "12248": 0.2
+    },
+    "tags": [
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569007
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      514,
+      1180,
+      524,
+      1190
+    ]
+  }
+}

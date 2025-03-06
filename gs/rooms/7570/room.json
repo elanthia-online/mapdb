@@ -1,0 +1,45 @@
+{
+  "checksum": "07862acfbe8b3c85f1dfb1da538cd7cd",
+  "room": {
+    "id": 7570,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "A dim phosphorescence lights the east-west tunnel, and a faint sound of dripping water echoes from somewhere in the distance.  Odd lumps of minerals are imbedded in the dirt walls, showing scratches from unsuccessful attempts to pry them out."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7569": "east",
+      "7571": "west"
+    },
+    "timeto": {
+      "7569": 0.2,
+      "7571": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47004
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      171,
+      1315,
+      181,
+      1325
+    ]
+  }
+}

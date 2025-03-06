@@ -1,0 +1,43 @@
+{
+  "checksum": "26c5386f5d100d35991e701c0fbb30c6",
+  "room": {
+    "id": 30065,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "Collapsed stonework has left a large chunk of the burrow open to the sky and the cold.  Strips of wormsilk tangled about the broken support columns whip in the breeze.  Scattered treasures wink from the ruins, the trapped wealth brightly reflecting the writhing aurora in the twilit skies above."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30063": "north",
+      "30066": "southeast",
+      "30067": "east",
+      "30068": "northeast"
+    },
+    "timeto": {
+      "30063": 0.2,
+      "30066": 0.2,
+      "30067": 0.2,
+      "30068": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503487
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      780,
+      307,
+      796,
+      322
+    ]
+  }
+}

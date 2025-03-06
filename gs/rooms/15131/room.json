@@ -1,0 +1,29 @@
+{
+  "checksum": "03266932b5309ed8d0b2b0a94a3692b0",
+  "room": {
+    "id": 15131,
+    "title": [
+      "[Vrairdrick's Weaponry]"
+    ],
+    "description": [
+      "A twisted iron sconce hangs on one of the plain walls, and an uneven wooden ceiling rises overhead.  A carved ivory lighthouse sits in one corner of an unfinished wooden floor.  There is a gilded maple table on one side of the shop and a sooty brass urn on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "341": "out",
+      "15333": "west",
+      "15334": "east"
+    },
+    "timeto": {
+      "341": 0.2,
+      "15333": 0.2,
+      "15334": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

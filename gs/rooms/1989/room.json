@@ -1,0 +1,47 @@
+{
+  "checksum": "2b7461a7a6ad1cd6cc4c38affc67744b",
+  "room": {
+    "id": 1989,
+    "title": [
+      "[Sorcerer Guild, Entrance]"
+    ],
+    "description": [
+      "Seamlessly fitted white marble cobblestones lead up to a silver gate.  Tall, white marble walls shot with silver veins enclose the compound."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1859": "south",
+      "19005": "go gate",
+      "30715": "/rooms/1989/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1859": 0.2,
+      "19005": "/rooms/1989/timeto/stringproc-19005.rb",
+      "30715": "/rooms/1989/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "sorcererguild",
+      "sorcerer guild",
+      "urchin-access",
+      "urchin guide sorcererguild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      662001
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      116,
+      126,
+      152,
+      162
+    ]
+  }
+}

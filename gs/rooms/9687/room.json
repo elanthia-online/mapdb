@@ -1,0 +1,41 @@
+{
+  "checksum": "eedaba1b8fce109da8dea88c6283fdd3",
+  "room": {
+    "id": 9687,
+    "title": [
+      "[Maeve's Furs]"
+    ],
+    "description": [
+      "Exemplary displays of taxidermy decorate this spacious shop, though several of the arrangements are disturbing at best.  Posed as if ready to attack, stuffed white rabbits dangle upon wires over the grizzly prone body of a black forest ogre.  A glass counter has been filled to the brim with the preserved forms of dead badgers, and the countertop has been topped off a with a shiny golden bell."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "9686": "out",
+      "30717": "/rooms/9687/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "9686": 0.2,
+      "30717": "/rooms/9687/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "furrier",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide furrier"
+    ],
+    "uid": [
+      14051026
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      758,
+      796,
+      782,
+      820
+    ]
+  }
+}

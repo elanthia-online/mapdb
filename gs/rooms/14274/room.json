@@ -1,0 +1,41 @@
+{
+  "checksum": "04932446c6599eb2953c1ff286d45871",
+  "room": {
+    "id": 14274,
+    "title": [
+      "[Solhaven, The Crooked Way]"
+    ],
+    "description": [
+      "Consisting of the narrow spaces between dark houses and other structures, the Crooked Way stretches out into half-lit patches of ground alternating with deep shadows on every side.  The faint trickling sound of water through the cracked cobblestones is intermingled with the scurrying of rats and hurried footfalls in the darkness.  A dilapidated arch, its wooden surface warped and weathered, leads out to a somewhat brighter street to the west."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14273": "northeast",
+      "14275": "go archway"
+    },
+    "timeto": {
+      "14273": 0.2,
+      "14275": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4902191
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      392,
+      1647,
+      416,
+      1671
+    ]
+  }
+}

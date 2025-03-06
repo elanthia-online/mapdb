@@ -1,0 +1,47 @@
+{
+  "checksum": "6444425a560ec956ffde235f9d76b6bc",
+  "room": {
+    "id": 30444,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Cresting waves buffet any watercraft that dares come this way.  Chutes of white-flecked green and blue gather momentum as they crash eastward to the shore."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30430": "pedal southwest",
+      "30431": "pedal west",
+      "30432": "pedal northwest",
+      "30442": "pedal south",
+      "30443": "pedal east",
+      "30445": "pedal north"
+    },
+    "timeto": {
+      "30430": 6,
+      "30431": 6,
+      "30432": 6,
+      "30442": 6,
+      "30443": 6,
+      "30445": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216149
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      621,
+      1821,
+      638,
+      1838
+    ]
+  }
+}

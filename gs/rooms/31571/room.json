@@ -1,0 +1,57 @@
+{
+  "checksum": "698ab8d45499423369442b740e8e8e10",
+  "room": {
+    "id": 31571,
+    "title": [
+      "[Evermore Hollow, Nature's Glade]"
+    ],
+    "description": [
+      "Framed by the shelter of viridian hedges, a well-trodden cobblestone pathway is interrupted by the sprawling presence of a cushioned blue-green lawn that spreads outward in a perfect circle.  Silver-white sheets hide the backs of the shops and houses that abut the space to create a buffer between the noise of the inner ring, though the expanse is interrupted briefly by an arching arbor.  Fragrant lilac trees dapple the space, their ornamental canopies carefully sculpted and laden with lacelike flowers."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "grassland",
+    "wayto": {
+      "31568": "go pathway",
+      "31572": "go arbor",
+      "31580": "northeast",
+      "31587": "southwest",
+      "31859": "go lilac tunnel"
+    },
+    "timeto": {
+      "31568": 0.2,
+      "31572": 0.2,
+      "31580": 0.2,
+      "31587": 0.2,
+      "31859": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "orange milkweed flowers",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "orange-yellow chamomile",
+      "pineapple sage",
+      "evermore rosehip",
+      "downy skullcap",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083008
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      421,
+      436,
+      444,
+      457
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "128c338774bb8d3bc278fcfcdccfa9a9",
+  "room": {
+    "id": 13161,
+    "title": [
+      "[Rockslinger's, Dark Hallway]"
+    ],
+    "description": [
+      "A dark hallway stretches east and west, although a slight amount of light intrudes from the eastern end.  No carpet covers the hard granite floor, and footsteps echo loudly.  Strangely, the walls on either side are constructed from sheet metal, as if the section was not originally excavated for its current purpose.  The odor of mushrooms pervades the entire area."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9496": "west",
+      "16854": "east",
+      "24497": "go woolen curtain"
+    },
+    "timeto": {
+      "9496": 0.2,
+      "16854": 0.2,
+      "24497": 240
+    },
+    "tags": [
+      "publiclockers",
+      "no forageables"
+    ],
+    "uid": [
+      13010113
+    ]
+  }
+}

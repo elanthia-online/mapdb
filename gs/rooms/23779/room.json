@@ -1,0 +1,42 @@
+{
+  "checksum": "5473b887f86e9fcf46f4af3a1a50119a",
+  "room": {
+    "id": 23779,
+    "title": [
+      "[Duskruin Arena, Descent]"
+    ],
+    "description": [
+      "Forking in several directions, this tunnel appears to have been carved directly into the mountainside, the walls still baring the scars from the picks and tools used.  Flickering iron sconces provide an uneven light, causing shadows to dance lazily across the slate floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest, up, down"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23767": "up",
+      "23780": "north",
+      "23781": "northeast",
+      "23782": "northwest",
+      "23783": "down",
+      "24546": "go passageway"
+    },
+    "timeto": {
+      "23767": 0.2,
+      "23780": 0.2,
+      "23781": 0.2,
+      "23782": 0.2,
+      "23783": 0.2,
+      "24546": 0.2
+    },
+    "uid": [
+      8213014
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1423,
+      380,
+      1443,
+      398
+    ]
+  }
+}

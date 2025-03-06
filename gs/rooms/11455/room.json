@@ -1,0 +1,54 @@
+{
+  "checksum": "178884f51156ac3a8d759024d0e76fd0",
+  "room": {
+    "id": 11455,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The green waters of Maelstrom Bay stretch out in all directions.  Low, gentle swells roll in rhythmically from the great western sea.  To the east, the mainland is marked by a sheer, rocky cliff.  Sea birds soar high overhead, scanning the waters for signs of fish."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11439": "/rooms/11455/wayto/stringproc-11439.rb",
+      "11440": "/rooms/11455/wayto/stringproc-11440.rb",
+      "11446": "/rooms/11455/wayto/stringproc-11446.rb",
+      "11450": "/rooms/11455/wayto/stringproc-11450.rb",
+      "11451": "/rooms/11455/wayto/stringproc-11451.rb",
+      "11452": "/rooms/11455/wayto/stringproc-11452.rb",
+      "11454": "/rooms/11455/wayto/stringproc-11454.rb",
+      "11466": "/rooms/11455/wayto/stringproc-11466.rb",
+      "16041": "/rooms/11455/wayto/stringproc-16041.rb"
+    },
+    "timeto": {
+      "11439": 2,
+      "11440": 2,
+      "11446": 2,
+      "11450": 2,
+      "11451": 2,
+      "11452": 2,
+      "11454": 2,
+      "11466": 3,
+      "16041": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304022
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      702,
+      1234,
+      712,
+      1244
+    ]
+  }
+}

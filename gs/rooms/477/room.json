@@ -1,0 +1,50 @@
+{
+  "checksum": "f6ea2092dc06c16290ef0784135ca090",
+  "room": {
+    "id": 477,
+    "title": [
+      "[Hearthstone, Front Porch]"
+    ],
+    "description": [
+      "Airy and open, the porch is enclosed by smooth, freshly painted white modwir up to a height of about four feet.  As you ponder the sky-blue color of the ceiling and a lacework of deep green ivy that crisscrosses the open space between posts, the hubbub of the world beyond quickly fades away.  Rocking chairs of various sizes are an inviting sight, and an elegant green marble arch provides a tantalizing view of the splendors inside the old manor."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "410": "go steps",
+      "13500": "go arch",
+      "30708": "/rooms/477/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "410": 0.2,
+      "13500": 0.2,
+      "30708": "/rooms/477/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "meta:mapname:Wehnimer's Landing - Hearthstone Manor",
+      "meta:mapshortname:Hearthstone Manor",
+      "meta:mapcategory:Wehnimer's Landing",
+      "urchin-access",
+      "urchin guide hearthstone",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397002
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      424,
+      679,
+      491,
+      724
+    ]
+  }
+}

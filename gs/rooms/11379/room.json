@@ -1,0 +1,38 @@
+{
+  "checksum": "0291053e7c136afc40c852b11817edfb",
+  "room": {
+    "id": 11379,
+    "title": [
+      "[Bedroom]"
+    ],
+    "description": [
+      "A large four poster bed with decaying linen hangings dominates the room.  Sitting on a simple nightstand next to the bed is a yellowed and cracked porcelain pitcher.  A simple wooden trunk rests at the foot of the bed."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11378": "north",
+      "11380": "east"
+    },
+    "timeto": {
+      "11378": 0.2,
+      "11380": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377015
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      301,
+      1344,
+      311,
+      1354
+    ]
+  }
+}

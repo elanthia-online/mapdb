@@ -1,0 +1,31 @@
+{
+  "checksum": "e8177bc4ff5a58d94ca662f4f0025ed1",
+  "room": {
+    "id": 15012,
+    "title": [
+      "[Tarakan's General Store]",
+      "[Tarakan's Weaponry]"
+    ],
+    "description": [
+      "Beneath a raised fel panel ceiling, a blue watered silk tapestry hangs on one of the mottled grey marble walls.  A gold-leafed mistwood cabinet sits in one corner while a wooden statue of Rone Wehnimer rests on the black marble floor.",
+      "Beneath a raised fel panel ceiling, a blue watered silk tapestry hangs on one of the mottled grey marble walls.  An open black ash coffin fitted with witchwood handles sits in one corner while a wooden statue of Rone Wehnimer rests on the black marble floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "338": "out",
+      "14591": "north",
+      "15407": "east"
+    },
+    "timeto": {
+      "338": 0.2,
+      "14591": 0.2,
+      "15407": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

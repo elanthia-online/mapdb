@@ -1,0 +1,41 @@
+{
+  "checksum": "0404de826b4d10d3365fb73902069436",
+  "room": {
+    "id": 3024,
+    "title": [
+      "[Snow Fort, Tunnel]"
+    ],
+    "description": [
+      "Ice spirals and swirls about you along passages leading off in several directions.  Ancient runes and symbols are etched deep into the frozen walls, though their significance is indecipherable."
+    ],
+    "paths": [
+      "Obvious exits: west, up, down"
+    ],
+    "location": "the High Plains",
+    "wayto": {
+      "3016": "west",
+      "3019": "up",
+      "3025": "down"
+    },
+    "timeto": {
+      "3016": 0.2,
+      "3019": 0.2,
+      "3025": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129105
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      487,
+      845,
+      497,
+      855
+    ]
+  }
+}

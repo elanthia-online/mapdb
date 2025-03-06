@@ -1,0 +1,32 @@
+{
+  "checksum": "bdbdb775b253df5cd400163cb67950ff",
+  "room": {
+    "id": 28754,
+    "title": [
+      "[Persephanii's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A cedar and oak footlocker sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9015": "out",
+      "28757": "east",
+      "28758": "north"
+    },
+    "timeto": {
+      "9015": 0.2,
+      "28757": 0.2,
+      "28758": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      632257
+    ]
+  }
+}

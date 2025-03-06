@@ -1,0 +1,37 @@
+{
+  "checksum": "fbc7bd79dad5dfc87de93794faf580c1",
+  "room": {
+    "id": 9100,
+    "title": [
+      "[Great Cavern, Flue]"
+    ],
+    "description": [
+      "The natural vent is wider than it is tall as it slopes lazily upwards.  Rough steps are carved periodically in the wall that serves as a floor, although they aren't strictly necessary."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9099": "up",
+      "9101": "down"
+    },
+    "timeto": {
+      "9099": 0.2,
+      "9101": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045209
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      201,
+      490,
+      211,
+      500
+    ]
+  }
+}

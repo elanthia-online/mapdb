@@ -1,0 +1,37 @@
+{
+  "checksum": "0b19e629f7c9d33f2fe5fe65d9e501b6",
+  "room": {
+    "id": 17921,
+    "title": [
+      "[Rogue Guild, Dead End]"
+    ],
+    "description": [
+      "A wall of natural rock abruptly cuts off this short tunnel, its numerous jags and cracks cast in light and shadow by the abundant luminescent moss growing here.  Several pronounced fissures run along the edge of the dead end, and a faint draft can be felt from somewhere nearby."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "17913": "north",
+      "17924": "/rooms/17921/wayto/stringproc-17924.rb"
+    },
+    "timeto": {
+      "17913": 0.2,
+      "17924": 0.2
+    },
+    "tags": [
+      "rogue guild plant"
+    ],
+    "uid": [
+      268059
+    ],
+    "image": "en-zul_logoth-rogue-1648915933.jpg",
+    "image_coords": [
+      477,
+      1113,
+      516,
+      1149
+    ]
+  }
+}

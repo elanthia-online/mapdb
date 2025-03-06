@@ -1,0 +1,35 @@
+{
+  "checksum": "20aa53fb3186bea95c4d7e04bf6a304c",
+  "room": {
+    "id": 31946,
+    "title": [
+      "[Ironmonger's Smithy, Salon]",
+      "[Ironmonger's Smith, Salon]"
+    ],
+    "description": [
+      "Walnut bookshelves fill every wall making this narrow shop with a low ceiling a bit claustrophobic.  Though carpeted, the floor creaks and groans with every step.  Between two of the bookcases, a side door opens out to an open-air scrapyard.  A little more exploration reveals an almost hidden set of stairs that leads up to another space above.  A large casement window offers a view of the street outside next to the salon's threshold."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31945": "out",
+      "31947": "go stairs",
+      "31948": "go door"
+    },
+    "timeto": {
+      "31945": 0.2,
+      "31947": 0.2,
+      "31948": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084381
+    ]
+  }
+}

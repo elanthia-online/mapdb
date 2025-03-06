@@ -1,0 +1,51 @@
+{
+  "checksum": "f08c2333518e9d39adedab56bca4977d",
+  "room": {
+    "id": 32554,
+    "title": [
+      "[Moonsedge Castle, Crypt]"
+    ],
+    "description": [
+      "Recessed shelves of dust-laden stone stretch along the walls.  Skulls beyond count, of a variety of shapes and sizes, rest amid the dust, their empty black sockets staring sightlessly out at the crypt.  Spiderwebs form a funeral veil over the lifeless bones, wispy, tattered, and dangling detritus."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32487": "turn skull",
+      "32555": "southeast",
+      "32562": "west"
+    },
+    "timeto": {
+      "32487": 0.2,
+      "32555": 0.2,
+      "32562": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:mapname:Icemule Trace - Moonsedge Crypt",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapshortname:Moonsedge Crypt",
+      "glassfern frond",
+      "meta:forage-sensed:night:2025-01",
+      "meta:forage-sensed:day:2025-01"
+    ],
+    "uid": [
+      4577223
+    ],
+    "image": "imt-Moonsedge_Crypt-1673678727.png",
+    "image_coords": [
+      382,
+      247,
+      427,
+      294
+    ]
+  }
+}

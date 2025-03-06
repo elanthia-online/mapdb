@@ -1,0 +1,46 @@
+{
+  "checksum": "552f756429936595de7165927fd53075",
+  "room": {
+    "id": 3660,
+    "title": [
+      "[Oleander and Rose Avenue]"
+    ],
+    "description": [
+      "Long garlands of mixed foliage have been strung over the street in a criss-cross pattern.  The decoration wraps around the poles of the tall, wrought iron lanterns that line the lane and drapes along the awnings of each storefront, stretching across their lengths.  Cool silver moonlight mixed with the warm yellow tones of the lantern's glow lights the cobblestone street.",
+      "Long garlands of mixed foliage have been strung over the street in a criss-cross pattern.  The decoration wraps around the poles of the tall, wrought iron lanterns that line the lane and drapes along the awnings of each storefront, stretching across their lengths.  The bright sun warms the air and helps to take the chill from the cool cobblestones of the road."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3658": "west",
+      "3661": "south",
+      "3673": "north",
+      "23281": "/rooms/3660/wayto/stringproc-23281.rb"
+    },
+    "timeto": {
+      "3658": 0.2,
+      "3661": 0.2,
+      "3673": 0.2,
+      "23281": 0.4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201026
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      3049,
+      1459,
+      3090,
+      1500
+    ]
+  }
+}

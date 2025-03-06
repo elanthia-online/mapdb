@@ -1,0 +1,41 @@
+{
+  "checksum": "534d35193503095ec5c78c85f839e75e",
+  "room": {
+    "id": 6309,
+    "title": [
+      "[Dirt Mines, Mud Pits]"
+    ],
+    "description": [
+      "A feeble geyser bubbles up under the mud, sloshing filth onto everything within twenty feet.  It is quite impossible to pass without becoming so wet and dirty that you're likely to be mistaken for a kobold.  You shudder at the thought and wonder how far the nearest bath is from this subterranean pit of indignity."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6308": "east",
+      "6310": "northwest"
+    },
+    "timeto": {
+      "6308": 0.2,
+      "6310": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372035
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      63,
+      57,
+      73,
+      67
+    ]
+  }
+}

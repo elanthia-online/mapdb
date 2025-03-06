@@ -1,0 +1,55 @@
+{
+  "checksum": "80b35836a47632a3306f859604464ef0",
+  "room": {
+    "id": 3721,
+    "title": [
+      "[Darkstone, Winding Tunnel]"
+    ],
+    "description": [
+      "Suddenly the tunnel widens and branches in several directions.  A dark foreboding incline leads upward to the north.  To the northwest, a small cavity looks to have been dug out of the wall by some unknown creature."
+    ],
+    "paths": [
+      "Obvious exits: north, east, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3720": "east",
+      "3722": "northwest",
+      "3819": "north"
+    },
+    "timeto": {
+      "3720": 0.2,
+      "3722": 0.2,
+      "3819": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "massive troll king",
+      "red trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "white hook mushroom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388012
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      623,
+      1268,
+      633,
+      1278
+    ]
+  }
+}

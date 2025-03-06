@@ -1,0 +1,54 @@
+{
+  "checksum": "e8ce784d5dfd2fca63076d0e0def2fe8",
+  "room": {
+    "id": 12222,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Fragments of fine glass mirrors line the walls, floor and ceiling here.  Each reflects back your face and form, but no two images are the same.  To your left you lie dead, body broken and mangled.  To your right you hang from a gallows, struggling for your last breath before the noose steals it from you.  No mirror grants reprieve from the horrific reflections, and it seems you cannot look in any direction without seeing yourself frighteningly deceased."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest",
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12222/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12222/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12222/wayto/stringproc-12152.rb",
+      "12221": "southwest",
+      "12223": "northeast"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12221": 0.2,
+      "12223": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568050
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      145,
+      1086,
+      155,
+      1096
+    ]
+  }
+}

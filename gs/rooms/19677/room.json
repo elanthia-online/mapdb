@@ -1,0 +1,42 @@
+{
+  "checksum": "6a3019ef54b704c2329aa9f7e167bde9",
+  "room": {
+    "id": 19677,
+    "title": [
+      "[Cavernhold, Curtain Room]"
+    ],
+    "description": [
+      "The slow movement of water and the gradual deposition of minerals has formed a curtain of pure calcite which splits this room into three passages."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19676": "northeast",
+      "19678": "northwest",
+      "19694": "southwest"
+    },
+    "timeto": {
+      "19676": 0.2,
+      "19678": 0.2,
+      "19694": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11030
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      905,
+      740,
+      914,
+      752
+    ]
+  }
+}

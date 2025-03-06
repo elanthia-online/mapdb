@@ -1,0 +1,51 @@
+{
+  "checksum": "1b28fea799f75e41c8ee3e216e7b1fae",
+  "room": {
+    "id": 6694,
+    "title": [
+      "[Cave Entrance]"
+    ],
+    "description": [
+      "The light from outside casts strange shadows along the walls of this natural cave.  You see the faint outline of old footprints in the hard packed earth.  Strange, crude drawings have been drawn on the walls.  To the south you see that the cave goes deeper into the side of the mountain."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Upper Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6693": "go opening",
+      "6695": "south"
+    },
+    "timeto": {
+      "6693": 0.2,
+      "6695": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "white hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2121015
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      46,
+      1262,
+      56,
+      1272
+    ]
+  }
+}

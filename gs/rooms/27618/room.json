@@ -1,0 +1,48 @@
+{
+  "checksum": "5b2b00a1a5e97392c9560a272ca3e6eb",
+  "room": {
+    "id": 27618,
+    "title": [
+      "[Wizard's Guild, Entrance]"
+    ],
+    "description": [
+      "Four towers rise about this cavernous central chamber.  White marble veined in deep cinnabar, brilliant viridian, soft cobalt, and somber grey makes up their walls.  Far above, the roof is a simple diamond shape set diagonal to the towers.  Flanking the entry door, ornate vases hold a variety of jungle flowers, their scents adding a lush perfume to the grand space.  A nondescript office, on the far side of the chamber, is the only other break in the chamber's walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19359": "go door",
+      "28238": "northeast",
+      "29584": "northwest",
+      "29592": "southwest",
+      "29601": "go office",
+      "29603": "southeast"
+    },
+    "timeto": {
+      "19359": 0.2,
+      "28238": 0.2,
+      "29584": 0.2,
+      "29592": 0.2,
+      "29601": 0.2,
+      "29603": 0.2
+    },
+    "tags": [
+      "meta:mapname:Mist Harbor - Wizard Guild",
+      "meta:mapshortname:Wizard Guild (Mist Harbor)",
+      "meta:mapcategory:Isle of the Four Winds",
+      "meta:mapcategory:Guilds"
+    ],
+    "uid": [
+      686001
+    ],
+    "image": "ifw-wizard_guild-1619773727.png",
+    "image_coords": [
+      308,
+      1804,
+      337,
+      1833
+    ]
+  }
+}

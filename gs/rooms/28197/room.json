@@ -1,0 +1,24 @@
+{
+  "checksum": "c3835b691770de3d87edd945ccfbbc83",
+  "room": {
+    "id": 28197,
+    "title": [
+      "[Fired Up, Back Room]"
+    ],
+    "description": [
+      "An old woodstove takes up most of one corner, a pair of distressed leather chairs and a multicolored wool rug arranged in front.  Small clay figurines are crowded on a windowsill across from a curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "between Wehnimer's Landing and Zul Logoth",
+    "wayto": {
+      "28175": "west",
+      "28198": "go opening"
+    },
+    "timeto": {
+      "28175": 0.2,
+      "28198": 0.2
+    }
+  }
+}

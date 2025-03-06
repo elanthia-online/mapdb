@@ -1,0 +1,42 @@
+{
+  "checksum": "ee63f73299312b66b7955999176e67a0",
+  "room": {
+    "id": 7021,
+    "title": [
+      "[Castle Darkstone, Parapet]"
+    ],
+    "description": [
+      "A large rounded boulder lies squarely in the middle of the parapet here, apparently a direct hit from the siege engines outside.  The walkway has buckled and cracked around the boulder, but remains more or less solid, a testament to the builders of the castle.  To the south is the southwest guardtower."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7020": "north",
+      "7022": "south"
+    },
+    "timeto": {
+      "7020": 0.2,
+      "7022": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45153
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      306,
+      592,
+      316,
+      602
+    ]
+  }
+}

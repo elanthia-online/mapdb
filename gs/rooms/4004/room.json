@@ -1,0 +1,52 @@
+{
+  "checksum": "41701e2d95fb45150b1271f8190f0ee6",
+  "room": {
+    "id": 4004,
+    "title": [
+      "[Griffin's Keen, Couloir]"
+    ],
+    "description": [
+      "This ice-lined ravine is no wider than the arm span of a halfling and the wind whistles across the top of it, making a shrill song.  The crack that forms this gorge bends and twists at acute angles.  On one wall, a thin break in the ice looks wide enough to pass through."
+    ],
+    "paths": [
+      "Obvious paths: east, up"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4003": "east",
+      "4005": "up",
+      "9878": "go break"
+    },
+    "timeto": {
+      "4003": 0.2,
+      "4005": 0.2,
+      "9878": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302154
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      744,
+      331,
+      754,
+      341
+    ]
+  }
+}

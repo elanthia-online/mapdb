@@ -1,0 +1,52 @@
+{
+  "checksum": "c275efc2da867d8b5ab7f1a8444f3c8b",
+  "room": {
+    "id": 7726,
+    "title": [
+      "[Caverns, Chamber]"
+    ],
+    "description": [
+      "The narrow tunnel slopes downward to the northwest, riddled with slender columns of limestone that have slowly fused together over the ages.  Moisture hangs heavily in the air, and a musty odor of rotting seaweed permeates the dampness."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7725": "northeast",
+      "7727": "north",
+      "7729": "northwest"
+    },
+    "timeto": {
+      "7725": 0.2,
+      "7727": 0.2,
+      "7729": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2163623
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      272,
+      1335,
+      282,
+      1345
+    ]
+  }
+}

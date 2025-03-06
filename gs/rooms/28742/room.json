@@ -1,0 +1,49 @@
+{
+  "checksum": "b2335130d9aabcdf8771ad47837482e3",
+  "room": {
+    "id": 28742,
+    "title": [
+      "[Safe Haven, Great Room]"
+    ],
+    "description": [
+      "This large cavern has been arranged as a multi-purpose room, providing shelter in times of need and a gathering or practice space for citizens and militia alike.  Flanked by an archway and a door, the entrance passageway stands opposite a large hearth, constructed of local materials and shadowed by a large tapestry featuring the Mist Harbor crest above it.  The modular nature of the room features some padded benches for meetings that can be pushed aside in times of need."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "3637": "go narrow passage",
+      "28741": "go hatch",
+      "28743": "go archway",
+      "28744": "go door",
+      "28745": "go tunnel",
+      "30718": "/rooms/28742/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3637": 0.2,
+      "28741": 0.2,
+      "28743": 0.2,
+      "28744": 0.2,
+      "28745": 0.2,
+      "30718": "/rooms/28742/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "supernode",
+      "urchin-access",
+      "blackened moss",
+      "ayana leaf",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10",
+      "urchin guide safehaven"
+    ],
+    "uid": [
+      3201112
+    ]
+  }
+}

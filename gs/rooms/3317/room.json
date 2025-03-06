@@ -1,0 +1,40 @@
+{
+  "checksum": "12e6573b76c166e40422723794fbfe71",
+  "room": {
+    "id": 3317,
+    "title": [
+      "[Ice Tunnel, Winding Passage]"
+    ],
+    "description": [
+      "A hole in the ice opens in the north wall.  Through it, you can make out the details of the shapes in the ice, seeing them to be the remains of buildings.  Shapes flicker through the ice, making you very uneasy."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3316": "southwest",
+      "3318": "go hole"
+    },
+    "timeto": {
+      "3316": 0.2,
+      "3318": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130008
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1339,
+      996,
+      1349,
+      1006
+    ]
+  }
+}

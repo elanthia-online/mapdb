@@ -1,0 +1,32 @@
+{
+  "checksum": "2fdb5301aab0b808d58bd96bd119f553",
+  "room": {
+    "id": 4485,
+    "title": [
+      "[Crystal Level, Entry]"
+    ],
+    "description": [
+      "A ladder ascending into a darkened shaft is the only way off of this level of the mine.  Stone, dirt, and other debris continually splatters onto the ground, not a reassuring sign of stability or security this far down.  There are several shaft tunnels leading out from this chamber."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4389": "clim ladd",
+      "4486": "go galle",
+      "4489": "east",
+      "4531": "west"
+    },
+    "timeto": {
+      "4389": 0.2,
+      "4486": 0.2,
+      "4489": 0.2,
+      "4531": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

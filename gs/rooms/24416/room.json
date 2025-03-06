@@ -1,0 +1,54 @@
+{
+  "checksum": "0b6f44a0e3fa0631ccf22927bcd5ff73",
+  "room": {
+    "id": 24416,
+    "title": [
+      "[Ranger Guild, Clearing]"
+    ],
+    "description": [
+      "The dense trees give way to a large clearing, its grasses rippling like water in the breeze.  Constellations of wildflowers are bright within the verdant sea, but banners of viridian and gold flying from the central pole of a large pavilion to your north are more vivid still."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "River's Rest",
+    "climate": "arid",
+    "terrain": "deciduous",
+    "wayto": {
+      "24415": "south",
+      "24417": "north"
+    },
+    "timeto": {
+      "24415": 0.2,
+      "24417": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "sticks",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "broken twig",
+      "small wild rose",
+      "tree bark",
+      "bloodwood twig",
+      "twisted twig",
+      "slender twig",
+      "ebony twig",
+      "brostheras grass",
+      "pecans",
+      "raw almonds",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      273001
+    ],
+    "image": "rr_rangerguild.png",
+    "image_coords": [
+      222,
+      228,
+      239,
+      242
+    ]
+  }
+}

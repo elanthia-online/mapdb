@@ -1,0 +1,46 @@
+{
+  "checksum": "486dc2008f7ffae2ea19a850558052bf",
+  "room": {
+    "id": 7136,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The floor slopes down to the center of this room, like a great bowl.  At the lowest point is a dark chute, disappearing at a steep angle into the floor.  A black snake hisses at you, then slithers down the chute."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7080": "go chute",
+      "7124": "go door",
+      "7137": "go crack"
+    },
+    "timeto": {
+      "7080": 0.2,
+      "7124": 0.2,
+      "7137": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41046
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1029,
+      444,
+      1039,
+      454
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "b36fab89e228527154fe554e536361f0",
+  "room": {
+    "id": 25696,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Breezes dance across the waters, their origins the distant surf that spends its fury upon the beach.  A series of blown glass globes stretches across the northern side of the waterway and prevents boaters from traveling into the swimming area."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25693": "/rooms/25696/wayto/stringproc-25693.rb",
+      "25697": "/rooms/25696/wayto/stringproc-25697.rb",
+      "25819": "/rooms/25696/wayto/stringproc-25819.rb"
+    },
+    "timeto": {
+      "25693": 6,
+      "25697": 6,
+      "25819": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223820
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1121,
+      1119,
+      1141,
+      1139
+    ]
+  }
+}

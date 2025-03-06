@@ -1,0 +1,36 @@
+{
+  "checksum": "c0f91d616e8488b8c4efe71d3205cc63",
+  "room": {
+    "id": 29865,
+    "title": [
+      "[Kalivan's Caravans, Tent]"
+    ],
+    "description": [
+      "The interior of the tent is redolent with the musk of unwashed bodies and fire-warmed hide.  Two huge braziers of plain clay are positioned at the entrance, standing guard against the invading chill, but its shrill screams drown out the crackle of the roaring flames.  Behind a spindly modwir desk sits a perfunctory-looking halfling heavily swaddled in furs.  The logbook before him is splotched with snowmelt in places and the pages are warped by the damp, but it is mostly legible."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "2487": "/rooms/29865/wayto/stringproc-2487.rb",
+      "29860": "out",
+      "31069": "/rooms/29865/wayto/stringproc-31069.rb"
+    },
+    "timeto": {
+      "2487": "/rooms/29865/timeto/stringproc-2487.rb",
+      "29860": 0.2,
+      "31069": "/rooms/29865/timeto/stringproc-31069.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "silver-cost:2487:3000",
+      "silver-cost:31069:3000"
+    ],
+    "uid": [
+      7503002
+    ]
+  }
+}

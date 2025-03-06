@@ -1,0 +1,39 @@
+{
+  "checksum": "b0d61428d1fd71d045c619ce8c98e5d6",
+  "room": {
+    "id": 7694,
+    "title": [
+      "[Underground Ruin, Excavation]"
+    ],
+    "description": [
+      "It looks as if this chamber was on its way to completion.  The south wall has been smoothed and a torch rests in a sconce there."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7689": "north",
+      "7734": "go hole"
+    },
+    "timeto": {
+      "7689": 0.2,
+      "7734": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68016
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      470,
+      1205,
+      480,
+      1215
+    ]
+  }
+}

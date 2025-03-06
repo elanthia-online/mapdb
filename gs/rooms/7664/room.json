@@ -1,0 +1,42 @@
+{
+  "checksum": "c30d742678c78e4e533fa7a499d938dd",
+  "room": {
+    "id": 7664,
+    "title": [
+      "[Sea Cave, Rocky Cavern]"
+    ],
+    "description": [
+      "Jagged stone teeth protrude from the floor beneath you, as though from the rotting jaw of a decaying giant.  As you make your way through the stalagmites, you notice one rough column of stone that extends over to a high ledge."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7659": "northeast",
+      "7665": "west",
+      "7669": "/rooms/7664/wayto/stringproc-7669.rb"
+    },
+    "timeto": {
+      "7659": 0.2,
+      "7665": 0.2,
+      "7669": 0.2
+    },
+    "tags": [
+      "shelfae chieftain",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84406
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      857,
+      412,
+      867,
+      422
+    ]
+  }
+}

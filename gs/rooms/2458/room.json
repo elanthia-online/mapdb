@@ -1,0 +1,48 @@
+{
+  "checksum": "bf2762c17cda80101d8b6fb2a27c3335",
+  "room": {
+    "id": 2458,
+    "title": [
+      "[Icemule Trace Jailhouse]"
+    ],
+    "description": [
+      "A large and quite cluttered desk consumes most of the space in this office.  Along one wall, the bars of a tiny cage-like cell offer a view of its inhabitants.  Hanging above the cell is a oak pole that looks just wide enough to fit between the cell bars."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2457": "out",
+      "3374": "go office door",
+      "30709": "/rooms/2458/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2457": 0.2,
+      "3374": 0.2,
+      "30709": "/rooms/2458/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4043354
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      1027,
+      877,
+      1063,
+      913
+    ]
+  }
+}

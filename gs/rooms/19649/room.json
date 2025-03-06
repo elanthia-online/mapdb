@@ -1,0 +1,44 @@
+{
+  "checksum": "f98bc82dae1b576d52d29fdc33f99c3b",
+  "room": {
+    "id": 19649,
+    "title": [
+      "[Cavernhold, Main Hall]"
+    ],
+    "description": [
+      "This is the southern end of a large, and very dark, chamber.  The dim light cast by the several growths of odd fungus that cling tenaciously to the ceiling of this room does little to illuminate the area."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19642": "northwest",
+      "19650": "north",
+      "19651": "south",
+      "19652": "northeast"
+    },
+    "timeto": {
+      "19642": 0.2,
+      "19650": 0.2,
+      "19651": 0.2,
+      "19652": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10012
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      581,
+      1156,
+      591,
+      1167
+    ]
+  }
+}

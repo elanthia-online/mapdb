@@ -1,0 +1,36 @@
+{
+  "checksum": "724f58a2fda92389fe90d0a2f9a01e75",
+  "room": {
+    "id": 3855,
+    "title": [
+      "[Public Lockers]"
+    ],
+    "description": [
+      "You are standing in a tiny room whose facing wall is an array of small, locked doors.  One of the lockers has been removed for you and is sitting on a small counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "389": "/rooms/3855/wayto/stringproc-389.rb"
+    },
+    "timeto": {
+      "389": 0.2
+    },
+    "tags": [
+      "meta:locker",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      54005,
+      54006,
+      54007,
+      54150,
+      54151,
+      54152,
+      54156,
+      54157
+    ]
+  }
+}

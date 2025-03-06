@@ -1,0 +1,34 @@
+{
+  "checksum": "f512c26040db20368cc09d8ad80d3a16",
+  "room": {
+    "id": 17772,
+    "title": [
+      "[Guild Hall, Sloping Passageway]"
+    ],
+    "description": [
+      "The long narrow passage slopes sharply northward.  The lack of crystal deposits in the walls makes the passage colder and dimmer than other parts of the networked tunnels.  The walls are damp and slippery with an overgrowth of lichen."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17761": "south",
+      "17773": "northwest"
+    },
+    "timeto": {
+      "17761": 0.2,
+      "17773": 0.2
+    },
+    "uid": [
+      250039
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      574,
+      185,
+      594,
+      203
+    ]
+  }
+}

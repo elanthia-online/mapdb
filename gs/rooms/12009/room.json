@@ -1,0 +1,44 @@
+{
+  "checksum": "7c5b704d834f1905791ab0efc99e2903",
+  "room": {
+    "id": 12009,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "It looks as though at one time the tunnel branched off to the west.  Now the tunnel in that direction is filled with rubble that spills out into the north/south aqueduct.  The rubble litters the usually smooth floor of the tunnel, making the footing even more unsure than it already is in the strange lighting conditions.  Overhead, a large crack perhaps two inches wide snakes out of the cave-in and across the ceiling, hinting at more instability above."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12008": "north",
+      "12010": "south"
+    },
+    "timeto": {
+      "12008": 0.2,
+      "12010": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003213
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      202,
+      291,
+      212,
+      301
+    ]
+  }
+}

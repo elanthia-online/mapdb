@@ -1,0 +1,40 @@
+{
+  "checksum": "a53038aaf92f16b9bcf8d30873326ae8",
+  "room": {
+    "id": 2544,
+    "title": [
+      "[Glatoph, Icy Ravine]"
+    ],
+    "description": [
+      "The sound is almost deafening as the river breaks through the icy floor, keeping you near the walls for fear of falling into the frigid waters.  High above, an occasional chunk of ice breaks away from the lip of the glacier and splashes into the river."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2543": "north",
+      "2545": "south"
+    },
+    "timeto": {
+      "2543": 0.2,
+      "2545": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4044014
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      783,
+      660,
+      793,
+      670
+    ]
+  }
+}

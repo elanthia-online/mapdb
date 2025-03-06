@@ -1,0 +1,29 @@
+{
+  "checksum": "a3211f5a393334d98777eb0231aac7c8",
+  "room": {
+    "id": 30644,
+    "title": [
+      "[Landing Hall, Hall of History]"
+    ],
+    "description": [
+      "Light from the north floods into this room, but the candles on the eastern wall are still required to be able to see clearly.  A mural on the west wall draws attention, being the only thing in this nondescript room worthy of it."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30638": "south",
+      "30645": "go door",
+      "30646": "north"
+    },
+    "timeto": {
+      "30638": 0.2,
+      "30645": 0.2,
+      "30646": 0.2
+    },
+    "uid": [
+      853018
+    ]
+  }
+}

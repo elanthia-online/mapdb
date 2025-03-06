@@ -1,0 +1,25 @@
+{
+  "checksum": "d12c692b8df848aa2cf7fde107adb59c",
+  "room": {
+    "id": 21394,
+    "title": [
+      "[I Do Eclair!, Back of Counter]"
+    ],
+    "description": [
+      "Empty plates and cups, most of them clean, are stacked on shelves beneath the counter.  Neatly labeled boxes and sacks of supplies are arranged on a wooden rack at the far end of the counter.  A bowl of milk, a blanket-filled wicker basket and a tangled ball of yarn occupy the farthest corner."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "21393": "out",
+      "24209": "/rooms/21394/wayto/stringproc-24209.rb"
+    },
+    "timeto": {
+      "21393": 0.2,
+      "24209": 0.2
+    },
+    "check_location": false
+  }
+}

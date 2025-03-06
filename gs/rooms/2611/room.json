@@ -1,0 +1,51 @@
+{
+  "checksum": "4a120e0419c1c436931241f4892c0d14",
+  "room": {
+    "id": 2611,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A giant hangs on an elaborate set of poles and straps here.  Two thick poles set crossing each other are framed by two vertical and two horizontal ones.  Violet eyes shrouded in shadow float near the giant's head, watching the expressions that pass there with great interest.  A pair of winged snakes hover near the giant, flying idly about and occasionally striking him."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2610": "west",
+      "2612": "east",
+      "2635": "/rooms/2611/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2611/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2611/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2610": 0.2,
+      "2612": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "withered deathblossom",
+      "peer west =~ /^Obvious (?:paths|exits): east, west, northwest/"
+    ],
+    "uid": [
+      4566033
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      200,
+      779,
+      210,
+      790
+    ]
+  }
+}

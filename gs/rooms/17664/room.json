@@ -1,0 +1,41 @@
+{
+  "checksum": "ffbe4b4b03794582749cfe702454eb8a",
+  "room": {
+    "id": 17664,
+    "title": [
+      "[The Warren, River Dock]"
+    ],
+    "description": [
+      "Jutting out into the Tempest River, the dock is built of mainly uneven planks of wood.  Several kingfishers sits atop mooring posts, watching the expanse of the swiftly moving river for possible meals.  Silently, river craft with large white sails proceed past the dock, returning from or setting off on business ventures.",
+      "Jutting out into the Tempest River, the dock is built of mainly uneven planks of wood.  Lights from the warehouses and torches reflect off the swiftly moving dark waters of the Tempest.  Silently, ghost-like river craft with large white sails proceed past the dock, returning from or setting off on business ventures."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17662": "out",
+      "17665": "go river"
+    },
+    "timeto": {
+      "17662": 0.2,
+      "17665": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      5009035
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      202,
+      53,
+      241,
+      91
+    ]
+  }
+}

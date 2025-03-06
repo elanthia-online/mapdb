@@ -1,0 +1,50 @@
+{
+  "checksum": "b9aee84bf35a5ff7fa33c165de3a3249",
+  "room": {
+    "id": 17589,
+    "title": [
+      "[Western Harbor, Docks]"
+    ],
+    "description": [
+      "Transitioning seamlessly from cobblestones to wooden planks, the street and dock meet with little to no fanfare.  Sturdy pilings are fitted with wooden railings along the expanse of the dock to prevent any mishaps, while the streets are lined with glass-sided wrought iron lanterns."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the Western Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17588": "southeast",
+      "17590": "west",
+      "30718": "/rooms/17589/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "17588": 0.2,
+      "17590": 0.2,
+      "30718": "/rooms/17589/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "locksmith pool",
+      "meta:boxpool:table:elegant mahogany table",
+      "meta:boxpool:npc:pudgy forest gnome attendant",
+      "node",
+      "supernode",
+      "urchin guide locksmithpool",
+      "urchin-access",
+      "locksmithpool",
+      "meta:trashcan:splintered oak barrel",
+      "no forageables"
+    ],
+    "uid": [
+      3216012
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      955,
+      626,
+      984,
+      652
+    ]
+  }
+}

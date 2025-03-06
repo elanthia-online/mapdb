@@ -1,0 +1,37 @@
+{
+  "checksum": "5405ba7f337a5b473ff9eaaf6b5736ab",
+  "room": {
+    "id": 31811,
+    "title": [
+      "[Town Hall, Entry]"
+    ],
+    "description": [
+      "Surrounded by tarnished silver, oval, rectangular, and square mirrors dominate the faded green-on-silver wallpaper that lines the walls of the entry.  Wooden benches arranged upon the inner walls wobble at random intervals, as if something is sitting or rising from them though no one is present.  To either side of the entry, wrought iron hooks house cloaks and capes in various colors, though the number seems to shift and change without warning.",
+      "Surrounded by tarnished silver, oval, rectangular, and square mirrors dominate the faded green-on-silver wallpaper that lines the walls of the entry.  Wooden benches arranged upon the inner walls wobble at random intervals, as if something is siting or rising from them though no one is present.  To either side of the entry, wrought iron hooks house cloaks and capes in various colors, though the number seems to shift and change without warning."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31558": "out",
+      "31812": "go ebonwood staircase",
+      "31813": "east",
+      "32200": "go ebonwood doorway"
+    },
+    "timeto": {
+      "31558": 0.2,
+      "31812": 0.2,
+      "31813": 0.2,
+      "32200": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084002
+    ]
+  }
+}

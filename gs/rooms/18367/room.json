@@ -1,0 +1,27 @@
+{
+  "checksum": "388cb273631d84125419567bb42c0619",
+  "room": {
+    "id": 18367,
+    "title": [
+      "[Mistral Hall, Northeast Room]"
+    ],
+    "description": [
+      "The exterior walls are made of the same mesh that screens the entry to the Hall, while the interior walls are constructed from moveable matting.  A three-tiered table stands against one screen wall, each tier filled with a variety of potted plants and flowers."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "18366": "northeast",
+      "18368": "west"
+    },
+    "timeto": {
+      "18366": 0.2,
+      "18368": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

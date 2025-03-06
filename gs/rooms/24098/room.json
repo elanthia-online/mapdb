@@ -1,0 +1,32 @@
+{
+  "checksum": "b50da84b558bd869dc3e6f4adcc20708",
+  "room": {
+    "id": 24098,
+    "title": [
+      "[Necropolis, Narthex]"
+    ],
+    "description": [
+      "A ring of torches burns brightly around the room, yet the ceiling is lost in the darkness above.  Here and there, orbs of reflected torchlight shine back at you from above, but seem to blink in and out of existence.  Piles of cobweb-encased bones litter the floor, and the sense of being watched permeates the dusty air."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south, west, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24096": "south",
+      "24097": "east",
+      "24099": "west",
+      "24100": "northwest",
+      "24101": "north",
+      "24103": "northeast"
+    },
+    "timeto": {
+      "24096": 0.2,
+      "24097": 0.2,
+      "24099": 0.2,
+      "24100": 0.2,
+      "24101": 0.2,
+      "24103": 0.2
+    }
+  }
+}

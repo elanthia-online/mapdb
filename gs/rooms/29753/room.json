@@ -1,0 +1,39 @@
+{
+  "checksum": "a83b0e4ecc4c4a05d3f993c9d2cdfcc3",
+  "room": {
+    "id": 29753,
+    "title": [
+      "[Inking Den, Annex Hallway]"
+    ],
+    "description": [
+      "Frosted globes nestled within decorative wall sconces provide a steady glow of welcoming light down the long corridor.  The walls are hidden behind bright ivory white silk drapery, the soft ends of which pool upon the thick cerulean and azure carpet.  Built into opposing walls, a lacquered beige door and a lacquered white door part the drapery and have a trio of brightly glowing globes directly above their pointed, cinquefoil frames."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "2437": "northeast",
+      "29744": "southwest",
+      "29758": "go beige door"
+    },
+    "timeto": {
+      "2437": 0.2,
+      "29744": 0.2,
+      "29758": 0.2
+    },
+    "tags": [
+      "peer door =~ /Arcane Masters|House of Paupers/"
+    ],
+    "uid": [
+      7121202
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      490,
+      506,
+      517,
+      529
+    ]
+  }
+}

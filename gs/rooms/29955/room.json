@@ -1,0 +1,39 @@
+{
+  "checksum": "779ec1aa9ff8480d07c9fc0f2c1119a0",
+  "room": {
+    "id": 29955,
+    "title": [
+      "[Angargreft, Descent]"
+    ],
+    "description": [
+      "Huge, ruddy stone steps descend into unleavened darkness, framed on either side by high walls of the same rust-colored rock.  Dim light from the fane's entrance illuminates primitive paintings on the distant ceiling, revealing rudimentary scenes of battle and conquest.  The steps are slightly damp and tacky."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29954": "go steps",
+      "29965": "north"
+    },
+    "timeto": {
+      "29954": 0.2,
+      "29965": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503433
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      820,
+      509,
+      836,
+      524
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "4debc94a0368a1fbd9c2573537e2281b",
+  "room": {
+    "id": 21881,
+    "title": [
+      "[The Imperial Emporium]"
+    ],
+    "description": [
+      "A dashing blue and gold clad shopkeeper stands in the center of the pavilion, handing out ribbon-tied brochures to those customers willing to stop and listen to him.  Racks of scrolls and maps line the walls of the tent, broken up by a series of colorful canvas tapestries, each one detailing a different region of the Turamzzyrian Empire."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southwest, out"
+    ],
+    "location": false,
+    "wayto": {
+      "21879": "out",
+      "21923": "southwest",
+      "21924": "east",
+      "21925": "north"
+    },
+    "timeto": {
+      "21879": 0.2,
+      "21923": 0.2,
+      "21924": 0.2,
+      "21925": 0.2
+    }
+  }
+}

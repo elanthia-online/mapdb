@@ -1,0 +1,31 @@
+{
+  "checksum": "2ed766d0b33a82fca53ae032a488dbac",
+  "room": {
+    "id": 35065,
+    "title": [
+      "[Glaeve, Scythe Bend]"
+    ],
+    "description": [
+      "Smoke pours, black and thick, from the chimneys of armorers' and weaponsmiths' shops flanking the street.  They fill the cold, salty air with the choking grit of hot forge ash and the tang of heated metal.  Wagons laden with ore and ingots crowd the available space near to the businesses, though one bustling smithy has a clear lane leading up to its entrance."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35063": "southwest",
+      "35066": "go smithy",
+      "35067": "west",
+      "35080": "north"
+    },
+    "timeto": {
+      "35063": 0.2,
+      "35066": 0.2,
+      "35067": 0.2,
+      "35080": 0.2
+    },
+    "uid": [
+      4426506
+    ]
+  }
+}

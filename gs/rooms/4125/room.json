@@ -1,0 +1,39 @@
+{
+  "checksum": "dbe3aa06a5a05d49758db62725993e7b",
+  "room": {
+    "id": 4125,
+    "title": [
+      "[Glatoph, Vent Hole]"
+    ],
+    "description": [
+      "The tunnel walls are hot enough to burn your hands if you touch them.  This narrow passage slopes deep into the mountain, channeling hot air up toward the surface.  Looking downslope, you see an orange-red glow at the far end of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4124": "up",
+      "4126": "down"
+    },
+    "timeto": {
+      "4124": 0.2,
+      "4126": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35016
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      132,
+      411,
+      142,
+      421
+    ]
+  }
+}

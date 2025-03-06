@@ -1,0 +1,38 @@
+{
+  "checksum": "a6ad1ddb62f1ebc4cc535e29afc6e7aa",
+  "room": {
+    "id": 6871,
+    "title": [
+      "[Abandoned Inn, Tavern]"
+    ],
+    "description": [
+      "A long bar made of polished golden oak dominates one wall.  Partially shuttered lanterns provide a comfortingly dim light, and both tables and padded stools along the bar itself give nice places to rest and enjoy a drink.  Pretty waitresses in flirtatious attire weave in and out of the tables, smiling despite their obviously ghostly state."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6870": "east",
+      "6872": "north"
+    },
+    "timeto": {
+      "6870": 0.2,
+      "6872": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21142
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      773,
+      995,
+      783,
+      1005
+    ]
+  }
+}

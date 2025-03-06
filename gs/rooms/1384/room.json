@@ -1,0 +1,41 @@
+{
+  "checksum": "8ee83a4e5c49fd6500d4c0ecac56285a",
+  "room": {
+    "id": 1384,
+    "title": [
+      "[Cairnfang Falls, Switchback]"
+    ],
+    "description": [
+      "The trail doubles back on itself.  Dropping sharply to the west and rising to the east, this section sacrifices distance for height."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Cairnfang",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1383": "up",
+      "1385": "down"
+    },
+    "timeto": {
+      "1383": 0.2,
+      "1385": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4745036
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      1415,
+      335,
+      1425,
+      345
+    ]
+  }
+}

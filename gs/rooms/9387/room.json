@@ -1,0 +1,37 @@
+{
+  "checksum": "bc1cfd614c7723e750d3a4a67559c868",
+  "room": {
+    "id": 9387,
+    "title": [
+      "[Trading Post, Upstairs Hallway]"
+    ],
+    "description": [
+      "Dim light flickers in this dead-end hallway.  The combination of no windows and smoking lamps gives the hallway a hazy look.  The ironbound oak door at the end of the hallway seems out of place, looking stronger and newer than the other doors or even the walls of the trading post."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9384": "south",
+      "9388": "go thanot door",
+      "9389": "go pine door",
+      "14613": "go oak door"
+    },
+    "timeto": {
+      "9384": 0.2,
+      "9388": 0.2,
+      "9389": 0.2,
+      "14613": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120108
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "7461abdd26a3904732c84a6126003a3f",
+  "room": {
+    "id": 15036,
+    "title": [
+      "[Semiera's General Store]",
+      "[Semiera's Outfitting]",
+      "[Semiera's Magic Shoppe]"
+    ],
+    "description": [
+      "Glossy mistwood walls rise from the plank floor.  Just above a delicate jade vase hangs a curl-edged vellum wall map, and a mistwood beam ceiling completes the picture.  Some hammered copper display hooks and a gold-leafed mistwood cabinet stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15017": "south"
+    },
+    "timeto": {
+      "15017": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

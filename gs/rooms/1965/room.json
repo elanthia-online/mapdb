@@ -1,0 +1,48 @@
+{
+  "checksum": "c4126c835e4ecfd7f6b445db2a1f9a32",
+  "room": {
+    "id": 1965,
+    "title": [
+      "[Kharam-Dzu, East Docks]"
+    ],
+    "description": [
+      "A lone wooden dock sways and creaks, awaiting ferryboats traveling the short distance to the mine tunnel.  Upstream, the river widens as it begins its journey to the sea.  At the northeast end of the riverfront, a small street leads away from the dock and back towards town.",
+      "A lone wooden dock sways and creaks, awaiting a ferryboat traveling the short distance to the mine tunnel.  Upstream, the river widens as it begins its journey to the sea, the color of the water shifting to a lighter hue.  At the northeast end of the riverfront, a small street leads away from the dock and back towards town."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1964": "northeast",
+      "1966": "go booth",
+      "2260": "/rooms/1965/wayto/stringproc-2260.rb",
+      "30715": "/rooms/1965/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1964": 0.2,
+      "1966": 0.2,
+      "2260": 90,
+      "30715": "/rooms/1965/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide ferry",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001006
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      857,
+      1045,
+      893,
+      1081
+    ]
+  }
+}

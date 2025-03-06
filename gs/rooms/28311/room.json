@@ -1,0 +1,41 @@
+{
+  "checksum": "6faa22980a529aa1ffa66baa496987bc",
+  "room": {
+    "id": 28311,
+    "title": [
+      "[Cleric Guild, Alchemy Workshop]"
+    ],
+    "description": [
+      "In this amply sized workroom are mingled the chill of stone and the faint but acrid odors of sulfurous potions.  The unadorned walls transition smoothly into a perfect dome, pierced by a large crystalline skylight.  Directly beneath the skylight stands a pale grey marble workbench, on which rests an array of instruments and artifacts needed by an alchemist."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "19835": "go ironwood door"
+    },
+    "timeto": {
+      "19835": 0.2
+    },
+    "tags": [
+      "cleric alchemy workshop"
+    ],
+    "uid": [
+      675057
+    ],
+    "image": "en-ta_vaalor_cleric_guild.png",
+    "image_coords": [
+      1,
+      1,
+      53,
+      52
+    ],
+    "unique_loot": [
+      "vaalorn-bound ironwood door",
+      "large glass alembic",
+      "white chalcedony crucible",
+      "silver gem lens assembly"
+    ]
+  }
+}

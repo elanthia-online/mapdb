@@ -1,0 +1,54 @@
+{
+  "checksum": "a97d894320a8cb456e60e5721aa714ae",
+  "room": {
+    "id": 12214,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The road beneath your feet is made of grey stone, polished smooth and slick save several deep gouges in each cobble.  Looking more closely, the scratches form words...names of those beloved to you.  With a start, you realize the cobbles are not paving stones after all, but headstones, laid flat to create a path of the dead."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west",
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12214/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12214/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12214/wayto/stringproc-12152.rb",
+      "12213": "northeast",
+      "20878": "west"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12213": 0.2,
+      "20878": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568040
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      294,
+      1208,
+      302,
+      1216
+    ]
+  }
+}

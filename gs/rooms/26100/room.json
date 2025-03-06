@@ -1,0 +1,43 @@
+{
+  "checksum": "6feeedcbe2b32ba3cc7ceec0960fedf3",
+  "room": {
+    "id": 26100,
+    "title": [
+      "[Hendoran Outpost, Lower Hall]"
+    ],
+    "description": [
+      "A narrow hallway, underneath the stairwell of the hall, runs north and south.  The sounds of a busy military barrack filter in from the south, while the savory scents of cooking float in from the north.  A single barrel of water is set against the wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25416": "west",
+      "26099": "south",
+      "26102": "north"
+    },
+    "timeto": {
+      "25416": 0.2,
+      "26099": 0.2,
+      "26102": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336333
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      903,
+      197,
+      936,
+      231
+    ]
+  }
+}

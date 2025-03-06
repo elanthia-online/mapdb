@@ -1,0 +1,52 @@
+{
+  "checksum": "cf388a811f820360a81259b848c03ba6",
+  "room": {
+    "id": 7490,
+    "title": [
+      "[Wehnimer's, Tunnel]"
+    ],
+    "description": [
+      "The walls of this low stone tunnel are covered with a glowing, grey lichen that makes your eyes strain and gives your skin an eerie, pallid cast.  The damp, close air is warmer here than you would have expected, but the lingering chill of the unknown stays with you.  A stone stairway, appearing to turn sharply, breaches one wall of the room.",
+      "The walls of this low stone tunnel are covered with a glowing, grey lichen that makes your eyes strain and gives your skin an eerie, pallid cast.  The damp, close air is warmer here than you would have expected, but the lingering chill of the unknown stays with you.  A crumbled stone stairway, appearing to turn sharply, breaches one wall of the room."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3932": "southwest",
+      "7500": "go stairway"
+    },
+    "timeto": {
+      "3932": 0.2,
+      "7500": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "red trafel mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46003
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      928,
+      941,
+      938,
+      951
+    ]
+  }
+}

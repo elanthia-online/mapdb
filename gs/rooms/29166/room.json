@@ -1,0 +1,45 @@
+{
+  "checksum": "28d6d5629b0c77c1c89e21806b2cfaea",
+  "room": {
+    "id": 29166,
+    "title": [
+      "[Basalt Cliff, Face]"
+    ],
+    "description": [
+      "Halfway up the cliff face is a ledge wide enough to pause on safely.  It extends further east though the footing is treacherous.  The view from here is breathtaking, with Kharam Dzu appearing like a toy town below were it not for the tiny inhabitants moving about their daily routines."
+    ],
+    "paths": [
+      "Obvious paths: east, down"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "29165": "down",
+      "29167": "east",
+      "29168": "/rooms/29166/wayto/stringproc-29168.rb"
+    },
+    "timeto": {
+      "29165": 0.2,
+      "29167": 0.2,
+      "29168": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023103
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      101,
+      310,
+      125,
+      332
+    ]
+  }
+}

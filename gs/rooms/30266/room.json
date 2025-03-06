@@ -1,0 +1,62 @@
+{
+  "checksum": "88bc02afed6b84a0ef1e6c407a3c5cd8",
+  "room": {
+    "id": 30266,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "A flock of seagulls whirls high above a mastoverhead, one occasionally diving towards the water below.  A constant breeze ripples both the sea and the fabric of a sail, the riggings moving rhythmically back and forth above some cannons on either side of the deck.  An overturned bucket serving as a makeshift stool sits in front of a fishing pole abandoned against some debris."
+    ],
+    "paths": [
+      "Obvious paths: east, west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "/rooms/30266/wayto/stringproc-29038.rb",
+      "30119": "/rooms/30266/wayto/stringproc-30119.rb",
+      "30130": "/rooms/30266/wayto/stringproc-30130.rb",
+      "30142": "/rooms/30266/wayto/stringproc-30142.rb",
+      "30166": "/rooms/30266/wayto/stringproc-30166.rb",
+      "30176": "/rooms/30266/wayto/stringproc-30176.rb",
+      "30267": "west",
+      "30269": "down",
+      "30270": "up",
+      "30271": "east"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30267": 0.2,
+      "30269": 0.2,
+      "30270": 0.2,
+      "30271": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy carrack",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      804,
+      571,
+      819,
+      584
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "b59e9705bbd556e48061220818f17c7f",
+  "room": {
+    "id": 1446,
+    "title": [
+      "[Solhaven, Latirus Lane]"
+    ],
+    "description": [
+      "A large stone cottage rests at the end of the cobbled lane.  Wildflowers are scattered in bright clumps around the small yard, and window boxes burst with flowers.  A small brass plaque is tacked next to the door.  An old woman sits outside the door, rocking gently in her wooden chair."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1445": "west",
+      "5722": "go door"
+    },
+    "timeto": {
+      "1445": 0.2,
+      "5722": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209021
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1185,
+      450,
+      1209,
+      474
+    ]
+  }
+}

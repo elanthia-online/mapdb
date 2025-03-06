@@ -1,0 +1,41 @@
+{
+  "checksum": "4b6c7297a48fba09917a81fb57af5b30",
+  "room": {
+    "id": 32489,
+    "title": [
+      "[Moonsedge Castle, Service Door]"
+    ],
+    "description": [
+      "Guarded by an abandoned watch post, an unimpressive servant's entrance occupies a bend in the castle's walls.  Crates and barrels, some emitting powerful aromas of rot and fetor, sit by a pair of double doors that lead into the castle.  One barrel has begun to leak, exuding a sappy black substance that stinks intensely of death."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32488": "go door",
+      "32491": "west"
+    },
+    "timeto": {
+      "32488": 0.2,
+      "32491": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577113
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      927,
+      586,
+      944,
+      607
+    ]
+  }
+}

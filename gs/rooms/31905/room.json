@@ -1,0 +1,32 @@
+{
+  "checksum": "dfebded11a3d69b7e27068a3b582e291",
+  "room": {
+    "id": 31905,
+    "title": [
+      "[Goblin King Dolls, Foyer]"
+    ],
+    "description": [
+      "Chipped, pale pink, raised panels enclose this entrance hall with sliding doors closing off the two side rooms to the east and west.  Sideboards have been pressed up against the mold-coated walls around a round center table, each surface holding various dolls.  A wide set of stairs leads up to a small landing where a single door sits.  Broken, unadorned dolls hang from miniature nooses from the railings."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31875": "go double doors",
+      "31906": "go stairs"
+    },
+    "timeto": {
+      "31875": 0.2,
+      "31906": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084623
+    ]
+  }
+}

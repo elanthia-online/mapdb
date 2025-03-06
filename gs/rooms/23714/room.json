@@ -1,0 +1,39 @@
+{
+  "checksum": "855806b7aa7b9aa0239e2f14ea6981d3",
+  "room": {
+    "id": 23714,
+    "title": [
+      "[Abandoned Barn, Stall]"
+    ],
+    "description": [
+      "The lower half of the stall is made of crumbling stone.  Rust marks are all that is left of the iron gate that shut one stall from the next.  Molding hay lines the manger and fills the air with the scent of decay."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Abandoned Farm",
+    "wayto": {
+      "3105": "south",
+      "3106": "north"
+    },
+    "timeto": {
+      "3105": 0.2,
+      "3106": 0.2
+    },
+    "tags": [
+      "wraith",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4124010
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      673,
+      487,
+      682,
+      497
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "1ef1d4fcb1cef3dd6085ddb825772439",
+  "room": {
+    "id": 18755,
+    "title": [
+      "[Aradhul Road, Bridge]"
+    ],
+    "description": [
+      "Thick limestone blocks form the middle section of a bridge that once stretched across the ravine below.  Wide, deep cracks, as well as numerous gaps where the stone has completely disintegrated, mar its surface.  Though still sturdy, large sections of the support columns have broken off and now litter the ravine floor below.  Each end of the bridge is completely missing, leaving jumping to either the north side or the south side of the ravine as your only option."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Aradhul Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16723": "/rooms/18755/wayto/stringproc-16723.rb",
+      "16733": "/rooms/18755/wayto/stringproc-16733.rb"
+    },
+    "timeto": {
+      "16723": 10,
+      "16733": 10
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      17005010
+    ],
+    "image": "en-aradhul-road-1308194332.png",
+    "image_coords": [
+      379,
+      558,
+      400,
+      576
+    ]
+  }
+}

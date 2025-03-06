@@ -1,0 +1,36 @@
+{
+  "checksum": "9785cc6dc89eaf516074182fcfd71e32",
+  "room": {
+    "id": 13054,
+    "title": [
+      "[Ragnoz Bumbledown's Furrier]"
+    ],
+    "description": [
+      "Bundles of furs and skins are piled haphazardly to the ceiling.  Bones of all sizes and shapes are stacked upon large shelves along one wall.  A long counter sits at the rear of the shop."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1473": "out",
+      "30710": "/rooms/13054/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1473": 0.2,
+      "30710": "/rooms/13054/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740150
+    ]
+  }
+}

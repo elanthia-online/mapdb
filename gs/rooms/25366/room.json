@@ -1,0 +1,30 @@
+{
+  "checksum": "0af0bcc95807dd8f07b127f1fba75019",
+  "room": {
+    "id": 25366,
+    "title": [
+      "[Delirium Manor, Pantry]"
+    ],
+    "description": [
+      "Set beneath a narrow window, the shelving and racks in this little pantry are similar to any other.  The contents, however, are not.  Front and center is a basket of hands, though it is unclear whether they are real or manufactured.  Propped up heads, turned to face a panelled wall, are spaced across the lowest shelf.  Alongside the peculiar array are fruits, vegetables, and a few sacks of grain."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25362": "out",
+      "25367": "pull lever"
+    },
+    "timeto": {
+      "25362": 0.2,
+      "25367": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100026
+    ]
+  }
+}

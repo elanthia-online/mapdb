@@ -1,0 +1,27 @@
+{
+  "checksum": "9eadd6470f5dddb00399f941e1998929",
+  "room": {
+    "id": 21722,
+    "title": [
+      "[ShadowGuard, West Wing]"
+    ],
+    "description": [
+      "Fine, slightly faded tapestries hang from the walls along this hallway, depicting scenes of glory and honor.  The scenes flow from east to west, telling a story as they go.  Valiant elven warriors fight bravely near the eastern end, only to fall midway through and be anointed heroes in the westernmost tapestries."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21700": "east",
+      "21723": "west"
+    },
+    "timeto": {
+      "21700": 0.2,
+      "21723": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

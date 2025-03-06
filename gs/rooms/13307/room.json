@@ -1,0 +1,49 @@
+{
+  "checksum": "823725bf0829ebb4c46b030ae1ee7f96",
+  "room": {
+    "id": 13307,
+    "title": [
+      "[Warrior Guild, Sentry]"
+    ],
+    "description": [
+      "From this vantage point, an impressive view of the guild and its ample grounds can be observed.  Several courtyards, neatly outlined in crisscrossing walkways bespeak of the arduous task of maintaining such crisp surroundings.  The guild's two stories and multitude of small square windows break up the otherwise stale appearance of the dark grey stone.  A short wooden bridge over a pristine moat leads back to the city."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "690": "go bridge",
+      "17094": "go guild",
+      "18696": "go path",
+      "30714": "/rooms/13307/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "690": 0.2,
+      "17094": "/rooms/13307/timeto/stringproc-17094.rb",
+      "18696": 0.2,
+      "30714": "/rooms/13307/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      256001
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      577,
+      250,
+      599,
+      273
+    ]
+  }
+}

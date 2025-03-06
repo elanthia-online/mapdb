@@ -1,0 +1,44 @@
+{
+  "checksum": "3acd9043970596a28edec6763c04e3fa",
+  "room": {
+    "id": 737,
+    "title": [
+      "[Ta'Illistim, Mzaarine Bazaar]"
+    ],
+    "description": [
+      "Small owls perch atop lamp posts, hooting loudly in the relative quiet of the nighttime bazaar.  Several passersby pause to admire the beautiful flower beds outside a green tile-roofed shop.",
+      "Timid sparrows perch atop lamp posts, warbling meekly above the bustle of the bazaar.  A slender gardener tends to several beautiful flower beds outside a green tile-roofed shop."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "732": "southeast",
+      "736": "northwest",
+      "15587": "go pale building",
+      "18815": "go simple shop"
+    },
+    "timeto": {
+      "732": 0.2,
+      "736": 0.2,
+      "15587": 0.2,
+      "18815": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      737006
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1434,
+      639,
+      1450,
+      655
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "f20ec907b6787c9167523750223e34be",
+  "room": {
+    "id": 18210,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Sunlight shines through several branches of a tree, warming everything it touches.  Swaying gently in a breeze, a large garden of roses moves like a red blanket caught in the wind.  Small birds can be seen chasing one another through the branches of the trees, while bees drink the nectar from the roses.",
+      "Moonlight filters through several branches of a tree, limning everything it touches with silver.  Swaying gently in a breeze, a large garden of roses moves like a red blanket caught in the wind.  Nocturnal birds can be seen chasing one another through the branches of the trees, while moths circle in apparently aimless paths to avoid them."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18209": "northwest",
+      "18211": "southeast"
+    },
+    "timeto": {
+      "18209": 0.2,
+      "18211": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312003
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      138,
+      343,
+      152,
+      356
+    ]
+  }
+}

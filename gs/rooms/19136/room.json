@@ -1,0 +1,27 @@
+{
+  "checksum": "802463d0e24836d10f7507aee1a03795",
+  "room": {
+    "id": 19136,
+    "title": [
+      "[Pies-R-Us]"
+    ],
+    "description": [
+      "Several pink-painted tables have been carefully placed around the room, each with a matching pair of chairs pushed beneath them.  Colorful pink-framed paintings of flowers adorn the whitewashed walls along with pink shelves holding various knick-knacks.  A white door with a painted pink frame leads out of the shop."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19134": "go door",
+      "19177": "northeast"
+    },
+    "timeto": {
+      "19134": 0.2,
+      "19177": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

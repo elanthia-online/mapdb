@@ -1,0 +1,45 @@
+{
+  "checksum": "c204a30eb6a97a0505ba2172706ba32f",
+  "room": {
+    "id": 163,
+    "title": [
+      "[Ta'Illistim, Vaeshean Wey]"
+    ],
+    "description": [
+      "The entrance to the Hall of Patrons is flanked by twin fluted columns carved of pure white marble.  Atop each column, a solemn gargoyle stands sentinel, head bowed in homage to the symbol of servitude carved into the pediment above the entry doors.  Massive stone steps lead into the Hall's outer courtyard.",
+      "The entrance to the Hall of Patrons is flanked by twin fluted columns carved of pure white marble.  Atop each column, a solemn gargoyle stands sentinel, head bowed in homage to the symbol of servitude carved into the pediment above the entry doors.  Massive stone steps lead into the Hall's entryway.",
+      "The entrance to the Hall of Patrons is flanked by twin fluted columns carved of pure white marble.  Atop each column, a solemn peacock stands sentinel, head bowed in homage to the images of servitude carved into the pediment above the entry doors.  Massive silvery blue stone steps lead into the Hall's outer courtyard."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "162": "north",
+      "164": "south",
+      "4038": "go hall"
+    },
+    "timeto": {
+      "162": 0.2,
+      "164": 0.2,
+      "4038": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101006
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      242,
+      653,
+      265,
+      674
+    ]
+  }
+}

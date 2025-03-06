@@ -1,0 +1,62 @@
+{
+  "checksum": "8699ee27c763374210fe0113e52bd1a4",
+  "room": {
+    "id": 599,
+    "title": [
+      "[Shimmarglin Inn, Tavern]"
+    ],
+    "description": [
+      "Three shallow steps lead down into a broad depression in the central hall of the inn.  Dominated by a cluster of circular tables and high-backed chairs, the tavern room is alive with the omnipresent sounds of murmuring voices, clanking tankards, and creaking furniture.  The sweet odors of honey mead and berry wine mingle in the air.  Toward the rear of the vast hall, a highly polished wooden staircase ascends to the second floor."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "598": "north",
+      "600": "/rooms/599/wayto/stringproc-600.rb",
+      "626": "/rooms/599/wayto/stringproc-626.rb",
+      "13045": "/rooms/599/wayto/stringproc-13045.rb",
+      "13211": "go staircase",
+      "13212": "go counter",
+      "26804": "/rooms/599/wayto/stringproc-26804.rb",
+      "26805": "/rooms/599/wayto/stringproc-26805.rb",
+      "26806": "/rooms/599/wayto/stringproc-26806.rb",
+      "26807": "/rooms/599/wayto/stringproc-26807.rb",
+      "26808": "/rooms/599/wayto/stringproc-26808.rb",
+      "26809": "/rooms/599/wayto/stringproc-26809.rb",
+      "26810": "/rooms/599/wayto/stringproc-26810.rb",
+      "26811": "/rooms/599/wayto/stringproc-26811.rb",
+      "26812": "/rooms/599/wayto/stringproc-26812.rb",
+      "26813": "/rooms/599/wayto/stringproc-26813.rb",
+      "26814": "/rooms/599/wayto/stringproc-26814.rb",
+      "26831": "/rooms/599/wayto/stringproc-26831.rb"
+    },
+    "timeto": {
+      "598": 0.2,
+      "600": 0.2,
+      "626": 0.2,
+      "13045": 0.2,
+      "13211": 0.2,
+      "13212": 0.2,
+      "26804": 0.2,
+      "26805": 0.2,
+      "26806": 0.2,
+      "26807": 0.2,
+      "26808": 0.2,
+      "26809": 0.2,
+      "26810": 0.2,
+      "26811": 0.2,
+      "26812": 0.2,
+      "26813": 0.2,
+      "26814": 0.2,
+      "26831": 0.2
+    },
+    "tags": [
+      "table"
+    ],
+    "uid": [
+      13108006
+    ]
+  }
+}

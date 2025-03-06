@@ -1,0 +1,30 @@
+{
+  "checksum": "5145b04c3cbbb1a9d35f13797ba38f40",
+  "room": {
+    "id": 4498,
+    "title": [
+      "[Crystal Level, Hall]"
+    ],
+    "description": [
+      "Stout wooden columns brace the shaft and partially block passage in either direction.  In spite of their thickness, they seem to be splintering under the immense weight they are supporting.  A dwarf leans up against one of the columns, clearly unconcerned."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4496": "south",
+      "4499": "east",
+      "4500": "north"
+    },
+    "timeto": {
+      "4496": 0.2,
+      "4499": 0.2,
+      "4500": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

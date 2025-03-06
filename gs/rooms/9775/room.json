@@ -1,0 +1,40 @@
+{
+  "checksum": "6638411727fb88115f51ffc25a1e2467",
+  "room": {
+    "id": 9775,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "A mass of gnarled and twisted roots grow out from the wall and into the floor.  Chilled drafts of air come from several directions.  The salubrious scent of fresh air mixes with stale pockets of stench, causing a swirling mist of concentrated vapor to float around."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest, west"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9774": "southeast",
+      "9776": "west",
+      "9798": "southwest"
+    },
+    "timeto": {
+      "9774": 0.2,
+      "9776": 0.2,
+      "9798": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022032
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1230,
+      597,
+      1240,
+      607
+    ]
+  }
+}

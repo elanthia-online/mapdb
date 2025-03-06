@@ -1,0 +1,44 @@
+{
+  "checksum": "d4c2d326127fe8de864183f81963c0d1",
+  "room": {
+    "id": 11867,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "Small droplets of glowing, bright green liquid collect slowly along the cracks in the ceiling of the tunnel.  When the droplets reach sufficient size, they fall into the slowly moving water underneath, spreading out and dissipating into the water to give it a dim emerald glow.  The glowing stream then moves off to the south in a wide, iridescent, emerald ribbon.  Interestingly, nothing seems to grow or live in the water."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11866": "south",
+      "11868": "north"
+    },
+    "timeto": {
+      "11866": 0.2,
+      "11868": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003017
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1293,
+      991,
+      1303,
+      1001
+    ]
+  }
+}

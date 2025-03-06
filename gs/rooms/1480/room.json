@@ -1,0 +1,45 @@
+{
+  "checksum": "dfd95b9e4f509ca974aab7e35a16d466",
+  "room": {
+    "id": 1480,
+    "title": [
+      "[Solhaven, Liabo Esplanade]"
+    ],
+    "description": [
+      "A wall built of the same golden-yellow bricks as the esplanade borders the southern side of the avenue.  To the west, the brick wall ends where a white granite wall begins.  Above the brick wall the red tiled roofs and stuccoed walls of several large, gabled buildings can be seen.  Near the compound's gate the paving takes on a fanciful appearance as crimson, white, green, cerulean, and black bricks take turns alternating with the ever-present golden-yellow ones.",
+      "A wall built of bricks that boast the same golden hue as the paving stones of the esplanade borders the southern side of the avenue.  To the west, the high span of brick segues into a wall of white granite.  Above the brick wall, the red-tiled roofs and stuccoed walls of several large, gabled buildings are visible.  Near the southern compound's gate the paving takes on a fanciful appearance as white, viridian, crimson, cerulean, and ebon bricks take alternating turns with the omnipresent golden ones."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1475": "north",
+      "1601": "east",
+      "1602": "west",
+      "13187": "go gate"
+    },
+    "timeto": {
+      "1475": 0.2,
+      "1601": 0.2,
+      "1602": 0.2,
+      "13187": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209059
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      880,
+      765,
+      904,
+      789
+    ]
+  }
+}

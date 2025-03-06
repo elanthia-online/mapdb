@@ -1,0 +1,35 @@
+{
+  "checksum": "5fd1eb216bf7f390d0c51cfc04dedfaf",
+  "room": {
+    "id": 14555,
+    "title": [
+      "[Cave Bears]"
+    ],
+    "description": [
+      "An area of heavily wooded terrain, the natural home of cave bears, has been replicated in wonderful detail, enclosed within reinforced fence of wood and metal.  Obscured by dense foliage is a rocky cave mouth, serving as a shelter for the cave bear from the prying eyes of the public."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14551": "south",
+      "14554": "east",
+      "14556": "northeast"
+    },
+    "timeto": {
+      "14551": 0.2,
+      "14554": 0.2,
+      "14556": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      411135
+    ]
+  }
+}

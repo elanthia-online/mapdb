@@ -1,0 +1,31 @@
+{
+  "checksum": "334964e961c07d22a35288f7b8dc6bdd",
+  "room": {
+    "id": 28581,
+    "title": [
+      "[Ta'Illistim Hall, West Alcove]"
+    ],
+    "description": [
+      "Light from a glaesine skylight casts triangular patterns on the smooth marble floors and cream walls of this small alcove.  Muffled voices can be heard coming from the closed doors and from the lobby to the east.  Between two doors, a small portrait hangs above a rosewood case."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "28580": "east",
+      "28582": "go fel door",
+      "28583": "go modwir door",
+      "28584": "go ora door"
+    },
+    "timeto": {
+      "28580": 0.2,
+      "28582": 0.2,
+      "28583": 0.2,
+      "28584": 0.2
+    },
+    "uid": [
+      851004
+    ]
+  }
+}

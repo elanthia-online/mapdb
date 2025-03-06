@@ -1,0 +1,45 @@
+{
+  "checksum": "5c37294f27154f3badee69ed694445c0",
+  "room": {
+    "id": 7604,
+    "title": [
+      "[Beach Area, Tide Pool]"
+    ],
+    "description": [
+      "Standing among tumbled rocks made slick with still-wet seaweed, you gaze down at the pools of water that linger between the rocks.   Between one crevice and the next odd bits of sea-life cling, waiting for the return of the tide and the sheltering sea.  Much of the area below appears shallow and easily wadeable, even by a halfling, but there are pools that show a darker surface, hinting that they may be deeper than your first look would indicate."
+    ],
+    "paths": [
+      "Obvious paths: west, down"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "7603": "west",
+      "7632": "down",
+      "7654": "go crevice"
+    },
+    "timeto": {
+      "7603": 0.2,
+      "7632": 0.2,
+      "7654": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "broken twig",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84301
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      548,
+      530,
+      558,
+      540
+    ]
+  }
+}

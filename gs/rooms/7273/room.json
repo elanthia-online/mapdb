@@ -1,0 +1,48 @@
+{
+  "checksum": "f23e8f2ae0512d60ff770776227cc735",
+  "room": {
+    "id": 7273,
+    "title": [
+      "[Graveyard, Natural Dam]"
+    ],
+    "description": [
+      "A pile of uprooted trees lying across the creek creates this natural dam that holds back the scummy green waters.  The waters contain the slimy remains of putrifying vegetation and carcasses.  A dragonfly skims the surface, causing concentric ripples to radiate out from its landing spot.  Looking down, you see the dry remnants of the creek bed."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "the Graveyard",
+    "climate": "freshwater",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "7200": "go bank",
+      "7274": "down"
+    },
+    "timeto": {
+      "7200": 0.2,
+      "7274": 0.2
+    },
+    "tags": [
+      "sticks",
+      "wild gooseberry",
+      "broken twig",
+      "blue whortleberry",
+      "yew twig",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156001
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      212,
+      329,
+      222,
+      339
+    ]
+  }
+}

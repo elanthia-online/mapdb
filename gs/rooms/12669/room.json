@@ -1,0 +1,41 @@
+{
+  "checksum": "86ae582239d5d2e2823c7978d312ca40",
+  "room": {
+    "id": 12669,
+    "title": [
+      "[Teras Isle, Underwater]"
+    ],
+    "description": [
+      "Strong swirls of water roil atop one another, and gentler currents eddy to and fro, each caught in an elaborate, if not turbulent, dance."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south, southwest, west",
+      ""
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12662": "/rooms/12669/wayto/stringproc-12662.rb",
+      "12677": "/rooms/12669/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12669/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "meta:map:ignore-blanks",
+      "meta:underwater"
+    ],
+    "uid": [
+      3031014
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      1045,
+      948,
+      1065,
+      968
+    ]
+  }
+}

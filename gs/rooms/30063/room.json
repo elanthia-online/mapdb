@@ -1,0 +1,45 @@
+{
+  "checksum": "776253824125a9cb61b52453cf227e7c",
+  "room": {
+    "id": 30063,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "Overhead, the ceiling of the hall is a twisted fusion of stone archway and draping, oozing silk.  The stuff drips down over a pile of dull scales that litter the ragged floor around a worm's shed husk.  Greying and brittle, the remnants are immense in length, hinting at a truly colossal source."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, south, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30062": "northwest",
+      "30064": "north",
+      "30065": "south",
+      "30067": "southeast",
+      "30068": "east"
+    },
+    "timeto": {
+      "30062": 0.2,
+      "30064": 0.2,
+      "30065": 0.2,
+      "30067": 0.2,
+      "30068": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503485
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      780,
+      268,
+      796,
+      281
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "6a1dc8b5928cf4b467f7995c561e560a",
+  "room": {
+    "id": 402,
+    "title": [
+      "[Tykel's Arms, Showroom]"
+    ],
+    "description": [
+      "Glancing about the interior of the shop reveals all manner of bladed weapons, from daggers to twohanded swords.  Most of the weaponry is wrought in bronze, although finer specimens reflect the glint of steel.  All seem to share an air about them that says, \"This weapon is meant to be used\".  Tykel the Weaponsmith stands ready to sing the praises of his handiwork."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "276": "out",
+      "403": "go door",
+      "30708": "/rooms/402/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "276": 0.2,
+      "403": 0.2,
+      "30708": "/rooms/402/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "meta:noteleport:fwi",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons"
+    ],
+    "uid": [
+      2008
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      360,
+      353,
+      390,
+      383
+    ]
+  }
+}

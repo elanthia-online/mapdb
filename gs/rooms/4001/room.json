@@ -1,0 +1,50 @@
+{
+  "checksum": "d893bafbe4eb6f7adc34a7ed0ba1b290",
+  "room": {
+    "id": 4001,
+    "title": [
+      "[Griffin's Keen, Onyx Point]"
+    ],
+    "description": [
+      "The path disappears into a long gash that pierces the cracked and broken ice wall.  This near the peak, the wind rips at your clothes with a force that threatens to part you from the mountain, but cracks and crags in the grey ice face provide handholds for anyone who can manage to grab on."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4000": "/rooms/4001/wayto/stringproc-4000.rb",
+      "4002": "/rooms/4001/wayto/stringproc-4002.rb"
+    },
+    "timeto": {
+      "4000": 4.2,
+      "4002": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302114
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      770,
+      170,
+      780,
+      180
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "89c7b73568ad0d14c995488a5d27f19d",
+  "room": {
+    "id": 12177,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Iridescent grey slime crawls over the walls, ceiling and floor, seeming to pulsate and almost breathe.  The air is heavy with moisture, and thick with the scents of jasmine and decay.  Your head swims with the conflicting scents, too sweet to inhale easily and too strong to clear from your lungs fully."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12177/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12177/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12177/wayto/stringproc-12152.rb",
+      "12176": "west",
+      "12178": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12176": 0.2,
+      "12178": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568005
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      240,
+      1005,
+      250,
+      1015
+    ]
+  }
+}

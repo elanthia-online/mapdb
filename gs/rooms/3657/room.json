@@ -1,0 +1,53 @@
+{
+  "checksum": "98e7af46805a84adb09e26f791e0af00",
+  "room": {
+    "id": 3657,
+    "title": [
+      "[Oleander Crossing]"
+    ],
+    "description": [
+      "Built nearly on top of one another, there is barely a crack between the buildings here.  Only the colorful awnings and decorative trim differentiate one from another.  Outside one shop, a set of silver wind chimes hangs and issues an eerie melody as the breeze passes through them."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3651": "west",
+      "3655": "south",
+      "3658": "east",
+      "3668": "north",
+      "12281": "go shop",
+      "26981": "go wagon",
+      "30718": "/rooms/3657/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3651": 0.2,
+      "3655": 0.2,
+      "3658": 0.2,
+      "3668": 0.8,
+      "12281": 0.2,
+      "26981": 0.2,
+      "30718": "/rooms/3657/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "meta:trashcan:old barrel",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201024
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2770,
+      1460,
+      2810,
+      1500
+    ]
+  }
+}

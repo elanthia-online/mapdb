@@ -1,0 +1,24 @@
+{
+  "checksum": "8857bb8389f9904000342f91c85520d1",
+  "room": {
+    "id": 27416,
+    "title": [
+      "[All Leathered Up, Antechamber]"
+    ],
+    "description": [
+      "Cold and dark, this small, windowless room serves as an entryway leading to a larger workspace.  Tanned hides and scraps of black leather are scattered across the dirt-covered flooring, while a wooden rack and a rickety table provide a rudimentary display for this shop's wares.  A heavy acidity lingers in the air, presumably from an overuse of tanning dyes and curing liquids."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "27411": "out",
+      "27417": "east"
+    },
+    "timeto": {
+      "27411": 0.2,
+      "27417": 0.2
+    }
+  }
+}

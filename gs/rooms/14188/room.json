@@ -1,0 +1,29 @@
+{
+  "checksum": "29d694dc88751f8bae2073ebaebe5e8f",
+  "room": {
+    "id": 14188,
+    "title": [
+      "[Temple of Lorminstra, Hallway]"
+    ],
+    "description": [
+      "A golden velvet curtain fills a doorway in the corridor's northeast wall."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14173": "northwest",
+      "14186": "southeast",
+      "14189": "go curtain"
+    },
+    "timeto": {
+      "14173": 0.2,
+      "14186": 0.2,
+      "14189": 0.2
+    },
+    "uid": [
+      4742021
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "6c5f7017240c88efc37ec5af3d036782",
+  "room": {
+    "id": 20509,
+    "title": [
+      "[Erythro Island, Forest Ring]"
+    ],
+    "description": [
+      "A chorus of mournful wails eerily fill the forest, their cries sounding forlorn and distant.  Birds take to the sky, dark silhouettes against the ruddy sky."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20508": "southwest",
+      "20510": "climb opening",
+      "20558": "northeast"
+    },
+    "timeto": {
+      "20508": 0.2,
+      "20510": 0.2,
+      "20558": 0.2
+    }
+  }
+}

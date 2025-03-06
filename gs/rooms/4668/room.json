@@ -1,0 +1,45 @@
+{
+  "checksum": "bb20e6d111ceab493bc7719f0c625e3a",
+  "room": {
+    "id": 4668,
+    "title": [
+      "[Haegan's Weaponry]"
+    ],
+    "description": [
+      "Recent renovations are apparent in this small shop, from the new tile floor to a rather pristine wood-paneled walls.  The tang of metal and faint scent of oil linger in the air, drifting over from the neighboring forge.  A small burnished counter stands before several organized racks that display the numerous weapons for sale."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4666": "out",
+      "30717": "/rooms/4668/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4666": 0.2,
+      "30717": "/rooms/4668/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14051001
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      661,
+      485,
+      686,
+      509
+    ]
+  }
+}

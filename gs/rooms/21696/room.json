@@ -1,0 +1,27 @@
+{
+  "checksum": "5c2b7ebb7848ac3e413ebc370a721d44",
+  "room": {
+    "id": 21696,
+    "title": [
+      "[ShadowGuard, East Tower]"
+    ],
+    "description": [
+      "Circular stone walls surround a large pile of debris that dominates the center of the room.  The remains of a desk, chairs, and broken pottery make up the bulk of the pile, while a few rusting weapons lie discarded nearby.  A small stairway cut into the east wall leads upward."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21695": "go arch",
+      "21706": "up"
+    },
+    "timeto": {
+      "21695": 0.2,
+      "21706": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

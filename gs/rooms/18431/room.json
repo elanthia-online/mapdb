@@ -1,0 +1,30 @@
+{
+  "checksum": "2008bf57e4f733b1928ba2907a3111cd",
+  "room": {
+    "id": 18431,
+    "title": [
+      "[Hragon's Colorant, Foyer]"
+    ],
+    "description": [
+      "The wooden walls of the foyer are stained with an array of bright colors that reflect the light provided by the steel sconces set into them, affording more than adequate lighting.  Strategically positioned to ensure you cannot miss seeing them are several display cases that show various pieces of Hragon's extraordinary work.  Two multicolored carpets extend towards opposite directions, leading you to other areas of the shop, while a bright yellow door allows you back out to the street."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18430": "go door",
+      "18520": "northwest",
+      "18521": "northeast"
+    },
+    "timeto": {
+      "18430": 0.2,
+      "18520": 0.2,
+      "18521": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

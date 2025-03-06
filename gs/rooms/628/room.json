@@ -1,0 +1,49 @@
+{
+  "checksum": "c499e2485fa7d47e28520e1b18dd28b3",
+  "room": {
+    "id": 628,
+    "title": [
+      "[East Woods, Tunnel]"
+    ],
+    "description": [
+      "The narrow burrow opens up into a wider tunnel that curves in two directions around a submerged chunk of rock.  There is a distinct odor of rodent, mingled with the scent of rotting vegetation, pervading the tunnel.  It is not a particularly pleasant fragrance.  A rounded opening leads out of the burrow."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "627": "/rooms/628/wayto/stringproc-627.rb",
+      "13447": "southeast",
+      "13449": "northeast"
+    },
+    "timeto": {
+      "627": 0.4,
+      "13447": 0.2,
+      "13449": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17002237
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1372,
+      700,
+      1382,
+      710
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "cf797048092d28e09578a71be76f3162",
+  "room": {
+    "id": 27962,
+    "title": [
+      "[Atrium, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16316": "/rooms/27962/wayto/stringproc-16316.rb"
+    },
+    "timeto": {
+      "16316": 0.2
+    },
+    "tags": [
+      "locker:public",
+      "meta:locker"
+    ],
+    "uid": [
+      3204124
+    ],
+    "unique_loot": [
+      "snapdragon-embroidered curtain"
+    ]
+  }
+}

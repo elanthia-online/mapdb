@@ -1,0 +1,29 @@
+{
+  "checksum": "c39e8fcc94f4bbb671460de4b83c7538",
+  "room": {
+    "id": 30634,
+    "title": [
+      "[Landing Hall, Second Floor]"
+    ],
+    "description": [
+      "This landing offers a bird's-eye view of the main lobby, a polished gold railing keeping the unwary spectator from plummeting down.  Soft music can be heard from some fancifully-carved grand oak double doors, mixing with the echoes that float up from the lobby.  The walls and floors are bathed in multicolored light, the effects of the stained glass in the dome much more apparent from this vantage."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30633": "go staircase",
+      "30635": "go doors",
+      "30642": "west"
+    },
+    "timeto": {
+      "30633": 0.2,
+      "30635": 0.2,
+      "30642": 0.2
+    },
+    "uid": [
+      853009
+    ]
+  }
+}

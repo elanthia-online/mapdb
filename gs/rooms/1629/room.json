@@ -1,0 +1,43 @@
+{
+  "checksum": "13adcd268e7c87291c8ab6421b848a6d",
+  "room": {
+    "id": 1629,
+    "title": [
+      "[Moonglae Inn, Cloister]"
+    ],
+    "description": [
+      "A covered walkway paved with dark blue slate is brightly lit by an eahnor oil lamp crafted in the shape of a crescent moon.  A row of tall, grey marble pillars separates the walkway from the skylit atrium beyond.  A white marble statue stands against the dark greystone wall."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Moonglae Inn",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "0": "go atrium",
+      "1628": "south",
+      "15653": "east"
+    },
+    "timeto": {
+      "0": 0.2,
+      "1628": 0.2,
+      "15653": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13107007
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      1148,
+      1839,
+      1211,
+      1898
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "377ad700678804f278fdd7ba0cff9a15",
+  "room": {
+    "id": 30367,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Thin tendrils of clouds drift across the moon, casting shadows on the silvery water.  Waves of water crest and recede sharply, rolling into deep valleys before rising into high peaks.  Black rocky forms are visible to the west and south, making further passage beyond them in those directions impossible."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30366": "pedal east",
+      "30368": "pedal north",
+      "30377": "pedal northeast",
+      "30379": "pedal northwest"
+    },
+    "timeto": {
+      "30366": 6,
+      "30368": 6,
+      "30377": 6,
+      "30379": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216223
+    ]
+  }
+}

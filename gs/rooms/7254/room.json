@@ -1,0 +1,54 @@
+{
+  "checksum": "887d3c1ee9c644341bc35fc786f3088a",
+  "room": {
+    "id": 7254,
+    "title": [
+      "[Graveyard, Boggy Path]"
+    ],
+    "description": [
+      "The overgrown trail that winds through the scrawny trees to the east sinks deep into the bog here, barely forming patches of ground solid enough to walk on.  The darkness is deeper and the swamp gas thicker to the west, where thick patches of scrub and twisted yew trees stand amid pits of swirling muck and water.  Two somewhat drier paths wind along the edges of the bog to the northwest and southwest."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, west, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "moist",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7253": "east",
+      "7255": "northwest",
+      "7264": "southwest",
+      "7265": "west"
+    },
+    "timeto": {
+      "7253": 0.2,
+      "7255": 0.2,
+      "7264": 0.2,
+      "7265": 0.2
+    },
+    "tags": [
+      "spotted heart mushroom",
+      "golden hook mushroom",
+      "broken twig",
+      "wild chokecherry",
+      "murkweed",
+      "blue whortleberry",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "greater spider",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162001
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      134,
+      586,
+      144,
+      596
+    ]
+  }
+}

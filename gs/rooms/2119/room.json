@@ -1,0 +1,41 @@
+{
+  "checksum": "7a73a994bb106cdc500a9409eae2293e",
+  "room": {
+    "id": 2119,
+    "title": [
+      "[Teras Isle, High Road]"
+    ],
+    "description": [
+      "The way narrows along the ocean face of V'tull.  It winds across the great curve of the burning mountain in a spindly ribbon, disappearing into a sulfurous mist that even the harsh winds of the eastern shore cannot disperse.  A thick river of lava pours across the road, overflowing one of its many channels.  It will cool soon, no doubt, but for the time being the road ends here."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "the old Logging Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2116": "southwest",
+      "23239": "go walkway"
+    },
+    "timeto": {
+      "2116": 0.2,
+      "23239": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3009026
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      525,
+      242,
+      535,
+      252
+    ]
+  }
+}

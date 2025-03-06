@@ -1,0 +1,48 @@
+{
+  "checksum": "edd9f19f32c79912a3c361bf5f9ad82e",
+  "room": {
+    "id": 11442,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The cliffs of the headland curve away to the north.  Powerful currents swirl and spiral crazily, making any movement to the north or west impossible.  A low dip in the headland reveals a tall, pale tower, which has a ghostly gleam in the moonlight.",
+      "The cliffs of the headland curve away to the north.  Powerful currents swirl and spiral crazily, making any movement to the north or west impossible.  A low dip in the headland reveals a tall, pale tower, which gleams whitely in the sunlight."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11441": "/rooms/11442/wayto/stringproc-11441.rb",
+      "11443": "/rooms/11442/wayto/stringproc-11443.rb",
+      "11453": "/rooms/11442/wayto/stringproc-11453.rb",
+      "11479": "/rooms/11442/wayto/stringproc-11479.rb",
+      "11485": "/rooms/11442/wayto/stringproc-11485.rb"
+    },
+    "timeto": {
+      "11441": 2,
+      "11443": 2,
+      "11453": 2,
+      "11479": 3,
+      "11485": "/rooms/11442/timeto/stringproc-11485.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "restricted:11485:skill:climbing:15"
+    ],
+    "uid": [
+      304034
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      675,
+      1153,
+      685,
+      1163
+    ]
+  }
+}

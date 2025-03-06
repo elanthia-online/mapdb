@@ -1,0 +1,34 @@
+{
+  "checksum": "31456d391af55f11a75dd0d7487ffdce",
+  "room": {
+    "id": 24247,
+    "title": [
+      "[Helden Hall, Armory Passage]"
+    ],
+    "description": [
+      "This small dark stone passage leads to another large bedraggled brown curtain.  The torchlight flickers from a draft, while the faint pungent odor of polishing oil still reaches you."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4664": "south",
+      "5203": "go curtain"
+    },
+    "timeto": {
+      "4664": 0.2,
+      "5203": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      137,
+      716,
+      176,
+      748
+    ]
+  }
+}

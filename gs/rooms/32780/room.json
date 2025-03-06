@@ -1,0 +1,41 @@
+{
+  "checksum": "b6536e7f1687f5fb4c6076a23d212037",
+  "room": {
+    "id": 32780,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "The tunnel slopes gently downward, and much of the floor is shattered and broken.  You could easily do without the slight movement of the air, as it only brings ever more appalling scents to your attention."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32779": "east",
+      "32781": "west"
+    },
+    "timeto": {
+      "32779": 0.2,
+      "32781": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2135204
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      452,
+      489,
+      461,
+      498
+    ]
+  }
+}

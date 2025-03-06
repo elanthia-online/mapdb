@@ -1,0 +1,28 @@
+{
+  "checksum": "99b6a149539dcee5aeaf84c74d328221",
+  "room": {
+    "id": 4350,
+    "title": [
+      "[Emerald Level, Northwest Shaft]"
+    ],
+    "description": [
+      "A single dwarf is sitting up against the wall, muttering words best not heard by children or the faint of heart.  He is holding a badly damaged pickaxe in one hand.  At his feet is a shard of stone, granite by the looks of it."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4349": "southeast",
+      "4351": "northwest"
+    },
+    "timeto": {
+      "4349": 0.2,
+      "4351": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

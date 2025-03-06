@@ -1,0 +1,36 @@
+{
+  "checksum": "2ab7376280c6ceecb3abea8648d1cc11",
+  "room": {
+    "id": 25424,
+    "title": [
+      "[Irregulars Barracks, Mess Hall]"
+    ],
+    "description": [
+      "Six long tables flanked by benches span the length of the room, and the heavy aroma of roasted meat and vegetables permeates the air.  A large sideboard boasts an impressive array of foods and desserts, as well as a rhimar ice bucket containing the chilled beverages.  Hanging on the farthest wall are two paintings.  A pair of large double doors lead out to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "22462": "go doors",
+      "25425": "west",
+      "25426": "south",
+      "25427": "southeast",
+      "25428": "north"
+    },
+    "timeto": {
+      "22462": 0.2,
+      "25425": 0.2,
+      "25426": 0.2,
+      "25427": 0.2,
+      "25428": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      18005003
+    ]
+  }
+}

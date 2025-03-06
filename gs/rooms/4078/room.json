@@ -1,0 +1,27 @@
+{
+  "checksum": "0598d1e47f4ffee97b71972206b9a981",
+  "room": {
+    "id": 4078,
+    "title": [
+      "[Warehouse, East Wing]"
+    ],
+    "description": [
+      "Well-worn flagstones peek through the scattered piles of fresh straw that have inadvertently been kicked in from the warehouse floor.  The straw collects against the clean oak walls of the hallway and settles on the floor between the workshop doors, like small drifts of golden snow."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4077": "southwest",
+      "4079": "east"
+    },
+    "timeto": {
+      "4077": 0.2,
+      "4079": 0.2
+    },
+    "uid": [
+      4051008
+    ]
+  }
+}

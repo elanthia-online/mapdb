@@ -1,0 +1,43 @@
+{
+  "checksum": "5ac7305acf124b562bb6628943094272",
+  "room": {
+    "id": 26564,
+    "title": [
+      "[Whip and Wight Inn, Great Room]"
+    ],
+    "description": [
+      "The immensity of this chamber belies the fact that it exists beneath and within a mountain.  In addition to those anchored by chains to the ceiling, myriad lanterns are mounted at intervals on the walls, and a warm amber haze suffuses the air.  Dark iron braziers piled with embers are interspersed among the tables to ward off the chill of the underground, and vents found in the floor beneath them draw the smoke out and away."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26559": "northwest",
+      "26565": "southeast",
+      "26755": "/rooms/26564/wayto/stringproc-26755.rb",
+      "26756": "/rooms/26564/wayto/stringproc-26756.rb",
+      "26759": "/rooms/26564/wayto/stringproc-26759.rb",
+      "26760": "/rooms/26564/wayto/stringproc-26760.rb",
+      "26762": "/rooms/26564/wayto/stringproc-26762.rb",
+      "26763": "/rooms/26564/wayto/stringproc-26763.rb",
+      "26768": "/rooms/26564/wayto/stringproc-26768.rb",
+      "27532": "/rooms/26564/wayto/stringproc-27532.rb"
+    },
+    "timeto": {
+      "26559": 0.2,
+      "26565": 0.2,
+      "26755": 0.2,
+      "26756": 0.2,
+      "26759": 0.2,
+      "26760": 0.2,
+      "26762": 0.2,
+      "26763": 0.2,
+      "26768": 0.2,
+      "27532": 0.2
+    },
+    "tags": [
+      "table"
+    ]
+  }
+}

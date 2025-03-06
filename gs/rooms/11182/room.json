@@ -1,0 +1,44 @@
+{
+  "checksum": "5288d9b104027703ef7fef161b1f4f92",
+  "room": {
+    "id": 11182,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "A skull and parts of a ribcage are all that remains of a warrior.  Stairs wind up to the floors above, and down to the main floor below.  The iron banisters are oddly twisted, forming sculptures of rust flecked with black."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, up, down"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11170": "down",
+      "11183": "north",
+      "11184": "east",
+      "11191": "west",
+      "11192": "up"
+    },
+    "timeto": {
+      "11170": 0.2,
+      "11183": 0.2,
+      "11184": 0.2,
+      "11191": 0.2,
+      "11192": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100016
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      570,
+      383,
+      580,
+      393
+    ]
+  }
+}

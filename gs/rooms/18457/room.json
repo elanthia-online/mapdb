@@ -1,0 +1,30 @@
+{
+  "checksum": "073f515df329bb0980629d6799b54d98",
+  "room": {
+    "id": 18457,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "A mesh of hemp twine strung between a series of stout posts supports a vibrant green vine bearing clusters of dark red grapes.  Though small, the grapes are plentiful and plump, ripe for the picking.  Beneath the canopy of leaves, a silvered statue is set on a stone base."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18455": "southeast",
+      "18458": "go tent",
+      "18459": "northwest"
+    },
+    "timeto": {
+      "18455": 0.2,
+      "18458": 0.2,
+      "18459": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

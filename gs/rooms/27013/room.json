@@ -1,0 +1,39 @@
+{
+  "checksum": "e1b0106a76bc4fbe7be2d95c94db9805",
+  "room": {
+    "id": 27013,
+    "title": [
+      "[Twilight Lodge, Clearing]"
+    ],
+    "description": [
+      "An ivy-covered riverstone lodge basks in the sun alongside a towering silver lor tree and an eahnor-streaked waxing stone moon.  Across the clearing, a magnificent angel oak erupts from the ground, its many gnarled and twisted limbs embrace the glade, shielding it from the encroaching forest.  A braided hemp ladder hangs from the lor tree, and a glowbark dart board embellished with an astral rune is mounted on the oak."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "4709": "/rooms/27013/wayto/stringproc-4709.rb",
+      "24509": "go lodge",
+      "27014": "go ladder"
+    },
+    "timeto": {
+      "4709": 0.2,
+      "24509": 0.2,
+      "27014": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Twilight Hall"
+    ],
+    "uid": [
+      13112521
+    ],
+    "image": "en-TwilightHallAnnex.png",
+    "image_coords": [
+      86,
+      146,
+      225,
+      237
+    ]
+  }
+}

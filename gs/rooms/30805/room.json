@@ -1,0 +1,62 @@
+{
+  "checksum": "f7f6d30290e9b4493b69929df44cfe2e",
+  "room": {
+    "id": 30805,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "A bronze bell rings out the half-hour of the watch beneath the sail fastened to mast towering overhead.  Down a steep companionway, a pair of crewmen roll barrels into the cargo hold, while a cabin boy emerges from below juggling an armload of cannonballs to replenish the munitions alongside some cannons on deck.  A section of rigging has snapped loose above some debris, the rope whipping back and forth in the constant breeze."
+    ],
+    "paths": [
+      "Obvious paths: east, west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "go gangplank",
+      "30119": "go gangplank",
+      "30130": "go gangplank",
+      "30142": "go gangplank",
+      "30166": "go gangplank",
+      "30176": "go gangplank",
+      "30806": "west",
+      "30808": "down",
+      "30809": "up",
+      "30810": "east"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30806": 0.2,
+      "30808": 0.2,
+      "30809": 0.2,
+      "30810": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy frigate",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      846,
+      869,
+      861,
+      882
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "21eef6d9d2a09f50a32ce4bbcd5b6bcb",
+  "room": {
+    "id": 12189,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Moans and shrieks of agony fill the large brown canvas tent.  Chirurgeons walk between the cots, attempting to tend the wounds of those who lay bleeding on the rude beds.  Suddenly, the flap of the tent is torn down, revealing a knight in bloody black armor.  He raises his gargantuan claidhmore...and the scene fades, leaving you standing on the crumbling red earth."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12189/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12189/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12189/wayto/stringproc-12152.rb",
+      "12190": "west",
+      "20880": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12190": 0.2,
+      "20880": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568020
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      172,
+      1248,
+      182,
+      1258
+    ]
+  }
+}

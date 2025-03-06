@@ -1,0 +1,61 @@
+{
+  "checksum": "5be6da42a10f5e5300f292224b103eea",
+  "room": {
+    "id": 7,
+    "title": [
+      "[Ta'Illistim, BriarStone Court]"
+    ],
+    "description": [
+      "The stonework tracery rosette windows of the Moonglae Inn sparkle in the light, casting tiny rainbows of shimmering hues across the puddles of water accumulated amongst the cobblestones of the court.  The building's mica-flecked granite exterior, worn smooth with age and elements, stands testament to the city's rich and storied history.",
+      "The stonework tracery rosette windows of the Moonglae Inn sparkle in the starlight, casting tiny rainbows of shimmering hues from off their stained glass panes.",
+      "The stonework tracery rosette windows of the Moonglae Inn sparkle in the light, casting tiny rainbows of shimmering hues from off their stained glass panes.  Surrounding the colorful windows, the building's silvery blue granite exterior is worn smooth from age and the elements.  Against the clean, new looking marbles of the structures nearby, the Inn shows its years."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southwest, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6": "go inn",
+      "8": "northeast",
+      "155": "north",
+      "196": "southwest",
+      "208": "northwest",
+      "3668": "/rooms/7/wayto/stringproc-3668.rb",
+      "26905": "/rooms/7/wayto/stringproc-26905.rb",
+      "30714": "/rooms/7/wayto/stringproc-30714.rb",
+      "31558": "/rooms/7/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "6": 0.2,
+      "8": 0.2,
+      "155": 0.2,
+      "196": 0.2,
+      "208": 0.2,
+      "3668": "/rooms/7/timeto/stringproc-3668.rb",
+      "26905": 2400,
+      "30714": "/rooms/7/timeto/stringproc-30714.rb",
+      "31558": "/rooms/7/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "urchin guide moonglae",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:teleport",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      13101017
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      529,
+      450,
+      551,
+      475
+    ]
+  }
+}

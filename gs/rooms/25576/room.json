@@ -1,0 +1,29 @@
+{
+  "checksum": "d70397cbbecb9d7d15e39887a2ec3f0f",
+  "room": {
+    "id": 25576,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Funneled in dimension, this tunnel trespass is dusty from all the dirt stirred by constant movement and piles of dirt left along the sides.  At one end, a dim light from a larger area barely illuminates, while at the other is a darkened continuation."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, southwest, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25555": "southwest",
+      "25571": "south",
+      "25573": "northeast",
+      "25575": "west"
+    },
+    "timeto": {
+      "25555": 0.2,
+      "25571": 0.2,
+      "25573": 0.2,
+      "25575": 0.2
+    },
+    "check_location": true
+  }
+}

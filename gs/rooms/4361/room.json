@@ -1,0 +1,32 @@
+{
+  "checksum": "ca0cb4932be642fb0d50718ef96ad440",
+  "room": {
+    "id": 4361,
+    "title": [
+      "[Emerald Level, Southwest Shaft]"
+    ],
+    "description": [
+      "The sound of a forge can be heard in a nearby room, the clang of metal on metal echoing loudly down the passage.  The noise borders on annoying, but there is an odd musical quality to it as well.  An aproned apprentice hustles by, a large bucket of steaming water in one hand."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4355": "northeast",
+      "4362": "go arch",
+      "4363": "go entry",
+      "4364": "southwest"
+    },
+    "timeto": {
+      "4355": 0.2,
+      "4362": 0.2,
+      "4363": 0.2,
+      "4364": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "c73399fcbfd47db86312af33b0884f1f",
+  "room": {
+    "id": 30277,
+    "title": [
+      "[Rusty Cutlass, The Hold]"
+    ],
+    "description": [
+      "Faint light from the main deck above seeps in through tiny grates in the ceiling, just enough to illuminate part of the compartment's ballast in the form of piles of huge sandbags, wooden crates, and iron-banded barrels.  The rest of the hold is aglow from the fire of hanging lanterns which help to display a coral-ringed dart board hung firmly on a wall.  A large cloth hammock is pulled tight between two oaken posts in the far corner of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "30276": "northeast",
+      "30278": "north"
+    },
+    "timeto": {
+      "30276": 0.2,
+      "30278": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336653
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      825,
+      574,
+      855,
+      603
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "445272710a40addf6b25b0c2c8f84dbc",
+  "room": {
+    "id": 28802,
+    "title": [
+      "[Talondown Arena, Gate]"
+    ],
+    "description": [
+      "Standing beneath the low-hanging and outstretched talons of a firebird sculpture, the wooden gate leading to the stands is a splintered confection of warped wood and rusted nails.  The deck underfoot is paneled in mismatched blond and dark wood planks."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": false,
+    "wayto": {
+      "23281": "south",
+      "25509": "/rooms/28802/wayto/stringproc-25509.rb",
+      "32299": "go wooden gate"
+    },
+    "timeto": {
+      "23281": 0.2,
+      "25509": 0.4,
+      "32299": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ],
+    "uid": [
+      4903603
+    ]
+  }
+}

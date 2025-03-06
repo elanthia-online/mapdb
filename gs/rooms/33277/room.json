@@ -1,0 +1,45 @@
+{
+  "checksum": "e1b87d37c1acf673fabc79b2c2c3e141",
+  "room": {
+    "id": 33277,
+    "title": [
+      "[Vornavis, Dondraek Lane]"
+    ],
+    "description": [
+      "Following the curvature of the city's walls, the cobblestone street travels in a gentle incline to the north.  Columnar lampposts glisten in the daylight, the large frosted orbs that crown them dormant for the moment and temporary perches for migratory avians.  Brownstone homes are surrounded by small patchwork yards of dusky green centipede grass and maoral-framed herb or flower beds throughout this section of the city.",
+      "Following the curvature of the city's walls, the cobblestone street travels in a gentle incline to the north.  Columnar lampposts glow with a steady, bright light that dispels the shadows of night that linger this close to the city's walls.  Brownstone homes rise in tidy rows down the lane, their faces illuminated by smaller globes that dot the pathways leading through their small yards to their doors."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33276": "southeast",
+      "33278": "north",
+      "34440": "go modwir door"
+    },
+    "timeto": {
+      "33276": 0.2,
+      "33278": 0.2,
+      "34440": "/rooms/33277/timeto/stringproc-34440.rb"
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201102
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1662,
+      1081,
+      1683,
+      1102
+    ]
+  }
+}

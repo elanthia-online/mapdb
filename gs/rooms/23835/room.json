@@ -1,0 +1,37 @@
+{
+  "checksum": "83c07c6fc1d09c25b3c9d6ec240ac880",
+  "room": {
+    "id": 23835,
+    "title": [
+      "[Baile Dragan, Triskelion Hall]"
+    ],
+    "description": [
+      "This large, open room is filled with successively higher rows of polished ebonwood benches, supported at each end by heavy, dragon-shaped legs of cast silver.  The walls are hung with magnificent tapestries worked in silver thread on a black background.  Each life-sized panel depicts a scene of a mortal and a dragon in some sort of interaction.  At the front of the room is a large dais, behind which the Ord an Dragan standard is displayed."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "23834": "go doors",
+      "28865": "go stairs"
+    },
+    "timeto": {
+      "23834": 0.2,
+      "28865": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      18011003
+    ],
+    "image": "wl-Ord_An_Dragan.Map-5120-0901.png",
+    "image_coords": [
+      319,
+      356,
+      481,
+      463
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "f120136f657fd7aefe724a971c43ce9e",
+  "room": {
+    "id": 3506,
+    "title": [
+      "[Ta'Vaalor, Geaislt Wey]"
+    ],
+    "description": [
+      "A low stone wall surrounds a beautiful manor house.  Encircled by luxurious gardens, the manor exudes a comfortable, safe atmosphere.  An ironwood gate marks the entry to the grounds.  Tacked to the gate is a small silver plaque."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3505": "north",
+      "3507": "southeast",
+      "14659": "go gate"
+    },
+    "timeto": {
+      "3505": 0.2,
+      "3507": 0.2,
+      "14659": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100073
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      400,
+      628,
+      436,
+      666
+    ]
+  }
+}

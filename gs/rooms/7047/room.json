@@ -1,0 +1,48 @@
+{
+  "checksum": "9dc9f05aa508ec415a0bf17a14ac41ec",
+  "room": {
+    "id": 7047,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "There is barely enough room for you to squeeze through this tunnel, and you find you must alternately stoop and crawl, pressing yourself hard against the damp, earthen walls.  Hundreds of tiny, blind worms writhe in the crevices, making your skin crawl as you brush past them."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7048": "northeast",
+      "7068": "southwest"
+    },
+    "timeto": {
+      "7048": 0.2,
+      "7068": 0.2
+    },
+    "tags": [
+      "roa'ter",
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42506
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      162,
+      898,
+      172,
+      908
+    ]
+  }
+}

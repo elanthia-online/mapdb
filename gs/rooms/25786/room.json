@@ -1,0 +1,39 @@
+{
+  "checksum": "38145a62577e9ffc6cf425e1bc281cad",
+  "room": {
+    "id": 25786,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Tidy and narrow, the thin dock that extends from the small island is painted grey and lined with dozens of frosted globes that glitter with a warm, welcoming radiance.  Small and large rocks decorated with orange, blue, and white pigments create an ornamental border that rises from the rushing waves and up the steep sides of the coast."
+    ],
+    "paths": [
+      "Obvious paths: north, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25787": "/rooms/25786/wayto/stringproc-25787.rb",
+      "26046": "/rooms/25786/wayto/stringproc-26046.rb"
+    },
+    "timeto": {
+      "25787": 6,
+      "26046": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223877
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2321,
+      1839,
+      2340,
+      1858
+    ]
+  }
+}

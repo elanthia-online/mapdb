@@ -1,0 +1,45 @@
+{
+  "checksum": "f4b6079e1f371ab2e0af5dc32050cb77",
+  "room": {
+    "id": 30806,
+    "title": [
+      "[Enemy Ship, Helm]"
+    ],
+    "description": [
+      "A woodworking masterpiece, a wooden wheel is positioned behind a polished teak binnacle, the housing for the ship's compass, with a capstan bringing up the rear of the deck at the ship's helm.  A cabin girl slips out of a wooden door carrying a tray weighed down with with a gleaming silver tea service, and a few cookie crumbs are all that remain on the empty saucers.  The sound of the ship's bell signals the next watch change."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "30805": "east",
+      "30807": "go door"
+    },
+    "timeto": {
+      "30805": 0.2,
+      "30807": 0.2
+    },
+    "tags": [
+      "enemy frigate",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120002,
+      7120014,
+      7120026,
+      7120038,
+      7120050,
+      7120062,
+      7120074
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      806,
+      869,
+      820,
+      883
+    ]
+  }
+}

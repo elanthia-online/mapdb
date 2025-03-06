@@ -1,0 +1,35 @@
+{
+  "checksum": "45ae98a9db7d99f677e4b849af0e45e2",
+  "room": {
+    "id": 16010,
+    "title": [
+      "[River's Rest Hall, Landing]"
+    ],
+    "description": [
+      "Three portholes look out over the orchard and send trickles of moonlight down the staircase.  A framed display of knots hangs on the wall next to an old brass lantern.  The floorboards are buckled and warped, though braided throw rugs cover the worst patches.",
+      "Three portholes look out over the orchard and flood the staircase with sunlight.  A framed display of knots hangs on the wall next to an old brass lantern.  The floorboards are buckled and warped, though braided throw rugs cover the worst patches."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16012": "go teak door",
+      "16020": "climb staircase",
+      "16234": "go oval door"
+    },
+    "timeto": {
+      "16012": 0.2,
+      "16020": 0.2,
+      "16234": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      854014
+    ]
+  }
+}

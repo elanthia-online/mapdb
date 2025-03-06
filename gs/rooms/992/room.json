@@ -1,0 +1,44 @@
+{
+  "checksum": "046acc427111550878ff1adf719a486c",
+  "room": {
+    "id": 992,
+    "title": [
+      "[Kharag 'doth Dzulthu, Tunnels]"
+    ],
+    "description": [
+      "The tunnel narrows as it approaches a set of metal rails.  An endless procession of mining carts rotate along the rails, flying past at an exceptional rate of speed, and occasionally stopping to take on passengers.  Several burly dwarves stand by, directing traffic and ensuring the carts move along."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Kharag 'doth Dzulthu",
+    "wayto": {
+      "991": "out",
+      "993": "/rooms/992/wayto/stringproc-993.rb",
+      "1013": "/rooms/992/wayto/stringproc-1013.rb",
+      "1261": "east"
+    },
+    "timeto": {
+      "991": 0.2,
+      "993": 180,
+      "1013": "/rooms/992/timeto/stringproc-1013.rb",
+      "1261": 0.2
+    },
+    "tags": [
+      "silver-cost:993:1000",
+      "no forageables",
+      "meta:forage-sensed",
+      "silver-cost:1013:2000"
+    ],
+    "uid": [
+      13005002
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1282,
+      604,
+      1292,
+      614
+    ]
+  }
+}

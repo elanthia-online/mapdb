@@ -1,0 +1,42 @@
+{
+  "checksum": "a2983c5f3253333d2088d074b3862bba",
+  "room": {
+    "id": 11366,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "The forces of time seem to have left the smooth granite of this hallway untouched as no cracks show in the walls."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11363": "north",
+      "11367": "south",
+      "11368": "southwest",
+      "17706": "go door"
+    },
+    "timeto": {
+      "11363": 0.2,
+      "11367": 0.2,
+      "11368": 0.2,
+      "17706": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377021
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      177,
+      1224,
+      187,
+      1234
+    ]
+  }
+}

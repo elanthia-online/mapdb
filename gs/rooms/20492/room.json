@@ -1,0 +1,24 @@
+{
+  "checksum": "0f75ba8ee9ead1dfed10db2f88a6e1b0",
+  "room": {
+    "id": 20492,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "The area is completely dark, with ominous clouds above making the water below match their sinister hue.  Something can be heard splashing in the ocean not far away."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20491": "/rooms/20492/wayto/stringproc-20491.rb",
+      "20495": "/rooms/20492/wayto/stringproc-20495.rb"
+    },
+    "timeto": {
+      "20491": 2,
+      "20495": 2
+    }
+  }
+}

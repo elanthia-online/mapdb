@@ -1,0 +1,55 @@
+{
+  "checksum": "f1620e00b3476e7668f7fc871a43d228",
+  "room": {
+    "id": 6998,
+    "title": [
+      "[Castle Darkstone]"
+    ],
+    "description": [
+      "You peer up at the intimidating stone towers which flank the entrance to the castle, silently guarding the passage in.  Inexplicably, a mound of hay has been piled up close to the wall here, in odd contrast to the gleaming white mein portcullis which towers overhead."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "6997": "/rooms/6998/wayto/stringproc-6997.rb",
+      "6999": "/rooms/6998/wayto/stringproc-6999.rb"
+    },
+    "timeto": {
+      "6997": 0.2,
+      "6999": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "cuctucae berry",
+      "sassafras leaf",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "heath aster",
+      "bright red cranberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45104
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      320,
+      429,
+      330,
+      439
+    ]
+  }
+}

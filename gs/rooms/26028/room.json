@@ -1,0 +1,34 @@
+{
+  "checksum": "f09d1a494e52c480752cd0d9b6374e35",
+  "room": {
+    "id": 26028,
+    "title": [
+      "[Cleric Guild, Meditation Room]"
+    ],
+    "description": [
+      "Bare of color or design, the blank grey walls are a sharp contrast to the gaudily painted dome.  The vivid hues on the ceiling compete for attention in an intricate spiral, each whorl detailed with smaller swirls of riotous color in a seemingly endless progression.  Long narrow mats on the floor invite not kneeling, but lying down, the better to contemplate the vibrant patterns above.  Simple white candles provide steady illumination."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17722": "southwest",
+      "26027": "northeast"
+    },
+    "timeto": {
+      "17722": 0.2,
+      "26027": 0.2
+    },
+    "uid": [
+      673003
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      961,
+      407,
+      1024,
+      468
+    ]
+  }
+}

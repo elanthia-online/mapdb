@@ -1,0 +1,37 @@
+{
+  "checksum": "1e8bc8b6652f3f903bff1401be9394fe",
+  "room": {
+    "id": 33446,
+    "title": [
+      "[Underground, Narrow Tunnel]"
+    ],
+    "description": [
+      "The water running down the walls seems to be increasing in volume, making you wonder about the sturdiness of the ceiling braces that you see every few feet.  The floor of the tunnel is thick with mud, but you can see some sort of light to the west."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "33441": "east",
+      "33447": "west"
+    },
+    "timeto": {
+      "33441": 0.2,
+      "33447": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102503
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      251,
+      1029,
+      379,
+      1095
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "5738cac6a6771c545f6d30268c090cbf",
+  "room": {
+    "id": 21367,
+    "title": [
+      "[Moot Hall, North Corridor]"
+    ],
+    "description": [
+      "The northern corridor of Moot Hall is quiet, with every little footstep muffled by the rich merlot carpet.  A silver-threaded tapestry depicting the shimmering water and cloudy skies of Darkstone Bay hangs on a wall near a carved wooden door."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "387": "south",
+      "21366": "go door"
+    },
+    "timeto": {
+      "387": 0.2,
+      "21366": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336308
+    ],
+    "check_location": false
+  }
+}

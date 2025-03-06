@@ -1,0 +1,42 @@
+{
+  "checksum": "9eef0466b609dd474d650fb9fe711d9c",
+  "room": {
+    "id": 7038,
+    "title": [
+      "[Castle Darkstone, Great Hall]"
+    ],
+    "description": [
+      "A large black iron kettle hangs here from a rusty chain over a blackened fire pit.  A large hole in the ceiling above this crude hearth is stained with the smoke and soot of many fires.  Strangely the kettle and firepit show signs of recent use, unlike anything else in the castle."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7037": "west",
+      "7039": "out"
+    },
+    "timeto": {
+      "7037": 0.2,
+      "7039": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45127
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      703,
+      468,
+      713,
+      478
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "dcbb2b3b21048f2c0c95b797a0c8cd48",
+  "room": {
+    "id": 29906,
+    "title": [
+      "[Ojandhaart, Great Hall]"
+    ],
+    "description": [
+      "Built atop a craggy mount of granite, a huge hoarbeam longhouse looks out over the village.  Ornate carvings adorn the huge timbers that comprise its walls, while its roof is crafted from riverstone shingles and not the thatchwork of the surrounding huts.  Great steps, cut from the stone of the tor, proceed up to the wide arched entrance.  They are flanked to either side by a pair of colossal stone statues depicting warriors, one male and one female, each armed with twin scimitars."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29903": "northwest",
+      "29907": "go longhouse",
+      "29908": "southwest",
+      "29910": "southeast",
+      "29912": "northeast"
+    },
+    "timeto": {
+      "29903": 0.2,
+      "29907": 0.2,
+      "29908": 0.2,
+      "29910": 0.2,
+      "29912": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503307
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1223,
+      1185,
+      1239,
+      1201
+    ]
+  }
+}

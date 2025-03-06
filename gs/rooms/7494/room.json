@@ -1,0 +1,51 @@
+{
+  "checksum": "52a8005d949e4f92301d3516d37b2ca1",
+  "room": {
+    "id": 7494,
+    "title": [
+      "[Wehnimer's, Catacombs]"
+    ],
+    "description": [
+      "A faint glow filters into the branching tunnel from the west.  Peering in that direction you can find no evidence as to the source of the illumination and wonder where it might come from.  The trickle of water at your feet continues west, and as before, the lichen covered walls are slimy and slippery."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7492": "southeast",
+      "7495": "west"
+    },
+    "timeto": {
+      "7492": 0.2,
+      "7495": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46052
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      794,
+      940,
+      804,
+      950
+    ]
+  }
+}

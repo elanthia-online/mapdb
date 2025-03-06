@@ -1,0 +1,27 @@
+{
+  "checksum": "749f7f846b39c507017de811a90e7cb2",
+  "room": {
+    "id": 21172,
+    "title": [
+      "[Mist Harbor Proper, Sewers]"
+    ],
+    "description": [
+      "Dank and dark, this section of the tunnel is filled with shadows and runs heavy with the scent of rotting waste and refuse.  Thick grates to the north and south block passage into the darker depths of the sewer system, and also provide windows into the slop-filled gloom of the passage."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21171": "east",
+      "21173": "west"
+    },
+    "timeto": {
+      "21171": 0.2,
+      "21173": 0.2
+    },
+    "uid": [
+      265407
+    ]
+  }
+}

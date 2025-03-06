@@ -1,0 +1,24 @@
+{
+  "checksum": "29d4470d993635e834e49ad7c652ea4a",
+  "room": {
+    "id": 20498,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "Beyond the murkiness of the tempest, the shore of an island comes into view. An electrical storm of red lightning plagues the sky above the isle."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20497": "/rooms/20498/wayto/stringproc-20497.rb",
+      "20499": "go shore"
+    },
+    "timeto": {
+      "20497": 2,
+      "20499": 2
+    }
+  }
+}

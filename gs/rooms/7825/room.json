@@ -1,0 +1,39 @@
+{
+  "checksum": "9fadfccc6de0a0e671e1eaa1a8752a55",
+  "room": {
+    "id": 7825,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "Your steps ring on the steel floor as you move down this bare corridor.  There are no doors, no corners, nothing to mar the dull, featureless steel.  The shadowy tunnel goes north and south."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7824": "south",
+      "7826": "north"
+    },
+    "timeto": {
+      "7824": 0.2,
+      "7826": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35042
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      573,
+      575,
+      583,
+      585
+    ]
+  }
+}

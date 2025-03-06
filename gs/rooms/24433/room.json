@@ -1,0 +1,48 @@
+{
+  "checksum": "3aa47edc04327051f3e98914ff912451",
+  "room": {
+    "id": 24433,
+    "title": [
+      "[Ancient Burrow, Plaza]",
+      "[Ancient Burrow, Nexus]"
+    ],
+    "description": [
+      "Veins of natural minerals glitter in the torchlight illuminating the stone walls of the burrow.  Despite the torches' scant heat, immense icicles jut from the high ceiling, ornately carved into fanciful sculptures of sea beasts, including whales and sleek sharks.  A raised plaza sprawls at the lowest portion of the burrow's floor, the dark flagstones spiraling outward from a black marble statue.  A stained pine bench faces the monument, an old oaken tun at its side.",
+      "Cobblestones spiral outwards from a dark faceless statue in the center of the nexus.  Veins of assorted natural minerals glitter beneath the cavernous burrow's artificial glow.  Carved twice the height as the rest of the burrow, the ceiling is decorated with several suspended ice sculptures.  A carved ice bench sits facing the statue, with a rhimar-bound barrel next to it."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, out",
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "24430": "out",
+      "24434": "west",
+      "24439": "north",
+      "24440": "east",
+      "30709": "/rooms/24433/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "24430": 0.2,
+      "24434": 0.2,
+      "24439": 0.2,
+      "24440": 0.2,
+      "30709": "/rooms/24433/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access"
+    ],
+    "uid": [
+      4042257
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      189,
+      360,
+      204,
+      375
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "75d9d1108eb7ac4a9736628c6a42479a",
+  "room": {
+    "id": 8213,
+    "title": [
+      "[Sea Caverns, Storage Chamber]"
+    ],
+    "description": [
+      "Boxes and sacks are jumbled together in this small, round chamber.  A thick swarm of flies buzzes about, and various sorts of beetles work over the foodstuffs stored here.  Some rusted cookware hangs from hooks on the wall."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8212": "northeast",
+      "8221": "go trapdoor"
+    },
+    "timeto": {
+      "8212": 0.2,
+      "8221": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391012
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      381,
+      129,
+      391,
+      139
+    ]
+  }
+}

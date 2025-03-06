@@ -1,0 +1,39 @@
+{
+  "checksum": "5f67bd337b15ecfe127c723e60d42121",
+  "room": {
+    "id": 29480,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Winding deep into the earth, this tunnel is lined with ragged cracks throughout the strata.  The remnants of unwanted material left behind during excavation crowds the angled floor that winds southeast and southwest.  Inky darkness makes traversing through the area even more difficult and dangerous."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29478": "southeast",
+      "29481": "southwest"
+    },
+    "timeto": {
+      "29478": 0.2,
+      "29481": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007206
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      345,
+      177,
+      368,
+      197
+    ]
+  }
+}

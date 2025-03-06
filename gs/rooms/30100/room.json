@@ -1,0 +1,24 @@
+{
+  "checksum": "860b2294a166b3478fbe9bf3d05eaa4e",
+  "room": {
+    "id": 30100,
+    "title": [
+      "[Wrenella's Wrappings, The Dark]"
+    ],
+    "description": [
+      "A lone lantern hangs in the center overhead and gently sways in the wake of the commotion below.  With dancing shadows cast upon them, racks and hooks line the room's smooth white walls, broken only by a matte grey door."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "30099": "west",
+      "30101": "go door"
+    },
+    "timeto": {
+      "30099": 0.2,
+      "30101": 0.2
+    }
+  }
+}

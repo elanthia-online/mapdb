@@ -1,0 +1,43 @@
+{
+  "checksum": "d99f69d54723fc8120f108acc94af248",
+  "room": {
+    "id": 9080,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "The stench is unbearable.  You really don't want to linger overlong, lest the odor incapacitate you.  Rotting pieces of straw, pieces of fruit rind and some soft, dark pellets cover the tunnel floor. Together they make a squishy carpet that turns your stomach."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, west"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9079": "southeast",
+      "9081": "west",
+      "9083": "southwest"
+    },
+    "timeto": {
+      "9079": 0.2,
+      "9081": 0.2,
+      "9083": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "some wingstem root",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045151
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1323,
+      404,
+      1333,
+      414
+    ]
+  }
+}

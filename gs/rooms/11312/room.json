@@ -1,0 +1,38 @@
+{
+  "checksum": "6989ff57103463caefd29980939c17a6",
+  "room": {
+    "id": 11312,
+    "title": [
+      "[Alchemist, Hidden Stair]"
+    ],
+    "description": [
+      "Each narrow stone step bears several smudged footprints, which are marked in coal dust and barely visible within the shadowed stairwell.  A gilded handle offers better leverage to open the concealed stone door at the top of the stair.  Angular runes have been etched along the outer wall, spiralling down into darkness along with the steps."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11302": "go door",
+      "11304": "down"
+    },
+    "timeto": {
+      "11302": 0.2,
+      "11304": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377120
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      793,
+      948,
+      803,
+      958
+    ]
+  }
+}

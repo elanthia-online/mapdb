@@ -1,0 +1,45 @@
+{
+  "checksum": "51ee4a14c97804a2d4153d1eaf10e1ab",
+  "room": {
+    "id": 1855,
+    "title": [
+      "[Kharam-Dzu, Bazaar NE]"
+    ],
+    "description": [
+      "Vertical sandalwood boards panel the front of a tall building wedged snugly into the town wall's northeastern corner.  Arrows of various types dangle from the outcropping roofline, swaying lazily with the commotion of bodies rushing by.  Hanging above a narrow door, a tremendous greatbow draws your eye."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1854": "south",
+      "1856": "go door",
+      "1857": "west",
+      "1990": "southwest"
+    },
+    "timeto": {
+      "1854": 0.2,
+      "1856": 0.2,
+      "1857": 0.2,
+      "1990": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002009
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      556,
+      214,
+      592,
+      250
+    ]
+  }
+}

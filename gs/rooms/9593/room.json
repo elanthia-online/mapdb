@@ -1,0 +1,51 @@
+{
+  "checksum": "0529a491101cb012c865811c0570f14a",
+  "room": {
+    "id": 9593,
+    "title": [
+      "[Czeroth Caverns, Tunnel]"
+    ],
+    "description": [
+      "A strange formation on the northwest wall of the tunnel appears to be outlined in phosphorescence, giving it an eerie glow.  A faint, acrid odor is discernable as dry air moves through the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9592": "northeast",
+      "9594": "southwest"
+    },
+    "timeto": {
+      "9592": 0.2,
+      "9594": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007026
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1232,
+      248,
+      1242,
+      258
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "b4e6d709a9556efd11d979cbdda81ddd",
+  "room": {
+    "id": 30372,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Turning southeast, the dark coastline is rocky and unapproachable, except for a small beach to the north dotted with large volcanic rocks.  A dark cave opening is barely visible set against the moon drenched white sand, the entrance half-covered dark by forms unclear at this distance.  The hull of a large ship lies abandoned on the beach, only the ribs left after the decay of time and weather.  Several red buoys dot the water as a no trespass zone."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, south, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30371": "pedal southeast",
+      "30373": "pedal northwest",
+      "30381": "pedal south",
+      "30382": "pedal west",
+      "30383": "pedal northeast"
+    },
+    "timeto": {
+      "30371": 6,
+      "30373": 6,
+      "30381": 6,
+      "30382": 6,
+      "30383": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216205
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      922,
+      4219,
+      942,
+      4240
+    ]
+  }
+}

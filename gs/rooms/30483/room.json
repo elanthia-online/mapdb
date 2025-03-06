@@ -1,0 +1,43 @@
+{
+  "checksum": "fa1168f1622a21df49c4bd26c3a9ec3d",
+  "room": {
+    "id": 30483,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "In the shadowed nooks and crevices of a particularly high and craggy set of rocks rising proudly from the ocean's depths, seagulls sleep peacefully within their rookery.  The sound of the waves crashing against the teeth-like sentinels echoes loudly as the current churns, but unfortunately not even the strong scent of the sea can subdue the ammoniac smell of the guano left by the seagulls."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30480": "pedal south",
+      "30481": "pedal southwest",
+      "30482": "pedal east",
+      "30484": "pedal northeast"
+    },
+    "timeto": {
+      "30480": 6,
+      "30481": 6,
+      "30482": 6,
+      "30484": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216107
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      719,
+      418,
+      738,
+      438
+    ]
+  }
+}

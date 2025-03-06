@@ -1,0 +1,23 @@
+{
+  "checksum": "645623a89e9496437a4686eb18b456cb",
+  "room": {
+    "id": 22625,
+    "title": [
+      "[The Blackshire Emporium]"
+    ],
+    "description": [
+      "This area at the rear of the wagon is separated from the rest by an opaque violet-on-black curtain, across from which is a narrow ladder that leads upward into a loft-styled bed.  Beneath sits a wing-backed aubergine velvet chair, and nearby is a pedestal table supporting a smooth, leather-covered journal and a raven feather quill."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "22624": "go curtain"
+    },
+    "timeto": {
+      "22624": 0.2
+    },
+    "check_location": false
+  }
+}

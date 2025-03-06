@@ -1,0 +1,53 @@
+{
+  "checksum": "1189b4740c2a08dd935192f882b45fac",
+  "room": {
+    "id": 6903,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Nearly hidden in the shadows of the dirt walls is a large sack of cotton.  The markings on the sack are illegible now, but the burlap of the sack itself looks like it came from a well-known merchant in Wehnimer's Landing.  Whether he was having his own goods smuggled, or they were being stolen, is something only the sack itself knows."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, south, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6902": "north",
+      "6904": "south",
+      "6905": "southeast",
+      "6906": "west"
+    },
+    "timeto": {
+      "6902": 0.2,
+      "6904": 0.2,
+      "6905": 0.2,
+      "6906": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wraith",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37037
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1129,
+      1409,
+      1139,
+      1419
+    ]
+  }
+}

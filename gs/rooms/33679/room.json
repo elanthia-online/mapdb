@@ -1,0 +1,36 @@
+{
+  "checksum": "a8c925facc9108b794e3188015c24ab3",
+  "room": {
+    "id": 33679,
+    "title": [
+      "[Keep Tower, Bourth Room]"
+    ],
+    "description": [
+      "Pale sandstone has been carved into a model of the first Voln monastery, as first encountered outside of Kedshold, long before the fall of the city to Selantha's armies and its razing by fire.  Large cracks appear in the piece, many of which have tumbled onto the floor, but much of it is still whole.  A pair of niches flanks the occupied space."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33654": "go door",
+      "33680": "east",
+      "33681": "west"
+    },
+    "timeto": {
+      "33654": 0.2,
+      "33680": 0.2,
+      "33681": 0.2
+    },
+    "uid": [
+      7101222
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1257,
+      623,
+      1305,
+      668
+    ]
+  }
+}

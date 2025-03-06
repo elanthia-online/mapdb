@@ -1,0 +1,34 @@
+{
+  "checksum": "5c0dd9a037ce8d301c8d0c7db05b0367",
+  "room": {
+    "id": 3746,
+    "title": [
+      "[Hall of Justice, Clerk's Office]"
+    ],
+    "description": [
+      "A heavily carved modwir desk occupies the center of the office.  One wall is lined floor to ceiling with built-in wooden shelves, each one burdened with orderly stacks of files and thick sheaves of parchment."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10382": "go steps",
+      "30713": "/rooms/3746/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "10382": 0.2,
+      "30713": "/rooms/3746/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin guide justice",
+      "urchin-access",
+      "justice",
+      "meta:nomagic"
+    ],
+    "uid": [
+      14108002
+    ]
+  }
+}

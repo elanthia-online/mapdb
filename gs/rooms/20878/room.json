@@ -1,0 +1,41 @@
+{
+  "checksum": "708a17a82d17b239b88a41955adec1c2",
+  "room": {
+    "id": 20878,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A large snow-filled valley with rough sloping sides opens up before you.  On the ridge tops from one end to the other stand two main groups of creatures.  The north ridge holds huge clans of ice trolls standing ready with large slabs of ice, while on the south ridge groups of frost giants mutter at each other, holding equally large slabs.  In the center of the valley a lone storm giant stands, arms up to signal the racers."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/20878/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20878/wayto/stringproc-12089.rb",
+      "12152": "/rooms/20878/wayto/stringproc-12152.rb",
+      "12214": "east",
+      "20877": "west"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12214": 0.2,
+      "20877": 0.2
+    },
+    "uid": [
+      4568041
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      268,
+      1210,
+      277,
+      1219
+    ]
+  }
+}

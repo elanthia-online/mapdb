@@ -1,0 +1,53 @@
+{
+  "checksum": "b331640accd4a01d166e8c18e251a49c",
+  "room": {
+    "id": 3934,
+    "title": [
+      "[Catacombs, East-West Tunnel]"
+    ],
+    "description": [
+      "A clammy chill descends upon your skin as you take a moment to survey the enveloping gloom.  A tunnel carved through glistening black rock stretches as far as the dim light allows you to see, to the east and west.  Hundreds of cramped, oblong tombs open out of the walls wherever space permits.  Most have remained sealed but others have collapsed or been pillaged over time.  A thin rivulet of water runs east down the center of the floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3933": "go opening",
+      "3935": "east",
+      "7506": "west"
+    },
+    "timeto": {
+      "3933": 0.2,
+      "3935": 0.2,
+      "7506": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46007
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      901,
+      1101,
+      911,
+      1111
+    ]
+  }
+}

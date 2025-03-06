@@ -1,0 +1,59 @@
+{
+  "checksum": "045468de3f18e0d147bfcb668450d7a2",
+  "room": {
+    "id": 31560,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Teeming with fragrant, herbaceous growth, an overgrown garden tumbles across a cobbled pathway that departs from the crooked street toward a barely visible, squat cottage.  Thin ribbons of smoke slip from the off-center chimney to disappear in the aura-tinted sky.  Its nearest neighbor, a small confections shop, is festooned with colorful lights and pennants that create a festive air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "cultivated",
+    "wayto": {
+      "31558": "northeast",
+      "31564": "go shop",
+      "31565": "go cottage",
+      "31567": "northwest",
+      "31568": "southwest"
+    },
+    "timeto": {
+      "31558": 0.2,
+      "31564": 0.2,
+      "31565": 0.2,
+      "31567": 0.2,
+      "31568": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "orange milkweed flowers",
+      "sprig of green chervil",
+      "vermilion fire moss",
+      "seedhead of beebalm",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "bittermere lichen",
+      "evermore rosehip",
+      "winterbriar moss",
+      "heath star moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083012
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      481,
+      313,
+      503,
+      335
+    ]
+  }
+}

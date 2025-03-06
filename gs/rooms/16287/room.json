@@ -1,0 +1,33 @@
+{
+  "checksum": "27f36f0f4c5db2976c1b7292be99f766",
+  "room": {
+    "id": 16287,
+    "title": [
+      "[Timor's Storage, Hallway]"
+    ],
+    "description": [
+      "You are in a dimly lit hallway.  The torches on the walls flicker and fade casting all manner of shadows about the hallway."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16135": "south",
+      "18011": "go opening"
+    },
+    "timeto": {
+      "16135": 0.2,
+      "18011": 240
+    },
+    "tags": [
+      "publiclockers",
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001011
+    ]
+  }
+}

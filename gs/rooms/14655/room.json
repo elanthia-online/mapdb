@@ -1,0 +1,27 @@
+{
+  "checksum": "2e992f695fa42a1ddaed05df522246d7",
+  "room": {
+    "id": 14655,
+    "title": [
+      "[Museum Gallery, East Wing]"
+    ],
+    "description": [
+      "There is nothing in this room except dust and empty space."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14644": "west",
+      "14658": "east"
+    },
+    "timeto": {
+      "14644": 0.2,
+      "14658": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

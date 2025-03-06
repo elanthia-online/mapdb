@@ -1,0 +1,47 @@
+{
+  "checksum": "e0e5ff1b14061a7ab9213ad21f586b2f",
+  "room": {
+    "id": 29048,
+    "title": [
+      "[Basalt Cliff, Approach]"
+    ],
+    "description": [
+      "Towering above, a wide cliff face of exposed grey basalt columns stretches upwards to the blue sky, the top of which is barely visible.  While completely vertical, ample hand and footholds can be found for even the most novice of climbers.  Hexagonal blocks of basalt lay on the ground at the base, having fallen from the face over time.",
+      "This long barren slope of the volcano rises above the island, surrounded by a deep blue ocean.  The terrain is rocky and devoid of plant life, with the occasional boulder standing sentinel along the arduous climb.  Grooves in the earth from rainwater and lava flows branch out down the slope to meet the vegetation at the edge of the jungle below."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "12580": "/rooms/29048/wayto/stringproc-12580.rb",
+      "29165": "north"
+    },
+    "timeto": {
+      "12580": 0.2,
+      "29165": 0.2
+    },
+    "tags": [
+      "meta:mapshortname:F'Eyrie",
+      "meta:mapname:Teras Isle - F'Eyrie",
+      "meta:mapcategory:Teras Isle",
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023101
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      102,
+      431,
+      125,
+      456
+    ]
+  }
+}

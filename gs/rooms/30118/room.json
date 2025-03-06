@@ -1,0 +1,36 @@
+{
+  "checksum": "59abe922aa568f2b71d6182e03b4e963",
+  "room": {
+    "id": 30118,
+    "title": [
+      "[Post Office, Finn's Office]"
+    ],
+    "description": [
+      "A heavily scarred desk is situated opposite of the entrance to the room, and behind it stands a grizzled half-elven clerk.  Strung along the walls is a length of thick rope hung with an odd assortment of items.  Leaning against the desk, in easy handreach of the clerk, is a large, armed crossbow.  The occassional squawk of a river bird passes through the poorly constructed walls of the room, along with the scent of wet earth.",
+      "A heavily scarred desk is situated opposite of the entrance to the room, and behind it stands a grizzled half-elven clerk.  Strung along the walls is a length of thick rope hung with an odd assortment of items.  Leaning against the desk, in easy handreach of the clerk, is a large, armed crossbow.  The occasional squawk of a river bird passes through the poorly constructed walls of the room, along with the scent of wet earth."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "30117": "west",
+      "30711": "/rooms/30118/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "30117": 0.2,
+      "30711": "/rooms/30118/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      2101033
+    ]
+  }
+}

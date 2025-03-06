@@ -1,0 +1,43 @@
+{
+  "checksum": "6349560934bd8a660bf5b9f4e30bc25c",
+  "room": {
+    "id": 14056,
+    "title": [
+      "[Castle Varunar, Chapel]"
+    ],
+    "description": [
+      "An intricately carved siege door stands next to a massive stone arch, having once protected the entryway to this place of prayer.  A pair of stained glass windows frames a simple oak table which stands against the south wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Castle Varunar",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14055": "out",
+      "14079": "west",
+      "14080": "east"
+    },
+    "timeto": {
+      "14055": 0.2,
+      "14079": 0.2,
+      "14080": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750047
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      703,
+      351,
+      713,
+      361
+    ]
+  }
+}

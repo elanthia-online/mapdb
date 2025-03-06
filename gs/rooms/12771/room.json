@@ -1,0 +1,52 @@
+{
+  "checksum": "097beb1c47e4787c7250dc5640ddedbc",
+  "room": {
+    "id": 12771,
+    "title": [
+      "[Eye of V'Tull, Inner Circle]"
+    ],
+    "description": [
+      "Boulders the size of small huts are melted into the wall frozen for eternity, their slow arduous journey from the bowels of the earth now ended.  Steam escapes from around some of the boulders giving them the appearance of bleeding, as lighter elements are forced through the cracks in the wall with the great pressure of the steam.  To one side, a pile of rubble and rocks cast into a heap by the passage of magma takes on an eerie silhouette within the shroud of drifting smoke and fog."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, south"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "12770": "northeast",
+      "12772": "southeast",
+      "12773": "south",
+      "12774": "climb rubble"
+    },
+    "timeto": {
+      "12770": 0.2,
+      "12772": 0.2,
+      "12773": 0.2,
+      "12774": 0.2
+    },
+    "tags": [
+      "flathead mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "black trafel mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061006
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      689,
+      681,
+      699,
+      691
+    ]
+  }
+}

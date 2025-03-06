@@ -1,0 +1,57 @@
+{
+  "checksum": "4c01cf26966d6de978e28d1bd41e65db",
+  "room": {
+    "id": 3490,
+    "title": [
+      "[Ta'Vaalor, Amaranth Wey]"
+    ],
+    "description": [
+      "The crowded intersection of wey and var teems with people, each hurrying in his or her own direction.  A row of pennants of the Vaalor ruby and gold colors flutter atop the nearby city gate, bringing cheer to the otherwise austere limestone edifice.",
+      "The normally crowded intersection of wey and var is nearly deserted, the few who are abroad hurrying towards their destinations.  A row of pennants of the Vaalor ruby and gold colors flutter atop the nearby city gate, dark and shimmering in the pale light cast from the night sky.",
+      "The normally crowded intersection of wey and var is nearly deserted, the few who are abroad hurrying towards their destinations.  A row of pennants of the Vaalor crimson and gold colors flutter atop the nearby Vermilion Gate, dark and shimmering in the pale light cast from the night sky.  A crisp white pavilion stands to one side of the Gate, while a small square building stands on the other, their front walls creating a corridor through which the crowds pass.",
+      "The crowded intersection of wey and var teems with people, each hurrying in his or her own direction.  A row of pennants of the Vaalor crimson and gold colors flutter atop the nearby Vermilion Gate, bringing cheer to the otherwise austere limestone edifice.  A crisp white pavilion stands to one side of the Gate, while a small square building stands on the other, their front walls creating a corridor through which the crowds pass."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3412": "go pavilion",
+      "3489": "west",
+      "3491": "south",
+      "5827": "go gate",
+      "13518": "go building",
+      "25588": "go ladder",
+      "30713": "/rooms/3490/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3412": 0.2,
+      "3489": 0.2,
+      "3491": 0.2,
+      "5827": 0.2,
+      "13518": 0.2,
+      "25588": 0.2,
+      "30713": "/rooms/3490/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "urchin guide vermiliongate",
+      "urchin-access",
+      "vermiliongate",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100010
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1151,
+      253,
+      1184,
+      290
+    ]
+  }
+}

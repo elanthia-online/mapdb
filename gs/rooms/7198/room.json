@@ -1,0 +1,63 @@
+{
+  "checksum": "28baf122a10b10e238d2fa0c98403f1f",
+  "room": {
+    "id": 7198,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "Your feet sink deeply into the muddy way.  Struggling to go in the direction you choose rather than yield to the tug of the mire, you look to the side of the road towards the source of the damp chill.  The foul bog that lies there holds a strange and potentially fatal attraction."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7196": "east",
+      "7199": "west",
+      "7252": "go path"
+    },
+    "timeto": {
+      "7196": 0.2,
+      "7199": 0.2,
+      "7252": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "withered black mushroom",
+      "wild chokecherry",
+      "bright red cranberry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18038
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      210,
+      454,
+      220,
+      464
+    ]
+  }
+}

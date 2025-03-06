@@ -1,0 +1,24 @@
+{
+  "checksum": "06b99eb98513d81388d8eba1a593c58e",
+  "room": {
+    "id": 20584,
+    "title": [
+      "[Erythro Island, Blood Cavern]"
+    ],
+    "description": [
+      "Crimson motes of light float around the cavern, illuminating the area in a supernatural crimson glow.  The cavern's walls are compromised of slick blood and misshapen flesh, complete with a wavy pattern of veins."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20583": "south",
+      "20585": "north"
+    },
+    "timeto": {
+      "20583": 0.2,
+      "20585": 0.2
+    }
+  }
+}

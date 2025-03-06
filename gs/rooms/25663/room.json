@@ -1,0 +1,31 @@
+{
+  "checksum": "f5cd2f76cc32fb964d5116c6d1ce33da",
+  "room": {
+    "id": 25663,
+    "title": [
+      "[Bard Guild, Taproom Pub]"
+    ],
+    "description": [
+      "Dark wood walls and a low, carved ceiling create a cozy atmosphere in the Bard Hall's pub.  In the room's center is a hearth, open on three sides and filled with a crackling fire that provides both warmth and an aura of companionability.  Small lanterns placed on the few tables twinkle their low light like tiny beacons, reflecting off the highly polished wood of a long bar running the length of the east wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "25657": "out",
+      "25664": "/rooms/25663/wayto/stringproc-25664.rb",
+      "25665": "/rooms/25663/wayto/stringproc-25665.rb",
+      "25666": "/rooms/25663/wayto/stringproc-25666.rb"
+    },
+    "timeto": {
+      "25657": 0.2,
+      "25664": 0.2,
+      "25665": 0.2,
+      "25666": 0.2
+    },
+    "uid": [
+      281008
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "dff7d55ef24e6e80b4c7fac98a8214e4",
+  "room": {
+    "id": 12094,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "All the world is white, covered in a snow so pure and crystalline that any light that strikes it is reflected back one-thousandfold.  The reflections are then reflected back, magnifying and growing in intensity until anyone unfortunate enough to wander in could possibly be struck blind.  Unfortunately, the sun is shining."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12094/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12094/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12094/wayto/stringproc-12152.rb",
+      "12218": "west",
+      "20876": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12218": 0.2,
+      "20876": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud"
+    ],
+    "uid": [
+      4568045
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      159,
+      1207,
+      169,
+      1217
+    ]
+  }
+}

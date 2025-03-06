@@ -1,0 +1,52 @@
+{
+  "checksum": "20b45b441ae3cd9a991f4dc6b00c668d",
+  "room": {
+    "id": 25623,
+    "title": [
+      "[Mistydeep, Upper Reaches]"
+    ],
+    "description": [
+      "The water here is a pleasant dichotomy of quiet stillness and swirling agitation as a row of rocks dams the majority of the river's flow.  A few surging rivulets manage to break free, streaming in to fill this kidney-shaped depression.  A stone shelf beneath the rocky barrier allows those who perch there to experience leisurely water-massages."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "25621": "/rooms/25623/wayto/stringproc-25621.rb",
+      "25622": "/rooms/25623/wayto/stringproc-25622.rb",
+      "30500": "swim northeast",
+      "30504": "swim down"
+    },
+    "timeto": {
+      "25621": "/rooms/25623/timeto/stringproc-25621.rb",
+      "25622": "/rooms/25623/timeto/stringproc-25622.rb",
+      "30500": "/rooms/25623/timeto/stringproc-30500.rb",
+      "30504": "/rooms/25623/timeto/stringproc-30504.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117005
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1043,
+      611,
+      1061,
+      631
+    ]
+  }
+}

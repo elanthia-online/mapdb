@@ -1,0 +1,34 @@
+{
+  "checksum": "ffa0016defbdfe9b8f5f7c5be989a864",
+  "room": {
+    "id": 19258,
+    "title": [
+      "[Blackberry Room]"
+    ],
+    "description": [
+      "A chandelier with black crystal drops hangs in the center of the room.  The light gleaming from the dozens of small candles is reflected back from the smooth, black granite floor.  Plump leather chairs are arranged on either side of a highly polished modwir bookcase."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3433": "go arch",
+      "19259": "/rooms/19258/wayto/stringproc-19259.rb"
+    },
+    "timeto": {
+      "3433": 0.2,
+      "19259": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      494,
+      1052,
+      528,
+      1088
+    ]
+  }
+}

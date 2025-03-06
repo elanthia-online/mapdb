@@ -1,0 +1,84 @@
+{
+  "checksum": "a90bc14f461eae53a6de5f6f7be24086",
+  "room": {
+    "id": 24696,
+    "title": [
+      "[Red Forest, Inner Weald]"
+    ],
+    "description": [
+      "Deep shadows and curls of ghostly mist grip the edges of the dark forest here.  The trees have grown so thick that there is precious little room to navigate through some of the dense thicket."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "the Red Forest",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "24695": "/rooms/24696/wayto/stringproc-24695.rb",
+      "24702": "south",
+      "24704": "northeast"
+    },
+    "timeto": {
+      "24695": 0.2,
+      "24702": 0.2,
+      "24704": 0.2
+    },
+    "tags": [
+      "wild chokecherry",
+      "bright red cranberry",
+      "oak twig",
+      "bright red teaberry",
+      "soft white mushroom",
+      "wild pink geranium",
+      "sprig of wild lilac",
+      "wild gooseberry",
+      "sweetfern stalk",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "blue whortleberry",
+      "tkaro root",
+      "foe:direwolf",
+      "foe:warped tree spirit",
+      "foe:direbear",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blueberries",
+      "fiddlehead fern",
+      "broken twig",
+      "stalk of bluebells",
+      "small wild rose",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "dwarf billberry",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      480216
+    ],
+    "image": "red_forest-1260914757.png",
+    "image_coords": [
+      467,
+      76,
+      481,
+      90
+    ]
+  }
+}

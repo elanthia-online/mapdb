@@ -1,0 +1,38 @@
+{
+  "checksum": "c85ef19ee8dd9840fe0587159d197a63",
+  "room": {
+    "id": 9171,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "Most of the floor tiles of this passage are warped, and from their gnarled shape it appears that they have melted.  A few discolored splotches that stain what's left of the remaining floor suggest that something rather nasty was spilled onto the tile, perhaps some odd potion or concoction."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9170": "north",
+      "9172": "south"
+    },
+    "timeto": {
+      "9170": 0.2,
+      "9172": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531004
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      847,
+      795,
+      857,
+      805
+    ]
+  }
+}

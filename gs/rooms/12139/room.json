@@ -1,0 +1,44 @@
+{
+  "checksum": "75a41ba69b0859a07feda09bb18a477d",
+  "room": {
+    "id": 12139,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Lava boils over the ground, leaving you only narrow trails to walk between the streams of molten stone.  Sticking out from the liquid rock are grasping hands, seeking assistance although surely the people they are attached to are dead.  Suddenly, a body erupts from the magma.  A scream of agony tears from its lips before the roiling river drags it back under."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12106": "southeast",
+      "12207": "/rooms/12139/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12139/wayto/stringproc-12235.rb",
+      "12248": "northeast"
+    },
+    "timeto": {
+      "12106": 0.2,
+      "12207": 11.4,
+      "12235": 11.4,
+      "12248": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4569013
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      514,
+      1235,
+      524,
+      1245
+    ]
+  }
+}

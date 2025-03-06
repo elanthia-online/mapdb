@@ -1,0 +1,57 @@
+{
+  "checksum": "ee3737427676fb63965e76078d4ab5fe",
+  "room": {
+    "id": 21689,
+    "title": [
+      "[Clovertooth Hall, Main Lobby]"
+    ],
+    "description": [
+      "A dark riverstone statue occupies the center of the expansive public space, its height drawing attention to a painted dome two stories overhead.  The pale stone floor and walls echo with the purposeful footsteps of citizens moving around the building, and with the brisk conversation of those who occupy the benches along the walls.  Two large windows flank the wide entryway, bathing the lobby in gentle golden light.",
+      "A dark riverstone statue occupies the center of the expansive public space, its height drawing attention to the dome that rises two stories overhead.  Silence hangs heavy on the night air, and the few citizens moving around the building do so with an air of dour resignation.  A few benches stand empty along the walls, which reflect the silvered moonlight that streams through the two entryside windows."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2428": "out",
+      "29528": "go staircase",
+      "29531": "west",
+      "29533": "east",
+      "29536": "north",
+      "30709": "/rooms/21689/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2428": 0.2,
+      "29528": 0.2,
+      "29531": 0.2,
+      "29533": 0.2,
+      "29536": 0.2,
+      "30709": "/rooms/21689/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "meta:mapname:Icemule Trace - Clovertooth Hall",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapshortname:Clovertooth Hall",
+      "node",
+      "supernode",
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin-access",
+      "urchin guide clovertooth"
+    ],
+    "uid": [
+      4043031
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      774,
+      1372,
+      874,
+      1464
+    ]
+  }
+}

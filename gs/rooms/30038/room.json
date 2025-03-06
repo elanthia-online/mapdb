@@ -1,0 +1,44 @@
+{
+  "checksum": "c04079c520a873aa64adf28c9a7f674a",
+  "room": {
+    "id": 30038,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "Raised plots of soil once boasted saplings taller than a man, but they have dwindled to grey and frozen skeletons in the untended earth, which itself has caked over with murky frost.  The terrace extends to the east, but as it does, the stones become uneven and pockmarked with corroded pits that have undermined their integrity.  Runnels formed by the same substance have etched wide trails in the construction underfoot."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30037": "east",
+      "30039": "south",
+      "30043": "north"
+    },
+    "timeto": {
+      "30037": 0.2,
+      "30039": 0.2,
+      "30043": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503470
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      942,
+      268,
+      957,
+      282
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "975a5450a183e2c1711a00d63b3593b4",
+  "room": {
+    "id": 20632,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "Part of the tunnel has collapsed here, as evident by the pile of boulders blocking part of the path.  From beneath the rubble, the bony fingers of a skeletal hand can be seen."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20631": "south",
+      "30940": "/rooms/20632/wayto/stringproc-30940.rb"
+    },
+    "timeto": {
+      "20631": 0.2,
+      "30940": 1
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336724
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      1143,
+      123,
+      1181,
+      161
+    ]
+  }
+}

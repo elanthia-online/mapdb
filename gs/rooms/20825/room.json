@@ -1,0 +1,43 @@
+{
+  "checksum": "31d0d41e98d72bf1850ca41e3ad299c7",
+  "room": {
+    "id": 20825,
+    "title": [
+      "[House Sovyn, Red Suite]"
+    ],
+    "description": [
+      "This suite is decorated completely in pure white.  The floor is strewn invitingly with large soft white pillows covered with fresh blood red rose petals -- the scent of roses is intoxicating.  In the center, a large circular white marble hearth stands burning merrily.  The light from the fire turns everything in the room into a pure flaming red."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20811": "west",
+      "20826": "go ora door",
+      "20827": "go stone door",
+      "20828": "go carved door",
+      "20829": "go symbol door"
+    },
+    "timeto": {
+      "20811": 0.2,
+      "20826": 0.2,
+      "20827": 0.2,
+      "20828": 0.2,
+      "20829": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210501
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      1484,
+      1339,
+      1651,
+      1427
+    ]
+  }
+}

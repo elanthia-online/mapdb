@@ -1,0 +1,46 @@
+{
+  "checksum": "82731725d3f43de25c43cf23210a120a",
+  "room": {
+    "id": 29550,
+    "title": [
+      "[Clovertooth Hall, Lockers]"
+    ],
+    "description": [
+      "A stark black curtain covers the entrance to a locker booth on the north wall of the walk.  The hallway branches off to the northwest and southwest, with more locker booths visible in both directions.  An aged hoarbeam bookcase sits flush against the wall at the intersection."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2429": "pull volume",
+      "29548": "southwest",
+      "29549": "northwest",
+      "30756": "go curtain"
+    },
+    "timeto": {
+      "2429": 0.2,
+      "29548": 0.2,
+      "29549": 0.2,
+      "30756": 240
+    },
+    "tags": [
+      "publiclockers",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043036
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      1548,
+      1376,
+      1634,
+      1466
+    ]
+  }
+}

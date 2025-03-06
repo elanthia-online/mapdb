@@ -1,0 +1,29 @@
+{
+  "checksum": "3f7118e2b13ba561d02b11426ac11597",
+  "room": {
+    "id": 15071,
+    "title": [
+      "[Darcconis' Outfitting]"
+    ],
+    "description": [
+      "The broad sweep of the oak floor is interrupted by an ornate archer statue.  Halfway to the beam ceiling, a blue watered silk tapestry hangs on one of the varnished ebonwood walls.  A flexible willow woven basket and a gold-leafed mistwood cabinet are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "366": "out",
+      "15359": "east",
+      "15360": "north"
+    },
+    "timeto": {
+      "366": 0.2,
+      "15359": 0.2,
+      "15360": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

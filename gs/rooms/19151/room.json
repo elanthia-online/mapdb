@@ -1,0 +1,27 @@
+{
+  "checksum": "34d4d533dfd89a6a6e4da17c56a72c3f",
+  "room": {
+    "id": 19151,
+    "title": [
+      "[Garthlan's Gear]"
+    ],
+    "description": [
+      "This tiny area is less of a room and more of a clear space in the passageway.  A single dim lantern hangs from the wall over several crates and boxes.  A few ragged, vermin-chewed tapestries lie rolled up against the western wall of the corridor."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19115": "east",
+      "19152": "south"
+    },
+    "timeto": {
+      "19115": 0.2,
+      "19152": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

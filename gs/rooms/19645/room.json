@@ -1,0 +1,40 @@
+{
+  "checksum": "6b620a83cd2531cf225ad5c8a37bb340",
+  "room": {
+    "id": 19645,
+    "title": [
+      "[Cavernhold, Corridor]"
+    ],
+    "description": [
+      "This passage is short and narrow.  It is also lacking the growths of the strange fungus that you've noticed elsewhere making the tunnel quite dark.  Down the passage to the southwest, however, can be seen the dim light of another chamber."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19643": "northeast",
+      "19646": "southwest"
+    },
+    "timeto": {
+      "19643": 0.2,
+      "19646": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10023
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      485,
+      1158,
+      494,
+      1168
+    ]
+  }
+}

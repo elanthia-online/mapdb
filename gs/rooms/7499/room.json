@@ -1,0 +1,51 @@
+{
+  "checksum": "629764e9a7d5e948e42567e8410ea0e7",
+  "room": {
+    "id": 7499,
+    "title": [
+      "[Catacombs, Steep Passage]"
+    ],
+    "description": [
+      "The otherwise less than interesting tunnel suddenly turns into a steeply sloping passage that extends from the west to the east.  Climbing is rather difficult here since the lichen that covers the walls and ceiling as in the other nearby tunnels now covers the floor as well.  The trickling water has turned into a small flowing stream, also making it harder to stand."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7493": "east",
+      "7498": "west"
+    },
+    "timeto": {
+      "7493": 0.2,
+      "7498": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "black hook mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46057
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      768,
+      994,
+      778,
+      1004
+    ]
+  }
+}

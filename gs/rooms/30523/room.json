@@ -1,0 +1,39 @@
+{
+  "checksum": "329c131306a5b5a4a400970f4b0bd20a",
+  "room": {
+    "id": 30523,
+    "title": [
+      "[Vipershroud, Inside the Tree]"
+    ],
+    "description": [
+      "Pitch blackness eliminates vision, and progress must be made through the sense of touch.  The sound of small scurryings and scrapings echoes faintly in the tight confines of the log, and soft, wriggly bodies squish easily under hand and foot.  The odor of decay, rising from the damp, pressing walls adds to the discomfort from the steamy humidity.  No way forward is apparent in the darkness, although the way back out is readily remembered."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Vipershroud",
+    "wayto": {
+      "1230": "out",
+      "1232": "/rooms/30523/wayto/stringproc-1232.rb"
+    },
+    "timeto": {
+      "1230": 10,
+      "1232": 10
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:trap"
+    ],
+    "uid": [
+      2190013
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      120,
+      739,
+      130,
+      749
+    ]
+  }
+}

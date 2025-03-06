@@ -1,0 +1,48 @@
+{
+  "checksum": "4c7a5143c6e1b92ab5983cf1114faa7f",
+  "room": {
+    "id": 2364,
+    "title": [
+      "[Magical Burrow, Wraith Road]"
+    ],
+    "description": [
+      "Cold fog prowls along the cobblestones, so thick that travelers of shorter stature might be entirely engulfed by its dense banks.  It eddies away from the gated entrance of a villa set back from the street.  The entrance is chained shut and there are piles of construction materials stacked outside.",
+      "A low, dense, cold fog blankets everything.  In some places a halfling could walk with only his or her head sticking above the eerie fog."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, west, northwest",
+      "Obvious paths: northeast, southwest",
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2362": "northeast",
+      "2365": "southwest",
+      "24430": "northwest",
+      "34069": "west"
+    },
+    "timeto": {
+      "2362": 0.2,
+      "2365": 0.2,
+      "24430": 0.2,
+      "34069": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042115
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      228,
+      431,
+      264,
+      467
+    ]
+  }
+}

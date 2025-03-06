@@ -1,0 +1,38 @@
+{
+  "checksum": "f4c31ba5c2277ac41685352de89afdef",
+  "room": {
+    "id": 6610,
+    "title": [
+      "[Dim Recess]"
+    ],
+    "description": [
+      "This small closet of a room is dank and redolent with the heavy odor of the spirit-saturated, wooden casks.  On the back wall, almost obscured by darkness, stone steps lead down into the guts of the ancient keep."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6609": "out",
+      "6611": "climb steps"
+    },
+    "timeto": {
+      "6609": 0.2,
+      "6611": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285058
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      894,
+      540,
+      904,
+      550
+    ]
+  }
+}

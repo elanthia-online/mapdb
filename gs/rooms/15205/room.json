@@ -1,0 +1,29 @@
+{
+  "checksum": "8da81bcc6e27a45bfc1569bfada0daa4",
+  "room": {
+    "id": 15205,
+    "title": [
+      "[Erienne's Weaponry]"
+    ],
+    "description": [
+      "Polished oak walls rise from an enameled hardwood floor.  Just above a brass flowerpot hangs a tattered merchant permit, and a modwir beam ceiling completes the picture.  A vine-carved mahogany table and an etched brass bin stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "346": "out",
+      "15281": "east",
+      "15282": "north"
+    },
+    "timeto": {
+      "346": 0.2,
+      "15281": 0.2,
+      "15282": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

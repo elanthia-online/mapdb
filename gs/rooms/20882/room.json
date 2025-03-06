@@ -1,0 +1,41 @@
+{
+  "checksum": "6d87f7dd2d9e8ab54119bd21bc72f707",
+  "room": {
+    "id": 20882,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A long field stretches before you, covered by dark clouds.  The field is lined with rows and rows of long metal poles, each of which is situated near a stone door.  While you look over the field, lightning flashes down from the clouds and strikes one of the poles.  As the pole absorbs the burst of energy, the door nearest to it slowly swings open, revealing a black stone passage behind.  The door stays open a few seconds, then slowly swings closed again."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/20882/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20882/wayto/stringproc-12089.rb",
+      "12152": "/rooms/20882/wayto/stringproc-12152.rb",
+      "12188": "east",
+      "20881": "west"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12188": 0.2,
+      "20881": 0.2
+    },
+    "uid": [
+      4568017
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      255,
+      1250,
+      263,
+      1259
+    ]
+  }
+}

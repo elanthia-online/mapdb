@@ -1,0 +1,35 @@
+{
+  "checksum": "4d67fb96b96e2baefaa6c37d7ced5733",
+  "room": {
+    "id": 9270,
+    "title": [
+      "[Small Wonder Clerics' Tent]"
+    ],
+    "description": [
+      "A polished modwir weapon rack and a long thanot display case fill most of the tent, leaving little room for customers, though there is one central aisle with room enough for a paunchy priest.  The items on display all gleam with the pride of their maker."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Northern Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9246": "out",
+      "14081": "go curtain"
+    },
+    "timeto": {
+      "9246": 0.2,
+      "14081": 0.2
+    },
+    "tags": [
+      "clericshop",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4746128
+    ]
+  }
+}

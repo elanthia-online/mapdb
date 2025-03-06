@@ -1,0 +1,30 @@
+{
+  "checksum": "487f6c8c7860425a3efff956b17cda36",
+  "room": {
+    "id": 34435,
+    "title": [
+      "[Cuddfan Hollow, Living Space]"
+    ],
+    "description": [
+      "Small windows in the western wall allow natural light to filter into the tidy space, though copper lanterns, pot-bellied and glossy, hang from the exposed rafters of the ceiling to illuminate even the deepest corners of the wagon.  Compact cabinets fashioned of haon rise from the painted blue and yellow floor, each covered with glossy counters and fitted with closure toggles.  A potbellied cast iron stove sits in one corner, its chimney pipe disappearing in the roof, while a key-shaped bright blue door remains open to the outside."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Cuddfan Hollow, inside the Northern Caravansary on the outskirts of Wehnimer's Landing",
+    "wayto": {
+      "34434": "/rooms/34435/wayto/stringproc-34434.rb",
+      "34436": "east"
+    },
+    "timeto": {
+      "34434": "/rooms/34435/timeto/stringproc-34434.rb",
+      "34436": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022477
+    ]
+  }
+}

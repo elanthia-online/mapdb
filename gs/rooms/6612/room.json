@@ -1,0 +1,38 @@
+{
+  "checksum": "ceb86acb53122837622d6cce5e396f35",
+  "room": {
+    "id": 6612,
+    "title": [
+      "[Lower Chamber]"
+    ],
+    "description": [
+      "This long cellar is paved with rough flagstones, their pocked surfaces holding puddles of water here and there.  The ceiling arches down to the floor on either side, and the low convergences are so deeply shadowed, it's impossible to see into them."
+    ],
+    "paths": [
+      "Obvious exits: east, up"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6611": "up",
+      "6613": "east"
+    },
+    "timeto": {
+      "6611": 0.2,
+      "6613": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285051
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      895,
+      643,
+      905,
+      653
+    ]
+  }
+}

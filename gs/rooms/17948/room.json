@@ -1,0 +1,40 @@
+{
+  "checksum": "59a3de9375c8b84e54c7869c6440b394",
+  "room": {
+    "id": 17948,
+    "title": [
+      "[Rogue Guild, Ballroom]"
+    ],
+    "description": [
+      "The once grand ballroom has been turned into a training area.  Tattered velvet curtains cover the shuttered windows.  An enormous chandelier provides ample illumination, the tinkling crystals providing background music for the guild members working at their tasks."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "17947": "go doors",
+      "17949": "west"
+    },
+    "timeto": {
+      "17947": 0.2,
+      "17949": 0.2
+    },
+    "tags": [
+      "rogue guild administrator",
+      "rogue guild dirt",
+      "rogue guild window",
+      "meta:trashcan:large wooden barrel"
+    ],
+    "uid": [
+      264012
+    ],
+    "image": "vo-rogue_guild-1305438533.png",
+    "image_coords": [
+      489,
+      257,
+      519,
+      281
+    ]
+  }
+}

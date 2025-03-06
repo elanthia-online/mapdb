@@ -1,0 +1,51 @@
+{
+  "checksum": "be432a1f86097046372052cd9362cf72",
+  "room": {
+    "id": 7548,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "Small trickles of water travel along the sloping tunnel towards the south causing the floor to be slick with mud and slime.  A slight breeze blows through the tunnels sending shivers down your spine and causing the small tendrils of mist near the floor to swirl and eddy."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7547": "south",
+      "7549": "northeast"
+    },
+    "timeto": {
+      "7547": 0.2,
+      "7549": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490019
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      394,
+      1044,
+      404,
+      1054
+    ]
+  }
+}

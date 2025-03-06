@@ -1,0 +1,42 @@
+{
+  "checksum": "3dcce2c79b3c260bce3e13ac1812f65d",
+  "room": {
+    "id": 1454,
+    "title": [
+      "[Solhaven, Abalone Street]"
+    ],
+    "description": [
+      "Throngs of people travel westward towards the Market Square and the shouts of peddlers hawking their wares reach your ears.  The unmistakable scent of chocolate wafts from the doorway of a small, whitewashed shop on the north side of the street.  To the east you can see the hulking facade of the Solhaven Inn."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1453": "west",
+      "1455": "east",
+      "12812": "go shop"
+    },
+    "timeto": {
+      "1453": 0.2,
+      "1455": 0.2,
+      "12812": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209032
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1064,
+      577,
+      1086,
+      599
+    ]
+  }
+}

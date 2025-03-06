@@ -1,0 +1,36 @@
+{
+  "checksum": "ca66f2552016587965136b1c9491ff55",
+  "room": {
+    "id": 10401,
+    "title": [
+      "[Dancing Dahcre, Hallway]"
+    ],
+    "description": [
+      "The marble in this section of the long hallway features a gradual change in color from cream to pure white as the veining melds from grey to silver.  Some candle-lit glaes globes mounted in concentric circles illuminate the passage."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10400": "north",
+      "10402": "south",
+      "35204": "go studded arch"
+    },
+    "timeto": {
+      "10400": 0.2,
+      "10402": 0.2,
+      "35204": 0.2
+    },
+    "uid": [
+      14109006
+    ],
+    "image": "en-ta_vaalor-dancing_dahcre-1488763271.png",
+    "image_coords": [
+      451,
+      654,
+      594,
+      715
+    ]
+  }
+}

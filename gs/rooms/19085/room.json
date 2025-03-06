@@ -1,0 +1,35 @@
+{
+  "checksum": "9ca9835361c14cbe92b73f08a1c41189",
+  "room": {
+    "id": 19085,
+    "title": [
+      "[Spitfire, 'Tween Deck]"
+    ],
+    "description": [
+      "The main gathering area of the 'tween deck quarters features a long wooden table surrounded by low chairs occupied by a halfling, a ruddy sailor and a chess player, obviously members of the Spitfire's crew.  The thick trunk of the mainmast cuts through the center of the table, disappearing up through the roof.  The ceiling is so low, it's impossible for all but shorter races of folks to stand upright.  Bunks line both sides of the room, and to starboard, a low, narrow flight of stairs leads down."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, northwest, down"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19052": "south",
+      "19086": "down",
+      "19087": "northwest",
+      "19088": "northeast"
+    },
+    "timeto": {
+      "19052": 0.2,
+      "19086": 0.2,
+      "19087": 0.2,
+      "19088": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      831,
+      241,
+      869,
+      276
+    ]
+  }
+}

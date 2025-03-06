@@ -1,0 +1,44 @@
+{
+  "checksum": "58bcaee2623fda1b1f3289179fdd4ba6",
+  "room": {
+    "id": 3692,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Brittle bits of bone and rock crunch beneath your feet, the sound echoing eerily down every branch of the dark, chilly corridor.  Though you may proceed in several directions, none of them are appealing, and you feel an icy chill shudder down your spine."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3623": "west",
+      "3691": "southeast",
+      "3712": "south"
+    },
+    "timeto": {
+      "3623": 0.2,
+      "3691": 0.2,
+      "3712": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42007
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      148,
+      1062,
+      158,
+      1072
+    ]
+  }
+}

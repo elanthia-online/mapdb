@@ -1,0 +1,39 @@
+{
+  "checksum": "3eb01cb6716cf7c1efb650a33f4cd952",
+  "room": {
+    "id": 21158,
+    "title": [
+      "[Rogue Guild, Sewers]"
+    ],
+    "description": [
+      "Damp, musty air fills the tunnel and creates pools of steam along the seams of the wall where water has managed to collect.  Soot stains rise in long streaks up the wall, their dark fingers licking at the ceiling, while below it are the burned remains of a wooden shelf.  Someone has drawn a smiley face in the soot, which has resisted against all attempts to be cleaned."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21156": "west",
+      "21163": "south",
+      "21183": "east"
+    },
+    "timeto": {
+      "21156": 0.2,
+      "21163": 0.2,
+      "21183": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      265009
+    ],
+    "image": "ifw-rogue_guild.png",
+    "image_coords": [
+      602,
+      470,
+      618,
+      486
+    ]
+  }
+}

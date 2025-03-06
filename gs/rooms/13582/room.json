@@ -1,0 +1,28 @@
+{
+  "checksum": "acbd4689bd5c27d19bb837b2852a3c64",
+  "room": {
+    "id": 13582,
+    "title": [
+      "[Mhairaid's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the blue brocade walls.  An engraved pine case and a twisted dark metal rack sit in opposite corners while a wyvern painted ivory vase rests on a glossy black ebonwood floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "10456": "out",
+      "13669": "east",
+      "13670": "north"
+    },
+    "timeto": {
+      "10456": 0.2,
+      "13669": 0.2,
+      "13670": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

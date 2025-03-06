@@ -1,0 +1,44 @@
+{
+  "checksum": "36f7472ddc824ad3b5fa9c8b1f8af563",
+  "room": {
+    "id": 12036,
+    "title": [
+      "[Basilica Platform, Second Level]"
+    ],
+    "description": [
+      "The irregular shadows of night darkened ruins spread out to the south of the pyramid.  Wide stone steps lead down to the platform below.",
+      "Positioned above all the second story buildings of the city, it is possible to see the forests and swamps spreading to the south beyond the city walls.  Wide stone steps lead down to the streets below."
+    ],
+    "paths": [
+      "Obvious paths: north, east, down"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12032": "down",
+      "12037": "east",
+      "12039": "north"
+    },
+    "timeto": {
+      "12032": 0.2,
+      "12037": 0.2,
+      "12039": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004166
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      699,
+      540,
+      709,
+      550
+    ]
+  }
+}

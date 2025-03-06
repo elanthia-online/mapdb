@@ -1,0 +1,36 @@
+{
+  "checksum": "536a89e1ebf862c976a55236a0493e40",
+  "room": {
+    "id": 25894,
+    "title": [
+      "[Brickburn Hall, Corridor]"
+    ],
+    "description": [
+      "Ornate sconces spaced evenly along the walls illuminate the elegant doors on either side of the corridor.  At the end, a jalousie-topped doorway has been bolted shut, closing off the passage from the rest of the building."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25895": "go cornice-topped door",
+      "25896": "go lunette-topped door",
+      "25897": "east"
+    },
+    "timeto": {
+      "25895": 0.2,
+      "25896": 0.2,
+      "25897": 0.2
+    },
+    "uid": [
+      8211321
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      119,
+      356,
+      168,
+      409
+    ]
+  }
+}

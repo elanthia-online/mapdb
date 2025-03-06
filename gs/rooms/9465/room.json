@@ -1,0 +1,50 @@
+{
+  "checksum": "c05e65bb952c6e657a038ed186660cf0",
+  "room": {
+    "id": 9465,
+    "title": [
+      "[Mraent Cavern, Hidden Tunnel]"
+    ],
+    "description": [
+      "An iron trapdoor covers the entrance to this hidden tunnel, which runs from the gneiss into a layer of schist below.  The high mica content of the schist creates an unstable environment as the stone breaks off in silvery flakes at the slightest disturbance."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9463": "/rooms/9465/wayto/stringproc-9463.rb",
+      "9466": "down"
+    },
+    "timeto": {
+      "9463": 0.2,
+      "9466": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008034
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      357,
+      355,
+      367,
+      365
+    ]
+  }
+}

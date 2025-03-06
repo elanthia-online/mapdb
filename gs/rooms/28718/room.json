@@ -1,0 +1,39 @@
+{
+  "checksum": "409f8267a13904618aa1528e373274fb",
+  "room": {
+    "id": 28718,
+    "title": [
+      "[Locksmithery, Side Room]"
+    ],
+    "description": [
+      "Woven from colorful reeds, a circular carpet covers the polished wooden floor.  A wide ceramic canister rests beside a narrow oak archway that is draped in pale blue fabric.  The room is illuminated in warm, pale light by a series of rounded crystal globes that hang from the ceiling.  Stacks of boxes, crates, and trunks are neatly piled behind a tile-inlaid counter, each clearly labeled."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4663": "go oak archway",
+      "30717": "/rooms/28718/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4663": 0.2,
+      "30717": "/rooms/28718/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "locksmith pool",
+      "meta:boxpool:npc:slender aelotoi woman",
+      "meta:boxpool:table:tile-inlaid counter",
+      "supernode",
+      "node",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "locksmithpool",
+      "meta:trashcan:wide ceramic canister",
+      "no forageables"
+    ],
+    "uid": [
+      14051080
+    ]
+  }
+}

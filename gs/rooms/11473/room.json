@@ -1,0 +1,48 @@
+{
+  "checksum": "9afe8c70f31c1c2c7e7d42b3e5e17f0b",
+  "room": {
+    "id": 11473,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A coral reef blocks the way west.  A colony of spiral gilled tube worms has attached itself to the dead coral of the reef.  Kelp and seaweed undulate sinuously in the current.  A few small silvery fish, thin as stiletto blades, slice through the water among the seaweed."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11464": "/rooms/11473/wayto/stringproc-11464.rb",
+      "11467": "/rooms/11473/wayto/stringproc-11467.rb",
+      "11471": "/rooms/11473/wayto/stringproc-11471.rb",
+      "11474": "/rooms/11473/wayto/stringproc-11474.rb",
+      "11477": "/rooms/11473/wayto/stringproc-11477.rb",
+      "16121": "/rooms/11473/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11464": 2,
+      "11467": 2,
+      "11471": 2,
+      "11474": 2,
+      "11477": 2,
+      "16121": 3
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304228
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      922,
+      1207,
+      932,
+      1217
+    ]
+  }
+}

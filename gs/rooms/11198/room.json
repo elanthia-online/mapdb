@@ -1,0 +1,42 @@
+{
+  "checksum": "fb38844087a92d0d66b8a05145fb1ddf",
+  "room": {
+    "id": 11198,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "On the wall hangs the upper torso of a skeleton.  Below it, a dark stain cascades down the wall to form a dry rust-colored pool on the stone floor.  The walls, and even the ceiling, are deeply gouged and pitted."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11197": "east",
+      "32693": "north",
+      "32694": "south",
+      "32695": "west"
+    },
+    "timeto": {
+      "11197": 0.2,
+      "32693": 0.2,
+      "32694": 0.2,
+      "32695": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100052
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      516,
+      56,
+      526,
+      66
+    ]
+  }
+}

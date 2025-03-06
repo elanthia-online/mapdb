@@ -1,0 +1,26 @@
+{
+  "checksum": "21ea3764663c867f00a71bd20c866968",
+  "room": {
+    "id": 13841,
+    "title": [
+      "[Lyson's Outfitting]",
+      "[Lyson's Magic Shoppe]",
+      "[Lyson's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A set of carved felwood shelves sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "wayto": {
+      "13799": "east"
+    },
+    "timeto": {
+      "13799": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

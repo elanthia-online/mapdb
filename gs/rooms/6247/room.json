@@ -1,0 +1,57 @@
+{
+  "checksum": "f8bc0d69232a976a540ac6ba2d236826",
+  "room": {
+    "id": 6247,
+    "title": [
+      "[Labyrinth, The Forge]"
+    ],
+    "description": [
+      "Stone pillars support the ceiling above, the wide girths strangled by dark vines.  Rusted and broken weapons, long since discarded, lie scattered haphazardly about the cobblestone floor."
+    ],
+    "paths": [
+      "Obvious exits: south",
+      "Obvious exits: northwest",
+      "Obvious exits: north",
+      "Obvious exits: northeast",
+      "Obvious exits: east",
+      "Obvious exits: southeast",
+      "Obvious exits: southwest",
+      "Obvious exits: west",
+      "Obvious exits: northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6200": "go archway",
+      "6239": "southwest"
+    },
+    "timeto": {
+      "6200": 0.2,
+      "6239": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167080
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      943,
+      501,
+      979,
+      537
+    ]
+  }
+}

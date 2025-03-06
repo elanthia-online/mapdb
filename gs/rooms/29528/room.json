@@ -1,0 +1,43 @@
+{
+  "checksum": "009b70505c8ac9e2e92954e672930d30",
+  "room": {
+    "id": 29528,
+    "title": [
+      "[Clovertooth Hall, Upper Gallery]"
+    ],
+    "description": [
+      "Atop a white stone staircase, a circular gallery echoes the round shape of a frosted red and ice blue glass dome far overhead.  Suspended from the center is a rustic silver chandelier that fills the area with the amplified glow of refracted candlelight.  A small halfling child statue leans against a decorative railing at the top of the stairs, gazing downward with childlike wonder on her finely crafted face."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "21689": "go staircase",
+      "29537": "northwest",
+      "29539": "northeast"
+    },
+    "timeto": {
+      "21689": 0.2,
+      "29537": 0.2,
+      "29539": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043043
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      588,
+      1182,
+      672,
+      1270
+    ]
+  }
+}

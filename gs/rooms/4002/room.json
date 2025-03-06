@@ -1,0 +1,51 @@
+{
+  "checksum": "508c7e9c8d0f66c11b0f679896f13898",
+  "room": {
+    "id": 4002,
+    "title": [
+      "[Griffin's Keen, Inner Trail]"
+    ],
+    "description": [
+      "Towering overhead, a black peak can be seen blocking out the night sky.  Moonlight streams eerily down the mountainside, lighting up the snow.",
+      "Towering overhead, a black peak can be seen stabbing the blue sky with thick ebon fingers.  The sunlight reflecting on ice-covered rock is almost painfully bright."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4001": "/rooms/4002/wayto/stringproc-4001.rb",
+      "4008": "/rooms/4002/wayto/stringproc-4008.rb"
+    },
+    "timeto": {
+      "4001": 4.2,
+      "4008": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302125
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      771,
+      209,
+      781,
+      219
+    ]
+  }
+}

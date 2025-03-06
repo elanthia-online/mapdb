@@ -1,0 +1,38 @@
+{
+  "checksum": "73a0cc8513753603d328ac614400c6c9",
+  "room": {
+    "id": 28636,
+    "title": [
+      "[Obsidian Tower, Stairway]"
+    ],
+    "description": [
+      "Five glaes statues stand in alcoves that have been carved into the walls.  Four of the statues are crafted into the likeness of creatures formed from each of the elementals, while the fifth represents a large and powerful demon.  A large silver symbol is inlaid on the floor, the key points reaching the base of each statue.  Directly opposite the main stairs is a smaller staircase leading upwards through the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "28631": "down",
+      "28637": "go staircase",
+      "28638": "go onyx door",
+      "28639": "go maoral door",
+      "28640": "go fel door",
+      "28641": "go glaes door"
+    },
+    "timeto": {
+      "28631": 0.2,
+      "28637": 0.2,
+      "28638": 0.2,
+      "28639": 0.2,
+      "28640": 0.2,
+      "28641": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower"
+    ],
+    "uid": [
+      214035
+    ]
+  }
+}

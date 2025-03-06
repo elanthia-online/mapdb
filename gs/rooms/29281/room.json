@@ -1,0 +1,24 @@
+{
+  "checksum": "3d93fea94d747cbf129528f3161ce57d",
+  "room": {
+    "id": 29281,
+    "title": [
+      "[Warped Wavedancer, Rotted Cabin]"
+    ],
+    "description": [
+      "Tangled vines of kelp descend from the cracked ceiling, the rotting vegetation filling the dank cabin with an unhealthy stench.  Haloed by an eerie green light, a fissure in the wall provides a means of escape, as does a brass-tacked ladder."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29282": "go ladder",
+      "29300": "go fissure"
+    },
+    "timeto": {
+      "29282": 0.2,
+      "29300": 0.2
+    }
+  }
+}

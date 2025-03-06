@@ -1,0 +1,35 @@
+{
+  "checksum": "41c1d00bd52b17730d71955dd3bac9c8",
+  "room": {
+    "id": 19535,
+    "title": [
+      "[Empath Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "19534": "south",
+      "19536": "go cauldrons"
+    },
+    "timeto": {
+      "19534": 0.2,
+      "19536": 0.2
+    },
+    "uid": [
+      655026
+    ],
+    "image": "ti-empaths_guild-1638321977.jpg",
+    "image_coords": [
+      0,
+      411,
+      58,
+      469
+    ],
+    "check_location": true
+  }
+}

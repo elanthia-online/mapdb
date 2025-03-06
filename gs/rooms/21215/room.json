@@ -1,0 +1,29 @@
+{
+  "checksum": "032d323e0c7886913607b9e67807575b",
+  "room": {
+    "id": 21215,
+    "title": [
+      "[Fibbo's Magic Shoppe]"
+    ],
+    "description": [
+      "Refurbished driftwood walls rise from a water-stained light pine floor.  Just above an elegantly woven reed mat hangs a multihued Vornavian silk tapestry, and a domed white stucco ceiling completes the picture.  A Vornavian silk-lined display case and a set of carved felwood shelves stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9010": "out",
+      "21221": "west",
+      "21222": "north"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "21221": 0.2,
+      "21222": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

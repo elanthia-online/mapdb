@@ -1,0 +1,37 @@
+{
+  "checksum": "d89de5e4f9135a25a375a10384bd4fcd",
+  "room": {
+    "id": 23206,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23205": "south",
+      "23208": "north",
+      "33013": "go red curtain"
+    },
+    "timeto": {
+      "23205": 0.2,
+      "23208": 0.2,
+      "33013": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001057
+    ],
+    "unique_loot": [
+      "red curtain with the sigil of White Haven"
+    ]
+  }
+}

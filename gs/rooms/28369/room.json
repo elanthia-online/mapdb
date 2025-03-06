@@ -1,0 +1,27 @@
+{
+  "checksum": "86263196121e4085db11e93c97315b67",
+  "room": {
+    "id": 28369,
+    "title": [
+      "[Moonstone Abbey, Narrow Hall]"
+    ],
+    "description": [
+      "Antique tapestries depicting various woodland scenes decorate the rich red maoral walls of this hallway, whose parqueted mahogany floor is bisected by the soft black cotton carpeting that runs north down the center."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28355": "out",
+      "28391": "north"
+    },
+    "timeto": {
+      "28355": 0.2,
+      "28391": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

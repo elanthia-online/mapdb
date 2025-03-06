@@ -1,0 +1,45 @@
+{
+  "checksum": "7ce597a9a1a2374badc3dc28399f1cb1",
+  "room": {
+    "id": 13,
+    "title": [
+      "[Ta'Illistim, Erissian Var]"
+    ],
+    "description": [
+      "The glowing sapphire-tiled roof of the United Bank of City-States sparkles in the moonlight reflected like tiny spangled stars.  The tall stonework columns framing the windows are intricately carved with gargoyles, which vary in expression from the amusing to the horrifying.  A small flight of stone steps leads upward into the building.",
+      "The glowing sapphire-tiled roof of the United Bank of City-States reflects tiny variegated blue rainbows across the cobblestoned var.  The tall stonework columns framing the windows are intricately carved with gargoyles, which vary in expression from the amusing to the horrifying.  A small flight of stone steps leads upward into the building.",
+      "Past the boundary of a low silver fence, the expanse of Ta'Illistim Green fills the heart of the city.  The var runs parallel to the fence for a spell, bordering the cobblestones with manicured green lawn.  The open space affords a distant view of Ta'Illistim Keep with its distinctive mosaic domes."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14": "east",
+      "172": "west",
+      "635": "south"
+    },
+    "timeto": {
+      "14": 0.2,
+      "172": 0.2,
+      "635": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100087
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      587,
+      545,
+      611,
+      569
+    ]
+  }
+}

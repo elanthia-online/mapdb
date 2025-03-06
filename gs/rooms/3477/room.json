@@ -1,0 +1,40 @@
+{
+  "checksum": "80bdb7bebd0927ff01592cadc9ff1bfd",
+  "room": {
+    "id": 3477,
+    "title": [
+      "[Deep Freeze, Cave of Ice]"
+    ],
+    "description": [
+      "There is scarcely enough room to move about in this frightfully cold recess.  Yet, it is evident that something ventures into this tiny area.  Your breath forms a frosty mist as you shudder violently at the thought of being trapped in this confining space."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3476": "/rooms/3477/wayto/stringproc-3476.rb"
+    },
+    "timeto": {
+      "3476": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044132
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      852,
+      669,
+      862,
+      679
+    ]
+  }
+}

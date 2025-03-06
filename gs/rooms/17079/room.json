@@ -1,0 +1,40 @@
+{
+  "checksum": "ec13ad800c7c84485444e31bc24f5ed3",
+  "room": {
+    "id": 17079,
+    "title": [
+      "[Manor House, Attic]"
+    ],
+    "description": [
+      "Cobwebs fill every corner of this attic, and dust, mold and bat droppings cover the floor.  Several holes in the roof allow moonlight into this part of the attic near the stairway leading up from the manor's second floor.",
+      "Cobwebs fill every corner of this attic, and dust, mold and bat droppings cover the floor.  Several holes in the roof allow sunlight into this part of the attic near the stairway leading up from the manor's second floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "14604": "go stairway",
+      "17080": "west"
+    },
+    "timeto": {
+      "14604": 0.2,
+      "17080": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215159
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1155,
+      940,
+      1164,
+      949
+    ]
+  }
+}

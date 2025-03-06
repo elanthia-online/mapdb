@@ -1,0 +1,40 @@
+{
+  "checksum": "9cd9cffc8a30640e4545a3d16b76e69a",
+  "room": {
+    "id": 5082,
+    "title": [
+      "[Vornavis, West Road]"
+    ],
+    "description": [
+      "From the top of the bridge here, the river winds through the dry plains to the north and south.  The water is not wide or fast, but provides sustenance to the short, green grasses that grow along the banks, highlighting the course of the river."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the plains of Vornavis",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5081": "east",
+      "5083": "west"
+    },
+    "timeto": {
+      "5081": 0.2,
+      "5083": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4212126
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      151,
+      389,
+      161,
+      399
+    ]
+  }
+}

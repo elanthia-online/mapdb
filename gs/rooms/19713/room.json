@@ -1,0 +1,40 @@
+{
+  "checksum": "a01751e31c87b78326c25dcf555d7520",
+  "room": {
+    "id": 19713,
+    "title": [
+      "[Cavernhold, Stream Passage]"
+    ],
+    "description": [
+      "A small, shallow stream runs down the center of this short passage."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19707": "northwest",
+      "19719": "south"
+    },
+    "timeto": {
+      "19707": 0.2,
+      "19719": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10062
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      407,
+      861,
+      419,
+      871
+    ]
+  }
+}

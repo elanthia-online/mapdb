@@ -1,0 +1,37 @@
+{
+  "checksum": "e4dcf934e4345cd2293267e473b4f518",
+  "room": {
+    "id": 1969,
+    "title": [
+      "[Wizard Guild, West Hallway]"
+    ],
+    "description": [
+      "The smell of brimstone is stronger to the west.  It is noticably brighter in this hallway, even though the channel along the hall where the lava flows is no wider here.",
+      "The smell of brimstone is stronger to the west.  It is noticably brighter in this hallway, even though the channel along the hall where the lava flows is no wider here.  A strip of narrow, smooth stone spans the lava, providing access to a shadowed ingress in the northern wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "1968": "east",
+      "1970": "west",
+      "18079": "go ingress"
+    },
+    "timeto": {
+      "1968": 0.2,
+      "1970": 0.2,
+      "18079": 0.2
+    },
+    "uid": [
+      682006
+    ],
+    "image": "ti-wizard_guild.png",
+    "image_coords": [
+      400,
+      534,
+      466,
+      600
+    ]
+  }
+}

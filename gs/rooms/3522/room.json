@@ -1,0 +1,45 @@
+{
+  "checksum": "85a49fab53c921d3faf67714aa4ad5a5",
+  "room": {
+    "id": 3522,
+    "title": [
+      "[Ta'Vaalor, Annatto Wey]"
+    ],
+    "description": [
+      "A squat but well-kept stone structure rests in the deep shade of the towering Annatto Gate.  The thick stone walls, capped by a rather flat red tile roof, are pierced by a single bright crimson door.  A small maoral sign is tacked to the doorpost."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3521": "west",
+      "3523": "east",
+      "3541": "southwest",
+      "10379": "go shop"
+    },
+    "timeto": {
+      "3521": 0.2,
+      "3523": 0.2,
+      "3541": 0.2,
+      "10379": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100042
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1076,
+      856,
+      1112,
+      888
+    ]
+  }
+}

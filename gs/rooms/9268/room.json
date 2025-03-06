@@ -1,0 +1,34 @@
+{
+  "checksum": "75483d46596eaad143a38b8d1b1bd55d",
+  "room": {
+    "id": 9268,
+    "title": [
+      "[Stonebiter's Gemporium, Lobby]"
+    ],
+    "description": [
+      "Footfalls, voices and lanternlight reflect off the polished brass and steel panels of the gemshop's wainscoting, making it a bright and noisy room.  Behind the low, steel-clad counter, Tolruk Stonebiter rests atop a three-legged stool -- jeweller's loupe, black velvet pad and pan balance ready to appraise the next gem or piece of jewelry."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Northern Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9267": "south",
+      "9269": "east"
+    },
+    "timeto": {
+      "9267": 0.2,
+      "9269": 0.2
+    },
+    "tags": [
+      "gemshop",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4746118
+    ]
+  }
+}

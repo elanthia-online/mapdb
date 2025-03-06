@@ -1,0 +1,39 @@
+{
+  "checksum": "aadf8e46ca1a5ee1056f807fa4df303f",
+  "room": {
+    "id": 12751,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "Portions of the northern wall have collapsed, and cold sea water flows freely through them.  Seawater sprays about as it crashes into the walls, making them slick, as well as forming small beads of water on the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12750": "west",
+      "12752": "east",
+      "12753": "southeast"
+    },
+    "timeto": {
+      "12750": 0.2,
+      "12752": 0.2,
+      "12753": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031090
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      540,
+      236,
+      576,
+      272
+    ]
+  }
+}

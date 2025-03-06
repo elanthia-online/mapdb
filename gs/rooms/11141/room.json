@@ -1,0 +1,49 @@
+{
+  "checksum": "ec4d09800ed1bd125de18c6a548f51f8",
+  "room": {
+    "id": 11141,
+    "title": [
+      "[River Tunnels, Barrier]"
+    ],
+    "description": [
+      "The humming, glowing barriers that make up the north and south walls immediately grab your attention when you enter this chamber.  The amount of mana involved in constructing and maintaining two such barriers throughout the ages staggers you as you think about it.  You can even feel the ambient mana in the room bathing you in its flows."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11140": "northeast",
+      "11142": "northwest",
+      "11143": "go blue barrier"
+    },
+    "timeto": {
+      "11140": 0.2,
+      "11142": 0.2,
+      "11143": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103010
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3721,
+      1008,
+      3758,
+      1042
+    ]
+  }
+}

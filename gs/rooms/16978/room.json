@@ -1,0 +1,37 @@
+{
+  "checksum": "88a70b69b78c9f849179c3982fce77f0",
+  "room": {
+    "id": 16978,
+    "title": [
+      "[Guild Hall, Main Hallway]"
+    ],
+    "description": [
+      "Massive obsidian columns line this hall and support a ceiling decorated with scenes of classic battles.  The walls are thickly hung with trophies and weapons of war mingled with the preserved remains of many a gruesome creature.  An arabesqued carpet leads you north down the hallway.  The heavy iron door leads back out to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "16977": "go door",
+      "16988": "north"
+    },
+    "timeto": {
+      "16977": 0.2,
+      "16988": 0.2
+    },
+    "tags": [
+      "warrior guild floor"
+    ],
+    "uid": [
+      251014
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      182,
+      902,
+      206,
+      926
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "28052ebf39a77d21b8642b4ebb679b09",
+  "room": {
+    "id": 19429,
+    "title": [
+      "[Empath Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "19426": "west",
+      "19430": "go doors",
+      "19431": "north",
+      "30579": "ask ercebal about train alchemy"
+    },
+    "timeto": {
+      "19426": 0.2,
+      "19430": 0.2,
+      "19431": 0.2,
+      "30579": 0.2
+    },
+    "tags": [
+      "empath alchemy masters",
+      "empath guild masters"
+    ],
+    "uid": [
+      650016
+    ],
+    "image": "imt-empath_guild-1307499864.png",
+    "image_coords": [
+      524,
+      130,
+      567,
+      169
+    ]
+  }
+}

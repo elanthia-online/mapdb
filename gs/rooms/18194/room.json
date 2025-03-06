@@ -1,0 +1,41 @@
+{
+  "checksum": "450f2feaac5d15ff7d02a60672a72df7",
+  "room": {
+    "id": 18194,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "The leaves of the trees take on the colors of Autumn as you walk along the path.  From bright yellow to orange, deep red, auburn, and brown, the colors dance from leaf to leaf in your presence.",
+      "The leaves of the trees lining the path take on the colors of Autumn so vividly that their hues are visible even in the moonlight.  From pale yellow to orange, deep red, auburn, and brown, the colors seem to dance from leaf to leaf."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18193": "south",
+      "18195": "north"
+    },
+    "timeto": {
+      "18193": 0.2,
+      "18195": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312019
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      403,
+      178,
+      416,
+      190
+    ]
+  }
+}

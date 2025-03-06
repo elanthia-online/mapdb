@@ -1,0 +1,32 @@
+{
+  "checksum": "2fef78281f5de6594ad3887bbbdc75cc",
+  "room": {
+    "id": 21981,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "Tiny shards of jagged rocks lie scattered about the ground, like a field of a thousand sharpened knives.  Periodically, the walls tremble and loose dirt and gravel fall from the ceiling."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south",
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21970": "south",
+      "21980": "northeast"
+    },
+    "timeto": {
+      "21970": 0.2,
+      "21980": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      701,
+      64,
+      716,
+      77
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "577567d0e5a93a6dc4f8e2e34f7452e9",
+  "room": {
+    "id": 32456,
+    "title": [
+      "[Moonsedge Castle, Grand Hall]"
+    ],
+    "description": [
+      "Galleries look down on the vastness of the grand hall.  Their gilded railings are brightly polished, glistening in the reflected light of dozens of candelabra on plinths near the room's edge.  Banners and silken flourishes spill lushly from beneath each balcony, softening the severity of the stone construction.  To the west, a black marble archway opens onto a hallway with dark crimson runners."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32454": "east",
+      "32457": "west",
+      "32462": "south"
+    },
+    "timeto": {
+      "32454": 0.2,
+      "32457": 0.2,
+      "32462": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577203
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1049,
+      647,
+      1064,
+      667
+    ]
+  }
+}

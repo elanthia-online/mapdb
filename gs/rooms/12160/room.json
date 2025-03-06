@@ -1,0 +1,51 @@
+{
+  "checksum": "509b64c56effebdad2d6a54bbd3bab94",
+  "room": {
+    "id": 12160,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A group of worms has created a large hole in the ceiling.  Through it pours a torrent of blood, washing over the room and flooding the already overworked walls.  The smell is horrible, although you cannot tell if it comes from the worms or the decaying flesh."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest",
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12160/wayto/stringproc-2579.rb",
+      "12173": "southwest",
+      "12206": "east",
+      "12211": "northwest"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12173": 0.2,
+      "12206": 0.2,
+      "12211": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "fleshsore bulb",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570008
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      964,
+      1081,
+      974,
+      1091
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "442455c42905022e7207dd9565e2ca97",
+  "room": {
+    "id": 23660,
+    "title": [
+      "[Locus Lyceum, Clerk's Office]"
+    ],
+    "description": [
+      "Screens painted with orange lotus blossoms create a protective barrier around the eastern and northern curve of the room, while the western curve is fashioned of dark green bamboo poles.  A glass-topped white rattan desk is positioned catty-corner to the room's only true corner and is arranged so that the person sitting in the rattan chair can watch both the western and southwestern corridors with an unhindered view."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23655": "west",
+      "23659": "southwest",
+      "30718": "/rooms/23660/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "23655": 0.2,
+      "23659": 0.2,
+      "30718": "/rooms/23660/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin-access",
+      "urchin guide bounty",
+      "bounty"
+    ],
+    "uid": [
+      15006003
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      1165,
+      1568,
+      1235,
+      1633
+    ]
+  }
+}

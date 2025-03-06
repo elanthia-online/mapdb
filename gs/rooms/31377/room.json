@@ -1,0 +1,30 @@
+{
+  "checksum": "2fa2188ab1cc0335ca71e718b25c8f8d",
+  "room": {
+    "id": 31377,
+    "title": [
+      "[Northern Woodlands, Trail's End]"
+    ],
+    "description": [
+      "The trail gradually comes to an end, the dirt path eventually giving way to thick foliage and thorny brambles.  Rising up like a great foreboding force, the outer edge of the Wyrdeep Forest stretches as far as the eye can see."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31376": "southwest",
+      "31378": "go forest"
+    },
+    "timeto": {
+      "31376": 0.2,
+      "31378": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ],
+    "uid": [
+      171008
+    ]
+  }
+}

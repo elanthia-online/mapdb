@@ -1,0 +1,32 @@
+{
+  "checksum": "72f2605e5ff5bcfdab0e7f9186e7ad7d",
+  "room": {
+    "id": 15041,
+    "title": [
+      "[Genivie's Outfitting]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and a mistwood beam ceiling rises overhead.  A worn rug sits in one corner of the wooden floor.  There is a glass-topped mistwood counter on one side of the shop and a plain wooden table on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "373": "out",
+      "15043": "east",
+      "15044": "northeast"
+    },
+    "timeto": {
+      "373": 0.2,
+      "15043": 0.2,
+      "15044": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      631233
+    ]
+  }
+}

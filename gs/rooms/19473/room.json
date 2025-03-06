@@ -1,0 +1,30 @@
+{
+  "checksum": "178c94110851c00265830261165ffca9",
+  "room": {
+    "id": 19473,
+    "title": [
+      "[Kaedra's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a mistwood beam ceiling, a blue watered silk tapestry hangs on one of the glossy mistwood walls.  A bamboo rack and a flexible willow woven basket sit in opposite corners while a pile of striped throw pillows rests on a dappled celadon marble floor."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "354": "out",
+      "23269": "east",
+      "23271": "west"
+    },
+    "timeto": {
+      "354": 0.2,
+      "23269": 0.2,
+      "23271": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

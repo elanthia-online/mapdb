@@ -1,0 +1,41 @@
+{
+  "checksum": "25b8abf2cf4237934baa9d98fc127a79",
+  "room": {
+    "id": 12672,
+    "title": [
+      "[Teras Isle, Underwater]"
+    ],
+    "description": [
+      "A deafening roar engulfs the area as the water continues to jet through the trench, but has little effect on the aquatic life that moves along and against the current here.  Jagged rocks and vividly colored corals stick out sharply from the stone walls, adding yet another element of danger to the treacherous path."
+    ],
+    "paths": [
+      "Obvious paths: west, northwest",
+      ""
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12662": "/rooms/12672/wayto/stringproc-12662.rb",
+      "12677": "/rooms/12672/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12672/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "meta:map:ignore-blanks",
+      "meta:underwater"
+    ],
+    "uid": [
+      3031019
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      1214,
+      1028,
+      1234,
+      1048
+    ]
+  }
+}

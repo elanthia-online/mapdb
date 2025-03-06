@@ -1,0 +1,39 @@
+{
+  "checksum": "8b2feb694facbd4c4dc7ed81d94519d2",
+  "room": {
+    "id": 9650,
+    "title": [
+      "[Hall of the Feast]"
+    ],
+    "description": [
+      "Moonlight streams through cutwork teak shutters to cast lacy shadows on the polished stone floor.  A mural lit by flickering candles stretches the length of the hallway.  The muted chime of temple bells is a reminder that despite the nature of the paintings, this place is holy to some.",
+      "Sunlight streaming through cutwork teak shutters forms an intricate pattern on a mural that covers the long wall opposite the windows.  The muted chime of temple bells is a reminder that despite the nature of the paintings, this place is holy to some."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "9635": "west",
+      "9649": "east"
+    },
+    "timeto": {
+      "9635": 0.2,
+      "9649": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2191006
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      698,
+      738,
+      708,
+      748
+    ]
+  }
+}

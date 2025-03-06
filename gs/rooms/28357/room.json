@@ -1,0 +1,35 @@
+{
+  "checksum": "fe8802ba74c779959b9e80a2031bcf14",
+  "room": {
+    "id": 28357,
+    "title": [
+      "[Tower of Tilaok, Balcony]"
+    ],
+    "description": [
+      "Several pewter sconces blaze along the red-veined marble wall of this semicircular landing.  Glinting in the light, a platinum railing stands at the balcony's edge, and a narrow spiral staircase twists down into the great hall, the single handrail studded with crimson rubies."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, down"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28356": "down",
+      "28358": "go glaes door",
+      "28359": "go cherrywood door",
+      "28360": "go staircase",
+      "28376": "southwest",
+      "28380": "southeast"
+    },
+    "timeto": {
+      "28356": 0.2,
+      "28358": 0.2,
+      "28359": 0.2,
+      "28360": 0.2,
+      "28376": 0.2,
+      "28380": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

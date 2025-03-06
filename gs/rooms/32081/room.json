@@ -1,0 +1,41 @@
+{
+  "checksum": "cab586b07d9bd3d71534dae3db4d114e",
+  "room": {
+    "id": 32081,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "Patches of mist and dense fog linger in the still air, hovering above the smooth surface of the river.  There's no movement on the riverbanks to either side, each bounded with a thick copse of tall weeping willow trees leaning heavily inward over the waterway.  A lengthy watersnake glides past, disappearing into a fog bank."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "32080": "/rooms/32081/wayto/stringproc-32080.rb",
+      "32082": "/rooms/32081/wayto/stringproc-32082.rb"
+    },
+    "timeto": {
+      "32080": 0.2,
+      "32082": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083388
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      945,
+      529,
+      966,
+      551
+    ]
+  }
+}

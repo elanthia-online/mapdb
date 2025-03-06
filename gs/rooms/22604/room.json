@@ -1,0 +1,26 @@
+{
+  "checksum": "24b4ead7c4212a50705f9f7666190a94",
+  "room": {
+    "id": 22604,
+    "title": [
+      "[Robe N' Hood, Clothing]"
+    ],
+    "description": [
+      "No wider than a hallway, most of the available space in this cramped wagon is taken up by a glass-topped display case.  A series of upturned hooks dots the wall across from the case, the hooks evenly spaced to display an array of robes.  A narrow path leads around the case to the other half of the wagon, while a silver-framed maroon wooden door fills the western wall, leading to a partitioned space."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": false,
+    "wayto": {
+      "22532": "west",
+      "22605": "go door",
+      "23156": "go maroon door"
+    },
+    "timeto": {
+      "22532": 0.2,
+      "22605": 0.2,
+      "23156": 0.2
+    }
+  }
+}

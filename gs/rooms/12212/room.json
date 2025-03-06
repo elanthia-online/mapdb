@@ -1,0 +1,58 @@
+{
+  "checksum": "efb45c05962676f07945f164561eb275",
+  "room": {
+    "id": 12212,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Gargoyles hover above a huge, dark pit in the ground a small distance off.  They occasionally swoop into it, then shoot out on a burst of air, screaming with excitement.  All manner of bugs and small creatures swarm around the lip of the hole, the thick ring oozing slowly outward from its point of origin."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12212/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12212/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12212/wayto/stringproc-12152.rb",
+      "12205": "north",
+      "12213": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12205": 0.2,
+      "12213": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568038
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      321,
+      1149,
+      331,
+      1159
+    ]
+  }
+}

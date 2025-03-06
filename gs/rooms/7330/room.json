@@ -1,0 +1,48 @@
+{
+  "checksum": "fb558f45827e974cab4e6045e094fd15",
+  "room": {
+    "id": 7330,
+    "title": [
+      "[Shadow Valley]"
+    ],
+    "description": [
+      "The lack of color throughout the valley creates an odd feeling of unreality within you, as if you were reliving a long forgotten memory.  Sharp grey stones mark the ground in the few spots where the black mist thins."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7325": "northwest",
+      "7326": "north",
+      "7327": "northeast",
+      "7329": "east"
+    },
+    "timeto": {
+      "7325": 0.2,
+      "7326": 0.2,
+      "7327": 0.2,
+      "7329": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02",
+      "shadow mare"
+    ],
+    "uid": [
+      389032
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1347,
+      631,
+      1357,
+      641
+    ]
+  }
+}

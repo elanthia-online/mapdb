@@ -1,0 +1,40 @@
+{
+  "checksum": "6de98be4160ed2286c0ead96834884d8",
+  "room": {
+    "id": 9172,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "A stack of rotting crates piled in one corner appears to be an unsafe method of gaining the upper level.  The wood is pitted and moldy, numerous splinters and cracks marring the surface of the wood."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9171": "north",
+      "9173": "west",
+      "9189": "climb crates"
+    },
+    "timeto": {
+      "9171": 0.2,
+      "9173": 0.2,
+      "9189": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531003
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      849,
+      1021,
+      859,
+      1031
+    ]
+  }
+}

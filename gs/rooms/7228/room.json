@@ -1,0 +1,51 @@
+{
+  "checksum": "d61b40a880855b67b20b5c184f480595",
+  "room": {
+    "id": 7228,
+    "title": [
+      "[Under Crypt, Tunnels]"
+    ],
+    "description": [
+      "This area looks like a ghoul's larder.  Bodies and parts of bodies lie buried in ice that was scraped off the walls and ceiling then covered with layers of the gruesome pink icicles.  Not a pretty sight.  In one corner of the room you see some roughly carved stairs leading upwards."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7229": "go stairs",
+      "7230": "northeast",
+      "7231": "southwest",
+      "7234": "southeast"
+    },
+    "timeto": {
+      "7229": 0.2,
+      "7230": 0.2,
+      "7231": 0.2,
+      "7234": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18205
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      769,
+      508,
+      779,
+      518
+    ]
+  }
+}

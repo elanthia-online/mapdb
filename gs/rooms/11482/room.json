@@ -1,0 +1,42 @@
+{
+  "checksum": "39215520ee0048cc35a2f9ca73858b51",
+  "room": {
+    "id": 11482,
+    "title": [
+      "[Maelstrom Bay, Shipwreck]"
+    ],
+    "description": [
+      "A deep layer of muck covers the curve of the starboard bulkhead underfoot.  Overhead, the arc of the port bulkhead is buckled.  A massive gash in the wall now formed by the hull is surrounded by huge, jagged splinters.  A smashed hatchway that once would have led to the deck now acts as a window, blocked by the coral reef.  The broken staves of barrels, turned almost blonde by the saltwater, float overhead against the port bulkhead."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11464": "/rooms/11482/wayto/stringproc-11464.rb",
+      "11483": "/rooms/11482/wayto/stringproc-11483.rb",
+      "11484": "/rooms/11482/wayto/stringproc-11484.rb"
+    },
+    "timeto": {
+      "11464": 2,
+      "11483": 2,
+      "11484": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:underwater"
+    ],
+    "uid": [
+      304251
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      846,
+      1234,
+      856,
+      1244
+    ]
+  }
+}

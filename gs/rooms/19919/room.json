@@ -1,0 +1,34 @@
+{
+  "checksum": "765e8b70f7703c4bdf6ab259bbb97de6",
+  "room": {
+    "id": 19919,
+    "title": [
+      "[Drakes Vanguard, Courtyard]"
+    ],
+    "description": [
+      "Vibrant beds, lush evergreens, and the leafy ferns, cattails, and lily pads of a shallow pond, where fan-tailed redfish slowly swim, soften the coarseness of the courtyard.  A comfortable bench lies midway along the white stone path that winds from a bowered gate to a rolaren portcullis.  A fire pit and a small white rock share the shadow of a smooth stele by the battlements, where a chute discharges into the river.  Only subtle movements betray the watchful eyes aloft.",
+      "Blossoming hibiscus and evergreens soften the stone coarseness surrounding this quiet courtyard.  Flower beds of white roses and bright periwinkles embrace the leafy ferns, cattails, and lily pads of the small, shallow pond at its focus where fan-tailed redfish swim slowly beneath its ripples.  A white stone path winds between the gate and the rolaren portcullis of the north wall.  Subtle movements betray the watchful eyes atop the battlements."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Drakes Vanguard Fortress",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4346": "go gate",
+      "19920": "go portcullis"
+    },
+    "timeto": {
+      "4346": 0.2,
+      "19920": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      18051001
+    ]
+  }
+}

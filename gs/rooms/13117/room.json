@@ -1,0 +1,27 @@
+{
+  "checksum": "a230d7a47de948a756d6cff61b83849c",
+  "room": {
+    "id": 13117,
+    "title": [
+      "[Outpost, Tower Corridor]"
+    ],
+    "description": [
+      "Narrow and devoid of furnishings, the corridor passes between the two watch towers and houses a pair of windows.  One window gazes down upon the entry to the building, while the other one faces the wide practice courtyard."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "wayto": {
+      "13116": "west",
+      "13118": "east"
+    },
+    "timeto": {
+      "13116": 0.2,
+      "13118": 0.2
+    },
+    "uid": [
+      562004
+    ]
+  }
+}

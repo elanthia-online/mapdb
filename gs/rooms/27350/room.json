@@ -1,0 +1,32 @@
+{
+  "checksum": "daef93c9c66171053ea6b3d51e949eab",
+  "room": {
+    "id": 27350,
+    "title": [
+      "[Collectibles Shop]"
+    ],
+    "description": [
+      "This cluttered warehouse is nearly packed to the rafters with all manner of trinkets and collectibles.  Attendants busy themselves by sorting items into densely packed displays, following an organizational system apparently known only to themselves."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12394": "go out",
+      "30715": "/rooms/27350/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12394": 0.2,
+      "30715": "/rooms/27350/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "collectibles",
+      "urchin-access",
+      "urchin guide collectibles"
+    ],
+    "uid": [
+      3003175
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "ea37f3d621259a74b03e84508faf90d5",
+  "room": {
+    "id": 1871,
+    "title": [
+      "[Teras Travel Office]"
+    ],
+    "description": [
+      "This ticket office appears to be nothing more than a remodelled fishing shack.  A small display case contains a detailed model of the Glaesen Star."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1870": "out",
+      "12792": "go partition"
+    },
+    "timeto": {
+      "1870": 0.2,
+      "12792": 0.2
+    },
+    "tags": [
+      "travel office"
+    ],
+    "uid": [
+      3070040
+    ]
+  }
+}

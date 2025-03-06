@@ -1,0 +1,43 @@
+{
+  "checksum": "92673be215d1b3a635f46c0a6347b258",
+  "room": {
+    "id": 29533,
+    "title": [
+      "[Clovertooth, East Colonnade]"
+    ],
+    "description": [
+      "Lined with columns of carved white granite, the enclosed colonnade proceeds past an unobtrusive office door made of dark Olbin spruce.  The stone floor is broken by a polished mosaic of hoarbeam and modwir depicting a rampant mule.  Beyond the inlaid seal, an arched hallway proceeds toward the public lockers."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "21689": "west",
+      "29534": "go hallway",
+      "29535": "go door"
+    },
+    "timeto": {
+      "21689": 0.2,
+      "29534": 0.2,
+      "29535": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043032
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      970,
+      1370,
+      1056,
+      1462
+    ]
+  }
+}

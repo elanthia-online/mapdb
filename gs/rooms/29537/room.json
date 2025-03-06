@@ -1,0 +1,45 @@
+{
+  "checksum": "17c72cbeefbb9e1dc58a60f39cf74c9a",
+  "room": {
+    "id": 29537,
+    "title": [
+      "[Clovertooth, Upper Gallery]"
+    ],
+    "description": [
+      "The western quadrant of the hall's upper gallery is dominated by a pair of Ossian pine doors with a quintet of silver stars above them.  Curving to follow the walkway, a blue wool runner with silver edges proceeds before the chamber.  Nooks along the walls hold snowflakes of azure glass, each resplendent and unique."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8961": "go arch",
+      "29528": "southeast",
+      "29538": "go doors",
+      "29542": "northeast"
+    },
+    "timeto": {
+      "8961": 0.2,
+      "29528": 0.2,
+      "29538": 0.2,
+      "29542": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043046
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      394,
+      986,
+      480,
+      1074
+    ]
+  }
+}

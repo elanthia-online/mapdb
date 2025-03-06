@@ -1,0 +1,25 @@
+{
+  "checksum": "c2f04c428604aeaa7e0d447df0386461",
+  "room": {
+    "id": 21553,
+    "title": [
+      "[Instrumentality]"
+    ],
+    "description": [
+      "Long shadows occupy this section of the tent, cast by the tall poles supporting the colorful canopy.  Spanning several feet, a long wooden plank has been repurposed and painted into a wide blue-spotted shelf supported by empty ale barrels.  A polished brass tray rests atop a leaf-painted table along with an empty porcelain vase.  Beyond a rather hideously crafted iron rack, a rose-motif azure wool curtain obscures what lies to the north."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": false,
+    "wayto": {
+      "21552": "northeast",
+      "21554": "go curtain"
+    },
+    "timeto": {
+      "21552": 0.2,
+      "21554": 0.2
+    },
+    "check_location": false
+  }
+}

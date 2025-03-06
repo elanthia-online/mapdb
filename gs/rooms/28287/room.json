@@ -1,0 +1,35 @@
+{
+  "checksum": "6a75617f26b20ab9e6aea47b82c736be",
+  "room": {
+    "id": 28287,
+    "title": [
+      "[Ta'Vaalor Hall, West Hallway]"
+    ],
+    "description": [
+      "A large mural is painted on one wall.  The marble stairway meets a deep red carpeted hallway, its length punctuated with gold sconces.  A carved fel door with a gold knob is set into the west wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "28286": "go stairway",
+      "28288": "go door",
+      "28292": "east",
+      "28293": "north"
+    },
+    "timeto": {
+      "28286": 0.2,
+      "28288": 0.2,
+      "28292": 0.2,
+      "28293": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      857008
+    ]
+  }
+}

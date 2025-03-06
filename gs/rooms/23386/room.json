@@ -1,0 +1,59 @@
+{
+  "checksum": "1a9035bd30057dcd4ba2d72ec97fa161",
+  "room": {
+    "id": 23386,
+    "title": [
+      "[Dragonspine, Mountainside]"
+    ],
+    "description": [
+      "A few towering trees cling to life on this windy mountainside, standing apart from the dense forest to the east.  Snow flurries dance through the air and the ground is uneven, making every step precarious."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "snowy, arctic",
+    "terrain": "mountainous",
+    "wayto": {
+      "23385": "go dense forest",
+      "23387": "west",
+      "34279": "go crevice"
+    },
+    "timeto": {
+      "23385": 0.2,
+      "23387": 0.2,
+      "34279": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "tundra grass",
+      "golden aster",
+      "cluster of butterflyweed",
+      "mountain dryad",
+      "stalk of monkeyflower",
+      "snowberries",
+      "rockberry",
+      "crowberry",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wintercrisp apple",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018038
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      249,
+      40,
+      260,
+      51
+    ]
+  }
+}

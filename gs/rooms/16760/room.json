@@ -1,0 +1,40 @@
+{
+  "checksum": "8df8b022ca7b9d37ce7b8fa3c326d3da",
+  "room": {
+    "id": 16760,
+    "title": [
+      "[Temple Wyneb, Tanthuz]"
+    ],
+    "description": [
+      "You can hear the gurgling of water somewhere behind a wall, but the exact source is difficult to pinpoint due to the hard, echoing marble.  Burning torches send shadows leaping about in a wild dance."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16753": "west",
+      "16757": "north",
+      "16761": "east"
+    },
+    "timeto": {
+      "16753": 0.2,
+      "16757": 0.2,
+      "16761": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300069
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      662,
+      757,
+      672,
+      767
+    ]
+  }
+}

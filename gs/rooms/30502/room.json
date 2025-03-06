@@ -1,0 +1,50 @@
+{
+  "checksum": "326bc5c3062ae9076967a649374387a5",
+  "room": {
+    "id": 30502,
+    "title": [
+      "[Mistydeep, Waterfall]"
+    ],
+    "description": [
+      "A constant roar drowns out all other ambient sound as the Mistydeep River cascades over a lofty, wide precipice into this rocky gorge.  Near the base of the massive falls, a fine spray fills the air above the roil.  Buoyant mist paints shimmering rainbows above the expansive basin that fills this horseshoe-shaped cleft in the forest.  Moving away from the falling torrent, the water settles into a smoothly rippled pool."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30500": "swim southwest",
+      "30501": "swim south",
+      "30503": "swim southeast"
+    },
+    "timeto": {
+      "30500": 0.2,
+      "30501": 0.2,
+      "30503": 0.2
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117001
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1122,
+      531,
+      1141,
+      548
+    ]
+  }
+}

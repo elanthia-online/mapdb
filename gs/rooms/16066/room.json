@@ -1,0 +1,28 @@
+{
+  "checksum": "8fe4fd41aca6289fe42a3607b2f76427",
+  "room": {
+    "id": 16066,
+    "title": [
+      "[Basra's Magic Shoppe]"
+    ],
+    "description": [
+      "The broad sweep of the rush-covered floor is interrupted by a small potted lemon tree.  Halfway to the palm frond ceiling, an array of ostrich feathers hangs on one of the sturdy bamboo walls.  Some carved haon pegs and a long mistwood counter are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "10875": "out",
+      "16105": "west",
+      "16106": "east"
+    },
+    "timeto": {
+      "10875": 0.2,
+      "16105": 0.2,
+      "16106": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "77063b17275ec791811d9920a4ea7fc4",
+  "room": {
+    "id": 5728,
+    "title": [
+      "[Marshtown, Bog Alley]"
+    ],
+    "description": [
+      "The buildings along this section of walkway are so close together that two people cannot walk abreast.  The proximity of the buildings blocks out the light, making the alley seem dark even at high noon.  Barrels of refuse and empty crates litter the alley, providing good hiding spots for derelicts and rogues alike.  Almost lost in the shadows is a door painted a dull, lifeless black.",
+      "The buildings along this section of walkway are so close together that two people cannot walk abreast.  The proximity of the buildings blocks out the light, making the alley seem dark even at high noon.  Barrels of refuse and empty crates litter the alley, providing good hiding spots for derelicts and rogues alike.  Almost lost in the darkness is a door painted a dull, lifeless black."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5043": "north",
+      "5729": "east",
+      "28719": "go door",
+      "33350": "go white arch"
+    },
+    "timeto": {
+      "5043": 0.2,
+      "5729": 0.2,
+      "28719": 0.2,
+      "33350": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4744018
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      814,
+      728,
+      820,
+      735
+    ]
+  }
+}

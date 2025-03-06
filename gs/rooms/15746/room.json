@@ -1,0 +1,30 @@
+{
+  "checksum": "225b8de765e4835bad3c42a582ab1b2f",
+  "room": {
+    "id": 15746,
+    "title": [
+      "[Phates' General Store]",
+      "[Phates' Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an oak beam ceiling, a colorful Icemule map hangs on one of the blue plaster walls.  A dovetailed oak table sits in one corner while a polar bear rug rests on the gold oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2317": "out",
+      "15773": "west",
+      "15774": "east"
+    },
+    "timeto": {
+      "2317": 0.2,
+      "15773": 0.2,
+      "15774": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

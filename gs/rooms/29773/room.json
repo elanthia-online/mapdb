@@ -1,0 +1,42 @@
+{
+  "checksum": "abae1990cffc72c82565e3b7cc4cbb62",
+  "room": {
+    "id": 29773,
+    "title": [
+      "[The Weeping Isle]"
+    ],
+    "description": [
+      "Waves batter the island's shores relentlessly, sending curtains of salty water skyward.  A low wall encircles the grounds as the only measure of safety against the rocks and watery depths below.  Four rectangular pillars, each roughly two feet high and bearing a distinct rune, form the corners of a sand garden.  In the center of the garden stands a flickering blue portal.  A rope and plank bridge connects to a rune-covered tower to the west, while an arching catwalk leads north to a gilded, dome-capped spire that glitters in the sunlight."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28885": "go portal",
+      "29774": "go catwalk",
+      "29776": "go bridge"
+    },
+    "timeto": {
+      "28885": 0.2,
+      "29774": 0.2,
+      "29776": 0.2
+    },
+    "tags": [
+      "meta:mapname:Kraken's Fall - Wizard Guild",
+      "meta:mapshortname:Wizard Guild (KF)",
+      "meta:mapcategory:Kraken's Fall",
+      "meta:mapcategory:Guilds"
+    ],
+    "uid": [
+      689001
+    ],
+    "image": "kf-wizardguild.png",
+    "image_coords": [
+      323,
+      343,
+      342,
+      364
+    ]
+  }
+}

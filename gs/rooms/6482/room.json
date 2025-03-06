@@ -1,0 +1,41 @@
+{
+  "checksum": "a57df20db82f8cc98427a3451030d151",
+  "room": {
+    "id": 6482,
+    "title": [
+      "[Underground Lake, In The Water]"
+    ],
+    "description": [
+      "A slow but steady dripping from somewhere above creates ringed patterns in the lake surface.  The flat plunking noise disturbs the cathedral-like silence of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6480": "northwest",
+      "6481": "west",
+      "6483": "north"
+    },
+    "timeto": {
+      "6480": 0.2,
+      "6481": 0.2,
+      "6483": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      92106
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      667,
+      1006,
+      677,
+      1016
+    ]
+  }
+}

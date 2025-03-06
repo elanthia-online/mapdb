@@ -1,0 +1,44 @@
+{
+  "checksum": "87e5485b702ca9158fbc3406850f7e6f",
+  "room": {
+    "id": 1435,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "The crowds thicken as they push deeper into town.  To the southwest, you notice the outline of a dock against the waters of the bay.  Eastward, you can see wagons trundling down the street towards the cliffs.  Nearby, a lone fisherman stands poised on the rocks, casting his line into the sea."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1434": "northeast",
+      "1436": "southwest",
+      "1440": "east",
+      "1444": "south"
+    },
+    "timeto": {
+      "1434": 0.2,
+      "1436": 0.2,
+      "1440": 0.2,
+      "1444": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209011
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1063,
+      387,
+      1087,
+      411
+    ]
+  }
+}

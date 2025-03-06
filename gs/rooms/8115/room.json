@@ -1,0 +1,38 @@
+{
+  "checksum": "7320ed1c2e59f929eb5d8a7c57b54e28",
+  "room": {
+    "id": 8115,
+    "title": [
+      "[Luinne Bheinn, Peel Tower]"
+    ],
+    "description": [
+      "Rough granite walls encircle this large room.  Pieces of smashed furniture litter the floor, much of it covered in dust.  Occasional gusts of wind send minor whirlwinds twirling playfully through the area.  A narrow, curving stairway hugs the wall, leading to the floor above.  A broken doorway leads outside."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Luinne Bheinn",
+    "wayto": {
+      "8084": "go doorway",
+      "8116": "climb stairway"
+    },
+    "timeto": {
+      "8084": 0.2,
+      "8116": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4251100
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      965,
+      707,
+      975,
+      717
+    ]
+  }
+}

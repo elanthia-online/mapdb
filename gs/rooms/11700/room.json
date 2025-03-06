@@ -1,0 +1,60 @@
+{
+  "checksum": "05151e644745d1e0cf12e07904d21ddf",
+  "room": {
+    "id": 11700,
+    "title": [
+      "[Marsh Keep, West Wall]"
+    ],
+    "description": [
+      "The earthen barriers protecting the keep from the surrounding marshes rise higher and wider as they run parallel to the west wall of the keep.  Little vegetation grows upon them, but the shallow valley between them and the wall is filled with marsh grass accompanied by large pools of collected rain water.  Muddy tracks lead down and back to the pools of water, and then further to the south down the pathway."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11699": "south",
+      "11701": "north"
+    },
+    "timeto": {
+      "11699": 0.2,
+      "11701": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "sweetfern stalk",
+      "sassafras leaf",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "cuctucae berry",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "small wild rose",
+      "wild chokecherry",
+      "bright red cranberry",
+      "mistweed",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      376030
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      348,
+      400,
+      358,
+      410
+    ]
+  }
+}

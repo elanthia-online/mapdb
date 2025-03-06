@@ -1,0 +1,29 @@
+{
+  "checksum": "795f1955df558ec90af58fbe84c68aa8",
+  "room": {
+    "id": 27854,
+    "title": [
+      "[Zamnier's Weaponry]"
+    ],
+    "description": [
+      "A colorful Icemule map hangs on one of the rough pine walls, and an ash grey plaster ceiling rises overhead.  A large anvil sits in one corner of a rough-hewn oak floor.  There is a low wrought iron table on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3444": "go out",
+      "27855": "north",
+      "27858": "south"
+    },
+    "timeto": {
+      "3444": 0.2,
+      "27855": 0.2,
+      "27858": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "de261617d1a85d0bbb6e5615a9c19e2a",
+  "room": {
+    "id": 20499,
+    "title": [
+      "[Erythro Island, Beach]"
+    ],
+    "description": [
+      "The cold waters give way to the long shoreline of the island where the wind has died down into a small breeze.  Further up the beach the land transforms into a thick wooded forest, where large foot prints lead down from the woodland's edge to the water upon the shore."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20498": "go water",
+      "20504": "east"
+    },
+    "timeto": {
+      "20498": 0.2,
+      "20504": 0.2
+    }
+  }
+}

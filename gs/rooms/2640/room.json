@@ -1,0 +1,40 @@
+{
+  "checksum": "13dc1a4263fe886f74a56a8d2aa075f4",
+  "room": {
+    "id": 2640,
+    "title": [
+      "[Lake of Tears]"
+    ],
+    "description": [
+      "Currents roil the tepid water, with bits of debris and sand caught in a hectic dance.  Overhead, light filters down in shifting beams, which flicker at the mercy of the water's movement.  A shadowy opening creates a fissure in the rock walls, and below that, the lake descends into darkness."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": false,
+    "wayto": {
+      "2639": "/rooms/2640/wayto/stringproc-2639.rb",
+      "2641": "/rooms/2640/wayto/stringproc-2641.rb",
+      "2642": "/rooms/2640/wayto/stringproc-2642.rb"
+    },
+    "timeto": {
+      "2639": 5,
+      "2641": 5,
+      "2642": 5
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4562039
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      37,
+      246,
+      45,
+      254
+    ]
+  }
+}

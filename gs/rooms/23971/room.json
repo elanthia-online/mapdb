@@ -1,0 +1,27 @@
+{
+  "checksum": "0ab31445727e3238a9b7ed1eda78b854",
+  "room": {
+    "id": 23971,
+    "title": [
+      "[Tempest River, Abandoned House]"
+    ],
+    "description": [
+      "Disarray and dust aptly describe the interior of the abandoned house.  What furniture remains lies up-ended and covered in a fine layer of filth, the sole exception being an oak writing table situated near a window that gazes out to the southwest and the rest of the old port.  Vines invade the house, reaching in through broken windows and wide-flung doors, as if the wilds outside are determined to overcome all trace of habitation."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23964": "go window",
+      "23968": "out"
+    },
+    "timeto": {
+      "23964": 0.2,
+      "23968": 0.2
+    },
+    "uid": [
+      5010111
+    ]
+  }
+}

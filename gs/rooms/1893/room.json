@@ -1,0 +1,32 @@
+{
+  "checksum": "a42e3ba6b33d257a24de0e253305efec",
+  "room": {
+    "id": 1893,
+    "title": [
+      "[Company Store, Debt Office]"
+    ],
+    "description": [
+      "A glaes candy dish perches at the edge of a large mistwood countertop.  On a small table near the doorway, a potted fern shrivels.  Thick leather-bound ledgers are stacked on the bookshelves behind the clerk.  Some of the book spines are so worn that the letters on them are scarcely legible."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1892": "east",
+      "30715": "/rooms/1893/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1892": 0.2,
+      "30715": "/rooms/1893/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide debts",
+      "debts"
+    ],
+    "uid": [
+      3003026
+    ]
+  }
+}

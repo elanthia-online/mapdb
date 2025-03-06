@@ -1,0 +1,28 @@
+{
+  "checksum": "424c9e1fbb44db2b9a0f39087f60021e",
+  "room": {
+    "id": 15178,
+    "title": [
+      "[Debia's Outfitting]"
+    ],
+    "description": [
+      "The broad sweep of the hardwood floor is interrupted by a sphere-topped black marble fountain.  Halfway to the vaulted ceiling, a brilliant peacock painting hangs on one of the mahogany paneled walls.  A gold-leafed mistwood cabinet is pushed to the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west, out"
+    ],
+    "wayto": {
+      "351": "out",
+      "15237": "west",
+      "15238": "northeast"
+    },
+    "timeto": {
+      "351": 0.2,
+      "15237": 0.2,
+      "15238": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

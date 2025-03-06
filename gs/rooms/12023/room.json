@@ -1,0 +1,45 @@
+{
+  "checksum": "4a0c1bfb2c73d80120e59c013e40665d",
+  "room": {
+    "id": 12023,
+    "title": [
+      "[Old Ta'Faendryl, Amphitheatre]"
+    ],
+    "description": [
+      "Moisture has washed out portions of the substrate beneath the retaining wall of the amphitheatre, dotting the upper platform with potholes.  Dark stains caused by leached out minerals carried by streams of rain water ripple down over the cracked benches that slump in uneven rows toward the ground below."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12018": "climb benches",
+      "12022": "southwest",
+      "12024": "north",
+      "12041": "go stairs"
+    },
+    "timeto": {
+      "12018": 0.2,
+      "12022": 0.2,
+      "12024": 0.2,
+      "12041": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004056
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1048,
+      557,
+      1058,
+      567
+    ]
+  }
+}

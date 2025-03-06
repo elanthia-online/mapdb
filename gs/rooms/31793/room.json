@@ -1,0 +1,32 @@
+{
+  "checksum": "6b106bbc0d39ee0f048b3b30125676fd",
+  "room": {
+    "id": 31793,
+    "title": [
+      "[Evermore Hotel, Basement]"
+    ],
+    "description": [
+      "At the bottom of a steep staircase, wall-mounted lanterns cast shadows onto floor-to-ceiling shelves overflowing with unclaimed luggage, the moldering leather cases spilling their contents onto hard packed dirt underfoot.  The dark corners of the substructure are piled with a menagerie of forgotten possessions, a saddle trimmed with tarnished silver on top of one heap.  A path has been cleared through the jumbled maze, but only wide enough to sidle through."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31792": "go staircase",
+      "31795": "southeast"
+    },
+    "timeto": {
+      "31792": 0.2,
+      "31795": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8087165
+    ]
+  }
+}

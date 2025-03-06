@@ -1,0 +1,27 @@
+{
+  "checksum": "672aa1910658541a8b3c8dfdb9204650",
+  "room": {
+    "id": 27866,
+    "title": [
+      "[Library]"
+    ],
+    "description": [
+      "Manuscripts and tomes of varying age are organized on an expanse of oak bookcases along two walls.  Underneath one of the windows is a heavy oak desk.  A pair of leather club chairs have been placed in one corner near a reading table.  Down the center of the room, display cases have been arranged.  Maps and diagrams have been hung on the remaining wall space.  The expansive fel floor continues through an archway to the west.  A sturdy cedar door leads out to a rope bridge and back to the gazebo."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Keh'nira Fyr'sah",
+    "wayto": {
+      "27865": "/rooms/27866/wayto/stringproc-27865.rb",
+      "27867": "west"
+    },
+    "timeto": {
+      "27865": "/rooms/27866/timeto/stringproc-27865.rb",
+      "27867": 0.2
+    },
+    "tags": [
+      "private property"
+    ]
+  }
+}

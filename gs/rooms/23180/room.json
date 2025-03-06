@@ -1,0 +1,29 @@
+{
+  "checksum": "01cc37049ffd92a80c23e7166bf9c542",
+  "room": {
+    "id": 23180,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23179": "go curtain"
+    },
+    "timeto": {
+      "23179": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Annex, House Phoenix Lobby\\]$/",
+      "meta:locker"
+    ],
+    "uid": [
+      3215104
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "d0eaab3b84030f6e9b11cea05841d387",
+  "room": {
+    "id": 11417,
+    "title": [
+      "[Troll Lair, Hall]"
+    ],
+    "description": [
+      "The hall is strewn with droppings, litter, and animal parts, making footing difficult at best.  Among the debris can be seen various bits of leather and metal that appear to have once been armor.  A fouler stench wafts in from the northeast."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, northwest"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11416": "northwest",
+      "11418": "southeast",
+      "11420": "east",
+      "11422": "northeast"
+    },
+    "timeto": {
+      "11416": 0.2,
+      "11418": 0.2,
+      "11420": 0.2,
+      "11422": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "ironfern root",
+      "murdroot",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      40007
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      906,
+      1412,
+      916,
+      1422
+    ]
+  }
+}

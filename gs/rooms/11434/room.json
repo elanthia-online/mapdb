@@ -1,0 +1,42 @@
+{
+  "checksum": "336b4e8289cd191dd034fc30278f6383",
+  "room": {
+    "id": 11434,
+    "title": [
+      "[The Stone Eye, Stage]"
+    ],
+    "description": [
+      "Four rows of wooden benches sit astride a small aisle, allowing theatre-goers an unobstructed view of the small granite-floored stage.  Limelights are arranged around the base of the stage for use during productions.  Burgundy velvet curtains adorned with golden rope provide an accent to the colorful backdrop depicting a sunny day by a river."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11427": "southeast",
+      "11429": "northeast",
+      "17657": "go stairwell"
+    },
+    "timeto": {
+      "11427": 0.2,
+      "11429": 0.2,
+      "17657": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2101983
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1934,
+      420,
+      1954,
+      442
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "ad65947699c574906571b1a21fb71aaa",
+  "room": {
+    "id": 17654,
+    "title": [
+      "[Smuggler's Tunnels, Tunnel]"
+    ],
+    "description": [
+      "The light of a single torch illuminates the small chamber, in contrast to a larger room visible through a tunnel entrance to the north, with a visible shaft of light extending down from its ceiling.  Two passageways break off from the chamber, one continuing south and a larger one to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17653": "go entrance",
+      "17677": "south",
+      "17681": "east"
+    },
+    "timeto": {
+      "17653": 0.2,
+      "17677": 0.2,
+      "17681": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "genkew mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5009008
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      677,
+      1082,
+      717,
+      1123
+    ]
+  }
+}

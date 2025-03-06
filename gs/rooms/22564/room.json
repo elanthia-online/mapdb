@@ -1,0 +1,25 @@
+{
+  "checksum": "3841626300adebeda51c2fdf4ee63a9b",
+  "room": {
+    "id": 22564,
+    "title": [
+      "[Abandoned General Store, Front]"
+    ],
+    "description": [
+      "The narrow storefront is cluttered with several trunks that are stacked upon each other.  A long wooden counter wraps around the front of a door leading toward a small supply closet.  Two oil lamps are the only sources of light within the store, but they barely offer enough illumination to break through the darkness."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20347": "out",
+      "22565": "go door"
+    },
+    "timeto": {
+      "20347": 0.2,
+      "22565": 0.2
+    },
+    "check_location": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "b1467f74d74ae593058ce093934a7934",
+  "room": {
+    "id": 30371,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Moonlight glints off the white sandy beaches that are visible on the coastline to the east.  The sound of distant waves crashing on the beach mingles with the call of some exotic wildlife to disturb the tranquility.  Dark calm water extends in all directions, silver reflecting on the surface."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "30370": "pedal south",
+      "30372": "pedal northwest"
+    },
+    "timeto": {
+      "30370": 6,
+      "30372": 6
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216208
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1022,
+      4322,
+      1042,
+      4340
+    ]
+  }
+}

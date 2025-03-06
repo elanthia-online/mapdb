@@ -1,0 +1,42 @@
+{
+  "checksum": "60a59386c32626d434a85dbb251ee263",
+  "room": {
+    "id": 7075,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "This stretch of passage echoes with rustling, clicking and scuttling noises.  Your boots crunch with each step you take.  You get a horrible, sick suspicion in the pit of your stomach, which is confirmed when hundreds of crawly little feet start climbing up your legs.  You imagine suffocating under a mountain of insects and feel slightly sick to your stomach."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7074": "south",
+      "7076": "north"
+    },
+    "timeto": {
+      "7074": 0.2,
+      "7076": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44049
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      702,
+      1010,
+      712,
+      1020
+    ]
+  }
+}

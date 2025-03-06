@@ -1,0 +1,46 @@
+{
+  "checksum": "813eb9cb42698d4e96ecced759c416a2",
+  "room": {
+    "id": 3635,
+    "title": [
+      "[Honeysuckle and Daisy Avenue]"
+    ],
+    "description": [
+      "Almost completely shaded from the moonlight by the tall weeping willows that flank the small ivy-covered cottage, only the soft glow from the candlelight in its windows can be seen clearly.  The soothing sound of crickets chirping mixes with the intermittent hoot of a nearby owl.  Dew glistens on the blossoms and shrubs in the small herb garden to the side of the shop.",
+      "At the end of Honeysuckle Avenue and nestled cozily between a pair of weeping willows is a handsome cottage overgrown with ivy.  The sweet scent of honeysuckle drifts on the cool breeze that rustles the leaves of the sentinel trees and gives the lane its name.  A small, well-kept garden sits off to one side, guarded by a white picket fence."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3636": "east",
+      "3648": "south",
+      "12300": "north",
+      "12302": "go cottage"
+    },
+    "timeto": {
+      "3636": 0.2,
+      "3648": 0.2,
+      "12300": 0.2,
+      "12302": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201032
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2491,
+      1180,
+      2530,
+      1220
+    ]
+  }
+}

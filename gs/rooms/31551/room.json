@@ -1,0 +1,32 @@
+{
+  "checksum": "0bdf7d1897b91da6a74aff9527a3d05d",
+  "room": {
+    "id": 31551,
+    "title": [
+      "[The Lighthouse, Stairwell]"
+    ],
+    "description": [
+      "Upon entering the stairwell you spy the massive spiral iron stairs that climb the lighthouse tower.  The terse sounds of footsteps and thunderous conversation echoes down the stairwell and out through an arched opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "16355": "go opening",
+      "31552": "go stairs"
+    },
+    "timeto": {
+      "16355": 0.2,
+      "31552": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201207
+    ]
+  }
+}

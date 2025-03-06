@@ -1,0 +1,28 @@
+{
+  "checksum": "1b30c76132bec1fd7262f0fc6a1b80ed",
+  "room": {
+    "id": 4477,
+    "title": [
+      "[Sister Olba's Holy House]"
+    ],
+    "description": [
+      "An immense fluted marble column stands to the north, surrounded by a series of gilt-work stands.  Each display has been enclosed in glass and contains a collection of holy relics and artifacts.  A burnished plaque sits atop a small stone pillar draped with cobalt blue velvet."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4476": "out",
+      "4478": "northwest"
+    },
+    "timeto": {
+      "4476": 0.2,
+      "4478": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

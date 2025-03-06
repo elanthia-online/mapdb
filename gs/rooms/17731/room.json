@@ -1,0 +1,44 @@
+{
+  "checksum": "6c9aea96178e7332b0000af7c7a544d1",
+  "room": {
+    "id": 17731,
+    "title": [
+      "[Empath Guild, Alchemy Lobby]"
+    ],
+    "description": [
+      "The intricate marquetry of wood from the foyer continues in the spacious lobby, including a narrow pattern of lilies created from white ash set into dark maple that wraps around the walls of the circular room.  Five wood-framed arches lead off from the room to separate patios, allowing a slight breeze to flow through the room carrying with it the scent of honeysuckle.  In the center of the room rests a cushioned bench wrapped around a dark wood pedestal."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south, southwest, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17730": "go archway",
+      "17732": "go stairs",
+      "17735": "west",
+      "17736": "southwest",
+      "17737": "south",
+      "17738": "southeast",
+      "17739": "east"
+    },
+    "timeto": {
+      "17730": 0.2,
+      "17732": 0.2,
+      "17735": 0.2,
+      "17736": 0.2,
+      "17737": 0.2,
+      "17738": 0.2,
+      "17739": 0.2
+    },
+    "uid": [
+      653050
+    ],
+    "image": "rr-empath_guild-1525964802.jpg",
+    "image_coords": [
+      414,
+      208,
+      467,
+      259
+    ]
+  }
+}

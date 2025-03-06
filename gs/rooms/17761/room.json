@@ -1,0 +1,34 @@
+{
+  "checksum": "05993682b7869986221121dbd54b8027",
+  "room": {
+    "id": 17761,
+    "title": [
+      "[Guild Hall, Cavern Passageway]"
+    ],
+    "description": [
+      "A large mural is etched on the stone wall here, drawn in charcoal outlines and mineral-colored pigments.  Crystalline deposits in the walls and ceiling emit diffused warmth and light throughout the passageway."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17760": "southeast",
+      "17772": "north"
+    },
+    "timeto": {
+      "17760": 0.2,
+      "17772": 0.2
+    },
+    "uid": [
+      250016
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      573,
+      227,
+      594,
+      246
+    ]
+  }
+}

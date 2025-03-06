@@ -1,0 +1,58 @@
+{
+  "checksum": "28aa3416a5f5f55922d5c8c5896078f7",
+  "room": {
+    "id": 12110,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A sphere of delicate glass encases you, moving as you do.  Outside the sphere sits the wide, starry universe.  Stars and galaxies stretch before you, spinning in the deep silence of space.  At the edge of your vision, something nags.  Looking, you see a dark shadow passing over the stars, the worlds, creeping and devouring all it touches.  It does not seem to have intentions of stopping, and far too rapidly for comfort, it will overtake all of the glittering motes of space before you."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12110/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12110/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12110/wayto/stringproc-12093.rb",
+      "12109": "east",
+      "12150": "west"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12109": 0.2,
+      "12150": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567055
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1003,
+      780,
+      1013,
+      790
+    ]
+  }
+}

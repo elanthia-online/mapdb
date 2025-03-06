@@ -1,0 +1,34 @@
+{
+  "checksum": "530daf134c9d84b593c991265ed02033",
+  "room": {
+    "id": 24601,
+    "title": [
+      "[Lumnea Meadow]"
+    ],
+    "description": [
+      "A hawthorn tree perches atop a small rise in the grassy meadow.  Its delicate white blossoms drift in the air, scenting the breeze with a faint fragrance.  A thick bed of pink and purple anemone surrounds the base of the gnarled tree.",
+      "A hawthorn tree perches atop a small rise in the grassy meadow.  Its delicate white blossoms glow faintly in the silvery starlight filtering down through the tree's gossamer branches.  A thick bed of flowers surrounds the base of the gnarled tree."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Lumnea Meadow",
+    "wayto": {
+      "24594": "southwest",
+      "24602": "go pavilion",
+      "24603": "east"
+    },
+    "timeto": {
+      "24594": 0.2,
+      "24602": 0.2,
+      "24603": 0.2
+    },
+    "image": "fest-lumnea-16.png",
+    "image_coords": [
+      260,
+      200,
+      280,
+      220
+    ]
+  }
+}

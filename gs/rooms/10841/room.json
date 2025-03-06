@@ -1,0 +1,66 @@
+{
+  "checksum": "c73210a35a334ac207b0b721b3789fcd",
+  "room": {
+    "id": 10841,
+    "title": [
+      "[River's Rest, River Road]"
+    ],
+    "description": [
+      "As the river widens here, the growth along the shallows takes stronger hold.  Reeds and rushes sway gently in the slow-moving current, crowding the odd structures lining the waterfront.  A birch shop nestles next to the Captain's Quarters and a garden-encircled colorful oak dwelling, sunlight glinting off its indigo-hued tile roof.  The noise to the west gives way to the quiet sounds of waterlife of all sorts: croaking frogs, splashing fish, and bustling waterfowl.  Across the river, the forest is held at bay, a world apart from this island retreat.",
+      "As the river widens here, the growth along the shallows takes stronger hold.  Reeds and rushes sway gently in the slow moving current and crowd the odd structures which line the waterfront as far as you can see.  The noise to the west gives way to the quiet sounds of waterlife of all sorts: croaking frogs, splashing fish and silently stalking them both, a heron standing regally at the waters edge.  Across the river, the forest is held at bay and seems a world apart from this island retreat."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "sandy",
+    "wayto": {
+      "10840": "east",
+      "10842": "west",
+      "10887": "go quarters",
+      "32581": "go colorful dwelling",
+      "32583": "go birch shop"
+    },
+    "timeto": {
+      "10840": 0.2,
+      "10842": 0.2,
+      "10887": 0.2,
+      "32581": 0.2,
+      "32583": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "murdroot",
+      "acantha leaf",
+      "cactacae spine",
+      "angelica root",
+      "sagebrush root",
+      "tiger lily",
+      "wingstem root",
+      "bur-clover root",
+      "small coconut",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101002
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2124,
+      1160,
+      2166,
+      1199
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "6f84ae072d291f890e2273d0142f72d9",
+  "room": {
+    "id": 3315,
+    "title": [
+      "[Ice Tunnel, Winding Passage]"
+    ],
+    "description": [
+      "Deep grooves mar the walls of this corridor.  Further inspection leads you to believe that these are sword slices, likely from someone swinging a blade too long for the size of the tunnel.  A shudder passes through you, although from the cold or something else you cannot tell."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3314": "west",
+      "3316": "southeast"
+    },
+    "timeto": {
+      "3314": 0.2,
+      "3316": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130006
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1283,
+      996,
+      1293,
+      1006
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "861b873c10253b2489de209157853223",
+  "room": {
+    "id": 6596,
+    "title": [
+      "[Inner Ward Gateway]"
+    ],
+    "description": [
+      "This is the main gateway into the castle's inner ward.  On each side, octagonal towers flank it, and a wall-walk above it, with parapet walls, offers additional defense.  Once inside, the old portcullis is visible, now frozen in its raised position.  North is the castle's inner yard and beyond that, the castle itself -- finally visible, wrapped like a precious piece of porcelain within its walls and battlements."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6559": "southeast",
+      "6592": "southwest",
+      "6597": "north"
+    },
+    "timeto": {
+      "6559": 0.2,
+      "6592": 0.2,
+      "6597": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285009
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1240,
+      710,
+      1250,
+      720
+    ]
+  }
+}

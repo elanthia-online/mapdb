@@ -1,0 +1,37 @@
+{
+  "checksum": "bf1b2382dec674aa77ade9e13b713d6e",
+  "room": {
+    "id": 32482,
+    "title": [
+      "[Moonsedge Castle, Kitchens]"
+    ],
+    "description": [
+      "The fires of the kitchen hearths burn bright, filling the air with stifling warmth.  Roasting on spits are haunches and limbs of unidentifiable origin that give off a rich, savory scent.  Meticulously kept, counters of grey marble hold racks of fresh spices, cutting boards, and a wide variety of cooking utensils ranging from knives to copper pots.  A swinging door in the western wall leads to an extravagant dining chamber."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32481": "go door",
+      "32485": "east"
+    },
+    "timeto": {
+      "32481": 0.2,
+      "32485": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577217
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1167,
+      764,
+      1191,
+      787
+    ]
+  }
+}

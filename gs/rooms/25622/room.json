@@ -1,0 +1,54 @@
+{
+  "checksum": "0d0e4983054006cabcb75366b645d20a",
+  "room": {
+    "id": 25622,
+    "title": [
+      "[Mistydeep, Upper Reaches]"
+    ],
+    "description": [
+      "Chutes of rushing water sluice over and around a jumble of broken bedrock, forming small cascades where fast-swimming fish seem to congregate, sleek noses pointed upstream.  Here and there, large outcroppings of rock provide platforms for fishermen of all types, including industrious bears.  To the west, nature has formed a stone-rimmed backwater perfect for a refreshing dip or enjoying a soothing soak in its gentle whirlpools."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, west, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "25620": "/rooms/25622/wayto/stringproc-25620.rb",
+      "25621": "/rooms/25622/wayto/stringproc-25621.rb",
+      "25623": "/rooms/25622/wayto/stringproc-25623.rb",
+      "30500": "swim north",
+      "30504": "swim down"
+    },
+    "timeto": {
+      "25620": "/rooms/25622/timeto/stringproc-25620.rb",
+      "25621": "/rooms/25622/timeto/stringproc-25621.rb",
+      "25623": "/rooms/25622/timeto/stringproc-25623.rb",
+      "30500": "/rooms/25622/timeto/stringproc-30500.rb",
+      "30504": "/rooms/25622/timeto/stringproc-30504.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117006
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1083,
+      610,
+      1101,
+      630
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "229de23de4d46d78fb655c9bc5fa5821",
+  "room": {
+    "id": 1776,
+    "title": [
+      "[Gemcutter's, Front Room]"
+    ],
+    "description": [
+      "Inside the Gemcutter's shop, you see two glass showcases holding jewelry and precious stones.  Directly ahead of you is a low desk with several racks holding tools of the Gemcutter's trade."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "298": "out",
+      "6324": "east",
+      "13487": "go narrow door",
+      "30708": "/rooms/1776/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "298": 0.2,
+      "6324": 0.2,
+      "13487": 0.2,
+      "30708": "/rooms/1776/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin-access",
+      "urchin guide gemshop"
+    ],
+    "uid": [
+      4026
+    ]
+  }
+}

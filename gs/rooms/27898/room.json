@@ -1,0 +1,29 @@
+{
+  "checksum": "4fabbc4d1715752ed939480a09c16448",
+  "room": {
+    "id": 27898,
+    "title": [
+      "[Taloin's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "347": "out",
+      "27901": "east",
+      "27902": "north"
+    },
+    "timeto": {
+      "347": 0.2,
+      "27901": 0.2,
+      "27902": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

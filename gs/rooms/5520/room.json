@@ -1,0 +1,77 @@
+{
+  "checksum": "4d07a859d600d80213a8399b0cce04a6",
+  "room": {
+    "id": 5520,
+    "title": [
+      "[Outlands Manor, Courtyard]"
+    ],
+    "description": [
+      "This overgrown courtyard might have been impressive once, but the flagstones are almost entirely hidden by the weeds and bushes that have grown up between them.  A pathway has been trampled through the weeds to the northeast where the tower stands and another to the southeast and the front door of the manor house."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Outlands",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "5519": "go gate",
+      "5521": "northeast",
+      "5522": "southeast"
+    },
+    "timeto": {
+      "5519": 0.2,
+      "5521": 0.2,
+      "5522": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "dobrem",
+      "small wild rose",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "sweet potato",
+      "agave heart",
+      "brown-skinned kiwi",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4215101
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      941,
+      469,
+      951,
+      479
+    ]
+  }
+}

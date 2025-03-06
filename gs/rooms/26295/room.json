@@ -1,0 +1,33 @@
+{
+  "checksum": "73ce9d7023e3988e5ffdbafc7274b1b1",
+  "room": {
+    "id": 26295,
+    "title": [
+      "[Lich Citadel, Wide Hall]"
+    ],
+    "description": [
+      "The hall expands here, yet remains covered in darkness save for the light coming from the strips of white energy running down parallel walls.  A strange clattering sound echoes from further away."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west, up"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26294": "west",
+      "26296": "up",
+      "26297": "southeast"
+    },
+    "timeto": {
+      "26294": 0.2,
+      "26296": 0.2,
+      "26297": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1366,
+      808,
+      1393,
+      834
+    ]
+  }
+}

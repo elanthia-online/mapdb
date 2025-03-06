@@ -1,0 +1,40 @@
+{
+  "checksum": "cc427b10b915d7a015938b29028d7345",
+  "room": {
+    "id": 9239,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "Bolted into the wall are several thick iron chains, every last one shattered so badly that the links are torn wide open.  Scattered about the floor are a few ruined and warped steel manacles, clearly far too weak to hold whatever they may have imprisoned originally."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9214": "climb rope",
+      "9238": "south",
+      "9240": "west"
+    },
+    "timeto": {
+      "9214": 0.2,
+      "9238": 0.2,
+      "9240": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532034
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1308,
+      651,
+      1318,
+      661
+    ]
+  }
+}

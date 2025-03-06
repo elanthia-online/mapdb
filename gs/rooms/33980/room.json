@@ -1,0 +1,35 @@
+{
+  "checksum": "aaf55a99e8202ea872c5707ef390a88c",
+  "room": {
+    "id": 33980,
+    "title": [
+      "[Gavelsdown Hall, Entry]"
+    ],
+    "description": [
+      "Brightly illuminated by polished brass sconces that are evenly spaced upon the crimson and ebon bourde walls, the entry is carpeted with a deep burgundy rug that muffles all sound.  Flanked on the eastern wall by a lacquered ebonwood archway and the western by glass-paned doors, a flight of broad mahogany stairs ascends to the second floor and is decorated with carved balusters."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31568": "out",
+      "31574": "go glass-paned doors",
+      "31575": "go broad stairs",
+      "33982": "go ebonwood archway"
+    },
+    "timeto": {
+      "31568": 0.2,
+      "31574": 0.2,
+      "31575": 0.2,
+      "33982": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "trove"
+    ],
+    "uid": [
+      8084010
+    ]
+  }
+}

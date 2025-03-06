@@ -1,0 +1,24 @@
+{
+  "checksum": "6f6bbe403a8d8cc1eefc794f1cc96050",
+  "room": {
+    "id": 20531,
+    "title": [
+      "[Erythro Island, Crater]"
+    ],
+    "description": [
+      "The crater's rim dips now, creating a descending path that begins to move down into the earthen bowl itself.  The wind slowly subsides as the rocky trails leads down."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20530": "down",
+      "20532": "go rim"
+    },
+    "timeto": {
+      "20530": 0.2,
+      "20532": 0.2
+    }
+  }
+}

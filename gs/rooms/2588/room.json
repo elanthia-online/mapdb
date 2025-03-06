@@ -1,0 +1,56 @@
+{
+  "checksum": "379850b364560de410f8c37ab2878d10",
+  "room": {
+    "id": 2588,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "In the distance walks a tall man.  His robe is grey and tattered, but the frame beneath it remains strong.  Above his head floats the symbol of infinity, black and tarnished as the path he walks.  No matter how rapidly you proceed towards him, you cannot seem to catch him, although he moves no faster than a saunter."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west",
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2585": "northeast",
+      "2587": "west",
+      "2589": "southeast",
+      "2635": "/rooms/2588/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2588/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2588/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2585": 0.2,
+      "2587": 0.2,
+      "2589": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4566010
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      226,
+      670,
+      234,
+      678
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "da48fcba45955c2f665f8a1d03e26dda",
+  "room": {
+    "id": 9064,
+    "title": [
+      "[Ilyra's Fashions]"
+    ],
+    "description": [
+      "Darkly stained maoral walls provide a rich backdrop for the goods displayed here.  A cloak rack rests against one wall of this spacious room.  A graceful archway leads deeper into the shop."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9063": "south",
+      "14093": "go archway"
+    },
+    "timeto": {
+      "9063": 0.2,
+      "14093": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

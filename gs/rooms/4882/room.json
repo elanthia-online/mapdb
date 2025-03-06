@@ -1,0 +1,41 @@
+{
+  "checksum": "9eb0342ce92b8d1914b5a6bcbd8728b9",
+  "room": {
+    "id": 4882,
+    "title": [
+      "[Gyldemar Forest, Cliffside]"
+    ],
+    "description": [
+      "A series of steps carved in the native rock winds down the cliffside, each step worn so smooth at its center that they form more of a treacherously slippery ramp.  Jagged rocks line the deeply incised passage on either side.  The highest point of the cliffs is not too far away now.",
+      "A series of steps carved in the native rock winds down the cliffside, each step worn so smooth at its center that they form more of a treacherously slippery ramp.  Darkness does little to aid in the safety of the steps.  Jagged rocks line the deeply incised passage on either side.  The highest point of the cliffs is not too far away now."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Gyldemar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4880": "climb steps",
+      "4898": "up"
+    },
+    "timeto": {
+      "4880": 0.2,
+      "4898": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030030
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      732,
+      170,
+      742,
+      180
+    ]
+  }
+}

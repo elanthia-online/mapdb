@@ -1,0 +1,39 @@
+{
+  "checksum": "0826b09a9d0d5692e224f54b899a3210",
+  "room": {
+    "id": 4147,
+    "title": [
+      "[Hall of the Dead, Tunnel]"
+    ],
+    "description": [
+      "The torches hanging on the wall burn brightly and the stone beneath your feet echos your steps.  The smell of death is getting stronger as you advance.  Though not as ornate, the room is still painted in the white which allows you to see the entire section of tunnel much like daytime."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4146": "west",
+      "4148": "east"
+    },
+    "timeto": {
+      "4146": 0.2,
+      "4148": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138006
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      722,
+      760,
+      732,
+      770
+    ]
+  }
+}

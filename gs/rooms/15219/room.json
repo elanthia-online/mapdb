@@ -1,0 +1,29 @@
+{
+  "checksum": "7fb7b5a7eb7eae298e690455edd5f366",
+  "room": {
+    "id": 15219,
+    "title": [
+      "[Plur's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a mistwood beam ceiling, an oak-plaqued stuffed trout head hangs on one of the glossy mistwood walls.  A jewel-inlaid caddy and a glass-topped mistwood counter sit in opposite corners while a bathing maiden statue rests on the plank floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "348": "out",
+      "15293": "east",
+      "15294": "north"
+    },
+    "timeto": {
+      "348": 0.2,
+      "15293": 0.2,
+      "15294": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

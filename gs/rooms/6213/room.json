@@ -1,0 +1,62 @@
+{
+  "checksum": "a8780b7c86b02d77bc3039fd7d0991be",
+  "room": {
+    "id": 6213,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "Elaborate architecture melds with the cold, stone walls of earth as the tunnel continues along its path.  A large mosaic has been inset into the ceiling, depicting in vivid detail a warrior-king forcing a bull-headed beast underground."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6212": "/rooms/6213/wayto/stringproc-6212.rb",
+      "6214": "/rooms/6213/wayto/stringproc-6214.rb",
+      "6215": "/rooms/6213/wayto/stringproc-6215.rb",
+      "6216": "/rooms/6213/wayto/stringproc-6216.rb",
+      "6217": "/rooms/6213/wayto/stringproc-6217.rb",
+      "6218": "/rooms/6213/wayto/stringproc-6218.rb",
+      "6219": "/rooms/6213/wayto/stringproc-6219.rb",
+      "6220": "/rooms/6213/wayto/stringproc-6220.rb"
+    },
+    "timeto": {
+      "6212": 0.5,
+      "6214": 0.5,
+      "6215": 0.5,
+      "6216": 0.5,
+      "6217": 0.5,
+      "6218": 0.5,
+      "6219": 0.5,
+      "6220": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167095
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      760,
+      685,
+      778,
+      703
+    ]
+  }
+}

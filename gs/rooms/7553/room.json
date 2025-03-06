@@ -1,0 +1,51 @@
+{
+  "checksum": "d8afff728f0e2490ebbe847b37127e8f",
+  "room": {
+    "id": 7553,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "This section of the passage turns from the south to the east, where it narrows slightly.  Patches of faintly glowing moss cling to the walls, shedding a faint illumination around you.  Small puddles of water have gathered across the floor, making footing slippery at best."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7552": "south",
+      "7554": "east"
+    },
+    "timeto": {
+      "7552": 0.2,
+      "7554": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490009
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      314,
+      937,
+      324,
+      947
+    ]
+  }
+}

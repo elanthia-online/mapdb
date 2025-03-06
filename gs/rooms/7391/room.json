@@ -1,0 +1,44 @@
+{
+  "checksum": "f42418a7ca2a96b24f118738ea051fcb",
+  "room": {
+    "id": 7391,
+    "title": [
+      "[Mine Shaft]"
+    ],
+    "description": [
+      "Something about this part of the shaft sends a chill down your spine.  Warily looking about the area, you find the source of the uneasiness.  Embedded into the walls are the skeletal remains of several unfortunate former humanoids.  From this vantage point you cannot quite make out their race."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7390": "west",
+      "7392": "east"
+    },
+    "timeto": {
+      "7390": 0.2,
+      "7392": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389055
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1386,
+      339,
+      1394,
+      347
+    ]
+  }
+}

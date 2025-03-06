@@ -1,0 +1,37 @@
+{
+  "checksum": "49c579c0cbb739f647a9a9725d99a76b",
+  "room": {
+    "id": 19733,
+    "title": [
+      "[Cavernhold, Lake Shore]"
+    ],
+    "description": [
+      "This is the northwest shore of the lake.  Sitting in the shadows of a small recess is a heavy table of blue-black stone, while scattered about are the many tools necessary for the cleaning and preparing of fresh fish."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19726": "southwest",
+      "19732": "northeast"
+    },
+    "timeto": {
+      "19726": 0.2,
+      "19732": 0.2
+    },
+    "tags": [
+      "meta:trap"
+    ],
+    "uid": [
+      11006
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      300,
+      591,
+      310,
+      599
+    ]
+  }
+}

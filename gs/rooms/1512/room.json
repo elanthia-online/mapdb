@@ -1,0 +1,41 @@
+{
+  "checksum": "89fb9c6d50887688ca065aa2ee5d5f7f",
+  "room": {
+    "id": 1512,
+    "title": [
+      "[Solhaven, Zelia's Court]"
+    ],
+    "description": [
+      "A low wall, constructed of various-sized stones, boards and odd pieces of refuse, surrounds a small plot of land between the end of the paved road and the canal.  A statue of a monkey, almost as tall as a halfling, squats in the middle of the lot, while a middle-aged woman dressed in drab, threadbare robes and an oversized horned helm putters tirelessly about the area, apparently unperturbed by the darkness.",
+      "A low wall, constructed of various-sized stones, boards and odd pieces of refuse, surrounds a small plot of land between the end of the paved road and the canal.  A statue of a monkey, almost as tall as a halfling, squats in the middle of the lot, while a middle-aged woman dressed in drab, threadbare robes and an oversized horned helm putters tirelessly about the area.  A half dozen or so brick-bordered patches of weeds show evidence of unskilled and even detrimental attention."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1511": "south",
+      "28598": "/rooms/1512/wayto/stringproc-28598.rb"
+    },
+    "timeto": {
+      "1511": 0.2,
+      "28598": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902006
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1185,
+      954,
+      1209,
+      978
+    ]
+  }
+}

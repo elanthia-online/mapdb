@@ -1,0 +1,51 @@
+{
+  "checksum": "649764bede707120bd5bce5fabdafc51",
+  "room": {
+    "id": 6995,
+    "title": [
+      "[Darkstone, Plateau]"
+    ],
+    "description": [
+      "Although the trees here have been leveled, their wood remains in the form of gruesome engines of war.  Most have been ravaged by enemies and time to the point of collapse, but one old siege tower still stands defiantly above the battlefield.  An uneasy awareness of death and decay fills you as you scan these twisted monuments to the long forgotten dead of the battle.  To the east of here lies the battered and abandoned remains of a once magnificent castle."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "rough",
+    "wayto": {
+      "6994": "north",
+      "6996": "climb tower",
+      "6997": "east"
+    },
+    "timeto": {
+      "6994": 0.2,
+      "6996": 0.2,
+      "6997": 0.2
+    },
+    "tags": [
+      "sprig of larkspur",
+      "heath aster",
+      "bright red teaberry",
+      "stalk of chicory",
+      "wintergreen leaf",
+      "broken twig",
+      "moonlight cactus-bloom",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      45102
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      158,
+      702,
+      168,
+      712
+    ]
+  }
+}

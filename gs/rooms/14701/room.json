@@ -1,0 +1,31 @@
+{
+  "checksum": "1551ef27624f076835442f076e15f1b5",
+  "room": {
+    "id": 14701,
+    "title": [
+      "[Vestibule]"
+    ],
+    "description": [
+      "Well-secured, iron sconces hold the torches that light this room.  Muffled voices and the clinking of tools come from beyond a steel reinforced archway.  A grey wooden door leads to the office of the foreman, and the registrar's office lies behind a dark brown wooden door."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "14700": "out",
+      "14702": "go #-15664",
+      "14703": "go archway",
+      "34091": "go #-156643"
+    },
+    "timeto": {
+      "14700": 0.2,
+      "14702": 0.2,
+      "14703": 0.2,
+      "34091": 0.2
+    },
+    "uid": [
+      4057002
+    ]
+  }
+}

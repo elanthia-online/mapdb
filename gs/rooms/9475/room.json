@@ -1,0 +1,43 @@
+{
+  "checksum": "bf4b586b814f87ac9271c2dc4db65e95",
+  "room": {
+    "id": 9475,
+    "title": [
+      "[Praeteria's Gems and Jewels]"
+    ],
+    "description": [
+      "A stocky, middle-aged dwarf works behind a long, low counter, sorting gems and purchasing jewels from miners.  A long, wide shelf behind her contains several boxes with various titles.  She purchases the gems, then sorts them into the boxes.  When a box becomes too full, she empties it onto a tray and shoves the tray through an opening in the back wall.  The only other furnishings in this sparse shop are some crates stacked against the south wall and two amber toadstools in stone pots."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9412": "out",
+      "9476": "go doorway",
+      "30712": "/rooms/9475/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9412": 0.2,
+      "9476": 0.2,
+      "30712": "/rooms/9475/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "gemshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide gemshop"
+    ],
+    "uid": [
+      13010003
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      606,
+      585,
+      616,
+      595
+    ]
+  }
+}

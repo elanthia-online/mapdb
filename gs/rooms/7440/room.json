@@ -1,0 +1,52 @@
+{
+  "checksum": "b1641e288279568a8ef036943e419ce0",
+  "room": {
+    "id": 7440,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "A vast plain of large boulders and jagged rocks stretches out to the east, as far as the eye can see.  A high, sheer cliff rises up to the west, making travel in that direction impossible.  The cliff follows a line curving around from the northeast, to the south, and then curving southeast farther in the distance."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7437": "/rooms/7440/wayto/stringproc-7437.rb",
+      "7439": "/rooms/7440/wayto/stringproc-7439.rb",
+      "7441": "/rooms/7440/wayto/stringproc-7441.rb",
+      "7458": "/rooms/7440/wayto/stringproc-7458.rb",
+      "23258": "/rooms/7440/wayto/stringproc-23258.rb"
+    },
+    "timeto": {
+      "7437": 3.2,
+      "7439": 3.2,
+      "7441": 3.2,
+      "7458": 0.2,
+      "23258": 3.2
+    },
+    "tags": [
+      "large black toadstool",
+      "some blackened moss",
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306016
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      597,
+      871,
+      607,
+      881
+    ]
+  }
+}

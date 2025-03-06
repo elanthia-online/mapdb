@@ -1,0 +1,34 @@
+{
+  "checksum": "7ee2e28880063fc1d3897e3ab840d5e5",
+  "room": {
+    "id": 33366,
+    "title": [
+      "[Spindrift Sanctuary, Parlor]"
+    ],
+    "description": [
+      "Lofty vaulted ceilings above are inset with panels of crystal-clear glass revealing the arcing skyscape painting the heavens outside.  Adjacent to a beveled door and a narrow hallway, a motley crew of preserved beast heads hangs over a spacious rune-etched fireplace housed in an encasement of natural stonework.  Hunting-themed oil paintings in gold frames adorn the polished cypress walls with a rustic flair, yielding to a fauna-carved rowan arch on the eastern wall.  An overstuffed tartan couch is grouped with an oaken reading desk and a suede-lined wicker basket."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Spindrift Sanctuary, inside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "33365": "out",
+      "33367": "go rowan arch",
+      "33368": "go beveled door",
+      "33370": "go narrow hallway"
+    },
+    "timeto": {
+      "33365": 0.2,
+      "33367": 0.2,
+      "33368": 0.2,
+      "33370": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022577
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "57083e07eac49b048fa648eb2ea4f4ab",
+  "room": {
+    "id": 29460,
+    "title": [
+      "[Ponclast's Magic Shoppe]"
+    ],
+    "description": [
+      "A Four Winds Isle map hangs on one of the warped driftwood walls, and an etched seaglass ceiling rises overhead.  An ornate bottled ship sits in one corner of a scattered sand floor.  There is a shell-lined bamboo counter on one side of the shop and a fish hook rack on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12266": "out",
+      "29464": "east",
+      "29465": "north"
+    },
+    "timeto": {
+      "12266": 0.2,
+      "29464": 0.2,
+      "29465": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

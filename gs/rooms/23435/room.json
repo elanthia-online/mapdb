@@ -1,0 +1,35 @@
+{
+  "checksum": "c140b786c87e916f42135518c4c312a5",
+  "room": {
+    "id": 23435,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "Through the water, the top edge of a large bed of kelp waves back and forth in the clear, dark blue waters of Darkstone Bay.  Blasting across the surface of the sea, a bone-chillingly cold wind sends saltwater spraying up in violent spasms.  As the mist from the wind's display continually rains down from above, it coats a pile of rocks that jut out from the ocean's surface."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, down"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "23474": "swim northeast",
+      "23491": "swim south",
+      "23511": "go pile rocks",
+      "23514": "swim down"
+    },
+    "timeto": {
+      "23474": 2,
+      "23491": 2,
+      "23511": 0.2,
+      "23514": 2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      524,
+      456,
+      560,
+      494
+    ]
+  }
+}

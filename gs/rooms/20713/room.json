@@ -1,0 +1,42 @@
+{
+  "checksum": "861f1469f80b8bddfad9909629c804ef",
+  "room": {
+    "id": 20713,
+    "title": [
+      "[Etesian Villa, Lounge]"
+    ],
+    "description": [
+      "Surrounded by wood paneling, this small room offers a place to sit and relax.  Several plush rose pink chairs are arranged in a half-circle, facing an arched stone-lined fireplace, a basket of sticks resting nearby.  A long marble counter against one wall holds a variety of refreshments, the wine bottles gleaming in the light from the candelabra perched on the shiny surface, as well as from a panoramic window set in the outer wall.  The hallway can be glimpsed through an open doorway, and a rounded ebonwood arch provides an egress to the north."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "20712": "go doorway",
+      "20714": "go arch",
+      "30713": "/rooms/20713/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "20712": 0.2,
+      "20714": 0.2,
+      "30713": "/rooms/20713/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "premium supernode",
+      "supernode",
+      "urchin-access",
+      "meta:premium"
+    ],
+    "uid": [
+      4002604
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      617,
+      889,
+      739,
+      939
+    ]
+  }
+}

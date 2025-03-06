@@ -1,0 +1,39 @@
+{
+  "checksum": "844820d4749e6ee9f96605c6b9af1147",
+  "room": {
+    "id": 17040,
+    "title": [
+      "[Warrior Guild Basement]"
+    ],
+    "description": [
+      "Heat radiates quite noticably from the upright wooden saunas which line the wall, and the hissing of water being poured on very hot rocks comes from them every so often.  The air is damp, and smells of an odd mix of basement, hot steam, and sweat.  Wet footprints in assorted sizes lead north from the saunas."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven's Warrior Guild",
+    "wayto": {
+      "17033": "north",
+      "17041": "south",
+      "32806": "go sauna"
+    },
+    "timeto": {
+      "17033": 0.2,
+      "17041": 0.2,
+      "32806": 0.2
+    },
+    "tags": [
+      "warrior guild sauna"
+    ],
+    "uid": [
+      254043
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      1416,
+      349,
+      1436,
+      370
+    ]
+  }
+}

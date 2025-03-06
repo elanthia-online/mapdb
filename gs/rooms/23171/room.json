@@ -1,0 +1,26 @@
+{
+  "checksum": "1dea984b2d975b4858504c82458c4874",
+  "room": {
+    "id": 23171,
+    "title": [
+      "[Halfway Midway, Carousel]"
+    ],
+    "description": [
+      "The heavily pigmented colors of the wooden floor and ceiling overhead retain much of their vibrancy, though it is obvious touch-ups have been applied where the color is ever so slightly off.  The hues add a cheery note to the ride, though buried beneath the light, plucky tune of the carousel music, there is a deeper, more halting sound, like the constant grate of metal on metal.  It is so low that it serves as little more than a background to the melody, a hint of sinister in the otherwise tinny tune."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "23165": "northeast",
+      "23169": "southeast",
+      "23173": "/rooms/23171/wayto/stringproc-23173.rb"
+    },
+    "timeto": {
+      "23165": 0.2,
+      "23169": 0.2,
+      "23173": 0.2
+    }
+  }
+}

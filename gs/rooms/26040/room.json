@@ -1,0 +1,27 @@
+{
+  "checksum": "bd8533c60f68dc877e5c6bd4841c2d8a",
+  "room": {
+    "id": 26040,
+    "title": [
+      "[The Falcon, Engineering]"
+    ],
+    "description": [
+      "Approaching the heart of the ship, the lengths of crimson-varnished wood give way to lightless blocks of crystal.  An enclosure of precious metals fans out around a pulsating hexagonal blue crystal, the source of an ethereal pulse bathing the chamber in blue-white luminescence.  Faint, haunting notes pour forth from the depth of the crystal in a strange and unending song."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "The Falcon, inside the seaside town of Solhaven",
+    "wayto": {
+      "26038": "west",
+      "26041": "touch silver orb"
+    },
+    "timeto": {
+      "26038": 0.2,
+      "26041": 0.2
+    },
+    "tags": [
+      "private property"
+    ]
+  }
+}

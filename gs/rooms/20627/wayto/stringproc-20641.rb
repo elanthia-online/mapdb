@@ -1,0 +1,1 @@
+multifput "search", "go crack"

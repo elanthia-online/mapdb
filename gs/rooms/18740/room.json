@@ -1,0 +1,36 @@
+{
+  "checksum": "3f2811213fc63d766e06c8d844348f24",
+  "room": {
+    "id": 18740,
+    "title": [
+      "[Sorcerer Guild, Winding Passage]"
+    ],
+    "description": [
+      "Nearly spherical gouges in the sandstone walls mark where strong eddies in an ancient, underground stream carved around a massive granite intrusion along the eastern face before descending further to the northeast.  A flickering light shines through a roughly triangular opening at the back of one of the gouges."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18734": "northeast",
+      "18741": "go opening",
+      "18742": "southeast"
+    },
+    "timeto": {
+      "18734": 0.2,
+      "18741": 0.2,
+      "18742": 0.2
+    },
+    "uid": [
+      667005
+    ],
+    "image": "en-ta_vaalor-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      486,
+      609,
+      522,
+      644
+    ]
+  }
+}

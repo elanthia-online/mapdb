@@ -1,0 +1,41 @@
+{
+  "checksum": "28b92bde8a26314c4cb6910218f5d383",
+  "room": {
+    "id": 34109,
+    "title": [
+      "[Mine, Crystal Caves]"
+    ],
+    "description": [
+      "You make your way along the walls of a high domed chamber whose polished crystal walls cast infinite reflections around you.  The shifting, kaleidoscopic images created by the prisms confuse you and make it impossible to tell shadow from substance."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west, northwest, up"
+    ],
+    "location": "the crystal caves",
+    "wayto": {
+      "34105": "up",
+      "34107": "west",
+      "34108": "northwest",
+      "34111": "southwest"
+    },
+    "timeto": {
+      "34105": 0.2,
+      "34107": 0.2,
+      "34108": 0.2,
+      "34111": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11"
+    ],
+    "uid": [
+      24072
+    ]
+  }
+}

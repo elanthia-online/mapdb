@@ -1,0 +1,39 @@
+{
+  "checksum": "f33b69618212912b0872148bc060ca7c",
+  "room": {
+    "id": 17360,
+    "title": [
+      "[Warrior Guild, East Hall]"
+    ],
+    "description": [
+      "The arched door to your east stands open, admitting a breeze that stirs the humid air.  The whitewashed walls bear water stains that someone has tried unsuccessfully to hide behind a potted fern.  A utilitarian set of steel armor stands nearby, its surface blooming with the first signs of rust in the damp atmosphere."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17359": "west",
+      "17361": "/rooms/17360/wayto/stringproc-17361.rb",
+      "17368": "/rooms/17360/wayto/stringproc-17368.rb"
+    },
+    "timeto": {
+      "17359": 0.2,
+      "17361": 0.2,
+      "17368": 0.2
+    },
+    "tags": [
+      "warrior guild armor"
+    ],
+    "uid": [
+      253007
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      882,
+      988,
+      903,
+      1006
+    ]
+  }
+}

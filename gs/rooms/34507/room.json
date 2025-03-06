@@ -1,0 +1,52 @@
+{
+  "checksum": "f61d64cb35d50de017ffe5947208257f",
+  "room": {
+    "id": 34507,
+    "title": [
+      "[Bleaklands, Storm Plains]"
+    ],
+    "description": [
+      "The ashy-hued surroundings contrast with the horizon of an endless blackness.  A layered settlement of rocks juts outward, displaying a narrow fissure in the cliff allowing entrance into an underground cavern."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Bleaklands",
+    "climate": "arid",
+    "terrain": "rough",
+    "wayto": {
+      "34506": "west",
+      "34508": "southeast",
+      "34517": "go narrow fissure"
+    },
+    "timeto": {
+      "34506": 0.2,
+      "34508": 0.2,
+      "34517": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "broken twig",
+      "heath aster",
+      "yellow primrose",
+      "small wild rose",
+      "cactus flower",
+      "pepperthorn root",
+      "banana leaf",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      474202
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      134,
+      398,
+      145,
+      410
+    ]
+  }
+}

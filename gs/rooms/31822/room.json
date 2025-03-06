@@ -1,0 +1,41 @@
+{
+  "checksum": "b610a48dc9b65e3ebd8616bc6e9d73f6",
+  "room": {
+    "id": 31822,
+    "title": [
+      "[Gleyminn Anni River, Cavern]"
+    ],
+    "description": [
+      "A curtain of vines partially conceals a yawning cave mouth along the northwestern edge of a tenebrous cavity.  Labyrinthine tunnels branch off in various directions, the watery chambers unlit by golden sunshine or silvery moonbeam.  Lanterns placed into rocky recesses light the way through a navigable passage via watercraft."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31821": "/rooms/31822/wayto/stringproc-31821.rb",
+      "31823": "/rooms/31822/wayto/stringproc-31823.rb"
+    },
+    "timeto": {
+      "31821": 2.2,
+      "31823": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083402
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1137,
+      799,
+      1158,
+      821
+    ]
+  }
+}

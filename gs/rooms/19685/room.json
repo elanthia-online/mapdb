@@ -1,0 +1,42 @@
+{
+  "checksum": "52dc236ea8e0cda62c76e73a3788ee14",
+  "room": {
+    "id": 19685,
+    "title": [
+      "[Cavernhold, Loud Intersection]"
+    ],
+    "description": [
+      "Several passages meet at this point.  The northwest passage seems to lead to a room from which the loud banging of metal on metal can be clearly heard.  The other two passages are dark and silent."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19684": "northeast",
+      "19686": "northwest",
+      "19693": "southwest"
+    },
+    "timeto": {
+      "19684": 0.2,
+      "19686": 0.2,
+      "19693": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10039
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      710,
+      871,
+      717,
+      881
+    ]
+  }
+}

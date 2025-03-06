@@ -1,0 +1,42 @@
+{
+  "checksum": "c5b09c08eb10b6b7e75541e810664b59",
+  "room": {
+    "id": 11557,
+    "title": [
+      "[Krolvin Carrack, Main Deck]"
+    ],
+    "description": [
+      "The deck slants to starboard, making footing awkward.  The mainmast, shattered just above the deckline, angles downward through a splintered bulwark toward the reef below.  Rigging, useless now, lies coiled and scattered around the deck.  The oaken hatchway into the forecastle has been torn partially from its hinges."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Shattered Moors",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11556": "/rooms/11557/wayto/stringproc-11556.rb",
+      "11558": "go hatchway",
+      "11591": "east"
+    },
+    "timeto": {
+      "11556": 0.6,
+      "11558": 0.2,
+      "11591": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420501
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      131,
+      932,
+      141,
+      942
+    ]
+  }
+}

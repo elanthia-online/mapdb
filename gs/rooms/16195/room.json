@@ -1,0 +1,34 @@
+{
+  "checksum": "3c8931251d1a370b3f943c65bc0f6115",
+  "room": {
+    "id": 16195,
+    "title": [
+      "[Beacon Hall, Lighthouse]"
+    ],
+    "description": [
+      "Leaded glass windows spiral upward along the marble walls of this high tower.  A catwalk supporting a complex, crystal-lensed beacon is visible at the top.  In the center of the room a glowing orb rests on an elaborately carved pedestal."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16194": "east",
+      "16196": "south"
+    },
+    "timeto": {
+      "16194": 0.2,
+      "16196": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      409,
+      365,
+      454,
+      410
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "c3eb2bd087f5606282c135529493916d",
+  "room": {
+    "id": 30021,
+    "title": [
+      "[Eldurhaart, Bonfire]"
+    ],
+    "description": [
+      "A raging inferno blazes from a stone-ringed pit dug into a basin within the village's perimeter.  Redolent with the smell of burning pine sap, the air near the blaze is choked with smoke and blistering hot, save when it is dispersed by a cutting gale swooping through the village.  Tree trunks are stacked high a safe distance from the fire, but several have intact roots, as if the boles were ripped from the ground whole in a feat of incredible strength."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30020": "southeast",
+      "30022": "northwest"
+    },
+    "timeto": {
+      "30020": 0.2,
+      "30022": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503349
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1144,
+      600,
+      1159,
+      615
+    ]
+  }
+}

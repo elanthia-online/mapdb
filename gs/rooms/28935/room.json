@@ -1,0 +1,36 @@
+{
+  "checksum": "3aab614b0cc9bb14252a00abaae96170",
+  "room": {
+    "id": 28935,
+    "title": [
+      "[Unburied Treasures]",
+      "[Unburied Treasure]"
+    ],
+    "description": [
+      "The salt-bleached floorboards of this wagon groan ominously underfoot, and a stuffed seagull eyes you suspiciously from a prominent perch directly over the driftwood countertop that dominates the space.  Small chests and crates litter the floor, stacked haphazardly atop each other in places, and each containing some manner of bauble or trinket.  The air is humid and dank in this place, combining with the small room to create a stifling ambience."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28908": "out",
+      "28936": "east",
+      "30716": "/rooms/28935/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28908": 0.2,
+      "28936": 0.2,
+      "30716": "/rooms/28935/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin guide locksmith",
+      "urchin-access",
+      "locksmith",
+      "locksmith shop"
+    ],
+    "uid": [
+      7118381
+    ]
+  }
+}

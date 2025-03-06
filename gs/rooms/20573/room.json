@@ -1,0 +1,24 @@
+{
+  "checksum": "51352f7d3706e559954753e4859e972c",
+  "room": {
+    "id": 20573,
+    "title": [
+      "[Stone Keep, Hall]"
+    ],
+    "description": [
+      "Further into the keep the icy temperature is less jarring but the wind can still be heard from nearby.  The walls of the hallway are devoid of any decorations and look as cold as the air outside."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20572": "east",
+      "20574": "west"
+    },
+    "timeto": {
+      "20572": 0.2,
+      "20574": 0.2
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "36b52b957e5fdd5f32e536c23e2e0c86",
+  "room": {
+    "id": 12421,
+    "title": [
+      "[Abandoned Warehouse, Entry]"
+    ],
+    "description": [
+      "Stacks of boxes form a narrow corridor around you, looking more than a bit unstable in their piling.  A light layer of dust covers them, as if this place had not been cleaned in some time."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "12420": "west",
+      "14089": "/rooms/12421/wayto/stringproc-14089.rb"
+    },
+    "timeto": {
+      "12420": 0.2,
+      "14089": "/rooms/12421/timeto/stringproc-14089.rb"
+    },
+    "tags": [
+      "rogue guild"
+    ],
+    "uid": [
+      262001
+    ],
+    "image": "ti-rogue_guild-1486041266.png",
+    "image_coords": [
+      294,
+      733,
+      415,
+      817
+    ]
+  }
+}

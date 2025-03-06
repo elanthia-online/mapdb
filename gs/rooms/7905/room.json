@@ -1,0 +1,39 @@
+{
+  "checksum": "077c8cde23c8c2a7d37e9708a6e8a04f",
+  "room": {
+    "id": 7905,
+    "title": [
+      "[Glatoph, Vent Hole]"
+    ],
+    "description": [
+      "This shallow tunnel stops at a dead end.  If you examine the far wall, you will notice that the tunnel used to go through -- it looks like fresh lava came bubbling up to this point, then hardened.  Towards the ground is a small crack.  You look around, wondering exactly how stable this mountain is."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4124": "southwest",
+      "8141": "/rooms/7905/wayto/stringproc-8141.rb"
+    },
+    "timeto": {
+      "4124": 0.2,
+      "8141": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35013
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      132,
+      357,
+      142,
+      367
+    ]
+  }
+}

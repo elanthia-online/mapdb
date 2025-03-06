@@ -1,0 +1,24 @@
+{
+  "checksum": "408d7a1669b2e0b7922c9b038ba895c1",
+  "room": {
+    "id": 21466,
+    "title": [
+      "[The Frozen Pioneer, Showroom]"
+    ],
+    "description": [
+      "Spherical glass lanterns are strung from the domed ceiling of the tent, lending a warm glow to the chilly room.  A frosted glass case sits in the center of the room, the base of it covered in a thin layer of dust from the dirt floor.  Off to one side is a many-armed coat rack.  A low humming noise can be heard coming from a tent flap."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20208": "out",
+      "21467": "go flap"
+    },
+    "timeto": {
+      "20208": 0.2,
+      "21467": 0.2
+    }
+  }
+}

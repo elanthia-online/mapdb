@@ -1,0 +1,44 @@
+{
+  "checksum": "eb9d805d752df85c3f0f1f1424d8c84f",
+  "room": {
+    "id": 609,
+    "title": [
+      "[Ta'Illistim, Caear Var]"
+    ],
+    "description": [
+      "Crowds of patrons flock towards a large stone building.  The structure's central rotunda, covered with deep blue tiles, glitters brightly in the sunlight.  Heavily carved columns inlaid with glimmering multi-colored stones flank the structure's wide front doors.",
+      "Set close to the var is a large stone building with a central rotunda.  The building's dome, covered with deep blue tiles, contrasts with its heavily carved white marble columns, though the colorful hue is echoed in its mosaicked pediment."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "608": "southwest",
+      "610": "north",
+      "4022": "go building"
+    },
+    "timeto": {
+      "608": 0.2,
+      "610": 0.2,
+      "4022": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101057
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      959,
+      346,
+      980,
+      366
+    ]
+  }
+}

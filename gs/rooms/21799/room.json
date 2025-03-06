@@ -1,0 +1,31 @@
+{
+  "checksum": "174f46c99b1d13f25e3ea49b4a0d48ed",
+  "room": {
+    "id": 21799,
+    "title": [
+      "[Talador, Mine Road]"
+    ],
+    "description": [
+      "The path runs east across the city walls, moving far beyond Talador and then bends sharply to the northeast.  Plots of snow-covered pine trees tower above, while the northern mountains rise up in the distance."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21798": "southwest",
+      "21800": "east"
+    },
+    "timeto": {
+      "21798": 0.2,
+      "21800": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      405,
+      295,
+      419,
+      309
+    ]
+  }
+}

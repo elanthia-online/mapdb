@@ -1,0 +1,52 @@
+{
+  "checksum": "2dfa567feb90a0dce62aed963f3372ea",
+  "room": {
+    "id": 31613,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Encapsulated on all sides by clotted and tangled brush, a passage slips into Bittermere Wood along the southeastern curve of the boardwalk that passes for a road in this section of town.  Faded planks stretch from sporadic grasses on one side to boggy muck on the other, while a twisted labyrinth of walkways and ramps shoots off into the congested homes built upon stilts to the northwest.  Spindled torches dot the boardwalk, their orange and green flames caged in twisted wire."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "31601": "southwest",
+      "31603": "northwest",
+      "31652": "northeast",
+      "31912": "go two-story house",
+      "31914": "go ebonwood house",
+      "33942": "go panel-inset house"
+    },
+    "timeto": {
+      "31601": 0.2,
+      "31603": 0.2,
+      "31652": 0.2,
+      "31912": 0.2,
+      "31914": 0.2,
+      "33942": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "seedhead of beebalm",
+      "white willow bark",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083020
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      695,
+      466,
+      716,
+      487
+    ]
+  }
+}

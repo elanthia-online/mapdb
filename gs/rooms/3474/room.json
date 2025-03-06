@@ -1,0 +1,44 @@
+{
+  "checksum": "a2b5b5f71d3159196c5e6f67b94c3d5b",
+  "room": {
+    "id": 3474,
+    "title": [
+      "[Deep Freeze, Cave of Ice]"
+    ],
+    "description": [
+      "You are dazzled by an explosion of dancing lights reflected by the occasional sunbeams venturing through the crack into this chamber of ice.  A multitude of gleaming stalactites and stalagmites makes passage through the area a grand feat.",
+      "You are dazzled by an explosion of dancing lights reflected by the occasional moonbeams venturing through the crack into this chamber of ice.  A multitude of gleaming stalactites and stalagmites makes passage through the area a grand feat."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3464": "go crack",
+      "3475": "/rooms/3474/wayto/stringproc-3475.rb"
+    },
+    "timeto": {
+      "3464": 0.2,
+      "3475": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "ironfern root",
+      "meta:forage-sensed",
+      "broken twig",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044139
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      869,
+      669,
+      879,
+      679
+    ]
+  }
+}

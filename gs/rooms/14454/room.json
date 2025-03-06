@@ -1,0 +1,34 @@
+{
+  "checksum": "4cf3317bb8161f8817b05b0bc704b2e0",
+  "room": {
+    "id": 14454,
+    "title": [
+      "[Penitentiary, Entry]"
+    ],
+    "description": [
+      "Hulking granite walls securely enclose the room.  A large duty desk, with a rickety oak chair behind it, sprawls along one wall.  A faintly sour smell drifts into the room through a large, barred gate to the south, and an iron portcullis on the north wall offers access to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11754": "go portcullis",
+      "14455": "west"
+    },
+    "timeto": {
+      "11754": 0.2,
+      "14455": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4757002
+    ]
+  }
+}

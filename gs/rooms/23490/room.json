@@ -1,0 +1,35 @@
+{
+  "checksum": "9195ccc878972d54e825cd26568bea30",
+  "room": {
+    "id": 23490,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "The ocean swells rise up high, crashing down in loud splashes of water and foam.  Small bits of kelp float along the surface of the dark waters."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23483": "/rooms/23490/wayto/stringproc-23483.rb",
+      "32576": "/rooms/23490/wayto/stringproc-32576.rb"
+    },
+    "timeto": {
+      "23483": 3.2,
+      "32576": 3.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336802
+    ]
+  }
+}

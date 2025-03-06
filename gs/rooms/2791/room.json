@@ -1,0 +1,33 @@
+{
+  "checksum": "feb16d6f488f9a5ad90beafe68bd395d",
+  "room": {
+    "id": 2791,
+    "title": [
+      "[Pinefar, Second Floor Hallway]"
+    ],
+    "description": [
+      "A tall, leaded-glass window stretching from rafters to floor cuts off the hall's further progress, offering in exchange an expansive view of the pine-mantled mountains surrounding the inn.  On the left is a handsome oak door and opposite that, a large painting occupies almost the entire wall.  The wintry light sparkles through the diamond shaped panes in the window, throwing reflections off the polish of the oak floor.",
+      "A tall, leaded-glass window stretching from rafters to floor cuts off the hall's further progress, offering in exchange an expansive view of the pine-mantled mountains surrounding the inn.  On the left is a handsome oak door and opposite that, a large painting occupies almost the entire wall.  The wintry moonlight sparkles through the diamond shaped panes in the window, throwing reflections off the polish of the oak floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "2790": "southeast",
+      "15603": "go door"
+    },
+    "timeto": {
+      "2790": 0.2,
+      "15603": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4564204
+    ]
+  }
+}

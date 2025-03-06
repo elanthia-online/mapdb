@@ -1,0 +1,24 @@
+{
+  "checksum": "518e3ca62b320736b1f712557377bde4",
+  "room": {
+    "id": 29360,
+    "title": [
+      "[Sew Nice, Gallery]"
+    ],
+    "description": [
+      "An expansive braided rug of eggplant silk stretches across the oak floor to protect it from the feet of the various display racks and tables filling the area.  A shoe rack is carefully cradled beneath a linen-draped display table where several accessories are available to purchase.  Nearby, a curved brass display rack proudly displays several dresses.  A jeweled door leads back out to the market."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29359": "go door",
+      "29361": "west"
+    },
+    "timeto": {
+      "29359": 0.2,
+      "29361": 0.2
+    }
+  }
+}

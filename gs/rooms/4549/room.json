@@ -1,0 +1,47 @@
+{
+  "checksum": "18b93a8deb14955c0b63b1061133ebf7",
+  "room": {
+    "id": 4549,
+    "title": [
+      "[Dark Tunnel]"
+    ],
+    "description": [
+      "Trails of hoof prints lead in from the north and turn into the adjacent tunnels.  A slight breeze of musty air makes itself known though you are not certain from which direction it originates."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4548": "northwest",
+      "4550": "northeast",
+      "4553": "north"
+    },
+    "timeto": {
+      "4548": 0.2,
+      "4550": 0.2,
+      "4553": 0.2
+    },
+    "tags": [
+      "blackgrove root",
+      "ghostly pooka",
+      "cave moss",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389010
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1141,
+      591,
+      1151,
+      601
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "f8c0f1409edce8ad187560178c621bc5",
+  "room": {
+    "id": 34348,
+    "title": [
+      "[Titan's Crown, Tempest Shore]"
+    ],
+    "description": [
+      "Set back from the water's edge, a large round stone hut partially conceals the mouth of a cave.  Always assailing, powerful gusts of wind blow between them and create something like a low whistle; a sad and mournful song."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Stormpeak",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "34346": "west",
+      "34349": "go cave",
+      "34350": "go hut"
+    },
+    "timeto": {
+      "34346": 0.2,
+      "34349": 0.2,
+      "34350": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13150409
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1095,
+      311,
+      1113,
+      328
+    ]
+  }
+}

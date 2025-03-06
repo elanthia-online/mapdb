@@ -1,0 +1,30 @@
+{
+  "checksum": "3d307b84a143febf457cb536b8acd677",
+  "room": {
+    "id": 33046,
+    "title": [
+      "[Lapis Lounge, Cubbyhole]"
+    ],
+    "description": [
+      "This narrow, cramped space ends abruptly at a curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "25883": "pull small lever",
+      "33047": "go curtain"
+    },
+    "timeto": {
+      "25883": 0.2,
+      "33047": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sovyn"
+    ],
+    "uid": [
+      3003114
+    ]
+  }
+}

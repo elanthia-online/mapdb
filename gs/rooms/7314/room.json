@@ -1,0 +1,43 @@
+{
+  "checksum": "e17e46327f5860bd8eb7fa7063a8eb9b",
+  "room": {
+    "id": 7314,
+    "title": [
+      "[Narrow Tunnel]"
+    ],
+    "description": [
+      "Chilly air wafts toward you from the southwest carrying with it a cloying smell that makes you gag.  Peering in that direction you can see no visible end to the confined passage that you are in now.  Off to the east, the tunnel seems to widen a bit and you can almost make out a larger passage, or perhaps a small chamber."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7315": "east",
+      "22426": "southwest"
+    },
+    "timeto": {
+      "7315": 0.2,
+      "22426": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2150013
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      941,
+      482,
+      951,
+      492
+    ]
+  }
+}

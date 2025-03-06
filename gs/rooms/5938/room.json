@@ -1,0 +1,47 @@
+{
+  "checksum": "b0f25d5194d7d20c843cff3b8109f327",
+  "room": {
+    "id": 5938,
+    "title": [
+      "[Catacombs, Pool]"
+    ],
+    "description": [
+      "Swimming might be easier than walking in this chamber, since it is filled with water from a broken pipe nearby.  The walls and floors are worn smooth due to the constant flow of the water.  Bodies of drowned small rodents float on the water and in one of the corners a massive collection of them are visible."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5937": "northeast",
+      "5939": "southwest"
+    },
+    "timeto": {
+      "5937": 0.2,
+      "5939": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "white hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009027
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      203,
+      790,
+      211,
+      801
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "1d997d136879189d46da88e7355d4623",
+  "room": {
+    "id": 15307,
+    "title": [
+      "[Perivan's Magic Shoppe]",
+      "[Perivan's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by mahogany paneled walls, the shop features a worn rug in the center of its mahogany floor.  A tattered merchant permit hangs under the vaulted ceiling.  Right near the front is a vine-carved mahogany table and a gold-leafed mistwood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15168": "west"
+    },
+    "timeto": {
+      "15168": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

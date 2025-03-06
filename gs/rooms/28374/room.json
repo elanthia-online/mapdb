@@ -1,0 +1,31 @@
+{
+  "checksum": "bf206d45d5e8ed1d60f1562bc0700d02",
+  "room": {
+    "id": 28374,
+    "title": [
+      "[Moonstone Abbey, Great Library]"
+    ],
+    "description": [
+      "Row after row of thick leather-bound tomes fill the huge black willow bookshelves that line the walls of this huge open chamber, surrounding the long oak tables which have been arranged in an orderly fashion in the middle of the room.  Plush light grey carpeting extends from the entryway to cover the entire floor of the library, muffling the occasional noises from those who come here seeking knowledge.  An immense portrait in a gilded frame rests on the wall above the entryway."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28356": "south",
+      "28375": "west",
+      "28389": "east",
+      "28390": "north"
+    },
+    "timeto": {
+      "28356": 0.2,
+      "28375": 0.2,
+      "28389": 0.2,
+      "28390": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

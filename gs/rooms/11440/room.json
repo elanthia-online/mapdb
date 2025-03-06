@@ -1,0 +1,54 @@
+{
+  "checksum": "63b3f317b51fe1ea6b564807a74946b7",
+  "room": {
+    "id": 11440,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "Maelstrom Bay stretches out in all directions.  Foam-flecked swells roll in from the great western sea in a long, dilatory, rhythmic motion.  The roof of a tower is visible on the mainland to the northeast.  Sea birds pirouette above a wide patch of floating sargassum."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11441": "/rooms/11440/wayto/stringproc-11441.rb",
+      "11443": "/rooms/11440/wayto/stringproc-11443.rb",
+      "11444": "/rooms/11440/wayto/stringproc-11444.rb",
+      "11445": "/rooms/11440/wayto/stringproc-11445.rb",
+      "11453": "/rooms/11440/wayto/stringproc-11453.rb",
+      "11454": "/rooms/11440/wayto/stringproc-11454.rb",
+      "11455": "/rooms/11440/wayto/stringproc-11455.rb",
+      "16041": "/rooms/11440/wayto/stringproc-16041.rb",
+      "16121": "/rooms/11440/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11441": 2,
+      "11443": 2,
+      "11444": 2,
+      "11445": 2,
+      "11453": 2,
+      "11454": 2,
+      "11455": 2,
+      "16041": 2,
+      "16121": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304028
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      675,
+      1207,
+      685,
+      1217
+    ]
+  }
+}

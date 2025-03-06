@@ -1,0 +1,46 @@
+{
+  "checksum": "5abd7cbc0355879303a4285fb20b9410",
+  "room": {
+    "id": 7626,
+    "title": [
+      "[The Black Sands]"
+    ],
+    "description": [
+      "The waves break into white foam and come rolling up the black beach.  A magnificent sandcastle stands lone sentry near the tide line.  Every few minutes, a wave comes along and sweeps over it, but it remains whole and unmarred."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "7625": "east",
+      "7627": "west",
+      "30581": "/rooms/7626/wayto/stringproc-30581.rb"
+    },
+    "timeto": {
+      "7625": 0.2,
+      "7627": 0.2,
+      "30581": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      85008
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      88,
+      529,
+      98,
+      539
+    ]
+  }
+}

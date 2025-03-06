@@ -1,0 +1,38 @@
+{
+  "checksum": "950c36a4d4193e563f6d1678b259fd98",
+  "room": {
+    "id": 28225,
+    "title": [
+      "[Town Barracks, Entryway]"
+    ],
+    "description": [
+      "The stone floor of the barracks entrance expands out in all directions, its smooth surface marred by numerous boot scuffs.  To the east, through an open archway, the glimmer of metal armor and weapons can be seen, while the clatter and chatter of the dining hall echoes in from the south.  A wide wooden stairwell dominates the western wall, rising up to reach the second floor."
+    ],
+    "paths": [
+      "Obvious exits: east, south, out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "21688": "out",
+      "28226": "go stairwell",
+      "28232": "east",
+      "28233": "south"
+    },
+    "timeto": {
+      "21688": 0.2,
+      "28226": 0.2,
+      "28232": 0.2,
+      "28233": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336216
+    ]
+  }
+}

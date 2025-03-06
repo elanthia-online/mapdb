@@ -1,0 +1,29 @@
+{
+  "checksum": "30c800bc38cb3c4e98c65a0806bbdb5b",
+  "room": {
+    "id": 29569,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "28224": "go curtain"
+    },
+    "timeto": {
+      "28224": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Annex, House Sylvanfair Lobby\\]$/",
+      "meta:locker"
+    ],
+    "uid": [
+      3215124
+    ]
+  }
+}

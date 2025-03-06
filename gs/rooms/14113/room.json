@@ -1,0 +1,36 @@
+{
+  "checksum": "cdfbcbcaf564431d4d840c1b53e69de8",
+  "room": {
+    "id": 14113,
+    "title": [
+      "[Warehouse, First Floor]"
+    ],
+    "description": [
+      "The floor of the warehouse creaks and groans underfoot.  A thin layer of dust coats everything, and packing straw collects in almost every corner, nook, and crack.  The boxes and crates part to allow passage to the east and north from here."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "5689": "east",
+      "14114": "go stairs",
+      "14119": "north"
+    },
+    "timeto": {
+      "5689": 0.2,
+      "14114": 0.2,
+      "14119": 0.2
+    },
+    "uid": [
+      4219321
+    ],
+    "image": "vo-warehouse_lockers-1485119080.png",
+    "image_coords": [
+      453,
+      1418,
+      555,
+      1467
+    ]
+  }
+}

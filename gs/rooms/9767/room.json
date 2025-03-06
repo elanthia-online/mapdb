@@ -1,0 +1,38 @@
+{
+  "checksum": "5ec99604ec4e5e541b59f367d5d09cfb",
+  "room": {
+    "id": 9767,
+    "title": [
+      "[Maaghara Tower, Dead End]"
+    ],
+    "description": [
+      "The passageway comes to an abrupt end in a small, dark niche.  Ridges run underfoot through the floor and up into the walls, making the footing somewhat treacherous and uneven.  The walls have a rough, wavy texture with the exception of the far one, which is smooth and made of wood.  Occasionally, the entire room shudders in a rhythmic, pulsing motion and contracts in upon itself before returning to its normal size."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9746": "west",
+      "9804": "/rooms/9767/wayto/stringproc-9804.rb"
+    },
+    "timeto": {
+      "9746": 0.2,
+      "9804": 1.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021022
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      861,
+      464,
+      871,
+      474
+    ]
+  }
+}

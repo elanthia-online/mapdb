@@ -1,0 +1,69 @@
+{
+  "checksum": "827eebe0b66cb92da1ac6258a9496aa9",
+  "room": {
+    "id": 6225,
+    "title": [
+      "[Labyrinth]"
+    ],
+    "description": [
+      "The pitch black stone passage continues in several directions with no remarkable changes, immersed in silence."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6222": "/rooms/6225/wayto/stringproc-6222.rb",
+      "6223": "/rooms/6225/wayto/stringproc-6223.rb",
+      "6224": "/rooms/6225/wayto/stringproc-6224.rb",
+      "6226": "west",
+      "6229": "/rooms/6225/wayto/stringproc-6229.rb",
+      "6230": "/rooms/6225/wayto/stringproc-6230.rb",
+      "6231": "/rooms/6225/wayto/stringproc-6231.rb",
+      "6232": "/rooms/6225/wayto/stringproc-6232.rb",
+      "6233": "/rooms/6225/wayto/stringproc-6233.rb",
+      "6234": "/rooms/6225/wayto/stringproc-6234.rb",
+      "6235": "/rooms/6225/wayto/stringproc-6235.rb"
+    },
+    "timeto": {
+      "6222": 0.5,
+      "6223": 0.5,
+      "6224": 0.5,
+      "6226": 0.2,
+      "6229": 0.5,
+      "6230": 0.5,
+      "6231": 0.5,
+      "6232": 0.5,
+      "6233": 0.5,
+      "6234": 0.5,
+      "6235": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "genkew mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167121
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      977,
+      235,
+      995,
+      253
+    ]
+  }
+}

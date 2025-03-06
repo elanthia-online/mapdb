@@ -1,0 +1,38 @@
+{
+  "checksum": "b5840fc69d96c584d20afcba485ee66c",
+  "room": {
+    "id": 16755,
+    "title": [
+      "[Temple Wyneb, Tanthuz]"
+    ],
+    "description": [
+      "Cut into the gleaming white walls are small hollows where bright flames burn, though no soot marks the stone.  Your presence is multiplied through shadows which caper around you in a silent ring."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16751": "south",
+      "16756": "east"
+    },
+    "timeto": {
+      "16751": 0.2,
+      "16756": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300055
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      609,
+      712,
+      619,
+      722
+    ]
+  }
+}

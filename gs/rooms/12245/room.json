@@ -1,0 +1,49 @@
+{
+  "checksum": "7e69e5f0755d81ac6674d65ac831a2a1",
+  "room": {
+    "id": 12245,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "A fresh smell haunts the chill air here, and underfoot, the ground is green-tinged and full of seeds.  What looks to be strips of cucumber are laid out side by side, studded here and there by a sliced ring of black olive.  Opaque granules the size of small apples appear to have been sprinkled over the cucumbers, and looking up finds a substance that is very pale and porous, much like bread.  Though there is no crust on the odd ceiling above, it has been smeared with a white and green-flecked substance.",
+      "Underfoot, the ground is slippery, slopped with a sort of brown goo -- it resembles a heavy sort of gravy.  Beneath the sludge are strips of meat, the smell of which wafts upward in waves of warmth.  Looking over the edge of this platform of meat finds a crust of bread all around, and instead of a sky above, there is the color of wheat on a substance that looks soft and porous."
+    ],
+    "paths": [
+      "Obvious paths: north, up, down",
+      "Obvious exits: north, up, down"
+    ],
+    "location": "the Rift",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12244": "up",
+      "12246": "down",
+      "12251": "north"
+    },
+    "timeto": {
+      "12244": 0.2,
+      "12246": 0.2,
+      "12251": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4571030
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      294,
+      599,
+      318,
+      623
+    ]
+  }
+}

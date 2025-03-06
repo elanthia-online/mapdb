@@ -1,0 +1,24 @@
+{
+  "checksum": "d47e30927b41a3ef7f8dfe491a222022",
+  "room": {
+    "id": 20182,
+    "title": [
+      "[Foxfire Manor, Drowned Walk]"
+    ],
+    "description": [
+      "The cracked foundation of the manor is evident in the dizzying tilt of the walls in what was once a ballroom.  A peacock-shaped chandelier, plucked clean of its crystalline plumage, hangs at an angle from the low ceiling.  Its base is scarred from numerous attempts to pry it free.  With the floor lost to several feet of water, the path from a set of warped double doors in the west to a huge shattered window of smoked glass in the eastern wall is a series of granite stepping stones."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20181": "go doors",
+      "20183": "go window"
+    },
+    "timeto": {
+      "20181": 0.2,
+      "20183": 0.2
+    }
+  }
+}

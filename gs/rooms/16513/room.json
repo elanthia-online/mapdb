@@ -1,0 +1,29 @@
+{
+  "checksum": "f63f0a6fa462ddd014eea72136b1e1b7",
+  "room": {
+    "id": 16513,
+    "title": [
+      "[Moswell's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a knotted oak ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A long mistwood counter and some carved haon pegs sit in opposite corners while some woven linen pillows rests on a sturdy planked floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12264": "out",
+      "16522": "east",
+      "16523": "north"
+    },
+    "timeto": {
+      "12264": 0.2,
+      "16522": 0.2,
+      "16523": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

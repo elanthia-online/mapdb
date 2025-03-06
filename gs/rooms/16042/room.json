@@ -1,0 +1,29 @@
+{
+  "checksum": "da2f6213d32e9b6ba50ef663825361f0",
+  "room": {
+    "id": 16042,
+    "title": [
+      "[Arkhaine's Outfitting]",
+      "[Arkhaine's Armory]"
+    ],
+    "description": [
+      "Beneath a steeply angled ceiling, a pair of cast iron sconces hangs on one of the whitewashed stucco walls.  A wide brass-handled cabinet and a clawfooted cherrywood table sit in opposite corners while a small potted lemon tree rests on a carpet-covered floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "wayto": {
+      "10876": "out",
+      "16111": "south",
+      "16112": "north"
+    },
+    "timeto": {
+      "10876": 0.2,
+      "16111": 0.2,
+      "16112": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

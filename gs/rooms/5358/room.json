@@ -1,0 +1,71 @@
+{
+  "checksum": "a1687638577dded05beb9f4f76fe4914",
+  "room": {
+    "id": 5358,
+    "title": [
+      "[Vornavian Coast, Forest Road]"
+    ],
+    "description": [
+      "The path here is choked with weeds and vines.  Bushes close in on the path, nearly closing it to further travel.  The main road to the northwest looks much easier to travel.  The path grows rougher to the east.  Shaped like a balled-up fist with a single extended finger, a large boulder points accusingly at the bone white tower looming above you on a rocky hillock."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "temperate",
+    "terrain": "barren scrub",
+    "wayto": {
+      "5356": "northwest",
+      "5381": "east",
+      "5390": "/rooms/5358/wayto/stringproc-5390.rb"
+    },
+    "timeto": {
+      "5356": 0.2,
+      "5381": 0.2,
+      "5390": 0.2
+    },
+    "tags": [
+      "handful of currants",
+      "wild strawberry",
+      "pink clover blossom",
+      "cactacae spine",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "stalk of chicory",
+      "elderberries",
+      "wild grapes",
+      "broken twig",
+      "sprig of alyssum",
+      "golden buttercup",
+      "red clover blossom",
+      "white clover blossom",
+      "purple clover blossom",
+      "yellow clover blossom",
+      "stalk of goldenrod",
+      "sprig of larkspur",
+      "yellow primrose",
+      "small wild rose",
+      "sprig of wild lilac",
+      "Imaera's Lace",
+      "wild chokecherry",
+      "pepperthorn root",
+      "ironfern root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "fire lily",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4218322
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1332,
+      794,
+      1342,
+      804
+    ]
+  }
+}

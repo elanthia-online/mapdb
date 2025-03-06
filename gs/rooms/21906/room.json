@@ -1,0 +1,37 @@
+{
+  "checksum": "81f882338a6030ca5d9138252c6850e6",
+  "room": {
+    "id": 21906,
+    "title": [
+      "[Talador, North Circle]"
+    ],
+    "description": [
+      "Citizens and visitors roam about the curved street, stopping at each shop or wagon along the way.  Armored city guards move slowly through the crowd, their eyes sharp and alert."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21902": "east",
+      "21907": "go gear-adorned tent",
+      "21908": "go wagon",
+      "21909": "go dark tent",
+      "21910": "southwest"
+    },
+    "timeto": {
+      "21902": 0.2,
+      "21907": 0.2,
+      "21908": 0.2,
+      "21909": 0.2,
+      "21910": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      138,
+      43,
+      164,
+      69
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "5243b999a3e62e1cf0b18d76e9328034",
+  "room": {
+    "id": 33727,
+    "title": [
+      "[A Stone Chamber]"
+    ],
+    "description": [
+      "A single oil lamp hanging from the high vaulted ceiling illuminates the small oval chamber.  Smooth, gold-veined white marble walls rise into the shadowed darkness.  Firmly bolted to the wall at one side of the room is a small, copper ring.  At the far end of the chamber is a simple curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "33726": "pull ring",
+      "33728": "go opening"
+    },
+    "timeto": {
+      "33726": 0.2,
+      "33728": 0.2
+    },
+    "uid": [
+      13112217
+    ]
+  }
+}

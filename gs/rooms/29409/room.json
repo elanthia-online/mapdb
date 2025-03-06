@@ -1,0 +1,24 @@
+{
+  "checksum": "726a115f314c5cd68597bb788e831e07",
+  "room": {
+    "id": 29409,
+    "title": [
+      "[A Great Offense]"
+    ],
+    "description": [
+      "The plush emerald green rug covers most of the fel wood that form the floor of the wagon.  Placed up against one wall is a long birch table, while a tall sycamore display and a thin pine rack line the opposite.  A scratched kelyn hatch leads into the rear of the wagon."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29408": "west",
+      "29410": "go hatch"
+    },
+    "timeto": {
+      "29408": 0.2,
+      "29410": 0.2
+    }
+  }
+}

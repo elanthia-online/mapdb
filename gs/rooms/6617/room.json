@@ -1,0 +1,40 @@
+{
+  "checksum": "7cb510d48d258fb5b9e044d4fa2088ea",
+  "room": {
+    "id": 6617,
+    "title": [
+      "[Cavern Niche]"
+    ],
+    "description": [
+      "Once past the perimeter of the pentagram, the room narrows into a curved niche.  Mounted on the stone of the back wall is a large mirror, its frame thickly carved with serpentine figures that writhe and curl around each other.  The mirror seems strangely compelling."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6615": "north",
+      "6616": "northeast",
+      "6618": "northwest"
+    },
+    "timeto": {
+      "6615": 0.2,
+      "6616": 0.2,
+      "6618": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285057
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      947,
+      723,
+      957,
+      733
+    ]
+  }
+}

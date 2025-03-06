@@ -1,0 +1,46 @@
+{
+  "checksum": "c9c06c5032059f8c1082eea82805112e",
+  "room": {
+    "id": 7579,
+    "title": [
+      "[Dark Cavern, Dead End]"
+    ],
+    "description": [
+      "The passage ends suddenly here, blocked by a wall of rubble where the tunnel has collapsed.  The glowing greenish lichen that covers the landslide is well-worn in several places as if someone or something had crawled over it many times, and a slight current of fresh air seems to come from above."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "292": "go wall of rubble",
+      "7578": "southeast"
+    },
+    "timeto": {
+      "292": 0.2,
+      "7578": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "meta:noteleport:fwi",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47010
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      64,
+      1182,
+      74,
+      1192
+    ]
+  }
+}

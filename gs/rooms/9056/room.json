@@ -1,0 +1,51 @@
+{
+  "checksum": "8f1d2f106367c3778668f451269535f1",
+  "room": {
+    "id": 9056,
+    "title": [
+      "[Warrior Guild Entryway]"
+    ],
+    "description": [
+      "The unadorned facade of a sturdy limestone building rises before you, its weathered surface broken only by several vertical slits in the ancient stone and a heavy mithril portcullis bearing an engraved brass plaque.  Well-groomed hedges fill the small flagstone courtyard with a peaceful scent of sunlit leaves, but the sounds of grunts and clashing weapons echoing from somewhere above dispel any sense of calm.",
+      "The unadorned facade of a sturdy limestone building rises before you, its weathered surface broken only by several vertical slits in the ancient stone and a heavy mithril portcullis bearing an engraved brass plaque.  Well-groomed hedges fill the small flagstone courtyard with a peaceful scent of moonlit leaves, but the sounds of grunts and clashing weapons echoing from somewhere above dispel any sense of calm."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Solhaven's Warrior Guild",
+    "wayto": {
+      "1459": "go steps",
+      "17001": "go portcullis",
+      "30710": "/rooms/9056/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1459": 0.2,
+      "17001": "/rooms/9056/timeto/stringproc-17001.rb",
+      "30710": "/rooms/9056/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "meta:mapname:Warrior Guilds",
+      "meta:mapcategory:Guilds",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Vornavis",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:River's Rest",
+      "meta:mapcategory:Teras Isle",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warriorguild",
+      "warrior guild"
+    ],
+    "uid": [
+      254001
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      1047,
+      349,
+      1067,
+      370
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "bf44626355db3bdeb4ae837440cffc5f",
+  "room": {
+    "id": 1472,
+    "title": [
+      "[Solhaven, North Market South]"
+    ],
+    "description": [
+      "A young lad in a tattered tunic sits begging in front of a half-timber store, fending off any that would encroach on his domain with a deadly glare.  To the north, the hawking of merchants, arguments of bargainers and shuffle of wares and boots combine to form an almost pleasant din."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1438": "north",
+      "1460": "east",
+      "1473": "west",
+      "13238": "go shop",
+      "30710": "/rooms/1472/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1438": 0.2,
+      "1460": 0.2,
+      "1473": 0.2,
+      "13238": 0.2,
+      "30710": "/rooms/1472/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "advpickup",
+      "urchin-access",
+      "trash",
+      "meta:trashcan:old barrel",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209039
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      941,
+      639,
+      965,
+      663
+    ]
+  }
+}

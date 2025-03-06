@@ -1,0 +1,37 @@
+{
+  "checksum": "84aab30cba75358eb5d7c1e571b4a356",
+  "room": {
+    "id": 33443,
+    "title": [
+      "[House Aspis, Secret Vault]"
+    ],
+    "description": [
+      "This is the strong room of the House.  Treasure and important papers are kept here in a massive iron safe anchored to the floor.  A small wooden table sits in front of it for use in handling money and for storing important but less valuable items."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "33442": "go iron door",
+      "33444": "west"
+    },
+    "timeto": {
+      "33442": 0.2,
+      "33444": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102508
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      384,
+      1247,
+      519,
+      1309
+    ]
+  }
+}

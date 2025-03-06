@@ -1,0 +1,33 @@
+{
+  "checksum": "df6193f63b248db8bfdca4fb6c8e0aa5",
+  "room": {
+    "id": 29499,
+    "title": [
+      "[Retrone's General Store]"
+    ],
+    "description": [
+      "The broad sweep of the mahogany floor is interrupted by a worn rug.  Halfway to the vaulted ceiling, a tattered merchant permit hangs on one of the mottled grey marble walls.  A gold-leafed mistwood cabinet and an engraved copper bin are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "353": "go out",
+      "29500": "north",
+      "29501": "south"
+    },
+    "timeto": {
+      "353": 0.2,
+      "29500": 0.2,
+      "29501": 0.2
+    },
+    "tags": [
+      "retrone",
+      "meta:playershop"
+    ],
+    "uid": [
+      639313
+    ]
+  }
+}

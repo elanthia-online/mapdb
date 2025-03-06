@@ -1,0 +1,49 @@
+{
+  "checksum": "6173e9b5dfafa803d2c1ed8a7a2a847d",
+  "room": {
+    "id": 2469,
+    "title": [
+      "[Commerce Burrow, Dwarven Circle]"
+    ],
+    "description": [
+      "Hard-looking sylvankind and half-krolvin trappers, burdened with pelts and furs from the wilds beyond, trudge southeast toward the local furrier.  A raw timber cottage faces the street, the snow cleared from its front path.  The trilling of a flute drifts from the cottage's doorway, gently punctuating the din of the bazaar to the east.",
+      "Passing merchants, laden with pelts of all shapes and sizes, trudge southeast towards Furryback's Pelt and Skin.  An earthen-worked cottage faces the street, the snow cleared from its front path.  The trilling sounds of a flute drift from the cottage's doorway.  To the east lie the sights and sounds of the Icemule Bazaar."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast",
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2465": "southeast",
+      "2470": "east",
+      "2472": "northeast",
+      "3395": "go doorway",
+      "34066": "north"
+    },
+    "timeto": {
+      "2465": 0.2,
+      "2470": 0.2,
+      "2472": 0.2,
+      "3395": 0.2,
+      "34066": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042312
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      758,
+      1053,
+      794,
+      1089
+    ]
+  }
+}

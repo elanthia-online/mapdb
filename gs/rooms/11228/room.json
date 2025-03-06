@@ -1,0 +1,65 @@
+{
+  "checksum": "51ab64ef85b708a2c9a187cf2ee6db54",
+  "room": {
+    "id": 11228,
+    "title": [
+      "[Citadel, Outside]"
+    ],
+    "description": [
+      "Before you stands an old, but relatively intact, building.  The crumbly walls appear to have once been painted white, but have since yellowed with weather and age.  A small door set into the wall hangs on by its rusted hinges, a sharp, distinct odor drifting out from within.  Moss covered walkways lead off in several directions, but the passing mist obscures whatever might lay down them."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "the Citadel",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11224": "northeast",
+      "11226": "northwest",
+      "11229": "go door",
+      "11257": "south"
+    },
+    "timeto": {
+      "11224": 0.2,
+      "11226": 0.2,
+      "11229": 0.2,
+      "11257": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "murdroot",
+      "withered black mushroom",
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "motherwort",
+      "murkweed",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2102039
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      360,
+      606,
+      370,
+      616
+    ]
+  }
+}

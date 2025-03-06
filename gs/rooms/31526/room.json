@@ -1,0 +1,30 @@
+{
+  "checksum": "73dbf8479d821124fb512dda3b8fc9aa",
+  "room": {
+    "id": 31526,
+    "title": [
+      "[Cormorant's Roost, Office]"
+    ],
+    "description": [
+      "Wall-to-ceiling shelves of rich mahogany boast gold-framed glass cases, the containers intermingled with various relics and antiques angled across the darkly lacquered wood.  A map-covered driftwood desk dominates the back of the room, flanked on the left side by stacks of ledgers and volumes of aged leather, a horizontal glass bottle nestled atop the pile.  To the right, a tall ironwood-carved kraken engulfs a battle-marred galleon, the sculpture's tentacles wrapped around the rooted desk."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cormorant's Roost, inside the pirate paradise of Kraken's Fall",
+    "wayto": {
+      "31525": "out",
+      "31527": "/rooms/31526/wayto/stringproc-31527.rb"
+    },
+    "timeto": {
+      "31525": 0.2,
+      "31527": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730176
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "5d74580c7c8e3c118052bad5a1ceafe9",
+  "room": {
+    "id": 21679,
+    "title": [
+      "[Festival of Frost, Grounds]"
+    ],
+    "description": [
+      "A crowd of onlookers stand on the outside of half-walled arena, watching as a number of people skate across a stretch of ice.  A long, bright red wooden stand is set up nearby, where a burly giantman stands behind, hawking his wares to people passing by.  The scent of baking bread wafts in from nearby."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21665": "northwest",
+      "21667": "southwest",
+      "21680": "go arena"
+    },
+    "timeto": {
+      "21665": 0.2,
+      "21667": 0.2,
+      "21680": 0.2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "059a5e9b7cff8b71211f5daa46c52094",
+  "room": {
+    "id": 2255,
+    "title": [
+      "[Glaes Caverns]"
+    ],
+    "description": [
+      "Across the scarred walls of the kidney-shaped cavern, shadows jerk and dance, leaping up suddenly as a flare of fire arcs through the air, then dying back into the gloom.  To one side, huge fangs of crystalline glaes arch over a large vat of magma.  Smoke drifts around the frightening silhouette, as if it is emerging from the gullet of a beast."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2254": "east",
+      "2256": "south",
+      "2257": "southwest"
+    },
+    "timeto": {
+      "2254": 0.2,
+      "2256": 0.2,
+      "2257": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051027
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      171,
+      592,
+      179,
+      600
+    ]
+  }
+}

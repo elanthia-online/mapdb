@@ -1,0 +1,39 @@
+{
+  "checksum": "0cf5877510482d7c407367c822f91d1a",
+  "room": {
+    "id": 19267,
+    "title": [
+      "[Dark Shrine, Chapel]"
+    ],
+    "description": [
+      "A mosaic pattern set into the floor depicts the image of a horrible beast, and more hideous figures are carved into the stone around an arch that leads to the east.  Whatever dark rituals were once performed in this evil place seem still to resonate, filling the chamber with dread."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "19261": "southwest",
+      "19266": "east",
+      "19268": "northwest"
+    },
+    "timeto": {
+      "19261": 0.2,
+      "19266": 0.2,
+      "19268": 0.2
+    },
+    "tags": [
+      "lesser vruul"
+    ],
+    "uid": [
+      94039
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      1029,
+      250,
+      1037,
+      259
+    ]
+  }
+}

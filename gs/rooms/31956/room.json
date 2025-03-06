@@ -1,0 +1,55 @@
+{
+  "checksum": "a2d93444e9ce27a030ab6b15de8a281d",
+  "room": {
+    "id": 31956,
+    "title": [
+      "[Vigil's End, Encampment]"
+    ],
+    "description": [
+      "Skeletal remains of sizeable domed tents, some collapsed into haphazard piles of dry-rotted wood, are arranged in clusters across the roadside field.  Decaying furs and splintered kegs litter the exposed interiors.  Parched, sand-hued grasses obscure deserted, rusty weapons and reveal the occasional glint of a glaes armband.  Only a timeworn leather tent and a crooked hide-wrapped shelter stand intact, set on opposite sides of a burned-out firepit."
+    ],
+    "paths": [
+      "Obvious paths: southwest, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "grassland",
+    "wayto": {
+      "31955": "southwest",
+      "31957": "west",
+      "33945": "go hide-wrapped shelter",
+      "33959": "go leather tent"
+    },
+    "timeto": {
+      "31955": 0.2,
+      "31957": 0.2,
+      "33945": 0.2,
+      "33959": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "orange milkweed flowers",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "orange-yellow chamomile",
+      "pineapple sage",
+      "evermore rosehip",
+      "downy skullcap",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083097
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1361,
+      334,
+      1383,
+      355
+    ]
+  }
+}

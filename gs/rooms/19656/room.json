@@ -1,0 +1,40 @@
+{
+  "checksum": "2ccc36ec6006bf798ac2d71bc2de9741",
+  "room": {
+    "id": 19656,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "A maze of stalagmites makes travel in any direction other than northwest quite impossible.  Far above you can be seen a narrow suspension bridge that spans the high canyon walls that loom above you."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19655": "go staircase",
+      "19657": "northwest"
+    },
+    "timeto": {
+      "19655": 0.2,
+      "19657": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11218
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1142,
+      1234,
+      1151,
+      1242
+    ]
+  }
+}

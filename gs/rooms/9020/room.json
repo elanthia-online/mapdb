@@ -1,0 +1,40 @@
+{
+  "checksum": "9ca43763477fa80bdb20cb413edcff1e",
+  "room": {
+    "id": 9020,
+    "title": [
+      "[Solhaven, Spiral Passageway]"
+    ],
+    "description": [
+      "At the top of the steps, flanking pots of white and crimson geraniums stand like sentinels.  Birds roost just under the eaves of the arched opening, their straw nests fringed with bits of string and paper.  Echoing footsteps along the passageway cobblestones sound loudly, but it's hard to discern if they are coming closer or moving farther away."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9019": "southwest",
+      "9021": "go steps",
+      "25494": "go driftwood shop"
+    },
+    "timeto": {
+      "9019": 0.2,
+      "9021": 0.2,
+      "25494": 0.2
+    },
+    "tags": [
+      "cleo",
+      "cleodelia"
+    ],
+    "uid": [
+      733013
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1510,
+      467,
+      1522,
+      479
+    ]
+  }
+}

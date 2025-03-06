@@ -1,0 +1,47 @@
+{
+  "checksum": "49718c91aaf852221f05eae3451274bc",
+  "room": {
+    "id": 11065,
+    "title": [
+      "[Sea Tunnels]"
+    ],
+    "description": [
+      "The stairs continue, carved out of the sandstone that makes up one wall of this chamber.  A small landing is present here, as it appears that the original carvers had to pick up the vein of sandstone on the other side of the chamber.  A chimney and ladder have been carved from the sandstone vein and a roaring noise can be heard from below as a steady cloud of mist rises up the chimney."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11064": "go stairway",
+      "11066": "climb ladder"
+    },
+    "timeto": {
+      "11064": 0.2,
+      "11066": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103021
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3958,
+      687,
+      3994,
+      726
+    ]
+  }
+}

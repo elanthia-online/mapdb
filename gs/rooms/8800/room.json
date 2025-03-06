@@ -1,0 +1,43 @@
+{
+  "checksum": "36a3aa513e2a482a3dcb8768cd45987f",
+  "room": {
+    "id": 8800,
+    "title": [
+      "[Dragonsclaw Arms, Second Floor]"
+    ],
+    "description": [
+      "The carpet here is a deep emerald green, and it seems to have been replaced at least some time in the last decade.  Brass chandeliers hang at intervals from the ceiling, filling the hall with dim candlelight.  A polished wooden stairwell leads up and down."
+    ],
+    "paths": [
+      "Obvious exits: east, south, up, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8795": "down",
+      "8801": "south",
+      "8804": "east",
+      "8806": "up"
+    },
+    "timeto": {
+      "8795": 0.2,
+      "8801": 0.2,
+      "8804": 0.2,
+      "8806": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      700107
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      560,
+      815,
+      580,
+      835
+    ]
+  }
+}

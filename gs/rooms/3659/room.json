@@ -1,0 +1,41 @@
+{
+  "checksum": "b7d647dd0163438f2b988dec186e60f6",
+  "room": {
+    "id": 3659,
+    "title": [
+      "[Four Winds Sergeant's Office]",
+      "[Mist Harbor Sergeant's Office]"
+    ],
+    "description": [
+      "The entry area of the law of the Isle of the Four Winds has the desk of the First Sergeant pushed against the wall.  A pile of ropes and shackles spills out of an overflowing barrel near the exit, and several tripods of spears flank either side of the door to the jail.",
+      "The entry area of the law of the Isle of the Four Winds has the desk of the First Sergeant pushed against the wall.  A pile of ropes and shackles spills out of an overflowing barrel near the exit, and several tripods of spears flank either side of the ironbound door to the jail.",
+      "The entry area of the law of the Isle of the Four Winds has the desk of the First Sergeant pushed against the wall.  A pile of ropes and shackles spills out of an overflowing barrel near the exit, and several tripods of spears flank either side of the iron-barred door to the jail."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "3658": "out",
+      "16695": "east",
+      "30718": "/rooms/3659/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3658": 0.2,
+      "16695": 0.2,
+      "30718": "/rooms/3659/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201501
+    ]
+  }
+}

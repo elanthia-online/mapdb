@@ -1,0 +1,34 @@
+{
+  "checksum": "52ad4a6c1f30152607de3890c9339baf",
+  "room": {
+    "id": 26780,
+    "title": [
+      "[Catacombs, Dark Tunnels]"
+    ],
+    "description": [
+      "Light filters down from a large opening in the ceiling above but the room remains in darkness and shadow.  A wooden railing encircles the opening as it continues downward beyond your sight.  The railing has long since rotted in many places and broken pieces lay strewn across the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, down"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "26779": "north",
+      "26781": "down"
+    },
+    "timeto": {
+      "26779": 0.2,
+      "26781": 0.2
+    },
+    "uid": [
+      4126010
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      1007,
+      1306,
+      1016,
+      1316
+    ]
+  }
+}

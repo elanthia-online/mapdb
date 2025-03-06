@@ -1,0 +1,33 @@
+{
+  "checksum": "0979a78bac0059dcd38e1676666c67b1",
+  "room": {
+    "id": 25501,
+    "title": [
+      "[Wadsworth's Weaponry]",
+      "[Wadsworth's General Store]",
+      "[Wadsworth's Magic Shoppe]",
+      "[Wadsworth's Armory]",
+      "[Wadsworth's Outfitting]",
+      "[Wadsworth's Combat Gear]"
+    ],
+    "description": [
+      "Enclosed by smooth granite walls, the shop features a grey-veined white marble fountain in the center of its black marble floor.  An ornately rendered clan crest hangs under the golden oak ceiling.  Right near the front is a heavy lead glass display case and a giant invar-bound chest."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "25493": "west"
+    },
+    "timeto": {
+      "25493": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      634170
+    ]
+  }
+}

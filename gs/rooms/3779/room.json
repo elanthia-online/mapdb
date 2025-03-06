@@ -1,0 +1,34 @@
+{
+  "checksum": "e20c263b308dbbcf183b3ecc45a6ad35",
+  "room": {
+    "id": 3779,
+    "title": [
+      "[Adventurer's Guild, Office]"
+    ],
+    "description": [
+      "Neatly appointed and exuding a brisk, business-like air, the office holds only a trace of the warmth given off by the fireplace in the lobby.  An octagonal display case occupies the back of the room, partially blocking the walkway to a sturdy mithril-barred door that takes up a good portion of the rear wall.  A tall apothecary desk stands parallel to the west wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Adventurer's Guild",
+    "wayto": {
+      "3778": "east",
+      "3780": "go door"
+    },
+    "timeto": {
+      "3778": 0.2,
+      "3780": 0.2
+    },
+    "uid": [
+      15004002
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      865,
+      968,
+      932,
+      1035
+    ]
+  }
+}

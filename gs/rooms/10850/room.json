@@ -1,0 +1,47 @@
+{
+  "checksum": "f6aaca44c744d90b63f24e7952d59240",
+  "room": {
+    "id": 10850,
+    "title": [
+      "[River's Rest, Merchants' Walk]"
+    ],
+    "description": [
+      "The roadway ends here at the edge of a noisy bazaar.  Filled with tiled rooftops and colorful awnings, an occasional minaret can be seen reaching up into the sky.  Townsfolk seem to take no note however, as they hurry to safeguard their hard-earned silver at a small, but sturdily built bank, which is guarded by the river and the walls of the bazaar.  Many others seem bent on spending their wealth, judging from the packages they carry from a small store located to the north."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10846": "west",
+      "10898": "go building",
+      "10911": "go bank",
+      "10916": "go store",
+      "10917": "go alley"
+    },
+    "timeto": {
+      "10846": 0.2,
+      "10898": 0.2,
+      "10911": 0.2,
+      "10916": 0.2,
+      "10917": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101010
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2688,
+      1163,
+      2725,
+      1199
+    ]
+  }
+}

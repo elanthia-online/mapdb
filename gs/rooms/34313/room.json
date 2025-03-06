@@ -1,0 +1,46 @@
+{
+  "checksum": "8477b338c5c557afba5a501561c16905",
+  "room": {
+    "id": 34313,
+    "title": [
+      "[Giant's Ridge, Upper Trail]"
+    ],
+    "description": [
+      "High walls of granite stretch up to the clouds and shimmer faintly behind scattered opaque veils, the unique bioluminescence becoming more prevalent in their dark grey surroundings.  Blocking the path to the west are enormous boulders that have come to rest atop one another, wedged together perfectly like a completed puzzle.  Few gaps exist between the massive rocks, and it doesn't look like climbing them is an option."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Stormpeak",
+    "climate": "moist",
+    "terrain": "rough",
+    "wayto": {
+      "34292": "go gap",
+      "34312": "down",
+      "34315": "/rooms/34313/wayto/stringproc-34315.rb"
+    },
+    "timeto": {
+      "34292": 0.2,
+      "34312": 0.2,
+      "34315": 0.2
+    },
+    "tags": [
+      "broken twig",
+      "wild chokecherry",
+      "cabbage rose",
+      "virescent rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150220
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      534,
+      159,
+      552,
+      179
+    ]
+  }
+}

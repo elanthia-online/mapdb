@@ -1,0 +1,42 @@
+{
+  "checksum": "5ff0f054d78e47f11833103d3bd86bfd",
+  "room": {
+    "id": 9746,
+    "title": [
+      "[Maaghara Tower, Stair]"
+    ],
+    "description": [
+      "A hemispherical landing juts out from the dark bole of the tree.  Soft twilight bathes the floor with a shimmery, ethereal glow that seems to come from every direction and no direction at once.  The polished, ebon wood gleams with reflections, yet upon closer inspection you realize that the images are of things not even present in the room.  Narrow passageways bear east and west, while the polished stairway leads up away from the wall to a platform at the center of the trunk."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west, up"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9744": "west",
+      "9749": "southeast",
+      "9750": "up",
+      "9767": "east"
+    },
+    "timeto": {
+      "9744": 0.2,
+      "9749": 0.2,
+      "9750": 0.2,
+      "9767": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021021
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      807,
+      464,
+      817,
+      474
+    ]
+  }
+}

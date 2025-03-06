@@ -1,0 +1,31 @@
+{
+  "checksum": "b33b6bdb79c277fccf3f24dc0c5474f8",
+  "room": {
+    "id": 21958,
+    "title": [
+      "[Talador Mines, Narrow Ledge]"
+    ],
+    "description": [
+      "Sleek, glowing white worms slowly inch along the walls, like slow moving stars on the backdrop of night.  The ledge is narrow and jagged and one side opens up into a pit of blackness, leading across the way to another ledge, while an old metal ladder leads down into a tunnel."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21957": "/rooms/21958/wayto/stringproc-21957.rb",
+      "21959": "go ladder"
+    },
+    "timeto": {
+      "21957": 0.2,
+      "21959": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      669,
+      427,
+      683,
+      440
+    ]
+  }
+}

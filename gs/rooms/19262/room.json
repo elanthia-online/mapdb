@@ -1,0 +1,39 @@
+{
+  "checksum": "446d4ff2fb474d299fc13880874fff6e",
+  "room": {
+    "id": 19262,
+    "title": [
+      "[Dark Shrine, Chapel]"
+    ],
+    "description": [
+      "Here, the large round chamber that forms the main body of this dark and dreadful chapel opens onto a passageway that leads to the west.  The huge statue that dominates the center of the chamber faces to the south, its face turned away from you.  To the northeast a large stone chair occupies another part of the chamber, and to the east, beyond the terrible statue, an arch leads out of the chamber."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "19261": "southeast",
+      "19263": "west",
+      "19268": "northeast"
+    },
+    "timeto": {
+      "19261": 0.2,
+      "19263": 0.2,
+      "19268": 0.2
+    },
+    "tags": [
+      "lesser vruul"
+    ],
+    "uid": [
+      94041
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      974,
+      249,
+      983,
+      259
+    ]
+  }
+}

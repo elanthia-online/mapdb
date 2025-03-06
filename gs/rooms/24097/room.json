@@ -1,0 +1,30 @@
+{
+  "checksum": "65596858f873f5d06af2f4e56ce5eee7",
+  "room": {
+    "id": 24097,
+    "title": [
+      "[Necropolis, Narthex]"
+    ],
+    "description": [
+      "A headless humanoid statue sits on a throne atop a raised rostrum against the eastern wall.  Spiderwebs completely cover the statue, obfuscating its intended identity.  Cradled in the mass of webbing in the outstretched right hand is a bloody heart, which still looks fresh enough to beat."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24096": "southwest",
+      "24098": "west",
+      "24101": "northwest",
+      "24103": "north",
+      "24110": "/rooms/24097/wayto/stringproc-24110.rb"
+    },
+    "timeto": {
+      "24096": 0.2,
+      "24098": 0.2,
+      "24101": 0.2,
+      "24103": 0.2,
+      "24110": 0.2
+    }
+  }
+}

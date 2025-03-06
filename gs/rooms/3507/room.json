@@ -1,0 +1,45 @@
+{
+  "checksum": "9a83f71372f555b8a5d78cbb779eaa95",
+  "room": {
+    "id": 3507,
+    "title": [
+      "[Ta'Vaalor, Rubicaene Wey]"
+    ],
+    "description": [
+      "A small stone cottage sits beside the wey.  The pale blue grey of the stone walls is offset by the deep red tile roof and brightly painted door.  An engraved mithglin sign hangs from an ironwork post beside the establishment's front door."
+    ],
+    "paths": [
+      "Obvious paths: north, south, northwest"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3506": "northwest",
+      "3508": "north",
+      "3509": "south",
+      "10439": "go company"
+    },
+    "timeto": {
+      "3506": 0.2,
+      "3508": 0.2,
+      "3509": 0.2,
+      "10439": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100070
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      477,
+      708,
+      507,
+      741
+    ]
+  }
+}

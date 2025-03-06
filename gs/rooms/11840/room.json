@@ -1,0 +1,59 @@
+{
+  "checksum": "91890682f2924706693f4dd8fcc0e4bf",
+  "room": {
+    "id": 11840,
+    "title": [
+      "[Old Ta'Faendryl, Asylum Square]"
+    ],
+    "description": [
+      "A long, low building rests in the center of this open plaza, its roofless walls stretched toward the star-flecked sky.  Two green columns fashioned into the form of coiled serpents flank the entrance into the structure.  A wide brick walkway leads back to the road.",
+      "A long, low building rests in the center of this open plaza, its roofless walls stretched toward the sun.  Built of light gray granite that is liberally laced with tiny specks of mica, the entire building gleams and sparkles through the leafy interlacing of ivy that covers its length.  Two green columns fashioned in the form of coiled serpents flank the entrance into the structure.  A wide brick walkway leads back to the road."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11839": "southeast",
+      "11841": "southwest",
+      "11843": "go entrance",
+      "11844": "go walkway"
+    },
+    "timeto": {
+      "11839": 0.2,
+      "11841": 0.2,
+      "11843": 0.2,
+      "11844": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004070
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      889,
+      721,
+      899,
+      731
+    ]
+  }
+}

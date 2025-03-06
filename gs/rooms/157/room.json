@@ -1,0 +1,46 @@
+{
+  "checksum": "e340120131516d5f3ede4ba6e08767e8",
+  "room": {
+    "id": 157,
+    "title": [
+      "[Ta'Illistim, BriarStone Court]"
+    ],
+    "description": [
+      "Deep blue slate clads the nearby shop, a dull contrast to the brighter blue tiles that form the building's sturdy roof.  Windowboxes planted with bright red begonias bring cheer to the stately structure.  A brass plaque is mounted to the shop's front door.",
+      "Matte white marble clads the nearby shop, a sharp contrast to the brighter, glossier blue tiles that form the building's sturdy roof.  Window-boxes planted with white clover bring cheer to the stately structure.  A silver plaque is mounted to the shop's lapis-painted front door."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "156": "north",
+      "158": "southwest",
+      "208": "northeast",
+      "26368": "go shop"
+    },
+    "timeto": {
+      "156": 0.2,
+      "158": 0.2,
+      "208": 0.2,
+      "26368": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101015
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      444,
+      459,
+      455,
+      472
+    ]
+  }
+}

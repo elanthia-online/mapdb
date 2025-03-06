@@ -1,0 +1,61 @@
+{
+  "checksum": "9fa0b4e8e791207b8d0eef40cd51a5fb",
+  "room": {
+    "id": 7199,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "Skirting the fringes of the bog, you come upon the cause of its existence.  A small creek has been blocked off by fallen trees to create a turbid lake behind a natural dam.  The water seeps over the banks to flood the graveyard here, with damp earth and brackish puddles forming a bog that surrounds broken and overturned tombstones.  Small trails where the earth is more solid crisscross the fetid swamp."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the Graveyard",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7198": "east",
+      "7200": "north"
+    },
+    "timeto": {
+      "7198": 0.2,
+      "7200": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "withered black mushroom",
+      "wild chokecherry",
+      "bright red cranberry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18039
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      182,
+      454,
+      192,
+      464
+    ]
+  }
+}

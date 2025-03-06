@@ -1,0 +1,45 @@
+{
+  "checksum": "778d87707c05a015acf8f03929fc3e18",
+  "room": {
+    "id": 9163,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "As eclectic and bizarre as this keep might look, it still bears all of the standard protection that any fortress might provide its owner.  Passage to or from the outside of the structure is guarded by a sturdy glaes portcullis that has been colored in the wildest pink imaginable.  Numerous strands of colorful seashells that have been suspended from the ceiling are all that bar the path into the keep itself."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Thurfel's Island",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "9143": "go portcullis",
+      "9164": "west",
+      "9173": "east",
+      "9174": "go seashells"
+    },
+    "timeto": {
+      "9143": 0.2,
+      "9164": 0.2,
+      "9173": 0.2,
+      "9174": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "calmintha flower",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      7531001
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      767,
+      1021,
+      777,
+      1031
+    ]
+  }
+}

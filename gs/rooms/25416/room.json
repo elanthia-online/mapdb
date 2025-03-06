@@ -1,0 +1,43 @@
+{
+  "checksum": "78af3ef1ab635fbb67c3c800ab6e40da",
+  "room": {
+    "id": 25416,
+    "title": [
+      "[Hendoran Outpost, Feast Hall]"
+    ],
+    "description": [
+      "A number of tables and chairs are set against the walls of the hall, waiting the next meal or well attended meeting.  At the end of the hallway is a wide stairwell with two Imperial soldiers standing sentry at its base.  Hendoran military banners decorate the stone walls along with flags of defeated enemies, a ragged Nalfein banner among them."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25405": "go stairwell",
+      "25417": "out",
+      "26100": "east"
+    },
+    "timeto": {
+      "25405": 0.2,
+      "25417": 0.2,
+      "26100": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336332
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      822,
+      197,
+      856,
+      232
+    ]
+  }
+}

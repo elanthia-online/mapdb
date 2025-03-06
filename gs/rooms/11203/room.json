@@ -1,0 +1,38 @@
+{
+  "checksum": "eda2f8fc5d3f7caf011e3ba1a400a679",
+  "room": {
+    "id": 11203,
+    "title": [
+      "[Armory, Entrance]"
+    ],
+    "description": [
+      "Thick vines, like hairy arms, are entwined around the door, as though pulling it further apart.  Several small tendrils curl upwards, swaying in every air current, seeking another surface to latch onto and destroy."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11202": "out",
+      "11204": "go door"
+    },
+    "timeto": {
+      "11202": 0.2,
+      "11204": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100101
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      250,
+      315,
+      260,
+      325
+    ]
+  }
+}

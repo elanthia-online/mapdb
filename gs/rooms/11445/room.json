@@ -1,0 +1,47 @@
+{
+  "checksum": "2dd3ddf5c3d3077b387e1076a26e1635",
+  "room": {
+    "id": 11445,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The green waters of Maelstrom Bay stretch out in all directions.  The line of a cliff is visible on the horizon to the east.  To the west, a low coral reef rises above the wide, rolling swells.  The spray from the swells slapping against the reef is ghostly pale in the moonlight.",
+      "The green waters of Maelstrom Bay stretch out in all directions.  The line of a cliff is visible on the horizon to the east.  To the west, a low coral reef rises above the wide, rolling swells.  The spray from the swells slapping against the reef is white in the sunlight."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11440": "/rooms/11445/wayto/stringproc-11440.rb",
+      "11444": "/rooms/11445/wayto/stringproc-11444.rb",
+      "11446": "/rooms/11445/wayto/stringproc-11446.rb",
+      "11481": "climb reef",
+      "16041": "/rooms/11445/wayto/stringproc-16041.rb"
+    },
+    "timeto": {
+      "11440": 2,
+      "11444": "/rooms/11445/timeto/stringproc-11444.rb",
+      "11446": 2,
+      "11481": 0.2,
+      "16041": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304024
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      648,
+      1234,
+      658,
+      1244
+    ]
+  }
+}

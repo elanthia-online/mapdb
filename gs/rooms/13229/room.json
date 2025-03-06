@@ -1,0 +1,40 @@
+{
+  "checksum": "1be89644570e57c9ce1ebe982534f8c6",
+  "room": {
+    "id": 13229,
+    "title": [
+      "[Oleani's Temple, Sanctuary]"
+    ],
+    "description": [
+      "An expansive rotunda opens to form a bright, airy room, illuminated by long, narrow windows.  Tall pillars of gold-flecked white marble stretch upward toward the domed ceiling that hovers above the benches facing a carved alabaster altar and a rose quartz baptismal font.  A delightful fresco serves as a colorful backdrop in the nave.  A modwir door leads to a prayer garden and, towards the back of the rotunda, a gold-trimmed haon door leads to the oratory.  A simple maoral door leads to the priest's vestry."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "13225": "south",
+      "13226": "go modwir door",
+      "13230": "go maoral door",
+      "13235": "go haon door",
+      "13308": "go altar",
+      "13309": "go font"
+    },
+    "timeto": {
+      "13225": 0.2,
+      "13226": 0.2,
+      "13230": 0.2,
+      "13235": 0.2,
+      "13308": 0.2,
+      "13309": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749102
+    ]
+  }
+}

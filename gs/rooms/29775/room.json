@@ -1,0 +1,40 @@
+{
+  "checksum": "48151260295fedf5186e3f026cebb435",
+  "room": {
+    "id": 29775,
+    "title": [
+      "[Tower of Wisdom, Rotunda]"
+    ],
+    "description": [
+      "Several potted ferns are scattered around the spacious entryway, and filtered sunlight slants in through tall stained glass windows.  A tiled marble walkway leads out to an expansive terrace.  A matching pair of carefully pruned ficus trees in dark bamboo planters flank a curtained archway.  Painted in bright red and blue, a gnome statue props open a set of ironwood double doors."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29774": "go doors",
+      "29791": "go archway",
+      "29792": "go walkway",
+      "29793": "down",
+      "29796": "up"
+    },
+    "timeto": {
+      "29774": 0.2,
+      "29791": 0.2,
+      "29792": 0.2,
+      "29793": 0.2,
+      "29796": 0.2
+    },
+    "uid": [
+      689041
+    ],
+    "image": "kf-wizardguild.png",
+    "image_coords": [
+      485,
+      244,
+      504,
+      262
+    ]
+  }
+}

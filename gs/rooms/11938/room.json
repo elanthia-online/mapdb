@@ -1,0 +1,41 @@
+{
+  "checksum": "42c07ced61be3bcdef5c5530790ca13a",
+  "room": {
+    "id": 11938,
+    "title": [
+      "[Old Ta'Faendryl, Colossus Torso]"
+    ],
+    "description": [
+      "An intricate pattern of crisscrossed lines form the lacing of the vest that was carved into being about the torso of the colossus.  The statue is tilted slightly on its side, so one arm reaches down into the depths of the river water, while the other extends toward the east."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11937": "east",
+      "11939": "west"
+    },
+    "timeto": {
+      "11937": 0.2,
+      "11939": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004142
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      527,
+      601,
+      537,
+      611
+    ]
+  }
+}

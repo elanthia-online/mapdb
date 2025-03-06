@@ -1,0 +1,36 @@
+{
+  "checksum": "ecc0f87069922de7ce7c75a6c37e561b",
+  "room": {
+    "id": 17248,
+    "title": [
+      "[Citadel, Vault]"
+    ],
+    "description": [
+      "As cold as this chamber is, you'd think you were in Icemule, not Ta'Vaalor.  Stairs lead downward into the darkness."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17242": "west",
+      "17247": "east",
+      "17249": "climb stairs"
+    },
+    "timeto": {
+      "17242": 0.2,
+      "17247": 0.2,
+      "17249": 0.2
+    },
+    "uid": [
+      257041
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      184,
+      453,
+      204,
+      472
+    ]
+  }
+}

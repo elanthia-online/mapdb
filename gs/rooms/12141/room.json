@@ -1,0 +1,46 @@
+{
+  "checksum": "0641257e81c2b7d158d71183a3713b32",
+  "room": {
+    "id": 12141,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The surroundings are harsh, dusty and dry.  Strange plants with spines like thick sewing needles cover the ground, their pads oddly segmented and waxy.  The air is unbearably hot, stealing all moisture from your body and driving all thoughts from your mind."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12125": "northeast",
+      "12140": "southeast",
+      "12207": "/rooms/12141/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12141/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12125": 0.2,
+      "12140": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4569015
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      487,
+      1073,
+      497,
+      1083
+    ]
+  }
+}

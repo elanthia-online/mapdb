@@ -1,0 +1,40 @@
+{
+  "checksum": "74f99802068fb1e7b81002fd4500a713",
+  "room": {
+    "id": 17421,
+    "title": [
+      "[Rogue Guild, Hallway]"
+    ],
+    "description": [
+      "This narrow hall branches to the north, west and southeast.  It seems quieter than other areas, perhaps because of the office of an important personage at the end of the corridor."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "17419": "north",
+      "17423": "west",
+      "17432": "southeast"
+    },
+    "timeto": {
+      "17419": 0.2,
+      "17423": 0.2,
+      "17432": 0.2
+    },
+    "tags": [
+      "rogue guild dirt",
+      "rogue guild window"
+    ],
+    "uid": [
+      262013
+    ],
+    "image": "ti-rogue_guild-1486041266.png",
+    "image_coords": [
+      1097,
+      894,
+      1217,
+      973
+    ]
+  }
+}

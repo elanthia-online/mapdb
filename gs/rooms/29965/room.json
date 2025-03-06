@@ -1,0 +1,39 @@
+{
+  "checksum": "56b35374e34c320a9003d7fa1cf2c2ba",
+  "room": {
+    "id": 29965,
+    "title": [
+      "[Angargreft, Descent]"
+    ],
+    "description": [
+      "A snarling visage has been carved into the stones of the northern wall with surprising skill, its vast maw a gaping sea of shadow.  The darkness beyond is all the more impenetrable for the flickering glow of two torches hanging in sconces to either side of the portal.  They are burning blue."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29955": "south",
+      "29966": "go maw"
+    },
+    "timeto": {
+      "29955": 0.2,
+      "29966": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503434
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      820,
+      469,
+      836,
+      484
+    ]
+  }
+}

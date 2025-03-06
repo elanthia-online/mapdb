@@ -1,0 +1,48 @@
+{
+  "checksum": "ac2f7546b7d36de78d0705ee08494ae3",
+  "room": {
+    "id": 12156,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A stone basin sits in the center of the castle courtyard.  Standing within it is a man, badly wounded, up to his knees in blood.  The crimson liquid pours from his cuts, trickling into the pool with a happy sound reminiscent of a burbling fountain.  He holds his hands above his head, as if bound by an invisible cord, although his face registers no emotion at all."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west",
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12096": "northeast",
+      "12097": "west",
+      "12207": "/rooms/12156/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12156/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12096": 0.2,
+      "12097": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4569021
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      649,
+      1261,
+      659,
+      1271
+    ]
+  }
+}

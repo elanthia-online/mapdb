@@ -1,0 +1,31 @@
+{
+  "checksum": "5e41e07f37298789c47386faa1004bca",
+  "room": {
+    "id": 22000,
+    "title": [
+      "[The Murkwoods]"
+    ],
+    "description": [
+      "Towering trees surround the only passage through the woodlands, and the repeating scenery is troublesome for navigation, even for the most skilled woodsmen.  A lone wolf s howl echoes in the distance."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21999": "east",
+      "22012": "southwest"
+    },
+    "timeto": {
+      "21999": 0.2,
+      "22012": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      90,
+      436,
+      104,
+      450
+    ]
+  }
+}

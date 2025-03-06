@@ -1,0 +1,44 @@
+{
+  "checksum": "24498900dd73ca92de0a36a540de348c",
+  "room": {
+    "id": 210,
+    "title": [
+      "[Ta'Illistim, Glimaer Wey]"
+    ],
+    "description": [
+      "The facade of the Sylvarrglin Moving Company stands beside the cobbled wey, its grey-blue stone exterior worn smooth by the elements.  A city guardsman, ever watchful for signs of trouble, stands at attention on either side of the door.",
+      "The facade of the Sylvarrglin Moving Company stands beside the cobbled wey, its grey-blue stone exterior worn smooth by the elements.  Twin torches burn brightly at either side of the structure, casting dim circles of light on the wey.  A city guardsman, ever watchful for signs of trouble, stand at attention on either side of the door."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "209": "northwest",
+      "211": "northeast",
+      "13250": "go door"
+    },
+    "timeto": {
+      "209": 0.2,
+      "211": 0.2,
+      "13250": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100097
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      552,
+      712,
+      574,
+      732
+    ]
+  }
+}

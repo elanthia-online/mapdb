@@ -1,0 +1,46 @@
+{
+  "checksum": "2d99cfc4ce847aad77b86cdc3b274573",
+  "room": {
+    "id": 13926,
+    "title": [
+      "[Lilly's Tavern]"
+    ],
+    "description": [
+      "Silvery hoarbeam panels cover the walls of this large central room.  A few tables sit across from the bar, lit with small chandeliers suspended from the ceiling.  Above the bar, a large painting hangs directly opposite an archway.  The clanking of tankards and the sometimes loud conversation of patrons make this tavern a lively place."
+    ],
+    "paths": [
+      "Obvious exits: north, out",
+      "Obvious exits: out"
+    ],
+    "location": "the hamlet of Ravelin",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13925": "out",
+      "13927": "go archway",
+      "13963": "north",
+      "23977": "/rooms/13926/wayto/stringproc-23977.rb",
+      "23981": "/rooms/13926/wayto/stringproc-23981.rb",
+      "23983": "/rooms/13926/wayto/stringproc-23983.rb",
+      "23985": "/rooms/13926/wayto/stringproc-23985.rb"
+    },
+    "timeto": {
+      "13925": 0.2,
+      "13927": 0.2,
+      "13963": 0.2,
+      "23977": 0.2,
+      "23981": 0.2,
+      "23983": 0.2,
+      "23985": 0.2
+    },
+    "tags": [
+      "table",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14201100
+    ]
+  }
+}

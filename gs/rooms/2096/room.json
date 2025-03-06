@@ -1,0 +1,41 @@
+{
+  "checksum": "57b77736c4651b444e189237b5ed7a82",
+  "room": {
+    "id": 2096,
+    "title": [
+      "[Fish Plant, Pickling Room]"
+    ],
+    "description": [
+      "This is the room where the fish would have been pickled.  Large vats fill the room, with catwalks hanging above them.  The air is pungent with the odor of decay and the smell of rotten pickling juices.  The odor fills the room, and you are almost too repulsed by it to seek out the source."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2095": "west",
+      "2097": "north",
+      "2098": "east",
+      "2099": "climb stairs"
+    },
+    "timeto": {
+      "2095": 0.2,
+      "2097": 0.2,
+      "2098": 0.2,
+      "2099": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030252
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      755,
+      1425,
+      765,
+      1435
+    ]
+  }
+}

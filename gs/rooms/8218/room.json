@@ -1,0 +1,51 @@
+{
+  "checksum": "0affd0fa5b008f44bdb10e5629f91de9",
+  "room": {
+    "id": 8218,
+    "title": [
+      "[Sea Caverns, Spider Lair]"
+    ],
+    "description": [
+      "The yellow-green fungi covering the eastern wall give off a soft, sickly glow.  Webs drape down from a ceiling lost in darkness above, the silky strands dancing gently in the still air.  Small white bones litter the floor below, some of them large enough to be humanoid."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8217": "west",
+      "8219": "southwest"
+    },
+    "timeto": {
+      "8217": 0.2,
+      "8219": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      392008
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      487,
+      283,
+      497,
+      293
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "9789563223bc25c0714f52ef1f69afd6",
+  "room": {
+    "id": 30561,
+    "title": [
+      "[Empath Guild, Alchemic Nexus]"
+    ],
+    "description": [
+      "This octagonal stone chamber is lit by eight flickering torches, one positioned at each corner.  A tunnel in the eastern wall leads upward toward the main training area.  A faint aroma wafts from each of six doorways, an unusual combination of ale and herbs."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south, southwest, west, northwest, down, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "30558": "go tunnel",
+      "30560": "out",
+      "30564": "down",
+      "30565": "northwest",
+      "30566": "west",
+      "30567": "southwest",
+      "30568": "south",
+      "30569": "northeast",
+      "30570": "north"
+    },
+    "timeto": {
+      "30558": 0.2,
+      "30560": 0.2,
+      "30564": 0.2,
+      "30565": 0.2,
+      "30566": 0.2,
+      "30567": 0.2,
+      "30568": 0.2,
+      "30569": 0.2,
+      "30570": 0.2
+    },
+    "uid": [
+      652028
+    ],
+    "image": "teras-empath_guild.jpg",
+    "image_coords": [
+      123,
+      147,
+      182,
+      206
+    ]
+  }
+}

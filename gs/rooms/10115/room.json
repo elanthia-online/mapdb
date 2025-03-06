@@ -1,0 +1,42 @@
+{
+  "checksum": "576b63afa906a8791a8864f17815f5f5",
+  "room": {
+    "id": 10115,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The cobblestones of the path widen out to the edges of the large fel dock, which stands upon the sandy beach just ahead.  A small, twisted path leads towards the darkness below the dock, where the waves crash upon the supports."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3545": "northwest",
+      "10116": "go path",
+      "10117": "go dock"
+    },
+    "timeto": {
+      "3545": 0.2,
+      "10116": 0.2,
+      "10117": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049049
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      962,
+      1124,
+      972,
+      1134
+    ]
+  }
+}

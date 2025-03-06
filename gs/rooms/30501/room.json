@@ -1,0 +1,50 @@
+{
+  "checksum": "9c7e16f1e92ba08803548b5b4307cb00",
+  "room": {
+    "id": 30501,
+    "title": [
+      "[Mistydeep, Swimming Hole]"
+    ],
+    "description": [
+      "Clear blue-green water percolates outward from the falls to the north, gradually losing energy until it relaxes into this wide glassy mere.  Time has sculpted the depths of this not-quite-fathomless water hole, providing ample space for diving, as well as subaqueous swimming.  To the south, where the shore is a mix of jagged rocks and glittering grey sand, occasional surface calms provide brief glimpses of stolid shadowy forms far below."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30500": "swim west",
+      "30502": "swim north",
+      "30503": "swim east"
+    },
+    "timeto": {
+      "30500": 0.2,
+      "30502": 0.2,
+      "30503": 0.2
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117003
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1122,
+      571,
+      1141,
+      589
+    ]
+  }
+}

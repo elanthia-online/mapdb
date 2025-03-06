@@ -1,0 +1,45 @@
+{
+  "checksum": "4d6e12daafa8b6b154d671eedc1404d6",
+  "room": {
+    "id": 23423,
+    "title": [
+      "[A Dark Cave]"
+    ],
+    "description": [
+      "It is too dark inside this cave to see where the ceiling is, but it's somewhere very high up.  A faint glow highlights the sloping floor of the cave, which rises at first in a gentle incline and then sharply into a strange mound that seems to form the back of the cave.  Fastened to the mound is a thick rope ladder with leather ties."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9403": "out",
+      "23422": "go rope ladder"
+    },
+    "timeto": {
+      "9403": 0.2,
+      "23422": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018001
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      190,
+      968,
+      200,
+      979
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "621c39518c1e50b1a5632367140f123e",
+  "room": {
+    "id": 2619,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The courtroom is packed with shambling corpses, filling the jury box and judge seat.  A living person sits in the spot reserved for the defendant, chained to the desk with thick irons.  He looks nervous, glancing around at the dead surrounding him with a wild look in his eyes.  At the back of the courtroom hangs a blindfolded woman, head lolling grotesquely to the side as if the noose had broken her neck.  Her dead fingers clutch a set of balance scales."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west, northwest",
+      "Obvious paths: east, southeast, west, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/2619/wayto/stringproc-2605.rb",
+      "2635": "/rooms/2619/wayto/stringproc-2635.rb",
+      "12093": "/rooms/2619/wayto/stringproc-12093.rb",
+      "12117": "northwest",
+      "12121": "west",
+      "12123": "east",
+      "12127": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12117": 0.2,
+      "12121": 0.2,
+      "12123": 0.2,
+      "12127": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4567005
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      975,
+      591,
+      985,
+      601
+    ]
+  }
+}

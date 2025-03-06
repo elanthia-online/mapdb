@@ -1,0 +1,34 @@
+{
+  "checksum": "58e2e4b688c94588ce92e185423f72f6",
+  "room": {
+    "id": 18412,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "Sections of split-rail fence create an enclosure with openings that lead to the very heart of the town.  Each post of the fence bears a flowered wreath, and greenery strewn with full and half-open blossoms is draped along the railings.  Here and there, tall poles tower above, supporting banners that move with even the most subtle of winds."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18401": "southwest",
+      "18404": "northwest",
+      "18413": "go barn",
+      "18414": "southeast",
+      "18415": "northeast"
+    },
+    "timeto": {
+      "18401": 0.2,
+      "18404": 0.2,
+      "18413": 0.2,
+      "18414": 0.2,
+      "18415": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

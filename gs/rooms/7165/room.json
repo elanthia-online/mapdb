@@ -1,0 +1,60 @@
+{
+  "checksum": "7d5848ec475027d55a7aacdab8c0f0e5",
+  "room": {
+    "id": 7165,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "The path bends around the northeast corner of the building.  From the northwest comes a very faint odor of rot and a warm, clammy breeze.  To the south, the path continues around the crypt."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7164": "south",
+      "7171": "northwest"
+    },
+    "timeto": {
+      "7164": 0.2,
+      "7171": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wild chokecherry",
+      "cuctucae berry",
+      "sweetfern stalk",
+      "sassafras leaf",
+      "small wild rose",
+      "bright red cranberry",
+      "stalk of chicory",
+      "blue whortleberry",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "skeleton",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18006
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      263,
+      806,
+      273,
+      816
+    ]
+  }
+}

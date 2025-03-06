@@ -1,0 +1,41 @@
+{
+  "checksum": "81535f7b2c0005174ff9edc801957acd",
+  "room": {
+    "id": 3969,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "It appears that some of the ceiling has fallen, partially damming up the noxious liquid that could only be called water by a distant stretch of the imagination.  You shudder, as you realize that in order to pass, you are going to have to wade, for at least a few feet."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32781": "east",
+      "32782": "west"
+    },
+    "timeto": {
+      "32781": 0.2,
+      "32782": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2135206
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      399,
+      491,
+      407,
+      500
+    ]
+  }
+}

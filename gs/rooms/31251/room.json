@@ -1,0 +1,29 @@
+{
+  "checksum": "490f3b51cd207e9e17471062d298cfb7",
+  "room": {
+    "id": 31251,
+    "title": [
+      "[Asylum, Solitary Wing]"
+    ],
+    "description": [
+      "A foul odor and crazed screams fill the air of this entire corridor.  Strands of cobwebs hang from the ceiling and brush against exposed skin.  At the base of a rusty metal barred door lies a dead mouse next to a mousetrap that has not been used.   Some pieces of bloodstained padding are stuck to the bottom of the other barred door."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "31250": "go opening",
+      "31263": "west",
+      "31265": "east"
+    },
+    "timeto": {
+      "31250": 0.2,
+      "31263": 0.2,
+      "31265": 0.2
+    },
+    "uid": [
+      3027016
+    ]
+  }
+}

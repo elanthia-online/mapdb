@@ -1,0 +1,44 @@
+{
+  "checksum": "c93f3bf109991db5ad7a0316140e4e32",
+  "room": {
+    "id": 25420,
+    "title": [
+      "[Outpost, Inner Courtyard]"
+    ],
+    "description": [
+      "Soldiers sit and stand about the courtyard.  Many are engaged in time wasting activities, reading pamphlets and letters, tossing dice, and whittling pieces of wood.  Others quietly polish their equipment or chitchat about the nearby town or loved ones back home.  A squat wood building, a smaller version of one in the courtyard is built at the edge of the space."
+    ],
+    "paths": [
+      "Obvious paths: north, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25417": "north",
+      "25418": "northwest",
+      "26101": "go building"
+    },
+    "timeto": {
+      "25417": 0.2,
+      "25418": 0.2,
+      "26101": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336330
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      689,
+      277,
+      723,
+      313
+    ]
+  }
+}

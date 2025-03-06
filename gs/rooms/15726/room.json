@@ -1,0 +1,29 @@
+{
+  "checksum": "d0645db39330c1971682b81e9980821e",
+  "room": {
+    "id": 15726,
+    "title": [
+      "[Radeek's Magic Shoppe]"
+    ],
+    "description": [
+      "A pair of wooden snowshoes hangs on one of the pale oak walls, and an oak beam ceiling rises overhead.  A polar bear rug sits in one corner of a varnished oak floor.  There is some hammered copper display hooks on one side of the shop and a vine-carved mahogany table on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2314": "out",
+      "15755": "east",
+      "15756": "north"
+    },
+    "timeto": {
+      "2314": 0.2,
+      "15755": 0.2,
+      "15756": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

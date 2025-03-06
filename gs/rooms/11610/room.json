@@ -1,0 +1,38 @@
+{
+  "checksum": "dd395d7c2cabaa6728e2e8e3cc99a760",
+  "room": {
+    "id": 11610,
+    "title": [
+      "[Smuggler's Lair, Hallway]"
+    ],
+    "description": [
+      "The hallway is dark, illuminated only by the light coming from adjacent rooms.  Dust motes hang still in the stale air.  Beneath a layer of dust the wide-planked floor is badly scratched, as if heavy objects were once dragged across it."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Shattered Moors",
+    "wayto": {
+      "11599": "south",
+      "11602": "west"
+    },
+    "timeto": {
+      "11599": 0.2,
+      "11602": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420033
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      194,
+      564,
+      204,
+      574
+    ]
+  }
+}

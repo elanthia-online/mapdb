@@ -1,0 +1,39 @@
+{
+  "checksum": "8d82629b4c30b07ff76498da65c47130",
+  "room": {
+    "id": 6604,
+    "title": [
+      "[Archer's Gallery]"
+    ],
+    "description": [
+      "This spare hallway, running along the castle's front, has no decoration -- only rough, stone walls broken by narrow windows, where bowmen once stood to shoot down at enemies.  Patches of moonlight dapple the rough flagstones of a floor that time has canted into a downward slant.  The passage opens onto a wall-walk at its east end.",
+      "This spare hallway, running along the castle's front, has no decoration -- only rough, stone walls broken by narrow windows, where bowmen once stood to shoot down at enemies.  Patches of light dapple the rough flagstones of a floor that time has canted into a downward slant.  The passage opens onto a wall-walk at its east end."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6598": "climb stairs",
+      "6603": "east"
+    },
+    "timeto": {
+      "6598": 0.2,
+      "6603": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285032
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1198,
+      686,
+      1208,
+      696
+    ]
+  }
+}

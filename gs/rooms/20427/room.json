@@ -1,0 +1,31 @@
+{
+  "checksum": "0e5a8febbbc892ae3b41b568de9cb43b",
+  "room": {
+    "id": 20427,
+    "title": [
+      "[Deep Passageway]"
+    ],
+    "description": [
+      "A passage widens slightly here, exposing blocks of undressed foundation stones on one side.  Passages branch off into darkness, with no apparent pattern or direction."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west",
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "20426": "west",
+      "20429": "north",
+      "25878": "south"
+    },
+    "timeto": {
+      "20426": 0.2,
+      "20429": 0.2,
+      "25878": 0.2
+    },
+    "tags": [
+      "meta:maze",
+      "no-auto-map"
+    ]
+  }
+}

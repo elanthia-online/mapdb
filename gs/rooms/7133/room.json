@@ -1,0 +1,44 @@
+{
+  "checksum": "d99149e8a26e53535dffc42226fa110a",
+  "room": {
+    "id": 7133,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The corridor bends here, with branches going north and east.  You hear the trickling of running water coming from the east, but the north is dead and silent."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7132": "north",
+      "7134": "east"
+    },
+    "timeto": {
+      "7132": 0.2,
+      "7134": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41039
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1081,
+      416,
+      1091,
+      426
+    ]
+  }
+}

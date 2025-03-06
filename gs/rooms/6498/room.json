@@ -1,0 +1,34 @@
+{
+  "checksum": "222539af257f6a5df0ee32adeeccc8f0",
+  "room": {
+    "id": 6498,
+    "title": [
+      "[Monastery, Monk's Cell]"
+    ],
+    "description": [
+      "This small stone alcove contains nothing more than a small wooden cot and a single iron spike protruding from the wall at head level."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6495": "/rooms/6498/wayto/stringproc-6495.rb",
+      "6496": "/rooms/6498/wayto/stringproc-6496.rb"
+    },
+    "timeto": {
+      "6495": 0.2,
+      "6496": 0.2
+    },
+    "tags": [
+      "spectral monk",
+      "monastic lich",
+      "no forageables"
+    ],
+    "uid": [
+      95169
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "d67d80378a36ce5f317962dab56f6594",
+  "room": {
+    "id": 2583,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A jagged chasm opens up nearly beneath your feet.  Before you can step into it, a sharp barking sound startles you, catching your attention and bringing you to a halt.  Looking down, you see a small skeletal dog at your feet.  He dances nimbly before you, halting your forward progress into the pit.  Blinking, you look again, and both the dog and the chasm are gone."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, southwest, west",
+      "Obvious paths: east, southeast, southwest, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2582": "east",
+      "2584": "west",
+      "2586": "southwest",
+      "2587": "southeast",
+      "2635": "/rooms/2583/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2583/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2583/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2582": 0.2,
+      "2584": 0.2,
+      "2586": 0.2,
+      "2587": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4566005
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      186,
+      643,
+      196,
+      653
+    ]
+  }
+}

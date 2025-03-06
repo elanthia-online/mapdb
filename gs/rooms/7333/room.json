@@ -1,0 +1,47 @@
+{
+  "checksum": "312cbbfb9e860a868504c0e659e75347",
+  "room": {
+    "id": 7333,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "All around you, the pasture is in various states of decay, with a few spots where a thorny undergrowth has strangled out a life for itself.  Imbued with the stench of rotting earth, the air hangs like a noose about your neck.  Choking for air, you continue on your way, moving as far away from the smell as you can."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7332": "northwest",
+      "7334": "northeast",
+      "7345": "southeast",
+      "7346": "southwest"
+    },
+    "timeto": {
+      "7332": 0.2,
+      "7334": 0.2,
+      "7345": 0.2,
+      "7346": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161004
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1042,
+      758,
+      1050,
+      766
+    ]
+  }
+}

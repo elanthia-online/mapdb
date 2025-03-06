@@ -1,0 +1,53 @@
+{
+  "checksum": "7ca48a1fa9db876bac207a80ab0d30c8",
+  "room": {
+    "id": 24534,
+    "title": [
+      "[Frozen Bramble Patch]"
+    ],
+    "description": [
+      "The view to the north is strikingly similar to one to the south, a solid wall of wooden barbs on either side.  Trudging forward in either direction is likely to be met with the same painful reward."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, west"
+    ],
+    "location": "the Abandoned Farm",
+    "climate": "snowy, arctic",
+    "terrain": "barren scrub",
+    "wayto": {
+      "24533": "west",
+      "24535": "southeast",
+      "24536": "east"
+    },
+    "timeto": {
+      "24533": 0.2,
+      "24535": 0.2,
+      "24536": 0.2
+    },
+    "tags": [
+      "snow lily",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "rockberry",
+      "crowberry",
+      "lingonberry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4124061
+    ],
+    "image": "imt-bramble_patch-1307499864.png",
+    "image_coords": [
+      301,
+      125,
+      312,
+      138
+    ]
+  }
+}

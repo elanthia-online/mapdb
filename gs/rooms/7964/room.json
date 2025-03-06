@@ -1,0 +1,46 @@
+{
+  "checksum": "797a4e16c3276a3a0129160854b1f699",
+  "room": {
+    "id": 7964,
+    "title": [
+      "[Burrows, Excavation]"
+    ],
+    "description": [
+      "Signs of fresh digging are evident here.  A few tools lie in the dirt, as well as large chunks of rock taken from the face of the wall.  The main focus of the excavation seems to be a small fissure in the rock, just large enough for you to slide through if you exhale completely."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Melgorehn's Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7963": "east",
+      "7965": "/rooms/7964/wayto/stringproc-7965.rb"
+    },
+    "timeto": {
+      "7963": 0.2,
+      "7965": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2148040
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      683,
+      539,
+      693,
+      549
+    ]
+  }
+}

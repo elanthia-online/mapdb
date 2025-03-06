@@ -1,0 +1,47 @@
+{
+  "checksum": "f67e5585f2bd693e5bb50fbb254234f4",
+  "room": {
+    "id": 11125,
+    "title": [
+      "[Sea Tunnels]"
+    ],
+    "description": [
+      "The sound of the river above is barely audible, drowned out by the earth and rock around you and the crunch of sand and plant life under your feet.  The tunnel continues off to the southeast and up to the northeast, where the sound of the river grows a bit louder."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11124": "northeast",
+      "11126": "southeast"
+    },
+    "timeto": {
+      "11124": 0.2,
+      "11126": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103025
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3246,
+      771,
+      3283,
+      810
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "76e5bbff7e8e2771c76daf3bab26088c",
+  "room": {
+    "id": 12211,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Purple liquid oozes over the floor, moving southward as the walls contract in on you and out again.  Slowly, it dawns on you that this is blood, turning from indigo to a more healthy red.  Worms an unwholesome shade of grey-green play in the liquid, drilling through the pulsing scarlet walls with sharp teeth."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west",
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12211/wayto/stringproc-2579.rb",
+      "12159": "west",
+      "12160": "southeast",
+      "12162": "northeast"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12159": 0.2,
+      "12160": 0.2,
+      "12162": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570005
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      938,
+      1055,
+      946,
+      1063
+    ]
+  }
+}

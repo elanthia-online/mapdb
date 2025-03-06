@@ -1,0 +1,44 @@
+{
+  "checksum": "0e29146884829e49b99ea279b9314524",
+  "room": {
+    "id": 3449,
+    "title": [
+      "[Honeybeer Inn, Tap Room]"
+    ],
+    "description": [
+      "The lower walls are tinted plaster over stone, as evidenced by the chips at the exact level of the chair backs.  The bar itself is worn, and the low brass footrest is polished only by the shoes of the many customers who have cradled a pint while leaning against the bar."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3448": "east",
+      "30709": "/rooms/3449/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "3448": 0.2,
+      "30709": "/rooms/3449/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043217
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      314,
+      1232,
+      350,
+      1268
+    ]
+  }
+}

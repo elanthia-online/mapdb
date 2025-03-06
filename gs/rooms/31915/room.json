@@ -1,0 +1,36 @@
+{
+  "checksum": "8d1225e3a17eb796a4f2c863ea547b59",
+  "room": {
+    "id": 31915,
+    "title": [
+      "[The Witching House, Laboratory]"
+    ],
+    "description": [
+      "A shallow set of steps lead down into the laboratory, its surroundings less bland than one might expect of an underground room.  The walls are lined with ebonwood panels, with an embroidered silk tapestry decorating one large area, while an ebonwood apothecary cabinet dominates nearly the entirety of the back wall.  Opposite the cabinet is a sturdy glass-topped worktable and a long silver-wrought shelf hung high enough above to accommodate all of the alchemical tools beneath.  Between the end of the worktable and the steps that lead out is a round side table with a a black parchment note scribed in silver ink propped atop it."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31914": "go steps",
+      "32083": "/rooms/31915/wayto/stringproc-32083.rb",
+      "32086": "north",
+      "32087": "south"
+    },
+    "timeto": {
+      "31914": 0.2,
+      "32083": 5,
+      "32086": 0.2,
+      "32087": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084605
+    ]
+  }
+}

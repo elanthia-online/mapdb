@@ -1,0 +1,41 @@
+{
+  "checksum": "1eb3df4b4c04303d28d9f4224fb31f6c",
+  "room": {
+    "id": 4151,
+    "title": [
+      "[Hall of the Dead, Common Crypt]"
+    ],
+    "description": [
+      "You find more notches to house the dead, but all the care has gone out of the carving of the receptacles.  Here the only interest was in conserving space."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4150": "go tunnel",
+      "4152": "east",
+      "4158": "north"
+    },
+    "timeto": {
+      "4150": 0.2,
+      "4152": 0.2,
+      "4158": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138015
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      886,
+      757,
+      896,
+      767
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "checksum": "cb945d916cd5ff09204e73db89b6ea6e",
+  "room": {
+    "id": 22501,
+    "title": [
+      "[Pelil's Costumery]"
+    ],
+    "description": [
+      "Shimmering walls of gold silk stretch out, each supported by wooden posts to make up the front room of the tent.  Numerous costumes are on display, ranging from all manner of creatures and races and styles, each organized neatly throughout the area.  A shimmering gold silk curtain leads deeper inside the tent."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20255": "out",
+      "22502": "go curtain"
+    },
+    "timeto": {
+      "20255": 0.2,
+      "22502": 0.2
+    },
+    "check_location": true
+  }
+}

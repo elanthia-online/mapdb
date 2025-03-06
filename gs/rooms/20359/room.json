@@ -1,0 +1,24 @@
+{
+  "checksum": "a250d73288a768d7b3ecd816941e1772",
+  "room": {
+    "id": 20359,
+    "title": [
+      "[Jangling Junker, Midship]"
+    ],
+    "description": [
+      "The first striking thing noticeable about this mid-sized ship is the sheer amount of junk it is capable of carrying.  A thin maze contorts through towers of old furniture and refuse that lean precariously against each other for support.  Overhead, lines have been drawn from mast to mast in order to hang discarded remnants of armor and old pots and pans that jangle together as the ship rocks on the current.  Claustrophobic paths lead towards the bow and stern."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26421": "out",
+      "28562": "go shelter"
+    },
+    "timeto": {
+      "26421": 0.2,
+      "28562": 0.2
+    }
+  }
+}

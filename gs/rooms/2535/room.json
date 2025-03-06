@@ -1,0 +1,50 @@
+{
+  "checksum": "3b7d927e2a4832f62912577768ab00c5",
+  "room": {
+    "id": 2535,
+    "title": [
+      "[Snowy Plains, The River]"
+    ],
+    "description": [
+      "Beside the trail, the river has become a torrent of rushing water.  Huge chunks of ice gnash forcefully together, spraying you with frigid droplets.  A formation of rocks points the way south toward a barely seen small path."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "riparian",
+    "wayto": {
+      "2534": "/rooms/2535/wayto/stringproc-2534.rb",
+      "2536": "/rooms/2535/wayto/stringproc-2536.rb"
+    },
+    "timeto": {
+      "2534": 0.2,
+      "2536": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "frostweed",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "thorny wintersbite",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044102
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      853,
+      554,
+      863,
+      564
+    ]
+  }
+}

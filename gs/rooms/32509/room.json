@@ -1,0 +1,38 @@
+{
+  "checksum": "1929892836e325214a9ec75e533dc4e6",
+  "room": {
+    "id": 32509,
+    "title": [
+      "[Consortium, East Hall]"
+    ],
+    "description": [
+      "Dark-paneled walls rise up along a smooth floor of burnished grey wood.  Light from the atrium shines in through a row of high arched windows, which cast a warm glow along several fel-framed paintings along one wall.  A polished statue of a red marble lion stands to the side of a wide staircase leading up."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32500": "west",
+      "32510": "go staircase",
+      "32513": "go door",
+      "32514": "south"
+    },
+    "timeto": {
+      "32500": 0.2,
+      "32510": 0.2,
+      "32513": 0.2,
+      "32514": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336183
+    ]
+  }
+}

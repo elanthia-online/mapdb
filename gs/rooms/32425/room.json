@@ -1,0 +1,45 @@
+{
+  "checksum": "c02facb2a700ebe892d86dfafe7da9f8",
+  "room": {
+    "id": 32425,
+    "title": [
+      "[Moonsedge, Ash and Scarlet]"
+    ],
+    "description": [
+      "Mountain ash trees lean over the roadside, heavy with clusters of bright red berries.  They shadow the wreckage of a cleric's shop set back from the street, protected from prying eyes by high hedges.  Heavy doors of elm bear the scars of axe blows and the windows are shattered, but a barricade on the other side blocks entry."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32415": "west",
+      "32426": "north",
+      "32429": "south",
+      "32430": "east"
+    },
+    "timeto": {
+      "32415": 0.2,
+      "32426": 0.2,
+      "32429": 0.2,
+      "32430": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577018
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      441,
+      286,
+      461,
+      304
+    ]
+  }
+}

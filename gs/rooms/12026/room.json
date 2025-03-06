@@ -1,0 +1,45 @@
+{
+  "checksum": "579c277672fb42050c391de67bbf77e5",
+  "room": {
+    "id": 12026,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "A series of stone benches circles out and around a large oval space to the east.  A section of the tiered seats is toppled over at the northern end of the oval, breaking the perfect symmetry of the structure and forming a wall along the edge of the river."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12015": "south",
+      "12020": "go benches",
+      "12025": "northeast",
+      "12027": "north"
+    },
+    "timeto": {
+      "12015": 0.2,
+      "12020": 0.2,
+      "12025": 0.2,
+      "12027": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004048
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      862,
+      501,
+      872,
+      511
+    ]
+  }
+}

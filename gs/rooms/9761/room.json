@@ -1,0 +1,38 @@
+{
+  "checksum": "3c48ed77cf11e9ec9b93c6e906f3db87",
+  "room": {
+    "id": 9761,
+    "title": [
+      "[Maaghara Tower, Landing]"
+    ],
+    "description": [
+      "The incline stops at the foot of a suspended bridge that traverses the abyss of empty air with delicate stairs made of polished ebony.  Each stair hangs on silver wire no greater in diameter than a hair, and the steps are inlaid with tiny pieces of colored wood that form a pattern of runes around the risers.  A tapestry hangs on the wall opposite the stair, its vast dimensions dwarfing the delicate construction of the stair."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9760": "down",
+      "9762": "climb stairs"
+    },
+    "timeto": {
+      "9760": 0.2,
+      "9762": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021033
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      834,
+      202,
+      844,
+      212
+    ]
+  }
+}

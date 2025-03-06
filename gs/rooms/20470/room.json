@@ -1,0 +1,24 @@
+{
+  "checksum": "2dcbddad6b4dac32b26a4bc204c7c786",
+  "room": {
+    "id": 20470,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "The water is still shallow, yet begins to darken here.  The arctic shores of Glaoveln become foggy in the distance."
+    ],
+    "paths": [
+      "Obvious paths: east, out"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20467": "/rooms/20470/wayto/stringproc-20467.rb",
+      "20471": "/rooms/20470/wayto/stringproc-20471.rb"
+    },
+    "timeto": {
+      "20467": 2,
+      "20471": 2
+    }
+  }
+}

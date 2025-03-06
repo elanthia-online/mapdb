@@ -1,0 +1,36 @@
+{
+  "checksum": "6f1c624134a6e19b58104dfa4bd5a1bf",
+  "room": {
+    "id": 5612,
+    "title": [
+      "[Locksmith, Backroom]"
+    ],
+    "description": [
+      "The backroom of the locksmith's shop is stark, and lit by a single tallow candle.  A blob of wax secures the candle atop a locked case that provides the only seating in the uncomfortable room.  A tall cabinet secured with a sturdy padlock occupies the far wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4610": "go doorway",
+      "30708": "/rooms/5612/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "4610": 0.2,
+      "30708": "/rooms/5612/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "locksmith",
+      "urchin-access",
+      "urchin guide locksmith",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "locksmith shop"
+    ],
+    "uid": [
+      3024
+    ]
+  }
+}

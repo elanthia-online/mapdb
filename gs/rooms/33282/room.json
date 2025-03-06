@@ -1,0 +1,42 @@
+{
+  "checksum": "1fb7b0cf00354382223f6e50b8a24bf9",
+  "room": {
+    "id": 33282,
+    "title": [
+      "[Vornavis, Dondraek Lane]"
+    ],
+    "description": [
+      "Slowly transitioning from a residential area to the south, the northern section of the avenue that follows the line of the Vornavis-Solhaven wall becomes less densely populated.  Lampposts are more prevalent amid the tidy storehouses and customs houses, which are surrounded by wagons in various stages of being loaded or unloaded.  A set of cobbled stairs rises towards the gated entry into the sister city."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33281": "south",
+      "33283": "go cobbled stairs"
+    },
+    "timeto": {
+      "33281": 0.2,
+      "33283": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201107
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1662,
+      643,
+      1683,
+      663
+    ]
+  }
+}

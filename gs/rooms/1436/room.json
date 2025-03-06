@@ -1,0 +1,46 @@
+{
+  "checksum": "947bd6b8c669fa2e7645c68ebbb04939",
+  "room": {
+    "id": 1436,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "A small wooden dock extends out into the bay, the barnacle-covered pilings driven down through the rocky shore.  The weathered planks run right up to the edge of the cobbled street.  Noisy crowds jostle past as townsfolk scurry about their errands."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "594": "go dock",
+      "1435": "northeast",
+      "1437": "southwest",
+      "1444": "east",
+      "1448": "south"
+    },
+    "timeto": {
+      "594": 0.2,
+      "1435": 0.2,
+      "1437": 0.2,
+      "1444": 0.2,
+      "1448": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209018
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      450,
+      1026,
+      474
+    ]
+  }
+}

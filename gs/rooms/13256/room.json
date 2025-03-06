@@ -1,0 +1,55 @@
+{
+  "checksum": "baceea772d1553eb00a097fee75de13d",
+  "room": {
+    "id": 13256,
+    "title": [
+      "[The Lost Home, Patio]"
+    ],
+    "description": [
+      "A great oak stands in the middle of the enclosed patio, its spreading branches providing both shade and protection from the elements.  The Lost Home's two wings wrap around either side of the area, enclosing a few quaint tables from the walkways beyond.  Across the lawn, a small pond is fed by a narrow brook that encircles the massive tree."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Lost Home",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13255": "south",
+      "13257": "go bar",
+      "24551": "/rooms/13256/wayto/stringproc-24551.rb",
+      "24552": "/rooms/13256/wayto/stringproc-24552.rb",
+      "24553": "/rooms/13256/wayto/stringproc-24553.rb",
+      "24554": "/rooms/13256/wayto/stringproc-24554.rb",
+      "25492": "/rooms/13256/wayto/stringproc-25492.rb",
+      "30714": "/rooms/13256/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "13255": 0.2,
+      "13257": 0.2,
+      "24551": 0.2,
+      "24552": 0.2,
+      "24553": 0.2,
+      "24554": 0.2,
+      "25492": 0.2,
+      "30714": "/rooms/13256/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables",
+      "no forageables"
+    ],
+    "uid": [
+      13112003
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      589,
+      373,
+      644,
+      432
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "a8d9b1bc297725d3be1a273a5c06a6f2",
+  "room": {
+    "id": 9553,
+    "title": [
+      "[Wizard Guild, Stone Courtyard]"
+    ],
+    "description": [
+      "Giant luminescent toadstools planted in neat rows along the perimeter cast a soft, bluish-white light upon the small courtyard.  A wide, limestone and slate walkway encircles an ametrine geode fountain midway between the dark mithril arch leading to the main tunnel and a domed white granite building with heavy marble doors.  The faint aroma of loam and brine lingers in the air."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9432": "go arch",
+      "9554": "go doors",
+      "30712": "/rooms/9553/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9432": 0.2,
+      "9554": "/rooms/9553/timeto/stringproc-9554.rb",
+      "30712": "/rooms/9553/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "wizardguild",
+      "urchin-access",
+      "urchin guide wizardguild",
+      "wizard guild",
+      "no forageables"
+    ],
+    "uid": [
+      688001
+    ],
+    "image": "en-zul-wizard_guild-1648064027.png",
+    "image_coords": [
+      153,
+      280,
+      217,
+      339
+    ]
+  }
+}

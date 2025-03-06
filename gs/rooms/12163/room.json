@@ -1,0 +1,60 @@
+{
+  "checksum": "7e9cdb3de84d499d37972579f8112b42",
+  "room": {
+    "id": 12163,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A large snow-filled valley with rough sloping sides opens up before you.  On the ridge tops from one end to the other stand two main groups of creatures.  The north ridge holds huge clans of ice trolls standing ready with large slabs of ice, while on the south ridge groups of frost giants mutter at each other, holding equally large slabs.  In the center of the valley a lone storm giant stands, arms up to signal the racers."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest",
+      "Obvious exits: southeast, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12163/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12163/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12163/wayto/stringproc-12093.rb",
+      "12104": "northwest",
+      "12117": "southwest",
+      "12164": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12104": 0.2,
+      "12117": 0.2,
+      "12164": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567041
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1002,
+      726,
+      1012,
+      736
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "d3bf15f476d327378057c7a99d6d33b6",
+  "room": {
+    "id": 11736,
+    "title": [
+      "[Marsh Keep, Dungeon Vault]"
+    ],
+    "description": [
+      "From the direction of a hallway to the east, a loud clanking noise as if someone or something is bashing a metal object, Echoes into the vaulted chamber.  The tattered remains of an old tapestry lie heaped in a corner, partially concealing a broken metal rod from which it once was suspended.  Flickering light from five torches to the east create the sensation of dark figures moving back and forth in nearby shadows."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, west"
+    ],
+    "location": "the Marsh Keep",
+    "wayto": {
+      "11735": "west",
+      "11737": "east",
+      "11741": "southwest"
+    },
+    "timeto": {
+      "11735": 0.2,
+      "11737": 0.2,
+      "11741": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376075
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      589,
+      622,
+      599,
+      632
+    ]
+  }
+}

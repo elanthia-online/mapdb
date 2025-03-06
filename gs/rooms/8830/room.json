@@ -1,0 +1,45 @@
+{
+  "checksum": "62442f742937b6b4029ae83a84736ca7",
+  "room": {
+    "id": 8830,
+    "title": [
+      "[Orc's Nest Road]"
+    ],
+    "description": [
+      "The narrow cobblestone lane leads east and west, winding between rows of humble wood and stone houses.  Smoke rises from many chimneys, filling the air with smells of burning wood and cooking food and more than a little haze.  A life-size stone statue of a grinning orc stands by the gate, keeping watch as workmen and visitors pass to and fro."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "323": "go gate",
+      "8831": "east",
+      "8837": "north",
+      "8841": "west"
+    },
+    "timeto": {
+      "323": 0.2,
+      "8831": 0.2,
+      "8837": 0.2,
+      "8841": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      701357
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      181,
+      794,
+      199,
+      812
+    ]
+  }
+}

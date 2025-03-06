@@ -1,0 +1,44 @@
+{
+  "checksum": "fd8a76c57d396c5e726b9e5b91810c7e",
+  "room": {
+    "id": 12776,
+    "title": [
+      "[The Edge]"
+    ],
+    "description": [
+      "The trail curves sharply to the northeast, circling jagged stone perimeters and sidling along gullied rents.  Loose shale creates a downward slide south of that, where large, irregularly configured knives of stone stick up out of the scree here and there as the decline disappears into the gloom.  A low hissing can be heard, the sound of steam escaping from unseen fissures elsewhere in the cavern.  It rises and falls in volume, like gusts of wind sighing around a closed window during a storm."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "McKyren's End",
+    "wayto": {
+      "12775": "west",
+      "12777": "northeast",
+      "12787": "climb slide"
+    },
+    "timeto": {
+      "12775": 0.2,
+      "12777": 0.2,
+      "12787": 0.2
+    },
+    "tags": [
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3063002
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      601,
+      449,
+      611,
+      459
+    ]
+  }
+}

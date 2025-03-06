@@ -1,0 +1,29 @@
+{
+  "checksum": "6da3e59d190566189396b03b802f6715",
+  "room": {
+    "id": 34410,
+    "title": [
+      "[Bard Guild, Upstairs Hallway]"
+    ],
+    "description": [
+      "Sunlight streams in through the tall open window, warming the gold-flecked marble floor.  Beautifully carved, teak molding runs down the hall, interrupted by a silk-draped archway.  Twin ceramic urns of exotic flowers stand against the wall, filling the corridor with their sweet perfume."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "34405": "northwest",
+      "34411": "east",
+      "34413": "go silk archway"
+    },
+    "timeto": {
+      "34405": 0.2,
+      "34411": 0.2,
+      "34413": 0.2
+    },
+    "uid": [
+      289120
+    ]
+  }
+}

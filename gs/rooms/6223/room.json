@@ -1,0 +1,66 @@
+{
+  "checksum": "4749d2c6275205ab605d3324a54f9bce",
+  "room": {
+    "id": 6223,
+    "title": [
+      "[Labyrinth]"
+    ],
+    "description": [
+      "Lichen covers the walls and floor, increasing the danger of the terrain."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6222": "/rooms/6223/wayto/stringproc-6222.rb",
+      "6224": "/rooms/6223/wayto/stringproc-6224.rb",
+      "6225": "/rooms/6223/wayto/stringproc-6225.rb",
+      "6229": "/rooms/6223/wayto/stringproc-6229.rb",
+      "6230": "/rooms/6223/wayto/stringproc-6230.rb",
+      "6231": "/rooms/6223/wayto/stringproc-6231.rb",
+      "6232": "/rooms/6223/wayto/stringproc-6232.rb",
+      "6233": "/rooms/6223/wayto/stringproc-6233.rb",
+      "6234": "/rooms/6223/wayto/stringproc-6234.rb",
+      "6235": "/rooms/6223/wayto/stringproc-6235.rb"
+    },
+    "timeto": {
+      "6222": 0.5,
+      "6224": 0.5,
+      "6225": 0.5,
+      "6229": 0.5,
+      "6230": 0.5,
+      "6231": 0.5,
+      "6232": 0.5,
+      "6233": 0.5,
+      "6234": 0.5,
+      "6235": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167117
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1102,
+      234,
+      1120,
+      252
+    ]
+  }
+}

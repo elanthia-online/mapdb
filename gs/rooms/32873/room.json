@@ -1,0 +1,35 @@
+{
+  "checksum": "8867698bba9b7d58733beb40e2228581",
+  "room": {
+    "id": 32873,
+    "title": [
+      "[Silverwood Manor, Courtyard]"
+    ],
+    "description": [
+      "The grey-hewn walls of stone are covered in flecks of precious metal and gemstones, the surface glinting with the ambient light cast by several silver-forged lanterns leading towards the manor.  Dried tufts of cave moss frame the pathway to a carved haon door, the wood decorated with a lively scene of several dwarves in a bustling market, the intaglio encircling a gilded plaque.  Nestled into the corner of the door and walls is a mine cart-shaped donation bin."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Zul Logoth",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5749": "out",
+      "13532": "/rooms/32873/wayto/stringproc-13532.rb"
+    },
+    "timeto": {
+      "5749": 0.2,
+      "13532": 0.2
+    },
+    "tags": [
+      "silverwood",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      4384070
+    ]
+  }
+}

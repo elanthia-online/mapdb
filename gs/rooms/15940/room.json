@@ -1,0 +1,30 @@
+{
+  "checksum": "10bd5abb1ec2e56c125e18ab29d69763",
+  "room": {
+    "id": 15940,
+    "title": [
+      "[Lydrift's Weaponry]",
+      "[Lydrift's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A gilded maple cabinet and a plain wooden table sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "338": "out",
+      "15945": "east",
+      "15954": "north"
+    },
+    "timeto": {
+      "338": 0.2,
+      "15945": 0.2,
+      "15954": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

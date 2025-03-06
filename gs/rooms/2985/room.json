@@ -1,0 +1,41 @@
+{
+  "checksum": "9ffaf58d0e85c5e1e1bbe0016d96002b",
+  "room": {
+    "id": 2985,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "The floor tiling stops at a sunken rectangular pit completely filled with bones.  A faint rattling sound disturbs the silence, nothing more than a soft echo, and low clouds of dust filter from the pit as if something were moving underneath the collection of skulls and tibiae."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2984": "south",
+      "2986": "west",
+      "2987": "north"
+    },
+    "timeto": {
+      "2984": 0.2,
+      "2986": 0.2,
+      "2987": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132108
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1392,
+      308,
+      1444,
+      361
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "72ddd4e1e4fcf5723be45dcfe4bbf8d3",
+  "room": {
+    "id": 7474,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "A peculiar smell permeates the area, irritating your nose and eyes.  The odor is not strong and has no discernible source, but it leaves a bitter, foul taste in the back of your mouth.  The stench only adds to the general feeling of discomfort in the narrow confines of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7471": "/rooms/7474/wayto/stringproc-7471.rb",
+      "7475": "/rooms/7474/wayto/stringproc-7475.rb"
+    },
+    "timeto": {
+      "7471": 0.2,
+      "7475": 0.2
+    },
+    "tags": [
+      "sponge mushroom",
+      "some glowing green lichen",
+      "magru",
+      "bone mushroom"
+    ],
+    "uid": [
+      94016
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      916,
+      934,
+      926,
+      944
+    ]
+  }
+}

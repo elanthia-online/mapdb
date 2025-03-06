@@ -1,0 +1,36 @@
+{
+  "checksum": "26f441a4ad8b847dc5de4337f79f2df3",
+  "room": {
+    "id": 12940,
+    "title": [
+      "[Velathae, South Winter's Ring]"
+    ],
+    "description": [
+      "A small alley descends to the southeast, leading away from Tower Hill and the town's center.  As the road declines, so does the quality of appearance and craftsmanship of the buildings that surround it."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12939": "southeast",
+      "12953": "northeast",
+      "12954": "west"
+    },
+    "timeto": {
+      "12939": 0.2,
+      "12953": 0.2,
+      "12954": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ],
+    "image_coords": [
+      904,
+      956,
+      932,
+      984
+    ]
+  }
+}

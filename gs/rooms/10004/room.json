@@ -1,0 +1,79 @@
+{
+  "checksum": "955dc569d62e43128ffd74eead1d14a3",
+  "room": {
+    "id": 10004,
+    "title": [
+      "[Yegharren Valley, Ravine]"
+    ],
+    "description": [
+      "The long-buried bones of some unfortunate fallen adventurer protrude from a huge pile of jagged rocks left by the ancient landslide that buried the east end of the ravine in crumbled stone.  The walls rise steeply to both sides, revealing subtle grey patterns of striated rock."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Yegharren Plains",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10003": "west",
+      "10006": "climb rocks"
+    },
+    "timeto": {
+      "10003": 0.2,
+      "10006": 0.2
+    },
+    "tags": [
+      "small daisy",
+      "small flower",
+      "blue whortleberry",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small rose",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2022-11",
+      "rye grass",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "brown potato",
+      "agave heart",
+      "juniper berry",
+      "purple potato",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13036115
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1349,
+      796,
+      1359,
+      806
+    ]
+  }
+}

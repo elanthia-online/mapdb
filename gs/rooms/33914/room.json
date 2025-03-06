@@ -1,0 +1,51 @@
+{
+  "checksum": "7a7a979fc4adc1c482d47570f37301a9",
+  "room": {
+    "id": 33914,
+    "title": [
+      "[Zul Logoth, Onyx Tunnel]"
+    ],
+    "description": [
+      "Potted toadstools offer a glow that lights up the striped walls in this section of tunnels.  Foot traffic passes through the arch in the north wall and deeper into the tunnels to the south.  Those who come and go through a rune-carved portal in the west wall typically bear solemn expressions.  On the opposite wall is a dark opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "wayto": {
+      "9430": "go arch",
+      "33915": "go opening",
+      "33916": "go portal"
+    },
+    "timeto": {
+      "9430": 0.2,
+      "33915": 0.2,
+      "33916": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13006072
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      264,
+      155,
+      289,
+      181
+    ]
+  }
+}

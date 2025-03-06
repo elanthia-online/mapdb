@@ -1,0 +1,40 @@
+{
+  "checksum": "11e283580ff36442cbdce7a4f2d9e3f7",
+  "room": {
+    "id": 17709,
+    "title": [
+      "[Citadel, Dungeon Corridor]"
+    ],
+    "description": [
+      "Broken clay jars line both sides of the corridor, emptied of their contents centuries before.  Beside a steel door lies a bundle of cloth and coils of rope covered in dust.  Over everything run small rodent footprints helter skelter in no obvious pattern or design."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17708": "west",
+      "17710": "go door",
+      "17712": "north"
+    },
+    "timeto": {
+      "17708": 0.2,
+      "17710": 0.2,
+      "17712": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377311
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      205,
+      1069,
+      215,
+      1079
+    ]
+  }
+}

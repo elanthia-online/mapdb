@@ -1,0 +1,34 @@
+{
+  "checksum": "da5c1a266aefd0d3f12f70086c09f788",
+  "room": {
+    "id": 34400,
+    "title": [
+      "[Seareach - Urchin Hideout]"
+    ],
+    "description": [
+      "This is a fake room used to hold wayto/timeto for urchin guides."
+    ],
+    "paths": [
+      "Obvious exits: bwahaha"
+    ],
+    "location": "Seareach",
+    "wayto": {
+      "32928": "urchin guide docks",
+      "32930": "urchin guide tables",
+      "32936": "urchin guide postoffice",
+      "32941": "urchin guide armor",
+      "32947": "urchin guide osatask"
+    },
+    "timeto": {
+      "32928": "/rooms/34400/timeto/stringproc-32928.rb",
+      "32930": "/rooms/34400/timeto/stringproc-32930.rb",
+      "32936": "/rooms/34400/timeto/stringproc-32936.rb",
+      "32941": "/rooms/34400/timeto/stringproc-32941.rb",
+      "32947": "/rooms/34400/timeto/stringproc-32947.rb"
+    },
+    "tags": [
+      "urchin-hideout",
+      "meta:map:virtual room"
+    ]
+  }
+}

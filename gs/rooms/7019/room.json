@@ -1,0 +1,42 @@
+{
+  "checksum": "9a337e87305dd9b431c1a4f277e55156",
+  "room": {
+    "id": 7019,
+    "title": [
+      "[Castle Darkstone, Gatehouse]"
+    ],
+    "description": [
+      "You are standing atop the southernmost of the two towers which flank the entrance to the outer keep.  A large drum wound with chain rests here, apparently to control the motion of the inner portcullis, but you see no way to manipulate the mechanism.  A thin plank of wood connects this tower to its twin to the north."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7018": "go plank",
+      "7020": "south"
+    },
+    "timeto": {
+      "7018": 0.2,
+      "7020": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45155
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      303,
+      538,
+      313,
+      548
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "a4e6c76e16d17e1670544ecefae93f90",
+  "room": {
+    "id": 3484,
+    "title": [
+      "[Ta'Vaalor, Amaranth Wey]"
+    ],
+    "description": [
+      "The wey branches off in several directions, the bustling crowd splitting as they pursue their various courses.  Haon bushes line the edges of the limestone cobbles, their neatly trimmed branches forming a tight phalanx to keep passersby on the road.  A large limestone building stands off to the side, with a constant flow of travelers heading in and out.  Two city guardsmen stand next to a mithril gate, eyeing everyone suspiciously."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3483": "west",
+      "3485": "northeast",
+      "3494": "east",
+      "10302": "go building",
+      "27919": "go mithril gate"
+    },
+    "timeto": {
+      "3483": 0.2,
+      "3485": 0.2,
+      "3494": 0.2,
+      "10302": 0.2,
+      "27919": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100005
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      776,
+      255,
+      811,
+      291
+    ]
+  }
+}

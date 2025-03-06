@@ -1,0 +1,44 @@
+{
+  "checksum": "fb54cc5b6d372ae7f9994e3d4013213a",
+  "room": {
+    "id": 5417,
+    "title": [
+      "[Bonespear Tower, Hallway]"
+    ],
+    "description": [
+      "Covering the floor is a dark tattered rug that is heavily damaged from what looks like a series of claw marks.  Similar gouges in rows of three and four are also marring the walls and ceiling, and only a beast of immense power could leave such scars in the stone."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "5413": "south",
+      "5418": "north",
+      "13016": "go doorway"
+    },
+    "timeto": {
+      "5413": 0.2,
+      "5418": 0.2,
+      "13016": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319102
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      907,
+      1043,
+      917,
+      1053
+    ]
+  }
+}

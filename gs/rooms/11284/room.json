@@ -1,0 +1,43 @@
+{
+  "checksum": "3f5bcdb479ab22242c1378c4a956f008",
+  "room": {
+    "id": 11284,
+    "title": [
+      "[Zoo, Cage Area]"
+    ],
+    "description": [
+      "There is an opening in the bars here where it appears they were forced apart by a beast of great strength.  The fresh animal smells in the cage make you think that the beast could still lair inside."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the Citadel",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11281": "south",
+      "11285": "go opening",
+      "11286": "west"
+    },
+    "timeto": {
+      "11281": 0.2,
+      "11285": 0.2,
+      "11286": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      377061
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      617,
+      735,
+      627,
+      745
+    ]
+  }
+}

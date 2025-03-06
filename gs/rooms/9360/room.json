@@ -1,0 +1,41 @@
+{
+  "checksum": "37665c5d75580812c571e5c79bf96d82",
+  "room": {
+    "id": 9360,
+    "title": [
+      "[Caves]"
+    ],
+    "description": [
+      "As you travel deeper into the caves, sound echoes more oddly, leaving you slightly confused and off balance.  The floor of the cave is getting slicker from the water dripping down the sides, and the air is getting distinctly more chill."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Cairnfang",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9358": "east",
+      "9361": "west"
+    },
+    "timeto": {
+      "9358": 0.2,
+      "9361": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      630022
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      956,
+      63,
+      968,
+      75
+    ]
+  }
+}

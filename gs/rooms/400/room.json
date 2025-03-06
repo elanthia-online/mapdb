@@ -1,0 +1,42 @@
+{
+  "checksum": "e22c7f50aaa774f2c738253b55b0c9ea",
+  "room": {
+    "id": 400,
+    "title": [
+      "[First Elanith Bank, Teller]"
+    ],
+    "description": [
+      "Most of the teller windows that line this room are missing the gates and gratings that once secured them.  Impatient clients stand at one of the two intact windows, waiting to get the attention of the tellers on the other side."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "399": "go low arch",
+      "30708": "/rooms/400/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "399": 0.2,
+      "30708": "/rooms/400/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "bank",
+      "meta:teleport:fwi",
+      "antimagic",
+      "urchin-access",
+      "urchin guide bank",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2005
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      196,
+      617,
+      232,
+      653
+    ]
+  }
+}

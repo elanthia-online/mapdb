@@ -1,0 +1,34 @@
+{
+  "checksum": "b92289512749f8033e0142e74fd7c40c",
+  "room": {
+    "id": 16202,
+    "title": [
+      "[Beacon Hall, Storage Room]"
+    ],
+    "description": [
+      "Cupboards, shelves and bins completely fill this room, each overflowing with every type of clothing, armor, weaponry, and trinket imaginable.  Signs hang from the ceiling over separated areas: \"Goat Festival,\" \"Halcyon Days Festival,\" \"Auction,\" and \"Odds and Ends.\""
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16199": "go door",
+      "22223": "push button"
+    },
+    "timeto": {
+      "16199": 0.2,
+      "22223": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      719,
+      261,
+      768,
+      308
+    ]
+  }
+}

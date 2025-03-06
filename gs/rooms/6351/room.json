@@ -1,0 +1,35 @@
+{
+  "checksum": "9b4ecea37a796110942373cfd0a89f54",
+  "room": {
+    "id": 6351,
+    "title": [
+      "[Wizard Guild, Stairway NW]"
+    ],
+    "description": [
+      "The narrow stairs wind their way up into the dark tower far higher than one would expect, only to dead end at the top with a door.  Spaced out along the walls are bronze sconces that hold glowing torches that provides more than enough light to see by without any visible flame.  An occasional cool night breeze sneaks through the few open narrow windows.",
+      "The narrow stairs wind their way up the tower far higher than one would expect only to end at a door at the top.  Light streams in from the narrow windows that ring the tower at evenly spaced intervals."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6348": "go stairs",
+      "6352": "go door"
+    },
+    "timeto": {
+      "6348": 0.2,
+      "6352": 0.2
+    },
+    "uid": [
+      681026
+    ],
+    "image": "wl-wizard_guild.jpg",
+    "image_coords": [
+      111,
+      205,
+      159,
+      253
+    ]
+  }
+}

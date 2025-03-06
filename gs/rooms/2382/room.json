@@ -1,0 +1,44 @@
+{
+  "checksum": "f847d46942f453647dca112bf7c96f4a",
+  "room": {
+    "id": 2382,
+    "title": [
+      "[Underground Tunnel]",
+      "[Magical Burrow, Tunnelway]"
+    ],
+    "description": [
+      "Fog roils down from above, obscuring the uneven ground.  The tunnel's walls are hard earth, packed and frozen besides.  Hanging roots dip down from the rough ceiling, some fringed with spindly icicles.",
+      "Fog rolls in from above, obscuring your view of the ground beneath your feet.  The walls are hard, packed dirt with hanging roots that entwine around themselves and the small rocks embedded in the walls."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2381": "up",
+      "2383": "west"
+    },
+    "timeto": {
+      "2381": 0.2,
+      "2383": 0.2
+    },
+    "tags": [
+      "meta:mapname:Icemule Trace - Underground",
+      "meta:mapshortname:Underground",
+      "meta:mapcategory:Icemule Trace",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042122
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1229,
+      143,
+      1239,
+      153
+    ]
+  }
+}

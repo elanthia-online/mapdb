@@ -1,0 +1,34 @@
+{
+  "checksum": "5add5b8cfe33335838110d299c9ccecd",
+  "room": {
+    "id": 1851,
+    "title": [
+      "[The Healer's Tent]"
+    ],
+    "description": [
+      "Rough leather cots line the circular wall, separated by small tripods spaced evenly between each pair.  A brusque dwarf eyes you with a steady glare, his lip curled into a snarl of deepening impatience."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1850": "out",
+      "30715": "/rooms/1851/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1850": 0.2,
+      "30715": "/rooms/1851/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "npchealer",
+      "herbalist",
+      "urchin-access",
+      "urchin guide healer",
+      "urchin guide herbalist"
+    ],
+    "uid": [
+      3003056
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "6e6a4bfa7174f98b95889ee0daff9414",
+  "room": {
+    "id": 10899,
+    "title": [
+      "[Abalonia's Oceanic Artwork]"
+    ],
+    "description": [
+      "Beautiful wall hangings sway from the rafters in this small room, catching the moonlight and casting small rainbows of color on the walls.  A small stool rests in one corner, stacked with embroidery thread and tools.",
+      "Beautiful wall hangings sway from the rafters in this small room, catching the light and casting small rainbows of color on the walls.  A small stool rests in one corner, stacked with embroidery thread and tools."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10898": "go door",
+      "10900": "south",
+      "10905": "east"
+    },
+    "timeto": {
+      "10898": 0.2,
+      "10900": 0.2,
+      "10905": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2300004
+    ]
+  }
+}

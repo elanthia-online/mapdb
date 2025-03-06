@@ -1,0 +1,35 @@
+{
+  "checksum": "97b275cf874126127a19b9c117596100",
+  "room": {
+    "id": 17170,
+    "title": [
+      "[Cobbler's Cobby, Storage Room]"
+    ],
+    "description": [
+      "Bound by thick cords, spotted leopard pelts lay in a heap outside of an overturned coffer.  On a countertop in the rear of the room, clear jars are filled with an assortment of various-sized brass studs.  Displayed on the opposite end of the counter are shiny buckles that can be used to adorn almost any style boots or shoes."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4696": "east",
+      "17171": "go steps",
+      "30717": "/rooms/17170/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4696": 0.2,
+      "17171": 0.2,
+      "30717": "/rooms/17170/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "cobbling",
+      "urchin guide cobbling",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      4054005
+    ]
+  }
+}

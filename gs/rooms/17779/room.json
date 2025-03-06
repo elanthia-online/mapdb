@@ -1,0 +1,34 @@
+{
+  "checksum": "5f2307581ebb5fe982c62ca27a4df021",
+  "room": {
+    "id": 17779,
+    "title": [
+      "[Guild Hall, Arena]"
+    ],
+    "description": [
+      "The ground in this cavern chamber fans out in a semicircle and slopes down in even steps to the level area at the bottom.  Long wooden benches have been bolted onto each step, providing comfortable seating for those viewing the action in the ring below."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17776": "southeast",
+      "17780": "go ring"
+    },
+    "timeto": {
+      "17776": 0.2,
+      "17780": 0.2
+    },
+    "uid": [
+      250050
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      574,
+      103,
+      593,
+      122
+    ]
+  }
+}

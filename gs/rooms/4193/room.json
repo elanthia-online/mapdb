@@ -1,0 +1,41 @@
+{
+  "checksum": "c3e5bd5c4a6e21cfe097706b93abbe01",
+  "room": {
+    "id": 4193,
+    "title": [
+      "[Dark-One's Keep]"
+    ],
+    "description": [
+      "This room houses bins and containers.  Some containers are overflowing with garments, others have weapons stacked into them.  The thought crosses your mind that you might be able to find something here you could use.  But you change your mind when you realize that would probably be equivalent to robbing the dead."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4179": "northwest",
+      "4183": "southeast",
+      "4195": "go crack"
+    },
+    "timeto": {
+      "4179": 0.2,
+      "4183": 0.2,
+      "4195": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138135
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      731,
+      1103,
+      741,
+      1113
+    ]
+  }
+}

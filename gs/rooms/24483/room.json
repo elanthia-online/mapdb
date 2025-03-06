@@ -1,0 +1,34 @@
+{
+  "checksum": "9f265422d00fe42a61171470cc84936b",
+  "room": {
+    "id": 24483,
+    "title": [
+      "[Rone Academy, Cathedral Entry]"
+    ],
+    "description": [
+      "A wide corridor leads between the busy alumni hall to the east and the arch that serves as the entrance to the main cathedral to the west.  Murals depicting the icons of the Liabo and Lornon pantheons adorn the walls."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Rone Academy",
+    "wayto": {
+      "24407": "east",
+      "24484": "go arch"
+    },
+    "timeto": {
+      "24407": 0.2,
+      "24484": 0.2
+    },
+    "uid": [
+      217032
+    ],
+    "image": "wl-rone_academy-1619899949.png",
+    "image_coords": [
+      585,
+      266,
+      609,
+      290
+    ]
+  }
+}

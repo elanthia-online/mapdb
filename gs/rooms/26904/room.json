@@ -1,0 +1,42 @@
+{
+  "checksum": "c7e6c09cf88330bb6baa8a28d133913d",
+  "room": {
+    "id": 26904,
+    "title": [
+      "[Bloodriven Village, Exterior]"
+    ],
+    "description": [
+      "Mingled scents of tanik and cedar fill the air as dense fir trees crowd the remains of the cobblestone and dirt road, which ends abruptly at the dark waters of a wide river.  A dilapidated wooden dock appears to have rotted away almost entirely, while nearby a few benches sit near the stone wall amidst the remnants of an abandoned card game.",
+      "Mingled scents of woodsmoke and ozone fill the air as bare tree skeletons crowd the remains of the cobblestone and dirt road, which ends abruptly at the dark frozen waters of a wide river.  A wooden dock stretches into the river where a sailing vessel sits trapped in the unmoving waters, while nearby a few benches sit near the stone wall amidst the remnants of a lopsided snowman."
+    ],
+    "paths": [
+      "Obvious paths: northeast, down"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23719": "go path",
+      "26903": "northeast",
+      "26905": "down",
+      "29859": "go dock",
+      "33319": "go thin trail"
+    },
+    "timeto": {
+      "23719": 0.2,
+      "26903": 0.2,
+      "26905": 0.2,
+      "29859": 0.2,
+      "33319": 0.2
+    },
+    "uid": [
+      8214502
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      631,
+      1042,
+      661,
+      1072
+    ],
+    "check_location": false
+  }
+}

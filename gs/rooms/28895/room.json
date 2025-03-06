@@ -1,0 +1,52 @@
+{
+  "checksum": "b5e54e8bd0e06541227ac4eb323dd302",
+  "room": {
+    "id": 28895,
+    "title": [
+      "[Wandering Eye Market, Southwest]"
+    ],
+    "description": [
+      "Resembling silent sentinels, bright lanterns perch upon wrought iron posts along the edges of an open-air market filled with multi-colored tents and wagons, while painted cobblestones of black, azure, and cerulean form a clear border between the grey streets that stretch west and south.  A bright blue awning supported by sturdy oak posts stands open and inviting near the northeastern edges.  A small A-framed sign rests just off of its entry proclaiming its services.",
+      "Resembling silent sentinels, dormant lanterns perch upon wrought iron posts along the edges of an open-air market filled with multi-colored tents and wagons, while painted cobblestones of black, azure, and cerulean form a clear border between the grey streets that stretch west and south.  A bright blue awning supported by sturdy oak posts stands open and inviting near the northeastern edges.  A small A-framed sign rests just off of its entry proclaiming its services."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28813": "northeast",
+      "28883": "north",
+      "28894": "west",
+      "28896": "south",
+      "28898": "east",
+      "28942": "go blue awning",
+      "30716": "/rooms/28895/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28813": 0.2,
+      "28883": 0.2,
+      "28894": 0.2,
+      "28896": 0.2,
+      "28898": 0.2,
+      "28942": 0.2,
+      "30716": "/rooms/28895/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118230
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      338,
+      441,
+      354,
+      451
+    ]
+  }
+}

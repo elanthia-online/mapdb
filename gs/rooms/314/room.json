@@ -1,0 +1,88 @@
+{
+  "checksum": "3631d5624e4192c789827075848e358d",
+  "room": {
+    "id": 314,
+    "title": [
+      "[Wehnimer's, Shanty Town]"
+    ],
+    "description": [
+      "No bright lamps light the unpaved road here, and the layer of mud that passes for streets in Shanty Town is treacherous and slippery with seepage from the nearby river.  A few sorry shacks stand cluttered together in this southeast corner, their doors and windows dark with tattered and drawn curtains, holding untold tales of suffering or malice.",
+      "The unpaved layer of mud that passes for streets in Shanty Town is treacherous and slippery with seepage from the nearby river.  A few sorry shacks stand cluttered together in this southeast corner, their doors and windows dark with tattered and drawn curtains, holding untold tales of suffering or malice."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "312": "north",
+      "315": "west",
+      "3890": "go path"
+    },
+    "timeto": {
+      "312": 0.2,
+      "315": 0.2,
+      "3890": "/rooms/314/timeto/stringproc-3890.rb"
+    },
+    "tags": [
+      "pepperthorn root",
+      "heath aster",
+      "small daisy",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild carrot",
+      "ginger root",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "white baneberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2022-11",
+      "juniper berry",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "brown potato",
+      "agave heart",
+      "purple potato",
+      "round grumbleberry",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "off-white parsnip",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      7019
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1199,
+      1054,
+      1234,
+      1087
+    ]
+  }
+}

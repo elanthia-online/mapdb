@@ -1,0 +1,48 @@
+{
+  "checksum": "46bfb61d6b128f9e81e6a57abb29b4a6",
+  "room": {
+    "id": 21304,
+    "title": [
+      "[House Brigatta, Entry]"
+    ],
+    "description": [
+      "The entry to House Brigatta is panelled and floored in dark oak.  An ornately carved table sits to one side with a small crystal vase standing upon it beneath a brightly polished silver mirror.  On the west wall, a series of shelves and pegs hold various cloaks and garb for the outer world.  To the east, a stairway heads up to the second floor.",
+      "The entry to House Brigatta is panelled and floored in dark oak.  An ornately carved table sits to one side with a small crystal vase standing upon it beneath a brightly polished silver mirror.  Across the room, a series of shelves and pegs holds various cold weather cloaks and garb for the outer world as well as bits and pieces of battle stained armor.",
+      "The entry to House Brigatta is panelled and floored in dark oak.  An ornately carved table sits to one side with a small crystal vase standing upon it beneath a brightly polished silver mirror.  On the west wall, a series of shelves and pegs hold various cloaks and garb for the outer world.  To the east, a stairway lit with flickering sconces heads up to the second floor."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "274": "out",
+      "21310": "north",
+      "28692": "go stairway"
+    },
+    "timeto": {
+      "274": 0.2,
+      "21310": 0.2,
+      "28692": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - House Brigatta (Map 2)",
+      "meta:mapshortname:House Brigatta (Map 2)",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:CHE",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "meta:che:House Brigatta"
+    ],
+    "uid": [
+      107101
+    ],
+    "image": "wl-Brigatta-1646274146.png",
+    "image_coords": [
+      315,
+      713,
+      419,
+      802
+    ]
+  }
+}

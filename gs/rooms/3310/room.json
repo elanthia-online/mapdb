@@ -1,0 +1,40 @@
+{
+  "checksum": "d0c152124bab88839cfa90f8236023ed",
+  "room": {
+    "id": 3310,
+    "title": [
+      "[In The Crevice]"
+    ],
+    "description": [
+      "The crevice walls press close together, giving you a sense of claustrophobia.  A crack in the wall of ice provides the only exit to the outside, and the ice slopes downward opposite the fissure, leading into the gloom."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3308": "go crack",
+      "3311": "down"
+    },
+    "timeto": {
+      "3308": 0.2,
+      "3311": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130001
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1233,
+      926,
+      1243,
+      936
+    ]
+  }
+}

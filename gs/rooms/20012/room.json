@@ -1,0 +1,40 @@
+{
+  "checksum": "8a51f3901e77e989cbc06c59a100e770",
+  "room": {
+    "id": 20012,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "A tattered spider web hangs near the ceiling of this chamber, its arachnid architect appearing to have abandoned all hope of gathering a meaningful meal with the once sticky strands."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19657": "/rooms/20012/wayto/stringproc-19657.rb",
+      "20009": "west"
+    },
+    "timeto": {
+      "19657": 0.2,
+      "20009": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11216
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1109,
+      1070,
+      1119,
+      1080
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "b7cb6f74ff301eac6c1798dc36572249",
+  "room": {
+    "id": 2189,
+    "title": [
+      "[Eye of V'Tull, Outer Caverns]"
+    ],
+    "description": [
+      "Extremely narrow here, the cavern forces escaping heat into a howling wind that scours the floor clear of ash.  Erosion has smoothed the walls and ceiling here to a mirror-like finish, dulled the edges of even recent stress cracks and rounded the tops of the freshest igneous formations."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2188": "northwest",
+      "2190": "northeast"
+    },
+    "timeto": {
+      "2188": 0.2,
+      "2190": 0.2
+    },
+    "tags": [
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060012
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      840,
+      520,
+      850,
+      530
+    ]
+  }
+}

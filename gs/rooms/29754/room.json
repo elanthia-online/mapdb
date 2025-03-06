@@ -1,0 +1,30 @@
+{
+  "checksum": "62b3d4d53334010e01984ac483f2a638",
+  "room": {
+    "id": 29754,
+    "title": [
+      "[Ruol's Outfitting]"
+    ],
+    "description": [
+      "Beneath a vaulted ceiling, a blue watered silk tapestry hangs on one of the smooth granite walls.  A floral-etched ceramic case and a gilded maple table sit in opposite corners while a bronzed drake sculpture rests on a glossy mahogany floor."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "366": "out",
+      "29756": "northwest",
+      "29757": "southwest"
+    },
+    "timeto": {
+      "366": 0.2,
+      "29756": 0.2,
+      "29757": 0.2
+    },
+    "tags": [
+      "ruol",
+      "meta:playershop"
+    ]
+  }
+}

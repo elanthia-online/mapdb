@@ -1,0 +1,45 @@
+{
+  "checksum": "809fb4a7947bbb40b626b560d45d532e",
+  "room": {
+    "id": 19275,
+    "title": [
+      "[Moot Hall, South Corridor]"
+    ],
+    "description": [
+      "Rich merlot carpet muffles footsteps through the southern corridor of Moot Hall.  Two long wooden benches sit on each side of a carved wooden door, while a lone giantman guard stands watch over a modwir arch.  A small wooden placard hangs on the wall above an ivory-handled door."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "387": "north",
+      "19276": "go arch",
+      "21370": "go wooden door",
+      "23832": "go ivory-handled door"
+    },
+    "timeto": {
+      "387": 0.2,
+      "19276": 0.2,
+      "21370": 0.2,
+      "23832": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      336307
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      356,
+      613,
+      391,
+      649
+    ],
+    "check_location": false
+  }
+}

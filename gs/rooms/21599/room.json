@@ -1,0 +1,25 @@
+{
+  "checksum": "06ddd4ecfd01732cdde06d34e9aff363",
+  "room": {
+    "id": 21599,
+    "title": [
+      "[Mask or Aid]"
+    ],
+    "description": [
+      "Serving as the sole source of illumination, moonlight streams in from a small open window, dust particles swirling through the brilliant rays.  A massive, moss-covered cypress tree with low hanging branches and deep hollows has burst through the uneven flooring damaged by a continuous assault of moisture from the surrounding swamp.  Two costumed goblins move hurriedly through the room, straightening the assembled costumes and replacing the dwindling inventory."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20323": "out",
+      "21600": "go tree"
+    },
+    "timeto": {
+      "20323": 0.2,
+      "21600": 0.2
+    },
+    "check_location": false
+  }
+}

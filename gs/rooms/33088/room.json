@@ -1,0 +1,29 @@
+{
+  "checksum": "8c812558168f812e3f212d3ff97e2b72",
+  "room": {
+    "id": 33088,
+    "title": [
+      "[Flotilla, Knivers' Pier]"
+    ],
+    "description": [
+      "Protected and isolated, the Knivers' Pier has both a dilapidated old sloop and an iron-reinforced modwir brigantine lashed to its outer edges, each able to cut away at a moment's notice.  A rotating deployment of guards wanders the decks, each member bristling with weaponry, and where no ship is docked, no railings exist to stop someone's fall into the depths below.  Starlight sparkles across the unobstructed view of the ocean's expanse."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33084": "northwest",
+      "33104": "go brigantine",
+      "33105": "go old sloop"
+    },
+    "timeto": {
+      "33084": 0.2,
+      "33104": 0.2,
+      "33105": 0.2
+    },
+    "uid": [
+      7134051
+    ]
+  }
+}

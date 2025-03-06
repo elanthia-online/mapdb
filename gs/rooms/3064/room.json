@@ -1,0 +1,40 @@
+{
+  "checksum": "95564e1a9ba157622259a34410769bc9",
+  "room": {
+    "id": 3064,
+    "title": [
+      "[Icemule Trace, Snowfield Trench]"
+    ],
+    "description": [
+      "The trench continues east and west and its walls stretch higher than your fingertips can reach.  Far above, you can see snow blowing across the trench, but none of the flakes ever reach this level.  The air is damp and close, as though the breath of all who have passed here has never been cleaned away."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern snowfields",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3063": "west",
+      "3065": "east"
+    },
+    "timeto": {
+      "3063": 0.2,
+      "3065": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4128038
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      587,
+      809,
+      597,
+      819
+    ]
+  }
+}

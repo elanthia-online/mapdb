@@ -1,0 +1,34 @@
+{
+  "checksum": "da3821ddd0fba34658ba2a8bbc927286",
+  "room": {
+    "id": 17059,
+    "title": [
+      "[Wizard Guild, Narrow Passage]"
+    ],
+    "description": [
+      "A baleful red light along the wall emanates from the vivid mural of Krolvin ships, their sails aflame and brilliant in the gloom.  You catch the faint scent of mineral salts beneath the sharper odor of something burning."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17052": "northeast",
+      "17060": "go opening"
+    },
+    "timeto": {
+      "17052": 0.2,
+      "17060": 0.2
+    },
+    "uid": [
+      683010
+    ],
+    "image": "rr-wizard_guild.png",
+    "image_coords": [
+      156,
+      154,
+      218,
+      215
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "0e2db4a83421779807f4280f230e06b1",
+  "room": {
+    "id": 21931,
+    "title": [
+      "[Talador, Silver Mines]"
+    ],
+    "description": [
+      "The earthen ground is caked with old dust and grime.  The walls are uneven and covered in jagged stones.  Dozens of tunnels lead off in every which direction, some of them entirely collapsed."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, southwest, out"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21800": "out",
+      "21932": "southwest",
+      "21934": "southeast",
+      "21935": "east",
+      "21936": "north"
+    },
+    "timeto": {
+      "21800": 0.2,
+      "21932": 0.2,
+      "21934": 0.2,
+      "21935": 0.2,
+      "21936": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      537,
+      295,
+      551,
+      309
+    ]
+  }
+}

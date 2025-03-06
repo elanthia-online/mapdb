@@ -1,0 +1,34 @@
+{
+  "checksum": "460acf224888b5cbfac5a62a4dd3d7c1",
+  "room": {
+    "id": 16615,
+    "title": [
+      "[Locksmith, Cellar]"
+    ],
+    "description": [
+      "Stacks of crates and boxes lay neatly piled in the corner of this dusty cellar.  You hear soft footsteps treading above you, as bits of dirt slip through the cracks of the ceiling.  A few muffled words are exchanged from upstairs and the familiar clink of silver can be detected changing hands."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "5612": "up",
+      "16611": "go door"
+    },
+    "timeto": {
+      "5612": 0.2,
+      "16611": 0.2
+    },
+    "uid": [
+      261060
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      56,
+      415,
+      84,
+      443
+    ]
+  }
+}

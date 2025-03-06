@@ -1,0 +1,24 @@
+{
+  "checksum": "052a265ba0396368612950344f57d6a7",
+  "room": {
+    "id": 24829,
+    "title": [
+      "[About Face]"
+    ],
+    "description": [
+      "Nestled in the sturdy boughs of a massive teak tree, this quaint boutique offers an assortment of fine accessories.  Tiny globes of colorful blown glass dangle from the canopy above, scattering rainbow light across wares.  A narrow wooden walkway leads further into the treetops, while a rope ladder allows access back down to the ground."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23858": "go ladder",
+      "24833": "go walkway"
+    },
+    "timeto": {
+      "23858": 0.2,
+      "24833": 0.2
+    }
+  }
+}

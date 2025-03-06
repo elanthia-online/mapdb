@@ -1,0 +1,45 @@
+{
+  "checksum": "0703ebaa42b1bf9f0c5566fd26160da4",
+  "room": {
+    "id": 11319,
+    "title": [
+      "[Alchemist, Hallway]"
+    ],
+    "description": [
+      "At this intersection, a ragged gap in the ceiling is positioned above a large hole sundering the weakened floorbeams.  Dust motes dance through a single beam of silvery moonlight that falls through roof and floor alike.  Ancient portraits hang crookedly upon the sagging walls, but the dead alchemists are not required to gaze upon the damage to their old demense, for the eyes have been torn from every image.",
+      "At this intersection, a ragged gap in the ceiling is positioned above a large hole sundering the weakened floorbeams.  Dust motes dance through a single beam of golden sunlight that falls through roof and floor alike.  Ancient portraits hang crookedly upon the sagging walls, but the dead alchemists are not required to gaze upon the damage to their old demense, for the eyes have been torn from every image."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11298": "go hole",
+      "11314": "north",
+      "11316": "west",
+      "11318": "south",
+      "11320": "east"
+    },
+    "timeto": {
+      "11298": 0.2,
+      "11314": 0.2,
+      "11316": 0.2,
+      "11318": 0.2,
+      "11320": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377113
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      833,
+      779,
+      843,
+      789
+    ]
+  }
+}

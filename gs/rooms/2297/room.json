@@ -1,0 +1,37 @@
+{
+  "checksum": "59802145faf1c63e7c072e6d7de63f82",
+  "room": {
+    "id": 2297,
+    "title": [
+      "[Mausoleum, Catacombs]"
+    ],
+    "description": [
+      "The walls of this corridor have been lined with stone drawers, each bearing a tarnished plaque.  Many of the drawers have been shattered, the shards of their remains spread out on the floor.  The rank, corrupt stink floating up from these makes your eyes water."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2296": "southwest",
+      "2298": "north"
+    },
+    "timeto": {
+      "2296": 0.2,
+      "2298": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030266
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      119,
+      1053,
+      129,
+      1063
+    ]
+  }
+}

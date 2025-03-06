@@ -1,0 +1,41 @@
+{
+  "checksum": "2b0a3718709253b0735259e7994bc8b9",
+  "room": {
+    "id": 12013,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "A multi-stemmed vine has worked its way up the side of the platform and across the plaza in wide semi-circular spray.  Tiny curved thorns along the length of each supple stem cling like cat's claws to minute irregularities in the surface of the pavement."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12012": "west",
+      "12014": "east"
+    },
+    "timeto": {
+      "12012": 0.2,
+      "12014": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004063
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      775,
+      639,
+      785,
+      649
+    ]
+  }
+}

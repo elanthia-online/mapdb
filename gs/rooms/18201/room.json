@@ -1,0 +1,40 @@
+{
+  "checksum": "1654f081a04f80c823ef1eb96ed246de",
+  "room": {
+    "id": 18201,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "The taller plants in this section have been carefully placed away from the center leaving a full view of the sky.  The lush surrounding greenery offers a quiet semblance of serenity, perfect for watching the stars.  An ornate pedestal has been set up in the middle of the path."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18200": "east",
+      "18202": "west"
+    },
+    "timeto": {
+      "18200": 0.2,
+      "18202": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312012
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      171,
+      79,
+      185,
+      92
+    ]
+  }
+}

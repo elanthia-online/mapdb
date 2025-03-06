@@ -1,0 +1,58 @@
+{
+  "checksum": "04b6d9a244b0fa4dc81d8eb2877e2d0d",
+  "room": {
+    "id": 12107,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "An immense moon the color of drying blood dominates the sky.  It sheds ruddy crimson light over the broken world, seeming to swallow every other color in its red glow.  Horrible beasts crawl over the ground, looking like giant lobsters which raise their claws in tribute to the lunar glow, while man-wolves raise their eerie voices in a primal tribute."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest",
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12107/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12107/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12107/wayto/stringproc-12093.rb",
+      "12105": "northwest",
+      "12108": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12105": 0.2,
+      "12108": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567040
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      976,
+      726,
+      986,
+      736
+    ]
+  }
+}

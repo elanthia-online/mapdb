@@ -1,0 +1,30 @@
+{
+  "checksum": "e5198fe9f6b6c278217172b097e65ae8",
+  "room": {
+    "id": 33359,
+    "title": [
+      "[Warcat Suite, Den]"
+    ],
+    "description": [
+      "The carved archway opens into a cozy room that is permeated with the fragrance of sandalwood and lavender.  A heavy dark oak bookcase stands on each side of a black marble fireplace, while several trinkets adorn the mantle above.  On the opposite wall sits a sturdy oak desk with a glass top covering its surface and a high-backed leather chair rising behind it."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Warcat Suite, inside the frontier town of Wehnimer's Landing",
+    "wayto": {
+      "33358": "go arch",
+      "33362": "go door"
+    },
+    "timeto": {
+      "33358": 0.2,
+      "33362": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730503
+    ]
+  }
+}

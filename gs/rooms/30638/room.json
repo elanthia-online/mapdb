@@ -1,0 +1,27 @@
+{
+  "checksum": "8fe20dd8d9ce6c006e4a307abfdb9270",
+  "room": {
+    "id": 30638,
+    "title": [
+      "[Landing Hall, Hall of History]"
+    ],
+    "description": [
+      "Several small, flickering candles on the eastern wall provide light to this narrow hallway.  The western wall has been converted into an enormous mural, the dim light just bright enough to see every detail.  The hallway extends to the north, and some light can be seen at the end.  The noise from the main lobby has ceased completely, leaving the hallway in contemplative silence."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30633": "out",
+      "30644": "north"
+    },
+    "timeto": {
+      "30633": 0.2,
+      "30644": 0.2
+    },
+    "uid": [
+      853008
+    ]
+  }
+}

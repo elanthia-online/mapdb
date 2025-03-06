@@ -1,0 +1,49 @@
+{
+  "checksum": "c2481e98bd1f5352dedf6600d5cfd9af",
+  "room": {
+    "id": 2381,
+    "title": [
+      "[Magical Burrow, Illusionist Way]"
+    ],
+    "description": [
+      "Narrowing to a tenuous thread of cobblestone, the street is crowded by huddled houses with snow-dusted yards.  Thick fog drapes the street, though the locals largely ignore its presence as they shuffle on their way to one task or another.  A brightly illuminated shop sits between a bank of snow and a corner street light, the sign above its entry swaying in the wintry air.",
+      "The road narrows here as houses crowd the street.  Some halflings wander past in the fog, talking to themselves."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, west",
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2365": "west",
+      "2382": "go fog",
+      "3351": "northeast",
+      "34068": "southwest",
+      "34070": "go illuminated shop"
+    },
+    "timeto": {
+      "2365": 0.2,
+      "2382": 0.2,
+      "3351": 0.2,
+      "34068": 0.2,
+      "34070": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042120
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      228,
+      521,
+      264,
+      557
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "3d76831f6bafcec5a295d466ec517ece",
+  "room": {
+    "id": 3470,
+    "title": [
+      "[Snowy Plains, Deep Freeze]"
+    ],
+    "description": [
+      "Search though you may, no shelter can be found in this wintry wilderness that stretches on endlessly.  You stumble forward over the dangerous, icy ground -- head bent to prevent the snow from freezing on your face."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "rough",
+    "wayto": {
+      "3469": "west",
+      "3471": "northeast"
+    },
+    "timeto": {
+      "3469": 0.2,
+      "3471": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044125
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      993,
+      788,
+      1003,
+      798
+    ]
+  }
+}

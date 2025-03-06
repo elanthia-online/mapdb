@@ -1,0 +1,43 @@
+{
+  "checksum": "695ef2d59ac4d93d985c13cd2a03779c",
+  "room": {
+    "id": 19368,
+    "title": [
+      "[Harbor Bistro, Dining Room]"
+    ],
+    "description": [
+      "Sunlight streams in from the two large windows, brightly illuminating this cheery room.  Painted a sunny yellow, the walls sport several ebonwood-framed landscapes done in oil paint or watercolor.  Smooth, oak floorboards of varying hues lay catercorner to each other in a lovely mosaic design.  Several tables lay host to patrons, while a wooden door leads deeper into the cafe.  Delicious scents linger in the air, as food is being served to the various tables by sure-footed serving staff.",
+      "Candlelight flickers from strategically placed golden candelabras, shedding their glow on this cozy room.  Painted a sunny yellow, the walls sport several ebonwood-framed landscapes done in oil paint or watercolor.  Smooth, oak floorboards of varying hues lay catercorner to each other in a lovely mosaic design.  Several tables lay host to patrons, while a wooden door leads deeper into the cafe.  Delicious scents linger in the air, as food is being served to the various tables by sure-footed serving staff."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19367": "out",
+      "19369": "go door",
+      "28498": "/rooms/19368/wayto/stringproc-28498.rb",
+      "28499": "/rooms/19368/wayto/stringproc-28499.rb",
+      "28500": "/rooms/19368/wayto/stringproc-28500.rb",
+      "28501": "/rooms/19368/wayto/stringproc-28501.rb",
+      "28502": "/rooms/19368/wayto/stringproc-28502.rb",
+      "28503": "/rooms/19368/wayto/stringproc-28503.rb"
+    },
+    "timeto": {
+      "19367": 0.2,
+      "19369": 0.2,
+      "28498": 0.2,
+      "28499": 0.2,
+      "28500": 0.2,
+      "28501": 0.2,
+      "28502": 0.2,
+      "28503": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3223172
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "c0cd472f5acf16aefdf3eecc7073a9c2",
+  "room": {
+    "id": 14686,
+    "title": [
+      "[Hearthstone, Gemcutter]"
+    ],
+    "description": [
+      "Though not much larger than a closet, this tiny shop is a maelstrom of activity.  Behind the counter, a diminutive clerk works constantly to wrap and package gems for shipment to the furthest reaches of Elanthia, as the gem dealer herself deals with a steady stream of customers."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13500": "out",
+      "14685": "west"
+    },
+    "timeto": {
+      "13500": 0.2,
+      "14685": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397020
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      623,
+      479,
+      691,
+      526
+    ]
+  }
+}

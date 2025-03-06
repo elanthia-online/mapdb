@@ -1,0 +1,38 @@
+{
+  "checksum": "6213d94329f510606b616f39242dda62",
+  "room": {
+    "id": 31748,
+    "title": [
+      "[Evermore Hotel, Hallway]"
+    ],
+    "description": [
+      "A series of dripping candle-laden chandeliers illuminate a variety of oil paintings lining a long walnut-paneled hallway.  Plush carpet runners in wine-dark hues muffle footsteps on the gleaming hardwood floors outside of closed doors, some with notices hanging on the burnished brass handles.   A brass trolley cart stacked with luggage waits in an alcove at the end of the hall."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, south, southwest"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31570": "south",
+      "31749": "go gate",
+      "31750": "southwest",
+      "31791": "southeast",
+      "31797": "north"
+    },
+    "timeto": {
+      "31570": 0.2,
+      "31749": 0.2,
+      "31750": 0.2,
+      "31791": 0.2,
+      "31797": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8087102
+    ]
+  }
+}

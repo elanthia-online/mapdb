@@ -1,0 +1,43 @@
+{
+  "checksum": "67af9d1e7811532796f8824436831f3b",
+  "room": {
+    "id": 28937,
+    "title": [
+      "[Wandering Eye Market, Wagon Top]"
+    ],
+    "description": [
+      "Surrounded by a steel railing, the wagon's roof is spacious and affords a panoramic view of the Wandering Eye Market.  Positioned side-by-side, a large wastebasket and a sturdy wooden table rest along the eastern edge, the railing rising above them by several handspans.  A ladder bolted to one side provides easy egress to the cobblestones below."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28908": "down",
+      "30716": "/rooms/28937/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28908": 0.2,
+      "30716": "/rooms/28937/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "locksmith-pool",
+      "locksmithpool",
+      "locksmith pool",
+      "meta:boxpool:table:sturdy wooden table",
+      "meta:boxpool:npc:scruffy human worker",
+      "node",
+      "supernode",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "meta:trashcan:large wastebasket",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118379
+    ]
+  }
+}

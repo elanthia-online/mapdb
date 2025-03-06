@@ -1,0 +1,52 @@
+{
+  "checksum": "25520901998e534ad336ed91dbcf2333",
+  "room": {
+    "id": 2278,
+    "title": [
+      "[Abandoned Mine, Ruined Cavern]"
+    ],
+    "description": [
+      "It would appear that a catastrophe once occurred in this foul smelling chamber.  The eastern wall has been caved in, burrowed through by something large enough to leave the floor strewn with glaesan boulders in its wake.  Despite the destruction, several wooden beams still rise up to support the ceiling above, and the iron scaffolding erected along the other walls looks unscathed."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Abandoned Mine",
+    "wayto": {
+      "2277": "west",
+      "2279": "climb rubble",
+      "12546": "climb scaffolding"
+    },
+    "timeto": {
+      "2277": 0.2,
+      "2279": 0.2,
+      "12546": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "genkew mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3005019
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      748,
+      1107,
+      756,
+      1115
+    ]
+  }
+}

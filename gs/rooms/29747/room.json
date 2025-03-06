@@ -1,0 +1,39 @@
+{
+  "checksum": "82b621482ffe9687cb310973e31eab3d",
+  "room": {
+    "id": 29747,
+    "title": [
+      "[Inking Den, Storage Hallway]"
+    ],
+    "description": [
+      "Stretching the length of the eastern wall, bright tiles of various hues and sizes are fitted together to create a rolling sea mosaic.  Beneath the churning waves is the dark shape of a kraken, while above is a three-masted schooner.  A large wrought iron ring anchored to the ceiling holds a glass-paned lantern over a curtained opening and provides ample illumination over the navy blue and gold rug-covered ground."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29746": "southeast",
+      "29748": "northwest",
+      "32756": "go opening"
+    },
+    "timeto": {
+      "29746": 0.2,
+      "29748": 0.2,
+      "32756": 240
+    },
+    "tags": [
+      "publiclockers"
+    ],
+    "uid": [
+      7121102
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      264,
+      503,
+      294,
+      531
+    ]
+  }
+}

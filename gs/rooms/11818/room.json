@@ -1,0 +1,41 @@
+{
+  "checksum": "940141ec558836f26d47b6c4de2fe76f",
+  "room": {
+    "id": 11818,
+    "title": [
+      "[Old Ta'Faendryl, Southern Road]"
+    ],
+    "description": [
+      "A flight of cracked stone steps lead up the final slope of the hill, ending at the base of a large tower.  A faint breeze brings the sound of running water up from the river flowing past the base of the hill to the east.  Further on a pyramid, as tall as the hill and nearly as wide, lifts a sparkling white marble structure high above the city."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11817": "south",
+      "11819": "north"
+    },
+    "timeto": {
+      "11817": 0.2,
+      "11819": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004003
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      677,
+      1000,
+      687,
+      1010
+    ]
+  }
+}

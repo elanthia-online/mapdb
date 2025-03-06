@@ -1,0 +1,43 @@
+{
+  "checksum": "3c23c07a4e0e04da504701c964c1368f",
+  "room": {
+    "id": 12519,
+    "title": [
+      "[Rock Garden, Circle]"
+    ],
+    "description": [
+      "The street here is paved with golden glaes, stout buildings of red and grey granite lining either side.  The honks, bleats and occasional squawk coming from one such tell you that someone is learning the tuba.  To the southeast is the edge of a small pond."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12516": "southeast",
+      "12518": "southwest",
+      "12521": "west"
+    },
+    "timeto": {
+      "12516": 0.2,
+      "12518": 0.2,
+      "12521": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703203
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      218,
+      336,
+      236,
+      354
+    ]
+  }
+}

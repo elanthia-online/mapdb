@@ -1,0 +1,42 @@
+{
+  "checksum": "475bfff21e971315bdc3931b45c86717",
+  "room": {
+    "id": 1879,
+    "title": [
+      "[Garnet Street]"
+    ],
+    "description": [
+      "Garnet comes to a dead end here, flanked on its sides by rough brick buildings and terminated to the west by a segment of the town's wall extended to match the height of the surrounding structure.  An alley leads off to the south.",
+      "Garnet comes to a dead end here, flanked on its sides by rough brick buildings and terminated to the west by a segment of the town's wall extended to match the height of the surrounding structure.  An alley leads off to the south, into darkness."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1848": "east",
+      "1880": "go alley"
+    },
+    "timeto": {
+      "1848": 0.2,
+      "1880": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002018
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      289,
+      659,
+      325,
+      695
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "def747cc78c8a00ff2b89e1304e994d1",
+  "room": {
+    "id": 11316,
+    "title": [
+      "[Alchemist, Hallway]"
+    ],
+    "description": [
+      "The ragged silver stump of a former sconce projects from the wall, but the sconce is gone, and concealing shadows curtain the passage.  Four bloodstained handprints mar the pale yellow paint of the western wall, descending from north to south.  Wooden splinters and crystal shards have been tracked between the northern and southern doorway, accompanied by several more streaks of long-dried blood upon the scratched floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11315": "north",
+      "11317": "south",
+      "11319": "east"
+    },
+    "timeto": {
+      "11315": 0.2,
+      "11317": 0.2,
+      "11319": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377112
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      807,
+      779,
+      817,
+      789
+    ]
+  }
+}

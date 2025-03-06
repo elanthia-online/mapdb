@@ -1,0 +1,29 @@
+{
+  "checksum": "6c5cb32b56657c0d4a82a801aa831ac7",
+  "room": {
+    "id": 15109,
+    "title": [
+      "[Fleurs' General Store]",
+      "[Fleurs' Magic Shoppe]"
+    ],
+    "description": [
+      "Enclosed by ribbed black willow walls, the shop features a large anvil in the center of its black marble floor.  A pair of crossed bones hangs under the beam ceiling.  Right near the front is a gold-leafed mistwood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "364": "out",
+      "15375": "west",
+      "15376": "east"
+    },
+    "timeto": {
+      "364": 0.2,
+      "15375": 0.2,
+      "15376": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

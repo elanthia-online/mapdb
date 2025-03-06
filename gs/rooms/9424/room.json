@@ -1,0 +1,53 @@
+{
+  "checksum": "dd9683387cc490add98000813b0ae219",
+  "room": {
+    "id": 9424,
+    "title": [
+      "[Zul Logoth, Opal Tunnel]"
+    ],
+    "description": [
+      "Fanciful storefronts with white-shuttered windows have been painted in amazing detail onto the smoothened walls, though only their doors are real.  One particularly creative shopkeeper has incorporated the tunnel's glimmering opal veins into rising spires for their facade."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9423": "southwest",
+      "9425": "east",
+      "18717": "go door"
+    },
+    "timeto": {
+      "9423": 0.2,
+      "9425": 0.2,
+      "18717": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      736002
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      893,
+      493,
+      913,
+      513
+    ]
+  }
+}

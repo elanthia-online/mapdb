@@ -1,0 +1,24 @@
+{
+  "checksum": "67a52261b5f971acbf7bcbd278b02f3a",
+  "room": {
+    "id": 20504,
+    "title": [
+      "[Erythro Island, Forest Ring]"
+    ],
+    "description": [
+      "The edge of the forest grows thick, as if nature's way of keeping out intruders, or perhaps imprisoning something within.  Passage is possible, but the narrow gaps keep movement slow and cautious."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20499": "west",
+      "20505": "east"
+    },
+    "timeto": {
+      "20499": 0.2,
+      "20505": 0.2
+    }
+  }
+}

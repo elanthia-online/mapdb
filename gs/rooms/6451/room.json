@@ -1,0 +1,41 @@
+{
+  "checksum": "782b2bcf1cb3967aa9362ce8dc398abb",
+  "room": {
+    "id": 6451,
+    "title": [
+      "[Abandoned Mine, Cavern]"
+    ],
+    "description": [
+      "An enormous boulder juts out from the southeastern wall, making passage in that direction impossible.  Directly south, several huge stalactites have fused together to form a graceful, natural arch overhead."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, northwest"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6450": "southwest",
+      "6452": "north",
+      "6456": "northwest"
+    },
+    "timeto": {
+      "6450": 0.2,
+      "6452": 0.2,
+      "6456": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      485010
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1332,
+      185,
+      1342,
+      195
+    ]
+  }
+}

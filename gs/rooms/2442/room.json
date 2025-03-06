@@ -1,0 +1,35 @@
+{
+  "checksum": "419d24a4d9e7365225cdd26d34dcb897",
+  "room": {
+    "id": 2442,
+    "title": [
+      "[Clovertooth Hall, Lockers]"
+    ],
+    "description": [
+      "The north wall of this hallway is covered with a garish blue curtain marking the entrance to a locker booth.  More lockers are visible to the east, while to the southwest the corridor heads back to the main lobby."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2441": "southwest",
+      "2443": "east"
+    },
+    "timeto": {
+      "2441": 0.2,
+      "2443": 0.2
+    },
+    "tags": [
+      "public locker",
+      "rewritten"
+    ],
+    "image": "imt-clovertooth_hall-1546618992.png",
+    "image_coords": [
+      1312,
+      694,
+      1412,
+      762
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "7869232b444856df9b2c63bad51d1d4e",
+  "room": {
+    "id": 20014,
+    "title": [
+      "[Silvermule, Corridor]"
+    ],
+    "description": [
+      "The corridor is lined with piles of neatly folded--and empty--money sacks.  Boxes of playing cards are stacked upon closed crates bearing labels from the Borthuum Mining Company."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3434": "south",
+      "8980": "go gooseberry arch",
+      "20015": "north",
+      "32289": "go huckleberry arch"
+    },
+    "timeto": {
+      "3434": 0.2,
+      "8980": 0.2,
+      "20015": 0.2,
+      "32289": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4043242
+    ],
+    "image": "imt-silvermule_gaming_hall-1484821104.png",
+    "image_coords": [
+      914,
+      897,
+      1055,
+      958
+    ],
+    "unique_loot": [
+      "gooseberry arch",
+      "huckleberry arch"
+    ]
+  }
+}

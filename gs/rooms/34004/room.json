@@ -1,0 +1,27 @@
+{
+  "checksum": "789ba10b4d92e4fc265f677227bb6d70",
+  "room": {
+    "id": 34004,
+    "title": [
+      "[Dollhouse, Mudroom]"
+    ],
+    "description": [
+      "Colorful shutters painted bright white and trimmed in yellow and green stand open to allow the moonlight to fill the small space, while a bright blue door is propped open by a wedge to allow for easy entry.  Long rows of wooden hooks house a variety of packs and haversacks, while a spindle-armed coat tree supports a motley combination of cloaks and shawls.  Miscellaneous items fill a small wicker basket that is pushed against the archway that leads deeper into the dollhouse."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "34003": "go blue door",
+      "34005": "north"
+    },
+    "timeto": {
+      "34003": 0.2,
+      "34005": 0.2
+    },
+    "uid": [
+      8100120
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "56628cbdad2835f54ee8881e7705fc23",
+  "room": {
+    "id": 10608,
+    "title": [
+      "[Lunule Weald, Zealot Village]"
+    ],
+    "description": [
+      "The inside of this front room has been ravaged by violence.  Every stick of furniture has been hacked to pieces, pillows and cushions ripped to shreds.  The whitewashed walls have been splattered with blood and bits of rotting flesh.  A large knife is imbedded in the wall as if thrown there."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Lunule Weald",
+    "wayto": {
+      "10602": "go door",
+      "10609": "east"
+    },
+    "timeto": {
+      "10602": 0.2,
+      "10609": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14016074
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      978,
+      1622,
+      990,
+      1633
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "2f7bdcd26c958e8469fc65e1fb2a6502",
+  "room": {
+    "id": 4592,
+    "title": [
+      "[Wine Cellar, Hallway]"
+    ],
+    "description": [
+      "Flanking both sides of the gilded doorway are two sets of immaculate suits of armor.  One of the sets wears a helmet that greatly resembles the head of a bird, and the other holds a wickedly barbed mace in both gauntleted fists.  Cerulean carpeting spreads from wall-to-wall and a low oval-shaped glass cabinet containing an ancient map is surrounded by an assortment of seashells and sand."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "4591": "south",
+      "4593": "go office door",
+      "4594": "west"
+    },
+    "timeto": {
+      "4591": 0.2,
+      "4593": 0.2,
+      "4594": 0.2
+    },
+    "tags": [
+      "meta:society:Council of Light"
+    ],
+    "uid": [
+      4220002
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "d333d39f9c416f1f1a0ea79eda99e64d",
+  "room": {
+    "id": 31879,
+    "title": [
+      "[Winterbriar Way]"
+    ],
+    "description": [
+      "Snow lightly dusts the cobblestone path winding between bare-branched fruit trees and a smattering of fragrant cedars.  Down a twisting pathway are several buildings, small icicles glittering off their eaves.  To the south rests a large lake surrounded by buildings, a trellis of ice-veiled roses arching over the southwesterly path leading to it."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "grassland",
+    "wayto": {
+      "31859": "northeast",
+      "31865": "southwest",
+      "33957": "go icicle-bedecked shop",
+      "33958": "go icicle shop"
+    },
+    "timeto": {
+      "31859": 0.2,
+      "31865": 0.2,
+      "33957": 0.2,
+      "33958": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083071
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1165,
+      126,
+      1189,
+      147
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "06c488af7d46212211fcf8067029ae27",
+  "room": {
+    "id": 7646,
+    "title": [
+      "[Sailors' Haven, Inside]"
+    ],
+    "description": [
+      "Inside, out of the wind and spray, it feels warmer, almost cheerful.  Broken bits of furniture litter the wooden floor and sand has piled up in the corners.  Old bits of netting still dangle from the rafters and some antique glass fishing floats lie in a heap on the floor.  An old hatch cover serves as a door to the outside and a passage leads further back into the building."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7613": "go hatch",
+      "7647": "go passage"
+    },
+    "timeto": {
+      "7613": 0.2,
+      "7647": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84110
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      300,
+      556,
+      310,
+      566
+    ]
+  }
+}

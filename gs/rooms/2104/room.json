@@ -1,0 +1,41 @@
+{
+  "checksum": "5d464530fe1a21a6b5d0c6eb9abcc9af",
+  "room": {
+    "id": 2104,
+    "title": [
+      "[Fhorian Village, Warehouse]"
+    ],
+    "description": [
+      "Except for a few dried leaves that scuttle in front of a small gust of wind, this room is completely empty."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west, out"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2091": "out",
+      "2103": "west",
+      "2105": "south",
+      "2106": "southwest"
+    },
+    "timeto": {
+      "2091": 0.2,
+      "2103": 0.2,
+      "2105": 0.2,
+      "2106": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030041
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      923,
+      1232,
+      933,
+      1242
+    ]
+  }
+}

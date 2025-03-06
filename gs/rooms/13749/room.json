@@ -1,0 +1,29 @@
+{
+  "checksum": "92016796d78e4048f49eb87fa1fd519b",
+  "room": {
+    "id": 13749,
+    "title": [
+      "[Avern's Weaponry]"
+    ],
+    "description": [
+      "The broad sweep of the wooden floor is interrupted by a worn rug.  Halfway to the wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A slender driftwood counter and a plain wooden table are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9015": "out",
+      "13760": "west",
+      "13761": "east"
+    },
+    "timeto": {
+      "9015": 0.2,
+      "13760": 0.2,
+      "13761": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

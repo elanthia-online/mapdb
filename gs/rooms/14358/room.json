@@ -1,0 +1,36 @@
+{
+  "checksum": "0f6fd4005e6b0f5b981f9a2c6aa57b30",
+  "room": {
+    "id": 14358,
+    "title": [
+      "[Solhaven, Beacon Tower]"
+    ],
+    "description": [
+      "Pristine and tidy, the small room has walls of stucco that are a brilliant shade of white.  A large marble fireplace, riddled with gold veins, rises in the northern corner of the room and casts rippling orange lights upon a pair of armchairs that have been positioned close by.  Near the door is a curtained arch with a low counter topped in black marble set before it."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14357": "out",
+      "14359": "go arch",
+      "14360": "north",
+      "30710": "/rooms/14358/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "14357": 0.2,
+      "14359": 0.2,
+      "14360": 0.2,
+      "30710": "/rooms/14358/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "chronomage",
+      "urchin guide chronomages",
+      "urchin-access"
+    ],
+    "uid": [
+      4223006
+    ]
+  }
+}

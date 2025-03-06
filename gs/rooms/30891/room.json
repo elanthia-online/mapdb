@@ -1,0 +1,31 @@
+{
+  "checksum": "f25f1d5ec677e29d5145af3fde995a6e",
+  "room": {
+    "id": 30891,
+    "title": [
+      "[Bard Guild, Iron Gateway]"
+    ],
+    "description": [
+      "A massive iron and stone gateway leads deeper into the expansive atrium bordered by wide, arched walkways.  Raucous laughter and merriment echo throughout the open area, dampened only slightly by the wall of giant, luminescent toadstools that partitions off the corridors from the tavern."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west, northwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "30890": "southeast",
+      "30892": "go gateway",
+      "30893": "northwest",
+      "30895": "west"
+    },
+    "timeto": {
+      "30890": 0.2,
+      "30892": 0.2,
+      "30893": 0.2,
+      "30895": 0.2
+    },
+    "uid": [
+      288002
+    ]
+  }
+}

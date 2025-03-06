@@ -1,0 +1,27 @@
+{
+  "checksum": "6ec41077b5e0a5ebeb0110de55e49f9f",
+  "room": {
+    "id": 27530,
+    "title": [
+      "[Flesh and Bones]"
+    ],
+    "description": [
+      "Made of a plethora of sinew-tied bones, the rickety walls of this hut rattle and shake with every gust of wind from outside.  Reinforcing the structure at random intervals are some tall wooden poles studded with chips of bone, the surface of each one holding various wares for sale.  A mammoth skull looms in one corner, its long curving tusks festooned with various garments, while a line of hooks made from crossed rib bones have been attached to one wall.  A hanging bone curtain blocks off the back section of the hut, the strings of bone beads clattering together with every movement of air."
+    ],
+    "paths": [
+      "Obvious exits: north, out",
+      "Obvious exits: out"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26474": "out",
+      "27550": "go bone curtain",
+      "29334": "north"
+    },
+    "timeto": {
+      "26474": 0.2,
+      "27550": 0.2,
+      "29334": 0.2
+    }
+  }
+}

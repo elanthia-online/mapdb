@@ -1,0 +1,50 @@
+{
+  "checksum": "88e97e4610a293d2f059a0db76745248",
+  "room": {
+    "id": 10915,
+    "title": [
+      "[River's Rest, Purser's Office]"
+    ],
+    "description": [
+      "Off the main lobby of the bank, the River's Rest purser's office is tucked away in a corner, out of the way of traffic.  Securely ensconced behind an old scarred wooden counter, the purser peers at his ledgers, while discussing the matters of finance his customers bring his way.  Efficiently and precisely, he notes each transaction completed in his ledger before he glances up to welcome his next customer with a smile."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: east, out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10911": "out",
+      "18895": "east",
+      "30711": "/rooms/10915/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10911": 0.2,
+      "18895": 0.2,
+      "30711": "/rooms/10915/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "advguard",
+      "urchin-access",
+      "urchin guide debts",
+      "urchin guide guard",
+      "urchin guide purser",
+      "debts",
+      "guard",
+      "purser",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2101906
+    ],
+    "image_coords": [
+      761,
+      674,
+      787,
+      700
+    ]
+  }
+}

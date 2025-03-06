@@ -1,0 +1,36 @@
+{
+  "checksum": "b96401dcccdc799da060b8f2b7f6c491",
+  "room": {
+    "id": 8356,
+    "title": [
+      "[Spider Temple, Spider Home]"
+    ],
+    "description": [
+      "A myriad of metal cages in all shapes and sizes fill the room.  The larger cages are unlatched and empty, with the smaller occupied by all manner of scurrying beasts."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8355": "southeast"
+    },
+    "timeto": {
+      "8355": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13028
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      443,
+      670,
+      453,
+      680
+    ]
+  }
+}

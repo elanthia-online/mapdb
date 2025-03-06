@@ -1,0 +1,46 @@
+{
+  "checksum": "c2c10d9eff8ea7f19db4ccb839db2180",
+  "room": {
+    "id": 21074,
+    "title": [
+      "[Alhan'naht River, Jungle Pass]"
+    ],
+    "description": [
+      "The narrow passage of the river's northern edges widens here, causing the rough waters to become sluggish as they tumble towards the south.  Muddy banks rise upon either side, and while the eastern banks are choked with thick vines and wild shrub, the western banks are free of brush.  White-flowered arrowhead plants are painted with burgundy hues, their long stems surrounded by broad leaves as they make their home at the river's edge."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Mist Harbor",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "21073": "/rooms/21074/wayto/stringproc-21073.rb",
+      "21075": "/rooms/21074/wayto/stringproc-21075.rb",
+      "21081": "go dock"
+    },
+    "timeto": {
+      "21073": 2,
+      "21075": 2,
+      "21081": 0.2
+    },
+    "tags": [
+      "stalk of cattail",
+      "murdroot",
+      "meta:forage-sensed",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3217013
+    ],
+    "image": "ifw-wilds-1368242816.png",
+    "image_coords": [
+      1659,
+      2400,
+      1679,
+      2419
+    ]
+  }
+}

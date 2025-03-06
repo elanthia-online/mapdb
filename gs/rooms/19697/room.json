@@ -1,0 +1,38 @@
+{
+  "checksum": "f312cd93c882898fa10637178ea74766",
+  "room": {
+    "id": 19697,
+    "title": [
+      "[Cavernhold, Mine Shaft]"
+    ],
+    "description": [
+      "A large vein of bright copper ore runs through the walls of this room.  An wheelbarrow and a pick indicate that this shaft is currently being worked by the miners, though none are present at the moment."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19696": "southeast"
+    },
+    "timeto": {
+      "19696": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11036
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      936,
+      579,
+      949,
+      588
+    ]
+  }
+}

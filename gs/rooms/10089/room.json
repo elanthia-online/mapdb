@@ -1,0 +1,42 @@
+{
+  "checksum": "9113b73e7f6f900bc58de2d354c5f4e9",
+  "room": {
+    "id": 10089,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The brush within the meadow rises high, lining the path with a golden hue.  Small insects buzz around the fields, bobbing in and out of the tall grass."
+    ],
+    "paths": [
+      "Obvious paths: east, south, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10088": "northwest",
+      "10090": "east",
+      "10098": "south"
+    },
+    "timeto": {
+      "10088": 0.2,
+      "10090": 0.2,
+      "10098": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049035
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      752,
+      930,
+      762,
+      940
+    ]
+  }
+}

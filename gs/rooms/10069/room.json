@@ -1,0 +1,44 @@
+{
+  "checksum": "9c9b9958826dbb78f89db187b329a66c",
+  "room": {
+    "id": 10069,
+    "title": [
+      "[Sylvarraend, Town Commons]"
+    ],
+    "description": [
+      "Facing the square sits a well-kept building, its walls made of stacked round river rock.  The structure's clay tiled roof glows with a dull red hue, the tiles chipped here and there from years of exposure to the elements.  Flowers spill over the sides of a wooden planter next to the front door, above which hangs a carved wooden sign.",
+      "Facing the square sits a well-kept building, its walls made of stacked round river rock.  The structure's clay tiled roof glows with a dull red hue, the tiles chipped here and there from years of exposure to the elements.  Golden yellow light is barely visible in the crevice between the front door and its sturdy frame, above which hangs a carved wooden sign."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "the town of Sylvarraend",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "679": "east",
+      "681": "south",
+      "10070": "go building"
+    },
+    "timeto": {
+      "679": 0.2,
+      "681": 0.2,
+      "10070": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13050009
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      242,
+      797,
+      278,
+      833
+    ]
+  }
+}

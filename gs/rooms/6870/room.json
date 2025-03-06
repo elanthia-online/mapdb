@@ -1,0 +1,40 @@
+{
+  "checksum": "eb52d0dc0b772708a9ce4437d4003d7b",
+  "room": {
+    "id": 6870,
+    "title": [
+      "[Abandoned Inn, Common Room]"
+    ],
+    "description": [
+      "The circular hearth in the center of the room burns merrily, shedding warmth and cheerful light.  Benches, chairs and other places to ease tired feet line the walls, promising comfort and rest to weary travellers.  A small archway opens to the west, giving a glimpse of a cozy tavern, while a green brocade curtain leads back into the front hall."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6854": "go curtain",
+      "6871": "west",
+      "6873": "north"
+    },
+    "timeto": {
+      "6854": 0.2,
+      "6871": 0.2,
+      "6873": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21114
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      799,
+      995,
+      809,
+      1005
+    ]
+  }
+}

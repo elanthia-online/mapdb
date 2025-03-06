@@ -1,0 +1,39 @@
+{
+  "checksum": "90cceaec5ee457c6a6e7aaeb0ab32147",
+  "room": {
+    "id": 32313,
+    "title": [
+      "[Deserted Farmhouse, Upstairs]"
+    ],
+    "description": [
+      "Smashed pottery litters the upstairs landing of the small farmhouse, the low ceiling of which leaves the raw timber eaves crowding down upon the passage.  What remains of a rug cushions the hardwood floor in places, but exposure to the elements has left it a threadbare ruin.  The air is cold, and occasional breezes solicit rusty creaks from a rounded wooden door at the end of the hall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Crawling Shore",
+    "wayto": {
+      "32312": "go stairs",
+      "32314": "go door"
+    },
+    "timeto": {
+      "32312": 0.2,
+      "32314": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4576052
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1702,
+      1342,
+      1749,
+      1394
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "1fe5e3c184d2109fe1638dcdcf494d60",
+  "room": {
+    "id": 19068,
+    "title": [
+      "[Spitfire, Main Deck Starboard]"
+    ],
+    "description": [
+      "The main deck narrows just aft of the tall foremast, where the deckhouse begins.  Barrels are stacked and secured against the rise of the forecastle deck.  A slatted door leads into the deckhouse, and from the squeaks, squeals and halfling giggles coming from inside, it's a good bet the door leads into crews' quarters."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19055": "west",
+      "19058": "south",
+      "19069": "go door",
+      "19070": "go stairs",
+      "19071": "east"
+    },
+    "timeto": {
+      "19055": 0.2,
+      "19058": 0.2,
+      "19069": 0.2,
+      "19070": 0.2,
+      "19071": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      162,
+      239,
+      197,
+      277
+    ]
+  }
+}

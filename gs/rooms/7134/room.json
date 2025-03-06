@@ -1,0 +1,44 @@
+{
+  "checksum": "ed367370b18ad4593614e3b404f00414",
+  "room": {
+    "id": 7134,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The floor slopes down to the east at quite a steep angle.  The air gets damper and the walls moldier the farther to the east you look.  It looks much drier up to the west."
+    ],
+    "paths": [
+      "Obvious exits: west, down"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7133": "west",
+      "7135": "down"
+    },
+    "timeto": {
+      "7133": 0.2,
+      "7135": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41040
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1109,
+      416,
+      1119,
+      426
+    ]
+  }
+}

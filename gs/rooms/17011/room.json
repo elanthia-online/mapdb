@@ -1,0 +1,36 @@
+{
+  "checksum": "10e2096b2aef5e5e2e3f8e8e911e3cea",
+  "room": {
+    "id": 17011,
+    "title": [
+      "[Warrior Guild, East Hall]"
+    ],
+    "description": [
+      "The hallway is dark and cool here, illuminated only by a faint glow from the wide wooden archway set into the inner wall.  Pleasant smells of cooking fires and slow-roasted meats meld with the faint scent of sea air and polished stone."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven's Warrior Guild",
+    "wayto": {
+      "17009": "south",
+      "17012": "go archway",
+      "17021": "north"
+    },
+    "timeto": {
+      "17009": 0.2,
+      "17012": 0.2,
+      "17021": 0.2
+    },
+    "uid": [
+      254005
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      1251,
+      235,
+      1272,
+      255
+    ]
+  }
+}

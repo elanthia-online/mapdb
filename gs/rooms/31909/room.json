@@ -1,0 +1,32 @@
+{
+  "checksum": "c9bb419c2d313f59bfabd3776a75a913",
+  "room": {
+    "id": 31909,
+    "title": [
+      "[The Gnome Depot, Cognition]"
+    ],
+    "description": [
+      "The large, gear-shaped chandelier bounces light off of the bronze door, bathing the room in a dark golden hue.  A dark-stained rowan armoire looms in the far end of the room, casting a shadow in the corner.  Covering the eastern wall is a tapestry depicting a Burghal gnome holding a small trinket."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31908": "south",
+      "32096": "go bronze door"
+    },
+    "timeto": {
+      "31908": 0.2,
+      "32096": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084562
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "30965dc2ffa2b031d5848fe49ce6e23b",
+  "room": {
+    "id": 9009,
+    "title": [
+      "[Solhaven, Spiral Passageway]"
+    ],
+    "description": [
+      "Water trickles slowly down the passageway wall, echoing softly with an almost song-like quality as droplets *plink* upon the rounded cobblestones.  More light grey than black, the opening to the east beckons, issuing a slight breeze that courses down the corridor."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9008": "northwest",
+      "9010": "east",
+      "13527": "go dark hideout",
+      "13528": "go beached hulk",
+      "13529": "go shack",
+      "13530": "go cafe",
+      "20019": "go cottage"
+    },
+    "timeto": {
+      "9008": 0.2,
+      "9010": 0.2,
+      "13527": 0.2,
+      "13528": 0.2,
+      "13529": 0.2,
+      "13530": 0.2,
+      "20019": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      733002
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1456,
+      509,
+      1468,
+      521
+    ]
+  }
+}

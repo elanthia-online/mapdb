@@ -1,0 +1,47 @@
+{
+  "checksum": "68c764876947893ca2b7eecf4f967665",
+  "room": {
+    "id": 2421,
+    "title": [
+      "[Commerce Burrow, Trader Way]",
+      "[Commerce Burrow, Trader's Way]"
+    ],
+    "description": [
+      "A group of sylvankind tightens cloaks in woodland hues against the chill wind off of the glacier as they glide down the street.  Towering high over the road, the town wall stands between the niceties of civilization and the cruel beauty of the wilds beyond.  In the shadow of the wall stands a gem shop, a sturdy stone building bearing a shiny gold plaque.  Gems and jewelry glimmer from the windows on beds of black velvet.",
+      "A group of elves tightens their cloaks against the chilling north wind as they pass along the road.  To the east sits the gemshop, a sturdy stone building bearing a shiny gold plaque."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2410": "west",
+      "2414": "south",
+      "2422": "go stone building",
+      "2423": "north"
+    },
+    "timeto": {
+      "2410": 0.2,
+      "2414": 0.2,
+      "2422": 0.2,
+      "2423": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042311
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      673,
+      1051,
+      709,
+      1087
+    ]
+  }
+}

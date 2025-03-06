@@ -1,0 +1,39 @@
+{
+  "checksum": "cdd9ce40e433e08110938404d1435d84",
+  "room": {
+    "id": 16996,
+    "title": [
+      "[Guild Hall, Basement]"
+    ],
+    "description": [
+      "In this dank and musty room sits a row of tubs filled with ice and a large, vault-like metal door.  A rivulet of water is leaking from the room behind the door, trickling down the drain in the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "16991": "east",
+      "16997": "go door",
+      "32790": "go tubs"
+    },
+    "timeto": {
+      "16991": 0.2,
+      "16997": 0.2,
+      "32790": 0.2
+    },
+    "tags": [
+      "warrior guild icetub"
+    ],
+    "uid": [
+      251101
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      377,
+      780,
+      399,
+      802
+    ]
+  }
+}

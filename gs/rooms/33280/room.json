@@ -1,0 +1,47 @@
+{
+  "checksum": "bcef63a993b0bc7a88cd3db987d6a8b7",
+  "room": {
+    "id": 33280,
+    "title": [
+      "[Vornavis, Gate of Light]"
+    ],
+    "description": [
+      "Bordered on its south by the interlocking pavers of the canal-spanning bridge, the sprawling courtyard is comprised of rounded cobblestones painted bright white and laid in concentric bands around a marble fountain.  Flanking the gates that connect Vornavis to Solhaven are wrought iron loops that resemble shepherd's crooks, each dangling a glass-doored octagonal lantern dormant in the daylight.  Branching out from the courtyard like the rays of a stylized sun, five avenues head deeper into the city.",
+      "Bordered on its south by the interlocking pavers of the canal-spanning bridge, the sprawling courtyard is comprised of rounded cobblestones painted bright white and laid in concentric bands around a marble fountain.  Flanking the gates that connect Vornavis to Solhaven are wrought iron loops that resembed shepherd's crooks, each dangling a glass-doored octagonal lantern that bathes the area in bright light.  Branching out from the courtyard like the rays of a stylized sun, five avenues head deeper into the city."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1507": "go green gates",
+      "33279": "southeast",
+      "33281": "north",
+      "33284": "east"
+    },
+    "timeto": {
+      "1507": 0.2,
+      "33279": 0.2,
+      "33281": 0.2,
+      "33284": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201105
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1661,
+      766,
+      1683,
+      787
+    ]
+  }
+}

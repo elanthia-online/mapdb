@@ -1,0 +1,41 @@
+{
+  "checksum": "5efbbee08453d156f4353873d0722f0a",
+  "room": {
+    "id": 30510,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The coarse sand of the bottom is nearly covered in some thick, dark weed that appears to have killed off any competing species.  The lack of any fish here suggests that they too find little of interest in the unwholesome plant."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18823": "swim up",
+      "30508": "swim northwest",
+      "30512": "swim south"
+    },
+    "timeto": {
+      "18823": 0.2,
+      "30508": 0.2,
+      "30512": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117117
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1243,
+      1050,
+      1263,
+      1070
+    ]
+  }
+}

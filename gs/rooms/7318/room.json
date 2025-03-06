@@ -1,0 +1,43 @@
+{
+  "checksum": "3ce112b9713452d27fc3c72d6bf66a98",
+  "room": {
+    "id": 7318,
+    "title": [
+      "[Dark Crevice]"
+    ],
+    "description": [
+      "You strain to keep clear of the rough outcroppings of rock in this dark space.  The floor continues its steep incline causing you to lean severely to remain upright.  In the dim light, you can just make out a trail of flowing mist moving slowly downward from a small opening above."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7317": "down",
+      "7319": "/rooms/7318/wayto/stringproc-7319.rb"
+    },
+    "timeto": {
+      "7317": 0.2,
+      "7319": 1
+    },
+    "tags": [
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2150001
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1087,
+      333,
+      1097,
+      343
+    ]
+  }
+}

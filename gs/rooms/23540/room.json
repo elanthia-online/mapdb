@@ -1,0 +1,34 @@
+{
+  "checksum": "396177ffbb20dbd3e10032389173e730",
+  "room": {
+    "id": 23540,
+    "title": [
+      "[Ilynov Manor, Parlour]"
+    ],
+    "description": [
+      "Shadows play across the light golden oak flooring that is tastefully accented with various plush throw rugs.  Pale ivory wallpaper, patterned in rows of crimson dragonstalks, warmly reflects the light from the cut crystal chandelier in a soothing, yet cheerful, manner.  Along the southern wall, a white enameled stove accented in gold leaf gilding and a majestic cherrywood hutch flank an arched stained oak door that leads into the pantry, while a small table and two ornate lor chairs sit beneath a large window overlooking the east lawn.",
+      "Light golden oak flooring is tastefully accented with various plush throw rugs.  Pale ivory wallpaper, patterned in rows of crimson dragonstalks, warmly reflects the light from the cut crystal chandelier in a soothing, yet cheerful, manner.  Along the western wall, a white enameled stove accented in gold leaf gilding and a majestic cherrywood hutch flank an open doorway that leads into the formal dining room, while a small table and two ornate lor chairs sit beneath a large window overlooking the east lawn."
+    ],
+    "paths": [
+      "Obvious exits: south",
+      "Obvious exits: south, west"
+    ],
+    "location": "Ilynov Manor, inside the elven fortress of Ta'Vaalor",
+    "wayto": {
+      "23542": "south",
+      "23546": "go door",
+      "28659": "west"
+    },
+    "timeto": {
+      "23542": 0.2,
+      "23546": 0.2,
+      "28659": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      378305
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "checksum": "c2d05f1a55748ceb1fbe0e6f0988c38b",
+  "room": {
+    "id": 12216,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Thick mist covers the ground in this small cemetery.  Moss-covered headstones and graves placed in a chaotic order stretch as far as the eye can see.  Several tombs rest on a small hill in the center of the quiet graves, on which three shapeless collections of ooze gather.  As you watch them, they morph into various shapes and sizes, speaking amongst themselves in some deep, flowing tongue."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12216/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12216/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12216/wayto/stringproc-12152.rb",
+      "20876": "west",
+      "20877": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "20876": 0.2,
+      "20877": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568043
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      214,
+      1208,
+      222,
+      1216
+    ]
+  }
+}

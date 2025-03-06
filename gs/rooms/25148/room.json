@@ -1,0 +1,45 @@
+{
+  "checksum": "8dbe7c198451cd5dc330af9374f333f8",
+  "room": {
+    "id": 25148,
+    "title": [
+      "[Tiruz's Caravans, Conductor]"
+    ],
+    "description": [
+      "Multitudinous yierkas fret and hiss from stalls along the walls of the open-air caravansary, a wide enclosure formed by loose trellises of silvered wood and shielded from above by aged canvas.  Standing beside a small fel sign, a tall blond man with a neatly trimmed goatee oversees the chaos, shouting over the cries of animals and customers alike."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the shadow of the Sanctum",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "221": "/rooms/25148/wayto/stringproc-221.rb",
+      "3904": "/rooms/25148/wayto/stringproc-3904.rb",
+      "25145": "go arch"
+    },
+    "timeto": {
+      "221": "/rooms/25148/timeto/stringproc-221.rb",
+      "3904": "/rooms/25148/timeto/stringproc-3904.rb",
+      "25145": 0.2
+    },
+    "tags": [
+      "some bur-clover root",
+      "caravan",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      4216902
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      457,
+      767,
+      481,
+      791
+    ]
+  }
+}

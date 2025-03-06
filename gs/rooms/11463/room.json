@@ -1,0 +1,44 @@
+{
+  "checksum": "ac1d669324c4b399115274388de60c9f",
+  "room": {
+    "id": 11463,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A steady and powerful current prevents swimming to the west.  Long strands of broad-leafed kelp undulate in the current.  A few tall fans of elkhorn coral stand like trees on the sandy bay floor.  To the south, the bay floor rises abruptly."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11460": "/rooms/11463/wayto/stringproc-11460.rb",
+      "11462": "/rooms/11463/wayto/stringproc-11462.rb",
+      "11464": "/rooms/11463/wayto/stringproc-11464.rb",
+      "11467": "/rooms/11463/wayto/stringproc-11467.rb"
+    },
+    "timeto": {
+      "11460": 2,
+      "11462": 3,
+      "11464": 2,
+      "11467": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304220
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      922,
+      1260,
+      932,
+      1270
+    ]
+  }
+}

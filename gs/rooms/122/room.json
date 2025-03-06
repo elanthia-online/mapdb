@@ -1,0 +1,38 @@
+{
+  "checksum": "e9d2e0dc22a9c18df8c930dc37905c5e",
+  "room": {
+    "id": 122,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "The shadowed ceiling ripples strangely, then squeaks.  A second glance reveals it to be a solid mass of bats, most of them juveniles.  A trio of the winged rodents swoops past you with shrill, piercing cries, defending their nest."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "121": "west",
+      "123": "east"
+    },
+    "timeto": {
+      "121": 0.2,
+      "123": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300020
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      690,
+      790,
+      700,
+      800
+    ]
+  }
+}

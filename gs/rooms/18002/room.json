@@ -1,0 +1,39 @@
+{
+  "checksum": "fe8d61d6ce8218057a6726e75cc380b6",
+  "room": {
+    "id": 18002,
+    "title": [
+      "[Rogue Guild, Hallway]"
+    ],
+    "description": [
+      "Ornate brass oil lamps illuminate the long hallway.  The tiled floor is partly covered with simple rugs.  The smell of garlic and roasting meats fills the hallway.  A small tapestry hangs on the wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "18001": "north",
+      "18003": "west",
+      "18004": "south"
+    },
+    "timeto": {
+      "18001": 0.2,
+      "18003": 0.2,
+      "18004": 0.2
+    },
+    "tags": [
+      "rogue guild window"
+    ],
+    "uid": [
+      263036
+    ],
+    "image": "rr-rogue_guild-1305438533.png",
+    "image_coords": [
+      192,
+      359,
+      219,
+      383
+    ]
+  }
+}

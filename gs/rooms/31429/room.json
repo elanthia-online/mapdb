@@ -1,0 +1,32 @@
+{
+  "checksum": "5eb18c428cff4124ac8edafa102aee05",
+  "room": {
+    "id": 31429,
+    "title": [
+      "[Shivergale, Common Room]"
+    ],
+    "description": [
+      "Framed by cloudy panels of bluish crystal, a wide fireplace dominates the rough-hewn western wall.  The scent of oiled leather rises from a singularly expansive couch positioned to benefit from the fire's heat.  Before it sits a low, wide refreshment table atop a snowy white warg pelt that contrasts brightly with the stone-tile floor below.  A northern archway proceeds into a cozy pantry, while a lacquered hoarbeam door breaks the carved granite of the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Shivergale, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "31428": "south",
+      "31430": "go archway",
+      "31431": "go hoarbeam door"
+    },
+    "timeto": {
+      "31428": 0.2,
+      "31430": 0.2,
+      "31431": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730128
+    ]
+  }
+}

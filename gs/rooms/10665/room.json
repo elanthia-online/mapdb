@@ -1,0 +1,43 @@
+{
+  "checksum": "4d9aeabfcc153f1ec87bfbdb44de7b36",
+  "room": {
+    "id": 10665,
+    "title": [
+      "[Neartofar Forest, Stockade]"
+    ],
+    "description": [
+      "An armor-clad figure slouches against a post in the center of the courtyard, like a derelict sentry on an interminable night watch.  The figure bears a rusting falchion in its drooping right arm, as if it were guarding the stairs leading up to the balcony.  A paper target tacked to the side of the barracks seems to have been used for archery practice."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, up"
+    ],
+    "location": "the Neartofar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10660": "southeast",
+      "10663": "northeast",
+      "10666": "up"
+    },
+    "timeto": {
+      "10660": 0.2,
+      "10663": 0.2,
+      "10666": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14015202
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      795,
+      921,
+      805,
+      931
+    ]
+  }
+}

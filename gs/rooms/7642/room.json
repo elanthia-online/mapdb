@@ -1,0 +1,44 @@
+{
+  "checksum": "14af32cf9210c4e97d4dea35dbc4bf9c",
+  "room": {
+    "id": 7642,
+    "title": [
+      "[Beach Area, Rotting Dock]"
+    ],
+    "description": [
+      "As you reach the tip of the pier, ancient sea-birds awaken to noisy flight and startle you so that you almost lose your footing and plunge into the cold bay.  Catching yourself, barely, you pause to survey the structure.  Exploring a bit, you realize that you could, if you dared, clamber down the pilings and gain a closer look at the large marine growth that encrust them near the water line.  There also appear to be remnants of a wooden platform almost on a level with the sea."
+    ],
+    "paths": [
+      "Obvious paths: south, down"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "7641": "south",
+      "7643": "down"
+    },
+    "timeto": {
+      "7641": 0.2,
+      "7643": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84206
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      304,
+      303,
+      314,
+      313
+    ]
+  }
+}

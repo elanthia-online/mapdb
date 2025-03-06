@@ -1,0 +1,29 @@
+{
+  "checksum": "4b9807d8bdc1ce48d4dff44f639a5442",
+  "room": {
+    "id": 23568,
+    "title": [
+      "[Rhaegas's Outfitting]"
+    ],
+    "description": [
+      "A painted silk wall panel hangs on one of the white silk-paneled walls, and a sturdy bamboo-rafter ceiling rises overhead.  Some puffed raw silk pillows sits in one corner of a colorful mosaic floor.  There is a glass-topped mistwood counter on one side of the shop and a long brass clothing rack on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12272": "out",
+      "23637": "south",
+      "23638": "north"
+    },
+    "timeto": {
+      "12272": 0.2,
+      "23637": 0.2,
+      "23638": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "4ae9d52e9242e3aa2f38d312c85bc7c0",
+  "room": {
+    "id": 2114,
+    "title": [
+      "[Teras Isle, High Road]"
+    ],
+    "description": [
+      "The view from the slope is spectacular.  Banks of thick fog swirl down the mountain, obscuring all for a few moments, then rushing down toward the dense Greymist Wood below.  To the southeast roll fields of grass and the dark eastern cliffs hold back the powerful ocean beyond.  Around you, the earth has taken on a darker hue, and jagged rocks pierce it more often than vegetation.  From the side of the road a trail leads up slope.",
+      "The view from the slope is spectacular.  Banks of thick yellow fog swirl down the mountain, obscuring all for a few moments, then rushing down toward the dense Greymist Wood below.  To the southeast roll fields of grass and the dark eastern cliffs hold back the powerful blue ocean beyond.  Around you, the earth has taken on a darker hue, and jagged rocks pierce it more often than vegetation.  From the side of the road a trail leads up slope."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "the old Logging Road",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2113": "south",
+      "2115": "northeast",
+      "2120": "go trail"
+    },
+    "timeto": {
+      "2113": 0.2,
+      "2115": 0.2,
+      "2120": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3009023
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      447,
+      324,
+      457,
+      334
+    ]
+  }
+}

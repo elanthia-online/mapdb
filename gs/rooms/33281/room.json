@@ -1,0 +1,45 @@
+{
+  "checksum": "e7a3cb2edd4328dbf3b11a83f4a40e97",
+  "room": {
+    "id": 33281,
+    "title": [
+      "[Vornavis, Dondraek Lane]"
+    ],
+    "description": [
+      "Western-facing homes line the ambling lane, each surrounded by decorative bushes and ample lawns.  Beyond the tidy rows, the illuminated city thrums with activity and life as denizens hurry about their busy day.  Narrowing perceptibly to the north, the small cobbles of the street transition to large slabs of worn sandstone as it slips between an imposing structure and the city walls.",
+      "Western-facing homes line the ambling lane, each surrounded by decorative bushes and ample lawns.  Beyond the tidy rows, the illuminated city sit quiet as it slumbers beneath the shelter of night.  Narrowing perceptibly to the north, the small cobbles of the street transition to large slabs of worn sandstone as it slips between an imposing structure and the city walls."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33280": "south",
+      "33282": "north",
+      "33468": "go wrought-iron gate"
+    },
+    "timeto": {
+      "33280": 0.2,
+      "33282": 0.2,
+      "33468": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201106
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1661,
+      706,
+      1683,
+      729
+    ]
+  }
+}

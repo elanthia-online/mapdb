@@ -1,0 +1,52 @@
+{
+  "checksum": "41d7880b4c04618aa5535e412953deb5",
+  "room": {
+    "id": 12543,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "Neat rows of tanik trees obscure the high walls of this roomy courtyard, their leaves draped across the rather rocky and otherwise bare earthen ground.  Squat monolithic stones sit to either side of the winding pathway that leads to the doors of a rough rock-hewn temple, their surfaces engraved with bold symbols.  A smaller structure of stone and iron stands to the east, partially obscured by the trees."
+    ],
+    "paths": [
+      "Obvious paths: east, out"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12388": "out",
+      "12544": "east",
+      "20025": "go temple",
+      "30715": "/rooms/12543/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12388": 0.2,
+      "12544": 0.2,
+      "20025": "/rooms/12543/timeto/stringproc-20025.rb",
+      "30715": "/rooms/12543/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "clericguild",
+      "meta:mapname:Teras Isle - Cleric Guild",
+      "meta:mapshortname:Cleric Guild (Teras)",
+      "meta:mapcategory:Teras Isle",
+      "meta:mapcategory:Guilds",
+      "urchin guide clericguild",
+      "urchin-access",
+      "meta:forage-sensed",
+      "cleric guild",
+      "no forageables"
+    ],
+    "uid": [
+      672016
+    ],
+    "image": "ti-Cleric_Guild-1267238976.jpg",
+    "image_coords": [
+      422,
+      464,
+      454,
+      498
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "406179e6b2b586d476be8f88e79f020b",
+  "room": {
+    "id": 15515,
+    "title": [
+      "[Henty's Depot, Signage]"
+    ],
+    "description": [
+      "A number of panels in the mahogany wainscoting have been scratched, most likely due to the movement of the trunks and chests that fill this corner of the shop.  Brass sconces illuminate the container's spacious interiors, several of which are lined with silk and others with velvet."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15513": "west",
+      "15516": "northwest",
+      "15518": "north"
+    },
+    "timeto": {
+      "15513": 0.2,
+      "15516": 0.2,
+      "15518": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      731048
+    ]
+  }
+}

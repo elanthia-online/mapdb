@@ -1,0 +1,41 @@
+{
+  "checksum": "777b7dba9d31b5e25988f74686c14def",
+  "room": {
+    "id": 31816,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "A series of tiny eyots capped with tufts of silvery, hair-like grass rise from the dappled river in a haphazard fashion.  Magnificent, knotted trees lean out over the water from either bank, their contorted grey branches reaching towards each other through the thick fog.  The sweet smell of wet earth and rotten wood pervades the air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31815": "/rooms/31816/wayto/stringproc-31815.rb",
+      "31845": "/rooms/31816/wayto/stringproc-31845.rb"
+    },
+    "timeto": {
+      "31815": 4.2,
+      "31845": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083393
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      827,
+      721,
+      851,
+      743
+    ]
+  }
+}

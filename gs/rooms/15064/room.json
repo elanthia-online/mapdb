@@ -1,0 +1,30 @@
+{
+  "checksum": "6b4191cf28f3ad128623aa81c4e18fdd",
+  "room": {
+    "id": 15064,
+    "title": [
+      "[Summerskye's Weaponry]",
+      "[Summerskye's Magic Shoppe]"
+    ],
+    "description": [
+      "Plain wooden walls rise from a mistwood plank floor.  Just above a fishcale blue mermaid figurine hangs a fused sun and moon wall-hanging, and a mistwood beam ceiling completes the picture.  A set of carved felwood shelves and a plain wooden table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "367": "out",
+      "15367": "east",
+      "15368": "north"
+    },
+    "timeto": {
+      "367": 0.2,
+      "15367": 0.2,
+      "15368": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

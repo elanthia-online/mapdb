@@ -1,0 +1,45 @@
+{
+  "checksum": "5c6c5090c6b89f71d936cf7dae5cee21",
+  "room": {
+    "id": 1929,
+    "title": [
+      "[Krodera Street]"
+    ],
+    "description": [
+      "The walls of the canyon loom overhead.  The street continues inside them to the east, entering a vast, dimly-lit tunnel.  Dwarves and other folk wander in and out, some stopping at a small, bright-blue wooden shop here outside.  A thick plume of black smoke puffs silently out of the shop's chimney and the faint smell of burning bread wafts throughout the street."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1928": "east",
+      "1930": "climb steps",
+      "1931": "west",
+      "12535": "go shop"
+    },
+    "timeto": {
+      "1928": 0.2,
+      "1930": 0.2,
+      "1931": 0.2,
+      "12535": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001027
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1214,
+      519,
+      1244,
+      549
+    ]
+  }
+}

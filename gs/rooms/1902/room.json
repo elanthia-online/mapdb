@@ -1,0 +1,43 @@
+{
+  "checksum": "c9f8305587c5a9d4898a793bfa0d9ccb",
+  "room": {
+    "id": 1902,
+    "title": [
+      "[Mud Baths, Marble Way]"
+    ],
+    "description": [
+      "Mining equipment sits at the end of the tunnel, waiting for the next major digging effort.  Teeth biting into the wall, a huge bore remains where it was left after the construction of the mud baths was complete.  Although it is set off by barricades, children climb all over the machine, turning it into a makeshift playground."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1901": "go arch",
+      "1903": "southwest",
+      "28704": "/rooms/1902/wayto/stringproc-28704.rb"
+    },
+    "timeto": {
+      "1901": 0.2,
+      "1903": 0.2,
+      "28704": 0.2
+    },
+    "tags": [
+      "meta:mapname:Neighborhoods of Teras Isle and River's Rest",
+      "meta:mapcategory:Teras Isle",
+      "meta:mapcategory:River's Rest",
+      "meta:mapcategory:Neighborhoods",
+      "meta:mapcategory:Premium"
+    ],
+    "uid": [
+      703151
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      514,
+      459,
+      534,
+      479
+    ]
+  }
+}

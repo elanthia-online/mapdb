@@ -1,0 +1,30 @@
+{
+  "checksum": "4b36e6ba71ac243c390a3142d9d3b9c4",
+  "room": {
+    "id": 15129,
+    "title": [
+      "[Szalka's Outfitting]",
+      "[Szalka's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wicker basket and a glass-topped mistwood counter sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "341": "out",
+      "15337": "east",
+      "15338": "north"
+    },
+    "timeto": {
+      "341": 0.2,
+      "15337": 0.2,
+      "15338": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

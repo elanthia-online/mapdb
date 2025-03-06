@@ -1,0 +1,42 @@
+{
+  "checksum": "7ec70da24138a9b1d11f249a399dbb89",
+  "room": {
+    "id": 30015,
+    "title": [
+      "[Eldurhaart, Wicker Guardian]"
+    ],
+    "description": [
+      "A rudimentary figure of wicker stands watch over the village's tall houses.  Flowers woven into its joints sway on the breeze in a soft susurrus, lending their perfume to the frigid air.  Earthenware jugs of rendered whale oil sit in formation by the guardian, hinting at the guardian's eventual fate."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30014": "south",
+      "30016": "north"
+    },
+    "timeto": {
+      "30014": 0.2,
+      "30016": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503342
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1225,
+      761,
+      1241,
+      776
+    ]
+  }
+}

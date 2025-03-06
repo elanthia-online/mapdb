@@ -1,0 +1,29 @@
+{
+  "checksum": "78797fc70ea30293bdd50708404818c1",
+  "room": {
+    "id": 12887,
+    "title": [
+      "[Apple Orchard, Matriarch]"
+    ],
+    "description": [
+      "Here in the center of the orchard, a massive apple tree, perhaps the genetic parent to the rest of the orchard, stands regally amid the moonlight.  A rope ladder disappears into the leafy branches overhead.",
+      "Here in the center of the orchard, a massive apple tree, perhaps the genetic parent to the rest of the orchard, stands regally amid the sunlight.  A rope ladder disappears into the leafy branches overhead."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12886": "north",
+      "12898": "south"
+    },
+    "timeto": {
+      "12886": 0.2,
+      "12898": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

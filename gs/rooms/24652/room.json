@@ -1,0 +1,29 @@
+{
+  "checksum": "c8727f34dd56190491d0b9cd4362cddf",
+  "room": {
+    "id": 24652,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Squat but wide, echoes ring out loudly in this mostly ruin rock hallway.  What little ambient light illuminates the way reflects off thin rivulets of trickle coming from the roots breaking through the earthen ceiling.  The crimson glow of vermin eyes flash every now and again, as the creatures meander from end to end of the passage."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24650": "west",
+      "24655": "north",
+      "24656": "south",
+      "24657": "east"
+    },
+    "timeto": {
+      "24650": 0.2,
+      "24655": 0.2,
+      "24656": 0.2,
+      "24657": 0.2
+    },
+    "check_location": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "f58e7fc340862a47b3dc59a99e14aca3",
+  "room": {
+    "id": 23801,
+    "title": [
+      "[The Mar and Scar, Threshold]"
+    ],
+    "description": [
+      "Iron sconces line the stone walls, barely illuminating the narrow entryway.  Within the center of the room, a glass-topped red marble counter is draped with a cloth that spills out toward the floor.  A dark beaded curtain on the northern wall leads toward the back of the structure, while two passageways fork off around the curtain."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23802": "go curtain",
+      "23803": "northeast",
+      "23804": "northwest",
+      "23805": "/rooms/23801/wayto/stringproc-23805.rb",
+      "26868": "out"
+    },
+    "timeto": {
+      "23802": 0.2,
+      "23803": 0.2,
+      "23804": 0.2,
+      "23805": 0.2,
+      "26868": 0.2
+    },
+    "uid": [
+      8212522
+    ]
+  }
+}

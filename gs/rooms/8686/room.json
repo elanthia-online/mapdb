@@ -1,0 +1,46 @@
+{
+  "checksum": "e10a812dceb9eb6cd8bec6c28bcafa03",
+  "room": {
+    "id": 8686,
+    "title": [
+      "[Wehnimer's, Constabulary]"
+    ],
+    "description": [
+      "The front room of the local constabulary contains the desk of the town constable.  The oaken floor is scuffed by countless feet dragged across it, obviously most reluctantly.  Behind the desk is a weapon rack.  A strong, ironbound door with a narrow, barred grate leads east."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "232": "out",
+      "7517": "climb ladder",
+      "30708": "/rooms/8686/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "232": 0.2,
+      "7517": 0.2,
+      "30708": "/rooms/8686/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "jail",
+      "meta:noteleport:fwi",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "rogue guild hardlock",
+      "rogue guild hardlock:door",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2600
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      509,
+      735,
+      545,
+      771
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "1cf40e8efd0ea93a55a2f0f267bf6651",
+  "room": {
+    "id": 8928,
+    "title": [
+      "[Wizard Guild, Auditorium]"
+    ],
+    "description": [
+      "The auditorium is large enough to seat hundreds and is clearly the heart of the guild.  A mosaic of sea life surrounds the circular chamber and the light cast by girandoles containing white candles, give the undine creatures the illusion of motion.  Benches are arranged concentrically about a high dais with a lectern draped in vivid blue silk."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8920": "south",
+      "19782": "go curtain"
+    },
+    "timeto": {
+      "8920": 0.2,
+      "19782": 0.2
+    },
+    "uid": [
+      680013
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      212,
+      590,
+      261,
+      640
+    ]
+  }
+}

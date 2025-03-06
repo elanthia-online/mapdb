@@ -1,0 +1,30 @@
+{
+  "checksum": "bc6601ab9b0aac726ab0f02748059345",
+  "room": {
+    "id": 15859,
+    "title": [
+      "[Sufado's Outfitting]",
+      "[Sufado's General Store]"
+    ],
+    "description": [
+      "Dark oak walls rise from a polished oak floor.  Just above a well-pruned lemon tree hangs a large Aenatumgana painting, and an oak beam ceiling completes the picture.  A narrow glass-topped table stands in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2373": "out",
+      "15882": "northwest",
+      "15883": "northeast"
+    },
+    "timeto": {
+      "2373": 0.2,
+      "15882": 0.2,
+      "15883": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

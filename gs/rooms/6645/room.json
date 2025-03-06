@@ -1,0 +1,38 @@
+{
+  "checksum": "ab998e021be273fe63b050575b2500b8",
+  "room": {
+    "id": 6645,
+    "title": [
+      "[Monastery, Stone Corridor]"
+    ],
+    "description": [
+      "Lit torches are mounted to either side of the doorways leading north and south.  The doorways are open, with no doors mounted in the frames to block passage.  To the west is an arch leading to a larger room, from which emanates the faint smell of roasting meat.  The corridor continues to the east."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6642": "east",
+      "6643": "north",
+      "6644": "south",
+      "6646": "west"
+    },
+    "timeto": {
+      "6642": 0.2,
+      "6643": 0.2,
+      "6644": 0.2,
+      "6646": 0.2
+    },
+    "uid": [
+      487047
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      169,
+      1155,
+      179,
+      1165
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "0f78c7c603ba226b1df2e87d3986f5c2",
+  "room": {
+    "id": 6110,
+    "title": [
+      "[Twin Canyons, Rocky Pass]"
+    ],
+    "description": [
+      "Jagged outcrops of craggy rocks split the valley into twin canyons.  Small rocks skitter down the steep walls of the canyon and form small wisps of dust that look like rising steam.  Cold air flows steadily north out of both canyons as the night cools the rock faces to near freezing temperatures.  Very faint chattering sounds can be heard coming from large cracks in the rock outcrop to the south.",
+      "Jagged outcrops of craggy rocks split the valley into twin canyons.  Small rocks skitter down the steep walls of the canyon creating small wisps of dust that look like rising steam while the cool rock of the canyon floor creates a stream of cool air that flows steadily north out of both canyons.  Very faint chattering sounds can be heard coming from large cracks in the rock outcrop to the south."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest"
+    ],
+    "location": "Wehntoph",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6109": "/rooms/6110/wayto/stringproc-6109.rb",
+      "6111": "southeast",
+      "6119": "/rooms/6110/wayto/stringproc-6119.rb",
+      "7921": "southwest",
+      "14725": "south"
+    },
+    "timeto": {
+      "6109": 0.2,
+      "6111": 0.2,
+      "6119": 0.2,
+      "7921": 0.2,
+      "14725": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      484001
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      305,
+      1274,
+      315,
+      1284
+    ]
+  }
+}

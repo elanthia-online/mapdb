@@ -1,0 +1,46 @@
+{
+  "checksum": "8f09a4167d3b6c1c18644e1c6e9ddd2d",
+  "room": {
+    "id": 1581,
+    "title": [
+      "[Solhaven, Salters' Road]",
+      "[Solhaven, Trader and Salters']"
+    ],
+    "description": [
+      "With a single gateway at the corner of Salters' Road and Trade Row, a plank walled workyard fills the northeast corner of the intersection.  A tin-roofed warehouse rises above the wall at the back of the yard.",
+      "Bordered to the west by the crushing surf of Solhaven Bay, the intersection of Salters' Road and Trade Row is an expansive street lined with even cobbles.  A plank-walled workyard fills the northeast corner of the intersection, festooned with garlands of rose and lily that do little to mask the briny smell cloaking it.  A tin-roofed warehouse rises above the wall at the back of the yard."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1574": "north",
+      "1585": "east",
+      "1587": "south",
+      "13435": "go workyard"
+    },
+    "timeto": {
+      "1574": 0.2,
+      "1585": 0.2,
+      "1587": 0.2,
+      "13435": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902124
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      636,
+      1521,
+      660,
+      1545
+    ]
+  }
+}

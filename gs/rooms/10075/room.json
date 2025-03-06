@@ -1,0 +1,43 @@
+{
+  "checksum": "004067dc00a069c2174f49b1d2a86270",
+  "room": {
+    "id": 10075,
+    "title": [
+      "[Sylvarraend, Foehn Var]"
+    ],
+    "description": [
+      "An elegant cottage sits to one side of the trail, boasting smooth tan-hued river rock walls and an unusual blue slate tiled roof.  Deep blue shutters frame the structure's glaesine windows, beneath which foamy cascades of blaestonberry mingle with deeply fragrant creeping rosemary.  An engraved silver sign swings from an awning above the shop's blue-painted door.",
+      "An elegant cottage sits to one side of the trail, boasting smooth tan-hued river rock walls and an unusual blue slate tiled roof.  Deep blue shutters frame the structure's glaesine windows, beneath which foamy cascades of blaestonberry mingle with deeply fragrant creeping rosemary.  An engraved silver sign swings from an awning above the shop's blue-painted door, barely illuminated by the light from the windows."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the town of Sylvarraend",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10073": "southeast",
+      "10076": "go cottage",
+      "10077": "northwest"
+    },
+    "timeto": {
+      "10073": 0.2,
+      "10076": 0.2,
+      "10077": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13050018
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      104,
+      937,
+      139,
+      975
+    ]
+  }
+}

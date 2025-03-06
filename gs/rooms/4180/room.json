@@ -1,0 +1,39 @@
+{
+  "checksum": "9be6408eaf9ef1421a54432bc74e7d2e",
+  "room": {
+    "id": 4180,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "You now see what has caused the fog.  Water bleeds from the upper part of the stone wall in a small trickle here.  When it strikes the hotter stone of the floor the water heats, and evaporates into steam.  As time cools it, the steam sinks to the low level of the caves to surround your ankles as fog.  It almost has a life of its own as it moves around you."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4179": "north",
+      "4181": "south"
+    },
+    "timeto": {
+      "4179": 0.2,
+      "4181": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138141
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      696,
+      1105,
+      706,
+      1115
+    ]
+  }
+}

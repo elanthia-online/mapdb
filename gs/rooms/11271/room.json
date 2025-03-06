@@ -1,0 +1,43 @@
+{
+  "checksum": "6e23fa777f405a8d3e9ac7f32eb0923e",
+  "room": {
+    "id": 11271,
+    "title": [
+      "[Zoo, Slate Path]"
+    ],
+    "description": [
+      "You look down into one of the pools and are momentarily startled to see a huge crayfish staring back at you with glossy black eyes.  The other pool is filled with plantlife and holds a small, spring-fed fountain.  This is the source of the water for the other tanks as the overflow from this one keeps the rest filled."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "the Citadel",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11270": "west",
+      "11272": "southeast",
+      "11273": "northeast"
+    },
+    "timeto": {
+      "11270": 0.2,
+      "11272": 0.2,
+      "11273": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      377055
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      508,
+      816,
+      518,
+      826
+    ]
+  }
+}

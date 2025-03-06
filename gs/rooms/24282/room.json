@@ -1,0 +1,41 @@
+{
+  "checksum": "995a12a8c7bc4698bdeb02d06c4bf2b2",
+  "room": {
+    "id": 24282,
+    "title": [
+      "[Guild Lodge, Front Porch]"
+    ],
+    "description": [
+      "Drifts of snow rest against the perimeter of the lodge, and icicles hang from the roof.  The porch has been recently shoveled, keeping the wooden planks of the floor free of snow.  The shelter of the lodge blocks the cold wind, leaving the air still and crisp."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Icemule Ranger Guild",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24281": "go steps",
+      "24283": "go door"
+    },
+    "timeto": {
+      "24281": 0.2,
+      "24283": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      270001
+    ],
+    "image": "imt-rangerguild-v2.png",
+    "image_coords": [
+      150,
+      239,
+      168,
+      258
+    ]
+  }
+}

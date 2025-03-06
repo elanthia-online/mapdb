@@ -1,0 +1,34 @@
+{
+  "checksum": "509ca19f592e07ccaf9a5997dd9ff2ef",
+  "room": {
+    "id": 5610,
+    "title": [
+      "[Mercantylers' Banking Hall]"
+    ],
+    "description": [
+      "Brasswork at the two tellers' windows gleams brightly in this well-lit hall.  While lacking the fabrics and tapestries that might make the room more comfortable, the polished brass and oak surfaces speak of meticulous care."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5608": "go doorway",
+      "14582": "go booth"
+    },
+    "timeto": {
+      "5608": 0.2,
+      "14582": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2120082
+    ]
+  }
+}

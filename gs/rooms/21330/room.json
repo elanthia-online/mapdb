@@ -1,0 +1,54 @@
+{
+  "checksum": "afade29bdf903020ac90b5c2dbad0a1a",
+  "room": {
+    "id": 21330,
+    "title": [
+      "[Sylvanfair, Rogal-Keli Hall]"
+    ],
+    "description": [
+      "The trunk of this enormous tree is hollow, providing the House with a huge hall of living wood.  Natural knotholes and other openings in the trunk allow light to enter the hall, while layers of carefully arranged branches and bright autumn-colored leaves keep out the weather.  Birdsong fills the air, giving the hall a cheerful atmosphere.  A staircase spirals up around the inside of the tree.",
+      "The trunk of this enormous tree is hollow, providing the House with a huge hall of living wood.  Natural knotholes and other openings in the trunk allow moonlight to enter the hall, while layers of carefully arranged branches and bright autumn-colored leaves keep out the weather.  Crickets and other night insects fill the air with their songs, giving the hall a cheerful atmosphere.  A staircase spirals up around the inside of the tree."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, west, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8753": "out",
+      "21331": "go staircase",
+      "21332": "go door",
+      "21334": "northwest",
+      "21335": "west",
+      "21340": "southeast",
+      "21341": "east",
+      "21346": "northeast"
+    },
+    "timeto": {
+      "8753": 0.2,
+      "21331": 0.2,
+      "21332": 0.2,
+      "21334": 0.2,
+      "21335": 0.2,
+      "21340": 0.2,
+      "21341": 0.2,
+      "21346": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - House Sylvanfair",
+      "meta:mapshortname:House Sylvanfair",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:CHE",
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211002
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      477,
+      505,
+      517,
+      544
+    ]
+  }
+}

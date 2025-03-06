@@ -1,0 +1,58 @@
+{
+  "checksum": "15f4c6bf66bb93781404ca8e1d4a2dd4",
+  "room": {
+    "id": 12197,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A battered wooden gate rests against the pitted stone walls surrounding a small city.  Mail-clad guards with pikes and heavy crossbows pace back and forth atop the walls.  Members of an invading force, beasts of burden, and captives travel the broken street leading into the remnants of town.  A bestial military squad drills on the rocky parade ground just inside the gate.  Fog obscures them as they march to and fro, and the gruff barks of their sergeant blend in with the din of the prisoners at the gate."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest",
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12197/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12197/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12197/wayto/stringproc-12152.rb",
+      "12196": "southwest",
+      "12198": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12196": 0.2,
+      "12198": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568028
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      104,
+      1032,
+      114,
+      1042
+    ]
+  }
+}

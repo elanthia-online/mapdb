@@ -1,0 +1,34 @@
+{
+  "checksum": "0fc0a4193fa306d157728c34f0e5a352",
+  "room": {
+    "id": 16199,
+    "title": [
+      "[Beacon Hall, Passage]"
+    ],
+    "description": [
+      "A dim corridor stretches into the distance, poorly lit by a single guttering lamp.  Glistening rivulets of condensation run down the rough stone blocks of the walls and soak into the packed dirt floor.  A cluster of slimy mushrooms growing next to a low doorway is the source of the musty odor that pervades the area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16198": "go passage",
+      "16202": "go door"
+    },
+    "timeto": {
+      "16198": 0.2,
+      "16202": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      611,
+      263,
+      658,
+      308
+    ]
+  }
+}

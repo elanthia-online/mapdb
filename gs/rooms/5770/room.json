@@ -1,0 +1,52 @@
+{
+  "checksum": "b9b2646cc69b69195e0f00a1a0d107bc",
+  "room": {
+    "id": 5770,
+    "title": [
+      "[Mraent Cavern, Granite Tunnel]"
+    ],
+    "description": [
+      "A broad ramp leads from the lower tunnels to the main quarry above.  A pleasant sound of falling water reaches your ears from some unseen, distant source."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5760": "go ramp",
+      "5771": "north",
+      "5772": "west"
+    },
+    "timeto": {
+      "5760": 0.2,
+      "5771": 0.2,
+      "5772": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008019
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      411,
+      177,
+      421,
+      187
+    ]
+  }
+}

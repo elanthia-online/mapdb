@@ -1,0 +1,55 @@
+{
+  "checksum": "a63f28091371f1c9239e97bf66849f15",
+  "room": {
+    "id": 24383,
+    "title": [
+      "[Ranger Guild, The Circle]"
+    ],
+    "description": [
+      "Deep furrows in the silvery bark of the massive oak tree wind their way along its trunk, forming strange, intertwined patterns upon the surface of the ancient tree.  Large roots sprawl along the ground, their bark riddled with a faint sheen of moss.  The rest of the area is covered in pale green grass, the tiny blades waving in the breeze slowly."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "cold, dry",
+    "terrain": "cultivated",
+    "wayto": {
+      "24382": "southwest",
+      "24384": "go tree",
+      "24385": "north"
+    },
+    "timeto": {
+      "24382": 0.2,
+      "24384": 0.2,
+      "24385": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "white hook mushroom",
+      "moonflower",
+      "heath aster",
+      "bright red cranberry",
+      "yew twig",
+      "luckbloom blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2023-05"
+    ],
+    "uid": [
+      275010
+    ],
+    "image": "en-ta_illistim-rangerguild-v2.png",
+    "image_coords": [
+      171,
+      260,
+      192,
+      283
+    ]
+  }
+}

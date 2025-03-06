@@ -1,0 +1,43 @@
+{
+  "checksum": "87f9a1c54750d85f3c0994e7483d0984",
+  "room": {
+    "id": 14062,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "The east and north sections of the inner wall meet here.  Set between the two walls, a stout watchtower rises several stories over the inner ward grounds.  A sturdy wooden door hanging on its rusted hinges leads into the tower's interior."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14037": "south",
+      "14063": "go door",
+      "14064": "west"
+    },
+    "timeto": {
+      "14037": 0.2,
+      "14063": 0.2,
+      "14064": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750032
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      761,
+      224,
+      771,
+      234
+    ]
+  }
+}

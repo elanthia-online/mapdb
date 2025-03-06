@@ -1,0 +1,38 @@
+{
+  "checksum": "85e0d9f5cf8eae8bbba7f655881e35d9",
+  "room": {
+    "id": 24591,
+    "title": [
+      "[Wehnimer's Museum, Alcove]"
+    ],
+    "description": [
+      "Dark-paneled walls give way to a curved expanse of glass, flooding the room with sunlight and illuminating the glittering mica in the marble floor.  Long silken banners hang majestically from the ceiling, eight to the left and eight to the right, beneath which are a series of tall black pedestals.  In the center of the room is a circular wooden bench, ideal for perusing the exhibits or enjoying the view through the window.  A small brass sign hangs next to a black marble arch that leads back to the lobby."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19950": "go arch"
+    },
+    "timeto": {
+      "19950": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28153
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      1093,
+      1057,
+      1237,
+      1116
+    ]
+  }
+}

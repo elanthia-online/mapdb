@@ -1,0 +1,42 @@
+{
+  "checksum": "af468d928ffd3d830b271de242528706",
+  "room": {
+    "id": 3713,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The walls are covered with moist, putrid mold and the mortar crumbles beneath the slightest touch.  You sense that small, dark, malevolent eyes are watching your every move with interest."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3712": "north",
+      "3714": "south"
+    },
+    "timeto": {
+      "3712": 0.2,
+      "3714": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42004
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      149,
+      1174,
+      159,
+      1184
+    ]
+  }
+}

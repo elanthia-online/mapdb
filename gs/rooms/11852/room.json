@@ -1,0 +1,43 @@
+{
+  "checksum": "2806cfb78990992cce9fc029f821c8cc",
+  "room": {
+    "id": 11852,
+    "title": [
+      "[Old Ta'Faendryl, East]"
+    ],
+    "description": [
+      "Weeds, ivy, and grass fill in the cracks that extend in a webbed pattern down the entire length of a long paved walkway.  On each side of the path, vegetation creeps over sun-bleached blocks of stone, like mold growing over the skeleton of the city."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11851": "west",
+      "11853": "east",
+      "12041": "northwest"
+    },
+    "timeto": {
+      "11851": 0.2,
+      "11853": 0.2,
+      "12041": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004072
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1148,
+      661,
+      1158,
+      671
+    ]
+  }
+}

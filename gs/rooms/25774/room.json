@@ -1,0 +1,41 @@
+{
+  "checksum": "87d236420557f6e9c3972d8ec9a809a6",
+  "room": {
+    "id": 25774,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Built upon large and small stones, the wooden dock that stretches outward from the island is discolored by the rise and fall of the waves that crash against its smooth edges.  Beyond the manmade structure to the north, the island stretches eastward in a series of enormous, flat stones.  Waves rushing to the island crash against its side and send a salty spray into the air."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25703": "/rooms/25774/wayto/stringproc-25703.rb",
+      "25775": "/rooms/25774/wayto/stringproc-25775.rb",
+      "25785": "/rooms/25774/wayto/stringproc-25785.rb"
+    },
+    "timeto": {
+      "25703": 6,
+      "25775": 6,
+      "25785": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223855
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1761,
+      1600,
+      1781,
+      1619
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "08c9ecaa120257d8dd50ce160bd9e270",
+  "room": {
+    "id": 23139,
+    "title": [
+      "[Accept the Inevitable, Showroom]"
+    ],
+    "description": [
+      "This fairly spacious room must take up the majority of the wagon.  Openings on two walls lead to smaller rooms, and a large display case sits squarely in the middle of the room.  Bright lanterns cast an array of sharp shadows, compensating for the complete lack of windows.  Neatly organized shelves line one wall, and a simple ladder leads up to an open mithril hatch in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": false,
+    "wayto": {
+      "20165": "out",
+      "23140": "go hatch",
+      "23167": "east",
+      "23168": "north"
+    },
+    "timeto": {
+      "20165": 0.2,
+      "23140": 0.2,
+      "23167": 0.2,
+      "23168": 0.2
+    }
+  }
+}

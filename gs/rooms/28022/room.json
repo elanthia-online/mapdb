@@ -1,0 +1,44 @@
+{
+  "checksum": "542fcef7ea1973a46670b53b695695f6",
+  "room": {
+    "id": 28022,
+    "title": [
+      "[Rumor Woods, Anvil Strip]"
+    ],
+    "description": [
+      "In the shadow of the viewing stands, a narrow road leads west through a maze of merchant stalls and tents.  Horses are tethered to posts along both sides of the road, some drinking from hanging buckets filled with icy cold spring water, while others graze on small tufts of wild grass not yet trampled into the mud.  The smell of roasting peanuts wafts in on a gentle breeze."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west, northwest"
+    ],
+    "location": "Rumor Woods",
+    "wayto": {
+      "28021": "southeast",
+      "28023": "west",
+      "28042": "northwest",
+      "29675": "go oiled tent",
+      "29676": "go oilcloth tent",
+      "33512": "go carousel-shaped wagon",
+      "33515": "go wooden shelter"
+    },
+    "timeto": {
+      "28021": 0.2,
+      "28023": 0.2,
+      "28042": 0.2,
+      "29675": 0.2,
+      "29676": 0.2,
+      "33512": 0.2,
+      "33515": 0.2
+    },
+    "uid": [
+      8208736
+    ],
+    "image": "fest-RW2023-1687094965.png",
+    "image_coords": [
+      665,
+      364,
+      695,
+      393
+    ]
+  }
+}

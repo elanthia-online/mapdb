@@ -1,0 +1,40 @@
+{
+  "checksum": "350333bc543bdc0e4fe01da7ec94e3e1",
+  "room": {
+    "id": 19970,
+    "title": [
+      "[Landmarks, Danjirland]"
+    ],
+    "description": [
+      "A mural of a forest scene, with thick trunks spaced close together, covers all four walls, lending itself to the primordial ambiance of the room.  A thick grass green rug covers the floor, its expansive surface interrupted by a replica wooden obelisk and a weatherbeaten sign.  On one wall a panoramic painting in a knotty oak frame blocks the mural of trees behind it and resting below the artwork is a glass-fronted oak case."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19948": "/rooms/19970/wayto/stringproc-19948.rb",
+      "19969": "west"
+    },
+    "timeto": {
+      "19948": 0.2,
+      "19969": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28138
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      1804,
+      1033,
+      1947,
+      1093
+    ]
+  }
+}

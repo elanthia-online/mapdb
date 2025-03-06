@@ -1,0 +1,46 @@
+{
+  "checksum": "88a16110a336ec6f13a65784ba9ddaed",
+  "room": {
+    "id": 6183,
+    "title": [
+      "[Hidden Plateau, Ruins]"
+    ],
+    "description": [
+      "Massive marble pillars, each carved with the images of spiraling grape vines, run the length of the hallway.  Brass candelabra hang from most of the pillars, though several rest on the floor, where they have fallen from their perch.  In addition to supporting the ceiling above, the elegant structures form an arched entryway to the south."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6175": "northwest",
+      "6176": "north",
+      "6184": "south",
+      "6185": "east"
+    },
+    "timeto": {
+      "6175": 0.2,
+      "6176": 0.2,
+      "6184": 0.2,
+      "6185": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "agave heart",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2167026
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      210,
+      526,
+      246,
+      562
+    ]
+  }
+}

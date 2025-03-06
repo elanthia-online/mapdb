@@ -1,0 +1,29 @@
+{
+  "checksum": "f5561fa441d5a93c69edce33bec6d9a2",
+  "room": {
+    "id": 31256,
+    "title": [
+      "[Asylum, West Wing]"
+    ],
+    "description": [
+      "The austere appearance of this corridor lends to the rigid atmosphere of the entire asylum.  This section of the hallway has a bit more activity with inmates who occasionally run by.  A few benches are firmly secured to the floor along the perimeter.  The wall at the end of the hall has a chalky door outline with bits of cracked and crumbling stone in the center."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "31254": "east",
+      "31257": "go wooden door",
+      "31258": "go steel door"
+    },
+    "timeto": {
+      "31254": 0.2,
+      "31257": 0.2,
+      "31258": 0.2
+    },
+    "uid": [
+      3027013
+    ]
+  }
+}

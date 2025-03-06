@@ -1,0 +1,36 @@
+{
+  "checksum": "e442e695750edb02142d920afafe8d5a",
+  "room": {
+    "id": 8927,
+    "title": [
+      "[Wizard Guild, Hallway]"
+    ],
+    "description": [
+      "Unexpectedly warm air fills the broad hallway and provides a welcome respite from the harsh artic winds outside.  A constant flow of mist falls from an icy arch as warm air filled with the scent of tropical flowers makes contact.  Torches along each wall illuminate lifelike murals that depict a realistic courtyard with a fountain.  The murals look so real that one could easily imagine faint sounds of splashing water coming from the paintings."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8920": "west",
+      "8926": "northeast",
+      "15701": "go arch"
+    },
+    "timeto": {
+      "8920": 0.2,
+      "8926": 0.2,
+      "15701": 0.2
+    },
+    "uid": [
+      680004
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      316,
+      694,
+      368,
+      747
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "51dd6a5cfd093d9d215812dff6197b88",
+  "room": {
+    "id": 7006,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "This space lies in between the inner and outer curtain walls of the castle.  The air here is damp and cold, and the wind blows constantly.  Ominous scratches in the inner curtain wall make you wonder if the castle really is abandoned.  To the east is the northeast guardtower, and to the outer ward continues to the west."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7005": "west",
+      "7007": "east"
+    },
+    "timeto": {
+      "7005": 0.2,
+      "7007": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "wolifrew lichen",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "heath aster",
+      "bright red cranberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45112
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      595,
+      375,
+      605,
+      385
+    ]
+  }
+}

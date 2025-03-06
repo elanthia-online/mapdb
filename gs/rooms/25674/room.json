@@ -1,0 +1,29 @@
+{
+  "checksum": "622e279b3f0a1762851cb53eeb85ecd3",
+  "room": {
+    "id": 25674,
+    "title": [
+      "[Bard Guild, Hallway]"
+    ],
+    "description": [
+      "A deep-piled rug runs down the center of the long hallway.  The striking colors in its complex geometric pattern almost glow in contrast to the dark teak paneling the walls and ceiling.  Conch-shaped globes hang down from overhead, enclosing the warm glow of candles inside the lanterns.  Faint strains of music can be heard off and on, as musicians locked away in practice rooms rehearse."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "25671": "south",
+      "25675": "go door",
+      "25676": "northeast"
+    },
+    "timeto": {
+      "25671": 0.2,
+      "25675": 0.2,
+      "25676": 0.2
+    },
+    "uid": [
+      284003
+    ]
+  }
+}

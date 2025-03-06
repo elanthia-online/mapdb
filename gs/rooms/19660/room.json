@@ -1,0 +1,40 @@
+{
+  "checksum": "03e70d0011c9240a0d524e0cf0873dd4",
+  "room": {
+    "id": 19660,
+    "title": [
+      "[Cavernhold, Twisting Passage]"
+    ],
+    "description": [
+      "This passage twists violently as it runs in a general west to northeast direction.  You are struck with the sudden fear that nearly anything could be waiting around the next turn."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19641": "west",
+      "19663": "northeast"
+    },
+    "timeto": {
+      "19641": 0.2,
+      "19663": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10024
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      677,
+      1001,
+      689,
+      1012
+    ]
+  }
+}

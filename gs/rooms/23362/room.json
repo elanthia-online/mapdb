@@ -1,0 +1,43 @@
+{
+  "checksum": "c73f130f7659e67fa7b2905f25072c13",
+  "room": {
+    "id": 23362,
+    "title": [
+      "[Li'aerion, Entrance Hall]"
+    ],
+    "description": [
+      "An immense circular room is enclosed with polished grey stone walls that rise up three floors to a dome-shaped ceiling of cut crystal.  Sunlight pours through the ceiling and breaks into shards of bright white light that shift lazily about the room, highlighting the central staircase and second floor landing.  The walls on either side of the staircase are covered with large, intricate tapestries hung from delicate bars of gold.  A sweet melody, faint but insistent, floats through the space without pause."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23361": "out",
+      "23363": "west",
+      "23364": "east",
+      "23375": "go central staircase"
+    },
+    "timeto": {
+      "23361": 0.2,
+      "23363": 0.2,
+      "23364": 0.2,
+      "23375": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13018070
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      551,
+      220,
+      569,
+      237
+    ]
+  }
+}

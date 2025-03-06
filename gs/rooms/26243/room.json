@@ -1,0 +1,31 @@
+{
+  "checksum": "3c74ef809602c59a2e7a48faf80b5923",
+  "room": {
+    "id": 26243,
+    "title": [
+      "[Lich's Landing, Corpse Row]"
+    ],
+    "description": [
+      "The rows of bloated and maimed corpses have no end in sight, and the smell of decaying flesh and blood is overwhelming.  Flies swarm near the bodies, their buzzing providing a constant hum nearby."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25990": "south",
+      "26244": "north"
+    },
+    "timeto": {
+      "25990": 0.2,
+      "26244": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      282,
+      561,
+      309,
+      587
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "641f363b56b1048c8fa8cd25fbfe0a7e",
+  "room": {
+    "id": 3072,
+    "title": [
+      "[Icemule Trace, Snowfield]"
+    ],
+    "description": [
+      "Aside from the eastern wall of Icemule Trace a short distance to the west and the freshly dug path that leads through the halfling-high snow to the southwest, the only thing to break the monotony of the tedious blanket of white is the gentle slope that begins to rise to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3071": "go path",
+      "3073": "northeast"
+    },
+    "timeto": {
+      "3071": 0.2,
+      "3073": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      704135
+    ],
+    "image": "imt-homes-1264234799.png",
+    "image_coords": [
+      137,
+      1003,
+      157,
+      1023
+    ]
+  }
+}

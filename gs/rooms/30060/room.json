@@ -1,0 +1,45 @@
+{
+  "checksum": "ef2cd7786df5f1e5198098d66c39a420",
+  "room": {
+    "id": 30060,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "Stringy gunk clings to the walls in tangled, tumorous masses that exude a faint phosphorescence.  The light reveals priceless treasures of silver and gold lying in fused lumps on the uneven floor of the burrow, their pedestals broken and consumed by corrosion.  Droplets of the caustic stuff have eaten away at the floor in places, leaving holes ranging in size from pocks to potholes."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, south, southwest, west"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30048": "southeast",
+      "30061": "west",
+      "30062": "southwest",
+      "30064": "south",
+      "30069": "north"
+    },
+    "timeto": {
+      "30048": 0.2,
+      "30061": 0.2,
+      "30062": 0.2,
+      "30064": 0.2,
+      "30069": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503480
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      780,
+      187,
+      796,
+      202
+    ]
+  }
+}

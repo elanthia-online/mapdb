@@ -1,0 +1,40 @@
+{
+  "checksum": "bf66155ef630400f0fb21560e1d6cc70",
+  "room": {
+    "id": 11753,
+    "title": [
+      "[Marshtown, Glok's Pier]"
+    ],
+    "description": [
+      "This pier is crowded with merchants and sailors alike, all moving from ship to ship, and some from ship to shore.  Dozens of small sea craft anchor here, tied off by thick but worn ropes.  Taller mooring posts designed for ships and galleys are on the southern part of the pier.  A number of barrels litter the pier at various places, and a cast iron fish is fastened securely at its center."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5731": "north",
+      "11749": "/rooms/11753/wayto/stringproc-11749.rb"
+    },
+    "timeto": {
+      "5731": 350,
+      "11749": 300
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4744011
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      838,
+      801,
+      848,
+      811
+    ]
+  }
+}

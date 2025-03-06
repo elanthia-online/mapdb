@@ -1,0 +1,45 @@
+{
+  "checksum": "776eae2ed2a65c8845eb33e8f6e0ff43",
+  "room": {
+    "id": 25826,
+    "title": [
+      "[Black Sands Isle, Beach]"
+    ],
+    "description": [
+      "Large and small rocks jut out from the edge of the island into the swiftly moving surf, making it impossible to safely move out into the waters beyond.  Glistening in the moonlight, the fine black sand of the beach is cool to the touch."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "riparian",
+    "wayto": {
+      "25825": "south",
+      "25827": "southeast",
+      "33232": "/rooms/25826/wayto/stringproc-33232.rb"
+    },
+    "timeto": {
+      "25825": 0.2,
+      "25827": 0.2,
+      "33232": 3
+    },
+    "tags": [
+      "acantha leaf",
+      "stalk of cattail",
+      "murdroot",
+      "wavepetal blossom",
+      "talneo root",
+      "meta:forage-sensed",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3223904
+    ]
+  }
+}

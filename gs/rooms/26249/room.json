@@ -1,0 +1,31 @@
+{
+  "checksum": "dc49a3c6137b76cc4fc25fab1c9f4472",
+  "room": {
+    "id": 26249,
+    "title": [
+      "[Lich's Landing, Corpse Row]"
+    ],
+    "description": [
+      "The gruesome road bends slightly here, stretching more to an angle.  Despite the curve, the ghastly display of horrific bodies remains intact."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26248": "south",
+      "26250": "northeast"
+    },
+    "timeto": {
+      "26248": 0.2,
+      "26250": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      282,
+      338,
+      308,
+      364
+    ]
+  }
+}

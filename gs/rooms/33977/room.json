@@ -1,0 +1,30 @@
+{
+  "checksum": "0877c168f67b2bb1c8e45d79b9d7c93b",
+  "room": {
+    "id": 33977,
+    "title": [
+      "[Bonfire of the Gallivants]"
+    ],
+    "description": [
+      "This spacious glade has numerous benches set near stone circles with a prominent circle for a bonfire at the center.  Placed at strategic locations throughout are barrels of leaves, log-filled racks, and twig-stuffed crates.  Wild roses and blackberries grow along the clearing's outskirts, holding voracious vegetation at bay.  A shadowed vine-beset footpath disappears into the verdant darkness, while to the east, a manor is visible in the distance near what looks to be the remnants of a decepit ferris wheel."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "33976": "go vine-beset footpath",
+      "33978": "east"
+    },
+    "timeto": {
+      "33976": 0.2,
+      "33978": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8085033
+    ]
+  }
+}

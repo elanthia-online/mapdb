@@ -1,0 +1,43 @@
+{
+  "checksum": "9ea9f1d258b745173c47987fba61a97d",
+  "room": {
+    "id": 30863,
+    "title": [
+      "[Ruins, The Sinuous Stones]"
+    ],
+    "description": [
+      "Carved stone blocks twine sinuously back and forth in every direction, creating a low-lying labyrinth of sorts.  Along the bottom of an overhanging dais on the north side, rune-incised pillars dangle like stalactites above a collection of fresh fish impaled upon a spear.  The blue-green water of the lagoon below is marred by a spiral of red-tinged debris.",
+      "Raised, carved stone twists sinuously back and forth in every direction.  Pillars carved with runes are visible beneath a portion of the platforms, and a collection of mostly fresh fish impaled on a spear sits on the floor."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the Atoll",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30862": "west",
+      "30865": "northeast"
+    },
+    "timeto": {
+      "30862": 0.2,
+      "30865": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "tiny white elderflowers",
+      "meta:forage-sensed:day:2023-11",
+      "wild sage"
+    ],
+    "uid": [
+      7138207
+    ],
+    "image": "kf-atoll-1652294074.jpg",
+    "image_coords": [
+      770,
+      489,
+      799,
+      519
+    ]
+  }
+}

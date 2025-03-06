@@ -1,0 +1,42 @@
+{
+  "checksum": "0bd52f059dd2926ea7de02677dc99e08",
+  "room": {
+    "id": 25747,
+    "title": [
+      "[Bliss Island, Beach]"
+    ],
+    "description": [
+      "Lapping waters caress the peaceful beach, the surf creating a gentle rhythm like the heartbeat of the secluded island.  Scattered about are variegated seashells that have washed up onto shore over time.  Bathed in moonlight, a lone palm has been sent swaying in the tropical night, casting a dancing shadow against the pale sand.",
+      "Lapping waters caress the peaceful beach, the surf  creating a gentle rhythm like the heartbeat of the secluded island.  Scattered about are variegated seashells that have washed up onto shore over time.  Bathed in moonlight, a lone palm has been sent swaying in the tropical night, casting a dancing shadow against the pale sand."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "25746": "north",
+      "25748": "swim surf"
+    },
+    "timeto": {
+      "25746": 0.2,
+      "25748": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3223952
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2680,
+      940,
+      2719,
+      981
+    ]
+  }
+}

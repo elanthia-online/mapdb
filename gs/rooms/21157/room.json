@@ -1,0 +1,39 @@
+{
+  "checksum": "be88bce77188bcd801d053b9b3cf2a21",
+  "room": {
+    "id": 21157,
+    "title": [
+      "[Bathing Annex, Catwalk]"
+    ],
+    "description": [
+      "Alternating teak and cedar boards rise upon the western edge of the very narrow room, while large stained glass windows form the eastern wall.  Curved walls lead away to the north and south, while a rusted ladder rises out of a large hole in the floor and leads to the sewers below."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21156": "go ladder",
+      "21159": "northwest",
+      "21161": "southwest"
+    },
+    "timeto": {
+      "21156": 0.2,
+      "21159": 0.2,
+      "21161": 0.2
+    },
+    "tags": [
+      "rogue guild window"
+    ],
+    "uid": [
+      265046
+    ],
+    "image": "ifw-rogue_guild.png",
+    "image_coords": [
+      404,
+      471,
+      418,
+      486
+    ]
+  }
+}

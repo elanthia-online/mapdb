@@ -1,0 +1,40 @@
+{
+  "checksum": "7c5fa471194ca25ce2ee80daa5c891af",
+  "room": {
+    "id": 9165,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "An impossible stack of tomes and books piled floor to ceiling leads to a small opening overhead.  Most of the titles are far too worn to be readable, but the few that still peek through the dust of time all bear some reference to wizardry.  It doesn't look as if the mound of ancient leather-bound volumes would hold much weight, yet they are covered by tiny footprints."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9164": "east",
+      "9166": "north",
+      "9192": "climb books"
+    },
+    "timeto": {
+      "9164": 0.2,
+      "9166": 0.2,
+      "9192": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531010
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      687,
+      1020,
+      697,
+      1030
+    ]
+  }
+}

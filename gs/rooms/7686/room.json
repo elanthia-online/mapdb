@@ -1,0 +1,41 @@
+{
+  "checksum": "23d0ad771c74ae232bd8b7bb94e80e41",
+  "room": {
+    "id": 7686,
+    "title": [
+      "[Underground Ruin, Kitchen]"
+    ],
+    "description": [
+      "This room is cluttered with various food preparation tables that seem to have never been used.  Large bins used for washing food stand empty and rusting.  Pots and cauldrons are covered in dust."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7685": "southwest",
+      "7687": "northeast",
+      "7688": "southeast"
+    },
+    "timeto": {
+      "7685": 0.2,
+      "7687": 0.2,
+      "7688": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68011
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      497,
+      1123,
+      507,
+      1133
+    ]
+  }
+}

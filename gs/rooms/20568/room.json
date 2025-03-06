@@ -1,0 +1,26 @@
+{
+  "checksum": "9a1d4d2b8b0572cc7f16d28df0c45f39",
+  "room": {
+    "id": 20568,
+    "title": [
+      "[Stone Keep, Courtyard]"
+    ],
+    "description": [
+      "Stone rubble from the wall above lays in scattered chunks around the courtyard, the rocks layered with a solid coat of ice.  A frayed rope leads back up to the keep's perimeter."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20543": "climb rope",
+      "20569": "northwest",
+      "20570": "northeast"
+    },
+    "timeto": {
+      "20543": 0.2,
+      "20569": 0.2,
+      "20570": 0.2
+    }
+  }
+}

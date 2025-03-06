@@ -1,0 +1,24 @@
+{
+  "checksum": "2bb5651d581a042823f08e051482f8e8",
+  "room": {
+    "id": 29284,
+    "title": [
+      "[Warped Wavedancer, Promenade]"
+    ],
+    "description": [
+      "A waterlogged carpet continues through the hallway, darkened by barnacles and mold.  Water drips from the ceiling, the continuous *plip plop* echoing through the warped hallway filled with guestroom doors riddled with curls of peeling paint."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29283": "south",
+      "29285": "north"
+    },
+    "timeto": {
+      "29283": 0.2,
+      "29285": 0.2
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "82cb5aa0a5a98ede0a6ca80aef93eed2",
+  "room": {
+    "id": 32831,
+    "title": [
+      "[Hall of Clans, Council Room]"
+    ],
+    "description": [
+      "This large circular room is filled with a stone conference table carved from the granite of the floor.  Heavy iron sconces are mounted to the marble walls, casting a soft gold light across a map of Elanthia that has been intricately carved into the table's surface.  Twenty-four padded chairs surround the engraved slab, behind which are some recessed shelves displaying expertly carved likenesses of famous dwarves past.  A pointed arch opening to the south leads back to the hall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32828": "go arch opening",
+      "32832": "/rooms/32831/wayto/stringproc-32832.rb"
+    },
+    "timeto": {
+      "32828": 0.2,
+      "32832": 3.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4490010
+    ]
+  }
+}

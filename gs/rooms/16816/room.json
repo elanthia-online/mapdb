@@ -1,0 +1,44 @@
+{
+  "checksum": "a4c5214ad3f14b9c163e56e3e3997c4e",
+  "room": {
+    "id": 16816,
+    "title": [
+      "[Castle Dungeons]"
+    ],
+    "description": [
+      "The soft light of glowing lichen on the walls reveal numerous bits of rusted chain on the ground.  To the north, a reinforced cell door lies open giving access to the room within.",
+      "The soft light of glowing lichen on the walls reveals numerous bits of rusted chain on the ground.  To the north, a reinforced cell door lies open giving access to the room within."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Castle Varunar",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16815": "east",
+      "16817": "west",
+      "16822": "north"
+    },
+    "timeto": {
+      "16815": 0.2,
+      "16817": 0.2,
+      "16822": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750066
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      520,
+      351,
+      530,
+      361
+    ]
+  }
+}

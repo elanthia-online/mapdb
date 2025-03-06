@@ -1,0 +1,37 @@
+{
+  "checksum": "d3fe711cb6a48f566c5df3bec04a4df6",
+  "room": {
+    "id": 9296,
+    "title": [
+      "[Temple of Industry, Courtyard]"
+    ],
+    "description": [
+      "Lazing beneath the shadow of the a smoky steel-trimmed temple, a dry landscape of boulders borders the ovular granite courtyard.  The granite stones, laden with ruddy iron veins, form a small trail that slopes down to the west.  Sunlight gleams off of the temple's metal surfaces, lending grace to the hard-edged edifice.",
+      "Slumbering below the dark silhouette of a smoky steel-trimmed temple, a dry landscape of boulders borders the ovular granite courtyard.  The granite stones, laden with ruddy iron veins, form a small trail that slopes down to the west.  Moonlight pools in the crevices of the temple's metallic construction, softening the edifice's hard edges."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1469": "go archway",
+      "13031": "west",
+      "13170": "go temple"
+    },
+    "timeto": {
+      "1469": 0.2,
+      "13031": 0.2,
+      "13170": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749401
+    ]
+  }
+}

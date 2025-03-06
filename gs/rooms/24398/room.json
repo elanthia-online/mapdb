@@ -1,0 +1,41 @@
+{
+  "checksum": "b8fdd9422f3da3a757b8b652dcb28cd8",
+  "room": {
+    "id": 24398,
+    "title": [
+      "[Ranger Guild, Treehouse]"
+    ],
+    "description": [
+      "The sturdy platform is constructed between the branches of the great oak, bounded by heavy moss-covered railings and covered by a network of carved beams that blend with the tree's branches above to protect from the elements.  A narrow rope bridge, almost invisible in the network of hanging vines that wind around it, leads west into the branches of another tree."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24397": "go ladder",
+      "24399": "go bridge",
+      "24409": "south"
+    },
+    "timeto": {
+      "24397": 0.2,
+      "24399": 0.2,
+      "24409": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      271007
+    ],
+    "image": "wl-rangerguild-v1.png",
+    "image_coords": [
+      90,
+      78,
+      109,
+      96
+    ]
+  }
+}

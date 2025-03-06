@@ -1,0 +1,41 @@
+{
+  "checksum": "a85169b14c891b2d1d6404ce7f33fa7b",
+  "room": {
+    "id": 5130,
+    "title": [
+      "[Vornavian Coast, Caverns]"
+    ],
+    "description": [
+      "The caverns to the east appear to have been created naturally by rushing water, but to the north, the cavern is obviously dug with tools.  Decorative patterns are etched into the walls, and etchings depicting battle scenes are mixed in with unfamiliar symbols."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5129": "east",
+      "5132": "north"
+    },
+    "timeto": {
+      "5129": 0.2,
+      "5132": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "murdroot",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202163
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      212,
+      896,
+      222,
+      906
+    ]
+  }
+}

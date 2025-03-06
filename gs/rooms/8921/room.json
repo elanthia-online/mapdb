@@ -1,0 +1,34 @@
+{
+  "checksum": "047c67f61c537fcf016eb64d944bf66e",
+  "room": {
+    "id": 8921,
+    "title": [
+      "[Wizard Guild, Hallway]"
+    ],
+    "description": [
+      "A blue glow illuminates the wide hallway to the northwest.  Torches along the walls burn steady and bright despite a noticeable cool breeze."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8920": "east",
+      "8922": "northwest"
+    },
+    "timeto": {
+      "8920": 0.2,
+      "8922": 0.2
+    },
+    "uid": [
+      680010
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      107,
+      697,
+      158,
+      745
+    ]
+  }
+}

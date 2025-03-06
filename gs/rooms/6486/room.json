@@ -1,0 +1,42 @@
+{
+  "checksum": "87ae85cb37e1c23a7c1f00a600c9551a",
+  "room": {
+    "id": 6486,
+    "title": [
+      "[Huge Cavern]"
+    ],
+    "description": [
+      "A large stone structure rises up out of the sandy cavern floor.  It appears as if the face of this building has been carved from the very rock of the cavern, since you can see neither joint nor seam where the structure meets the cavern wall.  Six massive stone columns support a narrow roof which juts out over the few steps in front of a huge set of stone doors."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6485": "east",
+      "6487": "/rooms/6486/wayto/stringproc-6487.rb"
+    },
+    "timeto": {
+      "6485": 0.2,
+      "6487": "/rooms/6486/timeto/stringproc-6487.rb"
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      95155
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      394,
+      1005,
+      404,
+      1015
+    ]
+  }
+}

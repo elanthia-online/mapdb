@@ -1,0 +1,34 @@
+{
+  "checksum": "548af6954c348bf5e16ef84305f3d0ec",
+  "room": {
+    "id": 30289,
+    "title": [
+      "[Cysaegir, Words on the Wind]"
+    ],
+    "description": [
+      "Several hanging baskets of wildflowers fill the room with rich floral scents.  A large ebony counter dominates the center, its surface covered with piles of journals and parchment.  The back wall is lined with rows of small cubby holes stuffed with various envelopes and papers.  Wooden crates are stacked beneath the mail slots, each filled with a variety of packages and parcels."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "17132": "go ebonwood door",
+      "30717": "/rooms/30289/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "17132": 0.2,
+      "30717": "/rooms/30289/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin guide postoffice",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      14053006
+    ]
+  }
+}

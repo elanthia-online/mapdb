@@ -1,0 +1,34 @@
+{
+  "checksum": "7dd994f4213946fd37beeab14a3dd26c",
+  "room": {
+    "id": 10397,
+    "title": [
+      "[Saphrie's Herbs and Tinctures]",
+      "[Ta'Vaalor, Triage Station]"
+    ],
+    "description": [
+      "Sturdy wooden cots line the walls of this narrow room, each covered with pristine white linens.  High shelves loaded with herbs and bandages are mounted on the whitewashed walls above the cots.  A gentle breeze, redolent with the fragrance of acantha and blaeston, stirs the gauzy curtains framing the open windows.",
+      "Elven nurses bustle quietly about the room, tending to the ill and injured that lie on the sturdy wooden cots that line the walls of this narrow room.  The faintly herbal scents of acantha and blaeston linger in the air, and high shelves loaded with herbs and bandages are mounted on the whitewashed walls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10396": "out",
+      "30713": "/rooms/10397/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "10396": 0.2,
+      "30713": "/rooms/10397/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "npchealer",
+      "urchin guide healer",
+      "urchin-access"
+    ],
+    "uid": [
+      14103401
+    ]
+  }
+}

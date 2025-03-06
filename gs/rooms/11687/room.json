@@ -1,0 +1,53 @@
+{
+  "checksum": "9cff9d6e3eeff25cd171ede302e659b2",
+  "room": {
+    "id": 11687,
+    "title": [
+      "[Millah's Fen, Cold Stream]"
+    ],
+    "description": [
+      "The cobbled ruins of a road emerge from the cold stream and lead up to a nearby stream bank, the only opening in the two walls of massive reeds that constrain the stream to its pathway.  The water is clear but deep, allowing for the passage of dark, unknowns slipping through the water from shadow to shadow."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "11686": "go bank",
+      "11688": "/rooms/11687/wayto/stringproc-11688.rb"
+    },
+    "timeto": {
+      "11686": 0.2,
+      "11688": 0.2
+    },
+    "tags": [
+      "blue water lily",
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "white water lily",
+      "yellow water lily",
+      "pink water lily",
+      "murdroot",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      376011
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      278,
+      1063,
+      288,
+      1073
+    ]
+  }
+}

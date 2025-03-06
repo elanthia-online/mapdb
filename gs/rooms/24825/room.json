@@ -1,0 +1,29 @@
+{
+  "checksum": "23d624539e95e95a2152018d9b3e9e23",
+  "room": {
+    "id": 24825,
+    "title": [
+      "[Edaarin's Magic Shoppe]"
+    ],
+    "description": [
+      "A rainbow colored flag hangs on one of the glossy mistwood walls, and a vaulted ceiling rises overhead.  A pile of striped throw pillows sits in one corner of a dappled celadon marble floor.  There is a jewel-inlaid caddy on one side of the shop and an oval-shaped speckled marble counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "360": "out",
+      "24981": "west",
+      "24982": "east"
+    },
+    "timeto": {
+      "360": 0.2,
+      "24981": 0.2,
+      "24982": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

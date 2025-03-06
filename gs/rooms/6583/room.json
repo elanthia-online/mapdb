@@ -1,0 +1,42 @@
+{
+  "checksum": "000a958aa00fa8dab03f0bc61a4469c0",
+  "room": {
+    "id": 6583,
+    "title": [
+      "[Anwyn Castle Yard]"
+    ],
+    "description": [
+      "The castle yard comes to a stop before a tall, stone wall inset with a highly carved doorcase.  An old iron gate hangs in it, rusty and weathered over the countless years.  One side of the gate stands resolutely closed, but its mate swings in the wind, shrieking like a tortured soul.  The dark entrance to a building crouches in the shadow of the curtain wall to the west."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Castle Anwyn",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6582": "go doorcase",
+      "6584": "west",
+      "6589": "south"
+    },
+    "timeto": {
+      "6582": 0.2,
+      "6584": 0.2,
+      "6589": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285028
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      867,
+      516,
+      877,
+      526
+    ]
+  }
+}

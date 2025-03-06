@@ -1,0 +1,28 @@
+{
+  "checksum": "3f5b862c8bc809a16cdd61f74b0cf211",
+  "room": {
+    "id": 17532,
+    "title": [
+      "[Fengers' Outfitting]"
+    ],
+    "description": [
+      "A tattered pirate flag hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A worn rug sits in one corner of an unfinished wooden floor.  There is an oversized sea chest on one side of the shop and a long mistwood counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, south, out"
+    ],
+    "wayto": {
+      "12268": "out",
+      "17567": "south",
+      "17568": "east"
+    },
+    "timeto": {
+      "12268": 0.2,
+      "17567": 0.2,
+      "17568": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

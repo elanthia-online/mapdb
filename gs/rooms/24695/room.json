@@ -1,0 +1,83 @@
+{
+  "checksum": "01a76ff23f49001e8c895b9aa826ea14",
+  "room": {
+    "id": 24695,
+    "title": [
+      "[Red Forest, Ring of Mist]"
+    ],
+    "description": [
+      "The air here is heavy and choked with tenuous pockets of mist.  A slow, but cold wind stirs in the area, seemingly stuck in a contorted maelstrom, locking the wraithlike fog into an endless circular pattern."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Red Forest",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "24694": "southwest",
+      "24696": "/rooms/24695/wayto/stringproc-24696.rb",
+      "24697": "northwest"
+    },
+    "timeto": {
+      "24694": 0.2,
+      "24696": 0.2,
+      "24697": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "bright red teaberry",
+      "wild chokecherry",
+      "small wild rose",
+      "luckbloom blossom",
+      "stalk of bluebells",
+      "fiddlehead fern",
+      "wild pink geranium",
+      "wild gooseberry",
+      "sassafras leaf",
+      "wintergreen leaf",
+      "sprig of wild lilac",
+      "murdroot",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "blue whortleberry",
+      "massive black boar",
+      "winged viper",
+      "white hook mushroom",
+      "sweetfern stalk",
+      "tkaro root",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "blueberries",
+      "broken twig",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "oak twig",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "dwarf billberry",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      480215
+    ],
+    "image": "red_forest-1260914757.png",
+    "image_coords": [
+      402,
+      175,
+      414,
+      188
+    ]
+  }
+}

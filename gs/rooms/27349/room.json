@@ -1,0 +1,35 @@
+{
+  "checksum": "333481df80bf4b0e6de1c3fbc7d93498",
+  "room": {
+    "id": 27349,
+    "title": [
+      "[Collectibles Shop]"
+    ],
+    "description": [
+      "This carefully cut warehouse is shaped into a near perfect square.  Pedestals of living rock have been sculpted at exact intervals throughout the entire area.  Each one is carefully adorned with the finest of collectible treasures that one can find.  Several attendants wait nearby, ready to serve the needs of any potential customers."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1010": "go out",
+      "30712": "/rooms/27349/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "1010": 0.2,
+      "30712": "/rooms/27349/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "collectibles",
+      "urchin-access",
+      "urchin guide collectibles",
+      "no forageables"
+    ],
+    "uid": [
+      13010050
+    ]
+  }
+}

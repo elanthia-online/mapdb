@@ -1,0 +1,34 @@
+{
+  "checksum": "b8c846fee014891cae1033333f4796d1",
+  "room": {
+    "id": 14627,
+    "title": [
+      "[Wayside Inn, Garret]"
+    ],
+    "description": [
+      "Quiet laughter and subdued conversation punctuate the otherwise peaceful atmosphere of this little room tucked beneath the garret of the inn.  The smoke-blackened wooden beams meet at an angle, cradling a brass fixture with candles that bathe the room in a soothing glow."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "223": "go grate under ashes",
+      "3619": "go steep stair",
+      "30708": "/rooms/14627/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "223": 15,
+      "3619": 0.2,
+      "30708": "/rooms/14627/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access"
+    ],
+    "uid": [
+      3005
+    ]
+  }
+}

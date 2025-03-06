@@ -1,0 +1,64 @@
+{
+  "checksum": "2260e2fc92cccec15b1d325d37a0eeeb",
+  "room": {
+    "id": 32928,
+    "title": [
+      "[Comyner's Docks, Pier 5]"
+    ],
+    "description": [
+      "Rounded instead of squared, the end of the dock has five slips that allow ships to dock in a circle around its refurbished decking.  A crisp, freshly painted number five in navy blue dominates the central planks, which show recent signs of scrubbing.  Bronze and brass-hitching cleats stand at the ready to serve those that seek portage."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "250": "/rooms/32928/wayto/stringproc-250.rb",
+      "1870": "/rooms/32928/wayto/stringproc-1870.rb",
+      "10838": "/rooms/32928/wayto/stringproc-10838.rb",
+      "11756": "/rooms/32928/wayto/stringproc-11756.rb",
+      "29033": "/rooms/32928/wayto/stringproc-29033.rb",
+      "31493": "/rooms/32928/wayto/stringproc-31493.rb",
+      "32372": "/rooms/32928/wayto/stringproc-32372.rb",
+      "32927": "west",
+      "34400": "/rooms/32928/wayto/stringproc-34400.rb"
+    },
+    "timeto": {
+      "250": "/rooms/32928/timeto/stringproc-250.rb",
+      "1870": "/rooms/32928/timeto/stringproc-1870.rb",
+      "10838": "/rooms/32928/timeto/stringproc-10838.rb",
+      "11756": "/rooms/32928/timeto/stringproc-11756.rb",
+      "29033": "/rooms/32928/timeto/stringproc-29033.rb",
+      "31493": "/rooms/32928/timeto/stringproc-31493.rb",
+      "32372": "/rooms/32928/timeto/stringproc-32372.rb",
+      "32927": 0.2,
+      "34400": "/rooms/32928/timeto/stringproc-34400.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "portmaster",
+      "silver-cost:250:25000",
+      "silver-cost:11756:12500",
+      "silver-cost:10838:12500",
+      "silver-cost:1870:25000",
+      "silver-cost:29033:25000",
+      "silver-cost:31493:35000",
+      "silver-cost:32372:25000",
+      "no forageables",
+      "urchin guide docks",
+      "urchin-access"
+    ],
+    "uid": [
+      7140125
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      542,
+      760,
+      555,
+      772
+    ]
+  }
+}

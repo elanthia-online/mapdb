@@ -1,0 +1,39 @@
+{
+  "checksum": "350d5fa40084319118abaf3abc3f2bc7",
+  "room": {
+    "id": 25742,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Soft hoots and strange bleats echo across the rollicking water from the southern island, though no visible sign of their origins can be seen.  Trees dot the shores and dip towards the crystal blue waters as if pausing for a drink."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25731": "/rooms/25742/wayto/stringproc-25731.rb",
+      "25743": "/rooms/25742/wayto/stringproc-25743.rb"
+    },
+    "timeto": {
+      "25731": 6,
+      "25743": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223870
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2080,
+      1760,
+      2101,
+      1780
+    ]
+  }
+}

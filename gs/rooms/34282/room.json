@@ -1,0 +1,44 @@
+{
+  "checksum": "d315ffc53b810363d281763f126d0812",
+  "room": {
+    "id": 34282,
+    "title": [
+      "[Dragonspine, Frozen Cave]"
+    ],
+    "description": [
+      "Deceivingly larger than expected, this cave is comprised of a sturdy rock ledge with ample room for a few adventurers, a small campfire, and a vast, open space that plummets to the depths below.  Obstructive ice stalactites hang from above and occasionally unite with a twin stalagmite to form an impressive ice column.  Plumes of steam rise from the platform edge and disperse along the ceiling to refreeze and replenish the ceaseless ice formations."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Stormpeak",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "34281": "go exit",
+      "34283": "/rooms/34282/wayto/stringproc-34283.rb"
+    },
+    "timeto": {
+      "34281": 0.2,
+      "34283": 5.2
+    },
+    "tags": [
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150004
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      382,
+      623,
+      402,
+      643
+    ]
+  }
+}

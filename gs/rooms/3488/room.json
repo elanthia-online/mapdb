@@ -1,0 +1,44 @@
+{
+  "checksum": "ad814f5ae57ea61275073d37569d94d9",
+  "room": {
+    "id": 3488,
+    "title": [
+      "[Ta'Vaalor, Amaranth Court]"
+    ],
+    "description": [
+      "Towering high above, the stone facade of the city's bank presents a windowless face to the cobbled wey.  Twin ironwork doors are flanked by city guardsmen who impassively watch every patron that comes and goes from within the building's darkened interior.  A large mithril plaque is mounted to the stone walls beside the front doors.",
+      "Towering high above, the stone facade of the city's bank presents a windowless face to the cobbled wey.  Twin ironwork doors are flanked by city guardsmen who impassively watch every patron that comes and goes from within the building's darkened interior.  A large mithril plaque, illuminated by the golden amber flames of nearby torches, is mounted to the stone walls beside the front doors."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3486": "west",
+      "3489": "southeast",
+      "10324": "go bank"
+    },
+    "timeto": {
+      "3486": 0.2,
+      "3489": 0.2,
+      "10324": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100014
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1001,
+      178,
+      1035,
+      215
+    ]
+  }
+}

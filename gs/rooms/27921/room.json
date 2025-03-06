@@ -1,0 +1,34 @@
+{
+  "checksum": "b7118b5816afb8d60c289b540db42381",
+  "room": {
+    "id": 27921,
+    "title": [
+      "[Vermilion Barracks, Corridor]"
+    ],
+    "description": [
+      "The corridor is barren of furnishings and wide enough for four soldiers to line up in formation.  Broad archways open to the east and west, and to the north, the corridor opens onto the dormitory.  A pair of golden wyverns is inlaid in the stone walls, flanking each archway, and a reinforced oak door to the south leads back to the courtyard."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27920": "east",
+      "27922": "west",
+      "27923": "north",
+      "27924": "go door"
+    },
+    "timeto": {
+      "27920": 0.2,
+      "27922": 0.2,
+      "27923": 0.2,
+      "27924": 0.2
+    },
+    "tags": [
+      "meta:Crimson Legion"
+    ],
+    "uid": [
+      14115276
+    ]
+  }
+}

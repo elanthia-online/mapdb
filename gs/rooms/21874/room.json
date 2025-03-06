@@ -1,0 +1,39 @@
+{
+  "checksum": "a423f950fbddb0d41091c7ae5e82efe5",
+  "room": {
+    "id": 21874,
+    "title": [
+      "[Talador, East Circle]"
+    ],
+    "description": [
+      "The fresh scent of baked bread and honey waft through the area, drawing more than a few passerby's to stop and visit a small white stone shop.  A row of pigeons are perched on the rooftop of the shop, gently cooing and cleaning their wings."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21872": "northwest",
+      "21875": "go shop",
+      "21876": "go pale wagon",
+      "21877": "go wooden wagon",
+      "21878": "go tent",
+      "21884": "east"
+    },
+    "timeto": {
+      "21872": 0.2,
+      "21875": 0.2,
+      "21876": 0.2,
+      "21877": 0.2,
+      "21878": 0.2,
+      "21884": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      310,
+      270,
+      336,
+      297
+    ]
+  }
+}

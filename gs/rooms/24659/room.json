@@ -1,0 +1,29 @@
+{
+  "checksum": "8016b6f60954ab507f1485f0fd2611ab",
+  "room": {
+    "id": 24659,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "The ceiling of smooth rock, worn down from the constant moisture that seeps through the earth above it, drips with large droplets of water plinking down in an infrequent rain upon the dusty, packed earthern passage.  Small piles of dirt have created pockets of mud, some broken up by sliding footprints, making the pathway extremely uneven."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24643": "west",
+      "24658": "south",
+      "24660": "north",
+      "24663": "east"
+    },
+    "timeto": {
+      "24643": 0.2,
+      "24658": 0.2,
+      "24660": 0.2,
+      "24663": 0.2
+    },
+    "check_location": true
+  }
+}

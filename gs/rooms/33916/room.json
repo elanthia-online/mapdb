@@ -1,0 +1,53 @@
+{
+  "checksum": "4854ca8f49e3ceb82360a529fe6a6719",
+  "room": {
+    "id": 33916,
+    "title": [
+      "[Stonetomb, Sanctuary]"
+    ],
+    "description": [
+      "Large, rectangular stone blocks shore up this round room covered by a crystal-inlaid dome.  Reaching to the sky, the statue of a winged humanoid woman stands at its center.  Between clusters of glowing, potted toadstools, a wide invar gate cordons off a stone yard opposite an arched ironwood door in the southern wall.  Beyond the statue to the west, a wide plaque-lined hallway leads deeper into the tomb, while to the east, a simple portal leads back out to Zul Logoth."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "33914": "go portal",
+      "33921": "go hallway",
+      "33922": "go door",
+      "33923": "go gate"
+    },
+    "timeto": {
+      "33914": 0.2,
+      "33921": 0.2,
+      "33922": 0.2,
+      "33923": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13010208
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      173,
+      156,
+      205,
+      187
+    ]
+  }
+}

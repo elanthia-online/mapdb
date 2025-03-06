@@ -1,0 +1,40 @@
+{
+  "checksum": "a252cf4519ec231547b172daca8181a3",
+  "room": {
+    "id": 18212,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "You are standing under a covered walkway that extends in a wide circle surrounding a vast garden.  Small trees, plants and flowers artfully adorn the area which is landscaped around several fountained terraces.  Nearly taking your breath away, this part of the walkway is adorned with a brightly tiled mosaic of Tonis."
+    ],
+    "paths": [
+      "Obvious exits: northwest, out"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "3684": "out",
+      "18211": "northwest"
+    },
+    "timeto": {
+      "3684": 0.2,
+      "18211": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312001
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      205,
+      409,
+      218,
+      421
+    ]
+  }
+}

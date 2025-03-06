@@ -1,0 +1,30 @@
+{
+  "checksum": "33ffbc10ac2dc366a3cf0ec5bbf7798a",
+  "room": {
+    "id": 33130,
+    "title": [
+      "[Willow Hall Annex]"
+    ],
+    "description": [
+      "Two huge toadstools in large stone pots illuminate a large, comfortable room.  Dusky brown granite benches line two of the marble walls, facing each other across the sapphire carpet.  On one wall, a brass arch allows exit to the corridor outside, while on the other wall a curtain provides entrance to the locker area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "28676": "go brass arch",
+      "33131": "go curtain"
+    },
+    "timeto": {
+      "28676": 0.2,
+      "33131": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Willow Hall"
+    ],
+    "uid": [
+      13010154
+    ]
+  }
+}

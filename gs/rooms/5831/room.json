@@ -1,0 +1,43 @@
+{
+  "checksum": "18f7b663ec86c8b9c3d9e297f1588d4a",
+  "room": {
+    "id": 5831,
+    "title": [
+      "[Timmorain Road]"
+    ],
+    "description": [
+      "Massive oaks, maples and sycamores line the cobblestone road, and their branches cross overhead.  The sunlight filters through the leafy canopy to dapple the road with intermittent bright and dark patches.  A brisk wind rustles the trees' upper leaves, but nearer the road the foliage softens the gusts, turning them into a warm, gentle breeze.",
+      "Massive oaks, maples and sycamores line the cobblestone road, and their branches cross overhead.  The moonlight filters through the leafy canopy to dapple the road with intermittent bright and dark patches.  A brisk wind rustles the trees' upper leaves, but nearer the road the foliage softens the gusts, turning them into a cool, gentle breeze."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Timmorain Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5830": "southwest",
+      "5832": "northeast",
+      "10659": "climb gully"
+    },
+    "timeto": {
+      "5830": 0.2,
+      "5832": 0.2,
+      "10659": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14003002
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      417,
+      973,
+      429,
+      983
+    ]
+  }
+}

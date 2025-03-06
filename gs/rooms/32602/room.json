@@ -1,0 +1,50 @@
+{
+  "checksum": "c7be9e185ebed63b58a5a93a0427fd94",
+  "room": {
+    "id": 32602,
+    "title": [
+      "[Landing Bazaar, Boulevard]"
+    ],
+    "description": [
+      "A broad circle of russet cobblestones creates a wide courtyard, the space decorated with clusters of iron-wrought benches and tall leafy green trees.  Numerous roads lead off in every direction, each one eventually reconnecting to encircle the graveled expanse.  The brazen voices of hawkers reverberate from all corners, carried in from merchant booths and shops in the distance."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32601": "south",
+      "32603": "northwest",
+      "32604": "west",
+      "32605": "southwest",
+      "32606": "northeast",
+      "32607": "east",
+      "32608": "southeast"
+    },
+    "timeto": {
+      "32601": 0.2,
+      "32603": 0.2,
+      "32604": 0.2,
+      "32605": 0.2,
+      "32606": 0.2,
+      "32607": 0.2,
+      "32608": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      336412
+    ],
+    "image": "wl-bazaar-1671674653.png",
+    "image_coords": [
+      393,
+      284,
+      443,
+      333
+    ]
+  }
+}

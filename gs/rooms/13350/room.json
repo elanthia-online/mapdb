@@ -1,0 +1,47 @@
+{
+  "checksum": "8f07f82780f82746bc8e822ae29045a4",
+  "room": {
+    "id": 13350,
+    "title": [
+      "[Arboretum]"
+    ],
+    "description": [
+      "A well dressed but well armed guard stands before a pair of elegant wooden doors, one trimmed in gold and the other colorfully painted.  He bears a friendly expression on his face, but his eyes remain vigilant and alert.  A gleaming silver sign hangs between the doors.",
+      "A well dressed but well armed guard stands before a pair of elegant wooden doors, one trimmed in gold and the other colorfully painted.  She appears to be relatively amiable, but her eyes remain vigilant and alert.  A gleaming silver sign hangs between the doors."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "709": "out",
+      "17837": "go gold door",
+      "30934": "go wooden door"
+    },
+    "timeto": {
+      "709": 0.2,
+      "17837": "/rooms/13350/timeto/stringproc-17837.rb",
+      "30934": 250
+    },
+    "tags": [
+      "rogue guild",
+      "silver-cost:30934:250",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      266001
+    ],
+    "image": "en-Illistim_rogue_guild-1267238976.jpg",
+    "image_coords": [
+      349,
+      382,
+      387,
+      420
+    ]
+  }
+}

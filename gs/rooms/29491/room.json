@@ -1,0 +1,39 @@
+{
+  "checksum": "9d636d3de3baf6edb0aaa727e156c63b",
+  "room": {
+    "id": 29491,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "A huge pocket of malachite has been exposed all along the southern wall with the passage curving around it from southeast to southwest.  Navigating the area is difficult with the lack of adequate light.   The air reeks of an unidentifiable, sickly sweet scent."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29474": "southwest",
+      "29492": "southeast"
+    },
+    "timeto": {
+      "29474": 0.2,
+      "29492": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007221
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      682,
+      139,
+      706,
+      161
+    ]
+  }
+}

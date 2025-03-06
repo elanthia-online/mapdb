@@ -1,0 +1,78 @@
+{
+  "checksum": "cd382a514a89ed7988e908b00c88f9ea",
+  "room": {
+    "id": 5593,
+    "title": [
+      "[Vornavis Caravansary, The Row]"
+    ],
+    "description": [
+      "A drab canvas-roofed shack is tucked between the larger building to the east and a wagon to the west.  A faded, wooden drop of blood the size of a bushel basket hangs above the door.  To the north a footpath threads its way between a couple of caravaners' tents."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "5580": "east",
+      "5589": "west",
+      "5594": "go footpath",
+      "5595": "go shack"
+    },
+    "timeto": {
+      "5580": 0.2,
+      "5589": 0.2,
+      "5594": 0.2,
+      "5595": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "sweet potato",
+      "agave heart",
+      "brown-skinned kiwi",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2120052
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      549,
+      1039,
+      585,
+      1075
+    ]
+  }
+}

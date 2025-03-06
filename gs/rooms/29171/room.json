@@ -1,0 +1,43 @@
+{
+  "checksum": "df1f9352ce164100664ea3a976b9bf09",
+  "room": {
+    "id": 29171,
+    "title": [
+      "[The F'Eyrie, Crater Rim]"
+    ],
+    "description": [
+      "Running west-to-east along the crater rim, this trail is rocky yet flat enough to make easy progress.  Gasses billow up from the distant crater, and a dwarven settlement can be seen to the south amidst the mist-covered jungle at the base of the volcanic slope."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "29170": "east",
+      "29172": "west"
+    },
+    "timeto": {
+      "29170": 0.2,
+      "29172": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023115
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      322,
+      307,
+      351,
+      335
+    ]
+  }
+}

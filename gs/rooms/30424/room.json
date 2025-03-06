@@ -1,0 +1,42 @@
+{
+  "checksum": "5499beca08569c976291d229b7c3b597",
+  "room": {
+    "id": 30424,
+    "title": [
+      "[Looter's Lair, Approach]"
+    ],
+    "description": [
+      "Large rocks and irregular-shaped reefs create a strange pathway that leads from the open water of the Western Waterway towards the eastern cliffs of the mainland.  Dim light flickers from within a jagged split in a sheer wall to the southeast, its yellow-orange light revealing the yawning mouth of a cave.  Waves crash upon every piece of land that rises from the watery depths and creates a fine, misting spray that dampens the air."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30422": "pedal northwest",
+      "30425": "pedal southeast"
+    },
+    "timeto": {
+      "30422": 6,
+      "30425": 6
+    },
+    "tags": [
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3217401
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      836,
+      2519,
+      858,
+      2535
+    ]
+  }
+}

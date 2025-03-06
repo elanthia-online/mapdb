@@ -1,0 +1,30 @@
+{
+  "checksum": "bfbe9657347a69d661e162c4bf2134e1",
+  "room": {
+    "id": 33350,
+    "title": [
+      "[Marshtown, Abandoned Courtyard]"
+    ],
+    "description": [
+      "This abandoned courtyard appears to be used predominately for storage.  Stacks of crates and the ubiquitous Marshtown barrel are piled high in the open space.  Barely visible within the maze of wooden containers is a bricked-over white marble archway at the back of the courtyard."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Safe Harbor, inside the seaside town of Solhaven",
+    "wayto": {
+      "5728": "out",
+      "33351": "/rooms/33350/wayto/stringproc-33351.rb"
+    },
+    "timeto": {
+      "5728": 0.2,
+      "33351": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730326
+    ]
+  }
+}

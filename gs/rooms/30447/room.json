@@ -1,0 +1,45 @@
+{
+  "checksum": "cbfe28be6080a8d6e57af559222ad94f",
+  "room": {
+    "id": 30447,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Huge limestone cliffs rise abruptly at the shore.  No beach exists, only hard, unyielding rock.  The waves crash against the bluffs in a futile attempt to knock them down."
+    ],
+    "paths": [
+      "Obvious paths: north, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30432": "pedal southwest",
+      "30433": "pedal west",
+      "30434": "pedal northwest",
+      "30445": "pedal south",
+      "30450": "pedal north"
+    },
+    "timeto": {
+      "30432": 6,
+      "30433": 6,
+      "30434": 6,
+      "30445": 6,
+      "30450": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216143
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      625,
+      1620,
+      639,
+      1636
+    ]
+  }
+}

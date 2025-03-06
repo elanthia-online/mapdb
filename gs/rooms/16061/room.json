@@ -1,0 +1,93 @@
+{
+  "checksum": "347ef5fdb1372b181e2518aa136578ca",
+  "room": {
+    "id": 16061,
+    "title": [
+      "[Western Harbor, Trident Way]"
+    ],
+    "description": [
+      "Surrounded on either side by dunes covered in sea grass, the cobblestone street culminates in a ramshackle tavern covered with tar-splattered shingles.  Dangling from the lintel on either side of the entry is a pair of copper lanterns, their glass sides reflecting the sunlight in rainbow pools upon the ground.  Beyond the building, gulls dip and swoop, their raucous calls loud and shrill as they attempt to attempt to steal bits of debris from a dilapidated wooden shack."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the Western Harbor",
+    "climate": "temperate",
+    "terrain": "cultivated",
+    "wayto": {
+      "16088": "go shack",
+      "17587": "northeast",
+      "17600": "go tavern",
+      "30718": "/rooms/16061/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "16088": 0.2,
+      "17587": 0.2,
+      "17600": 0.2,
+      "30718": "/rooms/16061/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "rose-marrow root",
+      "yew twig",
+      "luckbloom blossom",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "onion skin",
+      "dill",
+      "bay leaf",
+      "fresh cilantro",
+      "tobacco leaves",
+      "fresh basil",
+      "fresh oregano",
+      "wild spinach",
+      "green pepper",
+      "red pepper",
+      "yellow pepper",
+      "orange pepper",
+      "pea pods",
+      "zucchini",
+      "green beans",
+      "fresh broccoli",
+      "yellow squash",
+      "purple cabbage",
+      "green cabbage",
+      "garlic",
+      "stalk of celery",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "sunflower seeds",
+      "sweet potato",
+      "red onion",
+      "sweet onion",
+      "yellow papaya",
+      "orange-yellow starfruit",
+      "red-green mango",
+      "purple passion fruit",
+      "red lychee",
+      "green guava",
+      "curly garlic scapes",
+      "ghost pepper",
+      "hot pepper",
+      "peach-blushed rose",
+      "pale apricot rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216017
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1369,
+      1319,
+      1411,
+      1359
+    ]
+  }
+}

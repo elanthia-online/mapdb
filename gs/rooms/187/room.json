@@ -1,0 +1,50 @@
+{
+  "checksum": "3e4066966cef7737aff2cdd8f85218c7",
+  "room": {
+    "id": 187,
+    "title": [
+      "[Ta'Illistim, Shimmarglin Court]"
+    ],
+    "description": [
+      "The bottom of the floating dais overhead falls over this patch of the courtyard, shrouding the cobblestones below in a darkness only broken by the purposeful placement of a few silver lanterns.  Their unflickering blue light illuminates a white marble boutique.",
+      "The bottom of the floating dais overhead falls over this patch of the courtyard, shrouding the cobblestones below in a dim, perpetual gloaming.  Nonetheless, the space is filled with impermanent shelving and carrels, set out with no regard for order, placement, or easy passage through the morass.  Settled in the center of the chaos is a white marble boutique.",
+      "The northern corner of the court is relatively quiet, the low hum of conversation punctuated only by the occasional bursts of laughter emanating from the nearby dais.  A row of monir trees delineates the curvature of the cobblestoned lane, their leafy boughs creating a shady resting spot.",
+      "The northern corner of the court is relatively quiet, the low hum of conversation punctuated only by the occasional bursts of laughter emanating from the nearby dais.  A row of monir trees delineates the curvature of the cobblestoned lane, their leafy boughs creating a peaceful resting spot.",
+      "The bottom of the floating dais overhead falls over this patch of the courtyard, shrouding the cobblestones below in a darkness only broken by the purposeful placement of a few silver lanterns.  Their unflickering blue light gives the space a ghostly glow.",
+      "The bottom of the floating dais overhead falls over this patch of the courtyard, shrouding the cobblestones below in a dim, perpetual gloaming.  Nonetheless, the space is filled with impermanent shelving and carrels, set out with no regard for order, placement, or easy passage through the morass."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "186": "southwest",
+      "188": "go dais",
+      "528": "southeast",
+      "34421": "go boutique"
+    },
+    "timeto": {
+      "186": 0.2,
+      "188": 0.2,
+      "528": 0.2,
+      "34421": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100046
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1199,
+      441,
+      1220,
+      461
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "2378fbddf06885f08489ac14d3583bc5",
+  "room": {
+    "id": 16407,
+    "title": [
+      "[Ta'Illistim, Mzaarine Bazaar]"
+    ],
+    "description": [
+      "The cobblestone road flows around a single birch, its silver trunk thrust up through the middle of the street amidst a rounded profusion of flowering roses.  Chimes and bells hang from the tree's boughs, suspended at varying lengths on argent chains.  Beneath, the blooms are dappled in light and shadow, turning some petals blindingly white and shading others to grey."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16405": "west",
+      "16408": "east",
+      "18780": "go stone cottage"
+    },
+    "timeto": {
+      "16405": 0.2,
+      "16408": 0.2,
+      "18780": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      737022
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1549,
+      608,
+      1565,
+      625
+    ]
+  }
+}

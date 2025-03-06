@@ -1,0 +1,30 @@
+{
+  "checksum": "ba225bd56c8a404a2e283fa0adfa8686",
+  "room": {
+    "id": 21199,
+    "title": [
+      "[Mist Harbor Proper, Sewers]"
+    ],
+    "description": [
+      "Faint illumination provides the passage with barely enough light to make out the unobstructed way through the tunnel.  Consistent and repetitive, the sound of dripping water echoes through the area."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21198": "east",
+      "21200": "west"
+    },
+    "timeto": {
+      "21198": 0.2,
+      "21200": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      265430
+    ]
+  }
+}

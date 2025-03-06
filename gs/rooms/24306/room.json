@@ -1,0 +1,41 @@
+{
+  "checksum": "5b9cbff52c968554d84344d40903ebba",
+  "room": {
+    "id": 24306,
+    "title": [
+      "[Ranger Guild, Landing]"
+    ],
+    "description": [
+      "Bright moonlight filters down through the foliage above, giving plenty of light to see by.  Most of the platform's space is taken up by a large pile of overstuffed pillows.  Sturdy brass railings line either side of the platform to prevent anyone from falling.  At one end of the platform is a simple haon arch and at the other is a sturdy looking pair of modwir doors."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24296": "go vines",
+      "24307": "go doors",
+      "24308": "go arch"
+    },
+    "timeto": {
+      "24296": 0.2,
+      "24307": 0.2,
+      "24308": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      274006
+    ],
+    "image": "vo-rangerguild-1649447217.png",
+    "image_coords": [
+      197,
+      345,
+      214,
+      362
+    ]
+  }
+}

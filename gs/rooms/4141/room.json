@@ -1,0 +1,63 @@
+{
+  "checksum": "ea2683e80fcb7a117213d32fa185d2ce",
+  "room": {
+    "id": 4141,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "You pause inside the gates to survey the eerie scene.  A magnificently crafted granite crypt to the north inspires wonder and loathing.  The carvings on the facade are horrific, detailing the onslaughts of the Unlife throughout the chaotic history of Elanthia.  A gravel path wraps around the structure, while thorny brambles growing among the tombstones deter you from leaving the paved route."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest, up"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "4140": "/rooms/4141/wayto/stringproc-4140.rb",
+      "4142": "go crypt",
+      "7163": "northeast",
+      "7167": "northwest",
+      "28746": "up"
+    },
+    "timeto": {
+      "4140": "/rooms/4141/timeto/stringproc-4140.rb",
+      "4142": 0.2,
+      "7163": 0.2,
+      "7167": 0.2,
+      "28746": 0.2
+    },
+    "tags": [
+      "small wild rose",
+      "wild strawberry",
+      "sprig of larkspur",
+      "sprig of wild lilac",
+      "bright red teaberry",
+      "stalk of chicory",
+      "wild chokecherry",
+      "blue whortleberry",
+      "wintergreen leaf",
+      "broken twig",
+      "cothinar flower",
+      "blueberries",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "skeleton",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18003
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      227,
+      897,
+      237,
+      907
+    ]
+  }
+}

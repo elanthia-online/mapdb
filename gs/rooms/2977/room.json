@@ -1,0 +1,41 @@
+{
+  "checksum": "e876634e12bc41f3b4a69b7193eeed52",
+  "room": {
+    "id": 2977,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "A huge column of marble dominates this room, tiny golden flecks within its form glittering in the scant illumination.  At its base is affixed a wooden plaque, eroded with the passage of time."
+    ],
+    "paths": [
+      "Obvious exits: south, west, northwest"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2976": "northwest",
+      "2978": "south",
+      "15943": "west"
+    },
+    "timeto": {
+      "2976": 0.2,
+      "2978": 0.2,
+      "15943": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132105
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1731,
+      307,
+      1782,
+      353
+    ]
+  }
+}

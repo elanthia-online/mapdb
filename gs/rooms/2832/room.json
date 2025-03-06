@@ -1,0 +1,65 @@
+{
+  "checksum": "33bb943f75195cb0f278348bb19b919c",
+  "room": {
+    "id": 2832,
+    "title": [
+      "[Northern Slopes, Rock Ledge]"
+    ],
+    "description": [
+      "The trees crowd the edge of the precipice, as if eager for a change to gaze out over the expansive horizon.  Majestic mountains rise up from deep green forests dotted with snow and caressed here and there with drifting fog and low-lying clouds.  The conifers are so thick, further passage through them is impossible."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Pinefar forests",
+    "climate": "snowy, arctic",
+    "terrain": "mountainous",
+    "wayto": {
+      "2830": "/rooms/2832/wayto/stringproc-2830.rb",
+      "2833": "go entrance"
+    },
+    "timeto": {
+      "2830": 1,
+      "2833": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "edelweiss",
+      "iceblossoms",
+      "snow lily",
+      "winter rose",
+      "arctic moss",
+      "tundra grass",
+      "golden aster",
+      "calamintha blossom",
+      "snowberries",
+      "pale thornberry",
+      "red winterberry",
+      "small loganberry",
+      "rockberry",
+      "crowberry",
+      "lingonberry",
+      "orange rowanberry",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4563008
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      563,
+      1232,
+      575,
+      1244
+    ]
+  }
+}

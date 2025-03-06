@@ -1,0 +1,41 @@
+{
+  "checksum": "b9d3d36a4122cb9209144b5f4e0f16d7",
+  "room": {
+    "id": 11372,
+    "title": [
+      "[Council Conference Room]"
+    ],
+    "description": [
+      "As you enter the room a soft light emanates from above but has no apparent source.  A large oval table of black enamel dominates the room.  Placed around the table are twelve black-enameled chairs, each bearing the gilt symbol of one of the Twelve Magi of Elanith."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11371": "go door",
+      "11373": "east",
+      "11374": "southeast"
+    },
+    "timeto": {
+      "11371": 0.2,
+      "11373": 0.2,
+      "11374": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "node"
+    ],
+    "uid": [
+      377009
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      269,
+      1089,
+      279,
+      1099
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "18e569b0bd6d86d25a16f725131277b2",
+  "room": {
+    "id": 17937,
+    "title": [
+      "[Rogue Guild, Lounge]"
+    ],
+    "description": [
+      "The lounge has been nearly restored to its former beauty with dark rosewood paneling lining the walls and a variety of inlaid woods on the floor.  Mirrored shelves filled with bottles sit behind the scarred but polished bar.  Brass stools with red leather seats line the front of the bar.  Large windows overlooking an overgrown courtyard fill the room with sunlight."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "17933": "go arch",
+      "17961": "go nook",
+      "17962": "go alcove",
+      "17963": "west"
+    },
+    "timeto": {
+      "17933": 0.2,
+      "17961": 0.2,
+      "17962": 0.2,
+      "17963": 0.2
+    },
+    "tags": [
+      "rogue guild bar"
+    ],
+    "uid": [
+      264004
+    ],
+    "image": "vo-rogue_guild-1305438533.png",
+    "image_coords": [
+      428,
+      651,
+      457,
+      675
+    ]
+  }
+}

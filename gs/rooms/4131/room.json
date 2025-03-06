@@ -1,0 +1,41 @@
+{
+  "checksum": "252e9476994879af55a8f7bbad770bc9",
+  "room": {
+    "id": 4131,
+    "title": [
+      "[Glatoph, Lava Pool]"
+    ],
+    "description": [
+      "One end of a grey arch reaches up toward the ceiling, its even planes and distinct corners obviously hewn by some intelligent hand wielding tools.  It looks as though a second, smaller bubble had formed at one time inside the one that forms the cavern, and someone carved away all of it but this arch.  You gaze nervously at the smaller bubbles plopping in the lava below and wonder how often such large bubbles form."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4130": "southeast",
+      "4132": "west",
+      "7902": "climb arch"
+    },
+    "timeto": {
+      "4130": 0.2,
+      "4132": 0.2,
+      "7902": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35020
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      268,
+      385,
+      278,
+      395
+    ]
+  }
+}

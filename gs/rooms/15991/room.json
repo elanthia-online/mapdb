@@ -1,0 +1,43 @@
+{
+  "checksum": "afd98e2d56bb7e33df409b4c8ed2f785",
+  "room": {
+    "id": 15991,
+    "title": [
+      "[Hidden Tunnel]"
+    ],
+    "description": [
+      "You find yourself in a small roughly hewn stone room.  Moss and lichen carpet the walls and floor, giving the area a musty scent.  In the south corner of the room you see some moss covered stairs heading down into the gloom, the sound of dripping water echoing up to you.  A rusty iron ladder leads up through the ceiling into darkness."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Castle Varunar",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14070": "/rooms/15991/wayto/stringproc-14070.rb",
+      "15992": "climb ladder",
+      "16807": "go stairs"
+    },
+    "timeto": {
+      "14070": 0.4,
+      "15992": 0.2,
+      "16807": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750052
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      512,
+      225,
+      522,
+      235
+    ]
+  }
+}

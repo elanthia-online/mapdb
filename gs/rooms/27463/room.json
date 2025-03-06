@@ -1,0 +1,51 @@
+{
+  "checksum": "254769045c3299d0a0223e1e5256cc17",
+  "room": {
+    "id": 27463,
+    "title": [
+      "[North Shore, Tide Pool]"
+    ],
+    "description": [
+      "The pounding surf has cut deeper inland forming a tidal pool.  Starfish, scurrying crabs and tiny silvery fish can be found swimming in these clear swirling waters.  The water here looks deep enough for swimming."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "27453": "southwest",
+      "27461": "north",
+      "27462": "northeast",
+      "27464": "east",
+      "27465": "go pool"
+    },
+    "timeto": {
+      "27453": 0.2,
+      "27461": 0.2,
+      "27462": 0.2,
+      "27464": 0.2,
+      "27465": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "wavepetal blossom",
+      "pearly green vine",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      700310
+    ],
+    "image": "wl-homes-2-1264234799.png",
+    "image_coords": [
+      593,
+      699,
+      609,
+      715
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "a256e771c121b78af18f6420015e9b44",
+  "room": {
+    "id": 3952,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "It appears that some of the ceiling has fallen, partially damming up the noxious liquid that could only be called water by a distant stretch of the imagination.  You shudder, as you realize that in order to pass, you are going to have to wade, for at least a few feet."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3951": "south",
+      "3953": "north"
+    },
+    "timeto": {
+      "3951": 0.2,
+      "3953": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2133107
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      585,
+      276,
+      595,
+      287
+    ]
+  }
+}

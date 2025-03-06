@@ -1,0 +1,36 @@
+{
+  "checksum": "4c9a21c7e1ee88ae61a8d7bdd7fbdb7d",
+  "room": {
+    "id": 25520,
+    "title": [
+      "[Covenants Kept, Entry]"
+    ],
+    "description": [
+      "Four hanging moons of colored glass hang from the overhead, lit from within to cast their commingled light on the shop foyer.  Statues, one dark and one pale, guard a trio of archways that lead off to the northeast, southeast, and east.  At the feet of each effigy sits a bowl holding a burning stick of incense, the heavy scent of which thickens the air.",
+      "Four hanging moons of colored glass hang from the overhead, lit from within to cast their commingled light on the shop foyer.  Statues, one pale and one dark, guard a trio of arches that lead off to the north, south, and east.  One of them holds a burning stick of incense, the heavy scent of which thickens the air."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast",
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Aboard an Airship",
+    "wayto": {
+      "25519": "go door",
+      "25524": "southeast",
+      "25525": "east",
+      "25526": "northeast"
+    },
+    "timeto": {
+      "25519": 0.2,
+      "25524": 0.2,
+      "25525": 0.2,
+      "25526": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      12101054
+    ]
+  }
+}

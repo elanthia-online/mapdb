@@ -1,0 +1,32 @@
+{
+  "checksum": "5c222bdac365600540609cc8ede9c321",
+  "room": {
+    "id": 32192,
+    "title": [
+      "[Armaments of the Destroyer]"
+    ],
+    "description": [
+      "Cold radiates from the stone floor, leaving the air of the keep damp and uninviting.  Spiraling stairs hug the outer wall, offering passage to the floor above, while a pair of heavy wooden double doors provides egress to the street beyond.  Several armor stands are arranged along the curve of the room, faded pennants and tapestries hanging above them and fluttering in an unfelt breeze."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31951": "go wooden doors",
+      "32193": "go spiraling stairs"
+    },
+    "timeto": {
+      "31951": 0.2,
+      "32193": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084721
+    ]
+  }
+}

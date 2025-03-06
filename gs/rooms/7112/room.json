@@ -1,0 +1,42 @@
+{
+  "checksum": "70a0a176265130a8d3007a0fe32ed2dc",
+  "room": {
+    "id": 7112,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A chill breeze blows through this small room, finding its way to your skin no matter how you adjust what you're wearing.  A mouldering tapestry hanging on one wall trembles every minute or so, and the table and three chairs are unevenly dusty."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7111": "go door",
+      "7113": "go passage"
+    },
+    "timeto": {
+      "7111": 0.2,
+      "7113": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44003
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      967,
+      1177,
+      977,
+      1187
+    ]
+  }
+}

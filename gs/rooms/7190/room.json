@@ -1,0 +1,61 @@
+{
+  "checksum": "11da0d7fb42fe1f0b675ee9d8b480b2a",
+  "room": {
+    "id": 7190,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "You are led right up against the mound's west slope, which meets the ground at a right angle.  The precision of the angle leads you to suspect that this hill is actually an earth-sheltered structure of some sort.  As you continue to explore, the brooding remnants of some ancient monoliths to the northwest cast a sense of abiding melancholy and sadness over the scene."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7189": "southeast",
+      "7191": "north",
+      "7195": "northwest"
+    },
+    "timeto": {
+      "7189": 0.2,
+      "7191": 0.2,
+      "7195": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "withered black mushroom",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "small wild rose",
+      "wild chokecherry",
+      "bright red cranberry",
+      "blue whortleberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18022
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      315,
+      454,
+      325,
+      464
+    ]
+  }
+}

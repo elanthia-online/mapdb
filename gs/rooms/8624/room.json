@@ -1,0 +1,32 @@
+{
+  "checksum": "6e55e2cf39af3618b81512035e8a8374",
+  "room": {
+    "id": 8624,
+    "title": [
+      "[A Guard Tower]"
+    ],
+    "description": [
+      "Large cut blocks of stone, mortared with a dry gray paste, climb high enough here to rise above the walls surrounding the town.  A wooden stair runs around the circumference of the tower and leads to an opening in the ceiling.  Daylight filters through the squat doorway leading out into the heart of the town.",
+      "Large cut blocks of stone, mortared with a dry gray paste, climb high enough here to rise above the walls surrounding the town.  A wooden stair runs around the circumference of the tower and leads to an opening in the ceiling.  Moonlight filters through the squat doorway leading out into the heart of the town."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "294": "out",
+      "8625": "climb stair"
+    },
+    "timeto": {
+      "294": 0.2,
+      "8625": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "meta:nomagic"
+    ],
+    "uid": [
+      3408
+    ]
+  }
+}

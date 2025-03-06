@@ -1,0 +1,42 @@
+{
+  "checksum": "6b1a0707196c52acaa921a43b4866902",
+  "room": {
+    "id": 11449,
+    "title": [
+      "[Tempest River, North Fork]"
+    ],
+    "description": [
+      "The rolling green surface of Maelstrom Bay stretches out westward.  Beyond it, as far as the eye can see, is the great western sea.  Although the water is deep, it's still possible to see the gold-colored sand that forms the riverbed.  To the east is the mouth of the North Fork of the Tempest River, skirting the island of River's Rest.  Tall cliffs line the mainland to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: north, east, northwest"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11436": "/rooms/11449/wayto/stringproc-11436.rb",
+      "11437": "/rooms/11449/wayto/stringproc-11437.rb",
+      "11448": "/rooms/11449/wayto/stringproc-11448.rb"
+    },
+    "timeto": {
+      "11436": 2,
+      "11437": 2,
+      "11448": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304013
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      756,
+      1342,
+      766,
+      1352
+    ]
+  }
+}

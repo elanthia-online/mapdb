@@ -1,0 +1,40 @@
+{
+  "checksum": "e2736dae4fa66819a145eea5146dfd53",
+  "room": {
+    "id": 17717,
+    "title": [
+      "[Citadel, Dungeon Corridor]"
+    ],
+    "description": [
+      "Drafts of warm air flow through the corridor, alternating in directions for no apparent reason.  Keys hang from a thin metal ring hung on a wood spike set into the wall next to a steel door.  Meanwhile, a trail of shattered swords and broken shields lead away to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17716": "east",
+      "17718": "go door",
+      "17719": "west"
+    },
+    "timeto": {
+      "17716": 0.2,
+      "17718": 0.2,
+      "17719": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377306
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      73,
+      984,
+      83,
+      994
+    ]
+  }
+}

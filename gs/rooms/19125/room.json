@@ -1,0 +1,27 @@
+{
+  "checksum": "fae60d6889447b0e7b3d79399cbd629c",
+  "room": {
+    "id": 19125,
+    "title": [
+      "[Tropic Treasure, Tasty Retreat]"
+    ],
+    "description": [
+      "Deep blue paint speckled with green and white adorns the wooden floor, walls, and ceiling.  Faint silhouettes of leaves and tropical flowers frame the path to the south."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19120": "go hatch",
+      "19155": "south"
+    },
+    "timeto": {
+      "19120": 0.2,
+      "19155": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

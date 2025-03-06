@@ -1,0 +1,38 @@
+{
+  "checksum": "379eaee51fadd5c7a4152fe7be6d20e7",
+  "room": {
+    "id": 8333,
+    "title": [
+      "[Spider Temple, Leg of Drevthrel]"
+    ],
+    "description": [
+      "Velvet hangings drape lavishly along the long walls, interrupted occasionally by fine crystal sculpture.  Near a curtained off area to the east are a gilt full length mirror, two soft chairs, and a low table of polished modwir."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8332": "go door",
+      "8334": "east"
+    },
+    "timeto": {
+      "8332": 0.2,
+      "8334": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13005
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      632,
+      981,
+      642,
+      991
+    ]
+  }
+}

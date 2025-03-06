@@ -1,0 +1,41 @@
+{
+  "checksum": "d0f80b67f3ce4eadcc42040f5ce77aa4",
+  "room": {
+    "id": 25926,
+    "title": [
+      "[Ostwicke Hall, Dressing Room]"
+    ],
+    "description": [
+      "This spacious room houses a myriad of effects used to prepare for a theatrical production.  Costumes, makeup, and other accouterments of the profession lay in various levels of organization around the area.  The back wall is occupied by a large wardrobe, on either side of which hang faded handbills, highlighting theatrical productions of years gone by.  A burgundy velvet curtain leads back to the stage."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west",
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25925": "go curtain",
+      "25927": "west",
+      "25928": "east",
+      "25929": "north",
+      "31269": "south"
+    },
+    "timeto": {
+      "25925": 0.2,
+      "25927": 0.2,
+      "25928": 0.2,
+      "25929": 0.2,
+      "31269": 0.2
+    },
+    "uid": [
+      8211390
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      754,
+      264,
+      803,
+      315
+    ]
+  }
+}

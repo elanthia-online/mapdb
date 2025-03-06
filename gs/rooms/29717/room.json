@@ -1,0 +1,34 @@
+{
+  "checksum": "52605862887a252488d34c5a44c2a97e",
+  "room": {
+    "id": 29717,
+    "title": [
+      "[House Annex, Beacon Hall]"
+    ],
+    "description": [
+      "Devoid of nearby furnishings, an ivory tome and quill mural decorates the western wall under the light of several frosted glaesine globes that dangle from the ceiling.  Plush crimson carpeting dappled with gold threads lends the otherwise austere space a coziness that is enhanced by the presence of an ivory crushed velvet settee.  A lacquered beige door leads to the hallway, while an ivory-edged crimson silk curtain provides access to the storage facilities."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "27683": "go beige door",
+      "29553": "go curtain"
+    },
+    "timeto": {
+      "27683": 0.2,
+      "29553": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Beacon Hall Archive"
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      575,
+      233,
+      699,
+      247
+    ]
+  }
+}

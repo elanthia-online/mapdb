@@ -1,0 +1,50 @@
+{
+  "checksum": "4b06287b08e9836fb230b71e9b094ce4",
+  "room": {
+    "id": 6909,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Dimly burning lanterns hang from the ceiling, spaced at regular intervals to shed a bit of light.  They are dented and abused, looking mostly like castoffs and irregular bits from a lantern maker's mistake pile.  Large footprints track through the dirt of the floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6888": "northeast",
+      "6910": "southwest",
+      "6914": "west"
+    },
+    "timeto": {
+      "6888": 0.2,
+      "6910": 0.2,
+      "6914": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37002
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1014,
+      1249,
+      1024,
+      1259
+    ]
+  }
+}

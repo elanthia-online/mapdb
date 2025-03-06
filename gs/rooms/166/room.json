@@ -1,0 +1,46 @@
+{
+  "checksum": "f17e88765b6fd8f8bd856768c00a727d",
+  "room": {
+    "id": 166,
+    "title": [
+      "[Ta'Illistim, Kaerinar Wey]"
+    ],
+    "description": [
+      "A low, long stone building sits nestled amongst a grove of flowering trees.  Above the entrance, a relief depicting a healer ministering to the wounded is carved into the mica-flecked grey granite.  Neatly planted rows of herbs line the cobbled walk leading to the front door."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "165": "northwest",
+      "167": "northeast",
+      "640": "go building",
+      "30714": "/rooms/166/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "165": 0.2,
+      "167": 0.2,
+      "640": 0.2,
+      "30714": "/rooms/166/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101001
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      338,
+      820,
+      359,
+      841
+    ]
+  }
+}

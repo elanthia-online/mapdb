@@ -1,0 +1,35 @@
+{
+  "checksum": "b032ed39f87dbb928990305f91253a14",
+  "room": {
+    "id": 30186,
+    "title": [
+      "[Northern Post, Mail Room]"
+    ],
+    "description": [
+      "Framed by windows of frosted glass, the front door of the post office allows wintry air to cut through the warmth of the close room.  Beeswax candles sit along the window sills, but they lend more light than heat and perfume the air gently with their honeyed smell.  The real heat source is a blazing coal stove behind the polished pine counter."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3233": "out",
+      "30187": "east",
+      "30709": "/rooms/30186/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "3233": 0.2,
+      "30187": 0.2,
+      "30709": "/rooms/30186/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      4043004
+    ]
+  }
+}

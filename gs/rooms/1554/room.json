@@ -1,0 +1,50 @@
+{
+  "checksum": "082197343b331dfc6b2541998e51757e",
+  "room": {
+    "id": 1554,
+    "title": [
+      "[Solhaven, South Market NE]"
+    ],
+    "description": [
+      "The eastern-most shop on the north side of the market bears a weathered thimble-and-needle sign above its polished haon door.  Rolls of cloth can be seen through the shop's windows, lined up to form aisles that fill the shop's brightly lit interior.",
+      "The eastern-most shop on the north side of the market bears a weathered thimble-and-needle sign above its polished haon door.  Rolls of cloth can be seen through the shop's windows, lined up to form aisles by fabric type and arranged in rainbows of the available hues."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, southwest, west",
+      "Obvious paths: northeast, east, south, southwest, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1552": "west",
+      "1556": "northeast",
+      "1562": "east",
+      "1571": "south",
+      "1572": "southwest",
+      "13351": "go shop"
+    },
+    "timeto": {
+      "1552": 0.2,
+      "1556": 0.2,
+      "1562": 0.2,
+      "1571": 0.2,
+      "1572": 0.2,
+      "13351": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902081
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      698,
+      1333,
+      720,
+      1355
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "c8ac83fd324a1d52b7ae6da7dea0f984",
+  "room": {
+    "id": 27470,
+    "title": [
+      "[The Harrows, Hanging Valley]"
+    ],
+    "description": [
+      "The valley is confined on three sides by a massif of dark, jagged peaks, their claw-like tines nearly drowning out sight of off-kilter peaks elsewhere in the mountain range.  A small stream snakes its way between gigantic black boulders, before spilling over the southern edge of the hung valley.  Nestled in the lee of the northern rim amid a maze of stunted hawthorn, a dark grey manor faces the open skyline.  A narrow slope leads down and out of the valley, its approach marked with an elaborate gate spiked with razern finials.",
+      "The valley is confined on three sides by a range of dark, jagged rocks, their claw-like tines reaching up to a faint light high in the west.  A small stream, snaking through a maze of stunted hawthorn, spills out of sight to the south, where a break in the massif yields only the abyss of night.  Facing the dark skyline stands a two-story dark grey manor, its windows shrouded by curtains.  Arching bronze cressets stand before a narrow escarpment leading out of the valley, its approach marked with an elaborate razern gate."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "The Harrows, outside the elven city of Ta'Illistim",
+    "wayto": {
+      "1834": "/rooms/27470/wayto/stringproc-1834.rb",
+      "27471": "go doors",
+      "27472": "go wicket"
+    },
+    "timeto": {
+      "1834": "/rooms/27470/timeto/stringproc-1834.rb",
+      "27471": 0.2,
+      "27472": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1303801
+    ],
+    "image": "pp-eastern-spine-1543903046.png",
+    "image_coords": [
+      1170,
+      920,
+      1269,
+      1020
+    ]
+  }
+}

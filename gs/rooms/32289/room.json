@@ -1,0 +1,30 @@
+{
+  "checksum": "1bba2b24eeaa886c389cfd36badc160b",
+  "room": {
+    "id": 32289,
+    "title": [
+      "[Huckleberry Room]"
+    ],
+    "description": [
+      "The floor is tiled with gray granite, veined in shining huckleberry red.  Marble statues of halflings in various stances line the walls, giving the room a friendly atmosphere.  One statue in particular seems a focal point of attention, either by design or chance, as it stands somewhat apart from the others in the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "20014": "go huckleberry arch",
+      "32292": "lean tart book"
+    },
+    "timeto": {
+      "20014": 0.2,
+      "32292": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      4043257
+    ]
+  }
+}

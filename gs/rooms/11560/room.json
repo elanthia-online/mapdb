@@ -1,0 +1,46 @@
+{
+  "checksum": "ce7103a3e624a82f4288d68009d5cf7d",
+  "room": {
+    "id": 11560,
+    "title": [
+      "[Slave Deck, Passageway]"
+    ],
+    "description": [
+      "The acute slant of the deck makes for treacherous footing in the dark and narrow passageway.  The smell of stale sweat and harsh soap combine to form a rank, noxious stink.  On each side of the passageway is a wide, iron-reinforced door.  A steep companionway leads up and down."
+    ],
+    "paths": [
+      "Obvious exits: east, west, up, down"
+    ],
+    "location": "the Shattered Moors",
+    "wayto": {
+      "11558": "up",
+      "11561": "west",
+      "11563": "east",
+      "11564": "down",
+      "34799": "go portside door",
+      "34800": "go starboard door"
+    },
+    "timeto": {
+      "11558": 0.2,
+      "11561": 0.2,
+      "11563": 0.2,
+      "11564": 0.2,
+      "34799": 0.2,
+      "34800": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420517
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      154,
+      1184,
+      164,
+      1194
+    ]
+  }
+}

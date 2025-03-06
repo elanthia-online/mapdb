@@ -1,0 +1,37 @@
+{
+  "checksum": "260a83f818de4579f2df107543a840ab",
+  "room": {
+    "id": 19098,
+    "title": [
+      "[Spitfire, Cargo Hold]"
+    ],
+    "description": [
+      "The cargo along this part of the aisle shifts in composition.  Bulky crates with straw sticking out of corners bear unfamiliar stencils.  Curiously, most have been marked over with black paint, but a few still remain with the legend \"Solhaven\" topped by a colorful heraldic crest.  The passage doglegs to the north, where it meets the bulkhead."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19089": "west",
+      "19103": "north",
+      "23432": "go door",
+      "23433": "go archway",
+      "23434": "go hatch"
+    },
+    "timeto": {
+      "19089": 0.2,
+      "19103": 0.2,
+      "23432": 0.2,
+      "23433": 0.2,
+      "23434": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      1360,
+      521,
+      1397,
+      558
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "c8a666cc5636e2afd2cc2ad72c4c7934",
+  "room": {
+    "id": 8326,
+    "title": [
+      "[Spider Temple, Entry Hall]"
+    ],
+    "description": [
+      "The only light in the entrance hall comes from two marvelously crafted candelabra, which from certain angles reflects back at you from the polished black basalt walls.  The shuffle of your feet against the teak floor produces scuffling sounds.  Large oaken doors lead in and out of this temple of Arachne, the spider goddess."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8325": "go door",
+      "8327": "go arch"
+    },
+    "timeto": {
+      "8325": 0.2,
+      "8327": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13037
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      764,
+      797,
+      774,
+      807
+    ]
+  }
+}

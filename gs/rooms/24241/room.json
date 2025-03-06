@@ -1,0 +1,29 @@
+{
+  "checksum": "c669b378c3a2eeb70f6414fbc1368fdc",
+  "room": {
+    "id": 24241,
+    "title": [
+      "[Feywrot Caverns, Gnarled Roots]"
+    ],
+    "description": [
+      "Lit with splinters of illumination that spear down from the edges of the ceiling, the cavern is narrow and shaped like a tall cylinder.  Roots of every shape and size curl about the walls, completely covering them in a mass of brambles, the only area clear of them a natural stone arch that leads into luminescent space."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "313": "/rooms/24241/wayto/stringproc-313.rb",
+      "20233": "/rooms/24241/wayto/stringproc-20233.rb",
+      "24240": "go stone arch",
+      "24798": "go arch"
+    },
+    "timeto": {
+      "313": 2,
+      "20233": 0.2,
+      "24240": 0.2,
+      "24798": 0.2
+    },
+    "check_location": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "c572f4081388510b4216eb718ef6407e",
+  "room": {
+    "id": 1888,
+    "title": [
+      "[Company Store, Armory]"
+    ],
+    "description": [
+      "Large display cases line the room and provide customers with examples of local wares.  Shields of varying size and description, and of several different materials, are mounted high up on the walls.  Armor mounted upon stands fill the floor of the armory and provide an example of the quality of their workmanship."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1884": "go door",
+      "1889": "east",
+      "30715": "/rooms/1888/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1884": 0.2,
+      "1889": 0.2,
+      "30715": "/rooms/1888/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "armorshop",
+      "urchin guide armor",
+      "urchin-access",
+      "armor"
+    ],
+    "uid": [
+      3003019
+    ]
+  }
+}

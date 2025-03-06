@@ -1,0 +1,56 @@
+{
+  "checksum": "2142d483a590660ace319271c7d655fb",
+  "room": {
+    "id": 25543,
+    "title": [
+      "[Mistydeep, Northern Strand]"
+    ],
+    "description": [
+      "Breaking around the shore of a broad forested island, two branches of the Mistydeep converge to resume their joint ramble southeastward.  Casting a long shadow across the water is a multi-turreted tower that reaches skyward.  The dusky granite, of which the tower is constructed, is so cunningly crafted that some portions appear carved from a natural rock formation.  Numerous narrow windows gape uncovered, revealing only darkness within.  Skirting the building, a tangled thicket keeps outsiders at bay."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, west, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18823": "/rooms/25543/wayto/stringproc-18823.rb",
+      "23527": "/rooms/25543/wayto/stringproc-23527.rb",
+      "23528": "/rooms/25543/wayto/stringproc-23528.rb",
+      "25544": "/rooms/25543/wayto/stringproc-25544.rb",
+      "25615": "/rooms/25543/wayto/stringproc-25615.rb",
+      "30512": "swim down"
+    },
+    "timeto": {
+      "18823": "/rooms/25543/timeto/stringproc-18823.rb",
+      "23527": "/rooms/25543/timeto/stringproc-23527.rb",
+      "23528": "/rooms/25543/timeto/stringproc-23528.rb",
+      "25544": "/rooms/25543/timeto/stringproc-25544.rb",
+      "25615": "/rooms/25543/timeto/stringproc-25615.rb",
+      "30512": "/rooms/25543/timeto/stringproc-30512.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117019
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1243,
+      850,
+      1262,
+      869
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "dda9711f790b8f84ce8ea5acd09bf292",
+  "room": {
+    "id": 18207,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Beautiful, stylish landscaping covered in flowers of all kinds and varieties characterize the garden here.  Numerous sweet smells continuously waft by, soothing your body within the folds of their fragrant grace.  In an almost healing way, you drink in what seems to be the promise of eternal peace."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18206": "north",
+      "18208": "southeast"
+    },
+    "timeto": {
+      "18206": 0.2,
+      "18208": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312006
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      38,
+      243,
+      53,
+      257
+    ]
+  }
+}

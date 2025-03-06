@@ -1,0 +1,37 @@
+{
+  "checksum": "801c8ceef109203677d6361ac71ed359",
+  "room": {
+    "id": 16349,
+    "title": [
+      "[Herbalist, Salesroom]"
+    ],
+    "description": [
+      "The acrid smell of cooking acantha fills your nostrils the moment you step inside the cottage.  Various herbs and flowers hang drying from a line that has been strung back and forth across the room.  Wicker baskets of all shapes and sizes have been laid out across the counter, offering all types of remedies."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "12302": "out",
+      "16350": "go arch",
+      "30718": "/rooms/16349/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "12302": 0.2,
+      "16350": 0.2,
+      "30718": "/rooms/16349/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "herbalist",
+      "urchin-access",
+      "urchin guide herbalist",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201901
+    ]
+  }
+}

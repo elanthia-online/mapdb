@@ -1,0 +1,35 @@
+{
+  "checksum": "2efa9ea5fca03ae3f36db05df7e89503",
+  "room": {
+    "id": 31486,
+    "title": [
+      "[Airmen's Rest, Hallway]"
+    ],
+    "description": [
+      "Dark wooden paneling lines the walls of the small hallway.  Intricately carved molding lines the ceiling, while the floor is cushioned with a thick, crimson wool carpet that travels from a narrow wooden staircase to a tall oval window.  A small bronze lantern is hung on either side of each door, the pale glow softly illuminating the narrow space."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Elven Nations Port",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "31485": "go staircase",
+      "31492": "go #-490551",
+      "31523": "go #-490550"
+    },
+    "timeto": {
+      "31485": 0.2,
+      "31492": 0.2,
+      "31523": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7136057
+    ]
+  }
+}

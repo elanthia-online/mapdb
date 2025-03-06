@@ -1,0 +1,30 @@
+{
+  "checksum": "37fac064992fbca294d7a212fa8f336c",
+  "room": {
+    "id": 409,
+    "title": [
+      "[Pawn Shop, Backroom]"
+    ],
+    "description": [
+      "This backroom is where many of the items pawned are offered for resale.  On one wall a prominent sign reads, \"Warning:  All items that are sold here are used merchandise and sold on an \"as-is\" basis with no guarantees and no refunds. -- Kilron\".  A sales clerk stands nearby, ready to offer help with any purchases."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "408": "out"
+    },
+    "timeto": {
+      "408": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      360010
+    ]
+  }
+}

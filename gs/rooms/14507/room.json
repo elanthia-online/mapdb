@@ -1,0 +1,33 @@
+{
+  "checksum": "638b4269f9b6eb5b7665ccf0307907e3",
+  "room": {
+    "id": 14507,
+    "title": [
+      "[Canines]"
+    ],
+    "description": [
+      "A massive enclosure houses two separate terrains -- an arid, desert-like area strewn with sparse grasses and a lush rainforest area.  The desert habitat has been split further into two individual parts, one serving as a home for jackals and the other for foxes, each equipped with a sleeping den as well.  Heavy foliage provides ample cover for the bat-eared foxes that nimbly weave beneath the forest canopy."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14436": "south",
+      "14508": "northeast"
+    },
+    "timeto": {
+      "14436": 0.2,
+      "14508": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      411122
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "3a049c0751fa67bffb7bc6708abcf3d9",
+  "room": {
+    "id": 29260,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Lacking any natural lighting, the corridor is riff with shadows that blink in and out of existence, and something nearby emits a rhythmic wheezing that is punctuated by a *drip-drop* sound.  The ceiling is unusually low, as if the walls are unable to support the sodden beams, threatening to cave in at any moment."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29259": "north",
+      "29261": "south"
+    },
+    "timeto": {
+      "29259": 0.2,
+      "29261": 0.2
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "2fe70433a00832f13ac60d8bdf6a718d",
+  "room": {
+    "id": 11465,
+    "title": [
+      "[Maelstrom Bay, Underwater]"
+    ],
+    "description": [
+      "Light green water above, deep green water below, green water all around.  A reef covered with club-fingered coral forms a wall to the west.  A wide patch of sargassum on the surface blocks the moonlight.  The long, green, flat-bladed streamers hanging beneath the sargassum sway and undulate sinuously.",
+      "Light green water above, deep green water below, green water all around.  A reef covered with club-fingered coral forms a wall to the west.  A wide patch of sargassum on the surface blocks the sunlight.  The long, green, flat-bladed streamers hanging beneath the sargassum sway and undulate sinuously."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, up, down"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "11439": "/rooms/11465/wayto/stringproc-11439.rb",
+      "11461": "/rooms/11465/wayto/stringproc-11461.rb",
+      "11462": "/rooms/11465/wayto/stringproc-11462.rb",
+      "11464": "/rooms/11465/wayto/stringproc-11464.rb",
+      "11466": "/rooms/11465/wayto/stringproc-11466.rb",
+      "11472": "/rooms/11465/wayto/stringproc-11472.rb",
+      "16041": "/rooms/11465/wayto/stringproc-16041.rb",
+      "16121": "/rooms/11465/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11439": 3,
+      "11461": 2,
+      "11462": 2,
+      "11464": 3,
+      "11466": 2,
+      "11472": 2,
+      "16041": 3,
+      "16121": 2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      304123
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      761,
+      1233,
+      771,
+      1243
+    ]
+  }
+}

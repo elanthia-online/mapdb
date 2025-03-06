@@ -1,0 +1,27 @@
+{
+  "checksum": "90ceebf86c5a1112d6a602e3a3446c7d",
+  "room": {
+    "id": 18368,
+    "title": [
+      "[Mistral Hall, North Room]"
+    ],
+    "description": [
+      "The walls are fixed in position, anchored by sturdy furnishings and a large watercolor painting.  Curtains of beads flutter in the windows, their chiming mixing with the sounds of the guests and the water below the house in a pleasant murmur."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "18367": "east",
+      "18369": "south"
+    },
+    "timeto": {
+      "18367": 0.2,
+      "18369": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

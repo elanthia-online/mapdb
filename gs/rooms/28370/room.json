@@ -1,0 +1,35 @@
+{
+  "checksum": "6a3291e9b93290ff7d04a0e3c6cf6dfe",
+  "room": {
+    "id": 28370,
+    "title": [
+      "[Tower of Liabo, Balcony]"
+    ],
+    "description": [
+      "Moonlight streams through narrow windows, causing the alabaster walls to glow brilliantly.  A small set of crystal chimes suspended in one of the windows spin and sway in the chilly breeze, occasionally brushing against each other with clear ringing notes.  The huge circular main hall is visible over a simple wrought iron railing, and accessible via a narrow staircase that spirals down."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, down"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28354": "down",
+      "28371": "go white door",
+      "28372": "go staircase",
+      "28373": "go grey door",
+      "28378": "southwest",
+      "28380": "north"
+    },
+    "timeto": {
+      "28354": 0.2,
+      "28371": 0.2,
+      "28372": 0.2,
+      "28373": 0.2,
+      "28378": 0.2,
+      "28380": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

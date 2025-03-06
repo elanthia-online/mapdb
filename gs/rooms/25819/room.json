@@ -1,0 +1,41 @@
+{
+  "checksum": "cbef55140bb2c2d43e9f4d737d52a756",
+  "room": {
+    "id": 25819,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Bright orange markers bob in the waters near the edges of a small island, their colorful faces warning small and large crafts of the dangers near its sloping cliffs.  Tiny, white-capped waves splash lazily against the stony faces of the cliffs, while pelicans lazily recline upon some of the larger stones that clearly jut out of the water.  Several boats gracefully slip through the waters on their way to and from the docks that stand out like fingers from the western shores."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25692": "/rooms/25819/wayto/stringproc-25692.rb",
+      "25696": "/rooms/25819/wayto/stringproc-25696.rb",
+      "25820": "/rooms/25819/wayto/stringproc-25820.rb"
+    },
+    "timeto": {
+      "25692": 6,
+      "25696": 6,
+      "25820": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223824
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1040,
+      1199,
+      1060,
+      1218
+    ]
+  }
+}

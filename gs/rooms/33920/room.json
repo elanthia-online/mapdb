@@ -1,0 +1,49 @@
+{
+  "checksum": "ea29e400dc78acdfa2c7a8a0cd8e86e4",
+  "room": {
+    "id": 33920,
+    "title": [
+      "[Zul Logoth, Cavern Entry]"
+    ],
+    "description": [
+      "This cave is small, with air that is slightly musty.  Lichen clings to the walls to the southwest, a hint of what lies further in that direction.  Tiny streams flow north out of the cave and down a series of steps just outside an opening in the north wall.  Dark and quiet, save for the sound of the streams and the occasional drip of water, it smells of earth, mold, and slate."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "33919": "climb steps",
+      "33929": "southwest"
+    },
+    "timeto": {
+      "33919": 0.2,
+      "33929": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13010225
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      440,
+      324,
+      472,
+      355
+    ]
+  }
+}

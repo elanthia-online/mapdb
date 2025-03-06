@@ -1,0 +1,29 @@
+{
+  "checksum": "114a74efa57e430e1fbad44c12e8c70b",
+  "room": {
+    "id": 15132,
+    "title": [
+      "[Qitha's Weaponry]",
+      "[Qitha's General Store]"
+    ],
+    "description": [
+      "Beneath an ebonwood beam ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A gold-leafed mistwood cabinet sits in one corner while a worn rug rests on the oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "341": "out",
+      "14596": "west",
+      "15332": "east"
+    },
+    "timeto": {
+      "341": 0.2,
+      "14596": 0.2,
+      "15332": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

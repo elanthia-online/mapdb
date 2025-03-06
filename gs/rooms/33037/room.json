@@ -1,0 +1,33 @@
+{
+  "checksum": "b39a2018f1ee3d24b97dba881a0ef67d",
+  "room": {
+    "id": 33037,
+    "title": [
+      "[Sylvanfair, Solar]"
+    ],
+    "description": [
+      "Bright sunlight floods the room through a tall mullioned window, illuminating the antique silk rug covering most of the tiled floor.  Three grey stone walls, hung with pastoral murals, enclose the space beneath a high vaulted ceiling, while a curved linden balustrade overlooks the hall below.  Tall cabinets filled with books and curios line one wall, in front of which sits a writing desk and a high-backed chair.  Two sofas face each other across a low table set for entertaining.",
+      "Pale moonlight floods the room through a tall mullioned window, illuminating the antique silk rug covering most of the tiled floor.  Three grey stone walls, hung with pastoral murals, enclose the space beneath a high vaulted ceiling, while a curved linden balustrade overlooks the hall below.  Tall cabinets filled with books and curios line one wall, in front of which sits a writing desk and a high-backed chair.  Two sofas face each other across a low table set for entertaining."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "33036": "down",
+      "33038": "go linden door",
+      "33039": "go grey door"
+    },
+    "timeto": {
+      "33036": 0.2,
+      "33038": 0.2,
+      "33039": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sylvanfair"
+    ],
+    "uid": [
+      13112518
+    ]
+  }
+}

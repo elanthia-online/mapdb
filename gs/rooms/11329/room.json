@@ -1,0 +1,61 @@
+{
+  "checksum": "70a745770156460bb83e85be8cb0ead5",
+  "room": {
+    "id": 11329,
+    "title": [
+      "[Citadel, Gardens]"
+    ],
+    "description": [
+      "Your sense of smell is rewarded with the scent of spices and herbs.  A garden of luxurious quality is laid out before you in such a neat and orderly fashion that it is pleasing to both sight and smell.  The finely crushed stone of the path crunches softly beneath your steps, leading off in two directions through the garden and one back through the enruned archway."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Citadel",
+    "climate": "temperate",
+    "terrain": "sandy",
+    "wayto": {
+      "11325": "go arch",
+      "11330": "northwest",
+      "11334": "southwest"
+    },
+    "timeto": {
+      "11325": 0.2,
+      "11330": 0.2,
+      "11334": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "murdroot",
+      "sagebrush root",
+      "acantha leaf",
+      "cactacae spine",
+      "angelica root",
+      "tiger lily",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "small coconut",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "banana leaf",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2102050
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      1116,
+      902,
+      1126,
+      912
+    ]
+  }
+}

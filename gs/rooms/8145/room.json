@@ -1,0 +1,46 @@
+{
+  "checksum": "8b9f99ac7e68111d100e81594d060d62",
+  "room": {
+    "id": 8145,
+    "title": [
+      "[Shrine of Leya]"
+    ],
+    "description": [
+      "Moonlight streams down into the circular building from an opening in the domed ceiling.  Around the walls, niches at each point of the compass are filled with statuary.  A marble altar with flaring edges, supported by two arching pedestal legs, stands against the far wall.  In the room's center is a round, marble-edged pool.  Drops of water fall from the dome's \"eye\" into the pool like tears."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west, northwest, out"
+    ],
+    "location": "the distant forest",
+    "wayto": {
+      "8144": "out",
+      "8146": "northwest",
+      "8147": "west",
+      "8148": "south",
+      "8149": "east",
+      "8150": "north"
+    },
+    "timeto": {
+      "8144": 0.2,
+      "8146": 0.2,
+      "8147": 0.2,
+      "8148": 0.2,
+      "8149": 0.2,
+      "8150": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      386067
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      1090,
+      72,
+      1100,
+      82
+    ]
+  }
+}

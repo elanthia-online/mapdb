@@ -1,0 +1,38 @@
+{
+  "checksum": "c83c70b7651f7d40d10e031347131a5d",
+  "room": {
+    "id": 9816,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Long pale roots descend from the ceiling at random intervals, some growing so closely together that they form a ghostly white curtain amongst the dull, monotonous surroundings.  The walls are cracked and badly faded, their surfaces riddled with tiny fissures.  Tiny motes of dust dance erratically about the area, barely discernable in the hazy darkness."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9812": "northwest",
+      "9817": "southwest"
+    },
+    "timeto": {
+      "9812": 0.2,
+      "9817": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022008
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1176,
+      466,
+      1186,
+      476
+    ]
+  }
+}

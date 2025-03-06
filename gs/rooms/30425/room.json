@@ -1,0 +1,34 @@
+{
+  "checksum": "c0188ec06de795619d146a3d87d0da58",
+  "room": {
+    "id": 30425,
+    "title": [
+      "[Looter's Lair, Docks]"
+    ],
+    "description": [
+      "Built against the northern wall of the cavern is a sturdy dock crafted of thick, heavy timbers, which are covered with slick algae and tangled knots of seaweed.  Several boats are tied to the edge of the dock, while a long rough wooden ladder rises upon to its main platform.  Narrowing perceptively, the thin channel of water that leads further into the cave is blocked with large boulders, making passage via boat impossible."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "30424": "go boats",
+      "30426": "climb ladder"
+    },
+    "timeto": {
+      "30424": 0.2,
+      "30426": 0.2
+    },
+    "uid": [
+      3217402
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      966,
+      2607,
+      993,
+      2628
+    ]
+  }
+}

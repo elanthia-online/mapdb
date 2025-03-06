@@ -1,0 +1,26 @@
+{
+  "checksum": "dbca13dad0ec0919cba98698bb274061",
+  "room": {
+    "id": 23165,
+    "title": [
+      "[Halfway Midway, Carousel]"
+    ],
+    "description": [
+      "The carousel shudders from time to time, no more than the slight shiver of a slow gear or a momentary kink in the mechanics that twirl the massive ride ever onward.  Old carnival posters are stuck to the wooden floor between the slowly bobbing wooden carousel creatures, as well as the center column, their corners ripped and folded, some damaged beyond usefulness.  The glass globes on the lights overhead tink together occasionally, and the sound they create fits right in with the haunting melody of the carousel."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "23166": "southeast",
+      "23171": "southwest",
+      "23173": "/rooms/23165/wayto/stringproc-23173.rb"
+    },
+    "timeto": {
+      "23166": 0.2,
+      "23171": 0.2,
+      "23173": 0.2
+    }
+  }
+}

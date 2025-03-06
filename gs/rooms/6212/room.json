@@ -1,0 +1,64 @@
+{
+  "checksum": "aac8284729e67bc06d7e2d3692799483",
+  "room": {
+    "id": 6212,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "The path continues through the darkness via a series of statue-flanked arches.  Each statue rests atop a sturdy stone pedestal and depicts a well-armed human soldier with a bull's head.  The arches are etched with runes, though their meanings have been lost to time."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6211": "/rooms/6212/wayto/stringproc-6211.rb",
+      "6213": "/rooms/6212/wayto/stringproc-6213.rb",
+      "6214": "/rooms/6212/wayto/stringproc-6214.rb",
+      "6215": "/rooms/6212/wayto/stringproc-6215.rb",
+      "6216": "/rooms/6212/wayto/stringproc-6216.rb",
+      "6217": "/rooms/6212/wayto/stringproc-6217.rb",
+      "6218": "/rooms/6212/wayto/stringproc-6218.rb",
+      "6219": "/rooms/6212/wayto/stringproc-6219.rb",
+      "6220": "/rooms/6212/wayto/stringproc-6220.rb"
+    },
+    "timeto": {
+      "6211": 0.5,
+      "6213": 0.5,
+      "6214": 0.5,
+      "6215": 0.5,
+      "6216": 0.5,
+      "6217": 0.5,
+      "6218": 0.5,
+      "6219": 0.5,
+      "6220": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167091
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      761,
+      602,
+      779,
+      620
+    ]
+  }
+}

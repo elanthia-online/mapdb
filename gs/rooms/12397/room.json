@@ -1,0 +1,45 @@
+{
+  "checksum": "d9a25b36edc50bb1bd951d7853a48a9f",
+  "room": {
+    "id": 12397,
+    "title": [
+      "[Pig Puddle Lane, Gate]"
+    ],
+    "description": [
+      "The gateway into Pig Puddle Lane is more a bunch of old planks leaning up against each other.  They creak and sway a bit with every breeze, and most people hurry under them with a cautious glance upward.  A halfling boy astride his pet goat regards the scene with a yawn."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1874": "go gate",
+      "12398": "north",
+      "12402": "northeast",
+      "12407": "northwest"
+    },
+    "timeto": {
+      "1874": 0.2,
+      "12398": 0.2,
+      "12402": 0.2,
+      "12407": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703301
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      569,
+      943,
+      587,
+      961
+    ]
+  }
+}

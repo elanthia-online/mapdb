@@ -1,0 +1,44 @@
+{
+  "checksum": "7e683bf0cc8cd5adc4083af7e4a787e6",
+  "room": {
+    "id": 11880,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "A side tunnel basically extends nowhere here.  Perhaps it was slated to be a future aqueduct to another part of the city, or just to provide a well for something overhead that ended up not needing a well.  The reason is lost in history, and the unmoving, emerald water provides no clue.  The eastern wall has crumbled away, though, to reveal a high breach.  The sound of rapidly flowing water comes from the other side of the breach."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11872": "go breach",
+      "11881": "northwest"
+    },
+    "timeto": {
+      "11872": 0.2,
+      "11881": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003030
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1188,
+      1043,
+      1198,
+      1053
+    ]
+  }
+}

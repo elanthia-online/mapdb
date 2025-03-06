@@ -1,0 +1,47 @@
+{
+  "checksum": "fa647bb53a4e69fa25e1fbef639931c8",
+  "room": {
+    "id": 6400,
+    "title": [
+      "[Blackened Cave, Cavern]"
+    ],
+    "description": [
+      "Though the cavern is dark and shadowy, you can see some claw-marks etched deeply into the walls.  A dank, musky smell hangs heavily in the air, and you have to really concentrate not to cough.  Who knows what kind of beasts might be attracted by the sound and the poor soul making it?  Judging by the size of the claw-marks, it is probably best to be a bit cautious."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6396": "southeast",
+      "6399": "northeast"
+    },
+    "timeto": {
+      "6396": 0.2,
+      "6399": 0.2
+    },
+    "tags": [
+      "fire rat",
+      "fire cat",
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "cave moss",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "striped warcat",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      92125
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      373,
+      502,
+      383,
+      512
+    ]
+  }
+}

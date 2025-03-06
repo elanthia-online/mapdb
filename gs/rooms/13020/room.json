@@ -1,0 +1,42 @@
+{
+  "checksum": "7dd1cd6c182fd31402d9b343100fe44e",
+  "room": {
+    "id": 13020,
+    "title": [
+      "[Bonespear Tower, Secret Passage]"
+    ],
+    "description": [
+      "Whatever disaster that might have befallen the rest of the tower clearly missed this area.  The structure within this hidden passage is made of the same crushed bone as the rest of the edifice, but it and the rest of this hallway is undamaged.  This small tunnel was well hidden from intruders."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "5427": "out",
+      "13021": "north"
+    },
+    "timeto": {
+      "5427": 0.2,
+      "13021": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319113
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1101,
+      1096,
+      1111,
+      1106
+    ]
+  }
+}

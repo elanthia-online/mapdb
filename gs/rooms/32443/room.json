@@ -1,0 +1,41 @@
+{
+  "checksum": "8c1f05c37e562a2fbbcafb3e9f66a27e",
+  "room": {
+    "id": 32443,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "Guarded by unyielding walls of dark basalt and a heavy steel portcullis, the castle yard is shielded from the sounds of the outside world and the highland gale.  A flagstone path proceeds eastward, cut from the same material as the walls.  It winds past empty horse troughs and several disused hitching posts that are green with a thick coating of moss."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32442": "go port",
+      "32444": "east"
+    },
+    "timeto": {
+      "32442": 0.2,
+      "32444": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577107
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      563,
+      769,
+      581,
+      787
+    ]
+  }
+}

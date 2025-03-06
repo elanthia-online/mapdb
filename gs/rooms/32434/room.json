@@ -1,0 +1,41 @@
+{
+  "checksum": "4f4f0b64ab413bbfdd6d86b1922c3dab",
+  "room": {
+    "id": 32434,
+    "title": [
+      "[Moonsedge, Dirge Bend]"
+    ],
+    "description": [
+      "The menacing shadow of a guard tower looms over Dirge Row as it bends toward Scarlet Road.  Four stone perches adorn the tower's rounded walls toward its upper reaches.  Three are occupied by hideous grotesques of carved rock, the statues winged and horned.  The fourth is cracked and empty, but there is no sign of its missing occupant on the paving stones below."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32432": "northwest",
+      "32435": "south"
+    },
+    "timeto": {
+      "32432": 0.2,
+      "32435": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577014
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      563,
+      222,
+      581,
+      245
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "125a2419b66fb9da9a74ff545ed21b80",
+  "room": {
+    "id": 6485,
+    "title": [
+      "[Huge Cavern]"
+    ],
+    "description": [
+      "The floor of this huge featureless cavern is covered with clean white sand.  Wisps of steam rise off a small underground pool nearby.  Bright luminescent mosses and lichens cling to walls of the cavern, providing a dim but steady light.  Far to the west end of the cavern, you can see what looks like a massive stone structure."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6484": "go pool",
+      "6486": "west"
+    },
+    "timeto": {
+      "6484": 0.2,
+      "6486": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      95154
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      421,
+      1005,
+      431,
+      1015
+    ]
+  }
+}

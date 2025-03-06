@@ -1,0 +1,35 @@
+{
+  "checksum": "333ae2d88061b3921246d7323e101323",
+  "room": {
+    "id": 25371,
+    "title": [
+      "[Delirium Manor, Basement]"
+    ],
+    "description": [
+      "The foul aroma of decay mingles with the heavy, earthy scent of the loose, moist soil underfoot, permeating the area with a nauseating stench.  Some small objects are scattered about, though hard to discern distinctly in the dim available light.  Some rest atop the soil, some poke out from beneath, and still others have been swept into small piles.  Small mounds of loosely packed dirt make the footing disturbingly treacherous.",
+      "The foul aroma of decay mingles with the heavy, earthy scent of the loose, moist soil underfoot, permeating the area with a nauseating stench.  Some small objects are scattered about, though hard to discern distinctly in the dim available light.  Some rest atop the soil, some poke out from beneath, and still others have been swept into small piles."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south",
+      "Obvious exits: north, east, south, west",
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25368": "north",
+      "25372": "south",
+      "34021": "east"
+    },
+    "timeto": {
+      "25368": 0.2,
+      "25372": 0.2,
+      "34021": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100070
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "6ae36e4c4f615cb2cc87b9bc5102a19c",
+  "room": {
+    "id": 7655,
+    "title": [
+      "[Sea Cave, Narrow Tunnel]"
+    ],
+    "description": [
+      "The damp walls of this confining tunnel are of grey and pitted stone.  The rough floor descending westward at a steep pitch makes walking a chore.  Amongst the eerie, near-silent sounds echoing about the caves, you hear an underlying thrumming noise coming from the west."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7654": "east",
+      "7656": "west"
+    },
+    "timeto": {
+      "7654": 0.2,
+      "7656": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84401
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      1096,
+      385,
+      1106,
+      395
+    ]
+  }
+}

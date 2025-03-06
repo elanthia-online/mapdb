@@ -1,0 +1,41 @@
+{
+  "checksum": "ced0936b690760474f915fb7464952a7",
+  "room": {
+    "id": 32765,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "A faint light trickles in through the cracks in the ceiling, as the tunnel continues to drop.  In the distance, you can hear the faint scratching sounds of vermin being about their business."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3937": "northeast",
+      "7512": "southwest"
+    },
+    "timeto": {
+      "3937": 0.2,
+      "7512": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2134200
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      558,
+      516,
+      566,
+      526
+    ]
+  }
+}

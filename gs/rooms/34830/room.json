@@ -1,0 +1,27 @@
+{
+  "checksum": "c5aac222203067a40b50540f104bf44e",
+  "room": {
+    "id": 34830,
+    "title": [
+      "[Tanglemist Path, Glade]"
+    ],
+    "description": [
+      "Thick woods open into a small glade of moss, grass, and wildflowers.  A well-worn path curves to the west, while a smaller, winding trail leads deeper into the trees."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "34829": "west",
+      "34831": "go winding trail"
+    },
+    "timeto": {
+      "34829": 0.2,
+      "34831": 0.2
+    },
+    "uid": [
+      8089032
+    ]
+  }
+}

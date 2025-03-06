@@ -1,0 +1,40 @@
+{
+  "checksum": "4e3732eee6f581f7a681e08221d13841",
+  "room": {
+    "id": 17152,
+    "title": [
+      "[Ariebaela's Archery Nook]"
+    ],
+    "description": [
+      "Located at the back of the shop adjacent to a carved wooden counter, a thick, leather-bound tome rests in the seat of a rocking chair.  Draped across the back of the rocker is a forest green lap blanket made of thick wool.  Fluttering from the open window of the cottage are delicate silk curtains embroidered with crossbows, arrows, and bolts in iridescent thread.  The gentle breeze causes wood shavings to scatter across the floor of the otherwise pristine shop."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "9688": "out",
+      "30717": "/rooms/17152/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "9688": 0.2,
+      "30717": "/rooms/17152/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin guide fletcher",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      14051041
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      529,
+      893,
+      554,
+      916
+    ]
+  }
+}

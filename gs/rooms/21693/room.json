@@ -1,0 +1,31 @@
+{
+  "checksum": "566f88588fe54bab897011f2e9ac488d",
+  "room": {
+    "id": 21693,
+    "title": [
+      "[ShadowGuard, West Courtyard]"
+    ],
+    "description": [
+      "Though dead and withered, the crisp clean lines of the formal gardens are still clearly visible.  Bright white pebbled walkways cut a sinuous pattern through the decaying flora winding their way around the cathedral to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21690": "southeast",
+      "21694": "go tower",
+      "21697": "northeast",
+      "21699": "east"
+    },
+    "timeto": {
+      "21690": 0.2,
+      "21694": 0.2,
+      "21697": 0.2,
+      "21699": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

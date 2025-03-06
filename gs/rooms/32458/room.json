@@ -1,0 +1,37 @@
+{
+  "checksum": "99d90596d127b99880ae546c8cb73274",
+  "room": {
+    "id": 32458,
+    "title": [
+      "[Moonsedge Castle, Dungeons]"
+    ],
+    "description": [
+      "Seated in a brass candleholder, a candle burns atop an elmwood desk positioned by the door leading out of the dungeons.  Feeble and flickering, the light just barely manages to hold back the oppressive weight of the gloom that roosts in the castle's dungeons.  The sweetness of its beeswax does little to hide the stench of death and rot wafting from the cells proceeding into the darkness."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32457": "go door",
+      "32490": "west"
+    },
+    "timeto": {
+      "32457": 0.2,
+      "32490": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577207
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      986,
+      706,
+      1011,
+      729
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "b2e705fef590b4a8a6ab69a2c6f56677",
+  "room": {
+    "id": 33906,
+    "title": [
+      "[Nielira Harbor Bank]"
+    ],
+    "description": [
+      "A wide mural of Nielira Harbor engulfs the back wall of the establishment, the watercolored parchment covered in strokes of ink indicating points of interest.  Heartleaf curtains a glass-encased booth nestled in the far corner of the area, the exchange carefully watched by a trio of guards standing by a ceiling-high cabinet of labeled drawers.  Charcoal-drawn sketches of tall-masted vessels encircle a lacquered haon door, the entry revealing a long corridor filled with the scent of aged vellum."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33862": "out",
+      "33907": "go door",
+      "33908": "go glass booth",
+      "33909": "east"
+    },
+    "timeto": {
+      "33862": 0.2,
+      "33907": 0.2,
+      "33908": 0.2,
+      "33909": 0.2
+    },
+    "tags": [
+      "bank"
+    ],
+    "uid": [
+      14150500
+    ]
+  }
+}

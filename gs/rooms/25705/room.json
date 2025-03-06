@@ -1,0 +1,41 @@
+{
+  "checksum": "c88aa114df411e2105b83e760f755b11",
+  "room": {
+    "id": 25705,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Moonlight reflects off the gently rolling waves of the harbor, its silvery light glittering like thousands of winking jewels on the cerulean surface.  Beneath the waves, orange and white coral forms a thin ridge that follows the curves of the nearby island."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25704": "/rooms/25705/wayto/stringproc-25704.rb",
+      "25706": "/rooms/25705/wayto/stringproc-25706.rb",
+      "25730": "/rooms/25705/wayto/stringproc-25730.rb"
+    },
+    "timeto": {
+      "25704": 6,
+      "25706": 6,
+      "25730": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223876
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1841,
+      1839,
+      1860,
+      1858
+    ]
+  }
+}

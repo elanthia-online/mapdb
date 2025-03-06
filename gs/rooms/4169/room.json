@@ -1,0 +1,51 @@
+{
+  "checksum": "259c9dd03c833e1077894bc1b61ea9e8",
+  "room": {
+    "id": 4169,
+    "title": [
+      "[Hall of the Dead, Debtors Vault]"
+    ],
+    "description": [
+      "The neatness of the crypt is gone and so is the formality shown the dead.  Most bodies are dumped, two and three at a time, into the slots.  The stench of rotting flesh is very heavy and you take in short shallow breaths in hopes of not being overwhelmed by the stench."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4168": "east",
+      "4170": "west",
+      "16798": "south",
+      "16802": "north"
+    },
+    "timeto": {
+      "4168": 0.2,
+      "4170": 0.2,
+      "16798": 0.2,
+      "16802": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138106
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      940,
+      839,
+      950,
+      849
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "1543063d49667f4774daecf991e2adcd",
+  "room": {
+    "id": 12395,
+    "title": [
+      "[Dragonspine and Golvern]"
+    ],
+    "description": [
+      "A troupe of dwarven musicians entertains the crowds at this busy intersection.  The dwarves gathered around clap appreciatively, some singing along in clamorous, off-key voices.  Other dwarves wander by about their business, many headed to or from the town gates to the north.  One huffs and puffs with a large wheelbarrow full of rocks."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1944": "south",
+      "1956": "north",
+      "12394": "east",
+      "12396": "west"
+    },
+    "timeto": {
+      "1944": 0.2,
+      "1956": 0.2,
+      "12394": 0.2,
+      "12396": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001037
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1041,
+      344,
+      1071,
+      374
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "13b62c2cc4ce527ae55931fa416613b1",
+  "room": {
+    "id": 8266,
+    "title": [
+      "[Wolves' Den, Stairway]"
+    ],
+    "description": [
+      "The stairs are steep and narrow, winding their way down into shadow.  A steady, chill draft blows up from below."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8265": "up",
+      "8267": "down"
+    },
+    "timeto": {
+      "8265": 0.2,
+      "8267": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390041
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      186,
+      563,
+      196,
+      573
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "c617748b7fb7c49c148b688b98cce07a",
+  "room": {
+    "id": 6885,
+    "title": [
+      "[Abandoned Inn, Sitting Room]"
+    ],
+    "description": [
+      "Comfortable couches, divans, and chairs sit in a comfortable pattern about the room, just the right space apart for casual conversation.  Filmy curtains billow around an open window, and the soft sound of windchimes fills the air.  A large loom sits in one corner, holding a half-finished tapestry."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6863": "west",
+      "6886": "go door"
+    },
+    "timeto": {
+      "6863": 0.2,
+      "6886": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21136
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      839,
+      1431,
+      849,
+      1441
+    ]
+  }
+}

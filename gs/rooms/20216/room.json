@@ -1,0 +1,24 @@
+{
+  "checksum": "2e18ba6b9c223a900735a642ab359c12",
+  "room": {
+    "id": 20216,
+    "title": [
+      "[The Secluded Smith, Entryway]"
+    ],
+    "description": [
+      "Sunlight shines down through the circular opening in the top of the tent, casting bright illumination upon a massive portable anvil resting in the center of the area.  Pulled back at the edge, the flap to the east is secured by a dagger, while the one to the west features a flamberge."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20217": "west",
+      "20218": "east"
+    },
+    "timeto": {
+      "20217": 0.2,
+      "20218": 0.2
+    }
+  }
+}

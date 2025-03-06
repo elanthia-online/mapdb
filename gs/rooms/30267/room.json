@@ -1,0 +1,45 @@
+{
+  "checksum": "419a8f4cf19a37b73d2be317b851fd62",
+  "room": {
+    "id": 30267,
+    "title": [
+      "[Enemy Ship, Helm]"
+    ],
+    "description": [
+      "A strong sea breeze rushes through, turning a wheel slightly off course.  A Capstan  sits scuffed and worn from repeated use.  Down a short flight of stairs, a pair of sconces brighten the area around a wooden door leading to the captains quarters."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "30266": "east",
+      "30268": "go door"
+    },
+    "timeto": {
+      "30266": 0.2,
+      "30268": 0.2
+    },
+    "tags": [
+      "enemy carrack",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120002,
+      7120014,
+      7120026,
+      7120038,
+      7120050,
+      7120062,
+      7120074
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      764,
+      571,
+      778,
+      585
+    ]
+  }
+}

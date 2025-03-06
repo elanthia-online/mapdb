@@ -1,0 +1,53 @@
+{
+  "checksum": "dc48ce66b5ce401e6b89dc34513fbbc2",
+  "room": {
+    "id": 10846,
+    "title": [
+      "[River's Rest, Merchants' Walk]"
+    ],
+    "description": [
+      "The swift sound of rushing water is barely audible for the shops which nestle along the riverbank.  Sturdily built to withstand the elements, Felinium's Fur Emporium, Diamante's Gemshop and Hortinger's Armory stand open to those with silver to spare.  The flow of traffic thins to the east, although many who leave the shops here continue on that way, most with smiles but a few grumbling about thieves.  The sound of laughter occasionally drifts in from the north."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10840": "west",
+      "10847": "southeast",
+      "10850": "east",
+      "10851": "northeast",
+      "10934": "go emporium",
+      "10935": "go gemshop",
+      "10937": "go door",
+      "10939": "go tent"
+    },
+    "timeto": {
+      "10840": 0.2,
+      "10847": 0.2,
+      "10850": 0.2,
+      "10851": 0.2,
+      "10934": 0.2,
+      "10935": 0.2,
+      "10937": 0.2,
+      "10939": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101009
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2606,
+      1160,
+      2644,
+      1199
+    ]
+  }
+}

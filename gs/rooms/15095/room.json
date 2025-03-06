@@ -1,0 +1,34 @@
+{
+  "checksum": "8f5276a8298492400334f63f695f665d",
+  "room": {
+    "id": 15095,
+    "title": [
+      "[Saesa's Weaponry]",
+      "[Saesa's General Store]",
+      "[Saesa's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a skylight-set golden oak beam ceiling, a colorful silk healing herb chart hangs on one of the golden oak-paneled walls.  A series of golden oak shelves and a sunset red silk-covered table sit in opposite corners while a woven sunset red tasseled rug rests on a polished golden oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "363": "out",
+      "15389": "west",
+      "15390": "east"
+    },
+    "timeto": {
+      "363": 0.2,
+      "15389": 0.2,
+      "15390": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      632049
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "17773661e2f8a33784e60ac7611edce2",
+  "room": {
+    "id": 1869,
+    "title": [
+      "[Copper Avenue]"
+    ],
+    "description": [
+      "A low cloud of soot covers everything in a dark, sulphurous haze.  A large stone building belches smoke.  Hooves clattering against the cobbles, a line of burros pull small wooden carts from the south.  The carts are piled high with lumps of glaes ore.  Scowling and cursing, the drovers urge their charges onward with the heavy load.  The burros glare right back at the dwarves."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1868": "north",
+      "1870": "south"
+    },
+    "timeto": {
+      "1868": 0.2,
+      "1870": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002032
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      290,
+      1013,
+      326,
+      1049
+    ]
+  }
+}

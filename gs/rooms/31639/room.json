@@ -1,0 +1,36 @@
+{
+  "checksum": "90fa6320ff2145f3ea468d7a77954cef",
+  "room": {
+    "id": 31639,
+    "title": [
+      "[Wrencrest Rookery, Hallway]"
+    ],
+    "description": [
+      "Faded sketches of charcoal-drawn avians cover the peeling walls, the strips of emerald exposing a bare framework of stone and wood stained in ichor.  A faint haze of ghostly white smoke trickles from beneath a narrow door, intermingling with the scent of roasting meat wafting on the other side of the hall through a doublewide archway.  Curtains of black devore velvet frame either side of a lasimor-framed doorway, the fabric restrained by circular wreaths of dried florals, the withered petals scattered across the floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31609": "south",
+      "31640": "go doublewide doorway",
+      "31641": "go doublewide archway",
+      "31643": "go narrow door"
+    },
+    "timeto": {
+      "31609": 0.2,
+      "31640": 0.2,
+      "31641": 0.2,
+      "31643": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084047
+    ]
+  }
+}

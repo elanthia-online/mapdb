@@ -1,0 +1,55 @@
+{
+  "checksum": "2e344fef8dcc9f45298c4ee2e35fe701",
+  "room": {
+    "id": 8197,
+    "title": [
+      "[Sea Caverns]"
+    ],
+    "description": [
+      "Small footprints cover the floor of this large, round cavern.  Grunts, squeals and high-pitched squeaks echo down the passages leading out.  In the center of the room are the ashes of a small fire pit."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8195": "north",
+      "8198": "east",
+      "8212": "west",
+      "8214": "south"
+    },
+    "timeto": {
+      "8195": 0.2,
+      "8198": 0.2,
+      "8212": 0.2,
+      "8214": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "murdroot",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391004
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      435,
+      104,
+      445,
+      114
+    ]
+  }
+}

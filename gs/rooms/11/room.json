@@ -1,0 +1,44 @@
+{
+  "checksum": "d7cb7522e2a78bf1c89c0d767bccd0ed",
+  "room": {
+    "id": 11,
+    "title": [
+      "[United Bank of City-States]"
+    ],
+    "description": [
+      "Rich wine-hued brocade draperies cover the walls of the small teller's room, leaving one to wonder who might be watching from behind.  The rich blue carpeting underfoot muffles the sound of movement as patrons conduct their business in hushed tones and move back out into the lobby.  The teller sits behind a tall counter, flanked by two elven guards."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9": "out",
+      "30714": "/rooms/11/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "9": 0.2,
+      "30714": "/rooms/11/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "bank",
+      "urchin-access",
+      "urchin guide bank",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13103004
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      576,
+      404,
+      598,
+      426
+    ]
+  }
+}

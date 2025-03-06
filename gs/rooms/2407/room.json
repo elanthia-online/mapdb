@@ -1,0 +1,50 @@
+{
+  "checksum": "19877b59ebe2f8b9219307c8d0e28d7c",
+  "room": {
+    "id": 2407,
+    "title": [
+      "[Tavern Burrow, Ale Street]",
+      "[Tavern Burrow, Thirsty Penguin]"
+    ],
+    "description": [
+      "Arms slung companionably over one another's shoulders, a group of halflings enters the Thirsty Penguin.  A mother cat rests on the broad stone step.  From beyond the swinging doors come the sounds of clinking mugs and hearty laughter.",
+      "Arms slung casually over one another's shoulders, a group of halflings enters the Thirsty Penguin.  A mother cat rests on the broad stone step, consenting to the occasional caress but flicking her tail in warning at the approach of strangers.  From beyond the swinging doors come the sounds of clinking mugs and hearty laughter.",
+      "An occasional halfling walks out of the darkened cold to enter the Thirsty Penguin.  A mother cat rests on the broad stone step, sleeping in the warmth that spills through the swinging doors."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2400": "south",
+      "2404": "southwest",
+      "2408": "east",
+      "3232": "north",
+      "3426": "go doors"
+    },
+    "timeto": {
+      "2400": 0.2,
+      "2404": 0.2,
+      "2408": 0.2,
+      "3232": 0.2,
+      "3426": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042213
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      406,
+      875,
+      442,
+      911
+    ]
+  }
+}

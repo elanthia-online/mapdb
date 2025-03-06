@@ -1,0 +1,32 @@
+{
+  "checksum": "7221d76b02ea8589944d8bca2f9398e3",
+  "room": {
+    "id": 18395,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "The area opens up here, a large opening breaking the line of buildings and houses, and a well-trodden path leads through the opening.  Looking down between the buildings, a field opens up beyond the short meadow walk of the path."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18391": "northwest",
+      "18396": "go cottage",
+      "18430": "southeast",
+      "18432": "southwest"
+    },
+    "timeto": {
+      "18391": 0.2,
+      "18396": 0.2,
+      "18430": 0.2,
+      "18432": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

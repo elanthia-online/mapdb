@@ -1,0 +1,54 @@
+{
+  "checksum": "3e3cab2d535d90ccf0f0825ec050f4c6",
+  "room": {
+    "id": 8420,
+    "title": [
+      "[Thanatoph Bowels, Cavern]"
+    ],
+    "description": [
+      "The path is flat and level here, the only obstructions being a few fallen stalactites.  A look up reveals that the ceiling is covered with these spearlike stones, hopefully firmly attached.  The constant vibrations rumbling through the area are not reassuring in the least."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the bowels of Thanatoph",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8419": "south",
+      "8421": "west",
+      "8428": "east",
+      "8429": "go bridge"
+    },
+    "timeto": {
+      "8419": 0.2,
+      "8421": 0.2,
+      "8428": 0.2,
+      "8429": 0.2
+    },
+    "tags": [
+      "some wingstem root",
+      "some wolifrew lichen",
+      "some cave moss",
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4293048
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      1258,
+      665,
+      1268,
+      675
+    ]
+  }
+}

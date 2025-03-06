@@ -1,0 +1,43 @@
+{
+  "checksum": "2e7f78f84d80b312a7d040efcafa9858",
+  "room": {
+    "id": 23663,
+    "title": [
+      "[Tanglevine Hall, Entry]"
+    ],
+    "description": [
+      "Placed to the side of the entrance, a suit of plate armor stands guard, while on the opposite side, a small gold plaque is affixed to the wall.  Hanging from bronze chains, a chandelier holds dozens of lit candles, their flickering lights illuminating the granite floor and the sandwich-board sign resting on it.  The room splits in two northerly directions, with short hallways that lead deeper into the structure, and between them a narrow flight of stairs heads up to the next floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23662": "go entrance",
+      "23664": "go stairs",
+      "23688": "northwest",
+      "23691": "northeast"
+    },
+    "timeto": {
+      "23662": 0.2,
+      "23664": 0.2,
+      "23688": 0.2,
+      "23691": 0.2
+    },
+    "tags": [
+      "warrior guild administrator",
+      "warrior guild floor",
+      "warrior guild armor"
+    ],
+    "uid": [
+      255037
+    ],
+    "image": "ifw-Warrior Guild.jpg",
+    "image_coords": [
+      335,
+      486,
+      359,
+      509
+    ]
+  }
+}

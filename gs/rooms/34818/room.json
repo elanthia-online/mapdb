@@ -1,0 +1,31 @@
+{
+  "checksum": "e60656a3ab17500bddbd74ff8c1695ef",
+  "room": {
+    "id": 34818,
+    "title": [
+      "[Witch's Cottage]"
+    ],
+    "description": [
+      "Wispy tendrils of fragrant smoke unfurl from sticks of incense on a stand beside a feather bed.  Sturdy chairs, hand-carved in botanical themes, surround an aged oak table centered in the humble abode.  Perched atop the table rests an assortment of glass-paned lanterns, some cradling flitting will-o-wisps within their clear embrace, others with tiny doors ajar, awaiting new inhabitants to brighten the home.  In contrast to a tall witchwood door at the front entry, a tiny exit, looking suspiciously like a mousehole, leads out the back."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "34865": "go door",
+      "34869": "go mousehole"
+    },
+    "timeto": {
+      "34865": 0.2,
+      "34869": 0.2
+    },
+    "tags": [
+      "witchhut",
+      "witchhunt"
+    ],
+    "uid": [
+      8086509
+    ]
+  }
+}

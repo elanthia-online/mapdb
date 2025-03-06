@@ -1,0 +1,37 @@
+{
+  "checksum": "a923ec32ba56c3ac9a6514b24dac6fa4",
+  "room": {
+    "id": 28286,
+    "title": [
+      "[Ta'Vaalor Hall, Grand Gallery]"
+    ],
+    "description": [
+      "The high vaulted ceiling, with its inset panes of thick tinted glass, allows muted sunlight to stream into the room far below.  The floor is made of polished black granite with a wide red carpet stretching down the center of the entire room.  Gold sconces are mounted on the massive marble support columns.  Grand paintings and portraits, in keeping with the scale of the room, hang on the walls.  Twin flights of stairs rise to the east and west of a large equestrian portrait at the far end of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "13522": "go door",
+      "28285": "northwest",
+      "28287": "go west staircase",
+      "28289": "go east staircase",
+      "28291": "northeast"
+    },
+    "timeto": {
+      "13522": 0.2,
+      "28285": 0.2,
+      "28287": 0.2,
+      "28289": 0.2,
+      "28291": 0.2
+    },
+    "tags": [
+      "mho hall clerk",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      857004
+    ]
+  }
+}

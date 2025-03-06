@@ -1,0 +1,54 @@
+{
+  "checksum": "f6bf4a9b8119bffa9be33a49f1493be6",
+  "room": {
+    "id": 2408,
+    "title": [
+      "[Tavern Burrow, Stout Street]"
+    ],
+    "description": [
+      "A jumble of boxes is piled at the base of a tall evergreen hedge where Stout Street meets Barley Lane.  Soft mewing from one of the boxes is almost obscured by the muffled drumbeats, soft arpeggios, and muted voices lifted in song at nearby taverns.  A gap in the hedge leads through a split-rail fence into the courtyard beyond.  The fence and hedge end at the corner of the property, where an easily overlooked side door serves as a side entrance to a nondescript building.",
+      "A jumble of boxes is piled against a tall evergreen hedge where Stout Street ends at Barley Lane.  Soft mewing from one of the boxes mingles with the sound of muffled drumbeats, soft arpeggios, and muted voices lifted in song.  A gap in the hedge leads through the split-rail fence into the courtyard beyond.  The fence and hedge end at the corner of the property, where an easily-overlooked door leads into the side of a non-descript low building."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2302": "east",
+      "2407": "west",
+      "3429": "south",
+      "3461": "go gap",
+      "22105": "go door",
+      "30709": "/rooms/2408/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2302": 0.2,
+      "2407": 0.2,
+      "3429": 0.2,
+      "3461": 0.2,
+      "22105": 0.2,
+      "30709": "/rooms/2408/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "calmintha flower",
+      "urchin guide bardguild",
+      "urchin-access",
+      "bardguild",
+      "bard guild",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042212
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      494,
+      874,
+      530,
+      910
+    ]
+  }
+}

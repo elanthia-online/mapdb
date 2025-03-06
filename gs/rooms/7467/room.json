@@ -1,0 +1,39 @@
+{
+  "checksum": "b1a0bc0ed61056f714f9ac251a8f26e4",
+  "room": {
+    "id": 7467,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The irregular stone surfaces of the tunnel floor, walls and ceiling are smooth.  There are no jagged edges or sharp protrusions anywhere.  The floor of the tunnel seems as if it had been swept clean, there is no dirt or debris, no grit, no pebbles or loose rocks, large or small.  The only foreign substances you see anywhere are the occasional patches of glowing lichen that cast a pale, green light throughout the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7465": "/rooms/7467/wayto/stringproc-7465.rb",
+      "7468": "/rooms/7467/wayto/stringproc-7468.rb"
+    },
+    "timeto": {
+      "7465": 0.2,
+      "7468": 0.2
+    },
+    "tags": [
+      "some cave moss",
+      "magru",
+      "some glowing green lichen"
+    ],
+    "uid": [
+      94010
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      835,
+      961,
+      845,
+      971
+    ]
+  }
+}

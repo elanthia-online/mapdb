@@ -1,0 +1,39 @@
+{
+  "checksum": "6407096f70dd02903f21102bb288c9da",
+  "room": {
+    "id": 17765,
+    "title": [
+      "[Warrior Guild, Miniature Garden]"
+    ],
+    "description": [
+      "The walkway comes to a quaint, arching wooden bridge that spans a rivulet upon which lilypads and water hyacinths float serenely.  Golden fishes swim to and fro in the waters, oblivious to the carefully engineered environment that surrounds them."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17764": "northwest",
+      "17766": "northeast",
+      "17786": "north"
+    },
+    "timeto": {
+      "17764": 0.2,
+      "17766": 0.2,
+      "17786": 0.2
+    },
+    "tags": [
+      "warrior guild leaves"
+    ],
+    "uid": [
+      250072
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      533,
+      493,
+      552,
+      512
+    ]
+  }
+}

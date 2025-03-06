@@ -1,0 +1,30 @@
+{
+  "checksum": "a8508c9fa656db7b62680b0c28d2dcd3",
+  "room": {
+    "id": 15192,
+    "title": [
+      "[Seamusian's Outfitting]",
+      "[Seamusian's Armory]"
+    ],
+    "description": [
+      "The broad sweep of the wooden floor is interrupted by a worn rug.  Halfway to the wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A glass-topped mistwood counter and a wicker basket are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "352": "out",
+      "15511": "west",
+      "15512": "east"
+    },
+    "timeto": {
+      "352": 0.2,
+      "15511": 0.2,
+      "15512": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "2a6fbc3e92acd6f93d00f8da9b85e838",
+  "room": {
+    "id": 24289,
+    "title": [
+      "[Ranger Guild, Workshop]"
+    ],
+    "description": [
+      "Skinning knives, axes and other tools hang on the wall.  Scraps of skins and dye litter the floor and a long workbench.  Heat blows in from the inside of the lodge, keeping it nice and warm for anyone who needs to work out here."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Icemule Ranger Guild",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24287": "go door",
+      "24291": "west"
+    },
+    "timeto": {
+      "24287": 0.2,
+      "24291": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      270008
+    ],
+    "image": "imt-rangerguild-v2.png",
+    "image_coords": [
+      189,
+      122,
+      208,
+      139
+    ]
+  }
+}

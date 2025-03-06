@@ -1,0 +1,104 @@
+{
+  "checksum": "e5214012c722a3d651cef4628070f9de",
+  "room": {
+    "id": 284,
+    "title": [
+      "[Town Square, Southwest]"
+    ],
+    "description": [
+      "This corner of the square seems somewhat subdued.  Townsfolk pass through on their way to the shops, the bazaar, or the main well at the center of the square.  Others hurry past, anxious to get home or go on about their business."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "228": "northeast",
+      "282": "east",
+      "285": "north",
+      "288": "south",
+      "289": "west",
+      "3668": "/rooms/284/wayto/stringproc-3668.rb",
+      "7983": "go cobblestone walkway",
+      "8632": "go wood-sided shop",
+      "26905": "/rooms/284/wayto/stringproc-26905.rb",
+      "31558": "/rooms/284/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "228": 0.2,
+      "282": 0.2,
+      "285": 0.2,
+      "288": 0.2,
+      "289": 0.2,
+      "3668": "/rooms/284/timeto/stringproc-3668.rb",
+      "7983": 0.2,
+      "8632": 0.2,
+      "26905": 2400,
+      "31558": "/rooms/284/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "small daisy",
+      "pepperthorn root",
+      "wild carrot",
+      "small rose",
+      "small wild rose",
+      "small flower",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "ginger root",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "white baneberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:teleport:fwi",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "meta:forage-sensed",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2022-11",
+      "meta:teleport",
+      "juniper berry",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "brown potato",
+      "agave heart",
+      "meta:fwi:teleport",
+      "purple potato",
+      "round grumbleberry",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "off-white parsnip",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      7046
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      198,
+      877,
+      234,
+      913
+    ]
+  }
+}

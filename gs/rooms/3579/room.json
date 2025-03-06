@@ -1,0 +1,39 @@
+{
+  "checksum": "ac3782d4db53a4c3897353c862b62425",
+  "room": {
+    "id": 3579,
+    "title": [
+      "[Stronghold, Entry]"
+    ],
+    "description": [
+      "Tall stone walls enclose a courtyard, its floor composed of the same huge rock slabs.  The ramparts circle the area and connect to the mountain's side, out of which a monstrous stronghold has been hewn.  Dust drifts across the open space in clouds driven by gusts of wind.  Its soft susurrus underlies an eerie stillness, which reigns over the ancient fortification."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Stone Valley",
+    "wayto": {
+      "3578": "go doors",
+      "3580": "go arch"
+    },
+    "timeto": {
+      "3578": 0.2,
+      "3580": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4292001
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      402,
+      464,
+      412,
+      474
+    ]
+  }
+}

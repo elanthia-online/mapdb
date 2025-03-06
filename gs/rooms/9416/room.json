@@ -1,0 +1,54 @@
+{
+  "checksum": "e28da8e77cd32b778ae611e51889ee06",
+  "room": {
+    "id": 9416,
+    "title": [
+      "[Zul Logoth, Chalcedony Tunnel]"
+    ],
+    "description": [
+      "Near the stone arch on the west wall, the floor looks much cleaner than in the rest of the tunnel, as if someone has recently scrubbed it.  Faded dark red stains are still evident in the granite, though.  Dwarves, some injured, enter through the arch.  None of those exiting display injuries of any type.  A brass sign hangs on the wall above the arch.  Low rumblings seem to come from somewhere down the southern tunnel accompanied by slight tremors."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9415": "northeast",
+      "9417": "south",
+      "9505": "go arch"
+    },
+    "timeto": {
+      "9415": 0.2,
+      "9417": 0.2,
+      "9505": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006023
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      601,
+      751,
+      637,
+      787
+    ]
+  }
+}

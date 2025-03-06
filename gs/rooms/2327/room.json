@@ -1,0 +1,44 @@
+{
+  "checksum": "18749e6eb5abd07ce46909f3e497bdc3",
+  "room": {
+    "id": 2327,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "Several large bushes grow against the walls of a small low-roofed shrine, their snow-covered forms displaying delicate icy blue rose blossoms.  The structure appears to be nearly frozen, its soft dappled pink and white walls visible underneath a glistening coat of thin ice.  Rounded doors of the same speckled hue lead into the small building, their surfaces engraved with whimsical designs.",
+      "Several large bushes grow against the walls of a small low-roofed shrine, their snow-covered forms displaying delicate icy blue rose blossoms.  The structure appears to be nearly frozen, its soft dappled pink and white walls visible underneath a coat of thin ice that shines softly in the moonlight.  Rounded doors of the same speckled hue lead into the small building, their surfaces engraved with whimsical designs."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2326": "northwest",
+      "15707": "go building",
+      "18651": "go shop"
+    },
+    "timeto": {
+      "2326": 0.2,
+      "15707": 0.2,
+      "18651": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      670012
+    ],
+    "image": "imt-cleric_guild-1275420218.png",
+    "image_coords": [
+      545,
+      471,
+      589,
+      515
+    ]
+  }
+}

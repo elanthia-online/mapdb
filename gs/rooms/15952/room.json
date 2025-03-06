@@ -1,0 +1,37 @@
+{
+  "checksum": "bafab43564a1fc18c85c191b82b3390c",
+  "room": {
+    "id": 15952,
+    "title": [
+      "[Paupers, Vault]"
+    ],
+    "description": [
+      "Light from several torches flickers over silver sconces fastened to the walls.  Legend has it that this heavily carpeted, soundproofed vault once successfully protected a king's ransom from an attempted siege by rampaging barbarians.  Few have attempted to breach the security of the members' steel-reinforced storage lockers in modern times, for tales of the consequences abound and are not for the faint of heart."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15951": "north",
+      "26917": "go opening"
+    },
+    "timeto": {
+      "15951": 0.2,
+      "26917": 0.2
+    },
+    "tags": [
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104409
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      623,
+      756,
+      706,
+      809
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "18612be361a15ba423951164a49c76a7",
+  "room": {
+    "id": 13490,
+    "title": [
+      "[Solhaven, Slipper Shop Landing]"
+    ],
+    "description": [
+      "An open doorway dressed up with blue silk drapes lets into the building above the Cobbler's Shop, the oversized slipper nailed to the door proclaiming it as a related business.  Sheltered by the overhanging roofs of both buildings, the landing is a quiet refuge from the noise and crowds of the street below."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13166": "go doorway",
+      "13489": "go stairs"
+    },
+    "timeto": {
+      "13166": 0.2,
+      "13489": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209110
+    ]
+  }
+}

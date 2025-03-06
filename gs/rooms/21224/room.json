@@ -1,0 +1,29 @@
+{
+  "checksum": "2f09cc4fe89792ad531dbad11a68c881",
+  "room": {
+    "id": 21224,
+    "title": [
+      "[Cymantha's Outfitting]"
+    ],
+    "description": [
+      "Beneath a viridian Vornavian silk ceiling, a sphere-hilted mounted sword plaque hangs on one of the plain wooden walls.  A brass treasure chest sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9012": "out",
+      "21227": "west",
+      "21228": "east"
+    },
+    "timeto": {
+      "9012": 0.2,
+      "21227": 0.2,
+      "21228": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

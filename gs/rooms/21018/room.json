@@ -1,0 +1,52 @@
+{
+  "checksum": "9136922813604b16c469d5c32574f1db",
+  "room": {
+    "id": 21018,
+    "title": [
+      "[Alhan'aht River, Torrent]"
+    ],
+    "description": [
+      "A strange mix of buzzing insects, calling birds, and rushing water permeates the entire vicinty, weaving through the thick, humid soup that can barely be called air.  Just off the viscously muddy and foliage-overridden river path, the water of the river rushes by in a small torrent, its current quite obviously strong as it splashes over small rocks in the midst of its journey.  An especially large, gnarled tree swoops up into the air and curves back down again over the water."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "humid",
+    "terrain": "riparian",
+    "wayto": {
+      "21001": "/rooms/21018/wayto/stringproc-21001.rb",
+      "21017": "/rooms/21018/wayto/stringproc-21017.rb",
+      "21062": "/rooms/21018/wayto/stringproc-21062.rb"
+    },
+    "timeto": {
+      "21001": 2,
+      "21017": 0.2,
+      "21062": 2
+    },
+    "tags": [
+      "acantha leaf",
+      "stalk of cattail",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "talneo root",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3210603
+    ],
+    "image": "ifw-wilds-1368242816.png",
+    "image_coords": [
+      920,
+      1381,
+      939,
+      1400
+    ]
+  }
+}

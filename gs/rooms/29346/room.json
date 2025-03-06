@@ -1,0 +1,39 @@
+{
+  "checksum": "fbd21f551848f86b36a4a6a1712c4a19",
+  "room": {
+    "id": 29346,
+    "title": [
+      "[Briarmoon Cove, Market Gates]"
+    ],
+    "description": [
+      "Wayfarers transporting an exotic cornucopia of wares drift in from the port area, narrowing outside a set of towering rosewood gates that are flanked by wandering street vendors.  The wintry mix underfoot is trampled to icy slush on the silvered cobblestones that pave the way towards a lively marketplace bedecked in tiny, jewel-colored lights."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "25441": "south",
+      "29347": "go structure",
+      "29348": "go booth",
+      "29349": "go birchwood store",
+      "29351": "go white wagon",
+      "29353": "go gate"
+    },
+    "timeto": {
+      "25441": 0.2,
+      "29347": 0.2,
+      "29348": 0.2,
+      "29349": 0.2,
+      "29351": 0.2,
+      "29353": 0.2
+    },
+    "image": "fest-briarmoon_cove-2020-v3.png",
+    "image_coords": [
+      458,
+      600,
+      480,
+      622
+    ]
+  }
+}

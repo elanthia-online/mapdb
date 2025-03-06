@@ -1,0 +1,49 @@
+{
+  "checksum": "cceef164644afd0996b28690019a009f",
+  "room": {
+    "id": 1481,
+    "title": [
+      "[Solhaven, Liabo Plaza]"
+    ],
+    "description": [
+      "Easily as large as the entire North Market, the plaza is paved with a spiral pattern of alternating terra-cotta and golden-yellow bricks.  On the eastern edge of the plaza stands an ornate, white limestone arch, and beyond it the brick-paved avenue stretches toward Vornavis' towering west wall.  A steady mix of merchants, artisans, and clerics pass through the arch in both directions.",
+      "Easily as large as the entire North Market, the plaza is paved with a spiral pattern of alternating terra-cotta and golden-yellow bricks.  On the eastern edge of the plaza stands an ornate, pale limestone arch, and beyond it the brick-paved avenue stretches toward Vornavis' towering west wall.  A steady mix of merchants, artisans, and clerics pass through the arch in both directions."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1477": "north",
+      "1482": "west",
+      "1602": "go arch",
+      "30710": "/rooms/1481/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1477": 0.2,
+      "1482": 0.2,
+      "1602": 0.2,
+      "30710": "/rooms/1481/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "meta:trashcan:copper-banded green oak barrel",
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209057
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      759,
+      765,
+      783,
+      789
+    ]
+  }
+}

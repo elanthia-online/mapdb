@@ -1,0 +1,36 @@
+{
+  "checksum": "8c58bde0a665b3c49b71c7913ed05b94",
+  "room": {
+    "id": 13851,
+    "title": [
+      "[Cavernfast, Mithril Overlook]"
+    ],
+    "description": [
+      "A small courtyard sits beside the river, giving a lovely panorama of the carved stones zigzagging across the confluence, and the starry host of twinkling braziers that follow the water's course through the caverns.  Groups of dwarves pass by, falling into single-file to cross the stones almost without breaking stride."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13850": "go stones",
+      "13880": "northwest",
+      "13881": "northeast"
+    },
+    "timeto": {
+      "13850": 0.2,
+      "13880": 0.2,
+      "13881": 0.2
+    },
+    "uid": [
+      702072
+    ],
+    "image": "wl-homes-2-1264234799.png",
+    "image_coords": [
+      863,
+      1196,
+      883,
+      1216
+    ]
+  }
+}

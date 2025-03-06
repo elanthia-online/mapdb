@@ -1,0 +1,48 @@
+{
+  "checksum": "2af81a5b138dd3e2c195175bf4adcb1f",
+  "room": {
+    "id": 7326,
+    "title": [
+      "[Shadow Valley]"
+    ],
+    "description": [
+      "A sea of grey clouds fills the sky above.  Coming from all around you, the sound of pounding hooves echoes across the valley."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, south, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7325": "southwest",
+      "7327": "east",
+      "7329": "southeast",
+      "7330": "south"
+    },
+    "timeto": {
+      "7325": 0.2,
+      "7327": 0.2,
+      "7329": 0.2,
+      "7330": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02",
+      "shadow mare"
+    ],
+    "uid": [
+      389031
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1348,
+      595,
+      1358,
+      605
+    ]
+  }
+}

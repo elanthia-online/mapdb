@@ -1,0 +1,42 @@
+{
+  "checksum": "aaf759f549ca145a92fdb9b196bdc70e",
+  "room": {
+    "id": 30051,
+    "title": [
+      "[Angargreft, Berserker's End]"
+    ],
+    "description": [
+      "Sized for an immense stride, some cracked red stone stairs ascend to the highest reaches of the gargantuan fane, proceeding beneath a series of crumbling arches that are a deeper and more intense red than the rest of the edifice.  Chunks of stairway are missing in places, leaving a teetering array of steps at the very top.  Beyond the stairs spreads a crescent-shaped plaza dotted with banks of fresh-fallen snow."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30050": "go stairs",
+      "30052": "southeast"
+    },
+    "timeto": {
+      "30050": 0.2,
+      "30052": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503490
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      651,
+      66,
+      665,
+      81
+    ]
+  }
+}

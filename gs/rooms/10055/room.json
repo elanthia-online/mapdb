@@ -1,0 +1,38 @@
+{
+  "checksum": "d197861e80efa450a02be7dba57614b4",
+  "room": {
+    "id": 10055,
+    "title": [
+      "[North Barrow, Ossuary]"
+    ],
+    "description": [
+      "Many deep niches are carved in the rough walls, each filled with stacks of dusty bones, most of which appear to be human or elven.  The damp stones of the floor are buckled and uneven, pushed out of place by some long-ago movement of the earth below."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "the Yegharren Plains",
+    "wayto": {
+      "10051": "northeast",
+      "10056": "north"
+    },
+    "timeto": {
+      "10051": 0.2,
+      "10056": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13036507
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1323,
+      276,
+      1333,
+      286
+    ]
+  }
+}

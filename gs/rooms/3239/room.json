@@ -1,0 +1,55 @@
+{
+  "checksum": "2e891f21fddc180427f4c80f10cfe4de",
+  "room": {
+    "id": 3239,
+    "title": [
+      "[Ice Plains, Hill Base]"
+    ],
+    "description": [
+      "A small path leads towards the foothill and forks sharply here with another path heading north and a well-worn, wider path headed east.  A massive rolaren gate blocks the path to the east with solid, snow-covered stone walls on both sides of the gate."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "plain dirt",
+    "wayto": {
+      "3238": "go trail",
+      "3240": "north",
+      "3264": "/rooms/3239/wayto/stringproc-3264.rb"
+    },
+    "timeto": {
+      "3238": 0.2,
+      "3240": 0.2,
+      "3264": 1
+    },
+    "tags": [
+      "some angelica root",
+      "some valerian root",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "some pennyroyal stem",
+      "winter rose",
+      "some arctic moss",
+      "frostflower",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127001
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      149,
+      586,
+      159,
+      596
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "17a3ebe2a8e563a1d608a0c922771d54",
+  "room": {
+    "id": 18602,
+    "title": [
+      "[Cleric Guild, Training Foyer]"
+    ],
+    "description": [
+      "Intricate marquetry of naturally hued woods, incorporating palest pine, purple-grey haon, vivid red cedar, and dusky ebonwood, forms the walls of this grandly proportioned foyer.  Assorted training rooms and their attendant equipment can be glimpsed further inside the training annex.  The dry, herbal scents of cedar and sandalwood fill the air, the aroma more intense near the lamps set along each wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "17104": "/rooms/18602/wayto/stringproc-17104.rb",
+      "18611": "west",
+      "18612": "east",
+      "18728": "out"
+    },
+    "timeto": {
+      "17104": 0.4,
+      "18611": 0.2,
+      "18612": 0.2,
+      "18728": 0.2
+    },
+    "tags": [
+      "cleric alchemy administrator",
+      "cleric guild administrator"
+    ],
+    "uid": [
+      671018
+    ],
+    "image": "wl-cleric_guild-1275417297.png",
+    "image_coords": [
+      89,
+      347,
+      135,
+      393
+    ]
+  }
+}

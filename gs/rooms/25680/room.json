@@ -1,0 +1,29 @@
+{
+  "checksum": "6b25d3c1f3cdc225eff1c2f1d39dca1b",
+  "room": {
+    "id": 25680,
+    "title": [
+      "[Bard Guild, Conch Pub]"
+    ],
+    "description": [
+      "The Conch Pub is a cozy chamber, with dark teak-paneled walls hung with oil and watercolor paintings.  A few tables sit in alcoves provided by standing screens crafted of teak and caned panels.  A long bar faces a wall of windows standing open to admit the Bay breeze."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "25671": "out",
+      "25681": "/rooms/25680/wayto/stringproc-25681.rb",
+      "25682": "/rooms/25680/wayto/stringproc-25682.rb"
+    },
+    "timeto": {
+      "25671": 0.2,
+      "25681": 0.2,
+      "25682": 0.2
+    },
+    "uid": [
+      284007
+    ]
+  }
+}

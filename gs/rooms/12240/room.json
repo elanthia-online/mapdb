@@ -1,0 +1,38 @@
+{
+  "checksum": "f2559ce8903209248c1b1ed0a7150376",
+  "room": {
+    "id": 12240,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "A plain of snow and ice stretches out as far as the eye can see.  In the twilight sky, shimmering golds, pinks, and blues dance across the heavens.  The colorful lights reflect off of the tiny flakes of snow that fall all around.",
+      "A plain of porous black rock stretches out as far as the eye can see.  The sky is an angry red near the horizon, fading into washed out pinks and blues overhead.  Steam rises out of the ground, hissing violently as some of the larger pockets of superheated vapor are released from below."
+    ],
+    "paths": [
+      "Obvious exits: southwest, down",
+      "Obvious paths: southwest, down"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12240/wayto/stringproc-12151.rb",
+      "12229": "southwest",
+      "12232": "down"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12229": 0.2,
+      "12232": 0.2
+    },
+    "uid": [
+      4571008
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      183,
+      155,
+      207,
+      179
+    ]
+  }
+}

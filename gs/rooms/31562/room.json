@@ -1,0 +1,51 @@
+{
+  "checksum": "fceb5be20db4e50db93eea0e8c98452f",
+  "room": {
+    "id": 31562,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Multiple lanes converge upon the dappled cobblestones of the avenue, though one such pathway transitions into a bowed cobblestone bridge that disappears in a shroud of mist as it crosses the canal.  Verdigris-topped lanterns with colored glass panes illuminate the arch they are mounted from in an orange sheen, while a departing pathway is left to violet-sheened shadows.  Four peaks, each topped with a gable, dominate the multistory manor that overlooks the street."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31559": "northwest",
+      "31561": "go pathway",
+      "31569": "go bridge",
+      "31603": "go arch",
+      "31607": "southwest",
+      "31609": "go manor",
+      "31630": "east"
+    },
+    "timeto": {
+      "31559": 0.2,
+      "31561": 0.2,
+      "31569": 0.2,
+      "31603": 0.2,
+      "31607": 0.2,
+      "31609": 0.2,
+      "31630": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "no forageables"
+    ],
+    "uid": [
+      8083003
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      663,
+      375,
+      687,
+      397
+    ]
+  }
+}

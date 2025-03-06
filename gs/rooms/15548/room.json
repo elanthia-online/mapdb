@@ -1,0 +1,38 @@
+{
+  "checksum": "bb6b89dd3cffe5dd3adb51ab79433de4",
+  "room": {
+    "id": 15548,
+    "title": [
+      "[Rone Academy, Students' Lounge]"
+    ],
+    "description": [
+      "Students fill the room, awaiting their next class.  Some discuss their work, while others have their noses buried in scrolls and rare tomes.  A few couches crammed against one wall are piled high with satchels and students' belongings."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Rone Academy",
+    "wayto": {
+      "15546": "south",
+      "15549": "go oak door",
+      "15550": "go fel door",
+      "29619": "go small door"
+    },
+    "timeto": {
+      "15546": 0.2,
+      "15549": 0.2,
+      "15550": 0.2,
+      "29619": 0.2
+    },
+    "uid": [
+      217046
+    ],
+    "image": "wl-rone_academy-1619899949.png",
+    "image_coords": [
+      858,
+      210,
+      882,
+      234
+    ]
+  }
+}

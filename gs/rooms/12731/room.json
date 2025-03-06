@@ -1,0 +1,42 @@
+{
+  "checksum": "109ca0efbe49b59828733b717d4350e9",
+  "room": {
+    "id": 12731,
+    "title": [
+      "[Ruined Temple, Third Floor]"
+    ],
+    "description": [
+      "Only a small path remains clear among the great ruin of the roof.  Ornamental metalwork lies in twisted clusters, with sharp spikes hidden among some of the larger areas of detritus."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12724": "go arch",
+      "12732": "east",
+      "12737": "south"
+    },
+    "timeto": {
+      "12724": 0.2,
+      "12732": 0.2,
+      "12737": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3031080
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      405,
+      101,
+      441,
+      137
+    ]
+  }
+}

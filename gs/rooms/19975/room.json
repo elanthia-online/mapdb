@@ -1,0 +1,39 @@
+{
+  "checksum": "57504823f815154a3ba4aedc5b2f8ec9",
+  "room": {
+    "id": 19975,
+    "title": [
+      "[Nature Wing, Aquatic Specimens]"
+    ],
+    "description": [
+      "Two panes of glass set only inches apart and filled with blue-tinted water hug three of the walls of this room.  The openings to the north and east allow passage into other areas of the museum, and sand dunes decorate the fourth wall, depicting the beaches of Wehnimer's Landing.  The underwater theme is continued with replica seaweed sprouting from the sand-hued stone floor and aquatic animal specimens on thin steel rods jutting up from the floor, each captured in a motion of swimming or crawling up onto the beach."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19974": "north",
+      "19976": "east"
+    },
+    "timeto": {
+      "19974": 0.2,
+      "19976": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28108
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      65,
+      1605,
+      207,
+      1664
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "f7aa46c9d98753e069f58705668fc7f8",
+  "room": {
+    "id": 16787,
+    "title": [
+      "[Temple Wyneb, Belvedere]"
+    ],
+    "description": [
+      "Open to the outside world, this room is filled with clean, brisk mountain air and the soft moonlight gives a much less sinister cast to the cool red marble of the walls and floor.  From here you can look out over the treacherous rocks of the Gorget Trails and the brilliant green of the Emerald Forest.",
+      "Open to the outside world, this room is filled with clean, brisk mountain air and the flood of daylight gives a much less sinister cast to the cool red marble of the walls and floor.  From here you can look out over the treacherous rocks of the Gorget Trails and the brilliant green of the Emerald Forest."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Temple Wyneb",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16788": "/rooms/16787/wayto/stringproc-16788.rb"
+    },
+    "timeto": {
+      "16788": 0.4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300073
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      581,
+      572,
+      591,
+      582
+    ]
+  }
+}

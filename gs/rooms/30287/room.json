@@ -1,0 +1,33 @@
+{
+  "checksum": "ce50de29cf0736ac678cc18cc3f0e383",
+  "room": {
+    "id": 30287,
+    "title": [
+      "[Ta'Vaalor, Mail Room]"
+    ],
+    "description": [
+      "Tucked away from the bustle of the airship terminus, this small room is only slightly less crowded than the main lobby.  A steady flow of people come and go through a broad archway to pick up or drop off parcels with the mail clerk behind a heavily dented oak counter.  The stuffy air is filled with a light dust that smells of paper, burlap, and sweat."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "30286": "go broad archway",
+      "30713": "/rooms/30287/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "30286": 0.2,
+      "30713": "/rooms/30287/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      14118002
+    ]
+  }
+}

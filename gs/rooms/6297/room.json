@@ -1,0 +1,43 @@
+{
+  "checksum": "3ef88f0b2d9a52e6d8da0e6ea0ea77e6",
+  "room": {
+    "id": 6297,
+    "title": [
+      "[Dirt Mines, Sluice]"
+    ],
+    "description": [
+      "The pipe runs northeast and southwest.  A foot or two of dark water pours down the pipe, carrying bits of flotsam beneath the dark eddies.  The slightest misstep threatens to turn the reckless explorer into sewage bound for some subterranean marsh."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6296": "go crack",
+      "6298": "northeast",
+      "6300": "southwest"
+    },
+    "timeto": {
+      "6296": 0.2,
+      "6298": 0.2,
+      "6300": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372022
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      250,
+      97,
+      260,
+      107
+    ]
+  }
+}

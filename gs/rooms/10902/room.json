@@ -1,0 +1,32 @@
+{
+  "checksum": "874e2a6d5c537c87703aeb9f3ff51bb7",
+  "room": {
+    "id": 10902,
+    "title": [
+      "[Rael's Rugs and Carpets]"
+    ],
+    "description": [
+      "Piles of colorful carpets and rugs are stacked around the room.  A copper brazier sits in one corner, throwing out warmth and soft golden light."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10901": "go door",
+      "10903": "north"
+    },
+    "timeto": {
+      "10901": 0.2,
+      "10903": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2300007
+    ]
+  }
+}

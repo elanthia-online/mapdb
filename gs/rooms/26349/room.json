@@ -1,0 +1,33 @@
+{
+  "checksum": "9c6783c92a70671fe3ea66b7cf8e8ad8",
+  "room": {
+    "id": 26349,
+    "title": [
+      "[Barracks, Mess Hall]"
+    ],
+    "description": [
+      "As bare bones as much of the hall, this area contains only rows and rows of old modwir tables and benches.  The charred husks of roasted halflings and animals litter some of the tables, while the scent of cooked flesh permeates from the kitchen."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26348": "north",
+      "26350": "west",
+      "26351": "east"
+    },
+    "timeto": {
+      "26348": 0.2,
+      "26350": 0.2,
+      "26351": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1458,
+      291,
+      1484,
+      317
+    ]
+  }
+}

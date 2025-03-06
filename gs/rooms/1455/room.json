@@ -1,0 +1,44 @@
+{
+  "checksum": "f910ba46867e04118c9c457b1049560f",
+  "room": {
+    "id": 1455,
+    "title": [
+      "[Solhaven, Abalone and Chiton]"
+    ],
+    "description": [
+      "The elegant limestone facade of the Solhaven Inn and Restaurant dominates the street here.  Deep blue awnings hang above the glaes-paned windows and front walk.  A white-gloved doorman stands at the ready, ushering guests through the arched doors."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1454": "west",
+      "1459": "south",
+      "5713": "go doors",
+      "13489": "east"
+    },
+    "timeto": {
+      "1454": 0.2,
+      "1459": 0.2,
+      "5713": 0.2,
+      "13489": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209033
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1125,
+      577,
+      1147,
+      599
+    ]
+  }
+}

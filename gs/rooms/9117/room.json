@@ -1,0 +1,41 @@
+{
+  "checksum": "1d4f4b6b80a6ca2aba49a8678325f8b7",
+  "room": {
+    "id": 9117,
+    "title": [
+      "[Great Cavern, Bog]"
+    ],
+    "description": [
+      "Fog drifts lazily across what could easily be a desolate swamp above ground, were it not for the spikes of stone rising out of the marsh.  Only a thick layer of decaying vines makes the bog passable.  Giant fireflies flit madly about just out of reach."
+    ],
+    "paths": [
+      "Obvious exits: east, south, up"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9114": "east",
+      "9116": "south",
+      "9120": "up"
+    },
+    "timeto": {
+      "9114": 0.2,
+      "9116": 0.2,
+      "9120": 0.2
+    },
+    "tags": [
+      "some orchil lichen",
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045224
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      169,
+      727,
+      179,
+      737
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "cb7ae06c82d3c0b2b9b64d018414f159",
+  "room": {
+    "id": 15056,
+    "title": [
+      "[Stunseed's Armory]"
+    ],
+    "description": [
+      "Enclosed by painted ebonwood walls, the shop features a sphere-topped black marble fountain in the center of its black marble floor.  A round mithril-framed window hangs under the vaulted ceiling.  Right near the front is an elegantly carved oak armoire and a gold-leafed mistwood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "372": "out",
+      "15455": "east",
+      "15456": "north"
+    },
+    "timeto": {
+      "372": 0.2,
+      "15455": 0.2,
+      "15456": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

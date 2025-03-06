@@ -1,0 +1,36 @@
+{
+  "checksum": "ee5c3e5b531089ab5d98bed2952dfdb5",
+  "room": {
+    "id": 14127,
+    "title": [
+      "[Imaera's Grove, Thicket]"
+    ],
+    "description": [
+      "A flock of vibrant copper trumpetvines climb a thicket of dried branches that are strewn on matted sward.  Occasionally, a shiver from the leafy coverlet overhead drops a stray faewood fruit that lazily bounces across the miry terrain."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14125": "southwest",
+      "14128": "northwest",
+      "14133": "east"
+    },
+    "timeto": {
+      "14125": 0.2,
+      "14128": 0.2,
+      "14133": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749604
+    ]
+  }
+}

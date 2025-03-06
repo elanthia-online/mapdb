@@ -1,0 +1,57 @@
+{
+  "checksum": "5671de4d58a0df35063e4a1670a356f3",
+  "room": {
+    "id": 7000,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "This wide space lies between the inner and outer curtain walls and extends all the way around the castle.  You stand just inside the portcullis which leads out of the castle through the gatehouse.  Before you stands the massive inner curtain wall whose crumbling towers rise high above you.  To the south of here is the inner curtain gatehouse."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "6998": "/rooms/7000/wayto/stringproc-6998.rb",
+      "7001": "north",
+      "7025": "south"
+    },
+    "timeto": {
+      "6998": 0.2,
+      "7001": 0.2,
+      "7025": 0.2
+    },
+    "tags": [
+      "sweetfern stalk",
+      "cuctucae berry",
+      "bright red cranberry",
+      "heath aster",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45106
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      488,
+      428,
+      498,
+      438
+    ]
+  }
+}

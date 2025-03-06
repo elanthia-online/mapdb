@@ -1,0 +1,35 @@
+{
+  "checksum": "2f8ea5911d1981f7780f93babee0eacf",
+  "room": {
+    "id": 21838,
+    "title": [
+      "[Doggoroth Keep]"
+    ],
+    "description": [
+      "To the east lies a wide stone building tucked into the shadow of an enormous tower.  Knights and men at arms move throughout the area, hands never far from their weapons."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21833": "west",
+      "21839": "go tower",
+      "21840": "go building",
+      "21841": "north"
+    },
+    "timeto": {
+      "21833": 0.2,
+      "21839": 0.2,
+      "21840": 0.2,
+      "21841": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      883,
+      172,
+      897,
+      186
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "a86f5b55dcfb04f55bb4cad389bec33e",
+  "room": {
+    "id": 6882,
+    "title": [
+      "[Abandoned Inn, Magical Workshop]",
+      "[Abandoned Inn, Ruined Workshop]"
+    ],
+    "description": [
+      "Mortars and pestles, unlit braziers, jars and bowls and other tools of the wizard's art are strewn chaotically about the perimeter of this room, as if by an explosion.  Walls, floor and ceiling are spattered with random patterns of powders, liquids and blobs, most of which are probably better left unidentified."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6880": "/rooms/6882/wayto/stringproc-6880.rb"
+    },
+    "timeto": {
+      "6880": 0.2
+    },
+    "tags": [
+      "node",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21129
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      914,
+      1164,
+      924,
+      1174
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "2d7333463ca186eb881b82c42bf67c95",
+  "room": {
+    "id": 27615,
+    "title": [
+      "[Twilight Cavern, Ice Chapel]"
+    ],
+    "description": [
+      "Colonnades carved of the cavern's icy stone are complemented by a floor-to-ceiling wall of vibrantly colored glaes windows on the southern exposure.  At the apse, a massive, twisted spire of radiant ice juts from the floor and disappears through the chapel's rocky roof.  Standing just before the icy spectacle is an alabaster crescent moon altar.  The squared transept on the east wall is filled with tiny niches, each heavy with offerings."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "27614": "out",
+      "27616": "push niche"
+    },
+    "timeto": {
+      "27614": 0.2,
+      "27616": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Twilight Hall"
+    ],
+    "uid": [
+      4043706
+    ],
+    "image": "imt_Twilight_Cavern.png",
+    "image_coords": [
+      272,
+      381,
+      332,
+      442
+    ]
+  }
+}

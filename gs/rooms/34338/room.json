@@ -1,0 +1,41 @@
+{
+  "checksum": "5d08fc70f56672de43224ed2900f5378",
+  "room": {
+    "id": 34338,
+    "title": [
+      "[Titan's Deluge, East Bank]"
+    ],
+    "description": [
+      "Stretching over the water from the fall's west bank, a massive stone bridge seamlessly connects to a narrow strip of craggy rocks that broadens into a wider patch of land further down the lake shore.  Almost entirely unnoticeable, a series of crude steps carved into the mountain's face has been cleverly hidden behind a rough outcropping of stone near where the water spills over the edge and plummets below."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Stormpeak",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "34337": "go steps",
+      "34339": "go bridge",
+      "34341": "northeast"
+    },
+    "timeto": {
+      "34337": 0.2,
+      "34339": 0.2,
+      "34341": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13150402
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1145,
+      611,
+      1165,
+      631
+    ]
+  }
+}

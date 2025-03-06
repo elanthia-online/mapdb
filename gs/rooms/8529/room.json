@@ -1,0 +1,78 @@
+{
+  "checksum": "c598c4553bdcb985535af4ed127c87a8",
+  "room": {
+    "id": 8529,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The path twists and turns as it covers this area of transition between a deep forest to the southwest and a bright and sunny plain to the north.",
+      "The path twists and turns as it covers this area of transition between a dark forest to the southwest and a flat, moonlit plain to the north."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "mountainous",
+    "wayto": {
+      "8528": "southwest",
+      "8530": "north",
+      "22427": "go forest"
+    },
+    "timeto": {
+      "8528": 0.2,
+      "8530": 0.2,
+      "22427": 0.2
+    },
+    "tags": [
+      "forest troll",
+      "wild pink geranium",
+      "sprig of ivy",
+      "sprig of holly",
+      "angelica root",
+      "stalk of bluebells",
+      "sprig of larkspur",
+      "yellow primrose",
+      "golden aster",
+      "small apple",
+      "pepperthorn root",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "alder bark",
+      "deep purple shockroot",
+      "sunburst blossom",
+      "rhubarb",
+      "stalk of celery",
+      "leek",
+      "shallot",
+      "hop flowers",
+      "agave heart",
+      "meta:forage-sensed:night:2023-02",
+      "dwarf billberry",
+      "round grumbleberry",
+      "birch bark",
+      "small watermelon",
+      "cherry peppers",
+      "fresh catnip",
+      "peppermint leaves",
+      "sprig of rooibos",
+      "sun-wilted tea leaves",
+      "lemon balm",
+      "lemon verbena",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16028
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      1060,
+      705,
+      1070,
+      715
+    ]
+  }
+}

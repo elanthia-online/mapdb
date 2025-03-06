@@ -1,0 +1,44 @@
+{
+  "checksum": "b8e444062afe5e234497b02f0985e673",
+  "room": {
+    "id": 3430,
+    "title": [
+      "[Silvermule, East Game Room]"
+    ],
+    "description": [
+      "Rows of wooden boxes with intricate scroll-work designs nearly fill the room.  Patrons are amused by the mechanical dancing couples and other wondrous scenes displayed by the various devices.  Although the room is crowded, the clamor is softened by the tapestries that cover the walls."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3429": "out",
+      "3431": "west",
+      "15694": "go tapestries"
+    },
+    "timeto": {
+      "3429": 0.2,
+      "3431": 0.2,
+      "15694": 0.2
+    },
+    "tags": [
+      "meta:mapname:Icemule Trace - Silvermule Gaming Hall",
+      "meta:mapshortname:Silvermule Gaming Hall",
+      "meta:mapcategory:Icemule Trace",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4043209
+    ],
+    "image": "imt-silvermule_gaming_hall-1484821104.png",
+    "image_coords": [
+      1085,
+      1527,
+      1223,
+      1586
+    ]
+  }
+}

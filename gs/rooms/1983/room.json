@@ -1,0 +1,35 @@
+{
+  "checksum": "b7a69e265105998d0731d924bddc0e4c",
+  "room": {
+    "id": 1983,
+    "title": [
+      "[Temple, Meditation Sanctum]"
+    ],
+    "description": [
+      "The silent simplicity of this small room brings contemplative thoughts to mind.  Several small mats cover the polished wood floors and two worn oak benches sit empty along the wall.  A modest rosewood altar stands at one end of the room, topped with two white candles.  A gentle breeze wafts from a hallway of gleaming white marble leading to the east."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1982": "west",
+      "12603": "/rooms/1983/wayto/stringproc-12603.rb",
+      "12622": "/rooms/1983/wayto/stringproc-12622.rb",
+      "12701": "/rooms/1983/wayto/stringproc-12701.rb"
+    },
+    "timeto": {
+      "1982": 0.2,
+      "12603": "/rooms/1983/timeto/stringproc-12603.rb",
+      "12622": "/rooms/1983/timeto/stringproc-12622.rb",
+      "12701": "/rooms/1983/timeto/stringproc-12701.rb"
+    },
+    "tags": [
+      "voln",
+      "meta:seeking"
+    ],
+    "uid": [
+      3003048
+    ]
+  }
+}

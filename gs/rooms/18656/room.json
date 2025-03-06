@@ -1,0 +1,42 @@
+{
+  "checksum": "3bea4513a5dbb0f1322fc18c2c9ce0b5",
+  "room": {
+    "id": 18656,
+    "title": [
+      "[Cleric Guild, Training Foyer]"
+    ],
+    "description": [
+      "Rippled walls of ice, the surface as clear as a flawless diamond, enclose the grand hallway that ushers one into the training annex.  Nature's hand has shaped the walls, as minute changes of temperature alternately let the water of the walls flow and refreeze to create the abstract patterns on display."
+    ],
+    "paths": [
+      "Obvious exits: south, west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "18601": "out",
+      "18650": "/rooms/18656/wayto/stringproc-18650.rb",
+      "18666": "west",
+      "18667": "south"
+    },
+    "timeto": {
+      "18601": 0.2,
+      "18650": 0.4,
+      "18666": 0.2,
+      "18667": 0.2
+    },
+    "tags": [
+      "cleric alchemy administrator",
+      "cleric guild administrator"
+    ],
+    "uid": [
+      670019
+    ],
+    "image": "imt-cleric_guild-1275420218.png",
+    "image_coords": [
+      189,
+      198,
+      235,
+      244
+    ]
+  }
+}

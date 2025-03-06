@@ -1,0 +1,40 @@
+{
+  "checksum": "58adf70879f55ce973a8c62437aa3b4a",
+  "room": {
+    "id": 18209,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "You can hear the sound of stringed instruments, lutes and voices all blending into a series of merry songs.  The garden here is designed with several varieties of grape vines.  Beyond this is a small wine press with a narrow channel extending from it to a nearby vat."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18208": "northwest",
+      "18210": "southeast"
+    },
+    "timeto": {
+      "18208": 0.2,
+      "18210": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312004
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      106,
+      309,
+      120,
+      322
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "b0ddaa2ec100159375e80aed294bfb86",
+  "room": {
+    "id": 3244,
+    "title": [
+      "[A Frozen Battlefield]"
+    ],
+    "description": [
+      "The warped remains of a large wooden wagon sit smothered deep in the snowpack, only one corner and a slowly turning wheel still visible.  Loud shuffling noises can be heard from all directions, any ability to determine their source dissolving in the low fog blanketing the ground."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, west, northwest"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3245": "northwest",
+      "3248": "north"
+    },
+    "timeto": {
+      "3245": 0.2,
+      "3248": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7502007
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      70,
+      454,
+      80,
+      464
+    ]
+  }
+}

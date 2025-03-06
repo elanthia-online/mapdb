@@ -1,0 +1,29 @@
+{
+  "checksum": "ff376066b7df1d80d524a918a05ffc0e",
+  "room": {
+    "id": 31026,
+    "title": [
+      "[Solhaven, Wedding Hall]"
+    ],
+    "description": [
+      "Sunlight streams in through the windows, illuminating the blue rug trimmed in gold that runs the length of the hall.  A large oak desk sits before the rear windows, surrounded by planters full of lush roses.  The faint sounds of ships and birds in the Vornavis Canal echo in through the windows.  A flower-carved arch is set into a side way, while a rosewood door leads back outside to the Esplanade."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "1601": "go door",
+      "31027": "go flower-carved arch",
+      "31050": "go austere corridor"
+    },
+    "timeto": {
+      "1601": 0.2,
+      "31027": 0.2,
+      "31050": 0.2
+    },
+    "uid": [
+      409309
+    ]
+  }
+}

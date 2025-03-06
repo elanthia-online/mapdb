@@ -1,0 +1,41 @@
+{
+  "checksum": "c92ca16cedcfe96ed5113dc2685f0c1b",
+  "room": {
+    "id": 192,
+    "title": [
+      "[Ta'Illistim, Fraendel Var]"
+    ],
+    "description": [
+      "The busier section of Fraendel Court gives way to a quiet corner, seemingly out of place with the rest of the city.  A lone bench sits off the var, its worn surface indicating that many a wanderer must have stopped to rest before moving on."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "191": "south",
+      "193": "northwest"
+    },
+    "timeto": {
+      "191": 0.2,
+      "193": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100080
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      827,
+      772,
+      849,
+      793
+    ]
+  }
+}

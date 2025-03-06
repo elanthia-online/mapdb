@@ -1,0 +1,43 @@
+{
+  "checksum": "aa2f8355bc31c562cc7027450f666d70",
+  "room": {
+    "id": 6481,
+    "title": [
+      "[Underground Lake, In The Water]"
+    ],
+    "description": [
+      "The splashing sounds that you make as you wade through the still water of the underground lake echo off the walls of this huge cavern."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6480": "north",
+      "6482": "east",
+      "6483": "northeast",
+      "6484": "/rooms/6481/wayto/stringproc-6484.rb"
+    },
+    "timeto": {
+      "6480": 0.2,
+      "6482": 0.2,
+      "6483": 0.2,
+      "6484": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      92105
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      640,
+      1005,
+      650,
+      1015
+    ]
+  }
+}

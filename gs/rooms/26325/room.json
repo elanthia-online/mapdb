@@ -1,0 +1,31 @@
+{
+  "checksum": "d32c859bc3b21629dc6084c76047bdbc",
+  "room": {
+    "id": 26325,
+    "title": [
+      "[Lich's Landing, Gate]"
+    ],
+    "description": [
+      "A group of decaying, giant zombie trolls stand watch over the main gate into the underground city.  Two daunting towers, comprised of bone and bloody ligaments stretch up towards the cavern's ceiling, armored skeletal sentries marching upon their platforms."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26322": "south",
+      "26326": "go gate"
+    },
+    "timeto": {
+      "26322": 0.2,
+      "26326": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      798,
+      288,
+      825,
+      316
+    ]
+  }
+}

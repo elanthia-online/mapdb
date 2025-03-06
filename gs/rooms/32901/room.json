@@ -1,0 +1,42 @@
+{
+  "checksum": "00af4464f38f08ef4c94a4e52e94a7c8",
+  "room": {
+    "id": 32901,
+    "title": [
+      "[Brisker's Cove, Comyner's Docks]"
+    ],
+    "description": [
+      "Arching over the pier, a dark, navy blue awning ripples in the light seaborne breeze that dances across the surrounding ocean waters.  A series of steps, guarded by local militia, descends to a private dock along the western edge opposite the arm of Pier 3, while painted arrows upon the golden planks point to the north and south for Piers 1-2 and 4-5 respectively.  Piteous and plentiful, the cry of gulls fills the air."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32900": "north",
+      "32902": "south",
+      "32906": "east"
+    },
+    "timeto": {
+      "32900": 0.2,
+      "32902": 0.2,
+      "32906": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140128
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      375,
+      694,
+      390,
+      707
+    ]
+  }
+}

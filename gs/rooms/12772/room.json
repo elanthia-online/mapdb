@@ -1,0 +1,42 @@
+{
+  "checksum": "c09234508844d9616d34859da9397bb1",
+  "room": {
+    "id": 12772,
+    "title": [
+      "[Eye of V'Tull, Inner Circle]"
+    ],
+    "description": [
+      "A strange formation of stalactites and stalagmites fills this cavern.  The resemblance to the enormous teeth of some monstrous animal is uncanny, leaving you with the impression that they could snap forward and swallow you whole.  You hope that the resemblance to sharp fangs is just a coincidence, and not a foreboding of things to come."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "12771": "northwest",
+      "12773": "southwest"
+    },
+    "timeto": {
+      "12771": 0.2,
+      "12773": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061016
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      715,
+      707,
+      725,
+      717
+    ]
+  }
+}

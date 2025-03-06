@@ -1,0 +1,33 @@
+{
+  "checksum": "70b0b85be5302e940e3557a60161d72c",
+  "room": {
+    "id": 31039,
+    "title": [
+      "[Concourse, North]"
+    ],
+    "description": [
+      "Rows of planters line the concourse, each brimming with brightly colored plants surrounded by broad leaves, while elegant brass sconces cast a soothing light upon the smooth, onyx-swirled white marble floors and walls.  A carved arch rests next to a frosted window proclaiming \"Bespoke Tailors,\" which is opposite a curved arch next to a plaque that ascribes its entry to \"Ever After Boutique.\""
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, northwest"
+    ],
+    "location": false,
+    "wayto": {
+      "31027": "south",
+      "31040": "go curved arch",
+      "31041": "go carved arch",
+      "31042": "northwest",
+      "31044": "northeast"
+    },
+    "timeto": {
+      "31027": 0.2,
+      "31040": 0.2,
+      "31041": 0.2,
+      "31042": 0.2,
+      "31044": 0.2
+    },
+    "uid": [
+      409903
+    ]
+  }
+}

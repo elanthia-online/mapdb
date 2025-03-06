@@ -1,0 +1,29 @@
+{
+  "checksum": "6ba515e312b5ef467723fa5e0f894fdc",
+  "room": {
+    "id": 15037,
+    "title": [
+      "[Master Glimmin's Locks and Keys]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A large oval wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3878": "out",
+      "15427": "west",
+      "15428": "east"
+    },
+    "timeto": {
+      "3878": 0.2,
+      "15427": 0.2,
+      "15428": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

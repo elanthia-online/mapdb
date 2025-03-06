@@ -1,0 +1,39 @@
+{
+  "checksum": "613af71d112814c82299e75e98e2e88e",
+  "room": {
+    "id": 19007,
+    "title": [
+      "[Sorcerer Guild, Relaxation Room]"
+    ],
+    "description": [
+      "Overstuffed chairs and sofas rest on plush silver carpeting in this elegant resting room.  Several large paintings illuminated softly by nearby lanterns hang on the walls.  A fire burns merrily in the spacious fireplace, its mottled grey granite a soft contrast to the surrounding dark brown walnut paneling.  A refreshment cart in the corner offers several tasty and refreshing selections."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "19006": "southwest",
+      "19008": "climb ramp",
+      "19029": "/rooms/19007/wayto/stringproc-19029.rb"
+    },
+    "timeto": {
+      "19006": 0.2,
+      "19008": 0.2,
+      "19029": 5
+    },
+    "tags": [
+      "sorcerer guild node"
+    ],
+    "uid": [
+      662005
+    ],
+    "image": "ti-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      498,
+      373,
+      533,
+      409
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "4d00841b3ac66aee0d6d347536ed14a3",
+  "room": {
+    "id": 10109,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "A black snake slithers its way through the heightened brush near the fence.  The setting of the fence has shifted through the years as the ground has settled.  While the cobblestones are nearly covered with dirt and mud, small cracks can be seen on their surface."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10108": "northwest",
+      "10110": "southeast"
+    },
+    "timeto": {
+      "10108": 0.2,
+      "10110": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049043
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      856,
+      1035,
+      866,
+      1045
+    ]
+  }
+}

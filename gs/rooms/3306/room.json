@@ -1,0 +1,47 @@
+{
+  "checksum": "48539f3819adf7b384a30e170349100f",
+  "room": {
+    "id": 3306,
+    "title": [
+      "[Icemule Trace, North Road]"
+    ],
+    "description": [
+      "Sheets of glassy ice slick the street, forcing foot traffic to the margins of the road, where the bases of lamp posts depict circles of halflings holding hands.  The glacier looms over the northern gates and its icy slopes have intruded into the town to either side.  Ctizens have taken this in stride, and have dug burrows into the ancient ice.  Their round, painted doors dot the slopes.",
+      "The cobblestone street is slick in some places, covered in frozen puddles.  The glacier looms much closer now and actually seems to have spread over the town to either side.  The citizens have taken this in stride and have carved buildings from the ice to live and work in."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2331": "east",
+      "2358": "north",
+      "3305": "south",
+      "26858": "go gate"
+    },
+    "timeto": {
+      "2331": 0.2,
+      "2358": 0.2,
+      "3305": 0.2,
+      "26858": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042024
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      582,
+      519,
+      618,
+      555
+    ]
+  }
+}

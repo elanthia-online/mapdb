@@ -1,0 +1,26 @@
+{
+  "checksum": "e6772a4fbc01e1f5f5852de67bfe980d",
+  "room": {
+    "id": 20376,
+    "title": [
+      "[Tug-of-War, Elm Knoll]"
+    ],
+    "description": [
+      "Rows of elm benches are clustered atop a gently sloping knoll, providing a clear view of a span of trenched swampland below.  Bits and pieces of rope and clothing litter the area, each stained with blood, mud, and a multitude of unrecognized substances."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20124": "northwest",
+      "20377": "/rooms/20376/wayto/stringproc-20377.rb",
+      "20378": "southeast"
+    },
+    "timeto": {
+      "20124": 0.2,
+      "20377": 0.2,
+      "20378": 0.2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "fd7a213703f60ebc33fe0bc1b5b6c532",
+  "room": {
+    "id": 30369,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Dark jagged teeth-shaped forms rise from the ocean on the distant horizon to the west, making passage beyond them impossible.  Eddies of water swirl about, causing white foam to appear on the crests of nearby waves.  Tangles of dead vegetation and seaweed float along the water currents, hopelessly caught in a repetitious loop."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southeast, south, southwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30368": "pedal south",
+      "30370": "pedal north",
+      "30377": "pedal southeast",
+      "30379": "pedal southwest",
+      "30380": "pedal northeast"
+    },
+    "timeto": {
+      "30368": 6,
+      "30370": 6,
+      "30377": 6,
+      "30379": 6,
+      "30380": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216212
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1025,
+      4521,
+      1042,
+      4541
+    ]
+  }
+}

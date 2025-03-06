@@ -1,0 +1,39 @@
+{
+  "checksum": "306fa40970adb3b2aa8610bfa00bbaed",
+  "room": {
+    "id": 20667,
+    "title": [
+      "[Warrior Guild, North Walkway]"
+    ],
+    "description": [
+      "Keeping guard over the walkway are several marble statues garbed in some burnished mithril armor.  A narrow path branches off towards a thin steel marker and subsequently, a small limestone shed.  Colorful fungus abounds in carefully tended beds that border the expansive courtyard to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "20666": "east",
+      "20668": "go shed",
+      "20670": "southwest"
+    },
+    "timeto": {
+      "20666": 0.2,
+      "20668": 0.2,
+      "20670": 0.2
+    },
+    "tags": [
+      "warrior guild armor"
+    ],
+    "uid": [
+      258014
+    ],
+    "image": "en-zul_logoth-warriorguild-1697063613.png",
+    "image_coords": [
+      577,
+      65,
+      595,
+      83
+    ]
+  }
+}

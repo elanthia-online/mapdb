@@ -1,0 +1,85 @@
+{
+  "checksum": "65762b268ab608739d5b87bf8ce2a4be",
+  "room": {
+    "id": 10883,
+    "title": [
+      "[River's Rest, River Beach]"
+    ],
+    "description": [
+      "A mixture of sand, pebbles and small rocks underfoot is still warm from the earlier sun of the day, counteracting a stiff, cool breeze from the Bay.  The beach runs to the river, the bank to the north having slowly disappeared leaving small eddying pools at the waters edge.  Across the widening river, a large rocky field is visible, ending at a high cliff far to the north.",
+      "A mixture of sand, pebbles and small rocks underfoot is heated by the sun, counteracting a stiff, cool breeze from the Bay.  The beach runs to the river, the bank to the north having slowly disappeared leaving small eddying pools at the waters edge.  Across the widening river, a large rocky field is visible, ending at a high cliff far to the north."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "humid",
+    "terrain": "riparian",
+    "wayto": {
+      "10882": "east",
+      "10884": "southwest",
+      "11427": "go stair",
+      "23281": "/rooms/10883/wayto/stringproc-23281.rb"
+    },
+    "timeto": {
+      "10882": 0.2,
+      "10884": 0.2,
+      "11427": 0.2,
+      "23281": 0.4
+    },
+    "tags": [
+      "yabathilium fruit",
+      "wavepetal blossom",
+      "murdroot",
+      "yellow clover blossom",
+      "acantha leaf",
+      "calamia fruit",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "handful of currants",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "stalk of cattail",
+      "stalk of bluebells",
+      "red clover blossom",
+      "pink clover blossom",
+      "white clover blossom",
+      "purple clover blossom",
+      "stalk of goldenrod",
+      "small wild rose",
+      "sprig of wild lilac",
+      "Imaera's Lace",
+      "wild chokecherry",
+      "mistweed",
+      "talneo root",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "striped heart mushroom",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "bright orange",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101103
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1974,
+      529,
+      2011,
+      565
+    ]
+  }
+}

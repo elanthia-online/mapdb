@@ -1,0 +1,42 @@
+{
+  "checksum": "d92c70787635ce8b37f65af261b6c11e",
+  "room": {
+    "id": 30148,
+    "title": [
+      "[Arakhor Estate, Entryway]"
+    ],
+    "description": [
+      "Rich ivory granite walls provide a stark contrast to the warm polished mahogany floor.  A tall intricately carved lor grandfather clock is set against the right wall, while a vibrant tapestry bearing the image of a crest hangs on the left.  A sweeping dual staircase leads to the upper floor, creating an alcove occupied by a carved lor table.  A clear glass dome centered in the ceiling allows sunlight to bathe the area.",
+      "Rich ivory granite walls provide a stark contrast to the warm polished mahogany floor.  A tall intricately carved lor grandfather clock is set against the right wall, while a vibrant tapestry bearing the image of a crest hangs on the left.  A sweeping dual staircase leads to the upper floor, creating an alcove occupied by a carved lor table.  A clear glass dome centered in the ceiling allows moonlight to bathe the area."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13778": "go double doors",
+      "30149": "north",
+      "30153": "go staircase"
+    },
+    "timeto": {
+      "13778": 0.2,
+      "30149": 0.2,
+      "30153": 0.2
+    },
+    "tags": [
+      "arakhor estate",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "private property"
+    ],
+    "uid": [
+      1303701
+    ],
+    "unique_loot": [
+      "eahnor-banded double oak doors"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "a778f5c8d45cc79fa303b860d0320b8e",
+  "room": {
+    "id": 19056,
+    "title": [
+      "[Spitfire, Forward Deckhouse]"
+    ],
+    "description": [
+      "Bunks line the walls of the deckhouse.  Beneath each bunk sits a highly polished, wooden sea chest with shining brass hardware.  The bunks are strung with heavy hemp cording, and a blanket rests at the foot of each, neatly folded.  A small window on the forward bulkhead offers light, amplified by the pristine white walls."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19055": "go door",
+      "19211": "south"
+    },
+    "timeto": {
+      "19055": 0.2,
+      "19211": 0.2
+    }
+  }
+}

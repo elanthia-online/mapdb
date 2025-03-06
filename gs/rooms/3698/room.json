@@ -1,0 +1,42 @@
+{
+  "checksum": "c1475e63cf939547b7a9a471afd0a673",
+  "room": {
+    "id": 3698,
+    "title": [
+      "[Darkstone, Outer Chamber]"
+    ],
+    "description": [
+      "Row upon row of iron manacles bolted securely into the ceiling still hold tightly to the remains of the poor souls trapped forever in this horrible place.  Something about the floor catches your eye as you dodge to avoid the clattering, lifeless bodies."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3697": "go door",
+      "3699": "go panel"
+    },
+    "timeto": {
+      "3697": 0.2,
+      "3699": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      388001
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      390,
+      1287,
+      400,
+      1297
+    ]
+  }
+}

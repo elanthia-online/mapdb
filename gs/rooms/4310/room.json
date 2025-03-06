@@ -1,0 +1,48 @@
+{
+  "checksum": "58bd1bc9c76e6facf95532c366c863eb",
+  "room": {
+    "id": 4310,
+    "title": [
+      "[Mine]"
+    ],
+    "description": [
+      "The north-south passage continues but a wide opening in the wall on the east side of the tunnel shows a wide opening to a natural cavern.  There are small rocks strewn about the floor but none of any size."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4309": "south",
+      "4311": "north",
+      "4318": "east"
+    },
+    "timeto": {
+      "4309": 0.2,
+      "4311": 0.2,
+      "4318": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24041
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      755,
+      444,
+      765,
+      454
+    ]
+  }
+}

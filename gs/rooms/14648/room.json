@@ -1,0 +1,27 @@
+{
+  "checksum": "64208797cb56d5faf31d7b4ea404170f",
+  "room": {
+    "id": 14648,
+    "title": [
+      "[Wehnimer's Fine Art Wing]"
+    ],
+    "description": [
+      "This is the Main Gallery of the Fine Arts wing.  Installed here is a unique collection of art objects from the far corners of the world."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14448": "south",
+      "14649": "northwest"
+    },
+    "timeto": {
+      "14448": 0.2,
+      "14649": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

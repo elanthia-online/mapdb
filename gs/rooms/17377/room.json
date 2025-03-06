@@ -1,0 +1,36 @@
+{
+  "checksum": "0dbe1fad9828becf4a3235151c07f18d",
+  "room": {
+    "id": 17377,
+    "title": [
+      "[Khazar's Hold, Trading Post]"
+    ],
+    "description": [
+      "A potbellied iron stove sits in the center of this building, spreading heat throughout the store.  The black chimney stretches upward and through the roof.  Animal skins and woven tapestries hang on the wall, and thin red carpet covers the floor.  A broken ship's wheel leans against the wall in one corner and a small iron anchor in another corner.  The trading post branches off into four directions, one for each specialty."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west, out"
+    ],
+    "location": "Khazar's Hold",
+    "wayto": {
+      "1016": "out",
+      "17435": "west",
+      "17436": "east",
+      "17437": "north",
+      "34606": "south"
+    },
+    "timeto": {
+      "1016": 0.2,
+      "17435": 0.2,
+      "17436": 0.2,
+      "17437": 0.2,
+      "34606": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      13002100
+    ]
+  }
+}

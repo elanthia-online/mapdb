@@ -1,0 +1,43 @@
+{
+  "checksum": "23043518cbb4caeb5fb489bc9a5e6049",
+  "room": {
+    "id": 2108,
+    "title": [
+      "[Manor House, Entry Hall]"
+    ],
+    "description": [
+      "Pale marble peeks through the thick layer of soot on the floor, hinting at an elegant past for this house.  Graceful stone pedestals line the walls, empty now, but for a few broken shards of crockery that might have once been fine ceramic urns."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest, west"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2107": "south",
+      "2109": "east",
+      "2110": "west",
+      "2111": "southwest",
+      "2112": "go arch"
+    },
+    "timeto": {
+      "2107": 0.2,
+      "2109": 0.2,
+      "2110": 0.2,
+      "2111": 0.2,
+      "2112": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030035
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      965,
+      1066,
+      975,
+      1076
+    ]
+  }
+}

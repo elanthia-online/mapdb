@@ -1,0 +1,40 @@
+{
+  "checksum": "57efa0c353244caf1605d7267371d52f",
+  "room": {
+    "id": 16181,
+    "title": [
+      "[Marsh Keep, Southwest Parapet]"
+    ],
+    "description": [
+      "Broken pieces of wood along with several rusted bands of metal cover the parapet at the southwest corner.  Visible to the west is a hill rising up out of the mist, and beyond it, the Great Western Sea.  The sound of distant troll screams and roars float in over the parapet, from the marshes beyond."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16179": "north",
+      "16209": "east"
+    },
+    "timeto": {
+      "16179": 0.2,
+      "16209": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376085
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      939,
+      735,
+      949,
+      745
+    ]
+  }
+}

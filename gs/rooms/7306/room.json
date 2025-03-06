@@ -1,0 +1,49 @@
+{
+  "checksum": "11b964699750960edb94a6da6c2ad4e2",
+  "room": {
+    "id": 7306,
+    "title": [
+      "[Graveyard, Burial Mound]"
+    ],
+    "description": [
+      "The remains here consist of the dead bodies of a few small burrowing creatures and little else of apparent value.  Broken chests, torn hogsheads and gunny sacks, stiff goatskins filled with sour ale, some worm-eaten leatherbound books, and other everyday items that have long outlived their usefulness have been left behind here to rot."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7245": "go burrow",
+      "7307": "east",
+      "7311": "south"
+    },
+    "timeto": {
+      "7245": 0.2,
+      "7307": 0.2,
+      "7311": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18034
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      662,
+      332,
+      672,
+      342
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "2d018a7af5757cdabce653ddccd14d81",
+  "room": {
+    "id": 2945,
+    "title": [
+      "[Abbey, Porch]"
+    ],
+    "description": [
+      "From its vantage atop a spiraling rise of stone steps, the porch provides a sweeping view of the bordering valley, which stretches in a sea of white and grey and green to the misty horizon.  The stonehold below is built into the mountainside, blocking views of the trail leading away from the abbey.  Polished parquet doors of spruce and maple are flung open like outstretched, welcoming arms.  The lintel above is intricately carved."
+    ],
+    "paths": [
+      "Obvious paths: north, down",
+      "Obvious paths: north"
+    ],
+    "location": "the Abbey",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2944": "go steps",
+      "2946": "north",
+      "2952": "go doors"
+    },
+    "timeto": {
+      "2944": 0.2,
+      "2946": 0.2,
+      "2952": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      4132020
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      715,
+      756,
+      767,
+      811
+    ]
+  }
+}

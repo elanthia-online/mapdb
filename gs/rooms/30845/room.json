@@ -1,0 +1,47 @@
+{
+  "checksum": "c39b559e48cab3fa91259b47d52fc978",
+  "room": {
+    "id": 30845,
+    "title": [
+      "[Atoll, Canopied Path]"
+    ],
+    "description": [
+      "Two paths converge into one here, ivory stepping stones from the southwest, obsidian from the southeast, creating a narrow, checkered path winding to the south.  The air surrounding the southern path shimmers with distortion, a copse of dark-thorned trees rising along either side to create a canopy overhead.  Skeletons of ships litter the waters of the ocean beyond, each worn from long exposure to weather.",
+      "A narrow path leads toward the atoll, the air surrounding it distorted.  A copse of dark-thorned trees crest either side of the path, creating a canopy overhead.  The skeletons of ships litter the waters of the ocean beyond, each worn from long exposure to weather."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest"
+    ],
+    "location": "the Atoll",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30844": "southeast",
+      "30846": "southwest",
+      "30850": "south"
+    },
+    "timeto": {
+      "30844": 0.2,
+      "30846": 0.2,
+      "30850": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      7138108
+    ],
+    "image": "kf-atoll-1652294074.jpg",
+    "image_coords": [
+      289,
+      98,
+      318,
+      127
+    ]
+  }
+}

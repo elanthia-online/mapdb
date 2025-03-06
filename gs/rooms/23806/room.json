@@ -1,0 +1,36 @@
+{
+  "checksum": "ac150db23bc5e23d5e34aad0038cfa33",
+  "room": {
+    "id": 23806,
+    "title": [
+      "[Collectibles Shop]"
+    ],
+    "description": [
+      "This cozy little warehouse almost has a boutique-like feel to it.  Individual displays are separated by large hanging tapestries and are individually attended by smartly dressed assistants.  A light perfume hangs in the air, continually refreshed by occasional spritzes from an unseen source."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "286": "go out",
+      "30708": "/rooms/23806/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "286": 0.2,
+      "30708": "/rooms/23806/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "collectibles",
+      "meta:teleport:fwi",
+      "urchin-access",
+      "urchin guide collectibles",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5300
+    ]
+  }
+}

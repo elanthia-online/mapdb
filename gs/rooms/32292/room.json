@@ -1,0 +1,30 @@
+{
+  "checksum": "90374850d736d7e8419fc5c39b6b465f",
+  "room": {
+    "id": 32292,
+    "title": [
+      "[Huckleberry Room Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "32289": "pull lever",
+      "32293": "go curtain"
+    },
+    "timeto": {
+      "32289": 0.2,
+      "32293": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      4043258
+    ]
+  }
+}

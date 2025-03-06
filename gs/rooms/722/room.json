@@ -1,0 +1,48 @@
+{
+  "checksum": "f793f6572901f3f841349b0aee840e8a",
+  "room": {
+    "id": 722,
+    "title": [
+      "[Ta'Illistim, Aaendarein Gaer]"
+    ],
+    "description": [
+      "The gaer narrows as it approaches the edge of the cliffs, the cobblestoned surface barely wide enough to permit walking single file.  A lone maoral tree, its branches providing leafy shade above the path, has gained foothold in the rocky soil.  The starry night seems to melt into the edge of the nearby cliffs.",
+      "The gaer narrows as it approaches the edge of the cliffs, the cobblestoned surface barely wide enough to permit walking single file.  A lone maoral tree, its branches providing leafy shade above the path, has gained foothold in the rocky soil.  The vista of the Yegharren Plains can barely be seen in the distance past the edge of the cliffs."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "720": "west",
+      "723": "east",
+      "724": "south",
+      "3555": "go building",
+      "3556": "go shop"
+    },
+    "timeto": {
+      "720": 0.2,
+      "723": 0.2,
+      "724": 0.2,
+      "3555": 0.2,
+      "3556": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100037
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1507,
+      462,
+      1530,
+      485
+    ]
+  }
+}

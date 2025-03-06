@@ -1,0 +1,31 @@
+{
+  "checksum": "e1f8d9da97f44b79169cea2096282854",
+  "room": {
+    "id": 30660,
+    "title": [
+      "[Zul Logoth Hall, Tunnel]"
+    ],
+    "description": [
+      "To the northwest, the tunnel slopes down towards a dimly lit lake, while to the northeast it inclines gently upward.  A little more light can be seen to the south.  The walls are wet with the sheen of water, which flows towards the northwestern tunnel.  A round door is set into the east wall, a small sign hanging from it."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, northwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "30659": "south",
+      "30661": "go door",
+      "30662": "northwest",
+      "30665": "northeast"
+    },
+    "timeto": {
+      "30659": 0.2,
+      "30661": 0.2,
+      "30662": 0.2,
+      "30665": 0.2
+    },
+    "uid": [
+      856010
+    ]
+  }
+}

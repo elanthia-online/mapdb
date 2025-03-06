@@ -1,0 +1,27 @@
+{
+  "checksum": "4a0d9754a37fa2ba4830303c0cc59d64",
+  "room": {
+    "id": 35010,
+    "title": [
+      "[Glaoveln, Scrimshaw Cliffs]"
+    ],
+    "description": [
+      "The footpath winds toward the end of the promontory and the edifice that oversees it.  Built from rough-hewn blocks of stone, the lighthouse at the promontory's end is pocked from years of assault from the salt-laden wind.  It looms over the waters far below, a cold monument over a colder shore."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35009": "northwest",
+      "35011": "go lighthouse"
+    },
+    "timeto": {
+      "35009": 0.2,
+      "35011": 0.2
+    },
+    "uid": [
+      4426219
+    ]
+  }
+}

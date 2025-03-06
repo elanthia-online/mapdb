@@ -1,0 +1,38 @@
+{
+  "checksum": "af9f1090a04e3c2ad60729d7aba8b7cd",
+  "room": {
+    "id": 8233,
+    "title": [
+      "[Wolves' Den, Corridor]"
+    ],
+    "description": [
+      "The walls are lined with torch sconces set into the grey stone.  Lichens have taken root on the ceiling, staining it a greenish-brown."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8229": "north",
+      "8239": "south"
+    },
+    "timeto": {
+      "8229": 0.2,
+      "8239": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390026
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      132,
+      389,
+      142,
+      399
+    ]
+  }
+}

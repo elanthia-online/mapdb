@@ -1,0 +1,35 @@
+{
+  "checksum": "08848c9175406460ac08075e2a1e0b49",
+  "room": {
+    "id": 18124,
+    "title": [
+      "[Sorcerer Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "18123": "north",
+      "18927": "go cauldrons"
+    },
+    "timeto": {
+      "18123": 0.2,
+      "18927": 0.2
+    },
+    "uid": [
+      661712
+    ],
+    "image": "wl-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      484,
+      481,
+      523,
+      519
+    ],
+    "check_location": true
+  }
+}

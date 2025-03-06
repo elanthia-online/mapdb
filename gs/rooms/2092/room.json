@@ -1,0 +1,66 @@
+{
+  "checksum": "7fac5326a153607f74a0b9f7571ffae0",
+  "room": {
+    "id": 2092,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "The trees at the edge of the forest are singed, but still living.  Though their limbs were blackened by the fire, tiny shoots lend a sense of rejuvenation to these otherwise dreary surroundings.  Peering further into the woods, you can see that the swath of destruction cut by the flames was mercifully stopped just south of here, leaving vast numbers of trees unharmed.",
+      "The trees at the edge of the forest are singed, but still living.  Though their limbs were blackened by the fire, tiny bursts of bright green shoots lend a sense of rejuvenation to these otherwise dreary surroundings.  Peering further into the woods, you can see that the swath of destruction cut by the flames was mercifully stopped just south of here, leaving vast numbers of trees unharmed."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2091": "north",
+      "2093": "west",
+      "2105": "go warehouse"
+    },
+    "timeto": {
+      "2091": 0.2,
+      "2093": 0.2,
+      "2105": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030233
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      1050,
+      1331,
+      1060,
+      1341
+    ]
+  }
+}

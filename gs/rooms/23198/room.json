@@ -1,0 +1,39 @@
+{
+  "checksum": "d885c16ab392154c5aa4be5eda3a6427",
+  "room": {
+    "id": 23198,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23195": "go blue curtain",
+      "23197": "south",
+      "23199": "north",
+      "32987": "go golden curtain"
+    },
+    "timeto": {
+      "23195": 0.2,
+      "23197": 0.2,
+      "23199": 0.2,
+      "32987": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001054
+    ],
+    "unique_loot": [
+      "deep blue curtain with the sigil of Twilight Hall"
+    ]
+  }
+}

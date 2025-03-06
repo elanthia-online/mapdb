@@ -1,0 +1,33 @@
+{
+  "checksum": "e8aaf2ffef43b7896a1be7ae2960db55",
+  "room": {
+    "id": 25306,
+    "title": [
+      "[Rose's Arms Depot]"
+    ],
+    "description": [
+      "Framed in oak, a pair of windows flank the entry and allow the bright glow of the day to slant across the smooth tiles of the floor.  Sturdy racks, crafted of various woods dyed a warm golden hue, are neatly arranged throughout the shop and display the various wares sold here.  A thin counter, its sides wrapped in off-white skirts, stretches across the back wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3638": "out",
+      "30718": "/rooms/25306/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3638": 0.2,
+      "30718": "/rooms/25306/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons"
+    ],
+    "uid": [
+      3209307
+    ]
+  }
+}

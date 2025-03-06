@@ -1,0 +1,31 @@
+{
+  "checksum": "e2c50f76dc824446e338a3ce233c72a8",
+  "room": {
+    "id": 14024,
+    "title": [
+      "[Silverwood Manor, Library Foyer]"
+    ],
+    "description": [
+      "Opposite the entry arch of this spacious room is a curving mahogany desk.  Dozens of pillar candles, placed in clusters on outcroppings of the rough stone walls, cause fickle patches of light and shadow to dance about the area.  Affixed to the wall behind the desk is a large silver-framed sign."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13536": "east",
+      "14023": "go arch"
+    },
+    "timeto": {
+      "13536": 0.2,
+      "14023": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384027
+    ]
+  }
+}

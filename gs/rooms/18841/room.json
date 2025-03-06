@@ -1,0 +1,55 @@
+{
+  "checksum": "dd522591c0858d61438d7cc7eb6d3cad",
+  "room": {
+    "id": 18841,
+    "title": [
+      "[Mistydeep, South of Ravelin]"
+    ],
+    "description": [
+      "From this vantage point, the island appears silent and brooding, its lofty central stone spire looking down on an eclectic collection of dense trees and plant life.  The surface of the edifice reveals the handiwork of ancient masons as windows and platforms emerge from the tower's face, skillfully hewn from granite.  Details are obscure, but the imposing structure exudes an aura of desolation.  At the island's rim, a mottled brown lizard suns itself on a shelf of bedrock.",
+      "From this vantage point, the island appears silent and brooding, its lofty central rock spire overlooking a dense cluster of trees and plant life.  A thin shroud of fog enfolds the edifice, yet does not extend into the woods below.  Shifting shadows unveil gaping windows and jutting platforms skillfully hewn from the granite.  Details are obscure, but the structure exudes a haunting aura of desolation.  A ghost-white owl perched on a high branch lifts its head with a seeming challenge of, \"Whooo!\""
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest, west, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18823": "/rooms/18841/wayto/stringproc-18823.rb",
+      "18842": "/rooms/18841/wayto/stringproc-18842.rb",
+      "25616": "/rooms/18841/wayto/stringproc-25616.rb",
+      "25617": "/rooms/18841/wayto/stringproc-25617.rb",
+      "30508": "swim down"
+    },
+    "timeto": {
+      "18823": "/rooms/18841/timeto/stringproc-18823.rb",
+      "18842": "/rooms/18841/timeto/stringproc-18842.rb",
+      "25616": "/rooms/18841/timeto/stringproc-25616.rb",
+      "25617": "/rooms/18841/timeto/stringproc-25617.rb",
+      "30508": "/rooms/18841/timeto/stringproc-30508.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117015
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1204,
+      771,
+      1222,
+      789
+    ]
+  }
+}

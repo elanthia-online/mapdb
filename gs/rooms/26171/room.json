@@ -1,0 +1,58 @@
+{
+  "checksum": "a8ccd6d724d469a7d2b9fe1e8921c6a5",
+  "room": {
+    "id": 26171,
+    "title": [
+      "[Reim Fortress, East Gate]"
+    ],
+    "description": [
+      "Sunlight trickles into the passageway from the partially collapsed oak ceiling, its golden illumination filling the dark space and highlighting the scars of past battles upon the stone walls.  Oily stains, thick and hardened from time, adorn the granite that frames the open east gate that offer egress from the dingy fortress's confines."
+    ],
+    "paths": [
+      "Obvious exits: west, up",
+      "Obvious paths: west, up"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "26170": "west",
+      "26172": "up",
+      "26173": "go gate"
+    },
+    "timeto": {
+      "26170": 0.2,
+      "26172": 0.2,
+      "26173": 0.2
+    },
+    "tags": [
+      "meta:map:multi-uid",
+      "no forageables"
+    ],
+    "uid": [
+      7107077,
+      7107127,
+      7107177,
+      7107227,
+      7107277,
+      7107327,
+      7107377,
+      7107427,
+      7107477,
+      7107527,
+      7107577,
+      7107627,
+      7107677,
+      7107727,
+      7107777,
+      7107827
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      712,
+      296,
+      748,
+      331
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "eb937a9599418786108ada79a9e4ec83",
+  "room": {
+    "id": 17542,
+    "title": [
+      "[Kaithairenne's Weaponry]",
+      "[Kaithairenne's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a pair of wooden snowshoes hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a plain cotton mat rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12264": "out",
+      "17548": "northwest",
+      "17549": "northeast"
+    },
+    "timeto": {
+      "12264": 0.2,
+      "17548": 0.2,
+      "17549": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

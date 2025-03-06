@@ -1,0 +1,36 @@
+{
+  "checksum": "9d0005e9d858e15531d8086c0fb93417",
+  "room": {
+    "id": 25687,
+    "title": [
+      "[House Brigatta, Secret Tunnel]"
+    ],
+    "description": [
+      "The tunnel is quite dry and has a hard dirt floor.  It ends against a blank wall with no way to get out.  At the other end is a curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21323": "/rooms/25687/wayto/stringproc-21323.rb",
+      "25688": "go opening"
+    },
+    "timeto": {
+      "21323": 0.6,
+      "25688": 0.2
+    },
+    "tags": [
+      "meta:che:House Brigatta"
+    ],
+    "uid": [
+      107307
+    ],
+    "image_coords": [
+      51,
+      290,
+      133,
+      342
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "0c0ba7415b7ac2ebf327a5badb160602",
+  "room": {
+    "id": 11320,
+    "title": [
+      "[Alchemist, Hallway]"
+    ],
+    "description": [
+      "Shadows haunt the stark corridor.  Only streaks of dust and unevenly spaced footprints decorate the floor, and the walls are bare of even that adornment.  The fetid odor of rotting animal flesh drifts from the south, and some peculiar scratches mark the floor at that entrance to the room."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11319": "west",
+      "11321": "south"
+    },
+    "timeto": {
+      "11319": 0.2,
+      "11321": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377114
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      861,
+      779,
+      871,
+      789
+    ]
+  }
+}

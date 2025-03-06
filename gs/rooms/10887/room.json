@@ -1,0 +1,52 @@
+{
+  "checksum": "1690c8df0e1fdb23ef0d049e1fe81b3c",
+  "room": {
+    "id": 10887,
+    "title": [
+      "[River's Rest, Captain's Room]"
+    ],
+    "description": [
+      "Although few signs of the maritime heritage of this town remain, it seems the law is a throwback.  The Captain's Quarter is sparsely outfitted with a map station gracing one wall and a large bench resting at the foot of a neatly made bunk.  The floor is made of rough wood planks.  In one corner you notice a hatchway, large enough to allow a giantman to slip through easily.  However, the large lock which secures it makes you pause to think twice about investigating any further."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10841": "out",
+      "10888": "go door",
+      "10895": "west",
+      "10896": "north",
+      "30711": "/rooms/10887/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10841": 0.2,
+      "10888": 0.2,
+      "10895": 0.2,
+      "10896": 0.2,
+      "30711": "/rooms/10887/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "rogue guild hardlock",
+      "rogue guild hardlock:hatchway",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2101300
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1299,
+      927,
+      1322,
+      949
+    ]
+  }
+}

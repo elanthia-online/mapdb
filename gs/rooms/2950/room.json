@@ -1,0 +1,44 @@
+{
+  "checksum": "35cac8b2ef6144625c7c635ddd6b1aba",
+  "room": {
+    "id": 2950,
+    "title": [
+      "[Abbey Cloistered Walk]"
+    ],
+    "description": [
+      "The cloister arcade bends northward toward the abbey chapel and east toward the cells of the dorter.  To the west is a cultivated garden, from which the music of falling water and the perfume of wild roses beckons."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west",
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the Abbey",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2949": "west",
+      "2966": "east",
+      "28867": "north"
+    },
+    "timeto": {
+      "2949": 0.2,
+      "2966": 0.2,
+      "28867": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      4132043
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      829,
+      529,
+      881,
+      583
+    ]
+  }
+}

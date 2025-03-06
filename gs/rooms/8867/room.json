@@ -1,0 +1,30 @@
+{
+  "checksum": "261be88aef4f2d241edfc4daca5f57f4",
+  "room": {
+    "id": 8867,
+    "title": [
+      "[Kilron's Pawnshop, Stash Room]"
+    ],
+    "description": [
+      "You slip behind the rack and are startled to see all manner of precious gems, ora and mein jewelry, and sacks of coins piled on the floor. Tempted to help yourself, thinking a missing sack might go unnoticed, the narrow exit and the pawnbroker in the outer room make you reconsider."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "408": "out"
+    },
+    "timeto": {
+      "408": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5164
+    ]
+  }
+}

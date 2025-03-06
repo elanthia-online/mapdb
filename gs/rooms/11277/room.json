@@ -1,0 +1,41 @@
+{
+  "checksum": "9bca720e52ad159dfbc9277342dee693",
+  "room": {
+    "id": 11277,
+    "title": [
+      "[Zoo, Cage Area]"
+    ],
+    "description": [
+      "The path ends here between two cages, one of them barren of vegetation.  The other has a thick growth of grass and a small stream running through the center."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Citadel",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11276": "north",
+      "11278": "go door"
+    },
+    "timeto": {
+      "11276": 0.2,
+      "11278": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      377066
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      590,
+      843,
+      600,
+      853
+    ]
+  }
+}

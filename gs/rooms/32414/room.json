@@ -1,0 +1,43 @@
+{
+  "checksum": "04db4d115b3b16ab26345759646198bd",
+  "room": {
+    "id": 32414,
+    "title": [
+      "[Moonsedge, Bramble Street]"
+    ],
+    "description": [
+      "A trio of gibbets stands along the roadside, suspending rusty metal cages.  Though two are empty, one cage holds charred bones, the skeleton fused together by combustion.  The ghoulish instruments of execution were set up with little regard for the windows of the bordering businesses, including a tailor shop with boarded windows and a padlock securing its door."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32405": "north",
+      "32415": "south",
+      "32426": "east"
+    },
+    "timeto": {
+      "32405": 0.2,
+      "32415": 0.2,
+      "32426": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577012
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      380,
+      222,
+      399,
+      243
+    ]
+  }
+}

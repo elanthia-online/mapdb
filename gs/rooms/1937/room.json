@@ -1,0 +1,36 @@
+{
+  "checksum": "dcd95291dcd59218701e5239bd8103d9",
+  "room": {
+    "id": 1937,
+    "title": [
+      "[Adventurers' Rest, Long Hall]"
+    ],
+    "description": [
+      "Your footsteps echo sharply off the gleaming stone walls of this long hall."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1936": "west",
+      "1938": "east",
+      "27389": "go opal arch"
+    },
+    "timeto": {
+      "1936": 0.2,
+      "1938": 0.2,
+      "27389": 0.2
+    },
+    "uid": [
+      3003251
+    ],
+    "image": "ti-adventurers_rest-1486448911.png",
+    "image_coords": [
+      1026,
+      670,
+      1171,
+      736
+    ]
+  }
+}

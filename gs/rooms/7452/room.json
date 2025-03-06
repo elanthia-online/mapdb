@@ -1,0 +1,56 @@
+{
+  "checksum": "5dab525ee4eedf967e2425f01e31c504",
+  "room": {
+    "id": 7452,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "The terrain here is little more than a jumble of huge boulders and jagged rocks.  A dense fog obscures your vision, and everywhere you look, everything looks the same."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, west, northwest"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7446": "/rooms/7452/wayto/stringproc-7446.rb",
+      "7447": "/rooms/7452/wayto/stringproc-7447.rb",
+      "7451": "/rooms/7452/wayto/stringproc-7451.rb",
+      "7454": "/rooms/7452/wayto/stringproc-7454.rb",
+      "23261": "/rooms/7452/wayto/stringproc-23261.rb",
+      "23263": "/rooms/7452/wayto/stringproc-23263.rb",
+      "23264": "/rooms/7452/wayto/stringproc-23264.rb"
+    },
+    "timeto": {
+      "7446": 3.2,
+      "7447": 3.2,
+      "7451": 3.2,
+      "7454": 3.2,
+      "23261": 3.2,
+      "23263": 3.2,
+      "23264": 3.2
+    },
+    "tags": [
+      "some blackened moss",
+      "large black toadstool",
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306028
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      650,
+      951,
+      660,
+      961
+    ]
+  }
+}

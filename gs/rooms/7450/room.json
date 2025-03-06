@@ -1,0 +1,58 @@
+{
+  "checksum": "b5efb18417b6558f167ab98400a5dcf5",
+  "room": {
+    "id": 7450,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "A large crystal dome rises above the jumble of huge boulders and jagged rocks, breaking the monotony of the terrain.  There is no question in your mind that the dome is man-made and not a natural feature of the area.  A dense fog swirls around the base of the dome, and generally obscures your vision."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "17319": "/rooms/7450/wayto/stringproc-17319.rb",
+      "23259": "/rooms/7450/wayto/stringproc-23259.rb",
+      "23262": "/rooms/7450/wayto/stringproc-23262.rb",
+      "23263": "/rooms/7450/wayto/stringproc-23263.rb",
+      "23264": "/rooms/7450/wayto/stringproc-23264.rb",
+      "23265": "/rooms/7450/wayto/stringproc-23265.rb",
+      "23266": "/rooms/7450/wayto/stringproc-23266.rb",
+      "23267": "/rooms/7450/wayto/stringproc-23267.rb"
+    },
+    "timeto": {
+      "17319": 3.2,
+      "23259": 3.2,
+      "23262": 3.2,
+      "23263": 3.2,
+      "23264": 3.2,
+      "23265": 3.2,
+      "23266": 3.2,
+      "23267": 3.2
+    },
+    "tags": [
+      "large black toadstool",
+      "some blackened moss",
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306033
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      676,
+      897,
+      686,
+      907
+    ]
+  }
+}

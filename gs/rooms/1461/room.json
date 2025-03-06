@@ -1,0 +1,42 @@
+{
+  "checksum": "7ee809adc4b39d1af1ecaf166e0beca2",
+  "room": {
+    "id": 1461,
+    "title": [
+      "[Solhaven, Wentletrap Lane]"
+    ],
+    "description": [
+      "The crowds are thick here, travelling towards the Market Square.  Prosperous-looking merchants hurry in and out of the Bank of Solhaven, their coin purses jingling.  Two giantman guards flank the arched doors, carefully scrutinizing all who enter."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1459": "east",
+      "1460": "west",
+      "5710": "go doors"
+    },
+    "timeto": {
+      "1459": 0.2,
+      "1460": 0.2,
+      "5710": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209041
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1063,
+      639,
+      1087,
+      663
+    ]
+  }
+}

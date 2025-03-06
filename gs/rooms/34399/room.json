@@ -1,0 +1,44 @@
+{
+  "checksum": "b82ecfb8c418ebf02d5eff96639a96df",
+  "room": {
+    "id": 34399,
+    "title": [
+      "[Hinterwilds - Urchin Hideout]"
+    ],
+    "description": [
+      "This is a fake room used to hold wayto/timeto for urchin guides."
+    ],
+    "paths": [
+      "Obvious exits: bwahaha"
+    ],
+    "location": "Hinterwilds",
+    "wayto": {
+      "29866": "urchin guide bounty",
+      "29868": "urchin guide gate",
+      "29876": "urchin guide alchemy",
+      "29877": "urchin guide guard",
+      "29881": "urchin guide pipeden",
+      "31058": "urchin guide gemshop",
+      "31059": "urchin guide bank",
+      "31060": "urchin guide furrier",
+      "31061": "urchin guide herbalist",
+      "31083": "urchin guide locksmithpool"
+    },
+    "timeto": {
+      "29866": "/rooms/34399/timeto/stringproc-29866.rb",
+      "29868": "/rooms/34399/timeto/stringproc-29868.rb",
+      "29876": "/rooms/34399/timeto/stringproc-29876.rb",
+      "29877": "/rooms/34399/timeto/stringproc-29877.rb",
+      "29881": "/rooms/34399/timeto/stringproc-29881.rb",
+      "31058": "/rooms/34399/timeto/stringproc-31058.rb",
+      "31059": "/rooms/34399/timeto/stringproc-31059.rb",
+      "31060": "/rooms/34399/timeto/stringproc-31060.rb",
+      "31061": "/rooms/34399/timeto/stringproc-31061.rb",
+      "31083": "/rooms/34399/timeto/stringproc-31083.rb"
+    },
+    "tags": [
+      "urchin-hideout",
+      "meta:map:virtual room"
+    ]
+  }
+}

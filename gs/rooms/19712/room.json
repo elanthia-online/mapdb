@@ -1,0 +1,40 @@
+{
+  "checksum": "5f1c6a89a7eaa14d42a13092eaf03d02",
+  "room": {
+    "id": 19712,
+    "title": [
+      "[Cavernhold, Damp Passage]"
+    ],
+    "description": [
+      "This narrow passage is damp and smells of fungus."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19711": "northwest",
+      "19721": "southeast"
+    },
+    "timeto": {
+      "19711": 0.2,
+      "19721": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10058
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      360,
+      942,
+      368,
+      951
+    ]
+  }
+}

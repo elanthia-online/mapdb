@@ -1,0 +1,41 @@
+{
+  "checksum": "17cd6f2206e76da86f0ab53c0e4f32ba",
+  "room": {
+    "id": 4161,
+    "title": [
+      "[Hall of the Dead, Vault Room]"
+    ],
+    "description": [
+      "Although not as ornately carved as some in these halls, the niches here are neat.  The placards are simply decorated, while still reflecting some form of family wealth."
+    ],
+    "paths": [
+      "Obvious exits: east, west, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4148": "northwest",
+      "4160": "east",
+      "4162": "west"
+    },
+    "timeto": {
+      "4148": 0.2,
+      "4160": 0.2,
+      "4162": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138011
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      774,
+      787,
+      784,
+      797
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "aa95c50525c1b45ec873acb3cac2dcce",
+  "room": {
+    "id": 14205,
+    "title": [
+      "[Clergy Hall, Common Room]"
+    ],
+    "description": [
+      "Priestesses and monks exchange greetings and mingle in the residence hall's common room.  A pair of long tables with attached benches run most of the width of the room, serving as dining or work tables as the needs of the clergy dictate."
+    ],
+    "paths": [
+      "Obvious exits: southeast, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14204": "out",
+      "14206": "go storeroom door",
+      "14207": "southeast"
+    },
+    "timeto": {
+      "14204": 0.2,
+      "14206": 0.2,
+      "14207": 0.2
+    },
+    "uid": [
+      4742050
+    ]
+  }
+}

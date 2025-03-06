@@ -1,0 +1,54 @@
+{
+  "checksum": "e709658c73d380928081736029848ca4",
+  "room": {
+    "id": 2586,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A large, decrepit building stands on the top of a small hillock here.  Vines cover most of the building, avoiding only the dark stains running from the windows and roof.  The stains are a dark red or brown, giving the appearance the building has been sweating blood.  A weathered metal sign hangs just above the entryway, creaking in the non-existent breeze."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, west",
+      "Obvious paths: northeast, east, southeast, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2583": "northeast",
+      "2585": "west",
+      "2587": "east",
+      "2591": "southeast",
+      "2635": "/rooms/2586/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2586/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2586/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2583": 0.2,
+      "2585": 0.2,
+      "2587": 0.2,
+      "2591": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "twisted black mawflower"
+    ],
+    "uid": [
+      4566008
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      172,
+      670,
+      182,
+      680
+    ]
+  }
+}

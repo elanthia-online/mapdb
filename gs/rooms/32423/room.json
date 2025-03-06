@@ -1,0 +1,41 @@
+{
+  "checksum": "dc1d80699671131d6a61cef817e8b5b4",
+  "room": {
+    "id": 32423,
+    "title": [
+      "[Moonsedge, Nimbus Bridge]"
+    ],
+    "description": [
+      "The bridge is a wide span of pale stone that winds gently upward toward the castle.  To either side is a drop of hundreds of feet into a hungry black ravine that plunges between the highlands and their neighboring hills.  Patterns of inlay form intertwining branches of sweetbrier that spiral along the bridge's inner wall."
+    ],
+    "paths": [
+      "Obvious paths: southeast, down"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32422": "down",
+      "32438": "southeast"
+    },
+    "timeto": {
+      "32422": 0.2,
+      "32438": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577101
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      382,
+      529,
+      400,
+      542
+    ]
+  }
+}

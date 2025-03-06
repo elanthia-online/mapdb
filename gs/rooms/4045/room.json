@@ -1,0 +1,32 @@
+{
+  "checksum": "0860a30244b0249eb4710bc9ec58e936",
+  "room": {
+    "id": 4045,
+    "title": [
+      "[Temple, Black Altar]"
+    ],
+    "description": [
+      "The smoke of scores of incense burners fills the air of this room with a thick, acrid haze.  Through this haze can be seen the faint outline of a large, black altar of obsidian surrounded by a high rail.  Behind the altar is an arch leading to a blackened passage. Hanging nearby is a brass tube, or chime, suspended from the ceiling by a thong of leather.  Next to this chime hangs a small mallet.  The two acolytes that greeted you as you entered are standing nearby."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4044": "out"
+    },
+    "timeto": {
+      "4044": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2110
+    ]
+  }
+}

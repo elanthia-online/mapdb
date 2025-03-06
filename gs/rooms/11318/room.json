@@ -1,0 +1,38 @@
+{
+  "checksum": "3efa0f6990700c5d7288417e256d23cf",
+  "room": {
+    "id": 11318,
+    "title": [
+      "[Alchemist, Glass Room]"
+    ],
+    "description": [
+      "The colorful stains adorning the walls seem to have originated from smashed dye pots, instead of a sinister source.  A massive kiln stands against the rear wall, overshadowing four coal bins and several overturned buckets.  Multicolored sand spills from the mouth of each bucket, causing the floor to crunch softly with every step.  A trash barrel occupied one corner, but it too, has toppled, adding pieces of broken glass and other garbage to the surrounding debris."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11317": "west",
+      "11319": "north"
+    },
+    "timeto": {
+      "11317": 0.2,
+      "11319": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377116
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      834,
+      806,
+      844,
+      816
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "7c0580cdc373d76695e7d6676c92dd7e",
+  "room": {
+    "id": 31866,
+    "title": [
+      "[Icebriar Lake, Icewild Hall]"
+    ],
+    "description": [
+      "A dark stone hall sits back from the frozen lake, a crescent of matching stone cottages almost buried in the snow banks along the shore.  The south shore of the lake is engulfed by a dark forest of cedars and briars, the cobblestone path ending at a dark briar arch leading deeper within.  Several hedge animals cover the snow-blanketed ground between the dark forest and the hall."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "icy glacier",
+    "wayto": {
+      "31865": "northeast",
+      "31867": "go arch",
+      "31889": "go carriage house",
+      "31891": "go silver gate",
+      "31916": "go silver-bound doors"
+    },
+    "timeto": {
+      "31865": 0.2,
+      "31867": 0.2,
+      "31889": 0.2,
+      "31891": 0.2,
+      "31916": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083078
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1089,
+      205,
+      1111,
+      225
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "ad86d797d0cdde79649c3d38fdb60db4",
+  "room": {
+    "id": 29539,
+    "title": [
+      "[Clovertooth Hall, Upper Gallery]"
+    ],
+    "description": [
+      "From the eastern portion of the upper gallery, the features of the dark riverstone statue in the center of the lobby below are difficult to discern.  A broad runner of heavy blue wool with a silver border follows the curve of the pathway, proceeding past the cedar door to the town censor's office.  Nooks in the walls hold vases full of edelweiss and resting poppy, lending a splash of color to the pale stone walls."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29528": "southwest",
+      "29541": "go door",
+      "29542": "northwest"
+    },
+    "timeto": {
+      "29528": 0.2,
+      "29541": 0.2,
+      "29542": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043044
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      776,
+      986,
+      864,
+      1076
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checksum": "f3e1d386d6604730ba7491e626e6c911",
+  "room": {
+    "id": 1006,
+    "title": [
+      "[Zul Logoth, Crystalline Cavern]"
+    ],
+    "description": [
+      "A spacious gem dome stretches out to the northeast, east and southeast, unsupported by pillars or beams.  The curvature is accented by the placement of hundreds of thousands of clear crystals across the stone sky.  The crystals catch the light from the luminescent toadstools beneath, reflecting and refracting the light in brilliant white as well as all the colors of the rainbow.  As one shifts position, the varying bands of light shift and play colorfully along the stone floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, southwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1005": "east",
+      "1007": "southwest",
+      "9407": "northeast",
+      "9412": "southeast",
+      "9469": "go door",
+      "9470": "go arch"
+    },
+    "timeto": {
+      "1005": 0.2,
+      "1007": 0.2,
+      "9407": 0.2,
+      "9412": 0.2,
+      "9469": 0.2,
+      "9470": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006014
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      547,
+      527,
+      567,
+      547
+    ]
+  }
+}

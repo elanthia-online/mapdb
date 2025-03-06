@@ -1,0 +1,53 @@
+{
+  "checksum": "406f1a7d3cf86d483e9115bc05199f8f",
+  "room": {
+    "id": 7492,
+    "title": [
+      "[Wehnimer's, Catacombs]"
+    ],
+    "description": [
+      "Thick patches of slimy lichen cover the walls and ceiling of this narrow tunnel.  The scraping and clawing noises that can be heard coming from all directions are not missing here, and you wonder just how limitless is the population of the creatures who make the noise."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7491": "east",
+      "7493": "southwest",
+      "7494": "northwest"
+    },
+    "timeto": {
+      "7491": 0.2,
+      "7493": 0.2,
+      "7494": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46051
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      821,
+      968,
+      831,
+      978
+    ]
+  }
+}

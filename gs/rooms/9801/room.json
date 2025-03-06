@@ -1,0 +1,42 @@
+{
+  "checksum": "afc6c306bf5f5529f8c9292a1c1d9cc2",
+  "room": {
+    "id": 9801,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "The moisture has eroded the walls, revealing a constricted network of roots.  The air, once alive with the fragrance of nature, now smells imprisoned and devoid of life.  Even the roots and moss seem to writhe in some sort of unnatural pain."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southwest, west"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9800": "southwest",
+      "9802": "northeast",
+      "9803": "east",
+      "9805": "west"
+    },
+    "timeto": {
+      "9800": 0.2,
+      "9802": 0.2,
+      "9803": 0.2,
+      "9805": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022022
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1096,
+      545,
+      1106,
+      555
+    ]
+  }
+}

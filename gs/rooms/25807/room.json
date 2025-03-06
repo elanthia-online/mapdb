@@ -1,0 +1,39 @@
+{
+  "checksum": "8468591e8e656155ec11031b2a440090",
+  "room": {
+    "id": 25807,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Casting shadows upon the gently churning waters of the channel, the northern face of the southern island is comprised of high cliffs and deep crags.  Overgrown vines dangle down its ragged face and are heavy with bright white and blue passionflowers.  A fruity aroma fills the air and mingles with the pungency of the salty surf."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25806": "/rooms/25807/wayto/stringproc-25806.rb",
+      "25808": "/rooms/25807/wayto/stringproc-25808.rb"
+    },
+    "timeto": {
+      "25806": 6,
+      "25808": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223874
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1521,
+      1839,
+      1540,
+      1858
+    ]
+  }
+}

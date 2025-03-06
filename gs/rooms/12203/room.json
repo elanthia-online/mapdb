@@ -1,0 +1,50 @@
+{
+  "checksum": "2e6709cf00c3a9312ceecb62a8cf77e8",
+  "room": {
+    "id": 12203,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A forest of large trees stretches in all directions.  Their bark is an ashen grey, and their leaves almost glow crimson in the dim light.  Tied to each tree is a man, arms over his head and bound tightly against the rough bark.  Each man is alive, if only barely, emaciated and weak from lack of food or water.  Every head is bowed, awaiting the sacrifice each knows he must make."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest",
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12203/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12203/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12203/wayto/stringproc-12152.rb",
+      "12202": "northwest",
+      "12204": "southeast"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12202": 0.2,
+      "12204": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4568035
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      293,
+      1059,
+      303,
+      1069
+    ]
+  }
+}

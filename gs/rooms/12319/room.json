@@ -1,0 +1,63 @@
+{
+  "checksum": "a21050c2c34baeaaace2545d2ad852f4",
+  "room": {
+    "id": 12319,
+    "title": [
+      "[Luna Rest Tavern, Common Room]"
+    ],
+    "description": [
+      "Pale green curtains frame the windows of the tavern, their expanses filled with glass panes bound in place by oak lattices.  Various tables are scattered about the room and surrounded by cozy chairs covered with rich plum cushions.  To the north the scent of roasting meats and sweet treats wafts in, while the sound of a quiet harp drifts in from the south.",
+      "Pale green curtains frame the windows of the tavern, their expanses filled with glass panes bound in place by oak lattices.  Various tables are scattered about the room and surrounded by cozy chairs covered with rich plum cushions.  To the north the scent of roasting meats and sweet treats wafts in, while the sound of laughter and music drifts in from the south."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12317": "south",
+      "13612": "/rooms/12319/wayto/stringproc-13612.rb",
+      "16420": "go archway",
+      "16429": "north",
+      "23746": "/rooms/12319/wayto/stringproc-23746.rb",
+      "26181": "/rooms/12319/wayto/stringproc-26181.rb",
+      "26182": "/rooms/12319/wayto/stringproc-26182.rb",
+      "26183": "/rooms/12319/wayto/stringproc-26183.rb",
+      "26184": "/rooms/12319/wayto/stringproc-26184.rb",
+      "26185": "/rooms/12319/wayto/stringproc-26185.rb",
+      "26186": "/rooms/12319/wayto/stringproc-26186.rb",
+      "27041": "/rooms/12319/wayto/stringproc-27041.rb",
+      "30718": "/rooms/12319/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "12317": 0.2,
+      "13612": 0.2,
+      "16420": 0.2,
+      "16429": 0.2,
+      "23746": 0.2,
+      "26181": 0.2,
+      "26182": 0.2,
+      "26183": 0.2,
+      "26184": 0.2,
+      "26185": 0.2,
+      "26186": 0.2,
+      "27041": 0.2,
+      "30718": "/rooms/12319/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables"
+    ],
+    "uid": [
+      3209361
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1483,
+      2484,
+      1496,
+      2498
+    ]
+  }
+}

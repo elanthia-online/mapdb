@@ -1,0 +1,33 @@
+{
+  "checksum": "584630c008088dd5794a1599f153c087",
+  "room": {
+    "id": 28335,
+    "title": [
+      "[Bard Guild, Hallway]"
+    ],
+    "description": [
+      "The rich cherrywood paneling of this long hallway is punctuated by polished brass sconces, whose steady glow reflects from the ivory coffered ceiling.  A thick wool runner, woven in jewel-hued shades of green and blue, muffles the footsteps of passersby from the scholars of the adjacent library."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Ta'Vaalor Bard Guild",
+    "wayto": {
+      "10438": "south",
+      "28336": "go leaded-glass door",
+      "28337": "go padded door",
+      "28338": "north",
+      "34419": "go ivory-inlaid door"
+    },
+    "timeto": {
+      "10438": 0.2,
+      "28336": 0.2,
+      "28337": 0.2,
+      "28338": 0.2,
+      "34419": 0.2
+    },
+    "uid": [
+      287003
+    ]
+  }
+}

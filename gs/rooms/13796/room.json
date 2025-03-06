@@ -1,0 +1,30 @@
+{
+  "checksum": "d36a6ec21aa80b9b82094920a55acbf4",
+  "room": {
+    "id": 13796,
+    "title": [
+      "[Nightphoenix's Outfitting]",
+      "[Nightphoenix's Magic Shoppe]"
+    ],
+    "description": [
+      "A midnight blue rising phoenix tapestry hangs on one of the painted white plaster walls, and a domed white stucco ceiling rises overhead.  A pile of striped throw pillows sits in one corner of a white limestone floor.  There is a white marble shelf on one side of the shop and a gold-leafed mistwood cabinet on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9019": "out",
+      "13824": "east",
+      "13825": "north"
+    },
+    "timeto": {
+      "9019": 0.2,
+      "13824": 0.2,
+      "13825": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

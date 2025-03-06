@@ -1,0 +1,67 @@
+{
+  "checksum": "50f4ffa4d66c67cfffcc32656678eb98",
+  "room": {
+    "id": 11630,
+    "title": [
+      "[Miasmal Forest, Spectral Mist]"
+    ],
+    "description": [
+      "Weeds, black and slick with some singularly foul form of rot, grow thick in the malodorous bogs that line the twisting trails.  The bone-grey fog eddies slowly through the bent, skeletal trees.  The listless breeze is tainted with the stink of decay."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "cold, damp",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11612": "/rooms/11630/wayto/stringproc-11612.rb",
+      "11617": "/rooms/11630/wayto/stringproc-11617.rb",
+      "11618": "/rooms/11630/wayto/stringproc-11618.rb",
+      "11631": "north",
+      "16122": "southeast",
+      "22218": "/rooms/11630/wayto/stringproc-22218.rb"
+    },
+    "timeto": {
+      "11612": 1,
+      "11617": 0.8,
+      "11618": 0.8,
+      "11631": 0.2,
+      "16122": 0.2,
+      "22218": 0.4
+    },
+    "tags": [
+      "aloeas stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "wild gooseberry",
+      "stalk of cattail",
+      "small wild rose",
+      "mistweed",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5003040
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      582,
+      471,
+      592,
+      481
+    ],
+    "unique_loot": [
+      "parrot skull"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "d416850295ff40631c49f2cb3a275f77",
+  "room": {
+    "id": 28719,
+    "title": [
+      "[Fat Jahck's]"
+    ],
+    "description": [
+      "The dark of the alley outside gives way to soft light coming from the lamps hanging overhead.  Neatly stacked crates line the side walls, leaving clear the central area of the room.  A long oak counter runs the length of the rear wall behind which the proprietor stands minding the establishment."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5728": "out",
+      "30710": "/rooms/28719/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "5728": 0.2,
+      "30710": "/rooms/28719/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "meta:trashcan:battered steel-bound barrel",
+      "meta:boxpool:npc:proprietor Jahck",
+      "meta:boxpool:table:long oak counter",
+      "locksmith pool",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "locksmithpool",
+      "node",
+      "supernode",
+      "no forageables"
+    ],
+    "uid": [
+      4740306,
+      4744306
+    ]
+  }
+}

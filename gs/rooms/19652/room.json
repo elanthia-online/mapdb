@@ -1,0 +1,44 @@
+{
+  "checksum": "2d72835aaa382fca8993d4ca31eaf187",
+  "room": {
+    "id": 19652,
+    "title": [
+      "[Cavernhold, Main Hall]"
+    ],
+    "description": [
+      "This is the eastern edge of the large Main Hall.  The floor slopes slightly downward as it runs toward the dark passage that leaves the room to the southeast."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, west, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19640": "northwest",
+      "19649": "southwest",
+      "19650": "west",
+      "19653": "southeast"
+    },
+    "timeto": {
+      "19640": 0.2,
+      "19649": 0.2,
+      "19650": 0.2,
+      "19653": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10014
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      612,
+      1125,
+      623,
+      1134
+    ]
+  }
+}

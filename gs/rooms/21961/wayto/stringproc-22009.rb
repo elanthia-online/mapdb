@@ -1,0 +1,2 @@
+waitrt?
+move "east"

@@ -1,0 +1,50 @@
+{
+  "checksum": "22ee47beddd99cadc110e4bf0a2edfc7",
+  "room": {
+    "id": 4603,
+    "title": [
+      "[Griffin's Keen, Inner Trail]"
+    ],
+    "description": [
+      "The sound of rushing water provides the bass for the piercing shriek of the wind.  From time to time a sharp squawk or a chorus of shrill caws provide percussion.  The steep, ice-laden trail hugs the mountainside closely as it winds around huge wrinkles in the rock face."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4602": "/rooms/4603/wayto/stringproc-4602.rb",
+      "4604": "/rooms/4603/wayto/stringproc-4604.rb"
+    },
+    "timeto": {
+      "4602": 4.2,
+      "4604": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302135
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      691,
+      248,
+      701,
+      258
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "9df3fd26c9a4258e2ff941df7fd2308e",
+  "room": {
+    "id": 22576,
+    "title": [
+      "[Huff 'n' Puff, Back]"
+    ],
+    "description": [
+      "The far end of the floating barge is sealed off with a thick curtain, hiding a cozy space from the main area and attempting to discourage customers from venturing any further uninvited.  Glowing brightly, a large brass oil lamp dispels some of the darkness this far from the flap opening directly opposite.  A roughly hewn oak rack suspended by tarnished chains swings overhead as the barge gently rocks in the shallow water, causing its wares to slide slightly as it rocks."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": false,
+    "wayto": {
+      "22575": "south",
+      "22577": "north"
+    },
+    "timeto": {
+      "22575": 0.2,
+      "22577": 0.2
+    }
+  }
+}

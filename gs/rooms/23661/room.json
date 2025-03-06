@@ -1,0 +1,50 @@
+{
+  "checksum": "0a5c8c08b9f299ddc5e2682c4b983719",
+  "room": {
+    "id": 23661,
+    "title": [
+      "[Mist Harbor, Jungle Path]"
+    ],
+    "description": [
+      "At the end of the path through the jungle, a great wooden arch looms at the edge of a small clearing.  A large longhouse can be seen up ahead with an expanse of green lawn that circles the structure.  Several out-buildings recessed into the enveloping jungle are all but hidden from view in the thick foliage"
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Mist Harbor",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17518": "out",
+      "23662": "go arch",
+      "30718": "/rooms/23661/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "17518": 0.2,
+      "23662": "/rooms/23661/timeto/stringproc-23662.rb",
+      "30718": "/rooms/23661/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "meta:mapname:Four Winds - Warrior Guild",
+      "meta:mapshortname:Warrior Guild (IFW)",
+      "meta:mapcategory:Isle of the Four Winds",
+      "meta:mapcategory:Guilds",
+      "meta:mapcategory:Premium",
+      "warriorguild",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild",
+      "no forageables"
+    ],
+    "uid": [
+      255058
+    ],
+    "image": "ifw-Warrior Guild.jpg",
+    "image_coords": [
+      378,
+      634,
+      402,
+      657
+    ]
+  }
+}

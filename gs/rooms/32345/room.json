@@ -1,0 +1,43 @@
+{
+  "checksum": "01df16f49867589974cb60dad558b4d3",
+  "room": {
+    "id": 32345,
+    "title": [
+      "[Frostmain Docks, Barrow Pier]",
+      "[Frostmain, Main Pier]"
+    ],
+    "description": [
+      "An ancient wheelbarrow sits crookedly on one leg, left to be devoured by the salty gale.  It has been scoured down to rust and ruin, much like the pier on which it stands.  The planks and black with rot or silver from exposure where snow has not obscured them.",
+      "The thoroughfare of the main pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32344": "north",
+      "32346": "south"
+    },
+    "timeto": {
+      "32344": 0.2,
+      "32346": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133005
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1201,
+      455,
+      1244,
+      501
+    ]
+  }
+}

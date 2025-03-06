@@ -1,0 +1,54 @@
+{
+  "checksum": "9176d288bd127d4d65c49ec731f85b3a",
+  "room": {
+    "id": 1024,
+    "title": [
+      "[Western DragonSpine, Slope]"
+    ],
+    "description": [
+      "A thick mist envelopes the mountainside just below this narrow ledge.  Wisps of the mist rise up on the steady breeze, drifting slowly through the air before dissipating.  The dry air pushes gritty, loose dirt across the now smooth, rocky mountainside."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Khazar's Hold",
+    "climate": "cold, dry",
+    "terrain": "mountainous",
+    "wayto": {
+      "1023": "southeast",
+      "1025": "/rooms/1024/wayto/stringproc-1025.rb"
+    },
+    "timeto": {
+      "1023": 0.2,
+      "1025": 0.2
+    },
+    "tags": [
+      "marallis berry",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "ironfern root",
+      "sunburst blossom",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13002008
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      1294,
+      322,
+      1304,
+      332
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "f2e9992e0cfc50059f564a31647de759",
+  "room": {
+    "id": 25559,
+    "title": [
+      "[DragonSpine, Cavern Tunnel]"
+    ],
+    "description": [
+      "Solid sheets of ice makes for slippery traversing, but occasional snowy patches present alternate routes through the treacherous tunnel.  Faint light streams from the top of the perilous ramp and lends hope for safer footing."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25558": "up",
+      "25560": "down"
+    },
+    "timeto": {
+      "25558": 0.2,
+      "25560": 0.2
+    }
+  }
+}

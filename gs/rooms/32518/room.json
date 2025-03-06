@@ -1,0 +1,41 @@
+{
+  "checksum": "55733ed4e2f1abff806e3fdd400c4c20",
+  "room": {
+    "id": 32518,
+    "title": [
+      "[Moonsedge Castle, Gardens]"
+    ],
+    "description": [
+      "The shadow of a lone yew tree stretches long and dark over the resplendence of the overrun garden's flowers, its boughs still white with trapped snowfall.  Old and wide-bodied, the tree has an immense trunk that is thick and ungainly, gnarled from long years of growth.  A thin path proceeds underneath the conifer's drooping, scratching branches, winding northeastward."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32492": "south",
+      "32519": "northeast"
+    },
+    "timeto": {
+      "32492": 0.2,
+      "32519": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577115
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      683,
+      466,
+      705,
+      489
+    ]
+  }
+}

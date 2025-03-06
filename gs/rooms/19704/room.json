@@ -1,0 +1,43 @@
+{
+  "checksum": "fcdc448f7cdae6842f4ee156e7f88597",
+  "room": {
+    "id": 19704,
+    "title": [
+      "[Cavernhold, Sloping Passage]"
+    ],
+    "description": [
+      "The floor of the northeast end of this passage is considerably higher than that of the southwest end.  Made of packed dirt, it is difficult to tell if it is natural or if the Gnolls have brought in quantities of dirt to create this slope."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19703": "northeast",
+      "19705": "southwest"
+    },
+    "timeto": {
+      "19703": 0.2,
+      "19705": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "cave moss",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11015
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      505,
+      752,
+      515,
+      762
+    ]
+  }
+}

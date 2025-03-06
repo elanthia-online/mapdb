@@ -1,0 +1,39 @@
+{
+  "checksum": "80e3097c12f02e47283f5aa7726cc92f",
+  "room": {
+    "id": 14663,
+    "title": [
+      "[Temple of Eonak, West Sanctuary]"
+    ],
+    "description": [
+      "Towering columns chiseled from the granite rock itself leap upward to support a crystal-encrusted ceiling forty or more feet overhead.  Thick, sienna velvet carpeting extends from north wall to south wall in this cavernous sanctuary, and benches placed in rows march toward the altar that stands at least a hundred feet to the east.  All around, fire billows brightly along a ledge twelve feet up, the licking flames displaying no effect on the russet, woven mithril curtains that adorn the walls."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9406": "go door",
+      "13961": "climb stair",
+      "16727": "east",
+      "30712": "/rooms/14663/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9406": 0.2,
+      "13961": 0.2,
+      "16727": 0.2,
+      "30712": "/rooms/14663/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide temple",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13010030
+    ]
+  }
+}

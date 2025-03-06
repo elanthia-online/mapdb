@@ -1,0 +1,44 @@
+{
+  "checksum": "38c10522a54e36b802e2634bccc4a07f",
+  "room": {
+    "id": 34334,
+    "title": [
+      "[Thunder Plateau]"
+    ],
+    "description": [
+      "Slippery and unstable, piles of stones lie atop one another like bodies in a mass grave and hamper travel in all directions.  Dark grey clouds hang low, and intermittent bursts of light in the sky provide the only reliable area nighttime lighting.  Disfigured shadows cast from a looming western peak dance across the rocks, further impairing navigation."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Stormpeak",
+    "climate": "moist",
+    "terrain": "rough",
+    "wayto": {
+      "34333": "/rooms/34334/wayto/stringproc-34333.rb",
+      "34335": "/rooms/34334/wayto/stringproc-34335.rb"
+    },
+    "timeto": {
+      "34333": 5.2,
+      "34335": 5.2
+    },
+    "tags": [
+      "broken twig",
+      "wild chokecherry",
+      "cabbage rose",
+      "virescent rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150315
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1146,
+      813,
+      1163,
+      829
+    ]
+  }
+}

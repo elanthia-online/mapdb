@@ -1,0 +1,38 @@
+{
+  "checksum": "c177383d26ffa0882f057e91b97bde44",
+  "room": {
+    "id": 10943,
+    "title": [
+      "[Galena's Lockworks]"
+    ],
+    "description": [
+      "A wooden counter divides this small workshop.  The flickering flames of a brazier reflect off the two tall, glazed windows, bathing the room in yellowish light.  An impressive array of antique locks and keys can be seen in a display case.  Behind the counter, leaning against a tall oak filing cabinet, is the smiling but watchful owner, the widow Galena.  A sign hangs above the counter.",
+      "A wooden counter divides this small workshop.  Two tall, glazed windows allow the room to be filled with a soft, diffused light.  An impressive array of antique locks and keys can be seen in a display case.  Behind the counter, leaning against a tall oak filing cabinet, is the smiling but watchful owner, the widow Galena.  A sign hangs above the counter."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10848": "out",
+      "30711": "/rooms/10943/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10848": 0.2,
+      "30711": "/rooms/10943/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "locksmith",
+      "meta:trashcan:old pickle barrel",
+      "urchin-access",
+      "urchin guide locksmith",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "locksmith shop"
+    ],
+    "uid": [
+      2101925
+    ]
+  }
+}

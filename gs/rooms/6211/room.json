@@ -1,0 +1,54 @@
+{
+  "checksum": "1c6884400905db86673e6105f713c945",
+  "room": {
+    "id": 6211,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "The tunnel narrows as it continues forward, and the air becomes less stale.  The path transforms slowly from unending darkness and rough walls and flooring to a dimly lit, cobblestone trail.  The walls are crafted from sandstone blocks, and the remains of murals and tapestries hang from its height."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west",
+      "Obvious exits: northeast, south",
+      "Obvious exits: northeast, east",
+      "Obvious exits: northeast, southwest",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6200": "northeast",
+      "6212": "/rooms/6211/wayto/stringproc-6212.rb"
+    },
+    "timeto": {
+      "6200": 0.2,
+      "6212": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167090
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      843,
+      500,
+      879,
+      536
+    ]
+  }
+}

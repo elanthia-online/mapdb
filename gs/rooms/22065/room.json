@@ -1,0 +1,35 @@
+{
+  "checksum": "2ba646a15fe2db697d979b08d54f73fd",
+  "room": {
+    "id": 22065,
+    "title": [
+      "[Bard Guild, Cholen's Haunt]"
+    ],
+    "description": [
+      "Rows of crystal glasses hang from a rack above a carved teak bar that runs the length of the room, while twin arcing windows stand behind it and are draped in curtains of thick silk that mute the natural light.  A variety of inviting tables are scattered around a small wooden stage; shadows dance across the surface from flickering copper wall sconces hung about.  A large marble statue stands to one side of the archway and looms over the room, its face chiseled with an expression of approval."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "22062": "go archway",
+      "28239": "/rooms/22065/wayto/stringproc-28239.rb",
+      "28240": "/rooms/22065/wayto/stringproc-28240.rb",
+      "28241": "/rooms/22065/wayto/stringproc-28241.rb",
+      "28242": "/rooms/22065/wayto/stringproc-28242.rb",
+      "28243": "/rooms/22065/wayto/stringproc-28243.rb"
+    },
+    "timeto": {
+      "22062": 0.2,
+      "28239": 0.2,
+      "28240": 0.2,
+      "28241": 0.2,
+      "28242": 0.2,
+      "28243": 0.2
+    },
+    "uid": [
+      289109
+    ]
+  }
+}

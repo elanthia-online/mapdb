@@ -1,0 +1,28 @@
+{
+  "checksum": "4ef21bacec03d218cbaa8480ef324bf3",
+  "room": {
+    "id": 4375,
+    "title": [
+      "[Strange Skins, Storage Room]"
+    ],
+    "description": [
+      "Stacked wooden crates of unopened merchandise have been piled about the room, leaving only a small walkway to maneuver.  Tiny tealight candles illuminate the narrow path through the middle of the room, casting grotesque shadows of the wandering customers along the various crates."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4374": "south",
+      "4376": "southeast"
+    },
+    "timeto": {
+      "4374": 0.2,
+      "4376": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "c6588b02ff7ff0db3942c437ed36a3f6",
+  "room": {
+    "id": 31539,
+    "title": [
+      "[Academy Nexus, Hallway]"
+    ],
+    "description": [
+      "Beautiful alabaster stone is fitted together almost perfectly with barely a seam showing.  Passageways break off leading in other directions.  A glowing portal hovers above the floor, a bright sandy area can be seen on the other side.  Several iron sconces are set into the walls and fitted with golden-hued candles.  A wide variety of weapons hang on either side of the corridor with several shields interspersed between them."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southwest"
+    ],
+    "location": "New Ta'Faendryl",
+    "wayto": {
+      "31538": "southwest",
+      "31540": "northeast",
+      "31541": "east",
+      "31550": "go portal"
+    },
+    "timeto": {
+      "31538": 0.2,
+      "31540": 0.2,
+      "31541": 0.2,
+      "31550": 0.2
+    },
+    "uid": [
+      13033008
+    ]
+  }
+}

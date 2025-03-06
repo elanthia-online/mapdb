@@ -1,0 +1,27 @@
+{
+  "checksum": "4ce48e46aef9251810dfdc0fa9b058fa",
+  "room": {
+    "id": 15458,
+    "title": [
+      "[Satira's Outfitting]",
+      "[Satira's General Store]",
+      "[Satira's Magic Shoppe]"
+    ],
+    "description": [
+      "A wrinkled parchment gown pattern hangs on one of the glossy mistwood walls, and a mistwood beam ceiling rises overhead.  A pile of striped throw pillows sits in one corner of a polished oak floor.  There is a glass-covered box case on one side of the shop and a long carved oak counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15055": "north"
+    },
+    "timeto": {
+      "15055": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

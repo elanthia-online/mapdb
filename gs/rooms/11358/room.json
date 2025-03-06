@@ -1,0 +1,40 @@
+{
+  "checksum": "3d6687c9c3b65626c9aec997ef603a6e",
+  "room": {
+    "id": 11358,
+    "title": [
+      "[Outside Citadel]"
+    ],
+    "description": [
+      "To the south in the ravine, you see a odd contraption that looks like half of a bridge, there are levers and weights and gears and pulleys.  You also stand next to the mighty doors to the Citadel."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Citadel",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11356": "go bridge",
+      "11359": "go doors"
+    },
+    "timeto": {
+      "11356": 0.2,
+      "11359": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377018
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      219,
+      1271,
+      229,
+      1281
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "720f576d7cc49da8fedbd09ab36b9c45",
+  "room": {
+    "id": 16068,
+    "title": [
+      "[Ntere's Magic Shoppe]"
+    ],
+    "description": [
+      "A pair of cast iron sconces hangs on one of the whitewashed stucco walls, and a mosiac-tiled ceiling rises overhead.  A glass-fronted bookcase sits in one corner of a carpet-covered floor.  There is an aqua-hued seaglass display on one side of the shop and a long mistwood counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "10875": "out",
+      "16101": "east",
+      "16102": "north"
+    },
+    "timeto": {
+      "10875": 0.2,
+      "16101": 0.2,
+      "16102": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

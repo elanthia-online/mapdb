@@ -1,0 +1,41 @@
+{
+  "checksum": "2f3c7e5f6aa66da79049568ca99ba139",
+  "room": {
+    "id": 30421,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "The shoreward side of the coral reef tends toward shorter stature, but equal density.  The result is a variable fence of rough hardness that closes in upon the beach, making any attempt to maneuver a vessel toward the shore a life-threatening undertaking."
+    ],
+    "paths": [
+      "Obvious paths: south, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30420": "pedal northwest",
+      "30422": "pedal south",
+      "30423": "pedal west"
+    },
+    "timeto": {
+      "30420": 6,
+      "30422": 6,
+      "30423": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216164
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      721,
+      2318,
+      740,
+      2340
+    ]
+  }
+}

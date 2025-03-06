@@ -1,0 +1,48 @@
+{
+  "checksum": "02118e30f56fce58fa5f6c2a21ab2326",
+  "room": {
+    "id": 28916,
+    "title": [
+      "[Kraken's Fall, North Arm Lane]"
+    ],
+    "description": [
+      "Single-story cottages, their windows framed by dark shutters, spread across the lane, each with a small side garden and high grassy lawn encircled by picket fences.  Bamboo torches dot the cobblestone lane, the brightly burning sentinels standing guard over the seashell pathways that lead to each domicile.  A small glade of manicured grass with picnic tables encircles a crumbling stucco bar painted with a colorful keg-shaped sign.",
+      "Single-story cottages, their windows framed by dark shutters, spread across the lane, each with a small side garden and high grassy lawn encircled by picket fences.  Bamboo torches dot the cobblestone lane, the dormant sentinels standing guard over the seashell pathways that lead to each domicile.  A small glade of manicured grass with picnic tables encircles a crumbling stucco bar painted with a colorful keg-shaped sign."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28914": "west",
+      "28917": "east",
+      "29091": "go stucco bar",
+      "30716": "/rooms/28916/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28914": 0.2,
+      "28917": 0.2,
+      "29091": 0.2,
+      "30716": "/rooms/28916/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "supernode",
+      "node",
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118205
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      670,
+      242,
+      683,
+      256
+    ]
+  }
+}

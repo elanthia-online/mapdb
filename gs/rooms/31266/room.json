@@ -1,0 +1,29 @@
+{
+  "checksum": "643951c6ba1bfef441020c86922c8114",
+  "room": {
+    "id": 31266,
+    "title": [
+      "[Asylum, East Wing]"
+    ],
+    "description": [
+      "The austere appearance of this corridor lends to the rigid atmosphere of the entire asylum.  The hallway is mostly empty except for the occasional rat or guard that passes through on watch.  Benches have been firmly secured to the floor along the perimeter."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "31259": "west",
+      "31267": "go square-paneled door",
+      "31268": "go steel door"
+    },
+    "timeto": {
+      "31259": 0.2,
+      "31267": 0.2,
+      "31268": 0.2
+    },
+    "uid": [
+      3027008
+    ]
+  }
+}

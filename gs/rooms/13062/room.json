@@ -1,0 +1,35 @@
+{
+  "checksum": "e7bfd32c00b526773028911f76899a15",
+  "room": {
+    "id": 13062,
+    "title": [
+      "[Thistleberry's Hut, Consignment]"
+    ],
+    "description": [
+      "Unrecognizable aromas hang in the air, although fainter than in the front of the shop.  A scuffed manifest lies attached to a short counter by a tarnished metal ring.  Cupboards line the back wall, their doors marred by dents and random scorch marks."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "12469": "out",
+      "13063": "east",
+      "30715": "/rooms/13062/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12469": 0.2,
+      "13063": 0.2,
+      "30715": "/rooms/13062/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy"
+    ],
+    "uid": [
+      160007
+    ]
+  }
+}

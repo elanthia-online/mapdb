@@ -1,0 +1,27 @@
+{
+  "checksum": "f4462ed53c9a838b33ae10958aa34836",
+  "room": {
+    "id": 21194,
+    "title": [
+      "[Sewers, The Underside of Gems]"
+    ],
+    "description": [
+      "Bright light spills into this short passage from the south, its brilliance illuminating every stone, corner, and crevice in the area.  A single ladder rises from the stone floor and disappears into the wooden rafters of the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3845": "go ladder",
+      "21174": "south"
+    },
+    "timeto": {
+      "3845": 0.2,
+      "21174": 0.2
+    },
+    "uid": [
+      265410
+    ]
+  }
+}

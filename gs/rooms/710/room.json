@@ -1,0 +1,47 @@
+{
+  "checksum": "8f13682c4d09a24a32344a8050865c88",
+  "room": {
+    "id": 710,
+    "title": [
+      "[Ta'Illistim, Vaeshean Wey]"
+    ],
+    "description": [
+      "The facade of a guild hall towers above, crafted of fine smooth blue granite and anchored with ornately carved buttresses.  The immense stone wall is pierced at intervals with stained glaes rosette windows detailing elegant geometric scrollwork and sinuous glyphs.  A burnished silver plaque is mounted on the wide double doors.",
+      "The facade of a grand edifice towers above, crafted of fine smooth blue granite and anchored with ornately carved buttresses.  The immense stone wall is pierced at intervals with stained glaes rosette windows detailing elegant geometric scrollwork and sinuous glyphs.",
+      "The facade of a guild hall towers above, crafted of fine smooth marble and anchored with ornately capitaled columns.  The immense white wall is pierced at intervals with stained glass rosette windows, each one detailed with elegant geometric scrollwork and sinuous glyphs.  A burnished silver plaque is mounted on the wide double doors.",
+      "Set against the high city wall is a large marble relief.  A neatly arranged bed of sea glass, driftwood and tumbled shells surrounds the base of the tripartite display."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "164": "east",
+      "711": "south",
+      "30714": "/rooms/710/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "164": 0.2,
+      "711": 0.2,
+      "30714": "/rooms/710/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101004
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      206,
+      724,
+      228,
+      746
+    ]
+  }
+}

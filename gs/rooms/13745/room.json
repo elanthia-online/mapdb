@@ -1,0 +1,28 @@
+{
+  "checksum": "a84cd1c4feac884447b39c1600ae60e8",
+  "room": {
+    "id": 13745,
+    "title": [
+      "[Zantanya's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by rough white stucco walls, the shop features a bronze peg-legged cat statue in the center of its dark oak floor.  A tattered merchant permit hangs under the white stucco ceiling.  Right near the front is a beveled glass-covered case and a slender driftwood counter."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "9016": "out",
+      "13784": "west",
+      "13785": "east"
+    },
+    "timeto": {
+      "9016": 0.2,
+      "13784": 0.2,
+      "13785": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

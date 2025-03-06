@@ -1,0 +1,51 @@
+{
+  "checksum": "c38671b3fa9b8a173be56aa966542a84",
+  "room": {
+    "id": 12104,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A giant hangs on an elaborate set of poles and straps here.  Two thick poles set crossing each other are framed by two vertical and two horizontal ones.  Violet eyes shrouded in shadow float near the giant's head, watching the expressions that pass there with great interest.  A pair of winged snakes hover near the giant, flying idly about and occationally striking him.",
+      "A giant hangs on an elaborate set of poles and straps here.  Two thick poles set crossing each other are framed by two vertical and two horizontal ones.  Violet eyes shrouded in shadow float near the giant's head, watching the expressions that pass there with great interest.  A pair of winged snakes hover near the giant, flying idly about and occasionally striking him."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12104/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12104/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12104/wayto/stringproc-12093.rb",
+      "12163": "southeast",
+      "12166": "northeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12163": 0.2,
+      "12166": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4567033
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      976,
+      699,
+      986,
+      709
+    ]
+  }
+}

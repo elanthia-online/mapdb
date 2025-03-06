@@ -1,0 +1,41 @@
+{
+  "checksum": "6834ecd7ee8bcc8af020597c8be9fa19",
+  "room": {
+    "id": 4127,
+    "title": [
+      "[Glatoph, Lava Pool]"
+    ],
+    "description": [
+      "A gigantic arch soars up toward the ceiling, apparently spanning the lava pool.  Examining the arch, you see signs of tools being used on the lava that formed it.  It seems someone carved it, although the thought of doing heavy labor in this heat makes you queasy."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4126": "northwest",
+      "4128": "east",
+      "7902": "climb arch"
+    },
+    "timeto": {
+      "4126": 0.2,
+      "4128": 0.2,
+      "7902": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35024
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      186,
+      466,
+      196,
+      476
+    ]
+  }
+}

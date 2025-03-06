@@ -1,0 +1,30 @@
+{
+  "checksum": "012b26c6502695f7073ff2abb59e2cc6",
+  "room": {
+    "id": 25382,
+    "title": [
+      "[Delirium Manor, Alchemy Room]"
+    ],
+    "description": [
+      "An immense, seamless slab of pale polished granite shot with blue amphibole crystals forms the primary horizontal work surface for this utilitarian room.  Copper vats of greenish liquids emanate noxious vapors, pungent enough to burn nose hairs and make one's eyes water.  Racks of molded green candies are left to harden beside a stack of waxy paper squares."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25370": "south",
+      "25381": "north"
+    },
+    "timeto": {
+      "25370": 0.2,
+      "25381": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100059
+    ]
+  }
+}

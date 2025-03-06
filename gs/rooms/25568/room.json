@@ -1,0 +1,32 @@
+{
+  "checksum": "2e7c01f262d465a42e3d2ac77382cde6",
+  "room": {
+    "id": 25568,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Uneven floors slant underfoot, swerving with the curve of the passage.  Pebbly rubble mixed with a mounds of dirt adds a challenging element, and walls slick with moisture don't offer a secure handhold.  Rough gouges mar the way, revealing attempts to create some means to steady travel along this egress."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25550": "south",
+      "25554": "east",
+      "25555": "north",
+      "25566": "west"
+    },
+    "timeto": {
+      "25550": 0.2,
+      "25554": 0.2,
+      "25555": 0.2,
+      "25566": 0.2
+    },
+    "uid": [
+      8213706
+    ],
+    "check_location": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "f55894314f3c1fb2933a521c0edc1aed",
+  "room": {
+    "id": 28230,
+    "title": [
+      "[Town Barracks, Training Grounds]"
+    ],
+    "description": [
+      "The cobblestones here are worn and faded from countless hours of training and weathered by the elements.  Wooden racks and tables clutter a corner of the grounds, providing a wide assortment of training weapons and armor.  Uniformed militiamen carry out practice drills nearby.  A thick oak door leads into a two-story brick building, and on the other end of the square resides a small grey sandstone edifice."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21688": "west",
+      "28231": "go edifice",
+      "28232": "go door"
+    },
+    "timeto": {
+      "21688": 0.2,
+      "28231": 0.2,
+      "28232": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      336214
+    ]
+  }
+}

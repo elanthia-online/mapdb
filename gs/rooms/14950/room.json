@@ -1,0 +1,36 @@
+{
+  "checksum": "25aed1f8e8c9a3de32b4246c09ef87fe",
+  "room": {
+    "id": 14950,
+    "title": [
+      "[Meadowlands, Village]"
+    ],
+    "description": [
+      "A large structure rises from the sea of prairie grass like an immense ship sailing the wide ocean.  The perimeter of the structure is studded with doors, their surfaces polished to luster.  A couple of other large edifices lift towers nearby, creating an island in the midst of the vast meadowlands."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14949": "east",
+      "14951": "west",
+      "14957": "north"
+    },
+    "timeto": {
+      "14949": 0.2,
+      "14951": 0.2,
+      "14957": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      702112
+    ]
+  }
+}

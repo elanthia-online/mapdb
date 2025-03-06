@@ -1,0 +1,30 @@
+{
+  "checksum": "e24b0716b6112f038e19a1f3f14b42e0",
+  "room": {
+    "id": 15853,
+    "title": [
+      "[Quildor's Magic Shoppe]",
+      "[Quildor's Weaponry]"
+    ],
+    "description": [
+      "Beneath an oak beam ceiling, a large Aenatumgana painting hangs on one of the honey gold oak walls.  A narrow glass-topped table sits in one corner while a bathing maiden statue rests on the blonde oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2374": "out",
+      "15865": "east",
+      "15866": "north"
+    },
+    "timeto": {
+      "2374": 0.2,
+      "15865": 0.2,
+      "15866": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

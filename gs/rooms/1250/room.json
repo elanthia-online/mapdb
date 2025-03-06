@@ -1,0 +1,32 @@
+{
+  "checksum": "6aae30a3c327432a15b155d7a7b20cc3",
+  "room": {
+    "id": 1250,
+    "title": [
+      "[Alchemist's House, Library]"
+    ],
+    "description": [
+      "The hushed silence of this dark, dusty library envelops you.  Though draped with plush curtains, the room is bathed in a soothing golden light.  Atop a reading table, an ancient alchemical treatise in an obscure script lies open, surrounded by quills, parchment and other tools of scholarly research.  A low arch leads east."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "1249": "go doorway",
+      "15000": "go arch"
+    },
+    "timeto": {
+      "1249": 0.2,
+      "15000": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5012
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "79002f801bf514a2f69173c97a1dff9a",
+  "room": {
+    "id": 179,
+    "title": [
+      "[Ta'Illistim, Ellaerin Var]"
+    ],
+    "description": [
+      "A finely constructed hall stands at the corner, its lovely stone walls carved with varying curvilinear designs interspersed with delicately wrought renderings of various herbs.  A small herb garden occupies the space between var and hall doors, the acantha and cothinar flower within lightly scenting the surrounding air.",
+      "A finely constructed hall stands at the corner, its marble frieze carved with varying curvilinear designs interspersed with delicately wrought renderings of various herbs.  A small herb garden occupies the space between var and hall doors, acantha and cothinar flower growing with profusion within."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "178": "north",
+      "180": "east",
+      "19507": "go hall",
+      "30714": "/rooms/179/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "178": 0.2,
+      "180": 0.2,
+      "19507": "/rooms/179/timeto/stringproc-19507.rb",
+      "30714": "/rooms/179/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "empathguild",
+      "urchin guide empathguild",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "empath guild"
+    ],
+    "uid": [
+      13100020
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1066,
+      950,
+      1088,
+      972
+    ]
+  }
+}

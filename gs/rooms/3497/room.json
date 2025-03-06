@@ -1,0 +1,47 @@
+{
+  "checksum": "fc03205454bd98561fdd2eb4e3e12df9",
+  "room": {
+    "id": 3497,
+    "title": [
+      "[Ta'Vaalor, Emaereld Var]"
+    ],
+    "description": [
+      "The facade of the city's bakery is whimsically painted with a stylized border around the door and wood-framed windows.  The bright red door boasts a handcarved maoral sign.  The air is redolent with the scent of freshly baked bread, cookies, cakes, and other sweet delicacies.",
+      "While this was formerly the site of the city's bakery, the only things that remain of that establishment are the chimneys and foundations of several large brick ovens.  The rest of the building has vanished into piles of rubble and drifts of ash and dust.  A broken maoral sign lies discarded in the middle of the var.",
+      "The facade of the city's bakery is painted a clean, crisp white, and the wood-framed windows boast wide ledges where piping hot baked goods can be set out to cool and to draw in hungry customers.  The air is redolent with the scent of freshly baked bread, cookies, cakes, and other sweet delicacies.  The bright red door boasts a hand-carved maoral sign."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3496": "east",
+      "3498": "south",
+      "3499": "west",
+      "12349": "go bakery"
+    },
+    "timeto": {
+      "3496": 0.2,
+      "3498": 0.2,
+      "3499": 0.2,
+      "12349": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100062
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      627,
+      328,
+      660,
+      367
+    ]
+  }
+}

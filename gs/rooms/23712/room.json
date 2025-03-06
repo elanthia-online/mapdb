@@ -1,0 +1,44 @@
+{
+  "checksum": "6b5a80047581c7f32d7ae1eaac31f944",
+  "room": {
+    "id": 23712,
+    "title": [
+      "[Outpost, Outer Courtyard]"
+    ],
+    "description": [
+      "Guards flank the outpost's second portcullis, the entryway into the interior of the Hendoran's compound.  Both soldiers clutch halberds and gaze directly forward from under polished helms.  The inner wall, built of stone, looms up over the entryway with arrow slits running the length of the visible wall."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23711": "southwest",
+      "23713": "northwest",
+      "25418": "go portcullis"
+    },
+    "timeto": {
+      "23711": 0.2,
+      "23713": 0.2,
+      "25418": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336326
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      447,
+      197,
+      483,
+      232
+    ]
+  }
+}

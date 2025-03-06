@@ -1,0 +1,54 @@
+{
+  "checksum": "189740914114fbee400192ba5ac9f9e3",
+  "room": {
+    "id": 7291,
+    "title": [
+      "[Slither Creek]"
+    ],
+    "description": [
+      "The creek is flowing rapidly here, digging away at the banks and making them soft and muddy, although sturdy enough to walk on.  A patch of water grass clings to the side, seeming to hold on with all its strength, and a few small fish nibble at the leaves."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "7284": "go bank",
+      "7290": "west",
+      "7292": "east"
+    },
+    "timeto": {
+      "7284": 0.2,
+      "7290": 0.2,
+      "7292": 0.2
+    },
+    "tags": [
+      "water chestnut",
+      "aloeas stem",
+      "wild gooseberry",
+      "stalk of cattail",
+      "white water lily",
+      "yellow water lily",
+      "blue water lily",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156019
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      142,
+      179,
+      152,
+      189
+    ]
+  }
+}

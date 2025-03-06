@@ -1,0 +1,41 @@
+{
+  "checksum": "be1acf44cc751185c133d412353b6a43",
+  "room": {
+    "id": 22156,
+    "title": [
+      "[Cairnfang Manor, Locker Annex]"
+    ],
+    "description": [
+      "Cleaner than the rest of the attic, the room looks to have been recently swept.  A plain wooden bench sits next to an archway curtained with a faded drape of linen.  Stacked next to an iron-banded door, a partially opened crate reveals several small pieces of artwork."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "22155": "go door",
+      "22158": "go archway",
+      "22159": "west",
+      "22160": "east"
+    },
+    "timeto": {
+      "22155": 0.2,
+      "22158": 0.2,
+      "22159": 0.2,
+      "22160": 0.2
+    },
+    "tags": [
+      "meta:che:Cairnfang Manor"
+    ],
+    "uid": [
+      106306
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      849,
+      420,
+      861,
+      431
+    ]
+  }
+}

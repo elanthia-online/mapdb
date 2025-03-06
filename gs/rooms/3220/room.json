@@ -1,0 +1,44 @@
+{
+  "checksum": "e6d9faacddd47286fcd5f1ed0e9f105f",
+  "room": {
+    "id": 3220,
+    "title": [
+      "[Icemule Trace, Exterior]"
+    ],
+    "description": [
+      "The glassy surface of an iced over pond reflects the sun's rays, making a cheery display for the single bench that keeps it company.  Breadcrumbs and bird seed have been scattered around in a kindhearted attempt to keep the local livestock well-fed.",
+      "The glassy surface of an iced over pond distorts the moon's reflection, making an eerie display for the single bench that keeps it company.  The soft hoot of an owl comes from the shelter of a nearby tree and is followed with a reply a moment later."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3219": "south",
+      "3221": "north",
+      "29802": "go path"
+    },
+    "timeto": {
+      "3219": 0.2,
+      "3221": 0.2,
+      "29802": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4050303
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      344,
+      492,
+      354,
+      502
+    ]
+  }
+}

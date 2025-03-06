@@ -1,0 +1,41 @@
+{
+  "checksum": "4064b77f7ab723ffbf8ce567ba7dc00c",
+  "room": {
+    "id": 31843,
+    "title": [
+      "[Gleyminn Anni River, Pillars]"
+    ],
+    "description": [
+      "A smattering of bright purple loosestrife blooms beneath a magnificent canopy of darkened verdure.  Visible beyond the eastern shore, a ring of stone pillars, some leaning, others fallen, submit to the ravages of time.  A network of platforms and ladders have been built around the trunks of soaring trees, spiraling up and away out of sight."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31842": "/rooms/31843/wayto/stringproc-31842.rb",
+      "31844": "/rooms/31843/wayto/stringproc-31844.rb"
+    },
+    "timeto": {
+      "31842": 3.2,
+      "31844": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083426
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1709,
+      490,
+      1734,
+      512
+    ]
+  }
+}

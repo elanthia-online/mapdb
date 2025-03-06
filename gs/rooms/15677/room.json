@@ -1,0 +1,28 @@
+{
+  "checksum": "27d3eae91a7a330f92c16a2e188162ec",
+  "room": {
+    "id": 15677,
+    "title": [
+      "[Myrinnea's Weaponry]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A worn rug sits in one corner of an unfinished wooden floor.  There is a narrow glass-topped table on one side of the shop and a lacquered wooden shelf on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "3439": "out",
+      "15686": "northwest",
+      "15687": "northeast"
+    },
+    "timeto": {
+      "3439": 0.2,
+      "15686": 0.2,
+      "15687": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

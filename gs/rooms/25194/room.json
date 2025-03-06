@@ -1,0 +1,40 @@
+{
+  "checksum": "f7a7dce7c6b90103301717f923af6163",
+  "room": {
+    "id": 25194,
+    "title": [
+      "[Crimson Raven, Bar]"
+    ],
+    "description": [
+      "A polished cherry bar extends along the south wall of the room, behind which can be seen an impressive selection of wines and liquors.  Soldiers mill about, some leaning against the bar having a solitary drink, some gathered in conversation around a few tall tables, and some crowding around the arch to the game room, people-watching.  A large mirror over the back of the bar has been painstakingly cut into the shape of a raven, with shallower cuts picking out the detail of feathers, beak, and glittering eyes."
+    ],
+    "paths": [
+      "Obvious exits: west, northwest"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "25192": "west",
+      "25196": "northwest",
+      "25197": "/rooms/25194/wayto/stringproc-25197.rb",
+      "25198": "/rooms/25194/wayto/stringproc-25198.rb",
+      "25199": "/rooms/25194/wayto/stringproc-25199.rb",
+      "25200": "/rooms/25194/wayto/stringproc-25200.rb",
+      "25201": "/rooms/25194/wayto/stringproc-25201.rb"
+    },
+    "timeto": {
+      "25192": 0.2,
+      "25196": 0.2,
+      "25197": 0.2,
+      "25198": 0.2,
+      "25199": 0.2,
+      "25200": 0.2,
+      "25201": 0.2
+    },
+    "tags": [
+      "meta:Crimson Legion"
+    ],
+    "uid": [
+      14102202
+    ]
+  }
+}

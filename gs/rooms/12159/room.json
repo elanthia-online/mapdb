@@ -1,0 +1,54 @@
+{
+  "checksum": "99faf12c1f85a22ba21e9ffbde749d40",
+  "room": {
+    "id": 12159,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Blood pours in from the corridor to the northeast.  Unlike the blood you are used to seeing, this blood is blue, the color of suffocation and death.  Indeed suffocation is a good metaphor, for the walls close in on you in regular constrictions, only to move back out and repeat the process.  The azure slime is forced southward, turning a deep violet as it moves."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west",
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2579": "/rooms/12159/wayto/stringproc-2579.rb",
+      "12165": "northeast",
+      "12210": "southeast",
+      "12211": "west"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12165": 0.2,
+      "12210": 0.2,
+      "12211": 0.2
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "discolored fleshbinder bud",
+      "withered deathblossom",
+      "twisted black mawflower",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570003
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      938,
+      1191,
+      946,
+      1199
+    ]
+  }
+}

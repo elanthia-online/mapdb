@@ -1,0 +1,48 @@
+{
+  "checksum": "65fb9f3f5392c1a5433779b3ae77d9ae",
+  "room": {
+    "id": 24749,
+    "title": [
+      "[Helden, 2nd Floor Corridor]"
+    ],
+    "description": [
+      "This passage is slightly narrower than the one just below, with stairs that continue up while the passage heads south and east.  A slight breeze seems to be coming from upstairs, causing the torch on the wall to flicker dangerously low."
+    ],
+    "paths": [
+      "Obvious exits: east, south, up, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15474": "down",
+      "24753": "go alloy door",
+      "24754": "go granite door",
+      "24755": "go mein door",
+      "24759": "go oak door",
+      "24762": "go mithril door",
+      "24774": "up",
+      "24786": "south",
+      "24790": "east"
+    },
+    "timeto": {
+      "15474": 0.2,
+      "24753": 0.2,
+      "24754": 0.2,
+      "24755": 0.2,
+      "24759": 0.2,
+      "24762": 0.2,
+      "24774": 0.2,
+      "24786": 0.2,
+      "24790": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      644,
+      544,
+      680,
+      580
+    ]
+  }
+}

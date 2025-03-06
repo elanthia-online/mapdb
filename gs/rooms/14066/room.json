@@ -1,0 +1,43 @@
+{
+  "checksum": "5c3524fafb22fc102c18f3d2982ec0f8",
+  "room": {
+    "id": 14066,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "A stout wooden structure lies just to the north.  Judging from the soot-stained chimney and rusted iron ingots stacked just outside the door, it was likely the castle smithy at one time."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14064": "east",
+      "14067": "go door",
+      "14068": "west"
+    },
+    "timeto": {
+      "14064": 0.2,
+      "14067": 0.2,
+      "14068": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750036
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      704,
+      226,
+      712,
+      234
+    ]
+  }
+}

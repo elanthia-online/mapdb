@@ -1,0 +1,32 @@
+{
+  "checksum": "ad2c19906acaa83d82325e17eb898f69",
+  "room": {
+    "id": 15523,
+    "title": [
+      "[Prison, Hallway]"
+    ],
+    "description": [
+      "Loud squeaks and scurrying noises can be heard from behind a rusted metal door in the north wall.  A small set of stone steps to the south leads to a massive glaes door, at least fifteen spans of a human's hand tall and eight spans wide.  Twin wall sconces hold flickering torches near each door."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15522": "east",
+      "15524": "west"
+    },
+    "timeto": {
+      "15522": 0.2,
+      "15524": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      77007
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "b92a905ebacf42489758a2c1f4446033",
+  "room": {
+    "id": 23773,
+    "title": [
+      "[Duskruin Arena, Entrance]"
+    ],
+    "description": [
+      "A pair of oversized greatswords hang above a set of stone steps, leading up into the arena seating, the corridor lined with iron sconces that provide flickering light.  Other weapons of a wide variety are mounted to the back wall, serving as ominous decor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23772": "east",
+      "23774": "west",
+      "23791": "go steps",
+      "26907": "go dimly tunnel",
+      "30356": "go oversized entryway",
+      "30358": "/rooms/23773/wayto/stringproc-30358.rb",
+      "35176": "go hut"
+    },
+    "timeto": {
+      "23772": 0.2,
+      "23774": 0.2,
+      "23791": 0.2,
+      "26907": 0.2,
+      "30356": 0.2,
+      "30358": 0.2,
+      "35176": 0.2
+    },
+    "tags": [
+      "mania"
+    ],
+    "uid": [
+      8213008
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1424,
+      150,
+      1454,
+      180
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "29109929092c153819bc7269b88c8114",
+  "room": {
+    "id": 11842,
+    "title": [
+      "[Asylum, Small Chamber]"
+    ],
+    "description": [
+      "Thick ivy covers the vines of this small chamber in a rumpled tapestry of stems and leaves.  The same vines spread across the floor in a thick, but rather damp green carpet.  At the southern end of the room, a gaping hole leads out to an overgrown garden."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11838": "out",
+      "11843": "go vines"
+    },
+    "timeto": {
+      "11838": 0.2,
+      "11843": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004171
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      890,
+      821,
+      900,
+      831
+    ]
+  }
+}

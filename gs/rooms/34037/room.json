@@ -1,0 +1,27 @@
+{
+  "checksum": "1dd874608168af76f168a561cbd13f2a",
+  "room": {
+    "id": 34037,
+    "title": [
+      "[Crystalmount, Cavern]"
+    ],
+    "description": [
+      "The faintest hint of starlight filters through a vast yawning breach in the western wall of the cavern, but the tenuous curtain of radiance does little to throw back the surrounding gloom.  It gleams feebly off of puddles of snowmelt near to the entrance, but they proceed into deeper shadow and are consumed by darkness.  Reflected ripples off of the water do not reach the cavern's distant ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "34036": "go breach",
+      "34038": "north"
+    },
+    "timeto": {
+      "34036": 0.2,
+      "34038": 0.2
+    },
+    "uid": [
+      4427007
+    ]
+  }
+}

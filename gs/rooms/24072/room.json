@@ -1,0 +1,24 @@
+{
+  "checksum": "e8822bfd4646c022a2f6e40287a7b3d9",
+  "room": {
+    "id": 24072,
+    "title": [
+      "[Darkness, Tunnel]"
+    ],
+    "description": [
+      "An entire stone railing juts up from the ground, climbing into the darkness above.  Patches of glowing toadstools offer very little lighting while traversing through the tunnel, giving guidance that the only pathway runs east to west."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "23170": "west",
+      "24073": "east"
+    },
+    "timeto": {
+      "23170": 0.2,
+      "24073": 0.2
+    }
+  }
+}

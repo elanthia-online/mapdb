@@ -1,0 +1,46 @@
+{
+  "checksum": "b5ee9f29887b23fa5bb8449b8678db2f",
+  "room": {
+    "id": 30053,
+    "title": [
+      "[Angargreft, Berserker's End]"
+    ],
+    "description": [
+      "Great steps ascend toward a humongous red stone dais, atop which is an immense bier shielded from the elements by a stone pavilion.  The pieces of a robed corpse are strewn across the steps in several parts, torn apart as if they were no more than the playthings of an ungentle child.  Underfoot, the ground is tacky with drying blood that, half-frozen, has merged in places with the snowfall into a vile pinkish slush.  There is far too much to have come from the sole corpse."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30052": "northeast",
+      "30054": "go dais",
+      "30055": "south",
+      "30057": "east"
+    },
+    "timeto": {
+      "30052": 0.2,
+      "30054": 0.2,
+      "30055": 0.2,
+      "30057": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503494
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      650,
+      146,
+      665,
+      161
+    ]
+  }
+}

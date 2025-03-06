@@ -1,0 +1,34 @@
+{
+  "checksum": "cbf200899afc275767982a58f8408dd7",
+  "room": {
+    "id": 25172,
+    "title": [
+      "[Sanctum of Scales, Privy]"
+    ],
+    "description": [
+      "Given that the air is heavy with the odor of things best long since buried, it is safe to state that the small privy smells somehow worse than death.  Stains mar the walls around a large latrine pit, the edges of which have been widened in an uneven and ragged fashion.  Nearby, a modesty curtain lies, stained and mildewed, torn free of its hanging rods."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "25171": "out",
+      "25231": "/rooms/25172/wayto/stringproc-25231.rb"
+    },
+    "timeto": {
+      "25171": 0.2,
+      "25231": 0.2
+    },
+    "uid": [
+      4216056
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      121,
+      468,
+      145,
+      491
+    ]
+  }
+}

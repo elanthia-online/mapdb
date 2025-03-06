@@ -1,0 +1,39 @@
+{
+  "checksum": "4b4c669975fb9b95c65fed4be104b0db",
+  "room": {
+    "id": 2030,
+    "title": [
+      "[Cave]"
+    ],
+    "description": [
+      "The moonlit oval of the cave's entrance is silhouetted by the dark, stone walls of a natural cavern, hewn from the rock of the cliff by tides.  Its walls are heavily striated, and large fingers of rock reach up from the cave's floor in crooked protrusions.  On the southeast wall, a passageway leads away into darkness, the floor rough with a jumble of boulders and sand."
+    ],
+    "paths": [
+      "Obvious exits: southeast, out"
+    ],
+    "location": "Greymist Woods",
+    "wayto": {
+      "2027": "out",
+      "2031": "southeast"
+    },
+    "timeto": {
+      "2027": 0.2,
+      "2031": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3022024
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      68,
+      389,
+      78,
+      399
+    ]
+  }
+}

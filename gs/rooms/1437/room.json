@@ -1,0 +1,53 @@
+{
+  "checksum": "c272b2d31d332b8c851a7b8eaf5e60bd",
+  "room": {
+    "id": 1437,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "Bayside Road widens here, as throngs of people head southward into the North Market.  More than a few are drawn by the mouthwatering aroma of fresh-baked goods wafting from the doorway of the half-timber building opposite the bridge.  To the northwest, the Market Bridge spans the bay, heading towards Marshtown."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1436": "northeast",
+      "1438": "south",
+      "1448": "east",
+      "1474": "southwest",
+      "1607": "northwest",
+      "12808": "go building",
+      "30710": "/rooms/1437/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1436": 0.2,
+      "1438": 0.2,
+      "1448": 0.2,
+      "1474": 0.2,
+      "1607": 0.2,
+      "12808": 0.2,
+      "30710": "/rooms/1437/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "meta:trashcan:old green oak barrel",
+      "urchin-access",
+      "trash",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209022
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      941,
+      513,
+      965,
+      537
+    ]
+  }
+}

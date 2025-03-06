@@ -1,0 +1,45 @@
+{
+  "checksum": "131ee311b6608d29d25f9857d18fe671",
+  "room": {
+    "id": 30068,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "A mostly untouched stretch of the once-grand hallway is free from infestation but for a few thick threads of silk clinging to the floor.  Beneath a tangle of copper inlay in the wall that resembles the dance of the aurora's wild light, a rounded pedestal rises out of the ground.  Sitting atop it, bathed in the faint luminescence of the chamber, is a crude golden chalice."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest, west, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30048": "north",
+      "30063": "west",
+      "30064": "northwest",
+      "30065": "southwest",
+      "30067": "south"
+    },
+    "timeto": {
+      "30048": 0.2,
+      "30063": 0.2,
+      "30064": 0.2,
+      "30065": 0.2,
+      "30067": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503486
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      821,
+      268,
+      837,
+      282
+    ]
+  }
+}

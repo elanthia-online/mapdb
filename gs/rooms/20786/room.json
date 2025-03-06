@@ -1,0 +1,42 @@
+{
+  "checksum": "e03e2db631b306563896f2a8c4222343",
+  "room": {
+    "id": 20786,
+    "title": [
+      "[Ruined Temple, Dais]"
+    ],
+    "description": [
+      "Gentle waves ebb and flow across the short dais, crashing into the carved staircase that leads to the floor above.  Several large metal pots, etched with intricate wavy designs, rest at the base of the staircase, rusted and worn where submerged."
+    ],
+    "paths": [
+      "Obvious exits: down",
+      ""
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12662": "/rooms/20786/wayto/stringproc-12662.rb",
+      "12677": "/rooms/20786/wayto/stringproc-12677.rb",
+      "12712": "go staircase"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "12712": 0.2
+    },
+    "tags": [
+      "peer down =~ /^Obvious exits: southeast/",
+      "meta:map:ignore-blanks",
+      "no forageables"
+    ],
+    "uid": [
+      3031024
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      609,
+      862,
+      643,
+      897
+    ]
+  }
+}

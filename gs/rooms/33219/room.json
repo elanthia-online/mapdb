@@ -1,0 +1,29 @@
+{
+  "checksum": "5f3500b4e539811c3fa68bf38cfc752d",
+  "room": {
+    "id": 33219,
+    "title": [
+      "[Oteska's Den, Entry]"
+    ],
+    "description": [
+      "Wood made from repurposed ships' hulls lines the floors and walls of this small entryway, all polished to a rich sheen.  The variety of woods and hues is broken by an iron-worked rich maoral door leading back to the shop, and a spiral staircase winding up.  Hanging between a pair of crossed cutlasses is a brass plaque, and an unusually neat pile of netted glass floats is carefully arranged in one corner, each globe dimly lit from the inside to illuminate the area."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Oteska's Den, inside the island town of River's Rest",
+    "wayto": {
+      "10936": "out",
+      "33220": "go spiral staircase",
+      "33224": "push floats"
+    },
+    "timeto": {
+      "10936": 0.2,
+      "33220": 0.2,
+      "33224": 0.2
+    },
+    "uid": [
+      730301
+    ]
+  }
+}

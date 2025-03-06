@@ -1,0 +1,30 @@
+{
+  "checksum": "ec95a3473fd8fbd81db8219e515a1f0e",
+  "room": {
+    "id": 20442,
+    "title": [
+      "[Ryain's General Store]",
+      "[Ryain's Outfitting]"
+    ],
+    "description": [
+      "Beneath a glass-tiled vaulted ceiling, a Four Winds Isle map hangs on one of the gold-veined marble walls.  A floral-etched ceramic case and a pink-edged open clamshell sit in opposite corners while an intricate sea creatures display rests on an intricate patterned floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12272": "out",
+      "20483": "east",
+      "20484": "north"
+    },
+    "timeto": {
+      "12272": 0.2,
+      "20483": 0.2,
+      "20484": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

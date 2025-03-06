@@ -1,0 +1,43 @@
+{
+  "checksum": "636f034e6635e823343deaa35aa8d57c",
+  "room": {
+    "id": 32353,
+    "title": [
+      "[Frostmain Docks, Rimy Pier]",
+      "[Frostmain, Starboard Pier]"
+    ],
+    "description": [
+      "The thoroughfare of the starboard pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime.",
+      "The easternmost of the trio of piers is a mess of creaky planks spotted heavily with the droppings of seafowl.  Waters to either side are deep, black, and cold.  Stinging salt is so thick on the air as to have left cakes of gleaming grit on the nearby pylons."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32348": "north",
+      "32352": "south"
+    },
+    "timeto": {
+      "32348": 0.2,
+      "32352": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133021
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1272,
+      529,
+      1321,
+      572
+    ]
+  }
+}

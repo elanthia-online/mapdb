@@ -1,0 +1,55 @@
+{
+  "checksum": "023d3082c7d03f4179e33161a5baf2d3",
+  "room": {
+    "id": 7001,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "You are standing in the shadow of the massive northwest tower of the castle, which, unlike the others, is remarkably free of damage.  The two walls of the castle flank you to either side, while to the north lies the smaller outer curtain tower.  South of here is the crumbling gatehouse."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7000": "south",
+      "7002": "north"
+    },
+    "timeto": {
+      "7000": 0.2,
+      "7002": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "sweetfern stalk",
+      "heath aster",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "bright red cranberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45107
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      488,
+      401,
+      498,
+      411
+    ]
+  }
+}

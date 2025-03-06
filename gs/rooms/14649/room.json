@@ -1,0 +1,27 @@
+{
+  "checksum": "4babd1e6d4581db6ac503a2efd036839",
+  "room": {
+    "id": 14649,
+    "title": [
+      "[Wehnimer's Museum, Vlad Wing]"
+    ],
+    "description": [
+      "This wing is sumptuously overdecorated in a style that could charitably be referred to as tasteless.  Blood red velvet curtains line the walls in between the canvases, and ornate, overwrought frescoes of scantily clad, overly endowed peasant girls cavorting in an idyllic mountain setting at twilight decorating the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14648": "southeast",
+      "14650": "go doors"
+    },
+    "timeto": {
+      "14648": 0.2,
+      "14650": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

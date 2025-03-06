@@ -1,0 +1,30 @@
+{
+  "checksum": "9bdb3e8fa35d9c7209e6fef43414ff7d",
+  "room": {
+    "id": 29807,
+    "title": [
+      "[Cloudberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "26004": "/rooms/29807/wayto/stringproc-26004.rb",
+      "29808": "go curtain"
+    },
+    "timeto": {
+      "26004": 0.2,
+      "29808": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Silvergate Inn"
+    ],
+    "uid": [
+      4043264
+    ]
+  }
+}

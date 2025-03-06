@@ -1,0 +1,36 @@
+{
+  "checksum": "fe7f72fc860596c9ed42c0979d249841",
+  "room": {
+    "id": 18143,
+    "title": [
+      "[Ta'Illistim Keep, Hallway]"
+    ],
+    "description": [
+      "Silver-flecked, alabaster tile extends down the hallway set in a complex pattern.  A cushioned mistood bench rests against the wall next to a potted rosebush with green tendrils lush with white flowers.  Recessed to one wall is a carved mistwood arch framed by the climbing vines."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18142": "east",
+      "18144": "west",
+      "18146": "go mistwood arch"
+    },
+    "timeto": {
+      "18142": 0.2,
+      "18144": 0.2,
+      "18146": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13102032
+    ]
+  }
+}

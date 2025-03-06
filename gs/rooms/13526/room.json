@@ -1,0 +1,30 @@
+{
+  "checksum": "1f28c24550bdc85654f1b45835fb91b2",
+  "room": {
+    "id": 13526,
+    "title": [
+      "[Timeless Treasures]"
+    ],
+    "description": [
+      "Enclosed by painted white plaster walls, the shop features a plush black bear fur rug in the center of its limestone floor.  A trio-bladed mounted vellum fan hangs under the white stucco ceiling.  Right near the front is a heavy white granite counter and a set of carved felwood shelves."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9009": "out",
+      "13552": "west",
+      "13553": "east"
+    },
+    "timeto": {
+      "9009": 0.2,
+      "13552": 0.2,
+      "13553": 0.2
+    },
+    "tags": [
+      "gone",
+      "meta:playershop"
+    ]
+  }
+}

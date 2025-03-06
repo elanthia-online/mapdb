@@ -1,0 +1,44 @@
+{
+  "checksum": "747873583f15be539823358b620e803d",
+  "room": {
+    "id": 18148,
+    "title": [
+      "[Office of Arrearages and Debts]"
+    ],
+    "description": [
+      "A pair of silver lanterns hangs from the blue-lacquered wooden ceiling, suspended on matching argent chains.  Below is a neatly arranged mistwood desk with silver-gilt cabriole legs and a polished labradorite top.  A carved wooden screen, inlaid with a strutting peacock, separates the reception area from a larger space, filled with less impressive desks, that are visible behind it."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18142": "out",
+      "30714": "/rooms/18148/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "18142": 0.2,
+      "30714": "/rooms/18148/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide debts",
+      "debts",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13102004
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      543,
+      925,
+      566,
+      947
+    ]
+  }
+}

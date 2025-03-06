@@ -1,0 +1,35 @@
+{
+  "checksum": "70213439b8a80f40ba9767fccb49f6cb",
+  "room": {
+    "id": 14100,
+    "title": [
+      "[Captain's Rest, Hallway]"
+    ],
+    "description": [
+      "Brass lamps hang on the well-polished modwir paneled walls.  Blue carpeting in a pattern reminiscent of waves in the sea runs the length of the hall.  Hanging on the wall opposite from a modwir door is a picture of a sunset over a small island."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5398": "east",
+      "14101": "go door",
+      "14102": "west"
+    },
+    "timeto": {
+      "5398": 0.2,
+      "14101": 0.2,
+      "14102": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740102
+    ]
+  }
+}

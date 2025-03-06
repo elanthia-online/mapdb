@@ -1,0 +1,42 @@
+{
+  "checksum": "3b1d61328a701a5ee517a9ab1d1b49f2",
+  "room": {
+    "id": 20031,
+    "title": [
+      "[Cleric Guild, Training Foyer]"
+    ],
+    "description": [
+      "Ruddy light, rippling with the intensity of the heat held back by the glaes walls illuminates the passageway that leads into the depths of the training annex.  As beautiful and deadly as an exotic snake, the veins of lava undulating through the depths of the volcano, visible behind the glaes, boast all the shades of red from the duskiest red-black of a dying ember to the most brilliant orange ever produced by a sunset.  A smoothly carved archway stands in the north wall, placed strategically between veins of lava."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "20030": "out",
+      "20032": "go archway",
+      "20042": "west",
+      "20043": "north"
+    },
+    "timeto": {
+      "20030": 0.2,
+      "20032": 0.2,
+      "20042": 0.2,
+      "20043": 0.2
+    },
+    "tags": [
+      "cleric alchemy administrator",
+      "cleric guild administrator"
+    ],
+    "uid": [
+      672020
+    ],
+    "image": "ti-Cleric_Guild-1267238976.jpg",
+    "image_coords": [
+      77,
+      199,
+      110,
+      233
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "2e3d99d49ac28ac4ea31ea62e642f4b7",
+  "room": {
+    "id": 31943,
+    "title": [
+      "[Don't Bug Me!, Showroom]"
+    ],
+    "description": [
+      "Beyond the irregularly edged fissure that marks the entrance to this torch-lit space, the striated rock walls open up to reveal a modestly sized cave lined with iron shelving.  Moisture glistens off the walls and floor, dancing with scintillating sparkles as the reflected torchlight moves sinuously with the fluctuating passage of incoming air."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31942": "out",
+      "32092": "go crevice"
+    },
+    "timeto": {
+      "31942": 0.2,
+      "32092": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084201
+    ]
+  }
+}

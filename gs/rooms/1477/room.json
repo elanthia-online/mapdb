@@ -1,0 +1,53 @@
+{
+  "checksum": "6d60de5e7020fc38d6f9de61f41f7b79",
+  "room": {
+    "id": 1477,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "A capacious, whitewashed warehouse faces North 'Haven Quay across Bayside Road.  The constant flow of longshoremen to and from the quay is often at odds with the traffic on Bayside."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1476": "northeast",
+      "1478": "east",
+      "1481": "south",
+      "1482": "southwest",
+      "1483": "northwest",
+      "5689": "go warehouse",
+      "20698": "go gate",
+      "30710": "/rooms/1477/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1476": 0.2,
+      "1478": 0.2,
+      "1481": 0.2,
+      "1482": 0.2,
+      "1483": 0.2,
+      "5689": 0.2,
+      "20698": "/rooms/1477/timeto/stringproc-20698.rb",
+      "30710": "/rooms/1477/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209046
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      758,
+      702,
+      782,
+      726
+    ]
+  }
+}

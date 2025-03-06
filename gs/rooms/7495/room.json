@@ -1,0 +1,51 @@
+{
+  "checksum": "5eaeb7e2703b118139320af49d4a4b10",
+  "room": {
+    "id": 7495,
+    "title": [
+      "[Catacombs, Wide Tunnel]"
+    ],
+    "description": [
+      "The passage widens almost to the point that it could be considered a chamber.  The walls and ceiling are illuminated brightly by a strange, glowing lichen, and the eerie light now shows plainly a series of burrows and holes set into the walls from which strange clawing and scratching sounds emanate."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7494": "east",
+      "7496": "west"
+    },
+    "timeto": {
+      "7494": 0.2,
+      "7496": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46053
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      768,
+      940,
+      778,
+      950
+    ]
+  }
+}

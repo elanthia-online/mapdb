@@ -1,0 +1,45 @@
+{
+  "checksum": "6a535040747aec04c14109f67268bcaa",
+  "room": {
+    "id": 26901,
+    "title": [
+      "[Black Hand, Foyer]"
+    ],
+    "description": [
+      "The focal point of the expansive room is a swirled sanguine glaes chandelier, the dim candlelight illuminating the cavern.  Draped decoratively across the walls is tone-on-tone ivory bourde, the fabric framing a black willow sideboard.  Various tunnels allow further passage into the cave, and at each entrance, two large charcoal velvet armchairs sit opposite from each other.  Etched vaalin sconces line the winding slate stone steps as they continue downwards."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "26890": "out",
+      "26908": "/rooms/26901/wayto/stringproc-26908.rb",
+      "26909": "go steps",
+      "26913": "go arch"
+    },
+    "timeto": {
+      "26890": 0.2,
+      "26908": 3,
+      "26909": 0.2,
+      "26913": 0.2
+    },
+    "tags": [
+      "meta:mapname:Black Hand Trading Company - Wehnimer's Landing",
+      "meta:mapshortname:Black Hand",
+      "meta:mapcategory:MHO",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mho:The Black Hand Trading Co."
+    ],
+    "uid": [
+      18018002
+    ],
+    "image": "wl-black_hand-1527320047.png",
+    "image_coords": [
+      697,
+      350,
+      850,
+      480
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "79b9980e7f99796c4543b3207864591e",
+  "room": {
+    "id": 31023,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "30745": "go arch",
+      "31024": "north",
+      "31025": "go opening"
+    },
+    "timeto": {
+      "30745": 0.2,
+      "31024": 0.2,
+      "31025": 0.2
+    },
+    "tags": [
+      "silvergate locker",
+      "meta:locker annex:Silvergate Inn"
+    ],
+    "uid": [
+      4219402
+    ]
+  }
+}

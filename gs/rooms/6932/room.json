@@ -1,0 +1,33 @@
+{
+  "checksum": "ec3cc922a1c32202e14fa1a95fdcf601",
+  "room": {
+    "id": 6932,
+    "title": [
+      "[Land Tower East, Dormitory]"
+    ],
+    "description": [
+      "This room contains several wood cots with rough woolen blankets.  You can hear noise from the area outside the gate through slit-like windows on the northern wall of the room."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3807": "down",
+      "6933": "go wooden steps"
+    },
+    "timeto": {
+      "3807": 0.2,
+      "6933": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3041
+    ]
+  }
+}

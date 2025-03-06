@@ -1,0 +1,32 @@
+{
+  "checksum": "0fbf74a3917b4a55ff79f4f3033f5215",
+  "room": {
+    "id": 14634,
+    "title": [
+      "[River Tower West, Roof]"
+    ],
+    "description": [
+      "You are atop the northwest guardtower that watches over the waterway into Wehnimer's Landing.  Across the river to the east, you see the matching tower with its four guards watching the boat traffic and the threatening waters of Darkstone Bay, which lies to the north.  A few errant vines climb along the south side of the tower."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14633": "down"
+    },
+    "timeto": {
+      "14633": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      5070
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "73df1c6d23819e9dacc612dc3e6b4958",
+  "room": {
+    "id": 29693,
+    "title": [
+      "[The Silken Lotus, Repose]"
+    ],
+    "description": [
+      "Swathes of rich silks, velvets, and brocades drape across polished cedar supports, and various curtains of silk partition the pavilion into different areas.  This main area has high ceilings and several displays, serving more as museum and gathering spot than shop."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Rumor Woods",
+    "wayto": {
+      "29671": "out",
+      "33543": "go gold divider",
+      "33544": "go sapphire screen",
+      "33545": "go crimson partition"
+    },
+    "timeto": {
+      "29671": 0.2,
+      "33543": 0.2,
+      "33544": 0.2,
+      "33545": 0.2
+    },
+    "uid": [
+      8209311
+    ]
+  }
+}

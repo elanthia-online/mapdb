@@ -1,0 +1,41 @@
+{
+  "checksum": "d96deba077a2c184a23aa29dcd676a14",
+  "room": {
+    "id": 8743,
+    "title": [
+      "[West Bank, Boardwalk]"
+    ],
+    "description": [
+      "A young elven boy sits by the whitewashed railing, gazing out over the river as he casts his fishing line.  The wind gusts, whipping through the ropes and sails of ships passing on the water and stirring the colorful blossoms planted in pots and flowerbeds along the row of homes next to the boardwalk."
+    ],
+    "paths": [
+      "Obvious paths: north, up"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "freshwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8742": "up",
+      "8744": "north"
+    },
+    "timeto": {
+      "8742": 0.2,
+      "8744": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      701411
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      983,
+      1019,
+      1001,
+      1037
+    ]
+  }
+}

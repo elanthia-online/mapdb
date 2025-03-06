@@ -1,0 +1,45 @@
+{
+  "checksum": "ade0ffcd1e9d59ed94d503bbc6240302",
+  "room": {
+    "id": 606,
+    "title": [
+      "[Ta'Illistim, Glamesine Var]"
+    ],
+    "description": [
+      "The low garden wall of a nearby home abuts the cobbled var, clematis and ivy trailing over the top of the stacked fieldstone barrier to nearly tumble across the walkway.  Moonlight splashes silvery light across the home and its garden.",
+      "The low garden wall of a nearby home abuts the cobbled var, clematis and ivy trailing over the top of the stacked fieldstone barrier to nearly tumble across the walkway.",
+      "The low garden wall of a nearby home abuts the cobbled var, roses and ivy trailing over the top of the silvery blue barrier to nearly tumble across the walkway and spill out into the street.  Arching over the street is a marble bridge whose basal course makes a gentle curve."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "20": "southwest",
+      "607": "climb bridge",
+      "706": "northeast"
+    },
+    "timeto": {
+      "20": 0.2,
+      "607": 0.2,
+      "706": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100052
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      995,
+      499,
+      1017,
+      519
+    ]
+  }
+}

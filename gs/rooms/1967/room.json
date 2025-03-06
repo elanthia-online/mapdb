@@ -1,0 +1,84 @@
+{
+  "checksum": "cb54723105a99df5eabdac7efa50965b",
+  "room": {
+    "id": 1967,
+    "title": [
+      "[Wizard Guild, Court]"
+    ],
+    "description": [
+      "Light dances along the sheer rock wall from torches set in roughly carved red-veined marble sconces that flank a pair of massive iron doors.  In the dark the ruddy glow coming from behind the doors is obvious.  The sharp scent of sulphur from somewhere beyond stings your nose.",
+      "A pair of massive iron doors are set in the sheer rock wall.  The sharp scent of sulphur from somewhere beyond stings your nose.  Torches in roughly carved red-veined marble sconces flank the entrance, their bright flames almost obscuring the ruddy glow showing from somewhere behind the doors."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "1963": "north",
+      "1968": "go massive doors",
+      "12545": "go shop",
+      "30715": "/rooms/1967/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1963": 0.2,
+      "1968": "/rooms/1967/timeto/stringproc-1968.rb",
+      "12545": 0.2,
+      "30715": "/rooms/1967/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "wizardguild",
+      "stalk of drakefern",
+      "urchin-access",
+      "urchin guide wizardguild",
+      "wizard guild",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "juniper berry",
+      "sweet potato",
+      "agave heart",
+      "bright red beet",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      682001
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1038,
+      1047,
+      1068,
+      1077
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "968af957dcef87de5cc90b304f331c7c",
+  "room": {
+    "id": 25628,
+    "title": [
+      "[Annatto Bridge Tunnel, Spy Hole]"
+    ],
+    "description": [
+      "Small slits in the stonework look out onto the surface of the bridge, just at foot level.  Chalk markings on the wall beside the spy hole seem to be a tally of some sort, but the labels are partially rubbed away."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25627": "northwest",
+      "25629": "southeast"
+    },
+    "timeto": {
+      "25627": 0.2,
+      "25629": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14115012
+    ],
+    "check_location": false
+  }
+}

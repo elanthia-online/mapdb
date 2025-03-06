@@ -1,0 +1,24 @@
+{
+  "checksum": "90f1a0e02590150e41dc11104543049e",
+  "room": {
+    "id": 20519,
+    "title": [
+      "[Erythro Island, Blood Tunnel]"
+    ],
+    "description": [
+      "A large opening in the passageway allows some light to shine within, pushing back the crimson glow of the tunnel.  The amount of blood has greatly diminished as much of the walls hold their natural earthy tone."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20518": "southeast",
+      "20520": "go opening"
+    },
+    "timeto": {
+      "20518": 0.2,
+      "20520": 0.2
+    }
+  }
+}

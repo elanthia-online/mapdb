@@ -1,0 +1,32 @@
+{
+  "checksum": "e4325da8acea983fb2b0e259245ac7cb",
+  "room": {
+    "id": 16098,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "Building supplies are scattered about the room.  A table is covered with tiles and tesserae of many shapes and colors.  Massive beams of oak and thanot clutter the floor.  Burlap bags of plaster mix are set beneath a table holding a variety of pigments.  The smell of plaster dust is stifling."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16093": "west",
+      "16097": "east"
+    },
+    "timeto": {
+      "16093": 0.2,
+      "16097": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734104
+    ]
+  }
+}

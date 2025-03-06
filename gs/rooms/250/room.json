@@ -1,0 +1,74 @@
+{
+  "checksum": "01a81f867b48b9075e61db272036ad71",
+  "room": {
+    "id": 250,
+    "title": [
+      "[Wehnimer's, North Dock]"
+    ],
+    "description": [
+      "The dock's planks are dull and weathered from the salt spray of many seasons.  Northward beyond the massive sea gates, moonlit clouds drift by, silhouetted against the sky over the dark waters of Darkstone Bay.  The hulk of a derelict coastal sailer is tethered to the end of the pier.",
+      "The dock's planks are dull and weathered from the salt spray of many seasons.  Northward beyond the massive sea gates, a flock of ice geese passes, silhouetted against the sky over the dark blue waters of Darkstone Bay.  The hulk of a derelict coastal sailer is tethered to the end of the pier."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "freshwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "248": "west",
+      "1870": "/rooms/250/wayto/stringproc-1870.rb",
+      "10838": "/rooms/250/wayto/stringproc-10838.rb",
+      "11756": "/rooms/250/wayto/stringproc-11756.rb",
+      "23483": "go waters",
+      "29033": "/rooms/250/wayto/stringproc-29033.rb",
+      "29631": "go ramp",
+      "30276": "go bridge",
+      "30708": "/rooms/250/wayto/stringproc-30708.rb",
+      "31493": "/rooms/250/wayto/stringproc-31493.rb",
+      "32372": "/rooms/250/wayto/stringproc-32372.rb",
+      "32928": "/rooms/250/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "248": 0.2,
+      "1870": "/rooms/250/timeto/stringproc-1870.rb",
+      "10838": "/rooms/250/timeto/stringproc-10838.rb",
+      "11756": "/rooms/250/timeto/stringproc-11756.rb",
+      "23483": 999.2,
+      "29033": "/rooms/250/timeto/stringproc-29033.rb",
+      "29631": 0.2,
+      "30276": 0.2,
+      "30708": "/rooms/250/timeto/stringproc-30708.rb",
+      "31493": "/rooms/250/timeto/stringproc-31493.rb",
+      "32372": "/rooms/250/timeto/stringproc-32372.rb",
+      "32928": "/rooms/250/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "portmaster",
+      "silver-cost:29033:25000",
+      "silver-cost:10838:25000",
+      "silver-cost:1870:25000",
+      "warrior guild crates",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "silver-cost:31493:35000",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11",
+      "urchin-access",
+      "urchin guide docks",
+      "silver-cost:11756:12500",
+      "silver-cost:32372:25000",
+      "silver-cost:32928:25000"
+    ],
+    "uid": [
+      7111
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1125,
+      351,
+      1159,
+      385
+    ]
+  }
+}

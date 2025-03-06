@@ -1,0 +1,41 @@
+{
+  "checksum": "32c93672b9eb20b54f3a42503d355b73",
+  "room": {
+    "id": 31828,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "The river disappears underground at the foot of a rock formation to the west.  A makeshift dock of rotten logs lashed together with vines floats at the wooded water's edge.  The ground cover on the shore is thick, but a rough-hewn path can be made out, winding its way up from the dock and disappearing past the tree line."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31827": "/rooms/31828/wayto/stringproc-31827.rb",
+      "31829": "/rooms/31828/wayto/stringproc-31829.rb"
+    },
+    "timeto": {
+      "31827": 2.2,
+      "31829": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083408
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1253,
+      837,
+      1274,
+      860
+    ]
+  }
+}

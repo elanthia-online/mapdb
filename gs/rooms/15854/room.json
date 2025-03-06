@@ -1,0 +1,29 @@
+{
+  "checksum": "be45499bae1941e1ae57be162be7ac69",
+  "room": {
+    "id": 15854,
+    "title": [
+      "[Thedwar's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by rough pine walls, the shop features a worn rug in the center of its oak floor.  A tattered merchant permit hangs under the plaster ceiling.  Right near the front is a low wrought iron table."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2374": "out",
+      "15890": "northwest",
+      "15891": "northeast"
+    },
+    "timeto": {
+      "2374": 0.2,
+      "15890": 0.2,
+      "15891": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

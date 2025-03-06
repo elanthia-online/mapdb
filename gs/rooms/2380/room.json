@@ -1,0 +1,47 @@
+{
+  "checksum": "32099fd372fb5638bdf6d82f60721c19",
+  "room": {
+    "id": 2380,
+    "title": [
+      "[Magical Burrow, Banshee Lane]"
+    ],
+    "description": [
+      "Gloomy houses with steepled roofs spotted with snowfall join strange magic shops to both sides of the winding thread of cobblestone road.  Halflings and the occasional krolvin hurry by on their way to some place else.  Ragged tendrils of mist rise off of the ice and snow dotting the landscape, swirling in eddies around the entrance to Incantation Alley.",
+      "The earthen road turns to the northeast here and heads toward the center of the Magical Burrow.  Houses and strange magical shops line the streets and halflings hurry by on their way to someplace else."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south",
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2366": "northeast",
+      "2378": "go alley",
+      "2386": "south",
+      "34068": "north"
+    },
+    "timeto": {
+      "2366": 0.2,
+      "2378": 0.2,
+      "2386": 0.2,
+      "34068": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042106
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      139,
+      698,
+      175,
+      734
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "b17bdfdfc0a184989880b3ad8a35c456",
+  "room": {
+    "id": 668,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The rolling hills to the northwest begin to fade and flatten toward the southeast.  As the landscape flattens out, rich fields containing crops of all sorts are visible along the roadside.  Each farm appears to be rotating between wheat and corn along this part of the road."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "667": "northwest",
+      "669": "southeast"
+    },
+    "timeto": {
+      "667": 0.2,
+      "669": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049024
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      611,
+      736,
+      621,
+      746
+    ]
+  }
+}

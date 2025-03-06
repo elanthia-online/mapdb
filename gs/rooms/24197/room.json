@@ -1,0 +1,24 @@
+{
+  "checksum": "2ed2ef102f417c18030b198179ad365e",
+  "room": {
+    "id": 24197,
+    "title": [
+      "[Sacrificial Hall, South Wing]"
+    ],
+    "description": [
+      "Unremarkable in decor, this small hallway is lined with stone columns that lack the elaborate carvings of those previously seen.  A thick layer of dust conceals the floor, and an enormous collection of tangled cobwebs hangs from the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24196": "north",
+      "24198": "south"
+    },
+    "timeto": {
+      "24196": 0.2,
+      "24198": 0.2
+    }
+  }
+}

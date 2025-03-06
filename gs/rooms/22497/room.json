@@ -1,0 +1,29 @@
+{
+  "checksum": "e1a49ee338ce580f2d90439a92e1f2e2",
+  "room": {
+    "id": 22497,
+    "title": [
+      "[The Misted Grey, Entrance]"
+    ],
+    "description": [
+      "Layers of pale grey silk drape from a canopied oak frame to create the walls of this pavilion, broken only by a beaded ebon silk curtain.  A small black oak table stands centered on a thick wool carpet.  Frosted crystal globes are suspended from fine silver chains, their light illuminating the small area."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": false,
+    "wayto": {
+      "20210": "out",
+      "22498": "go curtain",
+      "22664": "northwest",
+      "22665": "northeast"
+    },
+    "timeto": {
+      "20210": 0.2,
+      "22498": 0.2,
+      "22664": 0.2,
+      "22665": 0.2
+    },
+    "check_location": false
+  }
+}

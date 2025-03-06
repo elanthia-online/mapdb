@@ -1,0 +1,47 @@
+{
+  "checksum": "3ff2089e426ecffa15f124b9c7bb7a27",
+  "room": {
+    "id": 12025,
+    "title": [
+      "[Old Ta'Faendryl, Amphitheatre]"
+    ],
+    "description": [
+      "A narrow path formed by the remains of a long stone bench picks its way between haphazard piles of crumbling granite blocks.  It would be possible, by climbing over the fallen stone, to descend to the grassy area to the south."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "rough",
+    "wayto": {
+      "12019": "climb blocks",
+      "12024": "southeast",
+      "12026": "southwest"
+    },
+    "timeto": {
+      "12019": 0.2,
+      "12024": 0.2,
+      "12026": 0.2
+    },
+    "tags": [
+      "wild chokecherry",
+      "pepperthorn root",
+      "ironfern root",
+      "sky-blue delphira",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004038
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      956,
+      409,
+      966,
+      419
+    ]
+  }
+}

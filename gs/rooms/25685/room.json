@@ -1,0 +1,33 @@
+{
+  "checksum": "81672a78d3307e01a42f6f124c403efa",
+  "room": {
+    "id": 25685,
+    "title": [
+      "[Blacksmith, The Forge]"
+    ],
+    "description": [
+      "Intense heat ripples like fiery waves through the chamber, as huge ogre zombies tirelessly bring hammers down onto the steel of weapons set out across dozens of forges.  Sparks fly from the metal as each zombie blacksmith continues its work."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25645": "east",
+      "25686": "southwest",
+      "25862": "northwest"
+    },
+    "timeto": {
+      "25645": 0.2,
+      "25686": 0.2,
+      "25862": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      784,
+      735,
+      810,
+      762
+    ]
+  }
+}

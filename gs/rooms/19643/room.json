@@ -1,0 +1,42 @@
+{
+  "checksum": "0c42290cfdd1df9c6443a37a578376a9",
+  "room": {
+    "id": 19643,
+    "title": [
+      "[Cavernhold, Corridor]"
+    ],
+    "description": [
+      "Tiny rivulets of water trickle slowly down the walls of this narrow corridor.  The dim light that is created by the patches of fungus that grow on the ceiling seems to dance in the small drops of moisture as they slowly inch their way to the floor."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19642": "east",
+      "19644": "northwest",
+      "19645": "southwest"
+    },
+    "timeto": {
+      "19642": 0.2,
+      "19644": 0.2,
+      "19645": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10022
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      515,
+      1123,
+      525,
+      1135
+    ]
+  }
+}

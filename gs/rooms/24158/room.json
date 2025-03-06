@@ -1,0 +1,24 @@
+{
+  "checksum": "2e952f3d6aaa08967b5cbb5d8927265f",
+  "room": {
+    "id": 24158,
+    "title": [
+      "[Necropolis, Underground Lake]"
+    ],
+    "description": [
+      "Bits and pieces of debris bob in the eerie stillness of the underground lake.  The putrid scent of swamp gas rises from the water, a familiar smell of Feywrot Mire."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24152": "/rooms/24158/wayto/stringproc-24152.rb",
+      "24159": "/rooms/24158/wayto/stringproc-24159.rb"
+    },
+    "timeto": {
+      "24152": 0.2,
+      "24159": 0.2
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "5bd5de32a8edf8db0149a53f3c38c423",
+  "room": {
+    "id": 6950,
+    "title": [
+      "[Militia Barracks, Mess Hall]"
+    ],
+    "description": [
+      "Much the same as the militia sleeping quarters, the mess hall contains row upon row of polished modwir tables and benches.  Twice a day militiamen converge here for their meals."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6946": "east",
+      "15531": "south"
+    },
+    "timeto": {
+      "6946": 0.2,
+      "15531": 0.2
+    },
+    "tags": [
+      "meta:game:GSPlat"
+    ]
+  }
+}

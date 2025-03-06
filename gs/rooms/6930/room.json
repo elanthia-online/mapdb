@@ -1,0 +1,40 @@
+{
+  "checksum": "cde4b8d4d36a79a64ec6fd731e9f909d",
+  "room": {
+    "id": 6930,
+    "title": [
+      "[Land Tower West, Ladder Room]"
+    ],
+    "description": [
+      "A long wooden ladder connects this floor to the floors above and below.  A couple of crates and some old uniforms hanging on wall hooks are the only items in the room."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6929": "down",
+      "6931": "up"
+    },
+    "timeto": {
+      "6929": 0.2,
+      "6931": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3036
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      247,
+      104,
+      257,
+      114
+    ]
+  }
+}

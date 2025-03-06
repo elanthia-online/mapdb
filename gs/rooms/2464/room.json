@@ -1,0 +1,40 @@
+{
+  "checksum": "8f67af9432e2295c74ba7c26e70c91b8",
+  "room": {
+    "id": 2464,
+    "title": [
+      "[Pawnshop, Interior]"
+    ],
+    "description": [
+      "Stark wooden floorboards creak under the weight of stacks of bundled weapons and leather.  Perched atop the tall bundles is a halfling clerk who looks none too eager to help you.  In a place of honor on the wall opposite the door is a portrait of Sniffberry, the pawnshop proprietor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2463": "out",
+      "30709": "/rooms/2464/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2463": 0.2,
+      "30709": "/rooms/2464/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "urchin-access",
+      "urchin guide pawn",
+      "pawn"
+    ],
+    "uid": [
+      4043353
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      938,
+      1142,
+      974,
+      1178
+    ]
+  }
+}

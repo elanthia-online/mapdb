@@ -1,0 +1,28 @@
+{
+  "checksum": "8846599868b98d798f5c7ab03534f913",
+  "room": {
+    "id": 13584,
+    "title": [
+      "[Narcissiia's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by textured green silk walls, the shop features a tropical floral arrangement in the center of its cherrywood floor.  A trio-bladed mounted vellum fan hangs under the arched ceiling.  Right near the front is an elegant silver jewelry rack and an elegantly carved oak armoire."
+    ],
+    "paths": [
+      "Obvious exits: south, west, out"
+    ],
+    "wayto": {
+      "10456": "out",
+      "13665": "west",
+      "13666": "south"
+    },
+    "timeto": {
+      "10456": 0.2,
+      "13665": 0.2,
+      "13666": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

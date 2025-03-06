@@ -1,0 +1,38 @@
+{
+  "checksum": "d6dd6c7c6c69b2aa067a44847fedcc2a",
+  "room": {
+    "id": 21185,
+    "title": [
+      "[Monkey Fist, Storage Closet]"
+    ],
+    "description": [
+      "Roughly the size of a broom closet, the small room is illuminated by what light spills in from beyond a doorway to the Monkey Fist kitchen.  A well-used refuse chute sits beneath various storage shelves at the back of the room, and is surrounded by carrot, fruit, and cucumber peels.",
+      "Roughly the size of a broom closet, the small room is illuminated by what light spills in from beyond the a doorway to the Monkey Fist kitchen.  A well-used refuse chute sits beneath various storage shelves at the back of the room, and is surrounded by carrot, fruit, and cucumber peels."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21184": "go chute",
+      "31409": "go kitchen"
+    },
+    "timeto": {
+      "21184": 0.2,
+      "31409": 0.2
+    },
+    "tags": [
+      "rogue guild kitchen"
+    ],
+    "uid": [
+      265041
+    ],
+    "image": "ifw-rogue_guild.png",
+    "image_coords": [
+      801,
+      471,
+      816,
+      486
+    ]
+  }
+}

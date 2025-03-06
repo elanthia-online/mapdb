@@ -1,0 +1,44 @@
+{
+  "checksum": "f6fbe3e8e3860032a993c3d0ff1cbf33",
+  "room": {
+    "id": 19703,
+    "title": [
+      "[Cavernhold, Musterhall]"
+    ],
+    "description": [
+      "You are at the north end of a big cavern.  A natural platform of rock stands a full ten feet above the floor of the chamber.  The shape of the chamber is such that anyone standing on this platform can speak in a normal tone of voice and be heard quite clearly throughout the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19702": "east",
+      "19704": "southwest",
+      "19715": "south",
+      "19718": "north"
+    },
+    "timeto": {
+      "19702": 0.2,
+      "19704": 0.2,
+      "19715": 0.2,
+      "19718": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11016
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      580,
+      675,
+      592,
+      688
+    ]
+  }
+}

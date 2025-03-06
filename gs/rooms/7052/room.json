@@ -1,0 +1,54 @@
+{
+  "checksum": "6383de498f220b5b663f036b24875a8b",
+  "room": {
+    "id": 7052,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Several tunnels intersect at this point, branching off in all directions.  You begin to wonder if any of the brave, desperate souls who dug them ever saw daylight."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, south, west, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7051": "west",
+      "7053": "northwest",
+      "7054": "northeast",
+      "7059": "east",
+      "7069": "south"
+    },
+    "timeto": {
+      "7051": 0.2,
+      "7053": 0.2,
+      "7054": 0.2,
+      "7059": 0.2,
+      "7069": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42511
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      295,
+      819,
+      305,
+      829
+    ]
+  }
+}

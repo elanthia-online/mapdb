@@ -1,0 +1,47 @@
+{
+  "checksum": "495f700af58845a5e234404a93cce503",
+  "room": {
+    "id": 27039,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Dark forms glide quietly through the water towards the distant shoreline of a tropical island.  A large lagoon lies directly to the north, its moonlit white beaches curtained by dense jungle foliage.  Small boats navigate the waters to and from a well lit dock to the east, virtually deserted for the night."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest, west"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "27036": "pedal east",
+      "27038": "pedal south",
+      "27040": "pedal north",
+      "30363": "pedal west",
+      "30375": "pedal southwest"
+    },
+    "timeto": {
+      "27036": 0.2,
+      "27038": 0.2,
+      "27040": 0.2,
+      "30363": 0.2,
+      "30375": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216218
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1521,
+      4719,
+      1540,
+      4738
+    ]
+  }
+}

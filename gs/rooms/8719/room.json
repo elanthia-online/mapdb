@@ -1,0 +1,35 @@
+{
+  "checksum": "442bc9c4109ec93cc20dd84f07d57fd6",
+  "room": {
+    "id": 8719,
+    "title": [
+      "[Quaeta's Fletcher Shop]"
+    ],
+    "description": [
+      "Panels of wood cover the walls, stained rich and dark.  Shelves seem to grow from the wood, varnished in lighter tones.  Upon these rest bows of all shapes and sizes.  Some are intricately carved, others are unadorned, but all are of the highest quality.  Crossbows hang from hooks on the walls, and bowstrings dangle from the ceiling.  A counter sits against the west wall, displaying an array of arrowheads."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "307": "out",
+      "30708": "/rooms/8719/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "307": 0.2,
+      "30708": "/rooms/8719/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin-access",
+      "urchin guide fletcher",
+      "no forageables"
+    ],
+    "uid": [
+      4032
+    ]
+  }
+}

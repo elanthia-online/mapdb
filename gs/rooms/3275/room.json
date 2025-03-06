@@ -1,0 +1,41 @@
+{
+  "checksum": "35830844748e931cd52ec42688db2032",
+  "room": {
+    "id": 3275,
+    "title": [
+      "[Ice Plains, Dark Cavern]"
+    ],
+    "description": [
+      "The passage widens once again as the ice along the floor thins, allowing patches of dirt to show through in several places.  The passage grows darker as you move further under the hill but the shelter that it provides from the biting wind is gratifying nonetheless.  Several chunks of dried meat are scattered along the floor, long since frozen in place."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3274": "south",
+      "3276": "northwest"
+    },
+    "timeto": {
+      "3274": 0.2,
+      "3276": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127009
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      316,
+      326,
+      326,
+      336
+    ]
+  }
+}

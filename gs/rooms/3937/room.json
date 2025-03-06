@@ -1,0 +1,65 @@
+{
+  "checksum": "5da6262de73972f411b2d7a9cc653c21",
+  "room": {
+    "id": 3937,
+    "title": [
+      "[Wehnimer's Sewer, Nexus]"
+    ],
+    "description": [
+      "Dim light filters down from the rusty grate imbedded in the ceiling.  The walls are cracked and broken, while the floor is covered with a thin layer of mud, or worse.  The air is damp and musty, while gently drifting in from the surrounding tunnels are some of the most appalling odors it has ever been your misfortune to experience.  Tunnels slope slightly downward in all directions."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3936": "go grate",
+      "3939": "southeast",
+      "3946": "north",
+      "3955": "northeast",
+      "3963": "west",
+      "3964": "east",
+      "32758": "northwest",
+      "32765": "southwest",
+      "32769": "south"
+    },
+    "timeto": {
+      "3936": 0.2,
+      "3939": 0.2,
+      "3946": 0.2,
+      "3955": 0.2,
+      "3963": 0.2,
+      "3964": 0.2,
+      "32758": 0.2,
+      "32765": 0.2,
+      "32769": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "soft white mushroom",
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2133001
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      580,
+      485,
+      600,
+      505
+    ]
+  }
+}

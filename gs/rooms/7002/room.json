@@ -1,0 +1,57 @@
+{
+  "checksum": "cdc408aeeb71845344c4f7f6a86e73dc",
+  "room": {
+    "id": 7002,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "The northwest guardtower stands firmly above the outer curtain here, but its squat form is overpowered by the huge corner tower of the inner keep which stands behind it.  The guardtower provides access to the parapets which top the outer wall, but you can see no way into the inner keep from here."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7001": "south",
+      "7003": "east",
+      "7014": "go guardtower"
+    },
+    "timeto": {
+      "7001": 0.2,
+      "7003": 0.2,
+      "7014": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "heath aster",
+      "stalk of chicory",
+      "sassafras leaf",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "bright red cranberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45108
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      488,
+      375,
+      498,
+      385
+    ]
+  }
+}

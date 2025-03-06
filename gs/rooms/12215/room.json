@@ -1,0 +1,52 @@
+{
+  "checksum": "80e91700cda9de4e93f26e072ee45e70",
+  "room": {
+    "id": 12215,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Purple blood flows over the floor, making footing hazardous and slick.  As it moves to the south, it slowly turns red, brought to life by the breeze flowing through.  The walls squeeze in and out, forcing the blood to move south and east.  The floor ripples beneath your feet as worms burrow through, tooth-filled maws breaking the surface violently then diving back below."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west",
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12215/wayto/stringproc-2579.rb",
+      "12170": "west",
+      "12209": "southeast",
+      "12210": "northeast"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12170": 0.2,
+      "12209": 0.2,
+      "12210": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570007
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      829,
+      1082,
+      839,
+      1092
+    ]
+  }
+}

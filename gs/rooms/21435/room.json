@@ -1,0 +1,25 @@
+{
+  "checksum": "ca427c420bdfff83b621829afbdbdc1a",
+  "room": {
+    "id": 21435,
+    "title": [
+      "[My Mummy's Boudoir, Wardrobe]"
+    ],
+    "description": [
+      "A lacquered rosewood wardrobe and matching glass-topped bureau stand sentinel at the opening to this dressing room.  The walls are covered with mirrors in all shapes and sizes reflecting the candlelight illuminating from glass globes strung from the ceiling on gilded chains.  A velvet-cushioned chaise lounge reclines in one corner next to a cream leather trunk with gold hardware."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "21434": "go opening",
+      "23164": "/rooms/21435/wayto/stringproc-23164.rb"
+    },
+    "timeto": {
+      "21434": 0.2,
+      "23164": 0.2
+    },
+    "check_location": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "de58cd90b63c2ce6d89dc60e9835720d",
+  "room": {
+    "id": 22351,
+    "title": [
+      "[The Heart of the Art]"
+    ],
+    "description": [
+      "This giant chamber is carved from a large hulk of marble and has been fashioned into the shape of a humanoid heart.  Passageways snake away from the chamber like arteries ready to carry freshly infused blood to distant parts of the body.  Hatchets overhang these arteries and swing across the openings at regular rhythmic intervals, restricting further movement outside of the central chamber to those with a quick foot and a fair amount of daring."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": false,
+    "wayto": {
+      "22350": "go passage"
+    },
+    "timeto": {
+      "22350": 0.2
+    },
+    "tags": [
+      "peer passage =~ /^\\[The Heart of the Art, Solhaven\\]/"
+    ],
+    "uid": [
+      9055030
+    ]
+  }
+}

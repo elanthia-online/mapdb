@@ -1,0 +1,27 @@
+{
+  "checksum": "62287c2e4fc56bfa99d7d85571af50c0",
+  "room": {
+    "id": 20596,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "Huge piles of rubble rest along the sides of the cavern walls, with the occasional cluster of pebbles rolling loose.  Two sconces have been set into a wall, their flames burning dull."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20595": "east",
+      "20597": "southwest"
+    },
+    "timeto": {
+      "20595": 0.2,
+      "20597": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

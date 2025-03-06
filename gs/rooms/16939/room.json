@@ -1,0 +1,39 @@
+{
+  "checksum": "5c80f4a387091c238cee81060ffece81",
+  "room": {
+    "id": 16939,
+    "title": [
+      "[Wizard Guild, Storage]"
+    ],
+    "description": [
+      "Large wooden cupboards line the walls of the expansive room, some revealing their contents with doors ajar while others remain tightly shut, the occasional padlock or two securing their contents.  Rows of tall, shelved cases fill the remainder of the room, barely allowing for passage between their overflowing shelves heavily packed with a wide assortment of of objects of various shape and size.  Leading west, a stone archway is visible between a set of cases, while a thick carven oak door is set in the opposite wall."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "16937": "up",
+      "16940": "go door",
+      "16941": "go archway"
+    },
+    "timeto": {
+      "16937": 0.2,
+      "16940": 0.2,
+      "16941": 0.2
+    },
+    "tags": [
+      "wizard alchemy cleaning supplies"
+    ],
+    "uid": [
+      685206
+    ],
+    "image": "en-ta_illistim-Wizard_Guild-1264234799.gif",
+    "image_coords": [
+      45,
+      186,
+      71,
+      212
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "9cc55e149052e84d0fc9ef3f62b657c3",
+  "room": {
+    "id": 31435,
+    "title": [
+      "[Solhaven, Dungeon]"
+    ],
+    "description": [
+      "Throughout the length of the corridor, mold and mildew encrust the granite stone walls of each cell.  Dim torchlight offers little visibility to the area.  The air is cold and damp providing little comfort to the denizens of these cells nor any other in this forsaken place."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "31434": "south",
+      "31436": "go door",
+      "31437": "go steps"
+    },
+    "timeto": {
+      "31434": 0.2,
+      "31436": 0.2,
+      "31437": 0.2
+    },
+    "uid": [
+      4740139
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "b11271d69f50cf87c57340ad0a98fc18",
+  "room": {
+    "id": 1471,
+    "title": [
+      "[Solhaven, Nerite Lane]"
+    ],
+    "description": [
+      "Amid the intermixed dwellings and storefronts, a well-maintained shop catches your eye.  From the trimly-painted frame of the generous doorway to the fresh whitewash of the half-timbered walls, the very appearance of the shop says - Quality -.",
+      "Amid the intermixed dwellings and storefronts, a well-maintained shop catches your eye.  From the trimly-painted frame of the generous doorway to the fresh whitewash of the half-timbered walls, the immaculate appearance of the shop alludes to the quality of its wares."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1466": "east",
+      "1479": "west",
+      "12809": "go shop"
+    },
+    "timeto": {
+      "1466": 0.2,
+      "1479": 0.2,
+      "12809": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209050
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      702,
+      1026,
+      726
+    ]
+  }
+}

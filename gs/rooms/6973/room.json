@@ -1,0 +1,51 @@
+{
+  "checksum": "1858a32597d6b30b460931e7988a21aa",
+  "room": {
+    "id": 6973,
+    "title": [
+      "[Darkstone, Derelict Road]"
+    ],
+    "description": [
+      "A sheer rock face of several hundred feet rises to the south of here, blocking further travel in that direction.  The old road turns to the east, following the line of the cliff."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "rough",
+    "wayto": {
+      "6972": "north",
+      "6974": "go narrow path",
+      "6987": "east"
+    },
+    "timeto": {
+      "6972": 0.2,
+      "6974": 0.2,
+      "6987": 0.2
+    },
+    "tags": [
+      "heath aster",
+      "bright red teaberry",
+      "sprig of larkspur",
+      "stalk of chicory",
+      "wintergreen leaf",
+      "broken twig",
+      "moonlight cactus-bloom",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      43055
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      159,
+      540,
+      169,
+      550
+    ]
+  }
+}

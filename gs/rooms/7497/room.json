@@ -1,0 +1,53 @@
+{
+  "checksum": "d54c404237acc194b606ce5625d341e1",
+  "room": {
+    "id": 7497,
+    "title": [
+      "[Catacombs, Tunnel]"
+    ],
+    "description": [
+      "The tunnel continues on in a seemingly endless fashion.  The slimy, slippery lichen brushes you now and again as you advance, causing you to shiver from its cold, clammy touch."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7496": "northeast",
+      "7498": "southeast",
+      "20594": "/rooms/7497/wayto/stringproc-20594.rb"
+    },
+    "timeto": {
+      "7496": 0.2,
+      "7498": 0.2,
+      "20594": 0.4
+    },
+    "tags": [
+      "red trafel mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "white hook mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46055
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      714,
+      968,
+      724,
+      978
+    ]
+  }
+}

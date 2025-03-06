@@ -1,0 +1,52 @@
+{
+  "checksum": "1f75c0262cd06a9c698661b27f894657",
+  "room": {
+    "id": 3996,
+    "title": [
+      "[Griffin's Keen, Switchbacks]"
+    ],
+    "description": [
+      "Shallow steps carved into the trail give the illusion of purchase, but the years have smoothed them over with layers of ice.  What once were vertical edges and flat surfaces are now no more than blurry stripes on the ground.  Near the topmost step, a large hole in the rock face looks like it leads to a sheltered spot."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "3995": "/rooms/3996/wayto/stringproc-3995.rb",
+      "3997": "/rooms/3996/wayto/stringproc-3997.rb",
+      "9876": "go hole"
+    },
+    "timeto": {
+      "3995": 4.2,
+      "3997": 4.2,
+      "9876": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302127
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      807,
+      222,
+      817,
+      232
+    ]
+  }
+}

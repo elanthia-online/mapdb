@@ -1,0 +1,29 @@
+{
+  "checksum": "3ae7a34191c23aeb7ee0c5530fbbd3b3",
+  "room": {
+    "id": 15122,
+    "title": [
+      "[Khalypso's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by blue watered silk walls, the shop features a pile of striped throw pillows in the center of its plank floor.  A fused sun and moon wall-hanging hangs under the vaulted ceiling.  Right near the front is a bamboo rack and some wrought-iron hooks."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "359": "out",
+      "15315": "south",
+      "15316": "north"
+    },
+    "timeto": {
+      "359": 0.2,
+      "15315": 0.2,
+      "15316": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

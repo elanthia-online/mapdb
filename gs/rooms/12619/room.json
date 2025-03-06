@@ -1,0 +1,43 @@
+{
+  "checksum": "c53d464cdb493486221b73fb322eedc2",
+  "room": {
+    "id": 12619,
+    "title": [
+      "[Temple of Luukos, Steam Chamber]"
+    ],
+    "description": [
+      "A vast chamber lies before you.  Throughout the room, columns of steam roar from floor to ceiling, simultaneously in turmoil and motionless.  The whole place appears to sit like a sieve across the expanse of the great volcanic cavern known as Luukos' Gullet, and matching holes in floor and ceiling force the steam into momentary liquid pillars before it finds the vent of the fissure above."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest, northwest"
+    ],
+    "location": "the Dark Palisade",
+    "wayto": {
+      "12614": "south",
+      "12618": "north",
+      "12620": "northwest",
+      "12623": "southwest",
+      "12625": "go membrane"
+    },
+    "timeto": {
+      "12614": 0.2,
+      "12618": 0.2,
+      "12620": 0.2,
+      "12623": 0.2,
+      "12625": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3041015
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      960,
+      484,
+      970,
+      494
+    ]
+  }
+}

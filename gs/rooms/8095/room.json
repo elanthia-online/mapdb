@@ -1,0 +1,56 @@
+{
+  "checksum": "cc9f695d4aa26cb9ac0a2a7fb30cb4b4",
+  "room": {
+    "id": 8095,
+    "title": [
+      "[Luinne Bheinn, Settlement]"
+    ],
+    "description": [
+      "A sturdy smithy stands to the north, acrid smoke wafting from its chimney.  The door leading into the smithy is split, the upper part usually open to let heat inside escape.  A few farm tools, damaged and speckled with rust, lean against the smithy.  A large, but simple, house stands to the south."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Luinne Bheinn",
+    "climate": "cold, dry",
+    "terrain": "mountainous",
+    "wayto": {
+      "8091": "northeast",
+      "8098": "west",
+      "8119": "go door"
+    },
+    "timeto": {
+      "8091": 0.2,
+      "8098": 0.2,
+      "8119": 0.2
+    },
+    "tags": [
+      "marallis berry",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4251048
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      1080,
+      838,
+      1090,
+      848
+    ]
+  }
+}

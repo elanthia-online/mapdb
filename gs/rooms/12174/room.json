@@ -1,0 +1,50 @@
+{
+  "checksum": "19953edd2eccfe05dc3fdb531f177789",
+  "room": {
+    "id": 12174,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The sound of hoofbeats approaches rapidly.  When you whirl around, a white horse emerges from the surrounding mist with a black robed figure on its back.  As the horse gallops by, the sound of a blade cutting the air fills your ears, and a burst of wind brushes your neck.  The horseman quickly fades into the mist before you, a scythe the last thing you see as it disappears."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12174/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12174/wayto/stringproc-12089.rb",
+      "12093": "west",
+      "12152": "/rooms/12174/wayto/stringproc-12152.rb",
+      "12175": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12093": 0.2,
+      "12152": 21.6,
+      "12175": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4568002
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      160,
+      1006,
+      168,
+      1014
+    ]
+  }
+}

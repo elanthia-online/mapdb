@@ -1,0 +1,42 @@
+{
+  "checksum": "4b1f0c5e8109f52b410e00d43c958ef4",
+  "room": {
+    "id": 20001,
+    "title": [
+      "[Cavernhold, Hidden Beach]"
+    ],
+    "description": [
+      "This is a small beach on the eastern shore of a fast moving underground stream that gushes out of the rock face north of you and underneath a simple wooden bridge.  To the south can be heard the low, almost unearthly, rumble of a great waterfall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20000": "go recess",
+      "20002": "go bridge"
+    },
+    "timeto": {
+      "20000": 0.2,
+      "20002": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11214
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1159,
+      790,
+      1167,
+      800
+    ]
+  }
+}

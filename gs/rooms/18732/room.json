@@ -1,0 +1,32 @@
+{
+  "checksum": "eac619c1fc773bcfac2e522d19577e22",
+  "room": {
+    "id": 18732,
+    "title": [
+      "[Cleric Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "18631": "east",
+      "18739": "north"
+    },
+    "timeto": {
+      "18631": 0.2,
+      "18739": 0.2
+    },
+    "tags": [
+      "cleric alchemy masters",
+      "cleric guild masters"
+    ],
+    "uid": [
+      674021
+    ],
+    "check_location": true
+  }
+}

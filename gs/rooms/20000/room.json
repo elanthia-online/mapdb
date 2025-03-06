@@ -1,0 +1,42 @@
+{
+  "checksum": "a970b48ce3ff689f4c003ceb13eabb7f",
+  "room": {
+    "id": 20000,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "There is very little clearance between the rough floor and the jagged stones in the roof of this tunnel section.  Shadowy recesses to either side appear to be quite large enough to hold a hidden enemy or an unsavory cavern-dwelling lower life form.  The low clearance and jagged stones above your head, however, make rapid movement impossible."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19999": "northeast",
+      "20001": "go recess",
+      "20003": "south"
+    },
+    "timeto": {
+      "19999": 0.2,
+      "20001": 0.2,
+      "20003": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11207
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1077,
+      790,
+      1089,
+      798
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "cda7d7b4b3d92e70569f2b49aa17d7b2",
+  "room": {
+    "id": 19686,
+    "title": [
+      "[Cavernhold, Smithworks]"
+    ],
+    "description": [
+      "This smithhall is used for smelting and forging base metals and turning ore into items of beauty.  Four forges and two smelting kilns are in the room as well as eight large anvils."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19685": "southeast",
+      "19687": "northwest"
+    },
+    "timeto": {
+      "19685": 0.2,
+      "19687": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10047
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      677,
+      838,
+      688,
+      849
+    ]
+  }
+}

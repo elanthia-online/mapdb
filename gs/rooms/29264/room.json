@@ -1,0 +1,24 @@
+{
+  "checksum": "01343f12a3401174d2876d91759b91d9",
+  "room": {
+    "id": 29264,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Obscure bulges beneath the sodden carpeting make the terrain uneven, while a damaged ceiling provides an oppressive closeness in the mist-filled passage.  Pillar candles stand adjacent to the corridor's southern wall, their wavering light hissing and spluttering at random intervals."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29263": "east",
+      "29265": "west"
+    },
+    "timeto": {
+      "29263": 0.2,
+      "29265": 0.2
+    }
+  }
+}

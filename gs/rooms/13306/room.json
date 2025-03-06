@@ -1,0 +1,36 @@
+{
+  "checksum": "a52c9d40cb76a2697a3b282b7b763b3e",
+  "room": {
+    "id": 13306,
+    "title": [
+      "[Oleani's Temple, Wedding Bower]"
+    ],
+    "description": [
+      "Sculpted rose bushes ring the bower, their thin trunks adorned with violet ribbon streamers.  A white silk runner covered with scattered rose petals of all colors extends towards a trellis sheltering a statue of Oleani and Phoen in a passionate embrace.  A small grove of tanik trees barely conceals two tiny cottages from prying eyes."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13226": "go path",
+      "13302": "west",
+      "13310": "go trees"
+    },
+    "timeto": {
+      "13226": 0.2,
+      "13302": 0.2,
+      "13310": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749108
+    ]
+  }
+}

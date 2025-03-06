@@ -1,0 +1,32 @@
+{
+  "checksum": "ec4c17b154991aed9f30eb8524afdfa2",
+  "room": {
+    "id": 25573,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Part of the ruin wall has sheered off and slid to the ground, blocking half of the passage and making it difficult to traverse.  The sharp edges once caught both flesh and cloth alike, judging from the rust-hued stains and threaded bits of fabric snagged.  Piles of dirt, like giant ant hills, run along the broken pathway sides."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, southwest, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25570": "south",
+      "25574": "west",
+      "25576": "southwest",
+      "25577": "northeast"
+    },
+    "timeto": {
+      "25570": 0.2,
+      "25574": 0.2,
+      "25576": 0.2,
+      "25577": 0.2
+    },
+    "uid": [
+      8213711
+    ],
+    "check_location": true
+  }
+}

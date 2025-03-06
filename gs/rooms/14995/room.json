@@ -1,0 +1,35 @@
+{
+  "checksum": "197f7a128ca8ea66de92475d7f549afc",
+  "room": {
+    "id": 14995,
+    "title": [
+      "[Wehnimer's, East Jetty End]"
+    ],
+    "description": [
+      "The jetty ends here in jagged steps leading up to the tarnished brass tower, its doors hanging ajar on torn and twisted hinges.  At the tip of the breakwater, the spray of the waves and the salt breeze wash away the dirt and commotion of the town."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "saltwater",
+    "terrain": "plain dirt",
+    "wayto": {
+      "4074": "go gate",
+      "14996": "go steps"
+    },
+    "timeto": {
+      "4074": 0.2,
+      "14996": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      7114
+    ]
+  }
+}

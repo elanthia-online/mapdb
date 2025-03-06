@@ -1,0 +1,48 @@
+{
+  "checksum": "f3f91dd9adb4b4de9a4444f5a5008fb6",
+  "room": {
+    "id": 18322,
+    "title": [
+      "[Saewehna Lagoon]"
+    ],
+    "description": [
+      "The cool night wind whistles eerily through the dark jungle bordering the shoreline, rattling the closed umbrella fitted into a table occupying the shore and creating ripples across the black, mirror-like surface of the lagoon.  Distant sounds of crashing waves can be heard over the nocturnal thrum of the jungle, and fireflies wink in and out of existance in the darkness of night, creating tiny flashes of brilliant light to intermingle with the shafts of moonlight penetrating the ever-present mist.",
+      "The wind whistles through the trees bordering the shoreline, rattling the umbrella shading a table occupying the shore and creating ripples across the surface of the water.  The feeling of seclusion in the lagoon's alcove is interrupted by the crash of distant waves, heard over the sounds of the local wildlife and the rush of the nearby waterfall."
+    ],
+    "paths": [
+      "Obvious paths: north, south, southwest, west"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "18320": "swim north",
+      "18321": "go shoreline",
+      "18324": "swim south",
+      "18330": "swim west",
+      "18333": "swim southwest"
+    },
+    "timeto": {
+      "18320": 5,
+      "18321": 0.2,
+      "18324": 5,
+      "18330": 5,
+      "18333": 5
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3210478
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      2042,
+      841,
+      2074,
+      870
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "9160ecf49116a8a468c390861598511e",
+  "room": {
+    "id": 28903,
+    "title": [
+      "[Kraken's Fall, South Arm Road]"
+    ],
+    "description": [
+      "Starlight spills across the roof of a tall oak warehouse that dominates the cobblestone road, the structure quiet and dark save for a single lantern that can be glimpsed from one of the windows.  Piles of wooden planks, oilcloth bundled packages, and various crates surround the building, though the entry is left clear and free of debris.  Morning glories enshroud a two-story whitewashed building and weave around a wrought iron lamppost whose lantern has been shattered by the invasion of the showy tendrils.",
+      "Hammering, buzzing, and loud voices spill from a tall oak warehouse that dominates the cobblestone road, the sound of industry blotting out all other sounds to the area.  Piles of wooden planks, oilcloth bundled packages, and various crates surround the building, though the entry is left clear and free of debris.  Flaeshorn vines mingle with morning glories around a wrought iron lamppost whose lanterns has been shattered by the invasion of the showy tendrils."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28902": "south",
+      "28904": "east",
+      "28906": "west",
+      "28910": "north",
+      "28993": "go warehouse",
+      "32590": "go whitewashed building"
+    },
+    "timeto": {
+      "28902": 0.2,
+      "28904": 0.2,
+      "28906": 0.2,
+      "28910": 0.2,
+      "28993": 0.2,
+      "32590": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118224
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      604,
+      373,
+      618,
+      386
+    ]
+  }
+}

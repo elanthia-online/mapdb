@@ -1,0 +1,27 @@
+{
+  "checksum": "6e87d6cbea540003f28f2047fecad30f",
+  "room": {
+    "id": 3888,
+    "title": [
+      "[Prison, Operations]"
+    ],
+    "description": [
+      "A massive oak table dominates the cramped confines of this space, and half-open cabinets line the walls.  Three burning lanterns dangle from chains fastened to the ceiling, providing ample light for the constable and his assistants.  Glimpses inside the open cabinets reveal piles and piles of folders--some thin, many fat.  Sprawled across the table is a detailed map of Wehnimer's Landing, held in place with four stones and imbedded with pins signifying important locations."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3887": "go oak door",
+      "3889": "east"
+    },
+    "timeto": {
+      "3887": 0.2,
+      "3889": 0.2
+    },
+    "uid": [
+      77004
+    ]
+  }
+}

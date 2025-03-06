@@ -1,0 +1,38 @@
+{
+  "checksum": "76b74f461c1d03190058cd76e115e0b7",
+  "room": {
+    "id": 11306,
+    "title": [
+      "[Alchemist, Secret Tunnel]"
+    ],
+    "description": [
+      "The tunnel widens slightly as it detours around a deep shaft carved into the ground.  Judging by the malodorous fumes drifting up from its depths, the shaft has been routinely used as a garbage pit in the not-so-distant past.  An iron grate has been set across the shaft to prevent any accidental falls, but the bars are orange with rust, and surely will not endure the humid climate much longer."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11305": "west",
+      "11307": "east"
+    },
+    "timeto": {
+      "11305": 0.2,
+      "11307": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377126
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      874,
+      1057,
+      884,
+      1067
+    ]
+  }
+}

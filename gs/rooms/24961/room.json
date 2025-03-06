@@ -1,0 +1,39 @@
+{
+  "checksum": "9b1b6dd533e49a8a4c5adfa7243437c3",
+  "room": {
+    "id": 24961,
+    "title": [
+      "[Den of the Dragon, Amphitheatre]"
+    ],
+    "description": [
+      "A garden trail leads up and west away from this exquisite open-air amphitheatre, and marble and silverwood terraced benches are broken into thirds by stairs.  Framing the stage is a dragon, its tail curling around the nearby orchestra pit and the spine rising against the backdrop of glistening waters beyond.  A small, velvet-roped walkway leads to elegant pews at the front, protected from the elements by argent tenting."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24960": "west",
+      "24962": "go walkway",
+      "33448": "/rooms/24961/wayto/stringproc-33448.rb"
+    },
+    "timeto": {
+      "24960": 0.2,
+      "24962": 0.2,
+      "33448": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102024
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      1651,
+      1129,
+      1807,
+      1224
+    ]
+  }
+}

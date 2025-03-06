@@ -1,0 +1,38 @@
+{
+  "checksum": "6dc6e8be1c70bcca497180b5c8c2f2fb",
+  "room": {
+    "id": 28959,
+    "title": [
+      "[Inking Den, Hallway]"
+    ],
+    "description": [
+      "Navy blue rugs bordered with braided gold rope and bright white anchors cushion the long hallway as it stretches to the east and west.  Wrought iron rings dangle from the ceiling and hold aloft glass-fronted lanterns that shed bright yellow light and dispel all surrounding shadows.  Standing opposite each other, a windowed red door has the words, \"Office of the Registrar,\" etched into its glass, while a windowed black door has the words, \"Office of the Genealogy,\" etched on its glass."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28958": "west",
+      "28960": "east",
+      "28973": "go red door",
+      "28974": "go black door"
+    },
+    "timeto": {
+      "28958": 0.2,
+      "28960": 0.2,
+      "28973": 0.2,
+      "28974": 0.2
+    },
+    "uid": [
+      7121003
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      488,
+      598,
+      517,
+      621
+    ]
+  }
+}

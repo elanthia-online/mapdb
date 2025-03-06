@@ -1,0 +1,31 @@
+{
+  "checksum": "a3f2d1d6e7760200482eff067128531e",
+  "room": {
+    "id": 15168,
+    "title": [
+      "[Perivan's Weaponry]",
+      "[Perivan's General Store]",
+      "[Perivan's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by mahogany paneled walls, the shop features a worn rug in the center of its mahogany floor.  A bundle of dried flowers hangs under the vaulted ceiling.  Right near the front is a vine-carved mahogany table and a gold-leafed mistwood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "356": "out",
+      "15307": "east",
+      "15308": "north"
+    },
+    "timeto": {
+      "356": 0.2,
+      "15307": 0.2,
+      "15308": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

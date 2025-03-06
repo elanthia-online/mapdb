@@ -1,0 +1,81 @@
+{
+  "checksum": "4209341672753dfd20764d795a393db4",
+  "room": {
+    "id": 5579,
+    "title": [
+      "[Vornavis Caravansary, Tent Lane]"
+    ],
+    "description": [
+      "Foot traffic moves steadily past a trio of tents clustered around a firepit to the south, and a similar set of tents and firepit to the north.",
+      "A trio of tents cluster around a firepit to the south, huddling against the considerable activity of a large caravaner's tent to the north.  Several disgruntled-looking yaks are yoked up to hitches at the tent's front, and a constant stream of caravans moves to and from its open-air embrace, filling the area with the squeaking music of wagon wheels."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "5577": "east",
+      "5591": "west",
+      "5594": "south",
+      "13203": "north",
+      "25185": "go tent"
+    },
+    "timeto": {
+      "5577": 0.2,
+      "5591": 0.2,
+      "5594": 0.2,
+      "13203": 0.2,
+      "25185": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "stalk of goldenrod",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "sweet potato",
+      "agave heart",
+      "brown-skinned kiwi",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2120060
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      561,
+      942,
+      571,
+      952
+    ]
+  }
+}

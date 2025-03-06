@@ -1,0 +1,30 @@
+{
+  "checksum": "1568d97a48787a4532b054708bab9324",
+  "room": {
+    "id": 31529,
+    "title": [
+      "[Cormorant's Roost, Armory]"
+    ],
+    "description": [
+      "Thick walls of square-riveted iron cover the large room from floor to ceiling, the wrought metal gate framed by chainmail scabbards and narrow racks affixed vertically next to cormorant-shaped lanterns.  Iron-ringed drawers encircle the perimeter, the half-opened containers filled with vials and pouches of unknown substances.  Sigils of red-stained paint cover the visible surface of the stone staircase, the layers of repainting creating splatters of dried flakes across the metal floor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Cormorant's Roost, inside the pirate paradise of Kraken's Fall",
+    "wayto": {
+      "31527": "go stone staircase",
+      "31531": "go gate"
+    },
+    "timeto": {
+      "31527": 0.2,
+      "31531": 100
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730180
+    ]
+  }
+}

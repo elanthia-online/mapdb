@@ -1,0 +1,28 @@
+{
+  "checksum": "02c25049a59505f01e048bd8276dbca6",
+  "room": {
+    "id": 4358,
+    "title": [
+      "[Armor Accoutrements, Entry]"
+    ],
+    "description": [
+      "Narrow panels of finely woven wool suspended from the reinforcing beams overhead do little to hide the rough packed walls of this small room.  The ceiling is set so low that only the shortest patrons can browse the wares without stooping.  The opening that provides entry to the shop stands opposite a tall stand peppered with helms of various sorts.  Two passageways, leading deeper into the shop, flank the stand."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4355": "out",
+      "4359": "northwest"
+    },
+    "timeto": {
+      "4355": 0.2,
+      "4359": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

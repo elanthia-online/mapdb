@@ -1,0 +1,47 @@
+{
+  "checksum": "e09c768f951415ec9c96aa56e2a72fd9",
+  "room": {
+    "id": 7225,
+    "title": [
+      "[Under Crypt, Tunnels]"
+    ],
+    "description": [
+      "The cold here is so bad that your fingers and toes are becoming numb.  You try to stomp some warmth back into your feet but the echoes you raise makes you worry as to who or what might be listening, so you grit your teeth against their chattering and continue on."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7221": "go tunnel",
+      "7226": "west"
+    },
+    "timeto": {
+      "7221": 0.2,
+      "7226": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18203
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      796,
+      407,
+      806,
+      417
+    ]
+  }
+}

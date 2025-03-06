@@ -1,0 +1,30 @@
+{
+  "checksum": "cd873c7d12d1ef1e7df23234d52398c6",
+  "room": {
+    "id": 15733,
+    "title": [
+      "[Emersus' Weaponry]",
+      "[Emersus' General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2315": "out",
+      "15757": "east",
+      "15758": "north"
+    },
+    "timeto": {
+      "2315": 0.2,
+      "15757": 0.2,
+      "15758": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "3b9a1ba5d9eb3d95d32207a371656b15",
+  "room": {
+    "id": 17114,
+    "title": [
+      "[Cymantha's General Store]",
+      "[Cymantha's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by rough white stucco walls, the shop features a bronze peg-legged cat statue in the center of its dark oak floor.  A tattered merchant permit hangs under the white stucco ceiling.  Right near the front is a beveled glass-covered case and a slender driftwood counter."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9016": "out",
+      "17119": "west",
+      "17120": "east"
+    },
+    "timeto": {
+      "9016": 0.2,
+      "17119": 0.2,
+      "17120": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

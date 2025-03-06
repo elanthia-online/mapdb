@@ -1,0 +1,29 @@
+{
+  "checksum": "a6de1fd6987e99404ad32f6f03903924",
+  "room": {
+    "id": 15046,
+    "title": [
+      "[Tolwynn's Outfitting]",
+      "[Tolwynn's General Store]"
+    ],
+    "description": [
+      "Beneath an ebonwood beam ceiling, a pearl-handled filigreed mandolin hangs on one of the varnished ebonwood walls.  A jewel-inlaid caddy and a glass-topped mistwood counter sit in opposite corners while a stuffed striped rolton rests on a glossy mahogany floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "373": "out",
+      "15437": "northwest",
+      "15438": "northeast"
+    },
+    "timeto": {
+      "373": 0.2,
+      "15437": 0.2,
+      "15438": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

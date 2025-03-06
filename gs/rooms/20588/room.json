@@ -1,0 +1,37 @@
+{
+  "checksum": "8293f548a26f1f797d83c15c38f4bf11",
+  "room": {
+    "id": 20588,
+    "title": [
+      "[Scribe, Front Room]"
+    ],
+    "description": [
+      "The walls of Jenkin the Scrivener's office are honeycombed with scroll and book shelves, all empty.  A thin layer of dust covers the room.  An elegantly penned note hangs from the upper edge of a writing desk in the middle of the room.  Through the archway north, a very large screw-like contraption can be seen."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "283": "out",
+      "20589": "north",
+      "20590": "/rooms/20588/wayto/stringproc-20590.rb",
+      "30360": "south"
+    },
+    "timeto": {
+      "283": 0.2,
+      "20589": 0.2,
+      "20590": 0.2,
+      "30360": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      3014
+    ]
+  }
+}

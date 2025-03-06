@@ -1,0 +1,49 @@
+{
+  "checksum": "aef4ba2e1b0ef1be12ec0b7453ff889d",
+  "room": {
+    "id": 1508,
+    "title": [
+      "[Empath Guild, Entrance]",
+      "[Empaths' Guild, Entrance]"
+    ],
+    "description": [
+      "A silver portcullis yawns widely between two red brick walls.  Ivy clambers haphazardly over the walls, wandering where it pleases except two places where it has been neatly trimmed back: the portcullis and a silver plaque mounted on the right hand wall.  The ground is strewn with a thick layer of crushed brick that crunches loudly underfoot, and a bright banner ripples in the brisk sea breeze as it clings to the top of a tall flagpole.  Torches attached to the flagpole brightly illuminate the area.",
+      "A silver portcullis yawns widely between two red brick walls.  Ivy clambers haphazardly over the walls, wandering where it pleases except two places where it has been neatly trimmed back: the portcullis and a silver plaque mounted on the right hand wall.  The ground is strewn with a thick layer of crushed brick that crunches loudly underfoot, and a bright banner ripples in the brisk sea breeze as it clings to the top of a tall flagpole.  Torches attached to the flagpole await the onset of night.",
+      "Red brick walls choked by a lush blanket of climbing ivy give way to a yawning silver portcullis.  The thriving greenery has been cut back on one wall to reveal a lustrous silver plaque.  Where it is not home to rampant greenery and creepers with blossoms in riotous, prismatic hues, the ground is strewn with a thick layer of crushed brick that forms a spiraling trail centered upon a tall flagpole flying a bright acantha leaf banner.  Torches at the flagpole's base await the onset of night.",
+      "Red brick walls choked by a lush blanket of climbing ivy give way to a yawning silver portcullis.  The thriving greenery has been cut back on one wall to reveal a lustrous silver plaque.  Where it is not home to rampant greenery and creepers with blossoms in riotous, prismatic hues, the ground is strewn with a thick layer of crushed brick that forms a spiraling trail centered upon a tall flagpole flying a bright acantha leaf banner.  Torches at the flagpole's base brightly illuminate the area."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1506": "north",
+      "19734": "go portcullis",
+      "30710": "/rooms/1508/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1506": 0.2,
+      "19734": "/rooms/1508/timeto/stringproc-19734.rb",
+      "30710": "/rooms/1508/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "empathguild",
+      "urchin guide empathguild",
+      "urchin-access",
+      "no forageables",
+      "empath guild"
+    ],
+    "uid": [
+      654001
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1187,
+      828,
+      1207,
+      851
+    ]
+  }
+}

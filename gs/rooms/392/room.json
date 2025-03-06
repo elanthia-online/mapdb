@@ -1,0 +1,39 @@
+{
+  "checksum": "92dee2a2dfebbc00eeb2e38c59bdc376",
+  "room": {
+    "id": 392,
+    "title": [
+      "[Moot Hall, Storage Hall]"
+    ],
+    "description": [
+      "You are in a darkly lit hallway which runs north-south.  On the east wall is a curtained opening, and to the north you can see what looks like an intersection leading out of the storage area."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "391": "north",
+      "393": "south",
+      "3855": "go opening"
+    },
+    "timeto": {
+      "391": 0.2,
+      "393": 0.2,
+      "3855": 240
+    },
+    "tags": [
+      "publiclockers"
+    ],
+    "uid": [
+      54056
+    ],
+    "image": "wl-moot_hall-1486755929.png",
+    "image_coords": [
+      1355,
+      1200,
+      1497,
+      1264
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "checksum": "31c42e3393e41e5de787e9291d9ec020",
+  "room": {
+    "id": 12117,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The sound of blades violently whipping through the air fills your ears.  As you move a bit further, the fog churning around you parts, and you see an unusual type of cell before you.  Scimitars whirl through the air of their own volition, holding a roughly circular pattern.  Inside the cell sits an old Krolvin warlord missing a few chunks of flesh, probably from attempted escapes."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12117/wayto/stringproc-2605.rb",
+      "2619": "southeast",
+      "2635": "/rooms/12117/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12117/wayto/stringproc-12093.rb",
+      "12163": "northeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2619": 0.2,
+      "2635": 16,
+      "12093": 21.6,
+      "12163": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567047
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      975,
+      753,
+      985,
+      763
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "3a5828fd7325c14dc0f58f8ef3cfe075",
+  "room": {
+    "id": 20438,
+    "title": [
+      "[Padra's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a low skylight-set ceiling, a painted silk wall panel hangs on one of the smooth mistwood walls.  A wide knotted oak counter and a plain wooden table sit in opposite corners while a stuffed octopus rests on a colorful mosaic floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12273": "out",
+      "20489": "west",
+      "20490": "east"
+    },
+    "timeto": {
+      "12273": 0.2,
+      "20489": 0.2,
+      "20490": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

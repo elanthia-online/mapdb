@@ -1,0 +1,42 @@
+{
+  "checksum": "51cf75043ad81d0f31802a736066fa33",
+  "room": {
+    "id": 2941,
+    "title": [
+      "[Abbey, Stables]"
+    ],
+    "description": [
+      "The intense smell of horse wafting from the nearby stables is leavened by the sweetness of distant blossoms and honey on the breeze.  The small building verges on one side against a series of gigantic granite blocks that form the abbey courtyard's retaining well.  Old runes are carved into the granite."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast",
+      "Obvious paths: southeast"
+    ],
+    "location": "the Abbey",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2940": "southeast",
+      "2942": "go stables"
+    },
+    "timeto": {
+      "2940": 0.2,
+      "2942": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      4132015
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      604,
+      852,
+      658,
+      901
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "fd8e86a105a829ad8975a5841ef57134",
+  "room": {
+    "id": 13536,
+    "title": [
+      "[Library, Collected Lore]"
+    ],
+    "description": [
+      "Three walls of this room are occupied by massive floor-to-ceiling bookshelves of gleaming mahogany.  In the middle of the room, a tall podium holds a large catalog.  The area is lit by a massive glass globe filled with darting fireflies, perhaps in an attempt to protect the library's precious contents from fire.  Sunlight falls in slanting rays from the passage created by a spiraling wrought iron staircase.",
+      "Three walls of this room are occupied by massive floor-to-ceiling bookshelves of gleaming mahogany.  In the middle of the room, a tall podium holds a large catalog.  The area is lit by a massive glass globe filled with darting fireflies, perhaps in an attempt to protect the library's precious contents from fire.  Moonlight falls in slanting rays from the passage created by a spiraling wrought iron staircase."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13541": "climb staircase",
+      "14024": "west"
+    },
+    "timeto": {
+      "13541": 0.2,
+      "14024": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384028
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "a5ae43a4f2575380defc0b9e85fac2a4",
+  "room": {
+    "id": 12622,
+    "title": [
+      "[Temple of Luukos, Steam Chamber]"
+    ],
+    "description": [
+      "At the center of the chamber, the combined heat given off by the steam columns is almost unbearable."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Dark Palisade",
+    "wayto": {
+      "12620": "northeast",
+      "12621": "northwest",
+      "12623": "southeast",
+      "12624": "southwest"
+    },
+    "timeto": {
+      "12620": 0.2,
+      "12621": 0.2,
+      "12623": 0.2,
+      "12624": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3041025
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      906,
+      483,
+      916,
+      493
+    ]
+  }
+}

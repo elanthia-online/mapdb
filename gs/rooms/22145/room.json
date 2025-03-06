@@ -1,0 +1,43 @@
+{
+  "checksum": "048229ba926116ac02d00a0497d8f422",
+  "room": {
+    "id": 22145,
+    "title": [
+      "[Cairnfang Manor, Hallway]"
+    ],
+    "description": [
+      "Beautiful linden molding adorns the white silk walls that stretch down the hallway.  Doors crafted in a variety of styles mark the private rooms of the manor's members.  Growing from a ceramic urn, a potted rosebush climbs up the wall, supported on a wire trellis.  Its deep crimson and verdant colors are a sharp contrast to the lighter hues in the area."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "22129": "south",
+      "22141": "north",
+      "22146": "go fel door",
+      "22147": "go rosewood door",
+      "22148": "go ebonwood door"
+    },
+    "timeto": {
+      "22129": 0.2,
+      "22141": 0.2,
+      "22146": 0.2,
+      "22147": 0.2,
+      "22148": 0.2
+    },
+    "tags": [
+      "meta:che:Cairnfang Manor"
+    ],
+    "uid": [
+      106402
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      669,
+      356,
+      681,
+      368
+    ]
+  }
+}

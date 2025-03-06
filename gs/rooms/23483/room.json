@@ -1,0 +1,35 @@
+{
+  "checksum": "a577a6ca54a08275eb9c9848dd889db4",
+  "room": {
+    "id": 23483,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "Cold waters splash around you, catching you in the midst of waves that slosh about in the Darkstone Bay.  Grizzled workers move along the docks of Wehnimer's Landing, loading and unloading ships lined up along the water's edge."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "250": "go docks",
+      "23490": "/rooms/23483/wayto/stringproc-23490.rb"
+    },
+    "timeto": {
+      "250": 0.2,
+      "23490": 3.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336801
+    ]
+  }
+}

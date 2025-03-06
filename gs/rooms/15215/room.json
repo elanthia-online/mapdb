@@ -1,0 +1,28 @@
+{
+  "checksum": "e6b4e11f6e6dd94039864b883911b0fc",
+  "room": {
+    "id": 15215,
+    "title": [
+      "[Peritta's Weaponry]"
+    ],
+    "description": [
+      "A portrait hangs on one of the glossy mistwood walls, and a vaulted ceiling rises overhead.  A bronzed drake sculpture sits in one corner of an enameled hardwood floor.  There is a gilded maple cabinet on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "344": "out",
+      "15261": "west",
+      "15262": "east"
+    },
+    "timeto": {
+      "344": 0.2,
+      "15261": 0.2,
+      "15262": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

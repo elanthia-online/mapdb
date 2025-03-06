@@ -1,0 +1,33 @@
+{
+  "checksum": "0136166f3b6425f1fff31b022bdc8558",
+  "room": {
+    "id": 31857,
+    "title": [
+      "[Buckle Up]"
+    ],
+    "description": [
+      "Moonlight breaks through a single, small round window, casting a gentle beam upon an awkwardly placed splintered oak bureau containing the remnants of a large rat's nest.  Several shelves line a shroud-draped wall, most of which are broken and covered with dust.  From beyond a garland-framed arch, the sounds of creaking floorboards echo throughout the area with no hint to their source.",
+      "Daylight breaks through a single, small round window, landing upon an awkwardly placed splintered oak bureau containing the remnants of a large rat's nest.  Several shelves line a shroud-draped wall, most of which are broken and covered with dust.  From beyond a garland-framed arch, the sounds of creaking floorboards echo throughout the area with no hint to their source."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31632": "out",
+      "32179": "go garland-framed arch"
+    },
+    "timeto": {
+      "31632": 0.2,
+      "32179": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084544
+    ]
+  }
+}

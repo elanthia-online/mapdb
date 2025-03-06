@@ -1,0 +1,37 @@
+{
+  "checksum": "6f4e93b58c48c188d0cf7f48f9d7c27a",
+  "room": {
+    "id": 12613,
+    "title": [
+      "[Temple of Luukos, Altar]"
+    ],
+    "description": [
+      "You are standing before the Altar of Sacrifice.  It has been fashioned of green-veined black marble, and a pair of manacles are fastened to each end.  The surface of the altar is quite glossy, yet the floor is sticky with dark red stains.  Feeling a bit nervous, you wonder if you should leave before someone mistakes you for the next sacrifice."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Dark Palisade",
+    "wayto": {
+      "12612": "out",
+      "12614": "/rooms/12613/wayto/stringproc-12614.rb"
+    },
+    "timeto": {
+      "12612": 0.2,
+      "12614": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3041010
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      961,
+      594,
+      971,
+      604
+    ]
+  }
+}

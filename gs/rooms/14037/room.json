@@ -1,0 +1,43 @@
+{
+  "checksum": "482c6592fcfa61a306ed9d56dea57ec9",
+  "room": {
+    "id": 14037,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "You see a massive stone ramp leading down, its base worn smooth by countless feet and wheels traveling it over the years. The inner ward walls tower above you, giving a feeling of both isolation and security."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14036": "go ramp",
+      "14051": "south",
+      "14062": "north"
+    },
+    "timeto": {
+      "14036": 0.2,
+      "14051": 0.2,
+      "14062": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750031
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      761,
+      255,
+      771,
+      265
+    ]
+  }
+}

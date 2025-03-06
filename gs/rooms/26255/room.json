@@ -1,0 +1,31 @@
+{
+  "checksum": "dfd526f103a7f92a6948b8d5a8301bf6",
+  "room": {
+    "id": 26255,
+    "title": [
+      "[Lich's Landing, Corpse Row]"
+    ],
+    "description": [
+      "The road passes beneath the shadow of the wooden palisade wall, before finally curving again towards the center of town.  Here, many of the staked corpses wear the tattered rags of old Wehnimer's militia uniforms."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26254": "south",
+      "26256": "northeast"
+    },
+    "timeto": {
+      "26254": 0.2,
+      "26256": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      318,
+      117,
+      345,
+      144
+    ]
+  }
+}

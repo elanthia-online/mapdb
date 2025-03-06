@@ -1,0 +1,40 @@
+{
+  "checksum": "24478a177eb48c454d7f06a449634da9",
+  "room": {
+    "id": 8355,
+    "title": [
+      "[Spider Temple, Leg of Victim]"
+    ],
+    "description": [
+      "The close confines of the hallway snakes its stony way northwest and to the east from here, its ends bending sinuously out of sight."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8354": "east",
+      "8356": "northwest",
+      "8360": "go door"
+    },
+    "timeto": {
+      "8354": 0.2,
+      "8356": 0.2,
+      "8360": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13026
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      471,
+      693,
+      481,
+      703
+    ]
+  }
+}

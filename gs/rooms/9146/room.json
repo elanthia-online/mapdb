@@ -1,0 +1,43 @@
+{
+  "checksum": "c0fc07ffa5a2637da3f8d09e6d5696db",
+  "room": {
+    "id": 9146,
+    "title": [
+      "[Thurfel's Island]"
+    ],
+    "description": [
+      "A rickety pier has been built along the beachside and it leads off to provide a short walkway over the sea.  The wood is warped from the constant moisture in the air, and the entire structure looks unsafe at best.  A battered sign has been posted."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9145": "west",
+      "9147": "go pier",
+      "9241": "north"
+    },
+    "timeto": {
+      "9145": 0.2,
+      "9147": 0.2,
+      "9241": 0.2
+    },
+    "tags": [
+      "some bur-clover root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      7530024
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      530,
+      911,
+      540,
+      921
+    ]
+  }
+}

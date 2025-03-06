@@ -1,0 +1,45 @@
+{
+  "checksum": "3346e43e807a77e24e2c041243807969",
+  "room": {
+    "id": 30473,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Darkening water indicates a change in depth from east to west, with the darkest rolling onto Charl's Teeth.  There are more dolphins here than typical, and few of the larger predators expected in such waters.  Although the water is as clear as glass, the bottom is not visible because the available light cannot penetrate the water's depth."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south, southwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30469": "pedal southwest",
+      "30470": "pedal southeast",
+      "30471": "pedal south",
+      "30474": "pedal east",
+      "30475": "pedal northeast"
+    },
+    "timeto": {
+      "30469": 6,
+      "30470": 6,
+      "30471": 6,
+      "30474": 6,
+      "30475": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216116
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      420,
+      820,
+      438,
+      840
+    ]
+  }
+}

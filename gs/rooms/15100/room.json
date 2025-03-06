@@ -1,0 +1,29 @@
+{
+  "checksum": "330ebc32c5bc1bb734fb00b4f176ea78",
+  "room": {
+    "id": 15100,
+    "title": [
+      "[Shimeria's Siren Songs]"
+    ],
+    "description": [
+      "Enclosed by pastel blue-washed walls, the shop features a stylized silver mermaid statuette in the center of its smooth stone floor.  A detailed underwater scene hangs under the striped wood ceiling.  Right near the front is a carved driftwood rack and an intricate sinking ship table."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "362": "out",
+      "14687": "east",
+      "15399": "west"
+    },
+    "timeto": {
+      "362": 0.2,
+      "14687": 0.2,
+      "15399": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

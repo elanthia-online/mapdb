@@ -1,0 +1,67 @@
+{
+  "checksum": "5a3d8a1440842eef1659afdf54d9eafd",
+  "room": {
+    "id": 2088,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "A broken water wheel, half submerged in the middle of the river rushing past to the north, along with the burned remains of a building on the riverbank, suggest that some sort of mill once stood here.  However, you have seen no farmland, or suggestion of agriculture anywhere nearby that would possibly call for the need of a mill."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2087": "southwest",
+      "2089": "southeast",
+      "2112": "go house",
+      "12660": "go building"
+    },
+    "timeto": {
+      "2087": 0.2,
+      "2089": 0.2,
+      "2112": 0.2,
+      "12660": 0.2
+    },
+    "tags": [
+      "stalk of goldenrod",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "withered black mushroom",
+      "stalk of chicory",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030226
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      965,
+      914,
+      975,
+      924
+    ]
+  }
+}

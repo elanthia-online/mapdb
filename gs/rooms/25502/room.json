@@ -1,0 +1,31 @@
+{
+  "checksum": "65d703e9ac01db70a4d9ad16dc38a678",
+  "room": {
+    "id": 25502,
+    "title": [
+      "[Blacksmith, Scorched Hall]"
+    ],
+    "description": [
+      "The sound of hammers on anvils echoes down the hall, reverberating off of the scorched stone walls.  The air is heavy here and smoke trails past."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25332": "south",
+      "25503": "north"
+    },
+    "timeto": {
+      "25332": 0.2,
+      "25503": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      915,
+      779,
+      942,
+      805
+    ]
+  }
+}

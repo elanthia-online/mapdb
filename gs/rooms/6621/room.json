@@ -1,0 +1,34 @@
+{
+  "checksum": "da84bc9025ea02bd8627b6b5b0f40d6b",
+  "room": {
+    "id": 6621,
+    "title": [
+      "[The Broken Lands, Chamber]"
+    ],
+    "description": [
+      "A damp mist seems to seep from the very walls of this vast chamber, casting the walls in an eerie green pallor.  A large, round stone stands upright in the center of the room, rotating like a coin that has been stood on edge and spun.  The opening at the center of the stone is pitch black and odd runes are engraved around the edge.  A low, steady hum emanates from the stone and the sound soothes your tired nerves."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6505": "/rooms/6621/wayto/stringproc-6505.rb",
+      "6622": "out"
+    },
+    "timeto": {
+      "6505": 0.2,
+      "6622": 0.2
+    },
+    "uid": [
+      487001
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      502,
+      758,
+      512,
+      768
+    ]
+  }
+}

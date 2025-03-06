@@ -1,0 +1,29 @@
+{
+  "checksum": "323fd7d060885021e5aae520506ba702",
+  "room": {
+    "id": 16389,
+    "title": [
+      "[Kitathas' Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A long mistwood counter and an oversized sea chest sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12263": "out",
+      "20468": "west",
+      "20469": "east"
+    },
+    "timeto": {
+      "12263": 0.2,
+      "20468": 0.2,
+      "20469": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

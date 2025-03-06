@@ -1,0 +1,57 @@
+{
+  "checksum": "82cf0f4025517d7be47d775c5c5b694c",
+  "room": {
+    "id": 6240,
+    "title": [
+      "[Labyrinth, The Forge]"
+    ],
+    "description": [
+      "The hall ends at an elaborately carved doorway that leads into a dark, open room.  A pair of stone pedestals rests on either side of the doorway, each supporting a bronzed soldier statue."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6236": "north",
+      "6238": "northwest",
+      "6239": "southeast",
+      "6242": "northeast",
+      "6244": "southwest",
+      "6245": "go stair"
+    },
+    "timeto": {
+      "6236": 0.2,
+      "6238": 0.2,
+      "6239": 0.2,
+      "6242": 0.2,
+      "6244": 0.2,
+      "6245": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2167089
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1127,
+      602,
+      1145,
+      620
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "cfc1a3b1ed17703757823ea0a1e9c944",
+  "room": {
+    "id": 14554,
+    "title": [
+      "[Polar Bears]"
+    ],
+    "description": [
+      "A snowy blanket covers the polar bear habitat, creating a winter wonderland that is perfect for the arctic creatures.  An icy platform juts into a pool of clear blue water, with an overhang trimmed with glistening icicles.  A pair of polar bears playfully splash each other in the frigid waters of the pool."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14551": "southwest",
+      "14555": "west",
+      "14556": "north"
+    },
+    "timeto": {
+      "14551": 0.2,
+      "14555": 0.2,
+      "14556": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      411134
+    ]
+  }
+}

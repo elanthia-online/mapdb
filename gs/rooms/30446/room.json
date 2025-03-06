@@ -1,0 +1,45 @@
+{
+  "checksum": "fe5c06b8a06c36e4ade009fc7d9ce4a8",
+  "room": {
+    "id": 30446,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "One of the large teeth lays toppled across several others, barring an area that appears to have gone a bit further out at one time, but is now impassable.  Water flows quickly under the fallen rock, lapping at the rocks supporting it."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30432": "pedal southeast",
+      "30433": "pedal east",
+      "30434": "pedal northeast",
+      "30448": "pedal north",
+      "30453": "pedal northwest"
+    },
+    "timeto": {
+      "30432": 6,
+      "30433": 6,
+      "30434": 6,
+      "30448": 6,
+      "30453": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216145
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      420,
+      1620,
+      438,
+      1637
+    ]
+  }
+}

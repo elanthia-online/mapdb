@@ -1,0 +1,56 @@
+{
+  "checksum": "5186bacd4738d69239e5d1d07e17e063",
+  "room": {
+    "id": 12103,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The wedding revel is in full swing.  Men and women clad in bright attire swirl over the floor in a breathless dance, beneath fluttering ribbons and sweet smelling flowers.  Foods with mouthwatering aromas line the walls, served by smiling butlers in finely tailored clothing.  At the head of the table sit the bride and groom, holding a golden cup to each other's lips.  By the advanced stages of decay, you estimate that the happy couple has been dead for several hundred years.",
+      "The wedding revel is in full swing.  Men and women clad in bright attire swirl over the floor in a breathless dance beneath fluttering ribbons and sweet smelling flowers.  Foods with mouthwatering aromas line the walls, served by smiling butlers in finely tailored clothing.  At the head of the table sit the bride and groom, holding a golden cup to each other's lips.  By the advanced stages of decay, you estimate that the happy couple has been dead for several hundred years."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12152": "southeast",
+      "12207": "/rooms/12103/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12103/wayto/stringproc-12235.rb",
+      "12252": "northeast"
+    },
+    "timeto": {
+      "12152": 0.2,
+      "12207": 11.4,
+      "12235": 11.4,
+      "12252": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569008
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      541,
+      1180,
+      551,
+      1190
+    ]
+  }
+}

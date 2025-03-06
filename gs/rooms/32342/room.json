@@ -1,0 +1,43 @@
+{
+  "checksum": "388e22aa3b1129bf1918d03980a1b143",
+  "room": {
+    "id": 32342,
+    "title": [
+      "[Frostmain Docks, Shadowed Pier]",
+      "[Frostmain, Main Pier]"
+    ],
+    "description": [
+      "The pilings to either side of the pier rise high like defiant fingers pointing toward the uncaring sky.  They cast cruel shadows over the planks.  Below, the waters are angry and cold, black depths holding unknowable secrets.",
+      "The thoroughfare of the main pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32341": "north",
+      "32343": "south"
+    },
+    "timeto": {
+      "32341": 0.2,
+      "32343": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133008
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1197,
+      239,
+      1248,
+      283
+    ]
+  }
+}

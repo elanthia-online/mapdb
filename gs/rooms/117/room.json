@@ -1,0 +1,40 @@
+{
+  "checksum": "04894fd9165492ada24c70395639c7de",
+  "room": {
+    "id": 117,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "An astonishingly beautiful relief carving covers the entire eastern wall.  Though stained by leaching minerals and the occasional passing bat, there is no mistaking the passion and skill which brought this artwork into being."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "116": "north",
+      "118": "south",
+      "16751": "/rooms/117/wayto/stringproc-16751.rb"
+    },
+    "timeto": {
+      "116": 0.2,
+      "118": 0.2,
+      "16751": 0.4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300025
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      583,
+      737,
+      593,
+      747
+    ]
+  }
+}

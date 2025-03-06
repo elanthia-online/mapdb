@@ -1,0 +1,46 @@
+{
+  "checksum": "bbebf5063a7256328f7ddef4dc9e8294",
+  "room": {
+    "id": 5562,
+    "title": [
+      "[Outlands Manor, Tower]"
+    ],
+    "description": [
+      "Whatever may once have occupied this chamber has long since been removed.  Only an iron trapdoor set into the chamber's floor remains."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5524": "south",
+      "5563": "west",
+      "5564": "east",
+      "5565": "north",
+      "14598": "go trapdoor"
+    },
+    "timeto": {
+      "5524": 0.2,
+      "5563": 0.2,
+      "5564": 0.2,
+      "5565": 0.2,
+      "14598": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4215168
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      976,
+      326,
+      986,
+      336
+    ]
+  }
+}

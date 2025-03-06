@@ -1,0 +1,27 @@
+{
+  "checksum": "0abb27ae8209fcec1ae13cb0e901185d",
+  "room": {
+    "id": 8662,
+    "title": [
+      "[Bard Guild, Theater Lobby]"
+    ],
+    "description": [
+      "The chamber is shaped like a crescent moon, and within the curve of the arms, cascading tiers of steps lead down to arches opening into the auditorium beyond.  Heavy velvet drapes and thick rugs, all a rich shade of dark crimson, give the room a hushed ambiance, rendering footsteps almost soundless and conversation into a muted buzz."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8661": "go doors",
+      "8663": "go steps"
+    },
+    "timeto": {
+      "8661": 0.2,
+      "8663": 0.2
+    },
+    "uid": [
+      281005
+    ]
+  }
+}

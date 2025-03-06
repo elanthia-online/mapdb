@@ -1,0 +1,45 @@
+{
+  "checksum": "fe675baf44985df0caabb0f695b1becc",
+  "room": {
+    "id": 297,
+    "title": [
+      "[Town Square, South Alley]"
+    ],
+    "description": [
+      "This narrow alleyway passes crookedly between the old wood and stone walls of the surrounding buildings, providing a shaded byway from the busy road to the south to a small park nestled in a grassy niche to the north.  An occasional stray mutt sniffs around the foundations, searching for rats or morsels."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "288": "north",
+      "296": "south",
+      "22349": "/rooms/297/wayto/stringproc-22349.rb"
+    },
+    "timeto": {
+      "288": 0.2,
+      "296": 0.2,
+      "22349": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7356
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      197,
+      992,
+      234,
+      1028
+    ]
+  }
+}

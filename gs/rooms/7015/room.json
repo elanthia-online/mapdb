@@ -1,0 +1,44 @@
+{
+  "checksum": "6ddc74daa0b6dd14785fc2ed66b5e024",
+  "room": {
+    "id": 7015,
+    "title": [
+      "[Castle Darkstone, Guardtower]"
+    ],
+    "description": [
+      "The northern and western walls meet here to form a squat round tower.  Archers stationed here would have a clear shot along the bases of both walls to deter invaders, but no one has stood at these posts for ages.  A stone parapet extends along the tops of the walls to the east and south from here, and some steps lead down into the guardtower."
+    ],
+    "paths": [
+      "Obvious paths: east, south, down"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7014": "down",
+      "7016": "east",
+      "7017": "south"
+    },
+    "timeto": {
+      "7014": 0.2,
+      "7016": 0.2,
+      "7017": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45158
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      305,
+      323,
+      315,
+      333
+    ]
+  }
+}

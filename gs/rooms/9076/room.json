@@ -1,0 +1,43 @@
+{
+  "checksum": "de841ac79605a29ddd906bcbde1a55af",
+  "room": {
+    "id": 9076,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "Three tunnels converge at an underground crossroads.  There are no signs, only varying degrees of stench to guide you.  None of the options is very palatable."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, northwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9075": "northwest",
+      "9077": "east",
+      "9083": "northeast"
+    },
+    "timeto": {
+      "9075": 0.2,
+      "9077": 0.2,
+      "9083": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "some wingstem root",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045155
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1269,
+      482,
+      1279,
+      492
+    ]
+  }
+}

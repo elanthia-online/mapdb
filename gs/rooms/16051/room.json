@@ -1,0 +1,28 @@
+{
+  "checksum": "8a9ecf90eb0d40b111c56297f8284bc5",
+  "room": {
+    "id": 16051,
+    "title": [
+      "[Csilence's Magic Shoppe]"
+    ],
+    "description": [
+      "A pair of cast iron sconces hangs on one of the paneled mahogany walls, and a steeply angled ceiling rises overhead.  A worn rug sits in one corner of an ornate ceramic tile floor.  There is a clawfooted cherrywood table on one side of the shop and a floral-etched ceramic case on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "10877": "out",
+      "16084": "east",
+      "16085": "north"
+    },
+    "timeto": {
+      "10877": 0.2,
+      "16084": 0.2,
+      "16085": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

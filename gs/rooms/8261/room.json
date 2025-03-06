@@ -1,0 +1,42 @@
+{
+  "checksum": "b0e158e9d652b3b035ac265a55b0147a",
+  "room": {
+    "id": 8261,
+    "title": [
+      "[Wolves' Den, Kitchen]"
+    ],
+    "description": [
+      "The walls of the kitchen are lined with rotten cabinets and rusty iron cutlery.  A great stove and fire-pit sit in the center of the room, surrounded by wooden carving tables.  Passages lead off in several directions, and a chill draft blows up from the one leading down to the south."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west, down"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8259": "north",
+      "8262": "down",
+      "8263": "west",
+      "8264": "east"
+    },
+    "timeto": {
+      "8259": 0.2,
+      "8262": 0.2,
+      "8263": 0.2,
+      "8264": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390016
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      168,
+      406,
+      178,
+      416
+    ]
+  }
+}

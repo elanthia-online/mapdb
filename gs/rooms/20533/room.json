@@ -1,0 +1,24 @@
+{
+  "checksum": "039992a373ddd81149013452ef0d6fe5",
+  "room": {
+    "id": 20533,
+    "title": [
+      "[Stone Keep, Outer Wall]"
+    ],
+    "description": [
+      "A set of polished stairs leads up to a thick stone wall that encompasses a towering sandstone keep.   A thin layer of frost clings to the sides of the walls."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20532": "climb stairs",
+      "20535": "north"
+    },
+    "timeto": {
+      "20532": 0.2,
+      "20535": 0.2
+    }
+  }
+}

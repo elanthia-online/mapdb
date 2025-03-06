@@ -1,0 +1,29 @@
+{
+  "checksum": "5465ce4d4295e7ecb5fe4bac233fdc98",
+  "room": {
+    "id": 4053,
+    "title": [
+      "[Osby's Salvage and Construction]"
+    ],
+    "description": [
+      "The rough warehouse is stacked to the eaves with scrap metal, scorched bits of wood, and other salvaged materials.  Scurrying noises in the shadows indicate that the scrawny, unkempt half-elf who oversees the operation may not be the only inhabitant of the room -- though he seems to be the only two-legged one."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "309": "out",
+      "4054": "go door"
+    },
+    "timeto": {
+      "309": 0.2,
+      "4054": 0.2
+    },
+    "tags": [
+      "moved",
+      "closed",
+      "rewritten"
+    ]
+  }
+}

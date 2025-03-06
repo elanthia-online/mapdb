@@ -1,0 +1,35 @@
+{
+  "checksum": "c95d862626f5544aa4f39e8f67cf1fe5",
+  "room": {
+    "id": 12865,
+    "title": [
+      "[Velathae, South Sunrise Road]"
+    ],
+    "description": [
+      "Moonlight filters through the clouds above in weak streaks, casting a silvery light upon the area.  Dark shadows dance and swirl about the muddy road, disturbed only by the occasional dark creature that flies through the streams of light.  Pungent odors waft from the spilled contents of a toppled fruit cart that rests near the fence to the south.",
+      "Weak streams of dim sunlight filter through the clouds above, creating shadows that dance and jump about the road.  A toppled fruit cart rests near the fence to the south, its contents spilled and mashed into fluids that stain the ground beneath."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12864": "east",
+      "12866": "west"
+    },
+    "timeto": {
+      "12864": 0.2,
+      "12866": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ],
+    "image_coords": [
+      905,
+      1191,
+      931,
+      1217
+    ]
+  }
+}

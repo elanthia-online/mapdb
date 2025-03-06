@@ -1,0 +1,41 @@
+{
+  "checksum": "d52a0c8d880b5293873167a8446c91df",
+  "room": {
+    "id": 32764,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "The trickle of sludge begins to move a bit faster, as the slope steepens.  The small pipes in the walls grow fewer, but no less filthy.  You can feel a touch of moving air, perhaps a bit fresher than that which you've grown used to breathing."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3945": "northwest",
+      "32763": "southeast"
+    },
+    "timeto": {
+      "3945": 0.2,
+      "32763": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2136207
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      369,
+      276,
+      379,
+      286
+    ]
+  }
+}

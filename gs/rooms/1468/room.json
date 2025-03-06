@@ -1,0 +1,40 @@
+{
+  "checksum": "63ef6847464a512fd4f9e1810f22680a",
+  "room": {
+    "id": 1468,
+    "title": [
+      "[Solhaven, Nerite Lane]"
+    ],
+    "description": [
+      "The Solhaven Jail sits against Vornavis' west wall.  Curiously, the structure appears to be built into the wall, and there is no indication how far back it truly goes.  Two watchful, burly giantmen stand on either side of the entrance to the guardhouse.  A group of Vornavian guards stand nearby, conversing quietly."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1464": "west",
+      "13515": "go guardhouse"
+    },
+    "timeto": {
+      "1464": 0.2,
+      "13515": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209055
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1307,
+      702,
+      1331,
+      726
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "f1a4c556d4b03cea86270639a2cef75f",
+  "room": {
+    "id": 13644,
+    "title": [
+      "[Sturmgren's Outfitting]",
+      "[Sturmgren's General Store]",
+      "[Sturmgren's Magic Shoppe]"
+    ],
+    "description": [
+      "The broad sweep of the mahogany floor is interrupted by a serene golden wyvern fountain.  Halfway to the arched ceiling, a tattered merchant permit hangs on one of the colorful brocade walls.  A twisted dark metal rack and a carved oak table are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10447": "out",
+      "13651": "west",
+      "13652": "east"
+    },
+    "timeto": {
+      "10447": 0.2,
+      "13651": 0.2,
+      "13652": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

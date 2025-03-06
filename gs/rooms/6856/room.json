@@ -1,0 +1,44 @@
+{
+  "checksum": "3431b823a45f918ab933fde17a59ac80",
+  "room": {
+    "id": 6856,
+    "title": [
+      "[Abandoned Inn, Upstairs Hall]"
+    ],
+    "description": [
+      "Pictures hang from the walls along this long corridor.  Portraits of important guests who once stayed in the inn, landscapes, and a wedding portrait of the proprietors while they still lived liven up the wood paneling between the guest room doors.  A simple wooden stair a little to the west marks the end of the hallway."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6855": "east",
+      "6857": "go carved door",
+      "6860": "go red door",
+      "6861": "go purple door",
+      "6863": "go stair"
+    },
+    "timeto": {
+      "6855": 0.2,
+      "6857": 0.2,
+      "6860": 0.2,
+      "6861": 0.2,
+      "6863": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21109
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      817,
+      1204,
+      827,
+      1214
+    ]
+  }
+}

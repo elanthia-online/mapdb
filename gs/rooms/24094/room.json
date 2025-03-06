@@ -1,0 +1,24 @@
+{
+  "checksum": "962bde179054dd8ba7f0870896e72ce1",
+  "room": {
+    "id": 24094,
+    "title": [
+      "[Necropolis, Hall of the Dead]"
+    ],
+    "description": [
+      "Upon the moss-covered limestone walls, shallow niches house a number of sarcophagi.  Iron sconces give off a pale green illumination, giving the hall an eerie presence.  Smeared trails of blood and gore lead in every direction.  Lengths of tattered cloth are scattered across the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24092": "south",
+      "24095": "north"
+    },
+    "timeto": {
+      "24092": 0.2,
+      "24095": 0.2
+    }
+  }
+}

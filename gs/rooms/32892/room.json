@@ -1,0 +1,42 @@
+{
+  "checksum": "e1df7bcee5185d79031b0456a2c56f12",
+  "room": {
+    "id": 32892,
+    "title": [
+      "[Brisker's Cove, Trisister Road]"
+    ],
+    "description": [
+      "Flapping like pennants, clothing hanging from crisscrossing lines sways in the ocean-borne breeze that slips through the tightly packed warehouse to the south.  Modest homes huddle together in the shadows of the larger structures across the street, their bright orange-red roofs dark under the cover of night.  Squatting amid the domiciles, a small shop sits open to customers."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32891": "east",
+      "32893": "northwest",
+      "32942": "go shop"
+    },
+    "timeto": {
+      "32891": 0.2,
+      "32893": 0.2,
+      "32942": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140019
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      507,
+      428,
+      522,
+      443
+    ]
+  }
+}

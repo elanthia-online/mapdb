@@ -1,0 +1,36 @@
+{
+  "checksum": "f5ad334226685bee4da15a1517ab1414",
+  "room": {
+    "id": 17026,
+    "title": [
+      "[Warrior Guild Basement]"
+    ],
+    "description": [
+      "Steep stairs have been hewn out of the rough stone walls, and lead up out of the basement.  Pitch-covered torches are set in sconces along the wall, providing light.  An unusual wet cracking sound can be heard faintly coming from the south."
+    ],
+    "paths": [
+      "Obvious exits: south, west, up"
+    ],
+    "location": "Solhaven's Warrior Guild",
+    "wayto": {
+      "17025": "up",
+      "17039": "west",
+      "17043": "south"
+    },
+    "timeto": {
+      "17025": 0.2,
+      "17039": 0.2,
+      "17043": 0.2
+    },
+    "uid": [
+      254038
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      1498,
+      307,
+      1519,
+      328
+    ]
+  }
+}

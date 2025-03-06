@@ -1,0 +1,84 @@
+{
+  "checksum": "2b166ba59f712f618d2461de57ade6a2",
+  "room": {
+    "id": 1194,
+    "title": [
+      "[Raging Thrak Inn, Dining Room]"
+    ],
+    "description": [
+      "Loud and abusive noises emanate from behind the swinging kitchen doors, much to the laughing delight of some of the customers, and to the chagrin of others.  Tapestries hanging from the walls depict soothing idyllic wildlife scenes.  Hard wooden tables and chairs are placed evenly, allowing enough space for the cook and wait servants to pass."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "1195": "south",
+      "1259": "southwest",
+      "3622": "/rooms/1194/wayto/stringproc-3622.rb",
+      "3751": "/rooms/1194/wayto/stringproc-3751.rb",
+      "3786": "/rooms/1194/wayto/stringproc-3786.rb",
+      "3808": "/rooms/1194/wayto/stringproc-3808.rb",
+      "3827": "/rooms/1194/wayto/stringproc-3827.rb",
+      "3830": "/rooms/1194/wayto/stringproc-3830.rb",
+      "3852": "/rooms/1194/wayto/stringproc-3852.rb",
+      "3854": "/rooms/1194/wayto/stringproc-3854.rb",
+      "3909": "/rooms/1194/wayto/stringproc-3909.rb",
+      "3910": "/rooms/1194/wayto/stringproc-3910.rb",
+      "8669": "go cozy nook",
+      "9289": "/rooms/1194/wayto/stringproc-9289.rb",
+      "9293": "/rooms/1194/wayto/stringproc-9293.rb",
+      "9297": "/rooms/1194/wayto/stringproc-9297.rb",
+      "9402": "/rooms/1194/wayto/stringproc-9402.rb",
+      "17091": "/rooms/1194/wayto/stringproc-17091.rb",
+      "17092": "/rooms/1194/wayto/stringproc-17092.rb",
+      "17093": "/rooms/1194/wayto/stringproc-17093.rb",
+      "17375": "/rooms/1194/wayto/stringproc-17375.rb",
+      "23268": "/rooms/1194/wayto/stringproc-23268.rb",
+      "28579": "/rooms/1194/wayto/stringproc-28579.rb",
+      "30708": "/rooms/1194/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "1195": 0.2,
+      "1259": 0.2,
+      "3622": 0.2,
+      "3751": 0.2,
+      "3786": 0.2,
+      "3808": 0.2,
+      "3827": 0.2,
+      "3830": 0.2,
+      "3852": 0.2,
+      "3854": 0.2,
+      "3909": 0.2,
+      "3910": 0.2,
+      "8669": 0.2,
+      "9289": 0.2,
+      "9293": 0.2,
+      "9297": 0.2,
+      "9402": 0.2,
+      "17091": 0.2,
+      "17092": 0.2,
+      "17093": 0.2,
+      "17375": 0.2,
+      "23268": 0.2,
+      "28579": 0.2,
+      "30708": "/rooms/1194/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables"
+    ],
+    "uid": [
+      1017
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      203,
+      352,
+      233,
+      382
+    ]
+  }
+}

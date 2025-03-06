@@ -1,0 +1,38 @@
+{
+  "checksum": "47cb85e41c6e56cf0d13da6c49a65a86",
+  "room": {
+    "id": 9124,
+    "title": [
+      "[Subterranean Lake, Shore]"
+    ],
+    "description": [
+      "Masses of lichen cover the wall of the cavern and drape out into the stagnant water.  They cling among the stalagmites dotting the lake forming a natural bridge across its surface.  How sturdy it is is anybody's guess."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9122": "northwest",
+      "9127": "go bridge"
+    },
+    "timeto": {
+      "9122": 0.2,
+      "9127": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045232
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      225,
+      834,
+      235,
+      844
+    ]
+  }
+}

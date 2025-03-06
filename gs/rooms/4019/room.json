@@ -1,0 +1,37 @@
+{
+  "checksum": "bdcb7379021ba883c716f9d8b7f6e102",
+  "room": {
+    "id": 4019,
+    "title": [
+      "[Gaedrein's Furs and Pelts]"
+    ],
+    "description": [
+      "Stacks of furs and pelts are thickly layered upon maoral shelves which cover the shop's stone walls from floor to ceiling.  Several glaesine lanterns hanging from the rafters above cast a dim amber glow across the windowless room.  A lone counter sits at the rear of the shop, behind which the shop's proprietor stands, waiting for patrons to assist."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "740": "out",
+      "30714": "/rooms/4019/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "740": 0.2,
+      "30714": "/rooms/4019/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13104675
+    ]
+  }
+}

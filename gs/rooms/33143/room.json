@@ -1,0 +1,30 @@
+{
+  "checksum": "fcd4fa12e7a9f6d13fb023bc7c6744cd",
+  "room": {
+    "id": 33143,
+    "title": [
+      "[A Stone Chamber]"
+    ],
+    "description": [
+      "A single oil lamp hanging from the high vaulted ceiling illuminates the small oval chamber.  Smooth, dark-veined granite walls rise into the shadowed darkness.  Firmly bolted to the wall at one side of the room is a small, cast-iron ring.  At the far end of the chamber is a simple curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "23909": "pull ring",
+      "33144": "go curtained opening"
+    },
+    "timeto": {
+      "23909": 0.2,
+      "33144": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      13112205
+    ]
+  }
+}

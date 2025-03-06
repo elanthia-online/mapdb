@@ -1,0 +1,43 @@
+{
+  "checksum": "cc41d3f8dc5c8628d1c02913563dea76",
+  "room": {
+    "id": 30370,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Dark rocky forms loom menacingly in the distance to the west and southwest, making passage beyond them impossible.  Water can be heard crashing up against the rocks, throwing a fine mist to be carried by the swift breeze.  Waves of ocean water propel backwards, carrying a froth of foam mixed with debris."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30369": "pedal south",
+      "30371": "pedal north",
+      "30380": "pedal east",
+      "30381": "pedal northwest"
+    },
+    "timeto": {
+      "30369": 6,
+      "30371": 6,
+      "30380": 6,
+      "30381": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216209
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1023,
+      4420,
+      1040,
+      4439
+    ]
+  }
+}

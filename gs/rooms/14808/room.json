@@ -1,0 +1,32 @@
+{
+  "checksum": "059ebc3d92b778cfd971cac544bbcc0b",
+  "room": {
+    "id": 14808,
+    "title": [
+      "[Cobblers' Wares]"
+    ],
+    "description": [
+      "Behind a long, marble-topped counter stands a storage unit that encompasses the entire wall.  The top third of the unit is comprised of shelves containing boxes of many sizes.  The remainder is made entirely of wide, shallow drawers labeled with the names of various animals."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "14807": "go curtain",
+      "30715": "/rooms/14808/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "14807": 0.2,
+      "30715": "/rooms/14808/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "cobbling",
+      "urchin guide cobbling",
+      "urchin-access"
+    ],
+    "uid": [
+      4057005
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "6be87a759baa1d33e2eaba8b3bc7f2a2",
+  "room": {
+    "id": 1253,
+    "title": [
+      "[Reignbeau Caverns]"
+    ],
+    "description": [
+      "Many-hued clay forms the walls, ceiling, and floor of this low, twisting cavern.  Dozens of stalactites drip thick liquids in every color of the rainbow.  It takes a keen eye and a quick step to avoid an unintended change in hair color.  The clay that oozes from the walls and drops from above forms dozens of multihued puddles around you.  Grumbling, uncooperative dwarves loiter in every corner."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west, up"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "1252": "up",
+      "1254": "east",
+      "1255": "go cave",
+      "3558": "north",
+      "4069": "south",
+      "4072": "west"
+    },
+    "timeto": {
+      "1252": 0.2,
+      "1254": 0.2,
+      "1255": 0.2,
+      "3558": 0.2,
+      "4069": 0.2,
+      "4072": 0.2
+    },
+    "tags": [
+      "dyers",
+      "pothinir grass",
+      "withered black mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      34103
+    ],
+    "image": "wl-dyers_tent-1487674019.png",
+    "image_coords": [
+      1397,
+      847,
+      1539,
+      912
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "4bd36c75a850728dcdab1e5157cfd562",
+  "room": {
+    "id": 25832,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Water lazily ripples through the wide channel that passes between the two islands, its crystal clear hue augmented by the delicate touch of the pale moon.  Dark shapes move far beneath, though none rise close enough to the surface to make them identifiable.  In complete contrast to each other, one island displays beaches of black sand, while the other has only a small habitable beach of glittering white."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25822": "/rooms/25832/wayto/stringproc-25822.rb",
+      "25829": "/rooms/25832/wayto/stringproc-25829.rb",
+      "25833": "/rooms/25832/wayto/stringproc-25833.rb"
+    },
+    "timeto": {
+      "25822": 6,
+      "25829": 6,
+      "25833": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223849
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1040,
+      1519,
+      1061,
+      1539
+    ]
+  }
+}

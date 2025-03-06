@@ -1,0 +1,46 @@
+{
+  "checksum": "2b9cb50f978f550ee18263fed9769210",
+  "room": {
+    "id": 25264,
+    "title": [
+      "[Reim Base Camp]"
+    ],
+    "description": [
+      "A strong, chilling wind blows through the area, the gusts threatening to flatten a tall canvas tent and a makeshift shop situated along the cliff.  A wooden vault creates a makeshift wall between the other structures, its thick pine planks warped from continuous exposure to the harsh elements."
+    ],
+    "paths": [
+      "Obvious paths: north",
+      "Obvious paths: north, south"
+    ],
+    "location": "Reim Base Camp",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25262": "north",
+      "25265": "go vault",
+      "25266": "go shop",
+      "25267": "go tent",
+      "26113": "south"
+    },
+    "timeto": {
+      "25262": 0.2,
+      "25265": 0.2,
+      "25266": 0.2,
+      "25267": 0.2,
+      "26113": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7106003
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      1553,
+      415,
+      1588,
+      449
+    ]
+  }
+}

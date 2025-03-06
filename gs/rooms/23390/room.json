@@ -1,0 +1,45 @@
+{
+  "checksum": "69d39905cb28f9c2684572648a24b177",
+  "room": {
+    "id": 23390,
+    "title": [
+      "[A Twisting Tunnel, Shaft]"
+    ],
+    "description": [
+      "The curving of the tunnel walls stops suddenly in this tiny space that is flooded with light.  Far above, an opening can be seen that reveals a tiny round patch of sky.  A sturdy iron ladder, bolted into the cave walls, leads up."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23389": "go iron ladder",
+      "23391": "southwest"
+    },
+    "timeto": {
+      "23389": 0.2,
+      "23391": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018034
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      220,
+      130,
+      230,
+      140
+    ]
+  }
+}

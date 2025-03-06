@@ -1,0 +1,34 @@
+{
+  "checksum": "09a7fd68e8ae937df3a964527f3388f2",
+  "room": {
+    "id": 10952,
+    "title": [
+      "[Timor's Storage, Lobby]"
+    ],
+    "description": [
+      "Aged floorboards soften the echoes of the busy foot traffic passing in an out of the building.  Oil lamps mounted on the walls light the way for those hurrying in and out of the locker entryway to the east.  Chatter from the nearby office spills out into the lobby when voices grow heated.  One whole wall is almost completely covered with shop advertisements, meeting notices, and warrants."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10851": "out",
+      "10953": "east",
+      "10954": "go door"
+    },
+    "timeto": {
+      "10851": 0.2,
+      "10953": 0.2,
+      "10954": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001201
+    ]
+  }
+}

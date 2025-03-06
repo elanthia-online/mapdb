@@ -1,0 +1,30 @@
+{
+  "checksum": "73c78065e793f73ef66c6eccd08bec85",
+  "room": {
+    "id": 24674,
+    "title": [
+      "[Museum of Fashion History]"
+    ],
+    "description": [
+      "Unadorned ebonwood walls enclose the glass cases positioned at various points in the room.  Gathered across the arched glass windows on the eastern wall, plum linen drapes are pulled back with silver cords to allow moonlight to stream through and dispel the shadows of night.  Silvery undertones sweep the grey marble floors, designed to match the unlit silver sconces that line the walls.  The museum continues through the northeastern arch."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24672": "out",
+      "25180": "go arch"
+    },
+    "timeto": {
+      "24672": 0.2,
+      "25180": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      18017004
+    ]
+  }
+}

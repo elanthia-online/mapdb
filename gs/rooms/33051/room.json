@@ -1,0 +1,34 @@
+{
+  "checksum": "61dbade3c058bf2a8c40bee5ea2172be",
+  "room": {
+    "id": 33051,
+    "title": [
+      "[Twisted Tentacle Overlook]"
+    ],
+    "description": [
+      "Serving as a bridge between the flotilla proper and the docking system, this large overlook is made of reclaimed ships' woods and thick ropes of rolled hemp.  Nestled against the side of the flotilla are two small shops, a rickety shack and a small battered tent, and a large sign covered in warnings is prominently displayed next to a broken anchor."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33052": "down",
+      "33074": "go flotilla",
+      "33089": "go rickety shack",
+      "33090": "go battered tent"
+    },
+    "timeto": {
+      "33052": 0.2,
+      "33074": 0.2,
+      "33089": 0.2,
+      "33090": 0.2
+    },
+    "tags": [
+      "handler"
+    ],
+    "uid": [
+      7134031
+    ]
+  }
+}

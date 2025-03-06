@@ -1,0 +1,24 @@
+{
+  "checksum": "8fc8c26be7013c91af8cc9ec635275f3",
+  "room": {
+    "id": 23518,
+    "title": [
+      "[Sea Legs and Wings, Atelier]"
+    ],
+    "description": [
+      "Screened from the previous room, the cramped work area is neatly maintained with a tiny bunk positioned over a minute desk on two substantial bookcases.  In the corner, a petite conch shell cauldron stands on blown glass legs."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "23427": "go conch cauldron",
+      "23517": "out"
+    },
+    "timeto": {
+      "23427": "/rooms/23518/timeto/stringproc-23427.rb",
+      "23517": 0.2
+    }
+  }
+}

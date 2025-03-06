@@ -1,0 +1,37 @@
+{
+  "checksum": "6ccd3f7883c77813f16b38e708a07566",
+  "room": {
+    "id": 9397,
+    "title": [
+      "[Darbo Phoop's, Consignment]"
+    ],
+    "description": [
+      "The shop's granite floor continues to extend into this area, but has changed from blue to dark grey streaked with white swirls.  From the ceiling, a massive contraption hangs by tightly woven rope, its purpose unclear."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9396": "east",
+      "30710": "/rooms/9397/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "9396": 0.2,
+      "30710": "/rooms/9397/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      160014
+    ]
+  }
+}

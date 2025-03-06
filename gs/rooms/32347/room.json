@@ -1,0 +1,43 @@
+{
+  "checksum": "d9d5a1038f96ac3f82dff6c00a35e2a6",
+  "room": {
+    "id": 32347,
+    "title": [
+      "[Frostmain Docks, Greying Pier]",
+      "[Frostmain, Docks]"
+    ],
+    "description": [
+      "The skeletal remains of a waterfowl hang in a rusted cage that is suspended from a nearby post.  To the north, the starboard tine of the trident-shaped docks thrusts into the cruel waters of the main.  Set rocking by the breeze, the cage's grating creaks are the only sounds approximating birdsong."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious paths: north, west"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32350": "north",
+      "32356": "south"
+    },
+    "timeto": {
+      "32350": 0.2,
+      "32356": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133017
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1125,
+      241,
+      1175,
+      287
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "3ca86eab108b040adb6f5189073dd173",
+  "room": {
+    "id": 25256,
+    "title": [
+      "[Sanctum Tower, Third Floor]"
+    ],
+    "description": [
+      "The southern wall of the tower is anchored by a massive bay window that looks out onto the red-blushed golden desert beyond.  Coiled serpents of brass and copper spiral around the entablature above, their slitted emerald eyes winking in the daylight that spills through the glass-paned frame.  Carpeted in viridian velvet, the passage curves down toward the tower's lower floors."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, down"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "25253": "down",
+      "25257": "northeast",
+      "25258": "northwest"
+    },
+    "timeto": {
+      "25253": 0.2,
+      "25257": 0.2,
+      "25258": 0.2
+    },
+    "uid": [
+      4216040
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      360,
+      289,
+      384,
+      312
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "checksum": "273f9bb2b173fc87bdded19b3e5acb4e",
+  "room": {
+    "id": 34292,
+    "title": [
+      "[Giant's Ridge, Juncture]"
+    ],
+    "description": [
+      "Impeding further travel to the east is a wall of tremendous boulders, a barricade to the immense summit that imposes a foreboding shadow over an already darkened trail.  Freshly cut limbs and branches rest in an orderly pile beneath a covered stand filled with a variety of pruning tools and other miscellaneous items.  Just beyond a wide crevice in the ground, a rock-spattered ledge clings to the mountain face and wends back and forth toward a moderate clearing set back from the trail's sharp edge."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Stormpeak",
+    "climate": "moist",
+    "terrain": "deciduous",
+    "wayto": {
+      "34291": "down",
+      "34293": "climb ledge",
+      "34313": "/rooms/34292/wayto/stringproc-34313.rb"
+    },
+    "timeto": {
+      "34291": 0.2,
+      "34293": 0.2,
+      "34313": 3.2
+    },
+    "tags": [
+      "acantha leaf",
+      "woth flower",
+      "calamia fruit",
+      "haphip root",
+      "sticks",
+      "trollear mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "broken twig",
+      "stalk of bluebells",
+      "wild chokecherry",
+      "bright red cranberry",
+      "alpine violet",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "luckbloom blossom",
+      "murdroot",
+      "nightbloom blossom",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "cabbage rose",
+      "virescent rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150204
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      434,
+      60,
+      451,
+      76
+    ]
+  }
+}

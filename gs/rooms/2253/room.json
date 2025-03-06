@@ -1,0 +1,39 @@
+{
+  "checksum": "1caea164a4579575aba329296ee4b654",
+  "room": {
+    "id": 2253,
+    "title": [
+      "[Glaes Caverns]"
+    ],
+    "description": [
+      "The cavern curves around an immense outcrop of rare blood-red glaes, filling the western wall with its veiny magnificence.  The striations are irregular, taking on the appearance of mottled flesh.  Liquid glaes bubbles out from beneath it and zigzags across the floor in a smoking rivulet, crossing the chamber like a writhing serpent of fire."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2252": "southwest",
+      "2254": "northwest"
+    },
+    "timeto": {
+      "2252": 0.2,
+      "2254": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051029
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      251,
+      618,
+      259,
+      626
+    ]
+  }
+}

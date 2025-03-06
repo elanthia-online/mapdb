@@ -1,0 +1,38 @@
+{
+  "checksum": "234470dd57b82a571ea53a76a6fd4f72",
+  "room": {
+    "id": 9741,
+    "title": [
+      "[Maaghara Tower, Stair]"
+    ],
+    "description": [
+      "The stairs continue here, circling for almost a quarter-circle along the inside of the tree trunk.  Far below you, mists shroud the bottom of the tower.  Woody growths crisscross the open area and to the east, far across the hollow interior, another spiral stair circles the tree in the opposite direction."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9740": "climb stairs",
+      "9742": "west"
+    },
+    "timeto": {
+      "9740": 0.2,
+      "9742": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021013
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      638,
+      517,
+      648,
+      527
+    ]
+  }
+}

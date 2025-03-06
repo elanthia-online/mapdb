@@ -1,0 +1,35 @@
+{
+  "checksum": "72beb0cc8e96be85cd36b673ea6046f7",
+  "room": {
+    "id": 10365,
+    "title": [
+      "[Elantaran's Magic, Consignment]"
+    ],
+    "description": [
+      "Filled with many miscellaneous, alchemic products, storage bins are neatly organized throughout the room.  An orb-chased candle chandelier hangs from above, offering a source of illumination.  Two shop attendants wander about, taking inventory and keeping a watchful eye."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10364": "east",
+      "10366": "north",
+      "30713": "/rooms/10365/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "10364": 0.2,
+      "10366": 0.2,
+      "30713": "/rooms/10365/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy"
+    ],
+    "uid": [
+      160018
+    ]
+  }
+}

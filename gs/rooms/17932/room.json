@@ -1,0 +1,34 @@
+{
+  "checksum": "e58e332d9b214b4e3e5ed55a07909498",
+  "room": {
+    "id": 17932,
+    "title": [
+      "[A Damp Tunnel]"
+    ],
+    "description": [
+      "The tunnel smells slightly of mildew and seawater.  Moisture seeps from the walls, forming small puddles on the floors.  At the far end, light seeps down from between cracks in a wooden trapdoor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "17931": "go door",
+      "17933": "go trapdoor"
+    },
+    "timeto": {
+      "17931": 0.2,
+      "17933": 0.2
+    },
+    "uid": [
+      264002
+    ],
+    "image": "vo-rogue_guild-1305438533.png",
+    "image_coords": [
+      428,
+      537,
+      457,
+      564
+    ]
+  }
+}

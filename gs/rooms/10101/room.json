@@ -1,0 +1,40 @@
+{
+  "checksum": "1da3b020c57a98dd404416a45516db59",
+  "room": {
+    "id": 10101,
+    "title": [
+      "[A Muddy Path]"
+    ],
+    "description": [
+      "Two deep ruts have been dug into the muddy path leading towards the barn.  The ruts are well worn into the path by the many wagons that have passed through this way.  A small gap in the fence leads out towards a cobblestone path."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1433": "go gap",
+      "10102": "east"
+    },
+    "timeto": {
+      "1433": 0.2,
+      "10102": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049052
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      821,
+      982,
+      831,
+      992
+    ]
+  }
+}

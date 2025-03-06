@@ -1,0 +1,39 @@
+{
+  "checksum": "41815a57d5c867b59f8bfd68d4d6cccd",
+  "room": {
+    "id": 12290,
+    "title": [
+      "[East Guardtower, Interior]"
+    ],
+    "description": [
+      "Rows upon rows of cots line the walls, each one perfectly made and tidy.  Many of the cots are occupied by the sleeping soldiers who take the night watch.  Strewn across a nearby table is a stack of iron helms and several bundles of razor-sharp pilums.",
+      "Rows upon rows of cots line the walls, each one perfectly made and tidy.  Many of the cots are occupied by the sleeping soldiers who take the day watch.  Strewn across a nearby table is a stack of iron helms and several bundles of razor-sharp pilums."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "3666": "out",
+      "30718": "/rooms/12290/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3666": 0.2,
+      "30718": "/rooms/12290/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "advguard",
+      "urchin-access",
+      "urchin guide debts",
+      "urchin guide guard",
+      "debts",
+      "guard",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201056
+    ]
+  }
+}

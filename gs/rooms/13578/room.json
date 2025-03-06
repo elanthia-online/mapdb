@@ -1,0 +1,29 @@
+{
+  "checksum": "f6f8d75cd6981c720b69c6144373825f",
+  "room": {
+    "id": 13578,
+    "title": [
+      "[Althalea's Magic Shoppe]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A worn rug sits in one corner of an unfinished wooden floor.  There is an elegantly carved oak armoire on one side of the shop and a carved oak table on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10459": "out",
+      "13675": "east",
+      "13676": "north"
+    },
+    "timeto": {
+      "10459": 0.2,
+      "13675": 0.2,
+      "13676": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

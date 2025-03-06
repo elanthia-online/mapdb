@@ -1,0 +1,43 @@
+{
+  "checksum": "75eb2ef3b367503dbf2f74fbbaabbae2",
+  "room": {
+    "id": 2313,
+    "title": [
+      "[Icemule, Hope and Fear]"
+    ],
+    "description": [
+      "The intersection of Hope Alley and Fear Alley creates a small esplanade in front of a square defensive tower in the northeast corner of Icemule Trace.  A few buildings dot the tiny square, and its black and white granite pavers ring out with the military cadence of halfling militia guards who periodically march from the corner towers to the gate barbicans along these narrow back roads."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2312": "south",
+      "2314": "west",
+      "8945": "go tower"
+    },
+    "timeto": {
+      "2312": 0.2,
+      "2314": 0.2,
+      "8945": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      735009
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      1132,
+      252,
+      1152,
+      272
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "0194323857d7aea31dd35c8a16f96101",
+  "room": {
+    "id": 31650,
+    "title": [
+      "[Second Floor, East Hallway]"
+    ],
+    "description": [
+      "A floor-to-ceiling mirror framed in black-lacquered wings has been affixed to the vert-colored walls opposite of the wrought iron railing, the looking glass half-concealed by a curtain of tatted dark lace.  Graduated clay pots of tangled ivy obscure an ebonwood-framed door, the tapered ends withering beneath a vertical birdcage nestled in the far corner.  Wisps of brittle webs float on ethereal currents across the wainscotted paneling affixed above the geometric design adorning the floor below."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31610": "west",
+      "31651": "go door"
+    },
+    "timeto": {
+      "31610": 0.2,
+      "31651": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084045
+    ]
+  }
+}

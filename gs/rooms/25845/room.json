@@ -1,0 +1,39 @@
+{
+  "checksum": "69bb01f5aa3847cb5f742495df34d296",
+  "room": {
+    "id": 25845,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Pinched between Charl's Teeth and the small island, the chaotic waves slosh back and forth in the thin channel.  Salty water slaps against the natural obsidian wall, only to explode into a fine mist that rains down on all nearby."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25844": "/rooms/25845/wayto/stringproc-25844.rb",
+      "25846": "/rooms/25845/wayto/stringproc-25846.rb"
+    },
+    "timeto": {
+      "25844": 6,
+      "25846": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223873
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1201,
+      1839,
+      1221,
+      1859
+    ]
+  }
+}

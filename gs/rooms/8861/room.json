@@ -1,0 +1,32 @@
+{
+  "checksum": "084ecdb80fe31835bff925c50c54bb08",
+  "room": {
+    "id": 8861,
+    "title": [
+      "[Helga's, Kitchen]"
+    ],
+    "description": [
+      "Puffs of foul-smelling steam rise from a pot of simmering, scum-covered liquid resting atop an ancient cast-iron stove, condensing on the formerly whitewashed walls to form dripping, greasy smears.  A stained wooden counter stands along one wall, a row of iron hooks hanging above it, and a heap of filthy rags and aprons in the corner occasionally twitches with the explorations of hungry vermin."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3809": "go entrance",
+      "8860": "go door"
+    },
+    "timeto": {
+      "3809": 0.2,
+      "8860": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4104
+    ]
+  }
+}

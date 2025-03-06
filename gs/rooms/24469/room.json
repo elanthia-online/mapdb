@@ -1,0 +1,36 @@
+{
+  "checksum": "b15c92448d56a7ae8bc1f0ca6f140bfb",
+  "room": {
+    "id": 24469,
+    "title": [
+      "[Kaldonis's Smuggling Emporium]"
+    ],
+    "description": [
+      "The broad sweep of the carpeted floor is interrupted by a tiered alabaster fountain.  Halfway to the steeply angled ceiling, an ornate silver samite tapestry hangs on one of the hung silk walls.  A slender silvery glaes display and an oval-shaped speckled marble counter are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10877": "out",
+      "24470": "south",
+      "24471": "north"
+    },
+    "timeto": {
+      "10877": 0.1,
+      "24470": 0.1,
+      "24471": 0.1
+    },
+    "tags": [
+      "kaldonis",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:playershop"
+    ],
+    "uid": [
+      644185
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "5ecbeee12c0eb52d02674674200c5949",
+  "room": {
+    "id": 7618,
+    "title": [
+      "[Sailor's Haven, Outside Rear]"
+    ],
+    "description": [
+      "A small patch of sand lies between the building and the cliff face.  Green and brown scrubby bushes have gained a foothold here and salt grass flourishes in rank tufts.  A badly corroded iron ladder clings to the wall and leads to the roof."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "7614": "southeast",
+      "7617": "southwest",
+      "7635": "climb ladder"
+    },
+    "timeto": {
+      "7614": 0.2,
+      "7617": 0.2,
+      "7635": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84119
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      358,
+      475,
+      368,
+      485
+    ]
+  }
+}

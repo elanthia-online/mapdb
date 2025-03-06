@@ -1,0 +1,44 @@
+{
+  "checksum": "f5a001dcb221ab0e7ef058261a814989",
+  "room": {
+    "id": 3693,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Your footsteps echo in the long, dim corridor--heavy, hollow sounds that seem unnaturally sharp to your ears, attuned as they are by rapidly fraying nerves.  You get the distinct feeling you are being watched."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3690": "west",
+      "3694": "southeast",
+      "3704": "north"
+    },
+    "timeto": {
+      "3690": 0.2,
+      "3694": 0.2,
+      "3704": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42016
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      336,
+      1207,
+      346,
+      1217
+    ]
+  }
+}

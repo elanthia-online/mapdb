@@ -1,0 +1,39 @@
+{
+  "checksum": "8827891177168c839bd93124b33ff2b2",
+  "room": {
+    "id": 10329,
+    "title": [
+      "[Ghaerdish's Furs and Pelts]",
+      "[Ghaerdish's Tannery]"
+    ],
+    "description": [
+      "Set on bronze plated frames and arranged in a triangular pattern over the Eastern wall are the mounted heads of four beasts.  The glass eyes of the magnificent specimens appear to track the movements of those within the quaint shop.  Lying on the floor directly in front of the counter are the hides of two arctic bears, sewn together by their back paws.  Hidden underneath a leather canvas in one corner of the room is a neat stack of cured animal hides.",
+      "A small part of the warehouse has been enclosed to form a shop where hunters may sell their scavenged skins and pelts to the furrier.  Several large windows allow a glimpse into the major operation of the business -- the tannery that provides cured leather and hides to outfit the armed forces of the fortress of Ta'Vaalor.  Although the smells are subdued in this room, there is still a stench that cannot be ignored emanating from the giant vats in the rear of the warehouse."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3492": "out",
+      "30713": "/rooms/10329/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3492": 0.2,
+      "30713": "/rooms/10329/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14103100
+    ]
+  }
+}

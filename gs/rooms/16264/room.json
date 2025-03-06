@@ -1,0 +1,27 @@
+{
+  "checksum": "a1adc7fb1586a81a4e9647eeb94599c1",
+  "room": {
+    "id": 16264,
+    "title": [
+      "[Karazja Jungle, Overgrown Path]"
+    ],
+    "description": [
+      "Water drips from the leaves of the massive trees looming overhead.  Their overhanging branches block out all but a few stray motes of sunlight.  The earthy smell of decomposing leaves competes with the sweet scent of the yellow flowers growing in the jungle canopy overhead."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16245": "west",
+      "16268": "east"
+    },
+    "timeto": {
+      "16245": 0.2,
+      "16268": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

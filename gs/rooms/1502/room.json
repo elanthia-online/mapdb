@@ -1,0 +1,44 @@
+{
+  "checksum": "ee9075d209c9a709823350caa148fbcf",
+  "room": {
+    "id": 1502,
+    "title": [
+      "[Solhaven, Eastbridge Lane]"
+    ],
+    "description": [
+      "Eastbridge rises to span the Vornavis Canal to the north, and a dark-paved court parallels the canal as it runs toward Vornavis' West Wall.  South of the Lane, a low granite building stands well back from the road between paired conifers."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1501": "south",
+      "1503": "north",
+      "1509": "east",
+      "12825": "go path"
+    },
+    "timeto": {
+      "1501": 0.2,
+      "1503": 0.2,
+      "1509": 0.2,
+      "12825": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902005
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1064,
+      954,
+      1088,
+      978
+    ]
+  }
+}

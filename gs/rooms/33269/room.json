@@ -1,0 +1,29 @@
+{
+  "checksum": "ffa4c172676886460cb33264f384aa0c",
+  "room": {
+    "id": 33269,
+    "title": [
+      "[The Elven Sole, Hallway]"
+    ],
+    "description": [
+      "The rib-vaulted ceiling of this hallway has a suspended metal sphere chandelier in each section.  A warm apricot color paints the walls, interrupted only by an oval bronze sign that hangs between the workshop doors."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "33268": "west",
+      "33270": "east",
+      "33273": "go sandal-carved door"
+    },
+    "timeto": {
+      "33268": 0.2,
+      "33270": 0.2,
+      "33273": 0.2
+    },
+    "uid": [
+      4055003
+    ]
+  }
+}

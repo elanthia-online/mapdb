@@ -1,0 +1,39 @@
+{
+  "checksum": "46b9bfec96a46ee0030519b4b8bf2a64",
+  "room": {
+    "id": 25810,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Curled and fuzzy, grey feathers speckle the surface of the gentle waters as they calmly rise to small peaks and dip into shallow valleys.  Delicate breezes skirt around the island to the south and add a slight chill to the dark, humid air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25704": "/rooms/25810/wayto/stringproc-25704.rb",
+      "25808": "/rooms/25810/wayto/stringproc-25808.rb"
+    },
+    "timeto": {
+      "25704": 6,
+      "25808": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223875
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1680,
+      1839,
+      1701,
+      1859
+    ]
+  }
+}

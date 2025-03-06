@@ -1,0 +1,28 @@
+{
+  "checksum": "7efbf34f884941eb80ae3d6834944472",
+  "room": {
+    "id": 16053,
+    "title": [
+      "[Frue's Outfitting]"
+    ],
+    "description": [
+      "The broad sweep of the carpeted floor is interrupted by a tiered alabaster fountain.  Halfway to the steeply angled ceiling, an ornate silver samite tapestry hangs on one of the hung silk walls.  A slender silvery glaes display and an oval-shaped speckled marble counter are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest, out"
+    ],
+    "wayto": {
+      "10877": "out",
+      "16080": "northwest",
+      "16081": "southeast"
+    },
+    "timeto": {
+      "10877": 0.2,
+      "16080": 0.2,
+      "16081": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

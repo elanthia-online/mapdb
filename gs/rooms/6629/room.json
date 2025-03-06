@@ -1,0 +1,34 @@
+{
+  "checksum": "8290800822ddc8d8064878a7705fdbea",
+  "room": {
+    "id": 6629,
+    "title": [
+      "[The Broken Lands, Workshop]"
+    ],
+    "description": [
+      "Other than a few shards of glass scattered about the floor of this small chamber, the only object here is a large, plain wooden table.  A sour odor still hangs in the air, and the almost metallic smell sets your teeth on edge."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6622": "southeast",
+      "6630": "go curtain"
+    },
+    "timeto": {
+      "6622": 0.2,
+      "6630": 0.2
+    },
+    "uid": [
+      487003
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      474,
+      789,
+      484,
+      799
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "b50523da65459bac4a9787ddf65e2777",
+  "room": {
+    "id": 2249,
+    "title": [
+      "[Glaes Vein]"
+    ],
+    "description": [
+      "The corridor ends.  Abruptly, it simply melts away at the foot of a huge wall of metal so dark, the thing seems to absorb what little light exists in the gloom.  The metal is banded with rows of studs, each one incised with a strange device, and it is embraced on all sides by solid glaes, as though the mountain was forged to support it."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2248": "south",
+      "2250": "/rooms/2249/wayto/stringproc-2250.rb"
+    },
+    "timeto": {
+      "2248": 0.2,
+      "2250": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051018
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      250,
+      750,
+      260,
+      760
+    ]
+  }
+}

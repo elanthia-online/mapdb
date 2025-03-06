@@ -1,0 +1,49 @@
+{
+  "checksum": "694ddbfdf5a965dd88e31ca73584ffb0",
+  "room": {
+    "id": 7625,
+    "title": [
+      "[The Black Sands]"
+    ],
+    "description": [
+      "A narrow strip of black sand winds between the pulsing sea and the huddled rocks.  You look out at the dark waters of the bay, set against the grey sky.  With the black sands beneath your feet and the frozen black lava behind you, you feel as though all the color has been blotted out of the world."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "7623": "east",
+      "7626": "west",
+      "20619": "/rooms/7625/wayto/stringproc-20619.rb",
+      "32568": "go bay"
+    },
+    "timeto": {
+      "7623": 0.2,
+      "7626": 0.2,
+      "20619": 0.2,
+      "32568": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "greater kappa",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      85007
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      115,
+      529,
+      125,
+      539
+    ]
+  }
+}

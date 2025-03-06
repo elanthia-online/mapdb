@@ -1,0 +1,38 @@
+{
+  "checksum": "935837bc4fcf79a91e0db601c83e1b34",
+  "room": {
+    "id": 11383,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "Dust blows into the hallway from the west in delicate spirals that rise as high as the ceiling before drifting to the floor.  An empty bookshelf sits against the wall next to a circular window in the east wall."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11376": "west",
+      "11384": "north"
+    },
+    "timeto": {
+      "11376": 0.2,
+      "11384": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377320
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      438,
+      1289,
+      448,
+      1299
+    ]
+  }
+}

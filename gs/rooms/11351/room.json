@@ -1,0 +1,41 @@
+{
+  "checksum": "88a4651032d5a4da9ef0243dc17612fe",
+  "room": {
+    "id": 11351,
+    "title": [
+      "[Citadel, Walkway]"
+    ],
+    "description": [
+      "The porous black rocks of the pathway glow a dull red with the heat they contain.  Smoke rises from the soles of your feet as you make your way quickly through this section of the walkway."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the Citadel",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11350": "east",
+      "11352": "northwest"
+    },
+    "timeto": {
+      "11350": 0.2,
+      "11352": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2102066
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      171,
+      1471,
+      181,
+      1481
+    ]
+  }
+}

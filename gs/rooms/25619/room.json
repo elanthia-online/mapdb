@@ -1,0 +1,54 @@
+{
+  "checksum": "ff505725743f3fd88d57dfc7cd766843",
+  "room": {
+    "id": 25619,
+    "title": [
+      "[Mistydeep, Ravelin]"
+    ],
+    "description": [
+      "Along this stretch, the roots of several trees lie exposed where soil has been eroded by the river.  In the midst of one such root cluster, a turtle floats serenely, only its head and upper shell exposed.  Further along, a large oak tilts precariously out over the water, clinging desperately to its worn away foundation.  Some enterprising individual has taken advantage of the tree's situation by attaching a rope swing to one of the stouter branches."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest, west, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "13966": "/rooms/25619/wayto/stringproc-13966.rb",
+      "18842": "/rooms/25619/wayto/stringproc-18842.rb",
+      "25618": "/rooms/25619/wayto/stringproc-25618.rb",
+      "25620": "/rooms/25619/wayto/stringproc-25620.rb",
+      "30506": "swim down"
+    },
+    "timeto": {
+      "13966": "/rooms/25619/timeto/stringproc-13966.rb",
+      "18842": "/rooms/25619/timeto/stringproc-18842.rb",
+      "25618": "/rooms/25619/timeto/stringproc-25618.rb",
+      "25620": "/rooms/25619/timeto/stringproc-25620.rb",
+      "30506": "/rooms/25619/timeto/stringproc-30506.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117010
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1163,
+      690,
+      1181,
+      711
+    ]
+  }
+}

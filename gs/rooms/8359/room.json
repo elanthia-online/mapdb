@@ -1,0 +1,38 @@
+{
+  "checksum": "3b1c13f07b961a9faff3ba0dd9b445cd",
+  "room": {
+    "id": 8359,
+    "title": [
+      "[Spider Temple, Cell]"
+    ],
+    "description": [
+      "A small cot, shoved hastily in the corner, provides the captive's only refuge:  slumber.  Several pairs of well-tended manacles are chained from the basalt walls, which are hard and unforgiving, enduring in their silent torture longer than the mercurial will of the gods."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8354": "go door",
+      "25497": "/rooms/8359/wayto/stringproc-25497.rb"
+    },
+    "timeto": {
+      "8354": 0.2,
+      "25497": 4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13025
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      498,
+      644,
+      508,
+      654
+    ]
+  }
+}

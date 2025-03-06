@@ -1,0 +1,35 @@
+{
+  "checksum": "44c239e124a86ce334401713e80ddeaf",
+  "room": {
+    "id": 19062,
+    "title": [
+      "[Spitfire, Main Deck Starboard]"
+    ],
+    "description": [
+      "\"Ahoy t' deck!\" comes a call from the rigging high above where a crow's nest can be seen perched among the yards of the mainmast.  The breeze blowing in from the open sea carries off the rest of the garbled message.  A group of thickly muscled sailors works intently, polishing railing and checking tack for wear.  One, a particularly robust halfling, oversees their efforts, barking orders in her loud, raspy voice."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19051": "west",
+      "19058": "north",
+      "19063": "go door",
+      "19065": "go stairs"
+    },
+    "timeto": {
+      "19051": 0.2,
+      "19058": 0.2,
+      "19063": 0.2,
+      "19065": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      161,
+      384,
+      198,
+      422
+    ]
+  }
+}

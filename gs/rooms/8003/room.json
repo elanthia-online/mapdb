@@ -1,0 +1,49 @@
+{
+  "checksum": "676ea718bf49a4e4b59532f3d54e23e0",
+  "room": {
+    "id": 8003,
+    "title": [
+      "[Kobold Mines, Dead End]"
+    ],
+    "description": [
+      "The passageway ends abruptly and you find yourself standing in the middle of a small chamber.  The walls press in upon you and the air is thick and humid, making it hard to breathe.  An ugly brown fungus growing in one corner gives off a sickly odor, vaguely reminiscent of rotting flesh."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the old Mine Road",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8002": "southeast"
+    },
+    "timeto": {
+      "8002": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "red trafel mushroom",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      401207
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      28,
+      734,
+      38,
+      744
+    ]
+  }
+}

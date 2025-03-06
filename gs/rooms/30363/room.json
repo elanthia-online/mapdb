@@ -1,0 +1,49 @@
+{
+  "checksum": "e3da16fedc45525166a1d442b3144aa7",
+  "room": {
+    "id": 30363,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Distantly the barking of sea thraks can be heard coming from the east, echoing across the calm dark water.  The lights of a well-lit dock are visible, a towering cliff wall behind them.  Dark jungle vegetation makes a stunning contrast to the moonlit white beaches of a large lagoon that lies to the north."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, south, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "27038": "pedal southeast",
+      "27039": "pedal east",
+      "27040": "pedal northeast",
+      "30364": "pedal west",
+      "30375": "pedal south",
+      "30376": "pedal northwest"
+    },
+    "timeto": {
+      "27038": 6,
+      "27039": 6,
+      "27040": 6,
+      "30364": 6,
+      "30375": 6,
+      "30376": 6
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216219
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1420,
+      4720,
+      1439,
+      4739
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "1b88be3300de36a0d6c55dc140b59a34",
+  "room": {
+    "id": 24,
+    "title": [
+      "[Ta'Illistim, Glaendier Wey]"
+    ],
+    "description": [
+      "The occasional strain of music drifts in from the northwest, floating gently on the air.  Beyond a small grove of trees, a stone-clad building is barely visible.",
+      "A plinth, topped with a sculptural bronze, sits in the middle of the road, leaving any traffic merging between Glaendier Wey and Var to wend around it.  The lantern-lit roundabout is framed by a series of identical residential structures, each one faced with white marble.",
+      "A plinth, topped with a sculptural bronze, sits in the middle of the road, leaving any traffic merging between Glaendier Wey and Var to wend around it.  The roundabout is framed by a series of identical residential structures, each one faced with white marble."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "23": "northwest",
+      "25": "east",
+      "173": "southwest"
+    },
+    "timeto": {
+      "23": 0.2,
+      "25": 0.2,
+      "173": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100027
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      995,
+      772,
+      1017,
+      794
+    ]
+  }
+}

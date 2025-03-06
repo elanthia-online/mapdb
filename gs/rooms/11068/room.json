@@ -1,0 +1,39 @@
+{
+  "checksum": "b7fdb73bdbfbaa638bee430f55e790b6",
+  "room": {
+    "id": 11068,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "There is space between the water and the ceiling in this room, but the ceiling meets the water to the east.  The current flows through the room from a completely submerged tunnel.  A lack of handholds on the floor and walls make it necessary to swim to progress further through the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11067": "west",
+      "11069": "/rooms/11068/wayto/stringproc-11069.rb"
+    },
+    "timeto": {
+      "11067": 0.2,
+      "11069": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      26102
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4131,
+      777,
+      4152,
+      800
+    ]
+  }
+}

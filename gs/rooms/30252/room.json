@@ -1,0 +1,34 @@
+{
+  "checksum": "eb36096e4d1b64d6d9a2203d6cbef361",
+  "room": {
+    "id": 30252,
+    "title": [
+      "[West Docks, Asterfire Pier]"
+    ],
+    "description": [
+      "A large docking structure with five piers dominates the immediate area.  Water-roughened oak boards are edged in darkened glaes for added longevity and strength.  Saltstained teak support posts are set at regular intervals along the pier, each carved with \"BMC 4997.\"  Myriad docking slips provide ample portage, and every slip has canvas-wrapped thick cork bumpers.  A gem-encrusted sign strung between thick strands of hemp railing reads, \"West Docks, Asterfire Pier - Slips 16-20.\""
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30251": "west",
+      "30253": "east"
+    },
+    "timeto": {
+      "30251": 0.2,
+      "30253": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7123004
+    ]
+  }
+}

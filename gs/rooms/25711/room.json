@@ -1,0 +1,46 @@
+{
+  "checksum": "1d869badd8d600bb5e879a46ed3e7380",
+  "room": {
+    "id": 25711,
+    "title": [
+      "[Anemone Villa, Meeting Hall]"
+    ],
+    "description": [
+      "Polished teak floors gleam beneath a delicate patina of lacquer and reflect the golden sunlight that filters in through the room's linen-framed windows.  Positioned beneath an elaborate chandelier, a violet rug supports a claw-foot low mahogany table surrounded by armchairs and loveseats.  Occupying the eastern wall, a marble-mantled fireplace is surrounded by a whitewashed haon door on one side and a linden-edged white door on the other.",
+      "Polished teak floors gleam beneath a delicate patina of lacquer and reflect the warm glow of the elaborate chandelier.  A violet rug supports a claw-foot low mahogany table and is surrounded by armchairs and loveseats, whose backs are carefully positioned to face the linen-framed windows.  Occupying the eastern wall, a marble-mantled fireplace is surrounded by a whitewashed haon door on one side and a linden-edged white door on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Mist Harbor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25710": "out",
+      "25712": "east",
+      "25716": "go stair",
+      "25717": "go haon door",
+      "25719": "go white door"
+    },
+    "timeto": {
+      "25710": 0.2,
+      "25712": 0.2,
+      "25716": 0.2,
+      "25717": 0.2,
+      "25719": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223766
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1140,
+      2441,
+      1180,
+      2481
+    ]
+  }
+}

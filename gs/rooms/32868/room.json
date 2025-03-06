@@ -1,0 +1,32 @@
+{
+  "checksum": "36ac15b0fb2671089a97a6bc23d2e58a",
+  "room": {
+    "id": 32868,
+    "title": [
+      "[Communitea House, Entry]"
+    ],
+    "description": [
+      "Beautiful rugs, worn thin in spots but still largely intact, and colorful tapestries soften the cold, exposed stone of the large entryway.  A long hall extends north from a heavy wooden door with panes of leaded glass, its walls lined with painted landscapes, and leads to a wrought iron and glass arch at its end.  A cordoned-off flight of stairs leads to the upper chambers of this once great home, and to the west a wide doorway draped with heavy velvet curtains opens into a modest sitting room."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "1524": "go wooden door",
+      "32869": "west",
+      "32871": "go glass arch"
+    },
+    "timeto": {
+      "1524": 0.2,
+      "32869": 0.2,
+      "32871": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      4901062
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "ab9c4ef14588bb3b731675357f7b72dc",
+  "room": {
+    "id": 18456,
+    "title": [
+      "[Broken Wheel Distillery]"
+    ],
+    "description": [
+      "Dark oak walls enclose this front room, the knots in the wood barely visible beneath the rich coloring of the varnish.  Overhead, banded oak barrels line racks that are well supported by thick beams, and another single barrel rests beside a set of double doors.  Burnished brass handles adorn the doors, and the corners of the nearby counter are capped in the same material.  Propped on top of the barrel is an embossed parchment sign."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18455": "go doors",
+      "18588": "north"
+    },
+    "timeto": {
+      "18455": 0.2,
+      "18588": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

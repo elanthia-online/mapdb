@@ -1,0 +1,2 @@
+move "climb hole"
+waitrt?

@@ -1,0 +1,44 @@
+{
+  "checksum": "e85bfdba71b6342940e69a828751cdc4",
+  "room": {
+    "id": 7390,
+    "title": [
+      "[Mine Shaft]"
+    ],
+    "description": [
+      "Climbing steadily upward to the east, you note small pockets in the walls from failed mining attempts.  You can almost hear the distant sounds of miners swinging their picks hard against earth and stone."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7389": "west",
+      "7391": "east"
+    },
+    "timeto": {
+      "7389": 0.2,
+      "7391": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389054
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1357,
+      338,
+      1367,
+      348
+    ]
+  }
+}

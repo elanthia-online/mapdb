@@ -1,0 +1,28 @@
+{
+  "checksum": "ac5297b7cc9039ca3af9ed4cd84f0dac",
+  "room": {
+    "id": 15868,
+    "title": [
+      "[Glycn's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A low wrought iron table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "2372": "out",
+      "15872": "west",
+      "15873": "east"
+    },
+    "timeto": {
+      "2372": 0.2,
+      "15872": 0.2,
+      "15873": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

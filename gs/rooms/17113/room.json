@@ -1,0 +1,29 @@
+{
+  "checksum": "f5de97c084cfa6195c0043f96c30cfb9",
+  "room": {
+    "id": 17113,
+    "title": [
+      "[Extus' Outfitting]"
+    ],
+    "description": [
+      "A multihued Vornavian silk tapestry hangs on one of the stark stone block walls, and a dark and light oak ceiling rises overhead.  A series of thinly woven rugs sits in one corner of an ash grey granite floor.  There is a heavy white granite counter on one side of the shop and a set of carved felwood shelves on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9014": "out",
+      "17116": "south",
+      "17117": "north"
+    },
+    "timeto": {
+      "9014": 0.2,
+      "17116": 0.2,
+      "17117": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

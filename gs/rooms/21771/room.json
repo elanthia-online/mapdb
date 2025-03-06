@@ -1,0 +1,43 @@
+{
+  "checksum": "21ea571ad0a5443bc1152f8b0e52994d",
+  "room": {
+    "id": 21771,
+    "title": [
+      "[Phoenix Annex, Foyer]"
+    ],
+    "description": [
+      "This oak panelled room is bare, save for a portrait hanging on the east wall.  The smooth wooden floor has been polished to a high sheen, and your footsteps echo softly as you walk upon it.  Four silver sconces containing white candles are strategically placed on the walls, lending a soft glow to the surroundings."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "21742": "go door",
+      "21772": "go archway",
+      "21774": "north",
+      "21778": "south"
+    },
+    "timeto": {
+      "21742": 0.2,
+      "21772": 0.2,
+      "21774": 0.2,
+      "21778": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      103502
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      982,
+      1470,
+      1100,
+      1547
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "c6034b46c6c28c6775ca97ad7778154f",
+  "room": {
+    "id": 6422,
+    "title": [
+      "[Lysierian Hills, Cottage]"
+    ],
+    "description": [
+      "A pile of broken wood and scraps might have been the furnishings of the great room of this cottage, but it is little more than kindling now.  All of the windows here have been broken, and the doors have been removed or smashed."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6420": "out",
+      "6423": "go doorway"
+    },
+    "timeto": {
+      "6420": 0.2,
+      "6423": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      93058
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1025,
+      222,
+      1035,
+      232
+    ]
+  }
+}

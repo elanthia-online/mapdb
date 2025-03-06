@@ -1,0 +1,32 @@
+{
+  "checksum": "8cb3807e656c40999a2c5cd4cc018a66",
+  "room": {
+    "id": 29130,
+    "title": [
+      "[Storm Petrel's Wing]"
+    ],
+    "description": [
+      "Along this shop's timbered walls, bows of all makes and sizes hang like stuffed and mounted hunting trophies.  Feathers, paint splatters, and other evidence of arrow-making lightly litter the creaky wooden floors.  Behind a narrow leather-topped counter, the shop's wide variety of archery-related wares sit on display."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28909": "out",
+      "30716": "/rooms/29130/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28909": 0.2,
+      "30716": "/rooms/29130/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin-access",
+      "urchin guide fletcher"
+    ],
+    "uid": [
+      7118380
+    ]
+  }
+}

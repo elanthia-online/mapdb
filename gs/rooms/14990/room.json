@@ -1,0 +1,30 @@
+{
+  "checksum": "bceb4860bbf57da6976c28a0071d11d4",
+  "room": {
+    "id": 14990,
+    "title": [
+      "[Haether's Magic Shoppe]",
+      "[Haether's Outfitting]"
+    ],
+    "description": [
+      "The broad sweep of the wooden floor is interrupted by a worn rug.  Halfway to the wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  An intricately carved ebonwood stand and a plain wooden table are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10459": "out",
+      "14991": "northwest",
+      "14992": "northeast"
+    },
+    "timeto": {
+      "10459": 0.2,
+      "14991": 0.2,
+      "14992": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

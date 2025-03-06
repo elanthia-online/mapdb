@@ -1,0 +1,46 @@
+{
+  "checksum": "1e0cf929b33f00d902775f1b2ceccb58",
+  "room": {
+    "id": 3705,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The ill-lit corridor widens to an open square.  A wide, doorless opening leads to the guards' chambers.  To the northwest is a large metal door which stands slightly ajar, pitted with rust and corrosion."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3704": "south",
+      "3706": "north",
+      "3711": "go opening",
+      "3800": "go door"
+    },
+    "timeto": {
+      "3704": 0.2,
+      "3706": 0.2,
+      "3711": 0.2,
+      "3800": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42026
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      336,
+      1143,
+      346,
+      1153
+    ]
+  }
+}

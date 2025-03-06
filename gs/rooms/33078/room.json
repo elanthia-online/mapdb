@@ -1,0 +1,29 @@
+{
+  "checksum": "a49a49448c13fdb7e80e0e49fa930fed",
+  "room": {
+    "id": 33078,
+    "title": [
+      "[Flotilla, Sea Dragon Quay]"
+    ],
+    "description": [
+      "The outer edges of the flotilla are built up high here, with a reinforced archway leading to a dock system to the northwest and a small passage opening to the southwest between berthed ships and permanent protections.  The deck sprawls wide, leaving ample room for maneuvering, and a river boat is securely lashed across the south edge.  Intricately carved into the deck is a sea dragon wrapped about a small ship."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33077": "east",
+      "33079": "southwest",
+      "33091": "go archway"
+    },
+    "timeto": {
+      "33077": 0.2,
+      "33079": 0.2,
+      "33091": 0.2
+    },
+    "uid": [
+      7134057
+    ]
+  }
+}

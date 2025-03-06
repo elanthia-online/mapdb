@@ -1,0 +1,40 @@
+{
+  "checksum": "1c0f6e43fe154fa47f71e3fb5c774d0a",
+  "room": {
+    "id": 20006,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "The floor of this passage rises slightly as it progresses to the south creating the illusion that the ceiling is lower there.  In fact, the ceiling is quite level here and water drips from several hair-thin cracks that crisscross the flat surface."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20005": "northeast",
+      "20007": "south"
+    },
+    "timeto": {
+      "20005": 0.2,
+      "20007": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11203
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1044,
+      971,
+      1056,
+      985
+    ]
+  }
+}

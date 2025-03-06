@@ -1,0 +1,44 @@
+{
+  "checksum": "66219e4e66fb7b3322a4be2a387b02a5",
+  "room": {
+    "id": 23711,
+    "title": [
+      "[Outpost, Outer Courtyard]"
+    ],
+    "description": [
+      "Lines of archery targets line the interior side of the outpost wall and makeshift attack dummies, scarecrow-like figures bound to wooden stakes, join them as tools to keep the Hendoran martial edge sharp.  Several crates of wooden practice swords and shields are neatly stacked along the wall.  A squat building sits off to the side with several bales of hay placed nearby, along with a barrel of lye."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23710": "north",
+      "23712": "northeast",
+      "23716": "go building"
+    },
+    "timeto": {
+      "23710": 0.2,
+      "23712": 0.2,
+      "23716": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336324
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      367,
+      278,
+      402,
+      313
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "c50d47942f9a54114e863621ccf0ac6d",
+  "room": {
+    "id": 694,
+    "title": [
+      "[Ta'Illistim, Weyr Var]"
+    ],
+    "description": [
+      "A small group of carolers stand beneath a flowering dogwood tree, its pink and white blossoms glowing with silvery moonlight.  A few elves pause their nighttime stroll to listen as the group intones a gentle lullabye.",
+      "A small group of carolers stand in the shade of a flowering dogwood tree, their voices resonating against the buildings that line the var.  A crowd has gathered to listen as the group intones an ancient Illistim folksong.  Deep male voices, bass and baritone, establish a rhythmical pulse, while tenors and altos carry a sweet and reflective melody.  The sopranos sing a gentle descant, completing the harmony with soaring arpeggios.",
+      "Curving off from the main var is a tree-lined pathway, which leads to an ornate ivory gate.  The dogwoods at the corners of the intersection of var and path are in flower with large white blossoms, which stick out from the spindly branches, growing in such profusion that they nearly obscure them altogether."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "693": "north",
+      "739": "southwest",
+      "13366": "go pathway"
+    },
+    "timeto": {
+      "693": 0.2,
+      "739": 0.2,
+      "13366": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101035
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      636,
+      167,
+      658,
+      188
+    ]
+  }
+}

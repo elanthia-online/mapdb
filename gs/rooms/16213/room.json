@@ -1,0 +1,40 @@
+{
+  "checksum": "5ea309441e8ac35456f6f3620c3579e2",
+  "room": {
+    "id": 16213,
+    "title": [
+      "[Marsh Keep, East Parapet]"
+    ],
+    "description": [
+      "Stone steps lead down to the courtyard below, beginning at the point where the parapet extends from the wall of the keep, and running south until turning west.  From between the crenellated granite walls of the parapet, the view of the surrounding fens and marshes goes on for some while, partially covered in patchwork blankets of fog before disappearing completely in a shroud of grey and white."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11715": "climb steps",
+      "16210": "south"
+    },
+    "timeto": {
+      "11715": 0.2,
+      "16210": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376087
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      1011,
+      699,
+      1021,
+      709
+    ]
+  }
+}

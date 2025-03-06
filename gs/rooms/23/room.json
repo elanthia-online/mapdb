@@ -1,0 +1,52 @@
+{
+  "checksum": "ee9b9a9343b354b6dac2b41ca0d7bb58",
+  "room": {
+    "id": 23,
+    "title": [
+      "[Ta'Illistim, Glamesine Var]"
+    ],
+    "description": [
+      "The ornate facade of a guild hall stands back from the var, clad in blue-grey granite and carved in heavy relief.  A wide variety of gargoyles grin from their perches atop window embrasures, doorframes, and rainspouts.  A few gargoyles dance gleefully across the blue tiled rooftop as the moonlight bathes their forms in silvery light.",
+      "The ornate facade of a guild hall stands back from the var, clad in blue-grey granite and carved in heavy relief.  A wide variety of gargoyles grin from their perches atop window embrasures, doorframes, and rainspouts.  A few gargoyles dance gleefully across the blue tiled rooftop.",
+      "The ornate facade of a guild hall stands back from the var, clad in silvery blue granite and decorated in heavy relief.  Flanking its immense door are two pieces of statuary, each one cast in bronze and set atop marble pedestals.",
+      "The ornate facade of a guild hall stands back from the var, clad in silvery blue granite and decorated in heavy relief.  Flanking its immense door are two pieces of statuary, each cast in bronze and set atop marble pedestals."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "22": "north",
+      "24": "southeast",
+      "27795": "go hall",
+      "30714": "/rooms/23/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "22": 0.2,
+      "24": 0.2,
+      "27795": "/rooms/23/timeto/stringproc-27795.rb",
+      "30714": "/rooms/23/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "bardguild",
+      "urchin guide bardguild",
+      "urchin-access",
+      "bard guild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100047
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      947,
+      723,
+      969,
+      746
+    ]
+  }
+}

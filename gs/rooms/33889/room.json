@@ -1,0 +1,42 @@
+{
+  "checksum": "84c4f56de7aa941457cab959aa997576",
+  "room": {
+    "id": 33889,
+    "title": [
+      "[The Aneia]"
+    ],
+    "description": [
+      "Sun-washed stone forms the curvature of the open-air eatery, the greenery-draped recess affixed with an ebony-slatted counter.  The natural formation of the rock creates an asymmetric roof over a quintet of tables, the archway partitioned by a curtain of Nalfein ivy, the ivory-edged leaves allowing glimpses of the crashing waves below.  A scattering of terracotta pots frame wrought iron benches set against the limestone walls, the backdrop engulfed in latticed jewel-toned roses."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33870": "out",
+      "33890": "/rooms/33889/wayto/stringproc-33890.rb",
+      "33891": "/rooms/33889/wayto/stringproc-33891.rb",
+      "33892": "/rooms/33889/wayto/stringproc-33892.rb",
+      "33893": "/rooms/33889/wayto/stringproc-33893.rb",
+      "33894": "/rooms/33889/wayto/stringproc-33894.rb",
+      "34423": "/rooms/33889/wayto/stringproc-34423.rb"
+    },
+    "timeto": {
+      "33870": 0.2,
+      "33890": 0.2,
+      "33891": 0.2,
+      "33892": 0.2,
+      "33893": 0.2,
+      "33894": 0.2,
+      "34423": "/rooms/33889/timeto/stringproc-34423.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables"
+    ],
+    "uid": [
+      14150202
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "bf9c8c3ca802c13a2dfca71ca0631425",
+  "room": {
+    "id": 17712,
+    "title": [
+      "[Citadel, Dungeon Corridor]"
+    ],
+    "description": [
+      "Three rows of skeletons, dressed in rotting armor and tunics, lie face down in the direction of the south corridor.  Many skeletal hands still grasp weapons or clutch shields, while other gear has fallen amongst the rows of dead.  Behind the dead near the corner of the corridor turning northwest is an armored skeleton pinned to the wall by a spear."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17709": "south",
+      "17713": "go door",
+      "17714": "northwest"
+    },
+    "timeto": {
+      "17709": 0.2,
+      "17713": 0.2,
+      "17714": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377310
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      205,
+      984,
+      215,
+      994
+    ]
+  }
+}

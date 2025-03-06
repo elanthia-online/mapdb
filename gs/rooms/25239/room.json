@@ -1,0 +1,38 @@
+{
+  "checksum": "1436fd04018251c56de649af03f1fcb7",
+  "room": {
+    "id": 25239,
+    "title": [
+      "[Sanctum Tower, First Floor]"
+    ],
+    "description": [
+      "Drastically unfurling from the narrow halls, the arc-shaped room expands into a sizeable foyer.  Iron-caged lanterns, each alight with a sickly green radiance, are hung strategically in the outer most corners of the area.  A pair of wall-mounted alabaster serpent heads with glinting bronzed fangs leap out from either side of a polished acacia archway."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, up"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "25238": "southeast",
+      "25240": "go acacia archway",
+      "25243": "southwest",
+      "25244": "up"
+    },
+    "timeto": {
+      "25238": 0.2,
+      "25240": 0.2,
+      "25243": 0.2,
+      "25244": 0.2
+    },
+    "uid": [
+      4216031
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      360,
+      48,
+      385,
+      73
+    ]
+  }
+}

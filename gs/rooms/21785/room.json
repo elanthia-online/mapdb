@@ -1,0 +1,34 @@
+{
+  "checksum": "c10e801ac6e6bec9e5f93171c5d97fb0",
+  "room": {
+    "id": 21785,
+    "title": [
+      "[Road to Talador]"
+    ],
+    "description": [
+      "A worn dirt road winds through a thickly wooded area, the path wide enough to allow wagons to navigate freely.  A crisp breeze travels across the region as the remnants of winter still blanket many trees with snow."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21786": "south",
+      "21787": "northwest"
+    },
+    "timeto": {
+      "21786": 0.2,
+      "21787": 0.2
+    },
+    "tags": [
+      "peer northwest =~ /^Obvious paths: southeast, northwest/"
+    ],
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      306,
+      460,
+      319,
+      473
+    ]
+  }
+}

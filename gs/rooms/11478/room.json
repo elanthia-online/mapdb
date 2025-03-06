@@ -1,0 +1,42 @@
+{
+  "checksum": "111d1ec12588234dd58f5ce133d91ac9",
+  "room": {
+    "id": 11478,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A rocky wall rising from the sandy bay floor curves gently from the southwest to the north.  Clumps of knotted rockweed grow among the dark stones of the rock wall.  A mass of pale organ pipe sponges gives the rocky wall an odd-mildewed appearance.  Strong currents prevent swimming to the north or west."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11474": "/rooms/11478/wayto/stringproc-11474.rb",
+      "11477": "/rooms/11478/wayto/stringproc-11477.rb",
+      "11479": "/rooms/11478/wayto/stringproc-11479.rb"
+    },
+    "timeto": {
+      "11474": 2,
+      "11477": 2,
+      "11479": 3
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304234
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      922,
+      1153,
+      932,
+      1163
+    ]
+  }
+}

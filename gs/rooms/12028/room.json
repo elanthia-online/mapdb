@@ -1,0 +1,41 @@
+{
+  "checksum": "1fc0b12387b170e0c621a8666bd16896",
+  "room": {
+    "id": 12028,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "Rising swells carry small bits of flotsam along the surface of the lake.  Deeper in the water a moderately strong undertow flows in a southwesterly direction, bending stalks of tall lake grass into humble submission, like rows of courtiers bowing before the might of the massive pyramid to the south."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12027": "east",
+      "12029": "west"
+    },
+    "timeto": {
+      "12027": 0.2,
+      "12029": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004036
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      776,
+      366,
+      786,
+      376
+    ]
+  }
+}

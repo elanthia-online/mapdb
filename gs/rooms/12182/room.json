@@ -1,0 +1,58 @@
+{
+  "checksum": "a4dd28e6ffbf17780461fd2d0992dabd",
+  "room": {
+    "id": 12182,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The battlefield is carpeted in bodies, littering the rolling hills and making it nearly impossible to walk.  Still the battle rages on, with men in bloodstained black plate mail battling against a struggling band of warriors in silver.  Waves of the dark knights ride over the field on immense ebon steeds, herding the argent-clad fighters into certain death.  A feeling of hopelessness permeates the area as those in shining armor forever fight a battle they cannot win."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12182/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12182/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12182/wayto/stringproc-12152.rb",
+      "12181": "north",
+      "12183": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12181": 0.2,
+      "12183": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568010
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      348,
+      1064,
+      356,
+      1072
+    ]
+  }
+}

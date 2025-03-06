@@ -1,0 +1,39 @@
+{
+  "checksum": "57f6fcbedc0c0d2184a73047f5316285",
+  "room": {
+    "id": 2258,
+    "title": [
+      "[Glaes Caverns]"
+    ],
+    "description": [
+      "The vast chamber is starkly uncluttered, save for a strange formation of glaes that extends from the center of a pool of magma.  With its grotesque appendages, it seems to reach from the heart of the hissing magma like a misshapen claw clenched in agony.  From the 'palm' of the thing, a slow rivulet of viscous black liquid pulses out, dripping down over the gnarled surface of the outcropping and pooling on the roiling face of the bubbling glaes."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2254": "northeast",
+      "2256": "southwest"
+    },
+    "timeto": {
+      "2254": 0.2,
+      "2256": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051030
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      198,
+      619,
+      206,
+      627
+    ]
+  }
+}

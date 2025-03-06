@@ -1,0 +1,44 @@
+{
+  "checksum": "a0aed6c07e1c86b83910a1a1e795cd3d",
+  "room": {
+    "id": 9022,
+    "title": [
+      "[Solhaven, Spiral Passageway]"
+    ],
+    "description": [
+      "A wooden double door, the kind generally found in stables, has been painted a dark forest green and set with shiny brass fittings.  Propped open, the busy sounds of mercantiling come from within, ranging from the shouting out of orders to stock being moved around noisily."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9021": "south",
+      "9023": "go door",
+      "13835": "go post",
+      "13837": "go gallery",
+      "13839": "go building",
+      "21267": "go shop",
+      "21269": "go driftwood emporium"
+    },
+    "timeto": {
+      "9021": 0.2,
+      "9023": 0.2,
+      "13835": 0.2,
+      "13837": 0.2,
+      "13839": 0.2,
+      "21267": 0.2,
+      "21269": 0.2
+    },
+    "uid": [
+      733015
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1510,
+      393,
+      1522,
+      405
+    ]
+  }
+}

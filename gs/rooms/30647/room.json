@@ -1,0 +1,34 @@
+{
+  "checksum": "9c019800bfc67a3802fe686a0ea0399f",
+  "room": {
+    "id": 30647,
+    "title": [
+      "[Solhaven Hall, Atrium]"
+    ],
+    "description": [
+      "Extending up through the open-air dome, a towering oak tree stands as a focal point in the courtyard, borders of foxglove and hydrangea delineating a path that encircles the keyhole-shaped indoor garden.  Fragrant orange and lemon trees flank the buildings that dot the area.  A two-story edifice looms over one end of the neatly trimmed lawn, and at its base a long pool shimmers in the sunlight.  A silver-gilt gate leads out, a weathered hut just off to one side."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "13479": "go gate",
+      "30648": "go hut",
+      "30649": "go edifice",
+      "30652": "go path"
+    },
+    "timeto": {
+      "13479": 0.2,
+      "30648": 0.2,
+      "30649": 0.2,
+      "30652": 0.2
+    },
+    "tags": [
+      "mho hall clerk"
+    ],
+    "uid": [
+      852003
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "1fb06b2cb3e6b8a07233988c064a8772",
+  "room": {
+    "id": 24318,
+    "title": [
+      "[Ranger Guild, Hallway]"
+    ],
+    "description": [
+      "A long hall stretches out here.  At the far end you can make out a pair of double doors with a sign next to them.  The floor is covered with soft fur carpeting, and large windows let in a light night breeze and the sounds of crickets chirping."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "24308": "west",
+      "24319": "go doors"
+    },
+    "timeto": {
+      "24308": 0.2,
+      "24319": 0.2
+    },
+    "uid": [
+      274008
+    ],
+    "image": "vo-rangerguild-1649447217.png",
+    "image_coords": [
+      306,
+      345,
+      323,
+      362
+    ]
+  }
+}

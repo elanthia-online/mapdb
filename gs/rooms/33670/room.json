@@ -1,0 +1,38 @@
+{
+  "checksum": "ea096b21b4a1175b6313ec63546b5d9b",
+  "room": {
+    "id": 33670,
+    "title": [
+      "[Keep Tower, Honneland Room]"
+    ],
+    "description": [
+      "Azure walls, painted with fluffy clouds, meet the dark green floors, which are littered with dust bunnies and bits of straw.  In the center of the room a replica of the famed silver well stands in disrepair, its sides missing several stones and its rope missing its bucket.  A small taxidermy doe lies on its side in the dust, its vacant eyes gazing at the eastern niche."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33653": "go door",
+      "33671": "east",
+      "33672": "west",
+      "33673": "north"
+    },
+    "timeto": {
+      "33653": 0.2,
+      "33671": 0.2,
+      "33672": 0.2,
+      "33673": 0.2
+    },
+    "uid": [
+      7101213
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1653,
+      927,
+      1703,
+      973
+    ]
+  }
+}

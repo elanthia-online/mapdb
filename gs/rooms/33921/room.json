@@ -1,0 +1,53 @@
+{
+  "checksum": "a1e692cbc4613464b67d6de812fbd198",
+  "room": {
+    "id": 33921,
+    "title": [
+      "[Stonetomb, Memorial]"
+    ],
+    "description": [
+      "A vaulted white marble ceiling rises above a pair of statues standing beside each other on a raised platform at the center of this square chamber.  The marble-finished walls that enclose this serene space are lined with rune-incised plaques that indicate the permanent residents of the crypts behind them.  Long ironwood boxes full of glowing toadstool clusters line the perimeter of the room, giving everything a bluish glow.  A wide hallway leads east, while dark corridors lead off in the other cardinal directions."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "33916": "go hallway",
+      "33924": "west",
+      "33926": "south",
+      "33927": "north"
+    },
+    "timeto": {
+      "33916": 0.2,
+      "33924": 0.2,
+      "33926": 0.2,
+      "33927": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13010207
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      99,
+      156,
+      128,
+      183
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "2630d63b93a5d295029f78113e338a0c",
+  "room": {
+    "id": 30506,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The deep, clear waters of the Mistydeep filter the bright sunlight into ever-changing ripples along the sand and rocks that line the riverbed.  An eel peers out from its rocky lair, poised to strike at any fish that has the misfortune to pass by."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13966": "swim up",
+      "30505": "swim north",
+      "30507": "swim southeast"
+    },
+    "timeto": {
+      "13966": 0.2,
+      "30505": 0.2,
+      "30507": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117109
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1123,
+      930,
+      1141,
+      949
+    ]
+  }
+}

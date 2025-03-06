@@ -1,0 +1,24 @@
+{
+  "checksum": "e475e107edd7e37a20aa9cf00e2764e4",
+  "room": {
+    "id": 24122,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "A slight breeze blows through the corridor, causing the shadows cast by twin copper-banded torches to dance on the moss-covered walls.  The sound of scampering and scratching comes from behind the pile of bones heaped in one corner."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24121": "south",
+      "24125": "north"
+    },
+    "timeto": {
+      "24121": 0.2,
+      "24125": 0.2
+    }
+  }
+}

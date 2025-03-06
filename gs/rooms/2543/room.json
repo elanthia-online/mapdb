@@ -1,0 +1,40 @@
+{
+  "checksum": "b473c693ac3cc37d6e6c031620d15978",
+  "room": {
+    "id": 2543,
+    "title": [
+      "[Glatoph, Icy Ravine]"
+    ],
+    "description": [
+      "Snow blown from the top of the glacier makes it difficult to see the trail.  Through the wind-driven snow, you glimpse the river continuing to roar past you as it winds its way down the ravine.  To the south, a large passage leads deep into the heart of the glacier."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2542": "northeast",
+      "2544": "south"
+    },
+    "timeto": {
+      "2542": 0.2,
+      "2544": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4044015
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      782,
+      645,
+      792,
+      655
+    ]
+  }
+}

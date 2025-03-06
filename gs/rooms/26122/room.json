@@ -1,0 +1,47 @@
+{
+  "checksum": "7857da57c605ad5482b48a65e8a80901",
+  "room": {
+    "id": 26122,
+    "title": [
+      "[Empyrean Tower, Observation]"
+    ],
+    "description": [
+      "Darkness looms overhead, the air thick with the sterile tang of ozone.  Crumbling arches in the curved wall give way to illuminated chambers, the prismatic light streaming from the stone cavities drawn to the east in colorful ribbons.  A pair of apprentices are bent over a long oaken worktable laden with alchemical supplies surrounding a detailed parchment chart, while several vials and beakers filled with glowing blue liquid bubble over a tabletop brazier."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26121": "east",
+      "26123": "west",
+      "26133": "go cobalt chamber",
+      "26134": "go teal chamber",
+      "26135": "go orange chamber",
+      "26136": "go pink chamber"
+    },
+    "timeto": {
+      "26121": 0.2,
+      "26123": 0.2,
+      "26133": 0.2,
+      "26134": 0.2,
+      "26135": 0.2,
+      "26136": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7107002
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      1095,
+      335,
+      1129,
+      369
+    ]
+  }
+}

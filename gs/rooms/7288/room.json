@@ -1,0 +1,52 @@
+{
+  "checksum": "2f2ba8f4f62aa831d4d5b8baf6db7293",
+  "room": {
+    "id": 7288,
+    "title": [
+      "[Slither Creek]"
+    ],
+    "description": [
+      "The creek widens into a small lake.  Dragonflies dart about, filling the air with color, while other, less pleasant insects buzz about the cattails lining the bank.  Something brushes against your leg, causing you to start, and you desperately hope it's a fish.  The bank seems stable enough for you to climb to dry land."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the Graveyard",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "7287": "go bank",
+      "7289": "northeast"
+    },
+    "timeto": {
+      "7287": 0.2,
+      "7289": 0.2
+    },
+    "tags": [
+      "yellow water lily",
+      "water chestnut",
+      "white water lily",
+      "blue water lily",
+      "aloeas stem",
+      "wild gooseberry",
+      "stalk of cattail",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156016
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      36,
+      207,
+      46,
+      217
+    ]
+  }
+}

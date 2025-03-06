@@ -1,0 +1,42 @@
+{
+  "checksum": "bd6fc607e641f0db1f13dd8612dd8945",
+  "room": {
+    "id": 11715,
+    "title": [
+      "[Marsh Keep, Courtyard]"
+    ],
+    "description": [
+      "Stone steps lead upward to the parapet of the outerwall along the perimeter of the courtyard.  A stone trough placed next to the steps is filled to the brim with tepid and foul-smelling rain water, and home to numerous insects which dart across the water's surface.  Set next to the trough is a rotting wooden bucket, set on its side and slowly collapsing inward on itself under the stress and decay of time."
+    ],
+    "paths": [
+      "Obvious paths: west, northwest"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11712": "west",
+      "11714": "northwest",
+      "16213": "climb steps"
+    },
+    "timeto": {
+      "11712": 0.2,
+      "11714": 0.2,
+      "16213": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376042
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      903,
+      1049,
+      913,
+      1059
+    ]
+  }
+}

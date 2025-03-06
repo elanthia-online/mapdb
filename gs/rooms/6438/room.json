@@ -1,0 +1,48 @@
+{
+  "checksum": "56ad6c3e1f63ddccc4bd536745251977",
+  "room": {
+    "id": 6438,
+    "title": [
+      "[Abandoned Mine]"
+    ],
+    "description": [
+      "Dust coated rails snake through from west to southeast, then disappear into the darkness beyond.  The sound of water dripping echoes down dark and musty corridors, setting your teeth on edge with its constant, steady rhythm."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, west"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6437": "west",
+      "6439": "north",
+      "6442": "southeast"
+    },
+    "timeto": {
+      "6437": 0.2,
+      "6439": 0.2,
+      "6442": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      93072
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1154,
+      136,
+      1164,
+      146
+    ]
+  }
+}

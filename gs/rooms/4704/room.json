@@ -1,0 +1,35 @@
+{
+  "checksum": "8ac345a727895783fccbff4163ae8525",
+  "room": {
+    "id": 4704,
+    "title": [
+      "[Reformatory, Antechamber]"
+    ],
+    "description": [
+      "A heavy, barred gateway at the edge of the immense and circular chamber leads to a walkway that reaches three cellblocks.  Thick hinges and iron straps reinforced by huge black iron locks adorn the gateway, prohibiting further passage toward the holding cells.  The rhythmic sound of marching boots echoes off the walls as sentries tread on a metal catwalk high overhead while patrolling the area from up above."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4671": "north",
+      "4703": "west",
+      "17144": "go gateway",
+      "17145": "go stairwell"
+    },
+    "timeto": {
+      "4671": 0.2,
+      "4703": 0.2,
+      "17144": 0.2,
+      "17145": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14052008
+    ]
+  }
+}

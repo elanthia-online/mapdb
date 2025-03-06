@@ -1,0 +1,56 @@
+{
+  "checksum": "924f4c65234b74d4b12ec659697d5f16",
+  "room": {
+    "id": 1932,
+    "title": [
+      "[Dragonspine and Krodera]"
+    ],
+    "description": [
+      "The street widens into a circular plaza several hundred feet across.  Dwarves and giantmen lounge on stone benches by a massive granite fountain in the center.  The burbling of the waters, the low mumblings of the dwarves and the booming laughter of the giants somehow blend together into a vibrant harmony."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1898": "south",
+      "1931": "east",
+      "1933": "west",
+      "1944": "north",
+      "30715": "/rooms/1932/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1898": 3,
+      "1931": 3,
+      "1933": 3,
+      "1944": 3,
+      "30715": "/rooms/1932/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "node",
+      "town",
+      "supernode",
+      "meta:mapname:Teras Isle - Kharam-Dzu",
+      "meta:mapshortname:Kharam-Dzu",
+      "meta:mapcategory:Teras Isle",
+      "meta:mapcategory:Towns",
+      "urchin-access",
+      "urchin guide statue",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001025
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1036,
+      518,
+      1066,
+      548
+    ]
+  }
+}

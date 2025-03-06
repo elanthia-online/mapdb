@@ -1,0 +1,40 @@
+{
+  "checksum": "34822a0bbbfaa39279cca47f808ddabd",
+  "room": {
+    "id": 9635,
+    "title": [
+      "[Temple Vestibule]"
+    ],
+    "description": [
+      "The reek of corruption is barely detectable beneath the sharper, cleaner scents of ginger and temple incense that pervade the air in this circular chamber.  Walkways inlaid with chalcedony and malachite extend to your east and west."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "9634": "go door",
+      "9636": "west",
+      "9650": "east"
+    },
+    "timeto": {
+      "9634": 0.2,
+      "9636": 0.2,
+      "9650": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2191005
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      678,
+      739,
+      688,
+      749
+    ]
+  }
+}

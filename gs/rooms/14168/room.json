@@ -1,0 +1,32 @@
+{
+  "checksum": "aa08f698a5bb6dc755c3bc7172b67226",
+  "room": {
+    "id": 14168,
+    "title": [
+      "[Temple of Lorminstra, Courtyard]"
+    ],
+    "description": [
+      "The steep pitch and low eaves of its white tile roof make the Temple of Lorminstra appear to almost grow out of the snowbanks of the winter tableau that surrounds it, and the temple's black basalt walls seem to recede into the shadows, adding to the effect."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14160": "northwest",
+      "14169": "go temple"
+    },
+    "timeto": {
+      "14160": 0.2,
+      "14169": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4742003
+    ]
+  }
+}

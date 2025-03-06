@@ -1,0 +1,30 @@
+{
+  "checksum": "d831d1568695e199ea2fe5ca1fa77329",
+  "room": {
+    "id": 16510,
+    "title": [
+      "[Alexys' Magic Shoppe]"
+    ],
+    "description": [
+      "Enclosed by blue-speckled sea glass walls, the shop features a potted palm tree in the center of its bamboo floor.  A tiny sand bottle display hangs under the skylight-set ceiling.  Right near the front is a shell-lined bamboo counter and an oversized sea chest.",
+      "Beneath a low skylight-set ceiling, a tiny sand bottle display hangs on one of the blue-speckled sea glass walls.  A shell-lined bamboo counter and an oversized sea chest sit in opposite corners while a potted palm tree rests on a glazed bamboo floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12264": "out",
+      "16526": "west",
+      "16527": "east"
+    },
+    "timeto": {
+      "12264": 0.2,
+      "16526": 0.2,
+      "16527": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

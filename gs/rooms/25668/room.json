@@ -1,0 +1,31 @@
+{
+  "checksum": "3f21289e1e7e94c58d9e82f9c2067169",
+  "room": {
+    "id": 25668,
+    "title": [
+      "[Bard Guild, Hallway]"
+    ],
+    "description": [
+      "The long hallway ends at a sturdy door bearing a plaque that reads simply, \"Office\".  From down the hall's length, the clink of pottery and glass from the pub combines with the faint sound of melodies, as a few musicians practice their craft."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "25667": "go sturdy door",
+      "25669": "go practice-room door",
+      "25670": "go teak door",
+      "25671": "north"
+    },
+    "timeto": {
+      "25667": 0.2,
+      "25669": 0.2,
+      "25670": 0.2,
+      "25671": 0.2
+    },
+    "uid": [
+      284009
+    ]
+  }
+}

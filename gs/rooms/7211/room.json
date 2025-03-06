@@ -1,0 +1,47 @@
+{
+  "checksum": "d86daf102bb0affcca1c2bd17306024a",
+  "room": {
+    "id": 7211,
+    "title": [
+      "[Graveyard, Barrow Tunnel]"
+    ],
+    "description": [
+      "A stone ledge, carved into the chamber walls, circles the passage and leads upward into darkness.  A foul miasma settles from above, filling the chamber with a heavy odor of tainted soil and ancient decay.  The passage narrows to the east, its walls still showing the marks of the tools used to painstakingly carve it from the rock countless centuries ago."
+    ],
+    "paths": [
+      "Obvious exits: east, up"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7210": "up",
+      "7212": "east"
+    },
+    "timeto": {
+      "7210": 0.2,
+      "7212": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162107
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      427,
+      213,
+      437,
+      223
+    ]
+  }
+}

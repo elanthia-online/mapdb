@@ -1,0 +1,2 @@
+fput "stand"
+fput "out"

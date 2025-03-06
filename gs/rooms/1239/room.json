@@ -1,0 +1,57 @@
+{
+  "checksum": "94612bc8994a8e6a77080d55dcb38c42",
+  "room": {
+    "id": 1239,
+    "title": [
+      "[Vipershroud, Brackish Stream]"
+    ],
+    "description": [
+      "The air is thick with moisture, and water dripping from the trees delivers a hot, unsatisfying rain.  The moist moss squishes loudly underfoot, and clouds of biting insects buzz around hungrily, attempting to feast on some fresh blood.  The trail, coming from the northwest, ends abruptly at a shallow, brackish stream.  To the northeast, the stream disappears under a thick clump of brambles, but to the southwest it is passable, if one doesn't mind tromping through heavy mud."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "the Vipershroud",
+    "climate": "freshwater",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "1238": "/rooms/1239/wayto/stringproc-1238.rb",
+      "1240": "northwest"
+    },
+    "timeto": {
+      "1238": 10,
+      "1240": 0.2
+    },
+    "tags": [
+      "yellow water lily",
+      "stalk of cattail",
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "reeds",
+      "white water lily",
+      "blue water lily",
+      "blue whortleberry",
+      "murdroot",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "bur-clover root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2190032
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      188,
+      598,
+      198,
+      608
+    ]
+  }
+}

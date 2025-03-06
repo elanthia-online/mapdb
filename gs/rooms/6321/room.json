@@ -1,0 +1,54 @@
+{
+  "checksum": "a395d665d76e07902bf47cf8e8d14e33",
+  "room": {
+    "id": 6321,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "Flanked by several lush trees, a large and elaborate building stands to the north, its golden dome glinting in the sunlight.  Small benches are placed throughout the thriving courtyard, and small colonies of flowers have sprouted around them.  A narrow pathway of pure white cobblestones leads toward the structure and stretches back to a smaller building to the south.",
+      "Flanked by several lush trees, a large and elaborate building stands to the north, its pale golden dome glinting in the soft moonlight.  Small benches are placed throughout the thriving courtyard, and small colonies of flowers have sprouted around them.  A narrow pathway of pure white cobblestones leads toward the structure and stretches back to a smaller building to the south."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "220": "go gate",
+      "17104": "go building",
+      "17192": "south",
+      "30708": "/rooms/6321/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "220": 0.2,
+      "17104": "/rooms/6321/timeto/stringproc-17104.rb",
+      "17192": 0.2,
+      "30708": "/rooms/6321/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "clericguild",
+      "meta:mapname:Wehnimer's Landing - Cleric Guild",
+      "meta:mapshortname:Cleric Guild (Wehnimer's)",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:Guilds",
+      "urchin guide clericguild",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "cleric guild"
+    ],
+    "uid": [
+      671011
+    ],
+    "image": "wl-cleric_guild-1275417297.png",
+    "image_coords": [
+      579,
+      319,
+      625,
+      365
+    ]
+  }
+}

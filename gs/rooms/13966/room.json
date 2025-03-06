@@ -1,0 +1,58 @@
+{
+  "checksum": "2c9126dfa6da3bc1fac4cf3f089718a7",
+  "room": {
+    "id": 13966,
+    "title": [
+      "[Mistydeep, Ravelin]"
+    ],
+    "description": [
+      "Nature's harmony is undisturbed as the river rolls along its course.  Breezes whisper amidst the trees on either side of the embankment while the river gurgles in quiet counterpoint.  To the southwest, a well-built dock overhangs the water's edge and numerous boats jostle each other as they try to slip free of their rope moorings."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, southwest, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "13923": "/rooms/13966/wayto/stringproc-13923.rb",
+      "18842": "/rooms/13966/wayto/stringproc-18842.rb",
+      "25619": "/rooms/13966/wayto/stringproc-25619.rb",
+      "25620": "/rooms/13966/wayto/stringproc-25620.rb",
+      "25621": "/rooms/13966/wayto/stringproc-25621.rb",
+      "25638": "/rooms/13966/wayto/stringproc-25638.rb",
+      "30506": "swim down"
+    },
+    "timeto": {
+      "13923": "/rooms/13966/timeto/stringproc-13923.rb",
+      "18842": "/rooms/13966/timeto/stringproc-18842.rb",
+      "25619": "/rooms/13966/timeto/stringproc-25619.rb",
+      "25620": "/rooms/13966/timeto/stringproc-25620.rb",
+      "25621": "/rooms/13966/timeto/stringproc-25621.rb",
+      "25638": "/rooms/13966/timeto/stringproc-25638.rb",
+      "30506": "/rooms/13966/timeto/stringproc-30506.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117009
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1124,
+      690,
+      1142,
+      709
+    ]
+  }
+}

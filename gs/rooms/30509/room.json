@@ -1,0 +1,41 @@
+{
+  "checksum": "2c40f202a2b71911e9e65eb12941c1e2",
+  "room": {
+    "id": 30509,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The riverbed here is primarily sand and loose gravel, swept clean by the rapidly flowing current.  Dark boulders line the channel on the east, from which larger fish make forays, hunting for wayward minnows or other unfortunates."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25616": "swim up",
+      "30508": "swim northeast",
+      "30511": "swim southeast"
+    },
+    "timeto": {
+      "25616": 0.2,
+      "30508": 0.2,
+      "30511": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117116
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1163,
+      1051,
+      1181,
+      1069
+    ]
+  }
+}

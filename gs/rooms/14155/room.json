@@ -1,0 +1,43 @@
+{
+  "checksum": "18a0dd79eccdf7e20896eb3a3138d0da",
+  "room": {
+    "id": 14155,
+    "title": [
+      "[Fasthr's Lance, Crown]"
+    ],
+    "description": [
+      "Raised high above the green hillock that Fasthr's Lance occupies, the crenellated tower rooftop facilitates a panoramic view of Solhaven and Cairnfang Bay.  Incised shield patterns mark the top of each crenellation.  Striking yet higher, a dark ora lance hoisting a black ensign stitched with a snow-white shield proclaims the tower's allegiance."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5313": "/rooms/14155/wayto/stringproc-5313.rb",
+      "5403": "/rooms/14155/wayto/stringproc-5403.rb",
+      "9033": "/rooms/14155/wayto/stringproc-9033.rb",
+      "9347": "/rooms/14155/wayto/stringproc-9347.rb",
+      "13196": "climb stairwell",
+      "14072": "/rooms/14155/wayto/stringproc-14072.rb"
+    },
+    "timeto": {
+      "5313": "/rooms/14155/timeto/stringproc-5313.rb",
+      "5403": "/rooms/14155/timeto/stringproc-5403.rb",
+      "9033": "/rooms/14155/timeto/stringproc-9033.rb",
+      "9347": "/rooms/14155/timeto/stringproc-9347.rb",
+      "13196": 0.2,
+      "14072": "/rooms/14155/timeto/stringproc-14072.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:seeking",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749706
+    ]
+  }
+}

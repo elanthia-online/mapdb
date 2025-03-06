@@ -1,0 +1,34 @@
+{
+  "checksum": "5461a7a8680d8ebd276dd8d1ccc6efa0",
+  "room": {
+    "id": 19881,
+    "title": [
+      "[Cleric Guild, Meditation Room]"
+    ],
+    "description": [
+      "Sunlight from high windows touches the polished limestone walls, revealing veins of subtle color within them.  Prayer mats on the floor are simple in design, but luxuriously textured.  A small pool is carved into the native stone floor, its waters so still that the merest breath would distort the pool's mirror-bright surface."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17722": "southeast",
+      "19882": "northwest"
+    },
+    "timeto": {
+      "17722": 0.2,
+      "19882": 0.2
+    },
+    "uid": [
+      673002
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      763,
+      405,
+      832,
+      471
+    ]
+  }
+}

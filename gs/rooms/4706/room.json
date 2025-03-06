@@ -1,0 +1,31 @@
+{
+  "checksum": "cb9e88c699bfc5364a904ac1bc7c4c8c",
+  "room": {
+    "id": 4706,
+    "title": [
+      "[Reformatory, Storage Room]"
+    ],
+    "description": [
+      "This snug little closet is cleanly swept and rodent free.  Labeled in a neat and precise hand, the efficiently organized shelves, cabinets, and barrels contain items that are required for the daily needs of the inmates and staff alike.  Leaning against the wall, and missing a rung or three, a ladder rests beneath a trapdoor in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4705": "out",
+      "4707": "go ladder"
+    },
+    "timeto": {
+      "4705": 0.2,
+      "4707": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14052006
+    ]
+  }
+}

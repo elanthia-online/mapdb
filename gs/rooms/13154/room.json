@@ -1,0 +1,40 @@
+{
+  "checksum": "3164b16df0f6a8b02c4ed9f414d3ec92",
+  "room": {
+    "id": 13154,
+    "title": [
+      "[Stone Edifice, Corridor]"
+    ],
+    "description": [
+      "Narrower than the other halls in the edifice, this corridor is lit by glassy globes affixed to the ceiling at regular points, each sphere housing phosphorescent moss in blues and greens.  A stark grey stone door resides in the bend of the outer wall as it curves to the north."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "wayto": {
+      "13152": "west",
+      "13155": "north",
+      "13159": "go door"
+    },
+    "timeto": {
+      "13152": 0.2,
+      "13155": 0.2,
+      "13159": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      565017
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1107,
+      492,
+      1127,
+      512
+    ]
+  }
+}

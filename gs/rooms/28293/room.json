@@ -1,0 +1,33 @@
+{
+  "checksum": "7130058a44db615498f84e5e0f32c179",
+  "room": {
+    "id": 28293,
+    "title": [
+      "[Ta'Vaalor Hall, West Hallway]"
+    ],
+    "description": [
+      "A large mural has been painted on one wall, and deep red carpet continues down the corridor to the far corner at the end.  A serving table has been set up against the other wall, within easy reach of all who pass by.  To the west is a polished maoral door with a brass doorknob."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "28287": "south",
+      "28292": "southeast",
+      "28294": "go door"
+    },
+    "timeto": {
+      "28287": 0.2,
+      "28292": 0.2,
+      "28294": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      857009
+    ]
+  }
+}

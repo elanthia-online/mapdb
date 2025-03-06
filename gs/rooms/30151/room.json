@@ -1,0 +1,39 @@
+{
+  "checksum": "b7184954643159f7116ae75f35948919",
+  "room": {
+    "id": 30151,
+    "title": [
+      "[Arakhor Estate, Ballroom]"
+    ],
+    "description": [
+      "Stately columns of gold-flecked white marble support a massive frescoed dome.  A polished crimson marble dance floor, with similar gold flecks, gleams in the light of numerous elaborate chandeliers, providing an impressive setting for the carefully inlaid Arakhor family crest.  Several padded benches rest along the edges of the circular area, unobtrusive yet readily available for tired revelers."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "30149": "west",
+      "30152": "go sliding doors"
+    },
+    "timeto": {
+      "30149": 0.2,
+      "30152": 0.2
+    },
+    "tags": [
+      "arakhor estate ballroom",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "private property"
+    ],
+    "uid": [
+      1303705
+    ],
+    "unique_loot": [
+      "pair of sliding glass doors"
+    ]
+  }
+}

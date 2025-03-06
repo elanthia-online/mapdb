@@ -1,0 +1,28 @@
+{
+  "checksum": "a2c4b0533f09d0aa240190758a275186",
+  "room": {
+    "id": 13548,
+    "title": [
+      "[Alusa's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a wide-planked white cedar ceiling, a curl-edged vellum wall map hangs on one of the plain wooden walls.  A series of low oak shelves and a heavy white granite counter sit in opposite corners while a plush black bear fur rug rests on a white limestone floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "9010": "out",
+      "13911": "northwest",
+      "13912": "northeast"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "13911": 0.2,
+      "13912": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

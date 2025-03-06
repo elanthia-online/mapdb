@@ -1,0 +1,44 @@
+{
+  "checksum": "c887e18388838da09f2941fdc75eeb49",
+  "room": {
+    "id": 11808,
+    "title": [
+      "[Ta'Faendryl Approach]"
+    ],
+    "description": [
+      "A few hardy swamp grasses form mounds of tight vegetation atop the black mud plain.  Their thin, dusty yellow-green blades indicate that they need very little in the way of nutrients to survive, and their shallow, wide roots are able to tolerate the consistently wet conditions.  Grey biting flies flit among the grasses, examining them for signs of some animal from which to drink blood.   Moving along quickly seems to help keep the flies at bay."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "humid",
+    "terrain": "barren scrub",
+    "wayto": {
+      "11807": "west",
+      "11809": "northeast"
+    },
+    "timeto": {
+      "11807": 0.2,
+      "11809": 0.2
+    },
+    "tags": [
+      "pothinir grass",
+      "wild chokecherry",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17000005
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      489,
+      1078,
+      499,
+      1088
+    ]
+  }
+}

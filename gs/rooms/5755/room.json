@@ -1,0 +1,53 @@
+{
+  "checksum": "504fa0b3818df6416303a48a0deec619",
+  "room": {
+    "id": 5755,
+    "title": [
+      "[Stonecutters' Lodge, Exterior]"
+    ],
+    "description": [
+      "The tunnel opens out into a large, open, hemispherical space.  Extending from the wall is a building facade with the words \"Mraent Granite Quarry\" carved above a rounded archway.  A heavy iron door, smashed by some tremendous blow, hangs precariously from its hinges, no longer securing the hallway that leads deep into the darkness beyond."
+    ],
+    "paths": [
+      "Obvious exits: east, up"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5754": "up",
+      "5756": "east",
+      "5765": "go door"
+    },
+    "timeto": {
+      "5754": 0.2,
+      "5756": 0.2,
+      "5765": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008004
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      277,
+      97,
+      287,
+      107
+    ]
+  }
+}

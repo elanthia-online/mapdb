@@ -1,0 +1,32 @@
+{
+  "checksum": "09e16a5f24df588ed6f06af273f4e642",
+  "room": {
+    "id": 16090,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "The room is marked by an exuberant chaos.  Cabinets are arranged orderly in every corner, but in the center of the room baskets are stacked on trunks, which are stacked on tables.  Large pyramids of containers of disparate shapes and colors and materials threaten to topple at any moment."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16040": "east",
+      "16091": "west"
+    },
+    "timeto": {
+      "16040": 0.2,
+      "16091": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734109
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "checksum": "53841b19fc609dcc9df4157a2a4ff308",
+  "room": {
+    "id": 12188,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A graveyard lies before you.  Unlike a normal graveyard, however, the things that now rest here never were alive.  Hundreds of broken statues litter the field, some gazing sightlessly off into the distance, others reaching with stone hands up to whatever salvation waits for them beyond.  The forgotten relics' final resting place gives an eerie air to the surrounding areas, as if you could share their unfortunate fate."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12188/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12188/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12188/wayto/stringproc-12152.rb",
+      "12187": "east",
+      "20882": "west"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12187": 0.2,
+      "20882": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568016
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      280,
+      1247,
+      290,
+      1257
+    ]
+  }
+}

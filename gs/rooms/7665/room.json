@@ -1,0 +1,42 @@
+{
+  "checksum": "f6526f295df81485dce3503e093bb081",
+  "room": {
+    "id": 7665,
+    "title": [
+      "[Sea Cave, Stone Forest]"
+    ],
+    "description": [
+      "This narrow pathway leads you away from the underground river through a grey forest of stone that is eerily quiet.  Towering stalagmites reach upward toward the high ceiling, and an acrid tang taints the air.",
+      "This narrow pathway leads you away from the underground river through a grey forest of stone that is eerily quiet.  Towering stalagmites reach upward toward the high ceiling.  Your echoing footsteps disturb something far above you, and you hear the rustle of leathery wings."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7664": "east",
+      "7666": "southwest"
+    },
+    "timeto": {
+      "7664": 0.2,
+      "7666": 0.2
+    },
+    "tags": [
+      "shelfae chieftain",
+      "no forageables",
+      "meta:forage-sensed",
+      "cinnamon bark",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84407
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      831,
+      411,
+      841,
+      421
+    ]
+  }
+}

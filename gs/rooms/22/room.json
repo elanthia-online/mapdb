@@ -1,0 +1,47 @@
+{
+  "checksum": "7cc3df1518c11a7462e8fb28f67ebb97",
+  "room": {
+    "id": 22,
+    "title": [
+      "[Ta'Illistim, Glamesine Var]"
+    ],
+    "description": [
+      "The Ta'Illistim Theatre dominates the var.  The stone cladding on the structure has been sectioned off into panels, each of which is carved with a different scene of players on a stage.  Carved white marble planters brimming with fragrant flowers line the flagstone walk leading to the wide front doors.",
+      "The Ta'Illistim Theatre dominates the var.  The marble cladding on the structure has been sectioned off into panels, each of which is carved with a different scene of players on a stage.  Planters brimming with white roses line the flagstone walk leading to the wide front doors."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21": "north",
+      "23": "south",
+      "728": "east",
+      "30714": "/rooms/22/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "21": 0.2,
+      "23": 0.2,
+      "728": 0.2,
+      "30714": "/rooms/22/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100048
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      947,
+      677,
+      970,
+      699
+    ]
+  }
+}

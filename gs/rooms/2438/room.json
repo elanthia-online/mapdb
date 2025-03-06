@@ -1,0 +1,46 @@
+{
+  "checksum": "aff6be78afc88e7855450b3785750a25",
+  "room": {
+    "id": 2438,
+    "title": [
+      "[Clovertooth Hall, Bondsman]"
+    ],
+    "description": [
+      "Two halfling guards in matching uniforms flank each end of a long marble counter behind which sits another gleefully counting his coins.  Marking the center of the counter is a shiny silver-plated sign."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29531": "go door",
+      "30709": "/rooms/2438/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "29531": 0.2,
+      "30709": "/rooms/2438/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "debt",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin guide debts",
+      "urchin-access",
+      "debts",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4043042
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      392,
+      1180,
+      484,
+      1272
+    ]
+  }
+}

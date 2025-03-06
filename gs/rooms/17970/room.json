@@ -1,0 +1,37 @@
+{
+  "checksum": "70fb4a121101f022926df5198fafd7e7",
+  "room": {
+    "id": 17970,
+    "title": [
+      "[Rogue Guild, Shop]"
+    ],
+    "description": [
+      "Brightly-burning oil lamps hang in the four corners of the room, shedding a cheery light over the room.  Shopkeepers bustle about, tending to their wares with careful attention.  A graceful wooden arch opens in the north wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of Icemule Trace",
+    "wayto": {
+      "17966": "out",
+      "17971": "go arch"
+    },
+    "timeto": {
+      "17966": 0.2,
+      "17971": 0.2
+    },
+    "tags": [
+      "rogue guild shop"
+    ],
+    "uid": [
+      260023
+    ],
+    "image": "imt-rogue_guild-1305438533.png",
+    "image_coords": [
+      231,
+      403,
+      255,
+      425
+    ]
+  }
+}

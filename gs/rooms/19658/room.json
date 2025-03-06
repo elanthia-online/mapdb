@@ -1,0 +1,40 @@
+{
+  "checksum": "a0eb758b59bc7c8c04f5769ecad8e590",
+  "room": {
+    "id": 19658,
+    "title": [
+      "[Cavernhold, Corridor]"
+    ],
+    "description": [
+      "This passage twists slightly to the right as it moves up a steep incline.  Obviously a right handed individual would have a difficult time wielding a weapon if trying to advance through here."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19641": "southeast",
+      "19659": "northwest"
+    },
+    "timeto": {
+      "19641": 0.2,
+      "19659": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10050
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      548,
+      968,
+      558,
+      980
+    ]
+  }
+}

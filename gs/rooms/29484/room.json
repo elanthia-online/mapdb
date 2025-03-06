@@ -1,0 +1,41 @@
+{
+  "checksum": "4c5cebf80ace36a1e4064e2607d461fc",
+  "room": {
+    "id": 29484,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Spiraling deep into the earth, the tunnel snakes around from northwest to northeast.  The lack of light is as oppressive as the thought of the entire DragonSpine mountain range weighing down overhead.  Despite the darkness shrouding the ceiling of this section of caves, a rounded shaft can be seen leading upwards."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29472": "northwest",
+      "29483": "northeast",
+      "29485": "up"
+    },
+    "timeto": {
+      "29472": 0.2,
+      "29483": 0.2,
+      "29485": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007203
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      145,
+      242,
+      165,
+      267
+    ]
+  }
+}

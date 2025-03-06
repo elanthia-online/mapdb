@@ -1,0 +1,52 @@
+{
+  "checksum": "29d9fa96440a084992fd9d4b5d88b928",
+  "room": {
+    "id": 24291,
+    "title": [
+      "[Ranger Guild, Yard]"
+    ],
+    "description": [
+      "Ice sculptures carved into the shapes of local wildlife decorate the yard, nestled between small evergreen shrubs that line the area.  Tall cedars and other evergreens beyond the shrubs block the wind from the wide-open clearing."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Icemule Ranger Guild",
+    "climate": "snowy, arctic",
+    "terrain": "barren scrub",
+    "wayto": {
+      "24289": "east",
+      "24292": "go tree",
+      "24293": "go shed"
+    },
+    "timeto": {
+      "24289": 0.2,
+      "24292": 0.2,
+      "24293": 0.2
+    },
+    "tags": [
+      "snow lily",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "rockberry",
+      "crowberry",
+      "lingonberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      270009
+    ],
+    "image": "imt-rangerguild-v2.png",
+    "image_coords": [
+      149,
+      120,
+      167,
+      138
+    ]
+  }
+}

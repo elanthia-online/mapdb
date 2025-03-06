@@ -1,0 +1,37 @@
+{
+  "checksum": "0a157e3e608e3b69b9e03573e7d4daf8",
+  "room": {
+    "id": 21767,
+    "title": [
+      "[House Phoenix, 3rd Floor hall]"
+    ],
+    "description": [
+      "This hallway ends at a door painted in pale colors.  North is the observation platform and additional rooms."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21765": "north",
+      "21768": "go door"
+    },
+    "timeto": {
+      "21765": 0.2,
+      "21768": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Rising Phoenix"
+    ],
+    "uid": [
+      103301
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      1536,
+      536,
+      1655,
+      614
+    ]
+  }
+}

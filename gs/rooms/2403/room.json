@@ -1,0 +1,44 @@
+{
+  "checksum": "f5de24fe4254de354c4ac850224d58fc",
+  "room": {
+    "id": 2403,
+    "title": [
+      "[Tavern Burrow, Malt Road]"
+    ],
+    "description": [
+      "The cobblestones of Malt Road alternate in whites and wan ambers reminiscent of a pale ale's hue.  Merry whistling lilts through the traffic along the road, which mostly consists of merchants and porters with cask-laden wagons bound for local taverns and inns.  Dried herbs hanging from the eaves of a rickety cottage impart a sweet fragrance to the cold wind.",
+      "The cobblestones of Malt Road are new enough to still have sharp edges.  Merrily whistling a tune, a delivery boy pushes along a cart with some oak casks on it.  The wheel of the cart just catches on the edge of a cobble, but the boy manages to right the cart before losing any cargo."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2402": "north",
+      "2404": "east",
+      "2406": "go cottage"
+    },
+    "timeto": {
+      "2402": 0.2,
+      "2404": 0.2,
+      "2406": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042223
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      227,
+      966,
+      263,
+      1002
+    ]
+  }
+}

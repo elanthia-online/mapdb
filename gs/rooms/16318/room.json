@@ -1,0 +1,32 @@
+{
+  "checksum": "4dbf6c55e6dee9e29cdfbf2cc8d5b335",
+  "room": {
+    "id": 16318,
+    "title": [
+      "[Atrium, Hallway]"
+    ],
+    "description": [
+      "A freesia-embroidered curtain hangs on one wall, providing access to a small alcove.  More curtains can be seen farther down the hallway."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16314": "west",
+      "16315": "east",
+      "27959": "go curtain"
+    },
+    "timeto": {
+      "16314": 0.2,
+      "16315": 0.2,
+      "27959": 0.2
+    },
+    "tags": [
+      "publiclockers"
+    ],
+    "uid": [
+      3204111
+    ]
+  }
+}

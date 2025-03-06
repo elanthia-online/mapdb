@@ -1,0 +1,41 @@
+{
+  "checksum": "16abd356682d75681ef99d3b73cccb4f",
+  "room": {
+    "id": 32761,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "You carefully pick your way around the bits and pieces of debris.  Just thinking about the nature of this debris makes you a bit nauseous.  The smell of the place is revolting, making matters even worse."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32760": "southeast",
+      "32762": "northwest"
+    },
+    "timeto": {
+      "32760": 0.2,
+      "32762": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2136204
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      452,
+      356,
+      459,
+      366
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checksum": "e4003531448bf0aad4a2374a57c9df5b",
+  "room": {
+    "id": 6206,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "This portion of the tunnel is consumed by seemingly unending darkness.  The hiss of slow, strained breathing can be heard from nearby, but from who or what remains a mystery."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6202": "/rooms/6206/wayto/stringproc-6202.rb",
+      "6203": "/rooms/6206/wayto/stringproc-6203.rb",
+      "6204": "/rooms/6206/wayto/stringproc-6204.rb",
+      "6205": "/rooms/6206/wayto/stringproc-6205.rb",
+      "6207": "/rooms/6206/wayto/stringproc-6207.rb",
+      "6208": "/rooms/6206/wayto/stringproc-6208.rb",
+      "6209": "/rooms/6206/wayto/stringproc-6209.rb",
+      "6210": "/rooms/6206/wayto/stringproc-6210.rb"
+    },
+    "timeto": {
+      "6202": 0.5,
+      "6203": 0.5,
+      "6204": 0.5,
+      "6205": 0.5,
+      "6207": 0.5,
+      "6208": 0.5,
+      "6209": 0.5,
+      "6210": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      2167073
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      678,
+      219,
+      696,
+      237
+    ]
+  }
+}

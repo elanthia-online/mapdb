@@ -1,0 +1,29 @@
+{
+  "checksum": "37db20224938c2ed945c43ec9e149cd2",
+  "room": {
+    "id": 16512,
+    "title": [
+      "[Beryl's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a billowing silk ceiling, a multihued Vornavian silk tapestry hangs on one of the white silk-paneled walls.  A Vornavian silk-lined display case sits in one corner while a mound of silk-covered pillows rests on the sea glass floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12264": "out",
+      "16524": "east",
+      "16525": "north"
+    },
+    "timeto": {
+      "12264": 0.2,
+      "16524": 0.2,
+      "16525": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

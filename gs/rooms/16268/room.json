@@ -1,0 +1,27 @@
+{
+  "checksum": "7ee874ddb7104390c528b486de015cd2",
+  "room": {
+    "id": 16268,
+    "title": [
+      "[Karazja Jungle, Overgrown Path]"
+    ],
+    "description": [
+      "A massive, vine-wrapped fel tree overhangs the faint pathway.  Skulls hanging from leather cords attached to the upper branches rattle together in the gentle breeze.  The thick undergrowth is spotted with bird droppings."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16011": "east",
+      "16264": "west"
+    },
+    "timeto": {
+      "16011": 0.2,
+      "16264": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

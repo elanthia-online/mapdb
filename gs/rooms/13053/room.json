@@ -1,0 +1,33 @@
+{
+  "checksum": "470e027f535a7de08642c7f7aa16fb61",
+  "room": {
+    "id": 13053,
+    "title": [
+      "[Ta'Illistim Alchemy Emporium]"
+    ],
+    "description": [
+      "Enclosed within the back recesses of the shop, a silk-covered table stands against a wall.  A brightly burning torch positioned above the table clearly displays its goods."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13052": "west"
+    },
+    "timeto": {
+      "13052": 0.2
+    },
+    "tags": [
+      "reagent shop",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      160025
+    ]
+  }
+}

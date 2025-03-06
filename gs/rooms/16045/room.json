@@ -1,0 +1,29 @@
+{
+  "checksum": "15a5d9fa13a215490fd5d6d5e6ebad59",
+  "room": {
+    "id": 16045,
+    "title": [
+      "[Karly's Weaponry]"
+    ],
+    "description": [
+      "A drawbridge painting hangs on one of the oak wainscotted walls, and a light blue plaster ceiling rises overhead.  A brass dancing turtle statue sits in one corner of a polished oak floor.  There is a badly scarred oak counter on one side of the shop and a tall oak and ivory cabinet on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10876": "out",
+      "16107": "east",
+      "16108": "north"
+    },
+    "timeto": {
+      "10876": 0.2,
+      "16107": 0.2,
+      "16108": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

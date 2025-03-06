@@ -1,0 +1,50 @@
+{
+  "checksum": "da6110cb050f87840c6f3ee7adeafa06",
+  "room": {
+    "id": 4567,
+    "title": [
+      "[Griffin's Keen, Emerald Point]"
+    ],
+    "description": [
+      "Here at the top of the crevasse, there is a dangerous looking gap where a thick sheet of ice has broken away from the rock wall of the mountainside.  Blowing snow is already beginning to fill in the opening, threatening to widen it.  This glacier may turn from slow moving ice to unbelievably fast moving ice any time now."
+    ],
+    "paths": [
+      "Obvious paths: northeast, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4566": "/rooms/4567/wayto/stringproc-4566.rb",
+      "4568": "/rooms/4567/wayto/stringproc-4568.rb"
+    },
+    "timeto": {
+      "4566": 4.2,
+      "4568": 4.2
+    },
+    "tags": [
+      "sweetfern stalk",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302108
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      607,
+      170,
+      617,
+      180
+    ]
+  }
+}

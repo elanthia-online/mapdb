@@ -1,0 +1,37 @@
+{
+  "checksum": "d40aecdf7d7df0a42f3ea31268364c7d",
+  "room": {
+    "id": 32488,
+    "title": [
+      "[Moonsedge Castle, Service Door]"
+    ],
+    "description": [
+      "Crates and barrels of a variety of woods and makes crowd along the walls but leave an open aisle leading up to some reinforced double doors that open out onto the castle ward.  Though shut and sealed, the containers offer tantalizing hints of the goods within.  A ribbon of incarnadine silk peeks from a slat in one crate, while a distinctive barrel is redolent with odors of honey, vanilla, and cinnamon."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32457": "south",
+      "32489": "go door"
+    },
+    "timeto": {
+      "32457": 0.2,
+      "32489": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577206
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      984,
+      586,
+      1011,
+      609
+    ]
+  }
+}

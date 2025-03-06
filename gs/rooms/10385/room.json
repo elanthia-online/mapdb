@@ -1,0 +1,32 @@
+{
+  "checksum": "c5daa3cbe48bc22113e8ffc477022d56",
+  "room": {
+    "id": 10385,
+    "title": [
+      "[Malwith Inn, Front Desk]"
+    ],
+    "description": [
+      "A large desk surrounds a small office area.  Books, scrolls and other odds and ends litter a table behind the desk.  A grand staircase leads up to the second floor, its railings ending in stylized dragon claws."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "10384": "south",
+      "10386": "east",
+      "10389": "go staircase"
+    },
+    "timeto": {
+      "10384": 0.2,
+      "10386": 0.2,
+      "10389": 0.2
+    },
+    "tags": [
+      "inn"
+    ],
+    "uid": [
+      14102002
+    ]
+  }
+}

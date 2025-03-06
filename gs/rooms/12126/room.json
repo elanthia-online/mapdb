@@ -1,0 +1,52 @@
+{
+  "checksum": "d40aee7ccca9d3125d0846dda38536e2",
+  "room": {
+    "id": 12126,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Rows of sarcophagi line the rough stone walls of the corridor.  They remain tightly shut, although hopeless moans emanate from within the sealed boxes.  At the head of the hallway leans a mummy.  His arms are crossed over his chest, bound by the shrouds that cover the large frame.  From his back sprout two wings, also wrapped within the bandages.  Although perhaps a trick of the dim light, you could swear you saw one of the wings move."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast",
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12126/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12126/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12126/wayto/stringproc-12093.rb",
+      "12124": "northeast",
+      "12167": "east",
+      "12168": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12124": 0.2,
+      "12167": 0.2,
+      "12168": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "discolored fleshbinder bud"
+    ],
+    "uid": [
+      4567020
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1003,
+      644,
+      1013,
+      654
+    ]
+  }
+}

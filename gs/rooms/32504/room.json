@@ -1,0 +1,38 @@
+{
+  "checksum": "b8152ee9e3055f369d376421fc160064",
+  "room": {
+    "id": 32504,
+    "title": [
+      "[Consortium, West Hall]"
+    ],
+    "description": [
+      "Dark-paneled walls encompass the length of this hallway, with its floor a stretch of burnished grey wood.  Modwir-framed portraits are staggered along one wall, each one depicting the face of several founders.  A polished statue of a red marble lion is perched at the side of a wide staircase leading up."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32500": "east",
+      "32505": "go staircase",
+      "32507": "go doors",
+      "32508": "south"
+    },
+    "timeto": {
+      "32500": 0.2,
+      "32505": 0.2,
+      "32507": 0.2,
+      "32508": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336182
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "4514b08c01c85e2d355bbfb724156656",
+  "room": {
+    "id": 22080,
+    "title": [
+      "[Paupers, Balcony]"
+    ],
+    "description": [
+      "Gazing out from the balcony you can see the southwest corner of the Town Square.  The bustle and clamor of the town seems blessedly far away.  A rose-covered trellis climbs up to the balcony from the grounds below.  The subtle smell of roses mixes pleasantly with the rich smell of ale from the pub."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7984": "go trellis",
+      "22078": "go glass doors"
+    },
+    "timeto": {
+      "7984": 0.2,
+      "22078": 0.2
+    },
+    "tags": [
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104512
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      132,
+      450,
+      215,
+      503
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "8ea67d3dbd36446235a773a5ed361735",
+  "room": {
+    "id": 6897,
+    "title": [
+      "[Smuggling Tunnels, Rest Area]"
+    ],
+    "description": [
+      "The remains of a row of cots have all been blasted back against the walls to the east.  Several are completely splintered, the cotton inside the mattresses dusting the floor like dirty snow.  The rest are mangled and tangled wrecks of wood and twine, unsalvageable for anything but firewood."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6892": "north",
+      "6896": "east",
+      "6899": "south",
+      "6928": "/rooms/6897/wayto/stringproc-6928.rb"
+    },
+    "timeto": {
+      "6892": 0.2,
+      "6896": 0.2,
+      "6899": 0.2,
+      "6928": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wraith",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37026
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1050,
+      1302,
+      1060,
+      1312
+    ]
+  }
+}

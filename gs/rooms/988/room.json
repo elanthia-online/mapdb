@@ -1,0 +1,49 @@
+{
+  "checksum": "180eecc8f3156f0c9b203571f1d06ff0",
+  "room": {
+    "id": 988,
+    "title": [
+      "[Eastern DragonSpine, Slope]"
+    ],
+    "description": [
+      "A steep climb up the mountainside leads to a large cavern far above while a less strenuous path winds down to the town below.  Although both directions look well trod, the constant reforming of ice from the passing mists makes footing unsure.  The wind howls off the mountainside, and, every so often, the heavy load of ice cracks and rumbles noisily high in the peaks.  Looking up, the extensive snow on the towering mountainside seems poised to come rumbling down at any moment."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Zhindel's Post",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "987": "northeast",
+      "989": "/rooms/988/wayto/stringproc-989.rb"
+    },
+    "timeto": {
+      "987": 0.2,
+      "989": 10
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13003016
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1050,
+      947,
+      1060,
+      957
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "1212ef7675a0a114e673d9528337e6c0",
+  "room": {
+    "id": 7950,
+    "title": [
+      "[Stone Tunnel]"
+    ],
+    "description": [
+      "The tunnel leads down, out of the stone and into soft, moist dirt as you pass from under the mountain.  Large swaths through the dirt walls give the impression that the makers of the passage used claws to do their tunneling.  Small roots hang from the ceiling, as if from young trees."
+    ],
+    "paths": [
+      "Obvious exits: southwest, up"
+    ],
+    "location": "Melgorehn's Valley",
+    "wayto": {
+      "7949": "up",
+      "7951": "southwest"
+    },
+    "timeto": {
+      "7949": 0.2,
+      "7951": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2148026
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      845,
+      405,
+      855,
+      415
+    ]
+  }
+}

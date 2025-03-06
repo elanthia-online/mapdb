@@ -1,0 +1,44 @@
+{
+  "checksum": "7e9bfea249ad6d5c94dc7d89e4fa8918",
+  "room": {
+    "id": 7090,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "There's a small, round hole carved in the north wall at about eye level.  Peering into it, you see two beady eyes peering back out.  There's a HISSSS! and a forked tongue flickers out."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7089": "west",
+      "7091": "east",
+      "7095": "go door"
+    },
+    "timeto": {
+      "7089": 0.2,
+      "7091": 0.2,
+      "7095": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44026
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      947,
+      1049,
+      957,
+      1059
+    ]
+  }
+}

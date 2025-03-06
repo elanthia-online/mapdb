@@ -1,0 +1,49 @@
+{
+  "checksum": "c9a73e7cb906ef72277dbd15f79deeca",
+  "room": {
+    "id": 30445,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Small seagrass and beach plum plants cling to the side of the towering cliff, their leaves almost completely coated in salt spray.  Below, the water churns and froths against the limestone, creating unpredictable eddies and currents."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30431": "pedal southwest",
+      "30432": "pedal west",
+      "30433": "pedal northwest",
+      "30443": "pedal southeast",
+      "30444": "pedal south",
+      "30447": "pedal north"
+    },
+    "timeto": {
+      "30431": 6,
+      "30432": 6,
+      "30433": 6,
+      "30443": 6,
+      "30444": 6,
+      "30447": 6
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3216147
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      621,
+      1721,
+      639,
+      1737
+    ]
+  }
+}

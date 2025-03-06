@@ -1,0 +1,52 @@
+{
+  "checksum": "9cb4cc95d98f323c32e77d8b035454af",
+  "room": {
+    "id": 13244,
+    "title": [
+      "[Ta'Illistim, Cubiculum]"
+    ],
+    "description": [
+      "The granite passage forks out from this cell-like room, arcane cuneiform still visible on the walls, though much of the gilt and imbedded gems that once embellished the ancient tomb have been stolen or washed away.  Near the ceiling, square lucernarios open to the street, providing a bit more light and a slight breeze of fresh air."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "712": "go grate",
+      "13437": "west",
+      "13443": "north"
+    },
+    "timeto": {
+      "712": 0.2,
+      "13437": 0.2,
+      "13443": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13117006
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      254,
+      985,
+      277,
+      1008
+    ]
+  }
+}

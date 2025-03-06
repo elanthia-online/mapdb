@@ -1,0 +1,24 @@
+{
+  "checksum": "f86318ef59709ef1e97cbe6a0165702a",
+  "room": {
+    "id": 20476,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "Far away a krolvin slave ship can be spotted, clearly anchored as the waves rock it but it remains unmoving.  A krolvin pirate sits atop the ship's crow's nest, his spyglass focused on a raging storm cloud to the far north."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20473": "/rooms/20476/wayto/stringproc-20473.rb",
+      "20477": "/rooms/20476/wayto/stringproc-20477.rb"
+    },
+    "timeto": {
+      "20473": 2,
+      "20477": 2
+    }
+  }
+}

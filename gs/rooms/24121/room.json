@@ -1,0 +1,24 @@
+{
+  "checksum": "e5d9832d5668f2055f5285d36bb793b9",
+  "room": {
+    "id": 24121,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "A single torch sputters in its rusted sconce, providing just enough light to make way through this narrow corridor.  Thick, spongy moss clings to the limestone walls, muffling any sound.  A narrow ledge can be seen along the western wall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24120": "jump",
+      "24122": "north"
+    },
+    "timeto": {
+      "24120": 0.2,
+      "24122": 0.2
+    }
+  }
+}

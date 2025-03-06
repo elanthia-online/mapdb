@@ -1,0 +1,24 @@
+{
+  "checksum": "1777668517cf9c0c16903fcde27759e3",
+  "room": {
+    "id": 23826,
+    "title": [
+      "[The Viridian Coil, Hallway]"
+    ],
+    "description": [
+      "Dimly lit, this narrow hallway is lined by dirty oil lanterns that hang at irregular intervals down the hall.  Thick dust and cobwebs collect on the drapes, this area of the tavern seeming a bit more neglected than others.  A thick black oak door stands at the end of the hall, while a small bronze-banded door is set into a small alcove to one side."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23827": "go bronze-banded door",
+      "23828": "go black door"
+    },
+    "timeto": {
+      "23827": 0.2,
+      "23828": 0.2
+    }
+  }
+}

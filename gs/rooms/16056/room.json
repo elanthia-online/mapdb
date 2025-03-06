@@ -1,0 +1,42 @@
+{
+  "checksum": "3d673800e43d7b5cd8187c76a7d8a6de",
+  "room": {
+    "id": 16056,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "The wide-planked pine floor is worn and scuffed in the middle.  The lower third of the walls are lined with pale green ceramic tiles.  A brass lantern hangs from the ceiling.  The air smells of dust and mold."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11237": "west",
+      "11238": "south",
+      "11240": "east",
+      "16058": "north"
+    },
+    "timeto": {
+      "11237": 0.2,
+      "11238": 0.2,
+      "11240": 0.2,
+      "16058": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377205
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      192,
+      520,
+      202,
+      530
+    ]
+  }
+}

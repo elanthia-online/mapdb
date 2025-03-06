@@ -1,0 +1,30 @@
+{
+  "checksum": "35f313d422af41f2127862dbeb5a9012",
+  "room": {
+    "id": 30654,
+    "title": [
+      "[Zul Logoth Hall, Lobby]"
+    ],
+    "description": [
+      "Streaming through cleverly constructed shafts, pale sunlight filters into the room, complementing the lobby's radiant torches.  Along two of the walls, benches have been masterfully carved from the rock and cushioned with several pillows.  Near each bench rests a stone stand with a flourescent toadstool on it."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9566": "go entryway",
+      "30655": "north"
+    },
+    "timeto": {
+      "9566": 0.2,
+      "30655": 0.2
+    },
+    "tags": [
+      "mho hall clerk"
+    ],
+    "uid": [
+      856003
+    ]
+  }
+}

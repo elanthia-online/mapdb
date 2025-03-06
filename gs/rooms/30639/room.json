@@ -1,0 +1,29 @@
+{
+  "checksum": "f26586f25602d90900499741065778b4",
+  "room": {
+    "id": 30639,
+    "title": [
+      "[Landing Hall, Passageway]"
+    ],
+    "description": [
+      "Four polished gold lanterns flicker lazily, providing ample light and drawing attention to a splendid watercolor hanging on the western wall.  Sounds from the main lobby are amplified here, echoing and reverberating in the spacious passage, providing the illusion that dozens of people are speaking at once.  In the north wall is an elegantly carved oak door, while the south wall contains a beveled arch."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30633": "east",
+      "30640": "go arch",
+      "30641": "go door"
+    },
+    "timeto": {
+      "30633": 0.2,
+      "30640": 0.2,
+      "30641": 0.2
+    },
+    "uid": [
+      853002
+    ]
+  }
+}

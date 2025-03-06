@@ -1,0 +1,49 @@
+{
+  "checksum": "5d660562d8d99418010e05a858d9e8ec",
+  "room": {
+    "id": 11134,
+    "title": [
+      "[River Tunnels]"
+    ],
+    "description": [
+      "The tunnel here levels off to the east and a side passage leads sharply down.  The distant sounds of the river can be faintly heard as echoes along with a mysterious slurping sound that sends shivers up your spine and sets the short hairs on your neck standing straight up."
+    ],
+    "paths": [
+      "Obvious exits: east, west, down"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11123": "west",
+      "11135": "east",
+      "11138": "down"
+    },
+    "timeto": {
+      "11123": 0.2,
+      "11135": 0.2,
+      "11138": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103016
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3720,
+      611,
+      3758,
+      650
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "9e2ada9857507108e8c12a719b45d9bc",
+  "room": {
+    "id": 18380,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "From here, buildings can be seen, all constructed of wood and stone, as the path begins to fork.  The fence continues to follow along at the edge of the path, splitting itself off into different directions to follow the walkway."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18381": "west",
+      "18388": "southeast",
+      "18389": "northeast"
+    },
+    "timeto": {
+      "18381": 0.2,
+      "18388": 0.2,
+      "18389": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "73a0f24440436b5d15b852a2aa3eb9d4",
+  "room": {
+    "id": 3846,
+    "title": [
+      "[Ta'Illistim Gaol, War Room]"
+    ],
+    "description": [
+      "A massive table surrounded by several worn chairs serves as the centerpiece of this room.  The surface of the table is covered with numerous maps and sketches; more maps, dotted with small pins of different colors, hang all over the walls.  Several large cabinets stand sentry here, each fitted with many doors and drawers.  Opposite the heavy tanik door opening into this room is a darkened niche lit by a flickering candle."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3847": "go niche",
+      "13182": "go door"
+    },
+    "timeto": {
+      "3847": 0.2,
+      "13182": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13118005
+    ]
+  }
+}

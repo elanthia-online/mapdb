@@ -1,0 +1,40 @@
+{
+  "checksum": "13b08350c95310fbe3435589217b5d1b",
+  "room": {
+    "id": 5954,
+    "title": [
+      "[Victory Road]"
+    ],
+    "description": [
+      "A decaying log lies off to the side of the road.  It provides shelter for some small furry animals that have made it their home.  Their high-pitched mewling gives away their hiding spot.  A gentle breeze sends tiny particles of dirt and dust sailing through the air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Victory Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5953": "northeast",
+      "5955": "south"
+    },
+    "timeto": {
+      "5953": 0.2,
+      "5955": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14004005
+    ],
+    "image": "en-victory-1264234799.png",
+    "image_coords": [
+      936,
+      585,
+      946,
+      595
+    ]
+  }
+}

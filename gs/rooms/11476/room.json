@@ -1,0 +1,50 @@
+{
+  "checksum": "fb876ef142a24977436e2abf13770939",
+  "room": {
+    "id": 11476,
+    "title": [
+      "[Maelstrom Bay, Under Water]"
+    ],
+    "description": [
+      "Light green water above, deep green water below, green water all around. Organ-pipe sponges grow among the knotted rockweed on the rocky wall to the northeast.  Overhead, the shimmering surface of the bay rolls sinuously."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, southwest, west, northwest, up, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11453": "/rooms/11476/wayto/stringproc-11453.rb",
+      "11469": "/rooms/11476/wayto/stringproc-11469.rb",
+      "11472": "/rooms/11476/wayto/stringproc-11472.rb",
+      "11475": "/rooms/11476/wayto/stringproc-11475.rb",
+      "11477": "/rooms/11476/wayto/stringproc-11477.rb",
+      "11479": "/rooms/11476/wayto/stringproc-11479.rb",
+      "16121": "/rooms/11476/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11453": 3,
+      "11469": 2,
+      "11472": 2,
+      "11475": 2,
+      "11477": 3,
+      "11479": 2,
+      "16121": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304131
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      788,
+      1180,
+      798,
+      1190
+    ]
+  }
+}

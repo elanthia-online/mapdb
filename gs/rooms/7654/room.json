@@ -1,0 +1,39 @@
+{
+  "checksum": "c6fb7dfde361efd25749a3b8dc1c0bca",
+  "room": {
+    "id": 7654,
+    "title": [
+      "[Beach Area, Small Cave]"
+    ],
+    "description": [
+      "Water from the high tide has left numerous puddles on the floor of this low, cramped cave.  The air has a stale, moldy odor, possibly coming from the decaying patches of bladderwrack that cover some of the rocks.  A dark narrow tunnel leads off to the west."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7604": "go crevice",
+      "7655": "west"
+    },
+    "timeto": {
+      "7604": 0.2,
+      "7655": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84400
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      1123,
+      385,
+      1133,
+      395
+    ]
+  }
+}

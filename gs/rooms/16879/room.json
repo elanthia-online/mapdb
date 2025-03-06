@@ -1,0 +1,29 @@
+{
+  "checksum": "af25f15cf29dfb40e7332f3509a0f198",
+  "room": {
+    "id": 16879,
+    "title": [
+      "[Notta's General Store]"
+    ],
+    "description": [
+      "Beneath an ale keg mosaic ceiling, an etched invar mining mural hangs on one of the dark invar-traced walls.  A giant invar-bound chest sits in one corner while an overturned mining cart rests on the black marble floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9425": "out",
+      "16886": "east",
+      "16887": "north"
+    },
+    "timeto": {
+      "9425": 0.2,
+      "16886": 0.2,
+      "16887": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

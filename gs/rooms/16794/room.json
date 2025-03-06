@@ -1,0 +1,51 @@
+{
+  "checksum": "fa1dafe2f8ec6a26904500161d095361",
+  "room": {
+    "id": 16794,
+    "title": [
+      "[Hall of the Dead, Debtors Vault]"
+    ],
+    "description": [
+      "The dried blood that covers almost every inch of this vault raises a silent scream within you.  All of the corpses have been hacked into small pieces and the various parts were packed into the slots made into the walls."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4170": "northeast",
+      "4171": "north",
+      "16795": "south",
+      "16797": "east"
+    },
+    "timeto": {
+      "4170": 0.2,
+      "4171": 0.2,
+      "16795": 0.2,
+      "16797": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138113
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      887,
+      863,
+      895,
+      871
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "186c4e47c4f7959c1831e016c49684fd",
+  "room": {
+    "id": 21346,
+    "title": [
+      "[Sylvanfair, Short Hallway]"
+    ],
+    "description": [
+      "This short hallway leads to the private lockers of the House members.  The floor is actually the smooth living wood of the tree, complete with the occasional burl or knothole."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, southwest, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21330": "southwest",
+      "21347": "go curtained opening",
+      "21348": "west",
+      "21349": "south",
+      "21350": "southeast"
+    },
+    "timeto": {
+      "21330": 0.2,
+      "21347": 0.2,
+      "21348": 0.2,
+      "21349": 0.2,
+      "21350": 0.2
+    },
+    "tags": [
+      "sylvanfair locker",
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211035
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      644,
+      253,
+      685,
+      294
+    ]
+  }
+}

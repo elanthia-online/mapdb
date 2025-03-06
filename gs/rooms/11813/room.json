@@ -1,0 +1,43 @@
+{
+  "checksum": "405937b4f5f8cb741aead18690b0dff3",
+  "room": {
+    "id": 11813,
+    "title": [
+      "[Ta'Faendryl Approach]"
+    ],
+    "description": [
+      "A cobblestone road swings in a wide arc northeast and west.  Many of the stones are missing, but for the most part the road is still level and easily traveled.  A huge mound of mud rises just to the southwest and extends to the west as far as the eye can see.  The area is eerily quiet, as if no life of any kind resides here.  A few dead trees, now petrified, rise into the sky in bleak silhouette, but the earth has a scorched look to it, and the usual underbrush seems to have retreated."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10835": "go portal",
+      "11814": "west",
+      "11815": "northeast"
+    },
+    "timeto": {
+      "10835": 120,
+      "11814": 0.2,
+      "11815": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17000018
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      596,
+      1106,
+      606,
+      1116
+    ]
+  }
+}

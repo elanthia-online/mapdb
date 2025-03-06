@@ -1,0 +1,55 @@
+{
+  "checksum": "26003f1e1b4ea67a86df3a5e39d80811",
+  "room": {
+    "id": 25775,
+    "title": [
+      "[Turtle Island, Docks]"
+    ],
+    "description": [
+      "Piled high with rocks, the island resembles a quarry that was lost at sea, rather than an actual land mass.  Roughened planks are nailed to long support poles to create a wide dock that is surrounded by several whitewashed pedal boats.  Rushing at the shore and splashing over the rocks into the body of the island, the persistent waves make walking through the island difficult."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "riparian",
+    "wayto": {
+      "25774": "go pedal boats",
+      "25776": "jump northeast",
+      "25779": "jump southeast",
+      "25784": "east"
+    },
+    "timeto": {
+      "25774": 0.2,
+      "25776": 0.2,
+      "25779": 0.2,
+      "25784": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "stalk of cattail",
+      "murdroot",
+      "wavepetal blossom",
+      "talneo root",
+      "meta:forage-sensed",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3223921
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1841,
+      2580,
+      1881,
+      2620
+    ],
+    "check_location": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "8cf6f4a80d2fee46ebc9bdd22bdac682",
+  "room": {
+    "id": 2439,
+    "title": [
+      "[Clovertooth Hall, Lockers]"
+    ],
+    "description": [
+      "A long hallway stretches off to the east, leading to the public locker rooms.  Various clerks rush about, shuffling paperwork and directing visitors to the offices to the west.  A large sign hangs on the south wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2429": "west",
+      "2440": "east"
+    },
+    "timeto": {
+      "2429": 0.2,
+      "2440": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ],
+    "image": "imt-clovertooth_hall-1546618992.png",
+    "image_coords": [
+      918,
+      817,
+      1018,
+      885
+    ]
+  }
+}

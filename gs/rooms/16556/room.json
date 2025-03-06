@@ -1,0 +1,28 @@
+{
+  "checksum": "2493a80e0595c51b547bac528bd6f228",
+  "room": {
+    "id": 16556,
+    "title": [
+      "[Jenieca's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, out"
+    ],
+    "wayto": {
+      "12270": "out",
+      "16368": "north",
+      "16666": "northeast"
+    },
+    "timeto": {
+      "12270": 0.2,
+      "16368": 0.2,
+      "16666": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

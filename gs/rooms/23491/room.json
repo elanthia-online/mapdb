@@ -1,0 +1,33 @@
+{
+  "checksum": "a1d070c6c4a8428888cd0db3d48c2380",
+  "room": {
+    "id": 23491,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "Cold water splashes up around you, and you are caught in the midst of waves that slosh against one another near the mouth of Darkstone Bay.  A single buoy floats in the water, its red paint faded and dull.  Figures moving along the docks are tiny from this vantage point, an indication that the nearest land is quite a swim away."
+    ],
+    "paths": [
+      "Obvious paths: north, west, down"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19067": "swim west",
+      "23425": "swim down",
+      "23435": "swim north"
+    },
+    "timeto": {
+      "19067": 2,
+      "23425": 2,
+      "23435": 2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      524,
+      529,
+      561,
+      567
+    ]
+  }
+}

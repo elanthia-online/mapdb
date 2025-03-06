@@ -1,0 +1,41 @@
+{
+  "checksum": "ea473c7d52627f5f1a39218003398ffe",
+  "room": {
+    "id": 19657,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "A maze of stalagmites prevents travel in any direction except to the southeast.  Looming above you is the steep, and quite unclimbable, wall of this narrow underground canyon.  Spanning the breach far above you is a narrow suspension bridge."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19656": "southeast",
+      "20012": "/rooms/19657/wayto/stringproc-20012.rb"
+    },
+    "timeto": {
+      "19656": 0.2,
+      "20012": 15000
+    },
+    "tags": [
+      "lockpick:door:-125",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11217
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1109,
+      1200,
+      1120,
+      1210
+    ]
+  }
+}

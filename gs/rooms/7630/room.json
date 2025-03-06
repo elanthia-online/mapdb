@@ -1,0 +1,43 @@
+{
+  "checksum": "053c08445ca3ebe1eb38ebf0ce292449",
+  "room": {
+    "id": 7630,
+    "title": [
+      "[Rocky Shore, Massive Boulder]"
+    ],
+    "description": [
+      "As you scramble and claw your way along the crevices, you dislodge several bird's nests.  One at least is still occupied and the owner gives vent to a raucous screeching that makes your ears ring as it echoes from the cliffs behind you."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "7629": "down",
+      "7631": "up"
+    },
+    "timeto": {
+      "7629": 0.2,
+      "7631": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "broken twig",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84155
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      358,
+      611,
+      368,
+      621
+    ]
+  }
+}

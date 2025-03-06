@@ -1,0 +1,43 @@
+{
+  "checksum": "3d87ad4c2645af4924f5c17d459bff67",
+  "room": {
+    "id": 11101,
+    "title": [
+      "[Krol Ship, Corridor]"
+    ],
+    "description": [
+      "This corridor extends fore and aft.  An ornate archway leads into the large wardroom aft of here, while the corridor continues forward to the south."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11098": "south",
+      "11102": "go starboard door",
+      "11103": "go port door",
+      "11104": "go archway"
+    },
+    "timeto": {
+      "11098": 0.2,
+      "11102": 0.2,
+      "11103": 0.2,
+      "11104": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26015
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3967,
+      1304,
+      3990,
+      1327
+    ]
+  }
+}

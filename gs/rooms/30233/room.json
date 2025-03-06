@@ -1,0 +1,41 @@
+{
+  "checksum": "7a341d0a5f19e315935b6c5de6b12c03",
+  "room": {
+    "id": 30233,
+    "title": [
+      "[North Dock, Salty Helga Pier]"
+    ],
+    "description": [
+      "Several coils of rope as thick as a troll king's arms are stacked at regular intervals along the roughened teak pier.  Cork and canvas bumpers pad each docking slip, and the soft sound of waves slapping against wooden support posts fills the air.  A carved driftwood sign reads, \"Salty Helga Pier - Slips 11-15.\""
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30232": "west",
+      "30234": "east"
+    },
+    "timeto": {
+      "30232": 0.2,
+      "30234": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7122008
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      405,
+      512,
+      435,
+      540
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "4cebe15bfed778befb472a57f179a198",
+  "room": {
+    "id": 10464,
+    "title": [
+      "[Guardian Keep, Grassy Sward]"
+    ],
+    "description": [
+      "The tall outer wall on the western side of this grassy courtyard joins up with the massive inner wall of the keep.  The presence of militia can be seen wandering around between the many tents and kiosks that have been set up in this area.",
+      "The tall outer wall on the western side of this grassy courtyard joins up with the massive inner wall of the keep.  The presence of militia can be seen wandering the moonlit shadows that exist between the many tents and kiosks that have been set up in this area."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "",
+    "terrain": "grassland",
+    "wayto": {
+      "10461": "east",
+      "10463": "south",
+      "15380": "go watered pavilion",
+      "15514": "go simple shop",
+      "18808": "go tent"
+    },
+    "timeto": {
+      "10461": 0.2,
+      "10463": 0.2,
+      "15380": 0.2,
+      "15514": 0.2,
+      "18808": 0.2
+    },
+    "tags": [
+      "white lily",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-05",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      738015
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      747,
+      607,
+      765,
+      627
+    ]
+  }
+}

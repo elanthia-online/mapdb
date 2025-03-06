@@ -1,0 +1,40 @@
+{
+  "checksum": "fff6d233f81d625a6694e250002c013c",
+  "room": {
+    "id": 21872,
+    "title": [
+      "[Talador, Silver Lane]"
+    ],
+    "description": [
+      "To the northeast and southeast the East Circle District opens up, lined with shops and colorful pavilions.  Sunlight gleams off the armor of the city's guards while they patrol the area.",
+      "To the northeast and southeast the Eastern Circle District opens up, lined with shops and colorful pavilions.  Moonlight gleams off the armor of the city's guards while they patrol the area."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southeast, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21870": "south",
+      "21873": "go blue wagon",
+      "21874": "southeast",
+      "21879": "northeast",
+      "21882": "north",
+      "22019": "go oak wagon"
+    },
+    "timeto": {
+      "21870": 0.2,
+      "21873": 0.2,
+      "21874": 0.2,
+      "21879": 0.2,
+      "21882": 0.2,
+      "22019": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      253,
+      214,
+      279,
+      240
+    ]
+  }
+}

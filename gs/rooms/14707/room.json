@@ -1,0 +1,32 @@
+{
+  "checksum": "acb09efa2d74005bddbc6473b4533ad4",
+  "room": {
+    "id": 14707,
+    "title": [
+      "[Stormbrow Hall of Dedication]"
+    ],
+    "description": [
+      "Torches held by wrought iron sconces hang evenly spaced on this room's continuous, circular wall.  The marble floor is polished to a superior sheen, which reflects the torchlight to further brighten the room.  In the exact center stands a low and wide marble platform, bearing the full weight of a large stone slab."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Stormbrow Gallery",
+    "wayto": {
+      "12574": "west",
+      "14708": "go curtain",
+      "14709": "east"
+    },
+    "timeto": {
+      "12574": 0.2,
+      "14708": 0.2,
+      "14709": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3013002
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "3c6b0060153fc49fd8ee409d7de8506c",
+  "room": {
+    "id": 30116,
+    "title": [
+      "[Mist Harbor Mail Office]"
+    ],
+    "description": [
+      "The bright sunlight which trickles in from the small dusty window along the far wall dances across the warped driftwood floorboards of this small mail office.  A hurried mail clerk rushes back and forth across the mahogany front counter, stuffing envelopes and packages in various awaiting cubbyholes, seemingly oblivious to the rest of the world.  In the corner of the room, a nearly featherless macaw sits in a tarnished silver cage releasing a shrill squawk with each new customer who enters the building."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19585": "out",
+      "30718": "/rooms/30116/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "19585": 0.2,
+      "30718": "/rooms/30116/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin guide postoffice",
+      "urchin-access"
+    ],
+    "uid": [
+      3204305
+    ]
+  }
+}

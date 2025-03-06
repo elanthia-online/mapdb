@@ -1,0 +1,53 @@
+{
+  "checksum": "7fce8f005258c99b92b4e8476437769b",
+  "room": {
+    "id": 6701,
+    "title": [
+      "[Gnome Mine, Tunnels]"
+    ],
+    "description": [
+      "This area is riddled with small tunnels that lead off in all directions.  Apparently this is the central room for a myriad of small mining shafts.  An overturned cart on the side of the room looks like it was used to pull ore out of these small shafts at one time.  You hear the steady ring of metal on stone coming from deep within one of these small holes.  The main path through the caves leads west and northeast from here.  To the southwest you see a much larger cavern."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, west"
+    ],
+    "location": "the Upper Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6699": "southwest",
+      "6700": "west",
+      "6702": "northeast"
+    },
+    "timeto": {
+      "6699": 0.2,
+      "6700": 0.2,
+      "6702": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2121022
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      153,
+      1338,
+      163,
+      1348
+    ]
+  }
+}

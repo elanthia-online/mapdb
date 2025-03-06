@@ -1,0 +1,39 @@
+{
+  "checksum": "a466baa31981283d9922e1aadbe09462",
+  "room": {
+    "id": 7691,
+    "title": [
+      "[Underground Ruin, West Wing]"
+    ],
+    "description": [
+      "The stones in the floor are cracked and splintered looking as if some huge thing had tried to punch its way in from underneath.  The walls here show signs of great stress and the roof looks as if it will cave in at any moment."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7683": "northeast",
+      "7692": "west"
+    },
+    "timeto": {
+      "7683": 0.2,
+      "7692": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68002
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      322,
+      1151,
+      332,
+      1161
+    ]
+  }
+}

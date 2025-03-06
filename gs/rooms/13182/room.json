@@ -1,0 +1,37 @@
+{
+  "checksum": "932ef4cd43aea780595af9fbbbf2d472",
+  "room": {
+    "id": 13182,
+    "title": [
+      "[Ta'Illistim Gaol, Vestibule]"
+    ],
+    "description": [
+      "More glass cases line the walls in this small room.  A few benches devoid of any cushioning serve as uncomfortable resting places for those waiting for an audience with the city guardsmen.  A heavy tanik door stenciled with a crescent moon over an eight-pointed star leads into an office, and on the opposite wall is a set of sturdy brass-bound oak doors.  A massive glaes portcullis leads into the prison proper, while a black basalt archway opens into the entry hall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3748": "go oak doors",
+      "3846": "go heavy door",
+      "13181": "go archway"
+    },
+    "timeto": {
+      "3748": 0.2,
+      "3846": 0.2,
+      "13181": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13118004
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "33917fde6215c30ccab52ccdb682d897",
+  "room": {
+    "id": 17526,
+    "title": [
+      "[Feymist Cemetery, Approach]"
+    ],
+    "description": [
+      "Standing before the tall iron fencing is an old boarded-up hut.  Some dried-out bramble sits in a heap, covering a pile of old shovels.  A rusted-out iron gate leads north farther into the cemetery, and on the eastern side of the trail is a passage heading toward the Feywrot Mire."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Feymist Cemetery",
+    "wayto": {
+      "17520": "go passage",
+      "17554": "go gate",
+      "25344": "go hut"
+    },
+    "timeto": {
+      "17520": 0.2,
+      "17554": 0.2,
+      "25344": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      219,
+      1086,
+      227,
+      1094
+    ]
+  }
+}

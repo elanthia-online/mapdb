@@ -1,0 +1,44 @@
+{
+  "checksum": "4b45abde17fcce654cc4b0bebab7d91c",
+  "room": {
+    "id": 25210,
+    "title": [
+      "[Dark Cavern, Underground Lake]"
+    ],
+    "description": [
+      "The narrow passageway ends abruptly, the walls stretching out to create a yawning, expansive room.  A large lake spreads through the darkness of the cavern, the sounds of lapping water echoing from the distance belying the true size of the chamber.  A faint mist rises from the glassy surface of the lake, the fluctuating miasma holding the foul scent of rot as it trails along the ground."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25209": "south",
+      "25218": "touch crystalline tile"
+    },
+    "timeto": {
+      "25209": 0.2,
+      "25218": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "ayana'al leaf",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4900308
+    ]
+  }
+}

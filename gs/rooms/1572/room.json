@@ -1,0 +1,60 @@
+{
+  "checksum": "3007c2bdd7a4d9cc9dc765a7508c3ce9",
+  "room": {
+    "id": 1572,
+    "title": [
+      "[Solhaven, South Market]"
+    ],
+    "description": [
+      "Crowded with booths, merchants hawking their wares and customers chatting and arguing under the glaes-lensed street lamps, the market is filled with an almost frantic air.  Even with the thinning of the crowds that nightfall brings, the market is still a noisy place.",
+      "Crowded with booths, merchants hawking their wares, and customers chatting and arguing under the glaes-lensed street lamps, the market is filled with an almost frantic air.  Even with the thinning of the crowds that nightfall brings, the market is still a noisy place.",
+      "Crowded with booths, merchants hawking their wares, and customers chatting and arguing, the market is filled with an almost frantic air.  With the voices and sound of footfalls reflected off the wooden storefronts, and the resonance of the planking underfoot, it's hard to recall a noisier market."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1551": "northwest",
+      "1552": "north",
+      "1554": "northeast",
+      "1571": "east",
+      "1573": "southeast",
+      "1574": "south",
+      "1575": "southwest",
+      "1576": "west",
+      "30710": "/rooms/1572/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1551": 0.2,
+      "1552": 0.2,
+      "1554": 0.2,
+      "1571": 0.2,
+      "1573": 0.2,
+      "1574": 0.2,
+      "1575": 0.2,
+      "1576": 0.2,
+      "30710": "/rooms/1572/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "meta:trashcan:ora-banded driftwood barrel",
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902093
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      636,
+      1395,
+      660,
+      1419
+    ]
+  }
+}

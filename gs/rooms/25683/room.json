@@ -1,0 +1,30 @@
+{
+  "checksum": "74b748a0c268d8c6443092990c8687d3",
+  "room": {
+    "id": 25683,
+    "title": [
+      "[House Sovyn, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "21326": "go beaded curtain",
+      "28258": "east"
+    },
+    "timeto": {
+      "21326": 0.2,
+      "28258": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sovyn"
+    ],
+    "uid": [
+      5001257
+    ]
+  }
+}

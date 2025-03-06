@@ -1,0 +1,41 @@
+{
+  "checksum": "b539b60620905598da878c72c7aa2543",
+  "room": {
+    "id": 10424,
+    "title": [
+      "[Helgreth's Tavern, Taproom]"
+    ],
+    "description": [
+      "Boisterous laughter erupts often from the congregation of imbibing patrons seated at Helgreth's tables.  A scattering of flickering beeswax candles glimmer off the numerous brass fixtures and pristine inverted glassware suspended above the polished bar.  In their starched uniforms, off-duty military officers traverse the tumult of the taproom as they come and go from a plush sanguine velvet curtain marked by a heraldic Vaalorian buckler overhead."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "3498": "out",
+      "10425": "go stair",
+      "28270": "go curtain",
+      "28271": "/rooms/10424/wayto/stringproc-28271.rb",
+      "28272": "/rooms/10424/wayto/stringproc-28272.rb",
+      "28273": "/rooms/10424/wayto/stringproc-28273.rb",
+      "28274": "/rooms/10424/wayto/stringproc-28274.rb",
+      "28275": "/rooms/10424/wayto/stringproc-28275.rb",
+      "28276": "/rooms/10424/wayto/stringproc-28276.rb"
+    },
+    "timeto": {
+      "3498": 0.2,
+      "10425": 0.2,
+      "28270": 0.2,
+      "28271": 0.2,
+      "28272": 0.2,
+      "28273": 0.2,
+      "28274": 0.2,
+      "28275": 0.2,
+      "28276": 0.2
+    },
+    "uid": [
+      14102101
+    ]
+  }
+}

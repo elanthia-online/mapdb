@@ -1,0 +1,46 @@
+{
+  "checksum": "4bbb901a8aa00b989b5e34e93d6d48e8",
+  "room": {
+    "id": 15,
+    "title": [
+      "[Ta'Illistim, Erissian Var]"
+    ],
+    "description": [
+      "Owls nesting in the library's courtyard trees send their soft hoots floating over the stonework wall and across the cobbled var.  To the south, the bustle of Fraendel Court awaits the intrepid adventurer.",
+      "Birds nesting in the library's courtyard trees send their soft songs floating over the stonework wall and across the cobbled var.  To the south, the bustle of Fraendel Court awaits the intrepid adventurer.",
+      "Twists of green vines and draped white roses are looped over the wall surrounding the grounds of the Library Aies, tumbling down to brush the edges of the cobbled var.  The top of the marble building is visible over the wall, its facade brightly lit.",
+      "Twists of green vines and draped white roses are looped over the wall surrounding the grounds of the Library Aies, tumbling down to brush the edges of the cobbled var.  The top of the marble building is visible over the wall, its facade gleaming."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14": "west",
+      "16": "east",
+      "527": "south"
+    },
+    "timeto": {
+      "14": 0.2,
+      "16": 0.2,
+      "527": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100089
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      672,
+      546,
+      694,
+      566
+    ]
+  }
+}

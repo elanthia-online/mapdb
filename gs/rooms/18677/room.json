@@ -1,0 +1,74 @@
+{
+  "checksum": "ef8764b5501bbd1099390676f6900d19",
+  "room": {
+    "id": 18677,
+    "title": [
+      "[River's Rest, Underbridge]"
+    ],
+    "description": [
+      "Tall cattails and water grasses take up much of the space beneath the drawbridge above, and beyond them the Tempest River flows swiftly.  Wavering shadows in the shallower waters indicate potential meals to the enterprising fishermen, while the soothing sound of moving water -- a chorus of gurgles and chuckles -- fills the air.  A cast iron fish sits forelonely before a rickety shack nestled against the underside of the bridge and the bank."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "moist",
+    "terrain": "riparian",
+    "wayto": {
+      "11006": "go path",
+      "11749": "/rooms/18677/wayto/stringproc-11749.rb",
+      "18678": "go shack",
+      "30711": "/rooms/18677/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "11006": 0.2,
+      "11749": 300,
+      "18678": 0.2,
+      "30711": "/rooms/18677/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "striped heart mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "water chestnut",
+      "stalk of cattail",
+      "stalk of bluebells",
+      "wild chokecherry",
+      "bright red cranberry",
+      "kylan berry",
+      "murdroot",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "talneo root",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "bright orange",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101039
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2216,
+      1564,
+      2240,
+      1586
+    ]
+  }
+}

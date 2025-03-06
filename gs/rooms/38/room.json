@@ -1,0 +1,42 @@
+{
+  "checksum": "511079c39f716908b40bc5b8f6294e6d",
+  "room": {
+    "id": 38,
+    "title": [
+      "[Ta'Illistim, Inner Portcullis]"
+    ],
+    "description": [
+      "The inner portcullis hangs above, raised to its highest limit.  A large enamelled sculpture depicting the House Illistim coat of arms is mounted to the ironwork above the portcullis, attached with intertwining vines and dully gleaming metalworked glyphs.  Two city guards stand rigidly at attention on either side of the tunnel's mouth.",
+      "The inner portcullis hangs above, raised to its highest limit.  A large enameled sculpture depicting the House Illistim coat of arms is mounted to the metalwork above the inner portcullis, its bright sapphire blue standing out against the paler silver of the surrounding stonework."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "37": "go portcullis",
+      "39": "south"
+    },
+    "timeto": {
+      "37": 0.2,
+      "39": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13017100
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1615,
+      867,
+      1638,
+      888
+    ]
+  }
+}

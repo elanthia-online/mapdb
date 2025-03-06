@@ -1,0 +1,26 @@
+{
+  "checksum": "5823a802f17e9ee4f8ff1447f3603a12",
+  "room": {
+    "id": 24147,
+    "title": [
+      "[Necropolis, Narrow Ledge]"
+    ],
+    "description": [
+      "The deafening sound of a waterfall can be heard to the north.  The ledge ends abruptly, and the only way to continue is to leap into the depths below."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24146": "north",
+      "24148": "jump",
+      "24168": "/rooms/24147/wayto/stringproc-24168.rb"
+    },
+    "timeto": {
+      "24146": 0.2,
+      "24148": 0.2,
+      "24168": 0.4
+    }
+  }
+}

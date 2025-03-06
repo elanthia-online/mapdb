@@ -1,0 +1,47 @@
+{
+  "checksum": "e4a6ace7403dc9d201a9c4dc5a18913b",
+  "room": {
+    "id": 678,
+    "title": [
+      "[Sylvarraend, Mill Pond]"
+    ],
+    "description": [
+      "Carefully laid cobblestones melt into grass as the trail abruptly shifts, where woodlands meet the thriving hamlet.  A small wooden mill stands nearby, its waterwheel whirring busily as the water gurgles and sings its way through the buckets towards the pond's surface.  Several ducks float in the calmer areas of the millpond, basking in the sun's rays as they angle through the trees.  Resting between a pair of oaks is a white pine shop surrounded by a garden of wildflowers.",
+      "Carefully laid cobblestones meet grass as the trail suddenly shifts from a woodland setting to a thriving hamlet.  A small wooden mill stands nearby, its waterwheel standing idle in the night.",
+      "Carefully laid cobblestones melt into grass as the trail abruptly shifts, where woodlands meet the thriving hamlet.  A small wooden mill stands nearby, its waterwheel whirring busily as the water gurgles and sings its way through the buckets towards the pond's surface.  Several ducks float in the calmer areas of the millpond, basking in the sun's rays as they angle through the trees."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the town of Sylvarraend",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "677": "southeast",
+      "679": "southwest",
+      "30714": "/rooms/678/wayto/stringproc-30714.rb",
+      "32674": "go pine shop"
+    },
+    "timeto": {
+      "677": 0.2,
+      "679": 0.2,
+      "30714": "/rooms/678/timeto/stringproc-30714.rb",
+      "32674": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access"
+    ],
+    "uid": [
+      13050006
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      384,
+      727,
+      420,
+      763
+    ]
+  }
+}

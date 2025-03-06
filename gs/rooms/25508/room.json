@@ -1,0 +1,30 @@
+{
+  "checksum": "ab46284398472af5c3b32a187776aab3",
+  "room": {
+    "id": 25508,
+    "title": [
+      "[The Firebird, Main Deck]"
+    ],
+    "description": [
+      "Framed by hanging curtains of burgundy velvet, a wide archway marks the forward end of the main deck.  It bears a rim of red brass and gold with a stylized phoenix of red lacquer at the zenith.  Nearby, a cross-hatched burnt sienna door breaks the paneled uniformity of the hallway's starboard wall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Aboard an Airship",
+    "wayto": {
+      "25506": "north",
+      "25511": "go archway"
+    },
+    "timeto": {
+      "25506": 0.2,
+      "25511": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      12101009
+    ]
+  }
+}

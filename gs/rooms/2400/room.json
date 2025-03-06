@@ -1,0 +1,55 @@
+{
+  "checksum": "d58d70b183af843d44154c42c41ba0f8",
+  "room": {
+    "id": 2400,
+    "title": [
+      "[Tavern Burrow, Ale Street]"
+    ],
+    "description": [
+      "A stucco well has attracted a small group of children, who drop stones into its depths and hoot with glee at each muffled splash.  Across the cobblestone street, an enterprising group of young toughs has erected a hoarbeam trestle table.  They work industriously at picking the chests and coffers of local adventurers, one lad sitting atop an old oak beer barrel.  Lighter cobbles on the road form the outline of a frothing tankard, and the nearest lamp posts have bases wrought in the shapes of dancing revelers.",
+      "Stucco seems the preferred building material of the Tavern Burrow residents.  The street has been newly cobbled, and the rough edges cause several people to nearly trip as they hurry along.  A stucco well attracts a group of children, who drop stones into it, then hoot with glee at the muffled splash."
+    ],
+    "paths": [
+      "Obvious paths: north, south, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2399": "south",
+      "2401": "northwest",
+      "2407": "north",
+      "30709": "/rooms/2400/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2399": 2.4,
+      "2401": 2.4,
+      "2407": 2.4,
+      "30709": "/rooms/2400/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "node",
+      "calmintha flower",
+      "supernode",
+      "meta:boxpool:npc:wry halfling trickster",
+      "locksmith pool",
+      "meta:forage-sensed",
+      "meta:boxpool:table:hoarbeam trestle table",
+      "meta:trashcan:old oak beer barrel",
+      "urchin guide locksmithpool",
+      "urchin-access",
+      "locksmithpool",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042214
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      403,
+      964,
+      439,
+      1000
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "checksum": "e56de5952fc97b3edb024474d7a6e72b",
+  "room": {
+    "id": 24668,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "No more than a couple of steps long, the corridor is well lit and relatively free of rubble or other signs of decay, except for small piles of recently turned over dirt.  Wooden beams support the earthen ceiling overhead, as large cracks run much of the length, caused by an encroaching root system.  Droplets of water trickle down the exposed tendrils, creating a slick path of mud beneath."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": false,
+    "wayto": {
+      "24666": "south"
+    },
+    "timeto": {
+      "24666": 0.2
+    },
+    "check_location": true
+  }
+}

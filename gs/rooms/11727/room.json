@@ -1,0 +1,41 @@
+{
+  "checksum": "b3366e9be4c3f51ba1e12d9552c21df3",
+  "room": {
+    "id": 11727,
+    "title": [
+      "[Marsh Keep, Dungeon Hallway]"
+    ],
+    "description": [
+      "The hallway ends with the intersection of another that runs east to west.  The paltry amount of available light comes from torches burning in the same directions and does nothing to reveal the source of a horrendous smell encompassing the area.  Elsewhere in the dungeon something roars loudly and hungerily, its bellows echoing off the stone walls.",
+      "The hallway ends with the intersection of another that runs east to west.  The paltry amount of available light comes from torches burning in the same directions and does nothing to reveal the source of a horrendous smell encompassing the area.  Elsewhere in the dungeon something roars loudly and hungrily, its bellows echoing off the stone walls."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Marsh Keep",
+    "wayto": {
+      "11726": "south",
+      "11728": "west",
+      "11744": "east"
+    },
+    "timeto": {
+      "11726": 0.2,
+      "11728": 0.2,
+      "11744": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376063
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      711,
+      401,
+      721,
+      411
+    ]
+  }
+}

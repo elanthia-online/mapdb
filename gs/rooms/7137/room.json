@@ -1,0 +1,48 @@
+{
+  "checksum": "df32b9d0ea7995ee2f2ee3aee6f95208",
+  "room": {
+    "id": 7137,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A really horrible-looking fungus clings to the walls in patches, fouling the still air until you wish you didn't have to breathe.  A rusty iron door is set into the east wall, and looks rather sturdy despite its obvious age."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7136": "go crack",
+      "7138": "go door",
+      "7139": "west",
+      "7145": "south"
+    },
+    "timeto": {
+      "7136": 0.2,
+      "7138": 0.2,
+      "7139": 0.2,
+      "7145": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41021
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1028,
+      502,
+      1038,
+      512
+    ]
+  }
+}

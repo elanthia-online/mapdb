@@ -1,0 +1,40 @@
+{
+  "checksum": "ab90555ad5a9a19b8bdf778c22a4ff96",
+  "room": {
+    "id": 3271,
+    "title": [
+      "[Ice Plains, Dark Cavern]"
+    ],
+    "description": [
+      "The passage here is long and narrow with several timbers in place to shore up the ceiling in several places.  The well-travelled floor is littered with tracks of some very large creatures but you can't quite identify them."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3265": "go open",
+      "3272": "north"
+    },
+    "timeto": {
+      "3265": 0.2,
+      "3272": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127014
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      343,
+      354,
+      353,
+      364
+    ]
+  }
+}

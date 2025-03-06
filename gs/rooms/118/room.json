@@ -1,0 +1,38 @@
+{
+  "checksum": "4568cb93e1942f38425750341f4f6634",
+  "room": {
+    "id": 118,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "The passageway is partially obstructed by a crumbling pile of rocks, shaken loose by some earthen calamity.  It is still possible to get through, but the damage proves that even in a structure as solid as this, time will take its toll."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "117": "north",
+      "119": "southeast"
+    },
+    "timeto": {
+      "117": 0.2,
+      "119": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300024
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      583,
+      763,
+      593,
+      773
+    ]
+  }
+}

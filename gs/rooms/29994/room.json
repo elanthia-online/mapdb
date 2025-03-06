@@ -1,0 +1,39 @@
+{
+  "checksum": "9d1d4ee374ca04b44de93642866da8bf",
+  "room": {
+    "id": 29994,
+    "title": [
+      "[Secret Tunnel, Dead End]"
+    ],
+    "description": [
+      "Grit swirls in the air, tossed by a whistling breeze that howls shrilly through a breach in the red stone wall to the east.  Flaking and ancient, paintings on the walls depict warlike figures in once-bright colors.  The wind is not quite enough to dispel the tang stale mead lingering in the area."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29993": "go wall",
+      "29996": "west"
+    },
+    "timeto": {
+      "29993": 0.2,
+      "29996": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503373
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      402,
+      759,
+      417,
+      773
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "b64fb007b12a80e94921b010c51f47e0",
+  "room": {
+    "id": 25107,
+    "title": [
+      "[Reim Settlement, Dungeon]"
+    ],
+    "description": [
+      "A rusted iron grate sits low on the wall, a steady drip of water falling from its moss-rimmed surface.  A dark and daunting cell door is all that remains at the end of the hallway.  Bent iron bars protrude from either side of the cell, as if something ravaged its way from within."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Settlement of Reim",
+    "wayto": {
+      "25105": "west",
+      "25108": "go door"
+    },
+    "timeto": {
+      "25105": 0.2,
+      "25108": 0.2
+    },
+    "uid": [
+      -7105140
+    ],
+    "image": "imt-Reim-1260914759.png",
+    "image_coords": [
+      274,
+      672,
+      287,
+      683
+    ]
+  }
+}

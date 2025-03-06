@@ -1,0 +1,54 @@
+{
+  "checksum": "af032d308aa51d89fb6b979d315af8ca",
+  "room": {
+    "id": 12225,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A marble wall stretches for some distance to either side of you.  In the center of the wall hangs a golden scale, with a small shelf on either side of it.  On each of the shelves lies a shiny razor and a white towel.  The bowls of the scales are spotless, although they have a slight coppery odor."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west",
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12225/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12225/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12225/wayto/stringproc-12152.rb",
+      "12224": "west",
+      "12226": "southeast"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12224": 0.2,
+      "12226": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568053
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      227,
+      1060,
+      235,
+      1068
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "455f2f93dc9076c2c7ec6409971ff9ea",
+  "room": {
+    "id": 25358,
+    "title": [
+      "[Delirium Manor, Back Porch]"
+    ],
+    "description": [
+      "A trio of hammocks webbed in white cotton sway gently with passing breezes.  Anchored by S-shaped hooks to the sturdy porch posts, they offer a relaxing spot for visitors and houseguests to enjoy the view.  Small tables placed beside them hold refreshments for young and old alike.  Wide porch steps lead down to an arched latticework trellis and offer access to the gardens beyond."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25357": "southwest",
+      "25359": "southeast",
+      "34027": "go trellis"
+    },
+    "timeto": {
+      "25357": 0.2,
+      "25359": 0.2,
+      "34027": 0.2
+    },
+    "uid": [
+      8100109
+    ]
+  }
+}

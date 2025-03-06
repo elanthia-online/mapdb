@@ -1,0 +1,42 @@
+{
+  "checksum": "d42dedf1845d6cb4d0ae7dcb59171784",
+  "room": {
+    "id": 16006,
+    "title": [
+      "[Coastal Cliffs, Waterfront]"
+    ],
+    "description": [
+      "The cliff rises steeply to the south above a wide swatch of dark sand.  Seaweed has been strewn among the rocks by an exceptionally high tide, and now lies drying in the sun as gulls search it for tidbits.  A row of cabins is nestled against the cliff, interspersed with a few gnarled trees."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "16005": "east",
+      "16007": "west"
+    },
+    "timeto": {
+      "16005": 0.2,
+      "16007": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "broken twig",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      700412
+    ],
+    "image": "wl-homes-2-1264234799.png",
+    "image_coords": [
+      243,
+      415,
+      261,
+      433
+    ]
+  }
+}

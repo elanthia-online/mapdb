@@ -1,0 +1,39 @@
+{
+  "checksum": "290af5b06545d43a4dd291f26384f24d",
+  "room": {
+    "id": 7871,
+    "title": [
+      "[Glatoph, Glacier]"
+    ],
+    "description": [
+      "This area is illuminated by some light source you can't identify.  The light glares on the ice, reflecting off the walls, floor and ceiling.  You squint, your eyes watering."
+    ],
+    "paths": [
+      "Obvious exits: northeast, up"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7870": "up",
+      "7872": "northeast"
+    },
+    "timeto": {
+      "7870": 0.2,
+      "7872": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35032
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      806,
+      376,
+      816,
+      386
+    ]
+  }
+}

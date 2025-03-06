@@ -1,0 +1,31 @@
+{
+  "checksum": "e7a698fe8a42eeca48b1f9fe7d874d28",
+  "room": {
+    "id": 17108,
+    "title": [
+      "[Orainissa's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor.",
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A Vornavian silk-lined display case sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9012": "out",
+      "17417": "east",
+      "17418": "north"
+    },
+    "timeto": {
+      "9012": 0.2,
+      "17417": 0.2,
+      "17418": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

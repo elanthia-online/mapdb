@@ -1,0 +1,34 @@
+{
+  "checksum": "24c8e93803e0083af59a084c77aa7402",
+  "room": {
+    "id": 16193,
+    "title": [
+      "[Beacon Hall, Rock Room]"
+    ],
+    "description": [
+      "This room appears to be unfinished.  Although it is encompassed on all four sides by stone walls, it lacks a ceiling, and sunlight streams in unhindered.  The floor is made up entirely of small rocks and pebbles, which crunch loudly underfoot."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16192": "/rooms/16193/wayto/stringproc-16192.rb",
+      "16194": "go door"
+    },
+    "timeto": {
+      "16192": 0.4,
+      "16194": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      509,
+      262,
+      556,
+      307
+    ]
+  }
+}

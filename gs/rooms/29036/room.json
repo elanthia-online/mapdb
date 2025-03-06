@@ -1,0 +1,40 @@
+{
+  "checksum": "621df7ca5ef8c5920c5820fd622d55da",
+  "room": {
+    "id": 29036,
+    "title": [
+      "[Kraken's Fall, First Pier]"
+    ],
+    "description": [
+      "Coils of rope and discarded buoys spill out of a large oak barrel that rests upon the smooth boards of the pier, the container positioned beneath a large white sign that reads \"Pier 1 - Slips 6-10.\"  Several steps lead down to a finger pier that has docking slips in it, each lined with cork buffer pads.  A gentle breeze filters through the air and carries with it the salty scent of the sea."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29035": "southwest",
+      "29037": "northeast"
+    },
+    "timeto": {
+      "29035": 0.2,
+      "29037": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118256
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      339,
+      637,
+      353,
+      650
+    ]
+  }
+}

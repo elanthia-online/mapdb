@@ -1,0 +1,64 @@
+{
+  "checksum": "0b67ed9923632f6585f7f651b7862b04",
+  "room": {
+    "id": 11612,
+    "title": [
+      "[Miasmal Forest, Old Road]"
+    ],
+    "description": [
+      "To the east, nightmarish trees loom over the fog-enshrouded road, their dead branches reaching out like great skeletal spiders trying to pull in their prey.  The thick, unnatural fog smells faintly of sulfur.  A weathered and faded sign hangs high over the road on a twisted piece of rusted wire."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, southwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "cold, damp",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11611": "southwest",
+      "11613": "southeast",
+      "11617": "east",
+      "11630": "/rooms/11612/wayto/stringproc-11630.rb",
+      "16122": "/rooms/11612/wayto/stringproc-16122.rb",
+      "22218": "/rooms/11612/wayto/stringproc-22218.rb"
+    },
+    "timeto": {
+      "11611": 0.2,
+      "11613": 0.2,
+      "11617": 0.2,
+      "11630": 1,
+      "16122": 0.4,
+      "22218": 1
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "wild gooseberry",
+      "stalk of cattail",
+      "small wild rose",
+      "soft white mushroom",
+      "aloeas stem",
+      "white hook mushroom",
+      "mistweed",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5003002
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      536,
+      627,
+      546,
+      637
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "8c211d64692202d07f8d480c5eacca64",
+  "room": {
+    "id": 32839,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Shades of golds and greens create beautiful patterns in the rich ramie silk carpet that blankets the polished tanik floor.  A flyrsilk ivory curtain and a sun-faded sailcloth curtain are draped on either side of the hallway with a marble hummingbird statue resting to the side of each.  Frosted crystal globes hang from the ceiling illuminating the area with a pale, flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32838": "west",
+      "32841": "east",
+      "32842": "north",
+      "33729": "go sailcloth curtain"
+    },
+    "timeto": {
+      "32838": 0.2,
+      "32841": 0.2,
+      "32842": 0.2,
+      "33729": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053302
+    ]
+  }
+}

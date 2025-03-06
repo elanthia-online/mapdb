@@ -1,0 +1,37 @@
+{
+  "checksum": "d247da2a49c32f33835a3d27277d7731",
+  "room": {
+    "id": 20640,
+    "title": [
+      "[Guttin' Goods]"
+    ],
+    "description": [
+      "Two circular windows provide an ample view of the dark wharf outside, with a handful of dockworkers laboring late into the evening.   Moonlight from the open doorway casts a sliver of silver light across the shop's floor, while dim lanterns supply a sufficient brightness to the area.  A scruffy half-krolvin shopkeeper leans upon a driftwood counter and seems to doze off more than once.  The weak scent of sea salt lingers in the shop.",
+      "Two circular windows provide an ample view of the wharf outside, with dockworkers loading and unloading a handful of ships in port.  Sunlight from the open doorway brightens the shop, light glinting off of an assortment of equipment lining a wide corner shelf.  A scruffy half-krolvin shopkeeper stands behind a driftwood counter, conversing with some customers browsing about.  The weak scent of sea salt lingers in the shop."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "248": "go doorway",
+      "20639": "northeast",
+      "33357": "go stairwell"
+    },
+    "timeto": {
+      "248": 0.2,
+      "20639": 0.2,
+      "33357": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "fishing shop"
+    ],
+    "uid": [
+      336100
+    ],
+    "check_location": false
+  }
+}

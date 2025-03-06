@@ -1,0 +1,38 @@
+{
+  "checksum": "4e6393526279079c59d489b5317306a7",
+  "room": {
+    "id": 11483,
+    "title": [
+      "[Maelstrom Bay, Shipwreck]"
+    ],
+    "description": [
+      "A deep layer of muck covers the curve of the starboard bulkhead underfoot.  Overhead, the arc of the port bulkhead is buckled and sprung.  A brass ship's lantern hangs at an improbable angle from what was once the ceiling.  The rotted remains of burlap bags, their contents long ago consumed by seawater and crustaceans, are scattered through the muck."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11482": "/rooms/11483/wayto/stringproc-11482.rb"
+    },
+    "timeto": {
+      "11482": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:underwater"
+    ],
+    "uid": [
+      304250
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      846,
+      1207,
+      856,
+      1217
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "ffd3726ebe0f970a84e09e2c28e1c829",
+  "room": {
+    "id": 13751,
+    "title": [
+      "[Quentan's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A Vornavian silk-lined display case sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "9015": "out",
+      "13758": "west",
+      "13759": "east"
+    },
+    "timeto": {
+      "9015": 0.2,
+      "13758": 0.2,
+      "13759": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

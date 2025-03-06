@@ -1,0 +1,33 @@
+{
+  "checksum": "f01700a2068a90d4d3099f5072fd1c63",
+  "room": {
+    "id": 13927,
+    "title": [
+      "[Lilly's Tavern, Patio]"
+    ],
+    "description": [
+      "Red brick is inlaid in a circular pattern starting at the center of the patio where a large brick firepit stands.  Semi-circular benches surround the pit, shaded by potted trees, offering an inviting place to sit and rest.  Fragrant jasmine is planted in four beds that occupy each corner of the patio, while a beautiful glaesine fountain sits near an arched doorway leading back inside the tavern."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the hamlet of Ravelin",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13926": "go doorway",
+      "13964": "east"
+    },
+    "timeto": {
+      "13926": 0.2,
+      "13964": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      14201101
+    ]
+  }
+}

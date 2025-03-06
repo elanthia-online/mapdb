@@ -1,0 +1,24 @@
+{
+  "checksum": "37b8ff923a6317d44b10814d21a4effa",
+  "room": {
+    "id": 29272,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Rhythmic and regular, waves crashing against the western wall echo throughout the corridor and jolt the unstable footing.  Small pools of water fill and empty with the ebb and flow of an unseen tide, its salty liquid threatening to drown candles placed along the eastern edge."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29268": "south",
+      "29269": "north"
+    },
+    "timeto": {
+      "29268": 0.2,
+      "29269": 0.2
+    }
+  }
+}

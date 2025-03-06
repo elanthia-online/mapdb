@@ -1,0 +1,30 @@
+{
+  "checksum": "e393580945a73430fcf08c03c73af6a1",
+  "room": {
+    "id": 29455,
+    "title": [
+      "[Sorrow's Edge, Den of Solace]"
+    ],
+    "description": [
+      "A curved ironwood sofa covered by velvet cushions along the western wall faces the opposing side of the room, encompassing a long, oval ironwood table.  Hanging from the eastern wall are several sets of manacles, while oiled leather whips and flogs dangle from nearby hooks.  Another wall shows off a collection of wickedly curved daggers, sitting on metal spikes driven into the stone."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Sorrow's Edge, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "29454": "east",
+      "29456": "go door"
+    },
+    "timeto": {
+      "29454": 0.2,
+      "29456": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1303202
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "d0e2d2b5e5184219a9e97049b17b0baa",
+  "room": {
+    "id": 12815,
+    "title": [
+      "[Solhaven Arms]"
+    ],
+    "description": [
+      "Polished wooden cases line the room, containing a wide assortment of weapons.  Echoing through the shop is the sound of a hammer striking metal.  A stocky Dwarf stands nearby, smiling to herself."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1460": "out",
+      "12816": "north",
+      "12817": "south",
+      "13239": "climb stairway",
+      "30710": "/rooms/12815/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1460": 0.2,
+      "12816": 0.2,
+      "12817": 0.2,
+      "13239": 0.2,
+      "30710": "/rooms/12815/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "urchin guide weapons",
+      "urchin-access",
+      "weapons",
+      "no forageables"
+    ],
+    "uid": [
+      4740014
+    ]
+  }
+}

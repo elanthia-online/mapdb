@@ -1,0 +1,39 @@
+{
+  "checksum": "6e1b6661943f4d24f6d8317069f819a0",
+  "room": {
+    "id": 19303,
+    "title": [
+      "[Willow Hall, Hall of Lockers]"
+    ],
+    "description": [
+      "The chamber is more of a wide corridor than what one would consider a traditional room.  Its long expanse of side walls is paneled with richly grained oak, and hung with a number of large canvasses.  On the far wall hang two emerald-colored curtains, one obviously newer than the other, partitioning off the alcoves behind."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Willow Hall",
+    "wayto": {
+      "19301": "go door",
+      "21307": "go #-13171",
+      "32973": "go #-13170"
+    },
+    "timeto": {
+      "19301": 0.2,
+      "21307": 0.2,
+      "32973": 0.2
+    },
+    "tags": [
+      "meta:che:Willow Hall"
+    ],
+    "uid": [
+      218006
+    ],
+    "image": "wl-willow_hall-1308424874.png",
+    "image_coords": [
+      235,
+      731,
+      280,
+      766
+    ]
+  }
+}

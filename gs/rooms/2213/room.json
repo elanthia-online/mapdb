@@ -1,0 +1,42 @@
+{
+  "checksum": "b1cc1e28d13a257a6e9088eb2cb7ea0a",
+  "room": {
+    "id": 2213,
+    "title": [
+      "[Depths of V'Tull, Lower Eye]"
+    ],
+    "description": [
+      "The walls here are a little smoother and smudged with soot.  The air seems very thick, and it shimmers from the heat.  Sulfurous gasses vent from gaps in the wall, spouting out molten rock.  Flickering flames dance across the floor, as the liquefied rock ignites the porous surface."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2212": "northwest",
+      "2214": "southeast"
+    },
+    "timeto": {
+      "2212": 0.2,
+      "2214": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061022
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      473,
+      681,
+      481,
+      689
+    ]
+  }
+}

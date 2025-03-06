@@ -1,0 +1,48 @@
+{
+  "checksum": "59cecc3e9c3763089b8c5a7e7bed0144",
+  "room": {
+    "id": 10868,
+    "title": [
+      "[River's Rest, Persimmon Lane]"
+    ],
+    "description": [
+      "This quiet lane is lined with fragrant old persimmon trees.  On either side of the lane, set back behind the trees, are a pair of frond-roofed, stucco bungalows...one behind a brass-knobbed gate, the other through a graceful arch.  To the west, rising above the nearby treetops, is a blue-domed pavilion.  Fireflies flitter among the trees.",
+      "This quiet lane is lined with fragrant old persimmon trees.  On either side of the lane, set back behind the trees, are a pair of frond-roofed, stucco bungalows...one behind a brass-knobbed gate, the other through a graceful arch.  To the west, rising above the nearby treetops, is a blue-domed pavilion.  Honeybees buzz purposefully among the trees."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, west, northwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10866": "east",
+      "10869": "west",
+      "10870": "southwest",
+      "10871": "go arch",
+      "10872": "go gate",
+      "10873": "northwest"
+    },
+    "timeto": {
+      "10866": 0.2,
+      "10869": 0.2,
+      "10870": 0.2,
+      "10871": 0.2,
+      "10872": 0.2,
+      "10873": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      2101050
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2608,
+      769,
+      2646,
+      805
+    ]
+  }
+}

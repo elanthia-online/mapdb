@@ -1,0 +1,32 @@
+{
+  "checksum": "73d7d1613f8240af37091347c2a39565",
+  "room": {
+    "id": 33991,
+    "title": [
+      "[Sivalis' General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3872": "out",
+      "33992": "south",
+      "33993": "north"
+    },
+    "timeto": {
+      "3872": 0.2,
+      "33992": 0.2,
+      "33993": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      641209
+    ]
+  }
+}

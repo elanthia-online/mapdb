@@ -1,0 +1,51 @@
+{
+  "checksum": "23f95c5cd632a3312d516bcbd1c6a7f5",
+  "room": {
+    "id": 6905,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "A single lantern hangs from the ceiling beams.  Its flame burns brightly and constantly, unwavering in the still air.  While its presence is something of a mystery, the light it brings is welcome, showing the dirt on the floor to be unmarred by footprints."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west, northwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6903": "northwest",
+      "6904": "west",
+      "6907": "southwest"
+    },
+    "timeto": {
+      "6903": 0.2,
+      "6904": 0.2,
+      "6907": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wraith",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37039
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1157,
+      1436,
+      1167,
+      1446
+    ]
+  }
+}

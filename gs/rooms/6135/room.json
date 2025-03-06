@@ -1,0 +1,56 @@
+{
+  "checksum": "cb01793af9f140d23f7e56c31d6d76a8",
+  "room": {
+    "id": 6135,
+    "title": [
+      "[Krag Slopes]"
+    ],
+    "description": [
+      "The shrieking wind races across the frozen ground and slams against the rugged wall which rises sharply to the south.  To one side a sizeable stone chest lies on its side, firmly imbedded in the lava that spilled over it years ago."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Krag slopes",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6134": "north",
+      "6136": "/rooms/6135/wayto/stringproc-6136.rb"
+    },
+    "timeto": {
+      "6134": 0.2,
+      "6136": 0.2
+    },
+    "tags": [
+      "golden aster",
+      "sprig of larkspur",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "wild pink geranium",
+      "marallis berry",
+      "stalk of bluebells",
+      "cuctucae berry",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      495017
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1243,
+      959,
+      1279,
+      995
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "47ed510a4afb5c3a7c97d3ee80918c4f",
+  "room": {
+    "id": 32463,
+    "title": [
+      "[Moonsedge Castle, Grand Hall]"
+    ],
+    "description": [
+      "Starlight creeps through stained glass windows that dominate the eastern wall, the tenuous light reddened by the colored panes.  It illuminates a raised dais on which are set tables and seats that watch over the hall.  To the north, the high ceilings rise in parallel with a series of steps that climb toward an ostentatious chamber.  No less grand is a jeweled archway to the east.  Opposite the steps is a smaller, less impressive arch framing the entrance to the kitchens.",
+      "Daylight filters uncertainly through stained glass windows that dominate the eastern wall, stained fiercely red by the colored panes.  The windows illuminate a raised dais on which are set tables and seats that watch over the hall.  To the north, the high ceilings rise in parallel with a series of steps that climb toward an ostentatious chamber.  No less grand is a jeweled archway to the east.  Opposite the steps is a smaller, less impressive arch framing the entrance to the kitchens."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32454": "west",
+      "32464": "go arch",
+      "32481": "south",
+      "32483": "north"
+    },
+    "timeto": {
+      "32454": 0.2,
+      "32464": 0.2,
+      "32481": 0.2,
+      "32483": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577212
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1167,
+      645,
+      1191,
+      668
+    ]
+  }
+}

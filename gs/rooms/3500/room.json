@@ -1,0 +1,49 @@
+{
+  "checksum": "149066106c2225764867ac2c2bd25b91",
+  "room": {
+    "id": 3500,
+    "title": [
+      "[Ta'Vaalor, Shimeraern Var]"
+    ],
+    "description": [
+      "A small but elegant building sits beside the var, its crimson-hued tile roof gleaming in the light.  Numerous well-dressed elven patrons wander about the premises.  An ebonwood sign is displayed in one of the large front windows.",
+      "A small but elegant building sits beside the var, its crimson-hued tile roof gleaming in the moonlight.  A few well-dressed elven patrons wander about the premises.  An ebonwood sign is displayed in one of the large front windows, backlit by the warm illumination from the building.",
+      "The charred remains of a small building lie beside the var, shards of its shattered crimson roof tiles glittering in the light.  An ebonwood sign lies forlornly nearby.",
+      "The charred remains of a small building lie beside the var, shards of its shattered crimson roof tiles glittering in the dark.  An ebonwood sign lies forlornly nearby.",
+      "A large stone building stretches along the var, its length punctuated by a wide double door above which an ebonwood sign is posted.  Soldiers flow in and out of the building in groups of twos, threes, and more, and appetizing smells waft from the hall each time a door is opened and closed."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3498": "east",
+      "3499": "north",
+      "3502": "west",
+      "25585": "go building"
+    },
+    "timeto": {
+      "3498": 0.2,
+      "3499": 0.2,
+      "3502": 0.2,
+      "25585": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100065
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      554,
+      404,
+      586,
+      438
+    ]
+  }
+}

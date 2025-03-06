@@ -1,0 +1,38 @@
+{
+  "checksum": "667bf1bc6e9828bf23282b6da927c6f0",
+  "room": {
+    "id": 11505,
+    "title": [
+      "[Ruined Tower, Pool]"
+    ],
+    "description": [
+      "In the center of the room is an onyx and lapis-inlaid pool, its lip rising three feet above the floor.  The entire chamber is bathed in a preternatural turquoise light that shines from four lanterns symmetrically spaced around the room.  A mosaic of interwoven golden circles and silver triangles is inset in the walls ringing the pool."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11504": "up",
+      "11506": "go doorway"
+    },
+    "timeto": {
+      "11504": 0.2,
+      "11506": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305030
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      738,
+      1009,
+      748,
+      1019
+    ]
+  }
+}

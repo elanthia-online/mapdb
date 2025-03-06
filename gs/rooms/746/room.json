@@ -1,0 +1,41 @@
+{
+  "checksum": "9c1b786c05a15935d65366d7a64354b0",
+  "room": {
+    "id": 746,
+    "title": [
+      "[Hall of Patrons, Corridor]"
+    ],
+    "description": [
+      "The walls of the corridor are unadorned except for a pair of brass wall sconces, used to illuminate the area.  An arch to the west opens into the rotunda and silver-veined marble covers the floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "745": "west",
+      "747": "go panel"
+    },
+    "timeto": {
+      "745": 0.2,
+      "747": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13109004
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      568,
+      2015,
+      626,
+      2070
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "checksum": "2de209ef75634e08cba412e4066875ce",
+  "room": {
+    "id": 6119,
+    "title": [
+      "[Krag Slopes]"
+    ],
+    "description": [
+      "Poised on the very edge of a canyon wall, you look upon the brink of a seemingly bottomless pit, your feet threatening to slip out from beneath you and plunge you into the dark depths below.  The distance across the chasm is not too great, and you ponder the wisdom of trying to cross it."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Krag slopes",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6110": "climb wall",
+      "6120": "/rooms/6119/wayto/stringproc-6120.rb"
+    },
+    "timeto": {
+      "6110": 0.2,
+      "6120": 0.2
+    },
+    "tags": [
+      "stalk of bluebells",
+      "cuctucae berry",
+      "wild pink geranium",
+      "golden aster",
+      "marallis berry",
+      "sassafras leaf",
+      "sprig of larkspur",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:mapname:Wehnimer's Landing - Wehntoph",
+      "meta:mapshortname:Wehntoph",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      495001
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1577,
+      26,
+      1613,
+      62
+    ]
+  }
+}

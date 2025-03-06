@@ -1,0 +1,54 @@
+{
+  "checksum": "551a150051a105fdc5919d1ff127a6b9",
+  "room": {
+    "id": 996,
+    "title": [
+      "[Zul Logoth, Sapphire Tunnel]"
+    ],
+    "description": [
+      "Rather heavy traffic proceeds northeast and southwest as dwarven laborers move burdens along the tunnel.  Sacks and boxes marked \"Clothing\" and \"Food\" as well as long pieces of lumber are transported southwest, while containers marked \"Salt,\" \"Ore,\" and \"Gems\" move the other direction.  Occasionally the workers move aside to let a long line of domesticated roltons or other meat-on-the-hoof move southwest, but for the most part the labor seems endless."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "995": "northeast",
+      "997": "southwest",
+      "9563": "go doors"
+    },
+    "timeto": {
+      "995": 0.2,
+      "997": 0.2,
+      "9563": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006038
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1106,
+      580,
+      1126,
+      600
+    ]
+  }
+}

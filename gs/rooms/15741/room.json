@@ -1,0 +1,29 @@
+{
+  "checksum": "c687c24610de87f7bf5fb251eed8bb9d",
+  "room": {
+    "id": 15741,
+    "title": [
+      "[Velden's General Store]"
+    ],
+    "description": [
+      "Enclosed by plain wooden walls, the shop features a worn rug in the center of its wooden floor.  A tattered merchant permit hangs under the wooden ceiling.  Right near the front is a plain wooden table."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2316": "out",
+      "15763": "east",
+      "15764": "north"
+    },
+    "timeto": {
+      "2316": 0.2,
+      "15763": 0.2,
+      "15764": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

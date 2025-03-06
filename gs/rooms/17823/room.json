@@ -1,0 +1,37 @@
+{
+  "checksum": "b244a4f6cb4eb5b0dc0f642b6a781a53",
+  "room": {
+    "id": 17823,
+    "title": [
+      "[Warehouse]"
+    ],
+    "description": [
+      "The walls of the hallway look bleached a bit, as if pictures may have hung upon them at one time.  There is nothing but dust and memories furnishing the corridor now."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17822": "south",
+      "17824": "north"
+    },
+    "timeto": {
+      "17822": 0.2,
+      "17824": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      267124
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      177,
+      445,
+      217,
+      485
+    ]
+  }
+}

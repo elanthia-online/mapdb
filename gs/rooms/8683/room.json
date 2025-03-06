@@ -1,0 +1,42 @@
+{
+  "checksum": "7328102a52ae4e74d4cc29c809698c29",
+  "room": {
+    "id": 8683,
+    "title": [
+      "[Wehnimer's, Narrow Alleyway]"
+    ],
+    "description": [
+      "This narrow, dead-end alleyway runs from town square to the south, up to a bare wall at the north end.  To the west, partially hidden behind teetering stacks of boxes, you see a weatherbeaten door with paint peeling off of it."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "276": "south",
+      "19943": "/rooms/8683/wayto/stringproc-19943.rb"
+    },
+    "timeto": {
+      "276": 0.2,
+      "19943": 10
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      1053
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      355,
+      262,
+      391,
+      298
+    ]
+  }
+}

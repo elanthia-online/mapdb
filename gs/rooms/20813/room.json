@@ -1,0 +1,41 @@
+{
+  "checksum": "ee56d062990c3287ee50a3750fe27089",
+  "room": {
+    "id": 20813,
+    "title": [
+      "[House Sovyn, Brown Suite]"
+    ],
+    "description": [
+      "This suite is tastefully decorated in rich shades of brown.  A golden brown couch runs the length of one wall, with two tables flanking it.  On each table sits a vase with flowers in it.  Numerous chairs are spread around the room to provide additional sitting space, making this a fine place for quiet conversation."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20793": "west",
+      "20814": "go linden door",
+      "20815": "go coral door",
+      "20817": "go cobalt door"
+    },
+    "timeto": {
+      "20793": 0.2,
+      "20814": 0.2,
+      "20815": 0.2,
+      "20817": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210051
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      1476,
+      988,
+      1643,
+      1076
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "8b272168317234cc84d8e204a83028d1",
+  "room": {
+    "id": 32083,
+    "title": [
+      "[The Witching House, Undercroft]"
+    ],
+    "description": [
+      "Beyond the shelter of the black marble arch, a long corridor of stone blocks forms a passage that leads into utter darkness to the far west.  All sounds are muted, though the sounds of steps reverberate in a disconcerting, cyclical echo."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31915": "go black arch",
+      "32084": "west"
+    },
+    "timeto": {
+      "31915": 0.2,
+      "32084": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084608
+    ]
+  }
+}

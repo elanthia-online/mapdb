@@ -1,0 +1,38 @@
+{
+  "checksum": "fc5a22f2090bad6291ac61af12a960f4",
+  "room": {
+    "id": 8480,
+    "title": [
+      "[Temple, Attic]"
+    ],
+    "description": [
+      "The contents of several boxes have been scattered about the room.  Gold candlesticks, altarcloths, white robes, and other items litter the floor, thrown with obvious disregard to their symbolic worth.  A rickety ladder leads down through a trapdoor in the floor."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Temple of Love",
+    "wayto": {
+      "8479": "climb ladder",
+      "8481": "east"
+    },
+    "timeto": {
+      "8479": 0.2,
+      "8481": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2155046
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      37,
+      754,
+      47,
+      764
+    ]
+  }
+}

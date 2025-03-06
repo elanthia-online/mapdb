@@ -1,0 +1,49 @@
+{
+  "checksum": "54de581b1d426667fc83ee872bcdc0d8",
+  "room": {
+    "id": 7223,
+    "title": [
+      "[Underbarrow, Burial Chamber]"
+    ],
+    "description": [
+      "The chamber is lined with bodies.  Stacked as high as a human is tall, they are sealed in a thick casing of ice.  Young and old, male and female, they hold to no particular theme save that of death.  Some seem to have died natural deaths, their corpses devoid of injury.  Others are bloody and mangled, the ice closing over gaping wounds but forever leaving the insides of the bodies open to inspection."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7218": "east",
+      "7219": "northeast",
+      "7224": "north"
+    },
+    "timeto": {
+      "7218": 0.2,
+      "7219": 0.2,
+      "7224": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162117
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      625,
+      187,
+      635,
+      197
+    ]
+  }
+}

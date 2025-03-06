@@ -1,0 +1,32 @@
+{
+  "checksum": "a627534a7f4e5a2ff4d7882092f40d46",
+  "room": {
+    "id": 28228,
+    "title": [
+      "[Town Barracks, Ballista Tower]"
+    ],
+    "description": [
+      "From all four windows of the tower, the landscape of Wehnimer's Landing and its environs swell into view.  The palisade walls of the town, the rooftops of shops and homes, and the activity of townspeople moving about can all be seen from the tower's vantage points.  Down below, uniformed militiamen practice at the archery range, riddling the stationary targets with arrows."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "28227": "down",
+      "28229": "go door"
+    },
+    "timeto": {
+      "28227": 0.2,
+      "28229": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336213
+    ]
+  }
+}

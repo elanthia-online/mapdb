@@ -1,0 +1,38 @@
+{
+  "checksum": "a57f99952ae790d3dd29904868110785",
+  "room": {
+    "id": 33653,
+    "title": [
+      "[Keep Tower, Corridor]"
+    ],
+    "description": [
+      "The passage looks much like the other corridors in the keep tower, the sense of strange familiarity reinforced by the identical doors and arrow loops present in the same exact locations on each level."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33652": "down",
+      "33654": "up",
+      "33665": "go sun-faded door",
+      "33670": "go shadowed door"
+    },
+    "timeto": {
+      "33652": 0.2,
+      "33654": 0.2,
+      "33665": 0.2,
+      "33670": 0.2
+    },
+    "uid": [
+      7101174
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1457,
+      1127,
+      1504,
+      1176
+    ]
+  }
+}

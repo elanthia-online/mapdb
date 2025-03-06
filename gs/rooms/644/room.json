@@ -1,0 +1,48 @@
+{
+  "checksum": "07f8e597692be387c9009693b04f0daa",
+  "room": {
+    "id": 644,
+    "title": [
+      "[Old News Pawnshop]"
+    ],
+    "description": [
+      "The many racks, shelves and display cases of this shop are brimming with assorted merchandise.  Torchlight glistens on several blades carefully displayed in a glass case by the window, strategically placed to catch the eye of passersby.  Two elven lads chatter between themselves as they busily polish some armor.  The west wall of the shop is handsomely decorated with an array of shields.  An intricately carved cabinet in the center of the shop appears to be heavily padlocked.",
+      "The many racks, shelves and display cases of this shop are brimming with assorted merchandise.  Sunlight glistens on several blades carefully displayed in a glass case by the window, strategically placed to catch the eye of passersby.  Two elven lads chatter between themselves as they busily polish some armor.  The west wall of the shop is handsomely decorated with an array of shields.  An intricately carved cabinet in the center of the shop appears to be heavily padlocked."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10": "out",
+      "4599": "go doorway",
+      "30714": "/rooms/644/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "10": 0.2,
+      "4599": 0.2,
+      "30714": "/rooms/644/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "urchin guide pawn",
+      "urchin-access",
+      "pawn",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13104045
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      480,
+      294,
+      505,
+      318
+    ]
+  }
+}

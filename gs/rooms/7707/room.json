@@ -1,0 +1,54 @@
+{
+  "checksum": "b56f8bec5d6307fc6a2832f0ecc8e6ff",
+  "room": {
+    "id": 7707,
+    "title": [
+      "[Caverns, Tunnel]"
+    ],
+    "description": [
+      "A cramped, narrow tunnel leads to the west, a faint scent of musty stone and stale air wafting from within.  A few scattered shards of bone lie half-buried in the dirt still heaped at the foot of the roughly cut walls."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7706": "go tunnel",
+      "7708": "go wall",
+      "7712": "west"
+    },
+    "timeto": {
+      "7706": 0.2,
+      "7708": 0.2,
+      "7712": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2163602
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      380,
+      1335,
+      390,
+      1345
+    ]
+  }
+}

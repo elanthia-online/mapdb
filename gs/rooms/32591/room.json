@@ -1,0 +1,40 @@
+{
+  "checksum": "de2885265532c185e03773b93a2103bb",
+  "room": {
+    "id": 32591,
+    "title": [
+      "[Logging Colony, Tig's Barn]"
+    ],
+    "description": [
+      "Patches of mud, dried and cracked on the edges, dominate the entry to high-ceilinged stables, while sash windows tilted open allow the coastal air to slip through the humid confines.  Tidy bales of hay, straw, and rushes surround support posts that are evenly spaced down the various lanes.  The whiny and nickering of stalled animals fills the air."
+    ],
+    "paths": [
+      "Obvious paths: east, west, out"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28919": "out",
+      "30716": "/rooms/32591/wayto/stringproc-30716.rb",
+      "32592": "east",
+      "32593": "west"
+    },
+    "timeto": {
+      "28919": 0.2,
+      "30716": "/rooms/32591/timeto/stringproc-30716.rb",
+      "32592": 0.2,
+      "32593": 0.2
+    },
+    "tags": [
+      "urchin guide stable",
+      "urchin-access",
+      "stable",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      12014100
+    ]
+  }
+}

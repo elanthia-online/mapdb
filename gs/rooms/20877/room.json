@@ -1,0 +1,47 @@
+{
+  "checksum": "1fa1b45ef75544a4b76c28f052c0fbea",
+  "room": {
+    "id": 20877,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A stout wooden wall impedes your progress forward.  In the center of the wall, on a large yellowed parchment, is a poster.  The poster is a side view of a man laying in a coffin or box of some kind.  Small arrows point to parts of the picture, and in an unknown language describe some of the things in it.  A second, older poster next to the first has the picture of an old, one-eyed dark elf with the number \"12000\" below it."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/20877/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20877/wayto/stringproc-12089.rb",
+      "12152": "/rooms/20877/wayto/stringproc-12152.rb",
+      "12216": "west",
+      "20878": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12216": 0.2,
+      "20878": 0.2
+    },
+    "tags": [
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568042
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      241,
+      1210,
+      251,
+      1219
+    ]
+  }
+}

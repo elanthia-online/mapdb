@@ -1,0 +1,33 @@
+{
+  "checksum": "712ac7f3355928d4d295e426f1f37854",
+  "room": {
+    "id": 19048,
+    "title": [
+      "[Spitfire, Main Deck Portside]"
+    ],
+    "description": [
+      "A brisk breeze blows across the port rail, carrying with it the smells of the bay.  A couple of burly halflings elbow -- or some might say 'knee' -- by, muttering something that sounds like \"don't much like tha cut 'a his sail, tha bloomin'...\"  They soon pass out of hearing and disappear down the companionway to the 'tween deck.  Next to the rail, narrow stairs lead up to the poop deck, where sailors are busy checking lines and swabbing the deck dry."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19045": "north",
+      "19049": "go stairs",
+      "19051": "east"
+    },
+    "timeto": {
+      "19045": 0.2,
+      "19049": 0.2,
+      "19051": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      17,
+      386,
+      50,
+      422
+    ]
+  }
+}

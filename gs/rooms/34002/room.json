@@ -1,0 +1,27 @@
+{
+  "checksum": "e84f38b44be027c644e23171e4683081",
+  "room": {
+    "id": 34002,
+    "title": [
+      "[Delirium Giftshop, Storage]"
+    ],
+    "description": [
+      "A wide and colorful banner proclaims, \"~Get Your Souvenirs Here~\" from its prominent spot along the back wall.  Toys and various knick-knacks lay scattered across an upholstered bench that is positioned in front of a colorfully decorated mannequin."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "34001": "west",
+      "34003": "north"
+    },
+    "timeto": {
+      "34001": 0.2,
+      "34003": 0.2
+    },
+    "uid": [
+      8100118
+    ]
+  }
+}

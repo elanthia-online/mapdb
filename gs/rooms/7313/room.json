@@ -1,0 +1,43 @@
+{
+  "checksum": "f65681b10058fcebc4d72f31c04a65a7",
+  "room": {
+    "id": 7313,
+    "title": [
+      "[Narrow Tunnel]"
+    ],
+    "description": [
+      "The tunnel continues, seemingly without end, in both directions.  Shadows play off the rough rock walls, causing your eyes to dart about looking for enemies that may or may not be there."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7312": "/rooms/7313/wayto/stringproc-7312.rb",
+      "22426": "/rooms/7313/wayto/stringproc-22426.rb"
+    },
+    "timeto": {
+      "7312": 0.2,
+      "22426": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2150011
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      888,
+      533,
+      896,
+      540
+    ]
+  }
+}

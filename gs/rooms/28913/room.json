@@ -1,0 +1,45 @@
+{
+  "checksum": "3b0f210f81753bd5605c23b59e3b0579",
+  "room": {
+    "id": 28913,
+    "title": [
+      "[Kraken's Fall, Middle Arm Ave]"
+    ],
+    "description": [
+      "Dust hangs heavy in the air as the western avenue degrades into a dirty road as it curves sharply towards a grassy bluff.  Leafy bushes, laden with dog roses and thorns, form a barrier that prevents a sheer drop to the ocean below, their heady fragrance perfuming the air.  Perched upon the edge of the cliff, a weathered stone building with large windows interrupts the leafy profusions with its grey and white bulk."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28912": "northwest",
+      "29139": "go building",
+      "29622": "go wrought-iron gate",
+      "30716": "/rooms/28913/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28912": 0.2,
+      "29139": 0.2,
+      "29622": 0.2,
+      "30716": "/rooms/28913/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118227
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      801,
+      374,
+      815,
+      387
+    ]
+  }
+}

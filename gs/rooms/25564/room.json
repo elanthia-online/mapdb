@@ -1,0 +1,32 @@
+{
+  "checksum": "5341f4c784ec181c9b2578a72c5b8914",
+  "room": {
+    "id": 25564,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Dragging footsteps and accidental bumpings are all that let you know others pass this way too, as the darkness encompasses the hallway completely.  The near-intimate groping of hands is quickly withdrawn as they make contact with flesh instead of ruin walls.  The dirt-limned floor muffles the steps scraping along the passage as shuffling continues in each direction."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25551": "south",
+      "25562": "north",
+      "25565": "west",
+      "25567": "east"
+    },
+    "timeto": {
+      "25551": 0.2,
+      "25562": 0.2,
+      "25565": 0.2,
+      "25567": 0.2
+    },
+    "uid": [
+      8213716
+    ],
+    "check_location": true
+  }
+}

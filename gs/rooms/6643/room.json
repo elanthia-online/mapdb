@@ -1,0 +1,37 @@
+{
+  "checksum": "b85b5ab86d7a8c1d118b1799b6e1af6d",
+  "room": {
+    "id": 6643,
+    "title": [
+      "[Monastery, Living Quarters]"
+    ],
+    "description": [
+      "This room appears to be used as living quarters for those who reside in this stronghold.  A row of six bunks lines each of the walls and a row of a dozen cabinets stands opposite the doorway.  A large table stands in the center of the room with a half dozen chairs scattered around it.  Mounted onto the ceiling is a large cast iron chandelier with dozens of small, lit candles dropping wax down onto the top of the table."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6642": "/rooms/6643/wayto/stringproc-6642.rb",
+      "6645": "/rooms/6643/wayto/stringproc-6645.rb"
+    },
+    "timeto": {
+      "6642": 0.4,
+      "6645": 0.4
+    },
+    "tags": [
+      "no-auto-map"
+    ],
+    "uid": [
+      487056
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      196,
+      1126,
+      203,
+      1137
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "5c4f5504d2c8c7bdaff00dae2eb5ded4",
+  "room": {
+    "id": 5731,
+    "title": [
+      "[Marshtown, Shoreline]"
+    ],
+    "description": [
+      "Booths and stands have been set up along this section of the boardwalk.  Teams of merchants hawk fish and produce to travelers as they pass by from the docks on their way into town.  Clusters of people gather around each of the stands watching the merchants and customers haggle over prices."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4627": "east",
+      "5732": "west",
+      "11753": "go pier"
+    },
+    "timeto": {
+      "4627": 0.2,
+      "5732": 0.2,
+      "11753": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4744010
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      840,
+      753,
+      850,
+      763
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "dbdc82c96cdb197d3fb2b666792c790e",
+  "room": {
+    "id": 31591,
+    "title": [
+      "[Evermore Hollow, Fate's Fire]"
+    ],
+    "description": [
+      "Buildings grow sparse as a well-trodden cobblestone pathway wends through the area on its way around a hillock covered in knee-high grasses whose entrance is blocked by a spear-topped black iron gate.  Saturated in crimson, orange, and yellow hues, the small courtyard is filled with a perpetually burning bonfire surrounded by dried-out ancient logs amid singed baskets of firewood.  Near the northeast, the faint outline of a dull green moss-covered stone arch supported by slanted buildings can be seen."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31572": "go pathway",
+      "31592": "go arch",
+      "31593": "go gate",
+      "31598": "north",
+      "31600": "south"
+    },
+    "timeto": {
+      "31572": 0.2,
+      "31592": 0.2,
+      "31593": 0.2,
+      "31598": 0.2,
+      "31600": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "node"
+    ],
+    "uid": [
+      8083010
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      542,
+      555,
+      565,
+      577
+    ]
+  }
+}

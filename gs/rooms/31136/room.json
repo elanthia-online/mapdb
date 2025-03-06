@@ -1,0 +1,39 @@
+{
+  "checksum": "8966825df12dc37a9143bb90a261a5df",
+  "room": {
+    "id": 31136,
+    "title": [
+      "[House Aspis, 3rd Floor Hall]"
+    ],
+    "description": [
+      "Cemb and Sieglinde's room is along this part of the corridor.  Woven rugs of ancient design cover the stone walls and their patterns are echoed in the carpeting underfoot."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31134": "east",
+      "31138": "go door",
+      "31139": "west"
+    },
+    "timeto": {
+      "31134": 0.2,
+      "31138": 0.2,
+      "31139": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102202
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      440,
+      128,
+      572,
+      195
+    ]
+  }
+}

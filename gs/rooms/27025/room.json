@@ -1,0 +1,27 @@
+{
+  "checksum": "47725c10b0a9129b5cc1f10778973605",
+  "room": {
+    "id": 27025,
+    "title": [
+      "[Lake of Fear, Mid-Lake]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  Based solely on the amount of time spent traveling across the frigid surface, this must be approaching the middle of the lake.  Bits of shattered wood lie strewn across the frozen surface of the lake."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27024": "/rooms/27025/wayto/stringproc-27024.rb",
+      "27026": "/rooms/27025/wayto/stringproc-27026.rb"
+    },
+    "timeto": {
+      "27024": 0.2,
+      "27026": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

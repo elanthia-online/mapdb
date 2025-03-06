@@ -1,0 +1,41 @@
+{
+  "checksum": "5b47a4a8508d4efc06af23e7667a737c",
+  "room": {
+    "id": 10880,
+    "title": [
+      "[Bard Guild, Terrace]"
+    ],
+    "description": [
+      "A generous terrace stretches before the entrance to the Jastev Amphitheater.  From the elevated vantage point, the plaza below is striking with its alternating bands of color.  At the apex of the monumental arch leading into the theater, the lintel is carved with an image of a bearded man framed by a crossed pair of artist's brushes."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10879": "go stairs",
+      "10881": "go arch",
+      "25599": "go entrance"
+    },
+    "timeto": {
+      "10879": 0.2,
+      "10881": 0.2,
+      "25599": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      283013
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2785,
+      530,
+      2822,
+      568
+    ]
+  }
+}

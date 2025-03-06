@@ -1,0 +1,41 @@
+{
+  "checksum": "f60a3d2ebe5132e1a7a05d34d2627237",
+  "room": {
+    "id": 13105,
+    "title": [
+      "[Outpost, Western Corridor]"
+    ],
+    "description": [
+      "Iron lanterns illuminate the dim corridor from their positions between several windows with tightly closed shutters along the eastern wall.  Several scouts and runners jog past, despite the hour of the day on their way from the foyer to the office that lies beyond an open door.",
+      "Sunlight streams through open windows, their shutters folded back to tack advantage of the daytime illumination, along the eastern wall of the corridor and they offer a perfect vantage point of the practice courtyard beyond.  Several scouts and runners jog past, on their way to and from the foyer, and the office that lies beyond an open sturdy oak door."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "wayto": {
+      "13104": "southeast",
+      "13106": "northwest",
+      "13127": "go door"
+    },
+    "timeto": {
+      "13104": 0.2,
+      "13106": 0.2,
+      "13127": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      562012
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      550,
+      866,
+      560,
+      876
+    ]
+  }
+}

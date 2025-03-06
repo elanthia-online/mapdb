@@ -1,0 +1,40 @@
+{
+  "checksum": "d88951939a76ccb83c41be1c49ded762",
+  "room": {
+    "id": 13153,
+    "title": [
+      "[Stone Edifice, Hallway]"
+    ],
+    "description": [
+      "Mirror-polished granite encompasses the entire hall with the exception of a mural occupying the western wall.  Predominantly dwarves and giantmen pass through the vicinity, acknowledging each with a curt nod before moving on with their business.  A white rune-etched stone door has been left open, allowing a clear view of the office of the Taskmaster, hard at work."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "wayto": {
+      "13148": "southwest",
+      "13152": "north",
+      "13162": "go door"
+    },
+    "timeto": {
+      "13148": 0.2,
+      "13152": 0.2,
+      "13162": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      565013
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1107,
+      492,
+      1127,
+      512
+    ]
+  }
+}

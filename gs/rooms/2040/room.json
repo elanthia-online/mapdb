@@ -1,0 +1,41 @@
+{
+  "checksum": "cc8a37b7d6ce7fed62468a3faef8d688",
+  "room": {
+    "id": 2040,
+    "title": [
+      "[Cave]"
+    ],
+    "description": [
+      "The corridor splits into three passages, all similar in appearance.  The murk makes directions seem non-existent, and the low-lying fog creates a slowly revolving vortex in the center of the tangents.  Every so often, the stone of the walls, floor and ceiling emits a low rumble, as though complaining of trespassers within its arteries."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest"
+    ],
+    "location": "Greymist Woods",
+    "wayto": {
+      "2032": "southwest",
+      "2033": "south",
+      "2039": "east"
+    },
+    "timeto": {
+      "2032": 0.2,
+      "2033": 0.2,
+      "2039": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3022028
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      122,
+      418,
+      132,
+      428
+    ]
+  }
+}

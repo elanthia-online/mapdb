@@ -1,0 +1,38 @@
+{
+  "checksum": "926c161f3d9e233a7f40d5de84950487",
+  "room": {
+    "id": 4943,
+    "title": [
+      "[Gyldemar Forest, Ruined Hall]"
+    ],
+    "description": [
+      "Deep gouges mar the magnificent carvings lining the hall.  A tarnished axe blade remains buried in the neck of a drake carving.  One of the hall's support columns rests as rubble across the hall.  The column's elaborate capital remains intact, covered in animal filth."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Gyldemar Forest",
+    "wayto": {
+      "4942": "south",
+      "4944": "go stairwell"
+    },
+    "timeto": {
+      "4942": 0.2,
+      "4944": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030076
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      901,
+      463,
+      911,
+      473
+    ]
+  }
+}

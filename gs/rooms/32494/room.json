@@ -1,0 +1,41 @@
+{
+  "checksum": "8f6cc640ceda6d77ad28d673bf0f732b",
+  "room": {
+    "id": 32494,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "Briars cling to the walls of the castle, growing thickest at the base.  Ambitious branches, heavy-laden with red blossoms and vicious thorns, have climbed as far as the second story, finding ample purchase in the cut stones of the keep's facade.  The flagstone walk proceeds past the overgrowth, giving wide berth to the shadows of the deepest thickets."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32445": "southeast",
+      "32493": "northeast"
+    },
+    "timeto": {
+      "32445": 0.2,
+      "32493": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577110
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      623,
+      646,
+      642,
+      667
+    ]
+  }
+}

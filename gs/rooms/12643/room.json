@@ -1,0 +1,37 @@
+{
+  "checksum": "347a9cc6bee2dcfbb03c3c06a823caa1",
+  "room": {
+    "id": 12643,
+    "title": [
+      "[Inn, Dining Room]"
+    ],
+    "description": [
+      "The ceiling of this room has been badly damaged and the second floor of the inn entirely burned away.  Gaping holes in the ceiling and the walls and the shattered windows have exposed the interior to the ravages of the elements and the creeping invasion of vines and other small plants.  The tables, chairs and other small pieces of furniture all bear marks of damage from both fire and weather."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2075": "out",
+      "12642": "west"
+    },
+    "timeto": {
+      "2075": 0.2,
+      "12642": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030005
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      375,
+      973,
+      383,
+      981
+    ]
+  }
+}

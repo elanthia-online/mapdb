@@ -1,0 +1,29 @@
+{
+  "checksum": "7540e7bc7fc0930f0b8514e4226f6ed6",
+  "room": {
+    "id": 20432,
+    "title": [
+      "[Saipan's Outfitting]"
+    ],
+    "description": [
+      "Smooth mistwood walls rise from a swirled sea glass floor.  Just above a worn rug hangs a tattered merchant permit, and a low skylight-set ceiling completes the picture.  A vine-carved mahogany table and a silk-covered dress mannequin stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3872": "out",
+      "20452": "southeast",
+      "20453": "north"
+    },
+    "timeto": {
+      "3872": 0.2,
+      "20452": 0.2,
+      "20453": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "checksum": "13b02d4eb2839ba02aa8b5492b9f5229",
+  "room": {
+    "id": 2816,
+    "title": [
+      "[Northern Mountains, Bluff]"
+    ],
+    "description": [
+      "The trees open into a clearing bound on one side by a fallen log.  The tree trunk's wood is rotted in parts, and coated with thick moss and snow elsewhere.  It points away from the thick stands of pines, as if gesturing to the south where the ground disappears, dropping into a sheer cliff of granite that shelters a pool nestled at its feet."
+    ],
+    "paths": [
+      "Obvious paths: northeast, down"
+    ],
+    "location": "the Pinefar forests",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous forest",
+    "wayto": {
+      "2815": "/rooms/2816/wayto/stringproc-2815.rb",
+      "2817": "down",
+      "2821": "northeast"
+    },
+    "timeto": {
+      "2815": 0.2,
+      "2817": 0.2,
+      "2821": 0.2
+    },
+    "tags": [
+      "red winterberry",
+      "some pine needles",
+      "moonflower",
+      "some frostweed",
+      "winter rose",
+      "some tree bark",
+      "crowberry",
+      "sweetfern stalk",
+      "snow lily",
+      "handful of pinenuts",
+      "tkaro root",
+      "sticks",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "iceblossoms",
+      "moonflowers",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "broken twig",
+      "pine cone",
+      "pine needles",
+      "frostweed",
+      "snowberries",
+      "pale thornberry",
+      "small loganberry",
+      "tree bark",
+      "frostflower",
+      "rockberry",
+      "lingonberry",
+      "orange rowanberry",
+      "ironfern root",
+      "twisted twig",
+      "slender twig",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "bolmara lichen",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4563019
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      431,
+      1282,
+      441,
+      1292
+    ]
+  }
+}

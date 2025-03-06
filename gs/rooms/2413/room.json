@@ -1,0 +1,47 @@
+{
+  "checksum": "efa9bf17ed1c27f9f8991504a1eec768",
+  "room": {
+    "id": 2413,
+    "title": [
+      "[Commerce Burrow, Trader Way]",
+      "[Commerce Burrow, Trader's Way]"
+    ],
+    "description": [
+      "A brisk wind blows down the street, shivering the branches of evergreens along the roadside.  The road comes to a sharp corner in front of a marvelous two-story bakery.  Countless small windows with white shutters peek out of the brick facade of the shop, and a polished silver plaque is affixed next to the door.  Woodsmoke billows gently from the stone chimney, though its bite is sweetened by the aroma of baked goods.",
+      "Trader's Way comes to a sharp corner here, in front of a marvelously grand bakery.  Painted bright pink, the front of the shop is decorated with numerous tiny windows outlined with white shutters.  A polished silver plaque hangs next to the door."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2412": "west",
+      "2414": "north",
+      "2419": "go two-story bakery",
+      "15690": "climb ladder"
+    },
+    "timeto": {
+      "2412": 0.2,
+      "2414": 0.2,
+      "2419": 0.2,
+      "15690": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042321
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      672,
+      1231,
+      708,
+      1267
+    ]
+  }
+}

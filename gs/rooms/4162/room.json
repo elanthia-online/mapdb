@@ -1,0 +1,39 @@
+{
+  "checksum": "f525274d283c97a86f29189cd73d7ca8",
+  "room": {
+    "id": 4162,
+    "title": [
+      "[Hall of the Dead, Vault Room]"
+    ],
+    "description": [
+      "The room is bare except for the rows and rows of crevices carved into the walls, each holding its own body.  Great care has been taken to see that each was treated with the utmost respect in death if not in life."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4161": "east",
+      "4163": "west"
+    },
+    "timeto": {
+      "4161": 0.2,
+      "4163": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      740,
+      786,
+      750,
+      796
+    ]
+  }
+}

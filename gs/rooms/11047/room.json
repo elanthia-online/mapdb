@@ -1,0 +1,42 @@
+{
+  "checksum": "e07201ee69d9cce1c84a169e03be2db6",
+  "room": {
+    "id": 11047,
+    "title": [
+      "[Port Valley, Village]"
+    ],
+    "description": [
+      "A small village stretches out to the northeast.  The buildings are clay-and-stucco, all painted pastel shades.  The streets are paved with clay tiles, some painted in bright colors.  A pleasant breeze cools the area, despite the lack of shade."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11046": "southwest",
+      "11048": "north",
+      "11054": "east"
+    },
+    "timeto": {
+      "11046": 0.2,
+      "11048": 0.2,
+      "11054": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      706116
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      937,
+      1307,
+      957,
+      1327
+    ]
+  }
+}

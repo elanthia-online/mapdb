@@ -1,0 +1,53 @@
+{
+  "checksum": "6d022cef288dc94ecf79443394a4c748",
+  "room": {
+    "id": 9606,
+    "title": [
+      "[Czeroth Caverns, Great Cavern]"
+    ],
+    "description": [
+      "Along the edge of the murky pool, beaded helictite looks like thousands of pearls.  A large outcrop of gypsum flowers grows at the pool's edge.  If not for the rancid odors, this would be a magnificent cavern."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9605": "northwest",
+      "9607": "northeast",
+      "9609": "go pool"
+    },
+    "timeto": {
+      "9605": 0.2,
+      "9607": 0.2,
+      "9609": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "withered black mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007039
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1258,
+      346,
+      1268,
+      356
+    ]
+  }
+}

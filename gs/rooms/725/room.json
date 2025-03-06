@@ -1,0 +1,44 @@
+{
+  "checksum": "91cc68180f4f7d3f3125b6d1415368c5",
+  "room": {
+    "id": 725,
+    "title": [
+      "[Ta'Illistim, Aaendarein Gaer]"
+    ],
+    "description": [
+      "Secure beneath the shelter of the nearby belltower, the gaer ends upon a rocky outcropping.  Sturdy wooden railings surround the precipice.  Far below, the flickering torchlight illuminates the guards' hut downhill from the Sapphire Gate.",
+      "Secure beneath the shelter of the nearby belltower, the gaer ends upon a rocky outcropping.  Sturdy wooden railings surround the precipice.  Far below, wagons can be seen, lined up for inspection by the city guard before entering the Sapphire Gate.",
+      "Secure beneath the shelter of the nearby belltower, the gaer ends upon a rocky outcropping.  Sturdy wooden railings surround the precipice.  Far below, the flickering torchlight illuminates the guards' hut downhill from the Sapphire Gate.  Tucked up amidst a cluster of rocks is a marble house roofed in a myriad of crystal panes.",
+      "Secure beneath the shelter of the nearby belltower, the gaer ends upon a rocky outcropping.  Sturdy wooden railings surround the precipice.  Far below, wagons can be seen, lined up for inspection by the city guard before entering the Sapphire Gate.  Tucked up amidst a cluster of rocks is a marble house roofed in a myriad of crystal panes."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "724": "northwest",
+      "3546": "go marble house"
+    },
+    "timeto": {
+      "724": 0.2,
+      "3546": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100039
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1539,
+      529,
+      1559,
+      550
+    ]
+  }
+}

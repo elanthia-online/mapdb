@@ -1,0 +1,27 @@
+{
+  "checksum": "cd118562295c7dadfd2c9ed1f04a06c3",
+  "room": {
+    "id": 14335,
+    "title": [
+      "[The Krawling Kraken]"
+    ],
+    "description": [
+      "The hallway ends abruptly, further passage blocked by the silken folds of long blue curtains and a couple stacks of crates that are pushed up against the walls.  A painting hangs on the western wall, its canvas covered with vibrant hues swirled together to form an image of a large kraken besieging a mariner's vessel.  The plush carpeting continues to the northern end of the corridor and underneath the curtains."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14333": "south",
+      "14336": "go curtains"
+    },
+    "timeto": {
+      "14333": 0.2,
+      "14336": 0.2
+    },
+    "uid": [
+      4901101
+    ]
+  }
+}

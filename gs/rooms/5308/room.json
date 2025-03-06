@@ -1,0 +1,40 @@
+{
+  "checksum": "894761cf8785652f29cd91bb3a7e1a1a",
+  "room": {
+    "id": 5308,
+    "title": [
+      "[Deep Woods, Ruined Temple]"
+    ],
+    "description": [
+      "Chipped and broken votive candle holders sit entombed by melted wax on a niche in the wall.  The years and elements have hardened the wax to the consistency of mortar, making the lumpy mass a permanent fixture.  The scent, probably pleasant at one time, now only adds to the cloying stench of rot."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the deep woods",
+    "wayto": {
+      "5307": "northwest",
+      "5309": "south"
+    },
+    "timeto": {
+      "5307": 0.2,
+      "5309": 0.2
+    },
+    "tags": [
+      "vesperti",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4007032
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1259,
+      224,
+      1269,
+      234
+    ]
+  }
+}

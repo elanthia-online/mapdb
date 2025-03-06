@@ -1,0 +1,34 @@
+{
+  "checksum": "ccb36202ee8540dabdf27fcaf961418a",
+  "room": {
+    "id": 32188,
+    "title": [
+      "[Evermore Hotel, Widow's Walk]"
+    ],
+    "description": [
+      "A spiraled staircase is visible beneath a trapdoor that opens onto a wooden rooftop platform enclosed by a black iron balustrade.  Offering a bird's-eye view of the grounds below, the lookout surrounds a massive stone chimney, a line of sand-filled buckets, and scum-topped rain barrels nearby.  A sleek ebony raven perches on a railing-mounted brass telescope."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Naidem",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32187": "go staircase",
+      "32189": "southeast",
+      "32191": "southwest"
+    },
+    "timeto": {
+      "32187": 0.2,
+      "32189": 0.2,
+      "32191": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8087168
+    ]
+  }
+}

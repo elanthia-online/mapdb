@@ -1,0 +1,37 @@
+{
+  "checksum": "7cf036e0b35bc336d33078619cdd5583",
+  "room": {
+    "id": 7852,
+    "title": [
+      "[Watchtower, Foyer]"
+    ],
+    "description": [
+      "Crafted entirely of limestone, this vaulted room is adorned with pennants and banners depicting the allies of Solhaven as well as the H.E.R.T. coat of arms.  Deep blue rolton wool rugs stretch the expanse of the oak floor and provide a cushion for the room's centerpiece, a replica of the Sea Wolf.  Beneath the supports of a circular staircase are some wide double doors leading to the courtyard beyond, while a crest-adorned oak door leads to the streets."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "1489": "go oak door",
+      "9301": "go wide doors",
+      "14258": "climb staircase",
+      "14260": "northwest",
+      "14261": "southwest",
+      "14262": "southeast",
+      "14263": "northeast"
+    },
+    "timeto": {
+      "1489": 0.2,
+      "9301": 0.2,
+      "14258": 0.2,
+      "14260": 0.2,
+      "14261": 0.2,
+      "14262": 0.2,
+      "14263": 0.2
+    },
+    "tags": [
+      "gone"
+    ]
+  }
+}

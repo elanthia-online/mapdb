@@ -1,0 +1,42 @@
+{
+  "checksum": "4180c7707413a5ae06c23f678370efd3",
+  "room": {
+    "id": 11816,
+    "title": [
+      "[Old Ta'Faendryl, Southern Road]"
+    ],
+    "description": [
+      "The road slopes down to the southwest and rises toward the northeast.  To the north a high wall cuts across the darkened horizon.",
+      "The road slopes down to the southwest and rises toward the northeast.  To the north a high wall, covered with a thick growth of green vegetation, cuts across the horizon."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11815": "southwest",
+      "11817": "northeast"
+    },
+    "timeto": {
+      "11815": 0.2,
+      "11817": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004001
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      650,
+      1052,
+      660,
+      1062
+    ]
+  }
+}

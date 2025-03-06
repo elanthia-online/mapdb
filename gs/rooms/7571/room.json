@@ -1,0 +1,45 @@
+{
+  "checksum": "f38c8f1a02ae9e7a3acbc5d80a4c15ca",
+  "room": {
+    "id": 7571,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "The skeleton of an unfortunate gnome lies half-imbedded in the dirt, its bones glowing eerily with lichen that has migrated from the walls.  The air is heavy and stale, and something skitters across the dirt floor but is gone before you can see what it was."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7570": "east",
+      "7572": "northwest"
+    },
+    "timeto": {
+      "7570": 0.2,
+      "7572": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47005
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      144,
+      1315,
+      154,
+      1325
+    ]
+  }
+}

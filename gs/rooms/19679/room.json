@@ -1,0 +1,42 @@
+{
+  "checksum": "38d0c57800b48e2a182c5eb76208cd22",
+  "room": {
+    "id": 19679,
+    "title": [
+      "[Cavernhold, Pearl Intersection]"
+    ],
+    "description": [
+      "Water drips from the ceiling here and falls into a small pool in the center of this large intersection.  The combination of dissolved minerals and the agitation caused by the falling water has allowed a large number of cave pearls to form."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19678": "east",
+      "19680": "southwest",
+      "19699": "north"
+    },
+    "timeto": {
+      "19678": 0.2,
+      "19680": 0.2,
+      "19699": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11027
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      838,
+      708,
+      850,
+      720
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "be426c93f928fac6c757424ca1e3326e",
+  "room": {
+    "id": 25418,
+    "title": [
+      "[Outpost, Inner Courtyard]"
+    ],
+    "description": [
+      "The entryway into the inner courtyard is a mirror image of the entryway into the outpost but constructed of stone.  The use of stone amplifies the sounds of the busy outer courtyard creating the sensation of immersion in the Hendoran presence in the north.  Arrow slits line the walls of the entryway and trapdoors, portals for boiling oil, gaze down from the ceiling."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23712": "go portcullis",
+      "25417": "east",
+      "25420": "southeast",
+      "25421": "northeast"
+    },
+    "timeto": {
+      "23712": 0.2,
+      "25417": 0.2,
+      "25420": 0.2,
+      "25421": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336327
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      607,
+      197,
+      642,
+      233
+    ]
+  }
+}

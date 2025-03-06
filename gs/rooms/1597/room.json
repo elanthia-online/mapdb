@@ -1,0 +1,43 @@
+{
+  "checksum": "6a54c057888ae3dd3dc862d6254fdd0c",
+  "room": {
+    "id": 1597,
+    "title": [
+      "[Solhaven, Lornon Avenue]"
+    ],
+    "description": [
+      "This section of the avenue is paved with alternating red granite blocks and green-glazed bricks, and a low, red granite wall borders the street's south side.  Rising to twice the wall's height, twin gateposts bear green enamelled wisps of smoke, and a garden filled with pale blossoms and neatly-trimmed shrubs is visible beyond them.",
+      "This section of the avenue is paved with alternating red granite blocks and green-glazed bricks, and a low, red granite wall borders the street's south side.  Rising to twice the wall's height, twin gateposts bear green enamelled wisps of smoke, and a garden filled with lush blossoms and neatly-trimmed shrubs is visible beyond them."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1501": "east",
+      "1596": "west",
+      "4625": "go gateposts"
+    },
+    "timeto": {
+      "1501": 0.2,
+      "1596": 0.2,
+      "4625": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902016
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      1017,
+      1026,
+      1041
+    ]
+  }
+}

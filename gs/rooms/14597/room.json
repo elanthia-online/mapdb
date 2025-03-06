@@ -1,0 +1,44 @@
+{
+  "checksum": "a312f34627f39c975ea2d27e56c8977e",
+  "room": {
+    "id": 14597,
+    "title": [
+      "[Manor House, Second Floor]"
+    ],
+    "description": [
+      "This landing overlooks the first floor foyer and the curving stairway that ascends from it.  From here, short corridors lead to the north, east and south."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5549": "go stairway",
+      "14605": "south",
+      "14607": "east",
+      "14610": "north"
+    },
+    "timeto": {
+      "5549": 0.2,
+      "14605": 0.2,
+      "14607": 0.2,
+      "14610": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4215147
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1047,
+      824,
+      1057,
+      834
+    ]
+  }
+}

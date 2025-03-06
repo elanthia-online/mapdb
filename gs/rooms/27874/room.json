@@ -1,0 +1,29 @@
+{
+  "checksum": "a2c5b24a073d8c554fc542e86e2223de",
+  "room": {
+    "id": 27874,
+    "title": [
+      "[Adene's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "365": "out",
+      "27878": "east",
+      "27879": "north"
+    },
+    "timeto": {
+      "365": 0.2,
+      "27878": 0.2,
+      "27879": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

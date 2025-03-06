@@ -1,0 +1,34 @@
+{
+  "checksum": "ef9d95c38af181f2af33feca50974400",
+  "room": {
+    "id": 20037,
+    "title": [
+      "[Cleric Guild, Meditation Room]"
+    ],
+    "description": [
+      "Chaotic swirls of colored glaes cover the cavern, giving an effect made more dizzying by the intense heat.  A pencil thin river of lava threads a meandering path through the floor, creating immense natural tiles.  Two passages lead off, one to the northeast and the other to the southwest."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "20025": "southwest",
+      "20038": "northeast"
+    },
+    "timeto": {
+      "20025": 0.2,
+      "20038": 0.2
+    },
+    "uid": [
+      672003
+    ],
+    "image": "ti-Cleric_Guild-1267238976.jpg",
+    "image_coords": [
+      488,
+      133,
+      512,
+      161
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "17fa81a952de613b706125cd0e278247",
+  "room": {
+    "id": 28221,
+    "title": [
+      "[Sylvanfair, Library]"
+    ],
+    "description": [
+      "Hundreds of books and scrolls fill the shelves that line the walls.  While some are stacked neatly, arranged with nearly obsessive precision, others are in utter disarray.  Several leather armchairs congregate around a low brick-arched fireplace over which hangs an odd assortment of pictures.  An antique crimson wool rug covers most of the slightly uneven floor, concealing the copper riven slate tiles beneath.  The room is lit by a single brass lantern suspended from a dark oak rafter overhead."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "28219": "go archway",
+      "28222": "go light door",
+      "28223": "down"
+    },
+    "timeto": {
+      "28219": 0.2,
+      "28222": 0.2,
+      "28223": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:locker annex:House Sylvanfair"
+    ],
+    "uid": [
+      4219501
+    ]
+  }
+}

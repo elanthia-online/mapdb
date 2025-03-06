@@ -1,0 +1,24 @@
+{
+  "checksum": "3a8172d85c6778dbbd2f9b767c58baa4",
+  "room": {
+    "id": 23450,
+    "title": [
+      "[Lockit A Lot]"
+    ],
+    "description": [
+      "Decorated with colorful feathers and charms that dangle from the ceiling, the shop space is cheery and bright.  Unnaturally bright light blazes from a series of candles, the smoke wafting from them imparting the scent of lavender into the air.  A single loom spans the a large portion of the space, its length hung with lockets rather than the results of weaving.  Past the loom, a small, diamond-shaped hatch is nearly hidden by an extravagant drape of cotton streamers."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19120": "out",
+      "23451": "go hatch"
+    },
+    "timeto": {
+      "19120": 0.2,
+      "23451": 0.2
+    }
+  }
+}

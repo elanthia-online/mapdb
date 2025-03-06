@@ -1,0 +1,44 @@
+{
+  "checksum": "e35e2ab874ec60ca5b09e9c2f7be8987",
+  "room": {
+    "id": 29943,
+    "title": [
+      "[Hinterwilds, Cave Entrance]"
+    ],
+    "description": [
+      "A clearing spans the space before a craggy cave that delves into a hillock of stone at the briar's edge.  Scents of spoor and decay spice the otherwise pristine air, enduring despite the nasty gale that shivers through the bramble patch.  Great paw prints congregate around the cave entrance."
+    ],
+    "paths": [
+      "Obvious paths: north, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29941": "northwest",
+      "29944": "go cave",
+      "29945": "north"
+    },
+    "timeto": {
+      "29941": 0.2,
+      "29944": 0.2,
+      "29945": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503154
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      901,
+      1041,
+      916,
+      1057
+    ]
+  }
+}

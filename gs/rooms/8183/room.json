@@ -1,0 +1,48 @@
+{
+  "checksum": "17a29470898f0abd2235036a42e619f3",
+  "room": {
+    "id": 8183,
+    "title": [
+      "[Mine, Crystal Caves]"
+    ],
+    "description": [
+      "Milky quartz and stilbite encrust this room, their dull white bulk giving it an oppressive air.  You pick your way across the uneven floor, fearful of impaling yourself on something sharp if you trip.  You hear a dripping sound coming from somewhere, but with all the echoes in these caverns, you can't quite tell the direction."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, down"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8182": "northwest",
+      "8184": "northeast",
+      "8186": "down"
+    },
+    "timeto": {
+      "8182": 0.2,
+      "8184": 0.2,
+      "8186": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24060
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      1020,
+      504,
+      1030,
+      514
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "47fef0ff93b102a09385df8396aa9c1e",
+  "room": {
+    "id": 9559,
+    "title": [
+      "[Wizard Guild, Tunnel]"
+    ],
+    "description": [
+      "Though the walls are unevenly carved, the floor has been smoothened by the feet of wizards over time.  A single glowing toadstool lights this narrow tunnel, ending at a rune-etched door."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9557": "southwest",
+      "9560": "go door"
+    },
+    "timeto": {
+      "9557": 0.2,
+      "9560": 0.2
+    },
+    "uid": [
+      688010
+    ],
+    "image": "en-zul-wizard_guild-1648064027.png",
+    "image_coords": [
+      406,
+      405,
+      466,
+      466
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "f4dbe78037989d9c0ae232f82a41d2e0",
+  "room": {
+    "id": 16433,
+    "title": [
+      "[Rogue Guild, Hallway]"
+    ],
+    "description": [
+      "A dark, windowless door is set into the stone wall at the end of the hall, bordered on both sides by heavy tapestries that keep the chill from the stone to a minimum.  A narrow hall leads off to the west, lit by the dim glow of a single torch at its end."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16395": "south",
+      "16438": "go door",
+      "16439": "west"
+    },
+    "timeto": {
+      "16395": 0.2,
+      "16438": 0.2,
+      "16439": 0.2
+    },
+    "tags": [
+      "rogue guild kitchen"
+    ],
+    "uid": [
+      261011
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      460,
+      359,
+      488,
+      387
+    ]
+  }
+}

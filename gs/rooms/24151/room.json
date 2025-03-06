@@ -1,0 +1,24 @@
+{
+  "checksum": "6e38e6016d0f14cea24cc2737f11ede4",
+  "room": {
+    "id": 24151,
+    "title": [
+      "[Necropolis, Underground Lake]"
+    ],
+    "description": [
+      "The area is pitch dark with only a few glowing toadstools dotting the shoreline.  The vast lake stretches into an abyss of murky swamp water."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24149": "go shoreline",
+      "24152": "/rooms/24151/wayto/stringproc-24152.rb"
+    },
+    "timeto": {
+      "24149": 0.2,
+      "24152": 0.2
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "7a1229aa8a325a1ae1fe5be9ad79795f",
+  "room": {
+    "id": 19882,
+    "title": [
+      "[Cleric Guild, Prayer Room]"
+    ],
+    "description": [
+      "Alabaster walls inlaid with bands of chalcedony house a host of bronze statues, each beautifully formed to resemble the deities of Liabo.  A flower-strewn altar, twin pillar candles each as tall as a halfling flanking it, stands at the center of the room.  Silken cushions cover the intricately tiled floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19881": "southeast",
+      "19883": "northwest"
+    },
+    "timeto": {
+      "19881": 0.2,
+      "19883": 0.2
+    },
+    "uid": [
+      673006
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      665,
+      311,
+      729,
+      372
+    ]
+  }
+}

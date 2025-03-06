@@ -1,0 +1,24 @@
+{
+  "checksum": "45c11af5914247cea4c828adb469fa2d",
+  "room": {
+    "id": 20520,
+    "title": [
+      "[Erythro Island, Crater]"
+    ],
+    "description": [
+      "The blasted ground is covered by a lattice of crimson veins, all zig-zagging in different directions, but each one coming to a point near a large tunnel burrowed into the side of a wall.  Globules of blood drip from the tunnel's wide opening, quickly absorbing into the dirt."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20519": "go opening",
+      "20521": "east"
+    },
+    "timeto": {
+      "20519": 0.2,
+      "20521": 0.2
+    }
+  }
+}

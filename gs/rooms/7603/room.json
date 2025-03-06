@@ -1,0 +1,46 @@
+{
+  "checksum": "cf2ac3c3b538bd137601b60ffa17df90",
+  "room": {
+    "id": 7603,
+    "title": [
+      "[Beach Area, Rocky Shore]"
+    ],
+    "description": [
+      "Standing near the cliff path, you halt upon a narrow spit of sand and gravel.  Your choices here are limited by the sea and the largely unscaleable cliffs above.  To the east, the shore gives way to a tide pool carved out among the rocks.  Turning west, a narrow strand leads to an old pier jutting into the ocean.  Near the old pier, several buildings still stand beneath the cliffs.  Beyond the tumbled structures, among the rocks and boulders, you spy gaps that may lead down to the sea."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "496": "go path",
+      "7604": "east",
+      "7605": "west"
+    },
+    "timeto": {
+      "496": 0.2,
+      "7604": 0.2,
+      "7605": 0.2
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      84101
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      520,
+      529,
+      530,
+      539
+    ]
+  }
+}

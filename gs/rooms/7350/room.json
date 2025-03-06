@@ -1,0 +1,47 @@
+{
+  "checksum": "c9de770d5030713df15ba0a99d598c4e",
+  "room": {
+    "id": 7350,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "A muddy wallow covers most of the side of a small slope.  The deep muck is difficult to move through, making sucking noises as you labor on."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7349": "northwest",
+      "7351": "northeast",
+      "7369": "southeast",
+      "7371": "southwest"
+    },
+    "timeto": {
+      "7349": 0.2,
+      "7351": 0.2,
+      "7369": 0.2,
+      "7371": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160004
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1200,
+      916,
+      1208,
+      924
+    ]
+  }
+}

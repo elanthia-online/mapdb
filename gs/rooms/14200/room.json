@@ -1,0 +1,32 @@
+{
+  "checksum": "34563aa5ff5f2c14013d0331dbf2f55e",
+  "room": {
+    "id": 14200,
+    "title": [
+      "[Temple of Lorminstra, Courtyard]"
+    ],
+    "description": [
+      "A high, snow-covered hedge screens this area from the memorial garden to the west, and a flagstone path stretches from the temple to a two-storied building in the courtyard's southeast corner."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14199": "go door",
+      "14203": "southeast"
+    },
+    "timeto": {
+      "14199": 0.2,
+      "14203": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4742028
+    ]
+  }
+}

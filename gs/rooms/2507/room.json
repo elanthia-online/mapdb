@@ -1,0 +1,45 @@
+{
+  "checksum": "84e9f7eb5bb243a865c75fea199788e5",
+  "room": {
+    "id": 2507,
+    "title": [
+      "[Icemule Trail, Snowy Forest]"
+    ],
+    "description": [
+      "Some relief from the howling wind that races across the tundra is found when the trail tapers off into the edge of the pines.  Powdery snow drifts silently from the sky, covering the deep forest like a soft blanket."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "glacial",
+    "terrain": "barren scrub",
+    "wayto": {
+      "2506": "go trail",
+      "2508": "/rooms/2507/wayto/stringproc-2508.rb"
+    },
+    "timeto": {
+      "2506": 0.2,
+      "2508": 0.2
+    },
+    "tags": [
+      "snow pansy",
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044209
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      1170,
+      327,
+      1180,
+      337
+    ]
+  }
+}

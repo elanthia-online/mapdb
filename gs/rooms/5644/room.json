@@ -1,0 +1,50 @@
+{
+  "checksum": "53e17a0b1e80f8d4a481f4e7bb0ceab7",
+  "room": {
+    "id": 5644,
+    "title": [
+      "[Warrens]"
+    ],
+    "description": [
+      "Large gnarled roots run along the walls and roof of this tunnelway, likely the only support for the soft earth forming this passage.  Dim light peeking through a jagged hole overhead is managing to provide a bit of illumination for this otherwise darkened lair.  Curious grunts echo from all about, the sound magnified by the claustrophobic terrain."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5637": "climb hole",
+      "5645": "north",
+      "5646": "south",
+      "5647": "southwest"
+    },
+    "timeto": {
+      "5637": 0.2,
+      "5645": 0.2,
+      "5646": 0.2,
+      "5647": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4006001
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      762,
+      661,
+      772,
+      671
+    ]
+  }
+}

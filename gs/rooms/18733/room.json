@@ -1,0 +1,46 @@
+{
+  "checksum": "59ee7e9cc84720ee8848ac099894d36f",
+  "room": {
+    "id": 18733,
+    "title": [
+      "[Sorcerer Guild, Arcane Studies]"
+    ],
+    "description": [
+      "Dramatically striated layers of reddish sandstone have been eroded to form this narrow chamber.  Soft beams of starlight filter in from high overhead, where the stone walls converge to a narrow slit.  The old rivercourse creates a narrow passageway to the south."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18734": "go passageway",
+      "18735": "go arch",
+      "18736": "go alcove",
+      "18737": "north"
+    },
+    "timeto": {
+      "18734": 0.2,
+      "18735": 0.2,
+      "18736": 0.2,
+      "18737": 0.2
+    },
+    "tags": [
+      "sorcerer alchemy administrator",
+      "meta:mapshortname:Sorcerer Guild (Ta'Vaalor)",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:Guilds",
+      "meta:mapname:Elven Nations - Ta'Vaalor - Sorcerer Guild",
+      "sorcerer guild administrator"
+    ],
+    "uid": [
+      667010
+    ],
+    "image": "en-ta_vaalor-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      626,
+      328,
+      664,
+      365
+    ]
+  }
+}

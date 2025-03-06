@@ -1,0 +1,38 @@
+{
+  "checksum": "a6c29e9226f8fdf57e756a8495ea0415",
+  "room": {
+    "id": 9133,
+    "title": [
+      "[Subterranean Island, Stones]"
+    ],
+    "description": [
+      "An almost straight row of stepping stones rises out of the lake between the two hills of the island.  Whether they were placed here or are natural is difficult to say.  Moss covers the stones, but they are wide enough that there is little danger of falling into the muddy depths."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9132": "south",
+      "9134": "north"
+    },
+    "timeto": {
+      "9132": 0.2,
+      "9134": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045242
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      108,
+      859,
+      118,
+      869
+    ]
+  }
+}

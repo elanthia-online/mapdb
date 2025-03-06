@@ -1,0 +1,47 @@
+{
+  "checksum": "7baf15a649930a0874b8f455a66688dc",
+  "room": {
+    "id": 28997,
+    "title": [
+      "[Kelpie Beds, Lounge]"
+    ],
+    "description": [
+      "Massive ship wheel chandeliers hang from the sea salt-stained ceiling overhead, the wood of both dark with use and age, but glossy with a thick coat of lacquer.  The entire far wall of the lounge is occupied by a reclaimed wood bar, while half a dozen or so tables are arranged around a central mast erected at the center of the space.  A rope ladder leads up the mast to a crow's nest."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28996": "go arch",
+      "28998": "go ladder",
+      "28999": "/rooms/28997/wayto/stringproc-28999.rb",
+      "29000": "/rooms/28997/wayto/stringproc-29000.rb",
+      "29001": "/rooms/28997/wayto/stringproc-29001.rb",
+      "29002": "/rooms/28997/wayto/stringproc-29002.rb",
+      "29003": "/rooms/28997/wayto/stringproc-29003.rb",
+      "29004": "/rooms/28997/wayto/stringproc-29004.rb",
+      "30716": "/rooms/28997/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28996": 0.2,
+      "28998": 0.2,
+      "28999": 0.2,
+      "29000": 0.2,
+      "29001": 0.2,
+      "29002": 0.2,
+      "29003": 0.2,
+      "29004": 0.2,
+      "30716": "/rooms/28997/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "table",
+      "tables",
+      "urchin-access",
+      "urchin guide tables"
+    ],
+    "uid": [
+      7118333
+    ]
+  }
+}

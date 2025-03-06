@@ -1,0 +1,43 @@
+{
+  "checksum": "89545e0ec33054bf9f118f2c825da929",
+  "room": {
+    "id": 13287,
+    "title": [
+      "[Mixing Room]"
+    ],
+    "description": [
+      "Carefully pouring ground dye mixes into clear glass bottles, several gnomes work with unhurried efficiency.  One gnome dips a brush into a thick glue, brushes it across the front of full bottles, then hands them to the gnome next to him to label.  Light pours in from the west, adding to the light provided by two large chandeliers dangling from the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13247": "north",
+      "13288": "west",
+      "13289": "east"
+    },
+    "timeto": {
+      "13247": 0.2,
+      "13288": 0.2,
+      "13289": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      34184
+    ],
+    "image": "en-ta_illistim-dyers_tent-1512162815.png",
+    "image_coords": [
+      1602,
+      841,
+      1744,
+      908
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "c14a8cef568640384f5909855eee1456",
+  "room": {
+    "id": 11591,
+    "title": [
+      "[Krolvin Carrack, Main Deck]"
+    ],
+    "description": [
+      "The starboard-slanting deck is littered with rigging and tackle.  The belaying pins in the portside pin-rail have all been ripped away.  Part of the broken mainyard lies in the bulwarks.  A narrow companionway ladder leads up to the quarterdeck."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Shattered Moors",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11557": "west",
+      "11589": "climb ladder"
+    },
+    "timeto": {
+      "11557": 0.2,
+      "11589": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420502
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      159,
+      932,
+      169,
+      942
+    ]
+  }
+}

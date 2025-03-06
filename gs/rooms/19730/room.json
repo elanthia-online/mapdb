@@ -1,0 +1,48 @@
+{
+  "checksum": "ff09f08d5e642d8d8b6e68ec268c4d6b",
+  "room": {
+    "id": 19730,
+    "title": [
+      "[Cavernhold, Large Chamber]"
+    ],
+    "description": [
+      "You are in center of this large chamber.  The lake lies to the north while the brewery and lichen farm are easily visible."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south, west, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19709": "south",
+      "19722": "west",
+      "19723": "east",
+      "19724": "north",
+      "19725": "northwest",
+      "19731": "northeast"
+    },
+    "timeto": {
+      "19709": 0.2,
+      "19722": 0.2,
+      "19723": 0.2,
+      "19724": 0.2,
+      "19725": 0.2,
+      "19731": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11014
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      337,
+      693,
+      349,
+      702
+    ]
+  }
+}

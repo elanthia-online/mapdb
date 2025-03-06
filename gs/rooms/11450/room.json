@@ -1,0 +1,49 @@
+{
+  "checksum": "dde21d7e35ebe36b1a3ef9b29da235ad",
+  "room": {
+    "id": 11450,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The sea swells break lazily against the stony base of the steep cliff wall.  Birds whirl and screech overhead as they fight for nesting places among the few tufts of scrub brush that cling to the sheer cliff.  The green waters of Maelstrom Bay, muted by the bright moonlight, stretch out to the west.",
+      "The sea swells break lazily against the stony base of the steep cliff wall.  Birds whirl and screech overhead as they fight for nesting places among the few tufts of scrub brush that cling to the sheer cliff.  The green waters of Maelstrom Bay, bright in the sunlight, stretch out to the west."
+    ],
+    "paths": [
+      "Obvious paths: north, south, southwest, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11438": "/rooms/11450/wayto/stringproc-11438.rb",
+      "11439": "/rooms/11450/wayto/stringproc-11439.rb",
+      "11447": "/rooms/11450/wayto/stringproc-11447.rb",
+      "11451": "/rooms/11450/wayto/stringproc-11451.rb",
+      "11455": "/rooms/11450/wayto/stringproc-11455.rb",
+      "11458": "/rooms/11450/wayto/stringproc-11458.rb"
+    },
+    "timeto": {
+      "11438": 2,
+      "11439": 2,
+      "11447": 2,
+      "11451": 2,
+      "11455": 2,
+      "11458": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304018
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      729,
+      1261,
+      739,
+      1271
+    ]
+  }
+}

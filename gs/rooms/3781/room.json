@@ -1,0 +1,40 @@
+{
+  "checksum": "29e708e979d60b3922ccc3779c47f32c",
+  "room": {
+    "id": 3781,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "A ladder of woven palm fronds hangs over the wide ledge and is the only way to gain entry to the pit.  It looks quite frayed and in terrible condition, with most of the fronds torn or tattered.  The giant red splatter stains on the floor below are not reassuring in the least."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9210": "south",
+      "9211": "east",
+      "9240": "climb ladder"
+    },
+    "timeto": {
+      "9210": 0.2,
+      "9211": 0.2,
+      "9240": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532006
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1144,
+      706,
+      1154,
+      716
+    ]
+  }
+}

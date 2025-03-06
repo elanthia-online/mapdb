@@ -1,0 +1,40 @@
+{
+  "checksum": "37d1859780de64d271ebe10e42323bcb",
+  "room": {
+    "id": 19719,
+    "title": [
+      "[Cavernhold, Shopai Stable]"
+    ],
+    "description": [
+      "This is the room used as the stables for the small herd of shopai that the Gnolls raise and tend.  It is fenced to prevent the beasts from wandering the underground complex.  A small stream runs down the center of the passage to the north and disappears under the wall to the east."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19713": "north",
+      "19720": "south"
+    },
+    "timeto": {
+      "19713": 0.2,
+      "19720": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10057
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      408,
+      893,
+      418,
+      904
+    ]
+  }
+}

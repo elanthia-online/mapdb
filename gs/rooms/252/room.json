@@ -1,0 +1,95 @@
+{
+  "checksum": "71f244908679300c1c62b08d4546a5b0",
+  "room": {
+    "id": 252,
+    "title": [
+      "[Wehnimer's, West Crossing]"
+    ],
+    "description": [
+      "From here, the vista along the horizon affords a view of both banks of the river.  To the west, the dark expanse of the town's low skyline is dominated by rambling structures and a few towers.  To the east lies the bridge across the Locksmehr, spanning the dark waters to the less-populated east bank.",
+      "From here, the vista along the horizon affords a view of both banks of the river.  To the west, the town's low skyline is dominated by rambling structures and a few towers.  To the east lies the bridge across the Locksmehr, carrying a constant flow of people, goods, and wagons."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west",
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "251": "north",
+      "253": "west",
+      "254": "south",
+      "326": "go bridge",
+      "1251": "go tent",
+      "8730": "go gate"
+    },
+    "timeto": {
+      "251": 0.2,
+      "253": 0.2,
+      "254": 0.2,
+      "326": 0.2,
+      "1251": 0.2,
+      "8730": 0.2
+    },
+    "tags": [
+      "small daisy",
+      "pepperthorn root",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild carrot",
+      "ginger root",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "white baneberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "juniper berry",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "brown potato",
+      "agave heart",
+      "meta:forage-sensed:???:2023-01",
+      "meta:forage-sensed",
+      "purple potato",
+      "round grumbleberry",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "off-white parsnip",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      7026
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1050,
+      701,
+      1086,
+      737
+    ]
+  }
+}

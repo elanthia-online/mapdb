@@ -1,0 +1,44 @@
+{
+  "checksum": "53561394d15e153bafa97d2c90fb9787",
+  "room": {
+    "id": 30052,
+    "title": [
+      "[Angargreft, Berserker's End]"
+    ],
+    "description": [
+      "Imposing runestones point toward the sky like adamant fingers, but the copper-filled sigils on the unyielding stone are defaced with smears of dried brown blood and black char.  The vile graffiti takes on snaking forms with cruel curves and violent strokes, marring the runework beneath.  Bodies are scattered in the snow drifts that have collected in the shadows of the stones, broken and mangled as if crushed by incredible force."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30051": "northwest",
+      "30053": "southwest",
+      "30057": "south"
+    },
+    "timeto": {
+      "30051": 0.2,
+      "30053": 0.2,
+      "30057": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503491
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      690,
+      107,
+      705,
+      121
+    ]
+  }
+}

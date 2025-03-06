@@ -1,0 +1,42 @@
+{
+  "checksum": "610e67f8c67970a2908806be7e070ac9",
+  "room": {
+    "id": 6977,
+    "title": [
+      "[Cavern]"
+    ],
+    "description": [
+      "This narrow passage is cold and shadowy.  The walls narrow and a chill breeze blows through, raising the hairs on the back of your neck.  The floor is slimy under your feet, and you hear a steady dripping sound."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6975": "west",
+      "6978": "east"
+    },
+    "timeto": {
+      "6975": 0.2,
+      "6978": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      43021
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      96,
+      595,
+      106,
+      605
+    ]
+  }
+}

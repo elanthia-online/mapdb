@@ -1,0 +1,36 @@
+{
+  "checksum": "226739eb3880e41699a5fbfb5a8a7594",
+  "room": {
+    "id": 33651,
+    "title": [
+      "[Keep Tower, Stairwell]"
+    ],
+    "description": [
+      "Slabs of carved grey granite set in a spiral traverse this stairwell, wide enough to carry whole groups of people up and down the generous steps.  Small slit windows allow for a glimpse of the countryside, as slender beams of pale light barely illuminate glittering mica in the stone.  A fine layer of dust hangs over the thick iron chain that has been bolted to the walls, lending the area an unkempt appearance that is at odds with the view from the windows."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33631": "down",
+      "33652": "up",
+      "33693": "go door"
+    },
+    "timeto": {
+      "33631": 0.2,
+      "33652": 0.2,
+      "33693": 0.2
+    },
+    "uid": [
+      7101172
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1462,
+      1525,
+      1502,
+      1570
+    ]
+  }
+}

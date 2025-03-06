@@ -1,0 +1,44 @@
+{
+  "checksum": "9b069706ae89073a005fc65d39e3edb9",
+  "room": {
+    "id": 2193,
+    "title": [
+      "[Eye of V'Tull, Crystal Chamber]"
+    ],
+    "description": [
+      "Low steady vibrations shake the area violently as V'Tull protests the forces reshaping it.  The vibrations have shattered many of the crystal stalactites leaving the floor with a mixed cover of shards and ash while whiffs of steam and sulferous gasses dance in the small whirlwinds on the currents of hot air."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2192": "north",
+      "2194": "northwest",
+      "2195": "west"
+    },
+    "timeto": {
+      "2192": 0.2,
+      "2194": 0.2,
+      "2195": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060017
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      895,
+      575,
+      903,
+      583
+    ]
+  }
+}

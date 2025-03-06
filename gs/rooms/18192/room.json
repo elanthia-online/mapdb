@@ -1,0 +1,41 @@
+{
+  "checksum": "3c1e852dda7312d92ffff18f726875cb",
+  "room": {
+    "id": 18192,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "You come upon a silent oak tree, resilient and strong, patiently extending its reach towards the sun.  Scattered about the ground, a blanket of acorns and twigs adds an ungraceful crunch to your step.",
+      "You come upon a silent oak tree, resilient and strong, patiently extending its reach towards the stars.  Scattered about the ground, a blanket of acorns and twigs adds an ungraceful crunch to your step."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18191": "south",
+      "18193": "north"
+    },
+    "timeto": {
+      "18191": 0.2,
+      "18193": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312021
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      404,
+      245,
+      416,
+      256
+    ]
+  }
+}

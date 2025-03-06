@@ -1,0 +1,43 @@
+{
+  "checksum": "e00008bc742c51517dca57aa6760d11a",
+  "room": {
+    "id": 30409,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Warm, salty breezes ripple the clear seawater as it gently presses towards the island.  Several water birds fly overhead on their way to the towering rocks in the west.  Almost translucent, a group of moon jellyfish float just beneath the surface, lightly swaying along with the current."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30398": "pedal southwest",
+      "30400": "pedal northwest",
+      "30407": "pedal west",
+      "30408": "pedal north"
+    },
+    "timeto": {
+      "30398": 6,
+      "30400": 6,
+      "30407": 6,
+      "30408": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216184
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      608,
+      3121,
+      632,
+      3136
+    ]
+  }
+}

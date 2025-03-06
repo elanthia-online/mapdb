@@ -1,0 +1,43 @@
+{
+  "checksum": "4977e0e595dec7dc01456323151a49c9",
+  "room": {
+    "id": 6951,
+    "title": [
+      "[Warrior Guild, Entryway]"
+    ],
+    "description": [
+      "You are standing face-to-face with the southern wall of the Warrior Guild.  More fortress than building, its stone walls are interspersed with towering spires, the highest and most impressive being the two on the wall facing you.  Each of the spires is inset with thick-glazed, narrow windows that purchase them a view at every angle.  The entrance to the Guild itself is guarded by a massive portcullis of stout iron bars faced overall with mein reinforcing."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "265": "south",
+      "13914": "go portcullis",
+      "30708": "/rooms/6951/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "265": 0.2,
+      "13914": "/rooms/6951/timeto/stringproc-13914.rb",
+      "30708": "/rooms/6951/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "meta:noteleport:fwi",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild"
+    ],
+    "uid": [
+      251001
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      658,
+      78,
+      694,
+      114
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "56ceb8d796e8ded05b1879ed01d9e298",
+  "room": {
+    "id": 34426,
+    "title": [
+      "[The TownCrier, Community Hall]"
+    ],
+    "description": [
+      "A wide archway opens into a spacious hall with strikingly grained mahogany walls that climb into soaring rafters.  High above, a large dome of stained glass displays four messenger birds flying in from the cardinal directions to a center emblem displaying the entwined letters T and C.  In the center of the hall, a polished tanik dance floor is flanked by groups of chairs arranged in small conversational groupings.  A pair of paneled mahogany doors framed in dark blue velvet curtains mark the northern wall."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "34425": "south",
+      "34427": "go doors"
+    },
+    "timeto": {
+      "34425": 0.2,
+      "34427": 0.2
+    },
+    "uid": [
+      18077002
+    ]
+  }
+}

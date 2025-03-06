@@ -1,0 +1,42 @@
+{
+  "checksum": "31bc69021ab7f838c0757ecd4e79cc19",
+  "room": {
+    "id": 3697,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "An immense, fortified, iron door takes up most of the eastern wall.  The stench of oil and burnt flesh clings to the stone walls and to the charred and blackened bars of the door through which you glimpse the horror that lies within the chamber."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3696": "northwest",
+      "3698": "go door"
+    },
+    "timeto": {
+      "3696": 0.2,
+      "3698": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42023
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      336,
+      1286,
+      346,
+      1296
+    ]
+  }
+}

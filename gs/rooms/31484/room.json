@@ -1,0 +1,44 @@
+{
+  "checksum": "f93dfe3b97d8064feae404863801d4b4",
+  "room": {
+    "id": 31484,
+    "title": [
+      "[Mistwatch, Walkway]"
+    ],
+    "description": [
+      "Thick planks of oak create a walkway that parallels the ocean.  Floating tigerwood docks are secured to the east along the shoreline.  Wandering off to the west, a narrow trail disappears into the forest.  Laughter flows out of an iron and mahogany building built across the path, away from the water.  A small stone shop is tucked between a pair of spindly trees with warped bark that has been damaged by the sea air."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Elven Nations Port",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31483": "go trail",
+      "31485": "go building",
+      "31487": "east",
+      "31488": "north"
+    },
+    "timeto": {
+      "31483": 0.2,
+      "31485": 0.2,
+      "31487": 0.2,
+      "31488": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7136090
+    ],
+    "image": "en-ta_vaalor_port-1662946910.png",
+    "image_coords": [
+      767,
+      333,
+      785,
+      350
+    ]
+  }
+}

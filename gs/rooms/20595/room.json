@@ -1,0 +1,27 @@
+{
+  "checksum": "bd6afe6e300f3790cfaf66cb576d3eca",
+  "room": {
+    "id": 20595,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "Brass sconces line the walls, their dim torch light casting flickering shadows down the tunnel.  The ground is rough and downward sloping."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20594": "east",
+      "20596": "west"
+    },
+    "timeto": {
+      "20594": 0.2,
+      "20596": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

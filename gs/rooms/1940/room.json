@@ -1,0 +1,36 @@
+{
+  "checksum": "88505dc6c5aca2002bc3231fb4e800b4",
+  "room": {
+    "id": 1940,
+    "title": [
+      "[Adventurers Rest, Long Hall]"
+    ],
+    "description": [
+      "A long, crystalized seam in the wall glints beneath torches set in elaborate, wrought iron sconces."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1939": "south",
+      "1941": "north",
+      "33213": "go dreamstone arch"
+    },
+    "timeto": {
+      "1939": 0.2,
+      "1941": 0.2,
+      "33213": 0.2
+    },
+    "uid": [
+      3003254
+    ],
+    "image": "ti-adventurers_rest-1486448911.png",
+    "image_coords": [
+      1485,
+      286,
+      1630,
+      352
+    ]
+  }
+}

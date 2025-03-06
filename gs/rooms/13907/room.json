@@ -1,0 +1,26 @@
+{
+  "checksum": "d3316d781fc2936f10d811ad68cb4af5",
+  "room": {
+    "id": 13907,
+    "title": [
+      "[Koquette's Outfitting]",
+      "[Koquette's Magic Shoppe]"
+    ],
+    "description": [
+      "Enclosed by refined oak-paneled walls, the shop features an elegantly dressed maiden statue in the center of its dark oak floor.  A tattered merchant permit hangs under the Vornavian silk ceiling.  Right near the front is a hammered copper hanging rack and a Vornavian silk-lined display case."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "13622": "west"
+    },
+    "timeto": {
+      "13622": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "114d0b88b6c58407d92ee19caacc38bb",
+  "room": {
+    "id": 7243,
+    "title": [
+      "[Under Barrow, Slimy Passage]"
+    ],
+    "description": [
+      "This part of the corridor is so steep that keeping your footing is a questionable concept.  You grab at the walls to forestall an impending stumble but immediately regret this instinctive action as your hands touch upon many small, wriggly things embedded in the slime coating the sweaty walls.  Down the slope, receding off into the murk, the corridor widens."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7242": "down",
+      "7244": "up"
+    },
+    "timeto": {
+      "7242": 0.2,
+      "7244": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18102
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      618,
+      534,
+      628,
+      544
+    ]
+  }
+}

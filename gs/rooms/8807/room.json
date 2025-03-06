@@ -1,0 +1,41 @@
+{
+  "checksum": "860dfb26a55196c3cb50903ef97ed1bc",
+  "room": {
+    "id": 8807,
+    "title": [
+      "[Dragonsclaw Arms, Third Floor]"
+    ],
+    "description": [
+      "A small window provides a view of the nearby rooftops and the street below.  The slight breeze from the window causes the candle-flames to flicker, casting odd shadows on the painted walls. A narrow staircase leads up into the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8674": "climb staircase",
+      "8806": "north",
+      "8808": "east"
+    },
+    "timeto": {
+      "8674": 0.2,
+      "8806": 0.2,
+      "8808": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      700118
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      577,
+      779,
+      597,
+      799
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "70cd934f3819a720d5a6ef8b6e34dcd2",
+  "room": {
+    "id": 28950,
+    "title": [
+      "[The Sea Hag's Roost, Tavern]"
+    ],
+    "description": [
+      "Guests dine and carouse in close company at a single long table in this airy, well-appointed tavern.  Towards the corner, a collection of smaller tables allow guests to share a drink or word with a greater measure of privacy, and a small archway leads to a busy kitchen.  Large open windows dominate the tavern's southern wall, filling the space with the sights and sounds of the nearby sea."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28946": "go doors",
+      "28951": "go archway",
+      "28952": "/rooms/28950/wayto/stringproc-28952.rb",
+      "28953": "/rooms/28950/wayto/stringproc-28953.rb",
+      "28954": "/rooms/28950/wayto/stringproc-28954.rb",
+      "28955": "/rooms/28950/wayto/stringproc-28955.rb",
+      "28956": "/rooms/28950/wayto/stringproc-28956.rb",
+      "30716": "/rooms/28950/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28946": 0.2,
+      "28951": 0.2,
+      "28952": 0.2,
+      "28953": 0.2,
+      "28954": 0.2,
+      "28955": 0.2,
+      "28956": 0.2,
+      "30716": "/rooms/28950/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "board",
+      "taskboard",
+      "task",
+      "table",
+      "node",
+      "supernode",
+      "urchin-access",
+      "urchin guide osatask",
+      "osatask"
+    ],
+    "uid": [
+      7118319
+    ]
+  }
+}

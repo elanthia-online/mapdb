@@ -1,0 +1,32 @@
+{
+  "checksum": "a0b5985d9c31616d48128aece2768587",
+  "room": {
+    "id": 26129,
+    "title": [
+      "[Ebon Chamber of Light]"
+    ],
+    "description": [
+      "An enormous, glass-encased crystal formation fills the center of the chamber, the solid prisms aglow in soft, pulsating light which reflects off the low ceiling and smooth stone walls.  Across from the entrance, numerous uncommon runes and mystical symbols are carved into the stonework surrounding a distorted ebon portal."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26121": "out",
+      "26141": "go portal"
+    },
+    "timeto": {
+      "26121": 0.2,
+      "26141": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7107027
+    ]
+  }
+}

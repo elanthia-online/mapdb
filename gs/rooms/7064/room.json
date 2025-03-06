@@ -1,0 +1,48 @@
+{
+  "checksum": "e558b93f5d747edf98eff1fdb1ef65c6",
+  "room": {
+    "id": 7064,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The dirt walls are damp and pitted with the burrows of small, nocturnal creatures.  A thin, sticky webwork covers the wall to your left, dotted with the corpses of hapless rodents and slugs."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7063": "northeast",
+      "7065": "southwest"
+    },
+    "timeto": {
+      "7063": 0.2,
+      "7065": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42501
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      216,
+      953,
+      226,
+      963
+    ]
+  }
+}

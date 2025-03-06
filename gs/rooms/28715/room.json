@@ -1,0 +1,29 @@
+{
+  "checksum": "12935da61ac2e89dea06ccaedc56cbd3",
+  "room": {
+    "id": 28715,
+    "title": [
+      "[Company Lockers]"
+    ],
+    "description": [
+      "You are standing in a tiny room whose facing wall is an array of small, locked doors.  One of the lockers has been removed for you and is sitting in a small counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "13060": "go opening"
+    },
+    "timeto": {
+      "13060": 0.2
+    },
+    "tags": [
+      "peer opening =~ /^Obvious exits: west$/",
+      "meta:locker"
+    ],
+    "uid": [
+      3003106
+    ]
+  }
+}

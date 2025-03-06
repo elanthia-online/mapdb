@@ -1,0 +1,27 @@
+{
+  "checksum": "3f38cfee4eb49f1f239c88f7ec0fb43b",
+  "room": {
+    "id": 21724,
+    "title": [
+      "[ShadowGuard, West Wing]"
+    ],
+    "description": [
+      "This dark stretch of hallway seems completely void of life.  The bare stone ceiling above has lost its former glory as all of the once fine plaster is missing.  Rusting iron sconces line the north wall, their emptiness a fitting testament to the absence of light in this desolate place."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21723": "east",
+      "21725": "west"
+    },
+    "timeto": {
+      "21723": 0.2,
+      "21725": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "ac167d5695e5fccbc6e3b6d2d0807954",
+  "room": {
+    "id": 26651,
+    "title": [
+      "[The Abandoned Waters]"
+    ],
+    "description": [
+      "Moonlight pierces the shallow waters, sending delicate rays of silvery blue light through the plunging azure depths.  Twinkling black sand comprising an endless, sloping shoal below catches the moonlight, glinting shells and treasures peeking out from within it as far as the eye can see.",
+      "Sunlight pierces the shallow waters, sending delicate rays of silvery blue light through the plunging azure depths.  Twinkling black sand comprising an endless, sloping shoal below catches the sunlight, glinting shells and treasures peeking out from within it as far as the eye can see."
+    ],
+    "paths": [
+      "Obvious paths: west, northwest, down"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26652": "swim northwest",
+      "26654": "swim west",
+      "26673": "/rooms/26651/wayto/stringproc-26673.rb"
+    },
+    "timeto": {
+      "26652": 0.2,
+      "26654": 0.2,
+      "26673": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      326,
+      1066,
+      340,
+      1078
+    ]
+  }
+}

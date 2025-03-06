@@ -1,0 +1,41 @@
+{
+  "checksum": "dabf38b1d7a35cf8ad6be2ae94f69504",
+  "room": {
+    "id": 30278,
+    "title": [
+      "[Rusty Cutlass, The Galley]"
+    ],
+    "description": [
+      "The back of the galley is dominated by an enormous red brick oven, its center set with a long oily grate above a glowing fire.  A high shelf almost droops beneath the weight of bags of flour, iron pots and pans, and nearly a hundred corked bottles of rum.  A wide worktable is suspended from the ceiling by heavy ropes and its surface is scattered with various meat cleavers, jars of spices, and old stains.  Several crates and iron-banded barrels occupy every corner of the kitchen."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "30276": "east",
+      "30277": "south",
+      "30940": "go ladder"
+    },
+    "timeto": {
+      "30276": 0.2,
+      "30277": 0.2,
+      "30940": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336652
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      826,
+      492,
+      854,
+      524
+    ]
+  }
+}

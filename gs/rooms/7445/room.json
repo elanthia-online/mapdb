@@ -1,0 +1,52 @@
+{
+  "checksum": "c33a6df070c38efc9c8b8c6287bfade7",
+  "room": {
+    "id": 7445,
+    "title": [
+      "[The Broken Lands, Jagged Plain]"
+    ],
+    "description": [
+      "The dense tangle of wildly growing crystals to the east presents a formidable barrier.  While travel through the rocks and boulders of the jagged plains is difficult, trying to make your way through the sharp outcroppings of the crystal forest would be deadly."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Broken Lands",
+    "climate": "hot, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7444": "/rooms/7445/wayto/stringproc-7444.rb",
+      "7448": "/rooms/7445/wayto/stringproc-7448.rb",
+      "7456": "/rooms/7445/wayto/stringproc-7456.rb",
+      "17327": "/rooms/7445/wayto/stringproc-17327.rb",
+      "23266": "/rooms/7445/wayto/stringproc-23266.rb"
+    },
+    "timeto": {
+      "7444": 3.2,
+      "7448": 3.2,
+      "7456": 3.2,
+      "17327": 3.2,
+      "23266": 3.2
+    },
+    "tags": [
+      "large black toadstool",
+      "some blackened moss",
+      "hooded figure",
+      "giant fog beetle",
+      "blackened moss",
+      "black toadstool",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      306043
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      730,
+      843,
+      740,
+      853
+    ]
+  }
+}

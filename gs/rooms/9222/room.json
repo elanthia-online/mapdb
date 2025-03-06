@@ -1,0 +1,38 @@
+{
+  "checksum": "3c279fd9d0707b218e4fbbaeac980489",
+  "room": {
+    "id": 9222,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "Etched into the stone is a series of several odd glyphs surrounded by a jagged square border.  They aren't recognizable as anything familiar and might be anything from an intricately mystical sigil to directions out of the cellar."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9221": "west",
+      "9223": "east"
+    },
+    "timeto": {
+      "9221": 0.2,
+      "9223": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532028
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1172,
+      922,
+      1182,
+      932
+    ]
+  }
+}

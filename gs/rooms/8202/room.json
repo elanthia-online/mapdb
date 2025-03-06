@@ -1,0 +1,51 @@
+{
+  "checksum": "495cf478a450529edb7a6d2737e3232a",
+  "room": {
+    "id": 8202,
+    "title": [
+      "[Sea Caverns, Tunnel]"
+    ],
+    "description": [
+      "The tunnel is narrow and light is barely able to intrude.  Garbage is also present here, muffling the sound of footsteps.  To the southeast, the darkness deepens making visibility difficult, and it appears the going gets more confining in that direction."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8198": "north",
+      "8203": "southeast"
+    },
+    "timeto": {
+      "8198": 0.2,
+      "8203": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391013
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      527,
+      130,
+      537,
+      140
+    ]
+  }
+}

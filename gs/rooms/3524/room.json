@@ -1,0 +1,45 @@
+{
+  "checksum": "048b68e5a92cc7a38650a25fc72446f2",
+  "room": {
+    "id": 3524,
+    "title": [
+      "[Ta'Vaalor, Maerneis Var]"
+    ],
+    "description": [
+      "The rich smell of chocolate drifts from the nearby shop.  The stone-clad building, its windows thrown open to the breeze, is carved about the door and window embrasures with flighty impressions of faeries and other fanciful creatures.  A hand-lettered maoral sign hangs on the shop's door.",
+      "The faint scent of chocolate is barely detectible beneath the overwhelming stench of burned wood and scorched stone.  What was formerly a small shop is now merely a stone husk, all traces of its wooden door, windows, and framework completely obliterated by lightning and fire.",
+      "An enticing mixture of fragrances wafts from the small, stone-clad rations shop -- the spicy scent of jerky, the rich smell of chocolate, and the aroma of freshly baked bread.  Along the side of the cottage, a small garden has been planted with an assortment of herbs and vegetables.  A hand-lettered maoral sign hangs on the shop's door."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3523": "south",
+      "3525": "east",
+      "10368": "go shop"
+    },
+    "timeto": {
+      "3523": 0.2,
+      "3525": 0.2,
+      "10368": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100037
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1149,
+      780,
+      1184,
+      818
+    ]
+  }
+}

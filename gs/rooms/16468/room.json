@@ -1,0 +1,34 @@
+{
+  "checksum": "4bf9dc9ce60d49b04c89f54ab4ff5866",
+  "room": {
+    "id": 16468,
+    "title": [
+      "[Rogue Guild, Office Anteroom]"
+    ],
+    "description": [
+      "This small room serves as a waiting area for those requesting a presence with the guildmaster.  A few chairs and a table sparsely furnish the otherwise cramped space.  One darkly clad elf sits slumped over asleep, oblivious to your presence."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16449": "go door",
+      "16485": "go archway"
+    },
+    "timeto": {
+      "16449": 0.2,
+      "16485": 0.2
+    },
+    "uid": [
+      261034
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      598,
+      415,
+      626,
+      443
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "e6ad74f95052a1d15daba41579649e15",
+  "room": {
+    "id": 5552,
+    "title": [
+      "[Manor House, South Wing]"
+    ],
+    "description": [
+      "Lit only by what moonlight leaks between the boards covering the west-facing windows, the hallway seems dark and confining.  A continuous spiderweb of cracks riddles the plaster of the east wall and several large patches of plaster have fallen from the ceiling.  A pale doorframe carved with vines fills the south end of the corridor, and a maple door is set into the east wall.",
+      "Lit only by the light leaking between the boards covering the west-facing windows, the hallway seems dark and confining.  A continuous spiderweb of cracks riddles the plaster of the east wall, and several large patches of plaster have fallen from the ceiling.  An oak doorframe carved with vines fills the south end of the corridor, and a maple door is set into the east wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5549": "north",
+      "5554": "south",
+      "5555": "go door"
+    },
+    "timeto": {
+      "5549": 0.2,
+      "5554": 0.2,
+      "5555": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215139
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1047,
+      655,
+      1057,
+      665
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "36d833cfdf17328244e870da96c1475a",
+  "room": {
+    "id": 18180,
+    "title": [
+      "[Melgorehn's Reach, Stream]"
+    ],
+    "description": [
+      "The mountain trail ends here, opening into a wide area that provides a good place to rest.  Progress to the west ends with an exposure of several thousand feet.  You notice a wooden beam trellis which runs from this point up the side of the mountain to quite a distance above you.  On one side, a freshwater mountain stream tumbles out of an opening into a pool."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "18179": "east",
+      "18181": "/rooms/18180/wayto/stringproc-18181.rb"
+    },
+    "timeto": {
+      "18179": 0.2,
+      "18181": 240
+    },
+    "tags": [
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      52012
+    ]
+  }
+}

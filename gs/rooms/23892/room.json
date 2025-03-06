@@ -1,0 +1,24 @@
+{
+  "checksum": "80ff9fe6d223f38e56d3066071487068",
+  "room": {
+    "id": 23892,
+    "title": [
+      "[Unlocking Nature, Loft]"
+    ],
+    "description": [
+      "A lofted platform creates this room, and curtains of vines surround the rough wooden floor on all sides.  A single low counter runs the entire length of the platform toward the back, and a simple woven mat rests on the floor.  Naturally occurring, a knothole in the cedar tree affords a glimpse of a dark interior, its rough edges offer tricky passage."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23891": "go vines",
+      "23893": "go knothole"
+    },
+    "timeto": {
+      "23891": 0.2,
+      "23893": 0.2
+    }
+  }
+}

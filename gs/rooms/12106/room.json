@@ -1,0 +1,43 @@
+{
+  "checksum": "5e402e30bf36598d4994e36357bf2a12",
+  "room": {
+    "id": 12106,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Ash covers the ground, deep as a halfling's waist.  For miles around, all there is to see is grey dust.  The air is full of the smell of sulphur and decaying flesh.  In the distance sits a large mountain, belching smoke and grey flakes like the ones beneath you."
+    ],
+    "paths": [
+      "Obvious exits: northwest",
+      "Obvious paths: northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12139": "northwest",
+      "12207": "/rooms/12106/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12106/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12139": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "slime-covered grave blossom"
+    ],
+    "uid": [
+      4569017
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      541,
+      1262,
+      551,
+      1272
+    ]
+  }
+}

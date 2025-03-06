@@ -1,0 +1,40 @@
+{
+  "checksum": "6db114ddab205446f15bf524684d2586",
+  "room": {
+    "id": 2990,
+    "title": [
+      "[Abbey, Buttery]"
+    ],
+    "description": [
+      "Wide shelves climb the walls, holding mead tankards crafted from steel, stone, and bone.  The wide windows of the great hall are brightly visible through the traceries of the buttery screen, which sits beneath a small gallery that partially comprises the ceiling of the buttery.",
+      "Wide shelves climb the walls, holding mead tankards crafted from steel, stone, and bone.  The wide windows of the great hall are barely visible through the traceries of the buttery screen, which sits beneath a small gallery that partially comprises the ceiling of the buttery."
+    ],
+    "paths": [
+      "Obvious exits: up, down",
+      "Obvious exits: up"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2952": "go screen",
+      "2989": "up"
+    },
+    "timeto": {
+      "2952": 0.2,
+      "2989": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132026
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      492,
+      81,
+      545,
+      133
+    ]
+  }
+}

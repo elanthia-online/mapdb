@@ -1,0 +1,47 @@
+{
+  "checksum": "fca8cf91ffb247fc2297a1c9f03b54c4",
+  "room": {
+    "id": 14,
+    "title": [
+      "[Ta'Illistim, Erissian Var]"
+    ],
+    "description": [
+      "A small blue slate-clad manor house sits back from the var, apparently enjoying a second life as a shop judging from the small mithglin sign posted on the front steps.  Sweet-smelling fruit trees frame the manor's rough-hewn slate facade.  Tiny glaesine globes mounted on small iron stakes cast a gentle glow across the area.",
+      "A small blue slate-clad manor house sits back from the var, apparently enjoying a second life as a shop judging from the small mithglin sign posted on the front steps.  Sweet-smelling fruit trees frame the manor's rough-hewn slate facade.",
+      "A marble-clad manor house sits back from the var, apparently enjoying a second life as a shop, judging from the small silver sign posted on the front steps.  Sweet-smelling fruit trees frame the manor's smooth white facade.  Tiny glass globes mounted on small argent stakes cast a gentle glow across the area.",
+      "A marble-clad manor house sits back from the var, apparently enjoying a second life as a shop, judging from the small silver sign posted on the front steps.  Sweet-smelling fruit trees frame the manor's smooth white facade."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13": "west",
+      "15": "east",
+      "13237": "go house"
+    },
+    "timeto": {
+      "13": 0.2,
+      "15": 0.2,
+      "13237": 0.2
+    },
+    "tags": [
+      "boutique",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100088
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      632,
+      547,
+      653,
+      568
+    ]
+  }
+}

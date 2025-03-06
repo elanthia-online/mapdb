@@ -1,0 +1,29 @@
+{
+  "checksum": "63d44ef75b077a678c4474960d018ebe",
+  "room": {
+    "id": 33116,
+    "title": [
+      "[Steerage, Stern]"
+    ],
+    "description": [
+      "Rope-coiled rungs driven into the aft boards form a ladder of sorts, allowing quick travel to the upper decks.  Rows of casks line the walls, some clearly marked as alcohol, while others have more questionable symbols.  Bales of tobacco line the wall opposite a thick metal hatch, and large sacks of rice are piled up around a brass-handled door."
+    ],
+    "paths": [
+      "Obvious exits: north, up"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33112": "north",
+      "33114": "up",
+      "33117": "go door"
+    },
+    "timeto": {
+      "33112": 0.2,
+      "33114": 0.2,
+      "33117": 0.2
+    },
+    "uid": [
+      7134160
+    ]
+  }
+}

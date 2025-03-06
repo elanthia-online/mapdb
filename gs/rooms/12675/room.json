@@ -1,0 +1,40 @@
+{
+  "checksum": "1b238b1e4b74686d5d7ba1154a39a837",
+  "room": {
+    "id": 12675,
+    "title": [
+      "[Ruined Temple, Antechamber]"
+    ],
+    "description": [
+      "Porous coral has grown between the fallen pilasters that block the vaulted archway leading into the atrium to the immediate north.  Buried under a pair of fallen statues is a large, tarnished gong and punctured metal brazier.  The colonnade sweeps out to both sides, leading further into the temple."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest",
+      ""
+    ],
+    "location": false,
+    "wayto": {
+      "12662": "/rooms/12675/wayto/stringproc-12662.rb",
+      "12677": "/rooms/12675/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12675/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "meta:map:ignore-blanks"
+    ],
+    "uid": [
+      3031022
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      674,
+      993,
+      712,
+      1031
+    ]
+  }
+}

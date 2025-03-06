@@ -1,0 +1,51 @@
+{
+  "checksum": "173c0edf31b15bbd8f65110a519be2ab",
+  "room": {
+    "id": 8001,
+    "title": [
+      "[Kobold Mines, Short Passageway]"
+    ],
+    "description": [
+      "Thick wooden beams lend support to this dark passage.  The walls are jagged and the ground is slick with mud.  One wooden brace sags wetly overhead and you quickly duck past it."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the old Mine Road",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7999": "southeast",
+      "8002": "northwest"
+    },
+    "timeto": {
+      "7999": 0.2,
+      "8002": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "red trafel mushroom",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      401205
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      80,
+      788,
+      90,
+      798
+    ]
+  }
+}

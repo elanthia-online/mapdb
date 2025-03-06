@@ -1,0 +1,37 @@
+{
+  "checksum": "dacc1b41aac8f4f2e694a413ab5beb66",
+  "room": {
+    "id": 18847,
+    "title": [
+      "[Twilight Hall, Great Hall]"
+    ],
+    "description": [
+      "A huge hall stretches before you.  The high walls of cherry mahogany reach upwards to a vaulted ceiling made of marble the color of shadows on a cold winter's evening.  A tiled floor of fine Lysierian slate etched with a magical pattern catches your eye.  You feel drawn towards a pulse of power coming from somewhere nearby."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8622": "go door",
+      "18848": "west"
+    },
+    "timeto": {
+      "8622": 0.2,
+      "18848": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108002
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      391,
+      444,
+      480,
+      500
+    ]
+  }
+}

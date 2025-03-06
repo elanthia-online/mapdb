@@ -1,0 +1,42 @@
+{
+  "checksum": "c8d5af5267f8759099ecca1534cb9dbf",
+  "room": {
+    "id": 5419,
+    "title": [
+      "[Bonespear Tower, Stairwell]"
+    ],
+    "description": [
+      "Spiral stairs made of braided rib-bones are coiling up out of sight and into the upper reaches of the tower, but there is nothing but darkness and gloom above.  An occasional shriek pierces the eerie calm."
+    ],
+    "paths": [
+      "Obvious exits: south, up"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "5418": "south",
+      "5420": "up"
+    },
+    "timeto": {
+      "5418": 0.2,
+      "5420": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319106
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      907,
+      990,
+      917,
+      1000
+    ]
+  }
+}

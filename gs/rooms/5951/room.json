@@ -1,0 +1,43 @@
+{
+  "checksum": "cc922e5c904538c5682558010c504b6a",
+  "room": {
+    "id": 5951,
+    "title": [
+      "[Victory Road]"
+    ],
+    "description": [
+      "Ancient oak trees stand as sentinels along both sides of the road.",
+      "Ancient oak trees stand as sentinels along both sides of the road.  Earlier travelers have carved into some of the boughs with their initials.  Wedged between some branches in the tallest of the magnificent trees lies an over-sized birds nest.  A gentle breeze carries the soft scent of wild roses through the air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Victory Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5950": "northeast",
+      "5952": "southwest",
+      "6094": "go path"
+    },
+    "timeto": {
+      "5950": 0.2,
+      "5952": 0.2,
+      "6094": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14004002
+    ],
+    "image": "en-victory-1264234799.png",
+    "image_coords": [
+      989,
+      507,
+      999,
+      517
+    ]
+  }
+}

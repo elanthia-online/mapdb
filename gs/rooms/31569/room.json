@@ -1,0 +1,65 @@
+{
+  "checksum": "3e85c7f05e8bfde3c680e67f046fd922",
+  "room": {
+    "id": 31569,
+    "title": [
+      "[Evermore Hollow, The Hotel]"
+    ],
+    "description": [
+      "Surrounded by verdant foliage, cobbled pavers, and wrought iron railings, the small island sits within the inky waters of a becalmed canal.  Ferrymen in gondolas offer passage off the island to parts unknown, while looping bridges lined in lanterns provide terrestrial access to the inner ring of Evermore Hollow.  Rising high into the twilight sky, a grand ebon-hued hotel is the focus of all nearby."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, southwest, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "cultivated",
+    "wayto": {
+      "31558": "north",
+      "31562": "east",
+      "31568": "west",
+      "31570": "go hotel",
+      "31572": "southwest",
+      "31592": "southeast",
+      "31598": "south"
+    },
+    "timeto": {
+      "31558": 0.2,
+      "31562": 0.2,
+      "31568": 0.2,
+      "31570": 0.2,
+      "31572": 0.2,
+      "31592": 0.2,
+      "31598": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "hotel",
+      "town",
+      "orange milkweed flowers",
+      "sprig of green chervil",
+      "vermilion fire moss",
+      "seedhead of beebalm",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "bittermere lichen",
+      "evermore rosehip",
+      "winterbriar moss",
+      "heath star moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083011
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      541,
+      375,
+      565,
+      395
+    ]
+  }
+}

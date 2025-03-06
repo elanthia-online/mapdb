@@ -1,0 +1,30 @@
+{
+  "checksum": "1d901ea1aa8396018cd57cf09a3b0ed7",
+  "room": {
+    "id": 24512,
+    "title": [
+      "[Alabaster Bastion, Armory]"
+    ],
+    "description": [
+      "A large square in the center of the alabaster floor has been removed and replaced with a sand-filled pit, its edges carefully delineated with a single course of carved masonry.  Save for a border of open space around the practice area, the rest of the chamber is a maze of weapon racks and armor-laden mannequins.  An alabaster arch faces off across the room against an arched doorway, which leads eastward."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Alabaster Bastion, inside the elven fortress of Ta'Vaalor",
+    "wayto": {
+      "24511": "east",
+      "24513": "go arch"
+    },
+    "timeto": {
+      "24511": 0.2,
+      "24513": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      4546013
+    ]
+  }
+}

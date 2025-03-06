@@ -1,0 +1,45 @@
+{
+  "checksum": "4b09700172319b0cb6caf8d0eefd83c2",
+  "room": {
+    "id": 28063,
+    "title": [
+      "[Rumor Woods, Canine Track]",
+      "[Rumor Woods, Equid Track]"
+    ],
+    "description": [
+      "The angled path leads towards the market area of the woods, the sound of whinnying horses emanating further south.  Staggered racks of gear are laid out on crudely forged iron forms, the saddles and reins well-crafted despite the shoddy displays.  Equine-sized breastplates and tooled harnesses sit upon woolen blankets in the stalls, protected from the muddy grounds below."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, northwest"
+    ],
+    "location": "Rumor Woods",
+    "wayto": {
+      "28061": "northwest",
+      "28064": "go dark stall",
+      "28066": "go canvas tent",
+      "28068": "southeast",
+      "28083": "east",
+      "29647": "go forest tent",
+      "33563": "go red shed"
+    },
+    "timeto": {
+      "28061": 0.2,
+      "28064": 0.2,
+      "28066": 0.2,
+      "28068": 0.2,
+      "28083": 0.2,
+      "29647": 0.2,
+      "33563": 0.2
+    },
+    "uid": [
+      8208724
+    ],
+    "image": "fest-RW2023-1687094965.png",
+    "image_coords": [
+      492,
+      593,
+      522,
+      623
+    ]
+  }
+}

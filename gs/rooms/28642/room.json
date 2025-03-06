@@ -1,0 +1,32 @@
+{
+  "checksum": "655a86cd22a26a11281159952a67ebd9",
+  "room": {
+    "id": 28642,
+    "title": [
+      "[Starsnuffer's Room, Bedroom]"
+    ],
+    "description": [
+      "Four large black candles burn blue in the corners of the room.  The flames highlight the flecks of silver set into the perfect obsidian walls, ceiling and floor, giving the impression of a deep night sky full of flickering stars.  Set into the far wall is a beaten silver starburst, standing out amid the surrounding stars like the greatest of supernovas.  In the center of the room stands a black canopied bed, its heavy black curtains obscuring what lies within."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "28641": "go doors",
+      "28643": "go bed",
+      "28644": "go curtain"
+    },
+    "timeto": {
+      "28641": 0.2,
+      "28643": 0.2,
+      "28644": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower"
+    ],
+    "uid": [
+      214039
+    ]
+  }
+}

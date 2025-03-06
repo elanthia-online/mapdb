@@ -1,0 +1,39 @@
+{
+  "checksum": "5cd94d2458cdda4219fad3c00642ebeb",
+  "room": {
+    "id": 17830,
+    "title": [
+      "[Hall]"
+    ],
+    "description": [
+      "The hallway ends, and a much larger open area can be seen just to the east.  There is a great deal of activity and conversation going in the next room, the glint of silvers flashing back and forth from time to time.  The heady aroma of home cooking seeps out of the guild kitchen."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17829": "east",
+      "17831": "go entry",
+      "17832": "west"
+    },
+    "timeto": {
+      "17829": 0.2,
+      "17831": 0.2,
+      "17832": 0.2
+    },
+    "tags": [
+      "rogue guild kitchen"
+    ],
+    "uid": [
+      267132
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      597,
+      195,
+      633,
+      231
+    ]
+  }
+}

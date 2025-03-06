@@ -1,0 +1,50 @@
+{
+  "checksum": "090598e4bb38b2e6243fb7ac0e2d3c89",
+  "room": {
+    "id": 11564,
+    "title": [
+      "[Cargo Hold]"
+    ],
+    "description": [
+      "The wide-planked deck slants to starboard.  Wooden crates and barrels are stacked from deck to ceiling.  Most are lashed against each other and to the bulkhead, but a few have broken loose.  A steep companionway leads up."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, west, up, down"
+    ],
+    "location": "the Shattered Moors",
+    "wayto": {
+      "11560": "up",
+      "11565": "west",
+      "11566": "north",
+      "11567": "south",
+      "11568": "east",
+      "11569": "northeast",
+      "11570": "southeast",
+      "11572": "down"
+    },
+    "timeto": {
+      "11560": 0.2,
+      "11565": 0.2,
+      "11566": 0.2,
+      "11567": 0.2,
+      "11568": 0.2,
+      "11569": 0.2,
+      "11570": 0.2,
+      "11572": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420529
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      167,
+      1315,
+      177,
+      1325
+    ]
+  }
+}

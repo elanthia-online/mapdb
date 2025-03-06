@@ -1,0 +1,24 @@
+{
+  "checksum": "19861100fdfc733b80a6e9aee9cf701a",
+  "room": {
+    "id": 29419,
+    "title": [
+      "[Sister Olba's Wandering Wagon]"
+    ],
+    "description": [
+      "Moonlight filters in through a skylight in the wagon's ceiling, shining upon the wares on some wide wooden shelves.  Several charcoal renderings of foreign landscapes have been set into simple frames and hung upon the walls.  A gleaming gold horseshoe has been hammered into the lintel above a round wooden door."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29418": "south",
+      "29420": "go door"
+    },
+    "timeto": {
+      "29418": 0.2,
+      "29420": 0.2
+    }
+  }
+}

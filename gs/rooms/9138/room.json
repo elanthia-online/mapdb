@@ -1,0 +1,39 @@
+{
+  "checksum": "f7cf74d5120f9d0a66ee9f6a214e03d0",
+  "room": {
+    "id": 9138,
+    "title": [
+      "[Raised Stone Path]"
+    ],
+    "description": [
+      "The water swells and ebbs in an easy, soft rhythm, occasionally slopping over the sides of the smooth stone path that pokes up from the clear, dark surface of the underground lake.  From time to time, a small splash breaks the water, ripples gliding away from the obvious point of disturbance."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9137": "west",
+      "9139": "northeast"
+    },
+    "timeto": {
+      "9137": 0.2,
+      "9139": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "murdroot",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      7530002
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      360,
+      1018,
+      370,
+      1028
+    ]
+  }
+}

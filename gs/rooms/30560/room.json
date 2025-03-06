@@ -1,0 +1,40 @@
+{
+  "checksum": "4496922c616c666e29c8ea3acd546e24",
+  "room": {
+    "id": 30560,
+    "title": [
+      "[Empath Guild, Training Foyer]"
+    ],
+    "description": [
+      "Intricate marquetry of naturally hued woods, incorporating palest pine, purple-grey haon, vivid red cedar, and dusky ebonwood, forms the walls of this grandly proportioned foyer.  Assorted training rooms and their attendant equipment can be glimpsed further inside the training annex.  The dry, herbal scents of cedar and sandalwood fill the air, the aroma more intense near the lamps set along each wall.  A polished arched wooden door stands in the exact center of the north wall."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "30558": "out",
+      "30561": "go door",
+      "30563": "west"
+    },
+    "timeto": {
+      "30558": 0.2,
+      "30561": 0.2,
+      "30563": 0.2
+    },
+    "tags": [
+      "empath alchemy administrator",
+      "empath guild administrator"
+    ],
+    "uid": [
+      652015
+    ],
+    "image": "teras-empath_guild.jpg",
+    "image_coords": [
+      248,
+      516,
+      307,
+      574
+    ]
+  }
+}

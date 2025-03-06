@@ -1,0 +1,38 @@
+{
+  "checksum": "deb71c88a544a99dedc6ed69de110733",
+  "room": {
+    "id": 13728,
+    "title": [
+      "[Bard Guild, Antechamber]"
+    ],
+    "description": [
+      "This ample, perfectly circular room is pierced symmetrically by passages leading north and south and doors to the east and west.  Several silk-cushioned divans, slightly arced to match the curvature of the walls, line the walls between.  Richly hued walnut paneling rises to meet the ceiling, a perfect hemisphere of deep ultramarine dotted with tiny gold stars."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Ta'Vaalor Bard Guild",
+    "wayto": {
+      "10761": "south",
+      "13729": "go dark door",
+      "13730": "north",
+      "33307": "go pale door"
+    },
+    "timeto": {
+      "10761": 0.2,
+      "13729": "/rooms/13728/timeto/stringproc-13729.rb",
+      "13730": 0.2,
+      "33307": "/rooms/13728/timeto/stringproc-33307.rb"
+    },
+    "uid": [
+      287104
+    ],
+    "image": "en-vaalor-bard-guild.png",
+    "image_coords": [
+      189,
+      278,
+      207,
+      299
+    ]
+  }
+}

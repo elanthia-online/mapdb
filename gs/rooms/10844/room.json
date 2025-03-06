@@ -1,0 +1,84 @@
+{
+  "checksum": "793af31dcff1304084b938098e4ded7c",
+  "room": {
+    "id": 10844,
+    "title": [
+      "[River's Rest, Creek Bank]"
+    ],
+    "description": [
+      "The pebbled path leads you to a grassy hillock overlooking the creek.  The creek bank here is rather steep.  At the water's edge is a small half moon of pebbles...blue, green and brown...flanked by reeds and cattails.  To the north you can see a small footbridge crossing the creek.  Tied to a limb of a tall oak tree is a length of hempen rope."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "riparian",
+    "wayto": {
+      "10842": "go path",
+      "10845": "/rooms/10844/wayto/stringproc-10845.rb"
+    },
+    "timeto": {
+      "10842": 0.2,
+      "10845": 0.2
+    },
+    "tags": [
+      "kylan berry",
+      "handful of currants",
+      "murdroot",
+      "sprig of wild lilac",
+      "pepperthorn root",
+      "acantha leaf",
+      "calamia fruit",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "water chestnut",
+      "wild grapes",
+      "stalk of cattail",
+      "stalk of bluebells",
+      "red clover blossom",
+      "pink clover blossom",
+      "white clover blossom",
+      "purple clover blossom",
+      "yellow clover blossom",
+      "stalk of goldenrod",
+      "small wild rose",
+      "Imaera's Lace",
+      "wild chokecherry",
+      "mistweed",
+      "wavepetal blossom",
+      "ironfern root",
+      "sunburst blossom",
+      "talneo root",
+      "small coconut",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "bright orange",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101111
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1979,
+      1240,
+      2017,
+      1279
+    ]
+  }
+}

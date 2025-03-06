@@ -1,0 +1,44 @@
+{
+  "checksum": "3a96a7a785832cdaf54c8bc71e3cea22",
+  "room": {
+    "id": 5553,
+    "title": [
+      "[Manor House, North Wing]"
+    ],
+    "description": [
+      "This corridor is narrow and lit only by what moonlight manages to squeeze in past the boards over the west-facing windows.  The plaster on the walls and ceiling is cracked and coming off in several places, and the floorboards have warped over the years.  Set into the dingy yellow plaster, an ornate maple doorway fills the corridor's northern end, and two doors are set into the east wall.",
+      "This corridor is narrow and lit only by what light manages to squeeze in past the boards over the west-facing windows.  The plaster on the walls and ceiling is cracked and coming off in several places, and the floorboards have warped over the years.  Set into the dingy yellow plaster, an ornate maple doorway fills the corridor's northern end, and two doors are set into the east wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5539": "go tanik door",
+      "5549": "south",
+      "5557": "north",
+      "5558": "go linden door"
+    },
+    "timeto": {
+      "5539": 0.2,
+      "5549": 0.2,
+      "5557": 0.2,
+      "5558": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215134
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1047,
+      602,
+      1057,
+      612
+    ]
+  }
+}

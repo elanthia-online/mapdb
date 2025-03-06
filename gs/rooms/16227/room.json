@@ -1,0 +1,36 @@
+{
+  "checksum": "027bb40428ca08f11e39f1e3f40e1292",
+  "room": {
+    "id": 16227,
+    "title": [
+      "[River's Rest Hall, Passageway]"
+    ],
+    "description": [
+      "A long glass display case full of fishing equipment takes up most of one wall.  Artificial bait, hooks, and fishing weights line the shelves and dangle from fishing line creatively draped from hooks within the case."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "15331": "go iron-banded door",
+      "16020": "south",
+      "16228": "go wooden door",
+      "16230": "north"
+    },
+    "timeto": {
+      "15331": 0.2,
+      "16020": 0.2,
+      "16228": 0.2,
+      "16230": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      854013
+    ]
+  }
+}

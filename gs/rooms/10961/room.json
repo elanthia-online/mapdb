@@ -1,0 +1,40 @@
+{
+  "checksum": "edf8de4986afcb1cfa969cbfdc40e854",
+  "room": {
+    "id": 10961,
+    "title": [
+      "[River's Rest Inn, Overlook]"
+    ],
+    "description": [
+      "A breath-taking view of the lower hallway makes you stop and admire the beauty of the intricately carved walls and plaques below.  An elegant painting hangs from the northern wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10960": "climb staircase",
+      "10962": "go door",
+      "10963": "east"
+    },
+    "timeto": {
+      "10960": 0.2,
+      "10962": 0.2,
+      "10963": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101969
+    ],
+    "image_coords": [
+      768,
+      536,
+      784,
+      552
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "80ded8ff5be83d29d5c30865074f30a0",
+  "room": {
+    "id": 7005,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "The collapsing remains of a ballista rests here, a rusty spear still loaded in it, poised to fire at a long-gone enemy.  A broken ammunition rack stands nearby.  The outer keep continues east and west from here, between the two walls of the castle."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7004": "west",
+      "7006": "east"
+    },
+    "timeto": {
+      "7004": 0.2,
+      "7006": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "heath aster",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "bright red cranberry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45111
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      569,
+      375,
+      579,
+      385
+    ]
+  }
+}

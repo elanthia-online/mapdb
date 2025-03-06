@@ -1,0 +1,37 @@
+{
+  "checksum": "5b45ce6c4ffeebea9312bc4613b38784",
+  "room": {
+    "id": 12762,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The ceiling has collapsed to the west, blocking further travel in that direction.  Gentle trickles travel down the debris, streaming until they soundlessly meet with the water flowing across the surface of the hallway."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12750": "northwest",
+      "12753": "east"
+    },
+    "timeto": {
+      "12750": 0.2,
+      "12753": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031101
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      540,
+      304,
+      576,
+      340
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checksum": "08cc1ff40c76c430c4596ee194cfa2a8",
+  "room": {
+    "id": 6209,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "A pair of torches rests at the end of the hallway, casting a dancing light across the arched doorway that leads onward."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6202": "/rooms/6209/wayto/stringproc-6202.rb",
+      "6203": "/rooms/6209/wayto/stringproc-6203.rb",
+      "6204": "/rooms/6209/wayto/stringproc-6204.rb",
+      "6205": "/rooms/6209/wayto/stringproc-6205.rb",
+      "6206": "/rooms/6209/wayto/stringproc-6206.rb",
+      "6207": "/rooms/6209/wayto/stringproc-6207.rb",
+      "6208": "/rooms/6209/wayto/stringproc-6208.rb",
+      "6210": "/rooms/6209/wayto/stringproc-6210.rb"
+    },
+    "timeto": {
+      "6202": 0.5,
+      "6203": 0.5,
+      "6204": 0.5,
+      "6205": 0.5,
+      "6206": 0.5,
+      "6207": 0.5,
+      "6208": 0.5,
+      "6210": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      2167075
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      720,
+      219,
+      738,
+      237
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "62a03dc1150ca6b8a936ee2bb295aab5",
+  "room": {
+    "id": 32193,
+    "title": [
+      "[Armaments, Second Floor]"
+    ],
+    "description": [
+      "Arrow-slit windows allow the twilight colors of the sky to paint the southern stones in shades of amber, violet, and cerulean, while a large cobblestone fireplace brands the room in orange, red, and yellow hues.  Despite the warmth of the fire, the air is still damp and laced with a pervading chill.  Positioned between the spiraling stairs and a copper and oak ladder, several armaments are arranged upon statuesque stands, each depicting warriors in combat poses."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "32192": "go stairs",
+      "32194": "go ladder"
+    },
+    "timeto": {
+      "32192": 0.2,
+      "32194": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "no forageables"
+    ],
+    "uid": [
+      8084722
+    ]
+  }
+}

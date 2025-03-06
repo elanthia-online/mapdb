@@ -1,0 +1,40 @@
+{
+  "checksum": "6602cb7873e02aa577565c07e6e3ef08",
+  "room": {
+    "id": 2542,
+    "title": [
+      "[Glatoph, Icy Ravine]"
+    ],
+    "description": [
+      "The wind-carved walls of the ravine loom high above you in icy spires.  Several small passages can be seen leading off in different directions with one large passage to the southwest.  The river slowly flows by, heading north toward the plains."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2541": "north",
+      "2543": "southwest"
+    },
+    "timeto": {
+      "2541": 0.2,
+      "2543": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4044016
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      800,
+      627,
+      810,
+      637
+    ]
+  }
+}

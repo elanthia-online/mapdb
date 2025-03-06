@@ -1,0 +1,28 @@
+{
+  "checksum": "943374b2f57a37a31a26fa6b1e3f270a",
+  "room": {
+    "id": 23497,
+    "title": [
+      "[Furrfoot's, Casino]"
+    ],
+    "description": [
+      "Murky light splinters through the narrow casino area, where smoke drifts up in large puffs from the wide variety of patrons milling about.  Gambling tables are set up along the floor, bordering a heavy crimson curtain and a heavy jade curtain that are monitored by a pair of rough-looking halflings.  Despite the bleak appearance of the casino, from its stained walls to ragtag carpet, the tables and the dealers appear to be of the finest quality.  In a far corner, a carved maoral arch opens into a barroom."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "23496": "go arch",
+      "23498": "south",
+      "23500": "go jade curtain",
+      "23501": "go crimson curtain"
+    },
+    "timeto": {
+      "23496": 0.2,
+      "23498": 0.2,
+      "23500": 0.2,
+      "23501": 0.2
+    }
+  }
+}

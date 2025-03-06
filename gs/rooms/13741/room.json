@@ -1,0 +1,29 @@
+{
+  "checksum": "555ac812420658491cc3823282f346b9",
+  "room": {
+    "id": 13741,
+    "title": [
+      "[Licel's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A cedar and oak footlocker sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9014": "out",
+      "13755": "east",
+      "13756": "north"
+    },
+    "timeto": {
+      "9014": 0.2,
+      "13755": 0.2,
+      "13756": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

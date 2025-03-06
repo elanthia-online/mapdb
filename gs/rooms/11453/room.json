@@ -1,0 +1,49 @@
+{
+  "checksum": "a151622d40a830707bf32846aa5cdf19",
+  "room": {
+    "id": 11453,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The sea swells break against the jagged, rocky base of a low headland.  A narrow tower with a damaged, blue-tiled roof is visible above the steep headland.  The green waters of Maelstrom Bay, muted in the moonlight, stretch out to the west.  The breaking of the low waves against the headland creates a deep bass sound.",
+      "The sea swells break against the jagged, rocky base of a low headland.  A narrow tower with a damaged, blue-tiled roof is visible above the steep headland.  The green waters of Maelstrom Bay, bright in the sunlight, stretch out to the west.  The breaking of the low waves against the headland creates a deep bass sound."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11440": "/rooms/11453/wayto/stringproc-11440.rb",
+      "11441": "/rooms/11453/wayto/stringproc-11441.rb",
+      "11442": "/rooms/11453/wayto/stringproc-11442.rb",
+      "11452": "/rooms/11453/wayto/stringproc-11452.rb",
+      "11454": "/rooms/11453/wayto/stringproc-11454.rb",
+      "11476": "/rooms/11453/wayto/stringproc-11476.rb"
+    },
+    "timeto": {
+      "11440": 2,
+      "11441": 2,
+      "11442": 2,
+      "11452": 2,
+      "11454": 2,
+      "11476": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304031
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      702,
+      1180,
+      712,
+      1190
+    ]
+  }
+}

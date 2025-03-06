@@ -1,0 +1,38 @@
+{
+  "checksum": "27b4a68735b70e8e6eda106e66aa5532",
+  "room": {
+    "id": 13147,
+    "title": [
+      "[Stone Edifice, Ingress]"
+    ],
+    "description": [
+      "A lone sentinel wrought of glossy white marble stands before the invar portcullis, with stoic eyes fixed on the path ahead.  Suspended above the stone figure is a large banner stitched in silver.  Giant luminescent toadstools form a half-circle around the entrance, shedding their soft, bluish-white light upon the reflective stone walls.  An enruned archway partitions the entrance from the rest of the edifice to the northwest."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "wayto": {
+      "13146": "go portcullis",
+      "13148": "northwest"
+    },
+    "timeto": {
+      "13146": 0.2,
+      "13148": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      565007
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1107,
+      492,
+      1127,
+      512
+    ]
+  }
+}

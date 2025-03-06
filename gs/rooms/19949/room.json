@@ -1,0 +1,33 @@
+{
+  "checksum": "d5d1acbea909a0b68b3084e5ffa3a01a",
+  "room": {
+    "id": 19949,
+    "title": [
+      "[Temple, Behind Pillars]"
+    ],
+    "description": [
+      "Your footsteps echo hollowly in this oddly chill room set into the thick outer wall of the Temple.  The air here is still and cold, with a faint hint of corruption and decay.  Death is an old friend here it would seem, as you gaze at shelves laden with canopic jars decorated in the styles of eras long gone.  Unguents and ointments, potions and wrappings fill other shelves and it is clear to you that this chamber has oft been used for the preparation of the dead."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "234": "out",
+      "15568": "go ramp"
+    },
+    "timeto": {
+      "234": 0.2,
+      "15568": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      2101
+    ],
+    "unique_loot": [
+      "narrow ramp"
+    ]
+  }
+}

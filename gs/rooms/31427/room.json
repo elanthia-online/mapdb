@@ -1,0 +1,30 @@
+{
+  "checksum": "32b744553f5a5cee5690c63b0ee55113",
+  "room": {
+    "id": 31427,
+    "title": [
+      "[Shivergale, Landing]"
+    ],
+    "description": [
+      "Climbing out of the shop below, the airy steel of a spiraling staircase rises to the second story of the structure.  It opens onto a spacious landing shielded from the frigid wind by a sheltering wall that holds boxes of hardy iceblossoms and beds of wintersbite.  Standing guard before an arched double door of darkly stained Ossian pine is an ice crystal statue painstakingly carved to resemble a wide-bodied dog frozen in a vigilant posture."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Shivergale, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "31426": "out",
+      "31428": "/rooms/31427/wayto/stringproc-31428.rb"
+    },
+    "timeto": {
+      "31426": 0.2,
+      "31428": "/rooms/31427/timeto/stringproc-31428.rb"
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730126
+    ]
+  }
+}

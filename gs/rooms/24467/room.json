@@ -1,0 +1,27 @@
+{
+  "checksum": "f02b2c49c0df504437da12a44a1ade4d",
+  "room": {
+    "id": 24467,
+    "title": [
+      "[Snowberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain, which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "24466": "pull lever",
+      "24468": "go curtain"
+    },
+    "timeto": {
+      "24466": 0.2,
+      "24468": 200
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

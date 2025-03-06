@@ -1,0 +1,43 @@
+{
+  "checksum": "5526ada3ee4815783fb4f09162cad6b2",
+  "room": {
+    "id": 30513,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The Mistydeep seems particularly dark and deep at this point, its clear, cold waters flowing quickly by a few large boulders.  The shadowy forms of a few large fish making their way upstream are outlined against the sand below."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, northwest, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25544": "swim up",
+      "30511": "swim northwest",
+      "30512": "swim north",
+      "30514": "swim southeast"
+    },
+    "timeto": {
+      "25544": 0.2,
+      "30511": 0.2,
+      "30512": 0.2,
+      "30514": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117121
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1242,
+      1131,
+      1261,
+      1148
+    ]
+  }
+}

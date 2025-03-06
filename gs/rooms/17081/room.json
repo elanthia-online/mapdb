@@ -1,0 +1,32 @@
+{
+  "checksum": "cebd958677e39b616418129884b855e6",
+  "room": {
+    "id": 17081,
+    "title": [
+      "[River's Rest Inn, Kitchen]"
+    ],
+    "description": [
+      "Your nostrils catch the smell of fresh baked bread and cakes as soon as you enter.  The counters are loaded with pots and pans of all size while the southern counter contains a variety of cool drinks."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10957": "go door",
+      "17983": "south"
+    },
+    "timeto": {
+      "10957": 0.2,
+      "17983": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101959
+    ]
+  }
+}

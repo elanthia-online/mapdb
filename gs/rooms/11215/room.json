@@ -1,0 +1,38 @@
+{
+  "checksum": "80637b5fc9561abfbb02a2bce626e0ec",
+  "room": {
+    "id": 11215,
+    "title": [
+      "[Armory, Weapons Stores]"
+    ],
+    "description": [
+      "The walls are lined with rubbish-filled niches, each long since emptied of the weapons once stored here.  A narrow doorway faces south, metal hinges the only remnants of whatever door had closed this storeroom from the rest of the armory."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11207": "go doorway",
+      "11214": "east"
+    },
+    "timeto": {
+      "11207": 0.2,
+      "11214": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100117
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      278,
+      151,
+      288,
+      161
+    ]
+  }
+}

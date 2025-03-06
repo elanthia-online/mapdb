@@ -1,0 +1,44 @@
+{
+  "checksum": "6bcf51180406fab97b95b36b1293bf33",
+  "room": {
+    "id": 3534,
+    "title": [
+      "[Ta'Vaalor, Caernaeas Var]"
+    ],
+    "description": [
+      "A small stand of trees crowds up against the high city wall, so thickly gathered that the wall itself is barely visible through the leafy boughs.  A small gate, closed and locked, blocks progress down the lone path that disappears into the deep green bower.",
+      "A small stand of trees crowds up against the high city wall, so thickly gathered that the wall itself is barely visible through the leafy boughs.  A rusty iron gate blocks progress down the lone path that disappears into the deep green bower."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3533": "west",
+      "3535": "south",
+      "23541": "go gate"
+    },
+    "timeto": {
+      "3533": 0.2,
+      "3535": 0.2,
+      "23541": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100023
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1372,
+      403,
+      1411,
+      441
+    ]
+  }
+}

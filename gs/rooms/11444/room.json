@@ -1,0 +1,49 @@
+{
+  "checksum": "f0889d3ca4572ab115ac22f31de25630",
+  "room": {
+    "id": 11444,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The foam-flecked waters of Maelstrom Bay stretch out in all directions.  The broad green line of a cliff curves from the east to the northeast.  A low coral reef rises above the wide, rolling swells to the west.  The spray from the swells slapping against the reef is a ghostly white in the moonlight.",
+      "The foam-flecked waters of Maelstrom Bay stretch out in all directions.  The broad green line of a cliff curves from the east to the northeast.  A low coral reef rises above the wide, rolling swells to the west.  The spray from the swells slapping against the reef is white in the sunlight."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11440": "/rooms/11444/wayto/stringproc-11440.rb",
+      "11441": "/rooms/11444/wayto/stringproc-11441.rb",
+      "11443": "/rooms/11444/wayto/stringproc-11443.rb",
+      "11445": "/rooms/11444/wayto/stringproc-11445.rb",
+      "11480": "climb reef",
+      "16041": "/rooms/11444/wayto/stringproc-16041.rb"
+    },
+    "timeto": {
+      "11440": 0.2,
+      "11441": 2,
+      "11443": "/rooms/11444/timeto/stringproc-11443.rb",
+      "11445": "/rooms/11444/timeto/stringproc-11445.rb",
+      "11480": 0.2,
+      "16041": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304029
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      648,
+      1206,
+      658,
+      1216
+    ]
+  }
+}

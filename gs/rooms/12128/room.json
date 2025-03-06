@@ -1,0 +1,58 @@
+{
+  "checksum": "134eb95e857c9620d962bba39c615e23",
+  "room": {
+    "id": 12128,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Climbing a small hill, you now look over a long valley filled with warriors.  A huge giantman in plate-mail stands at the front of the vanguard, holding a battle axe in each hand.  His skin is rotted and mildewed, and the hollow eye sockets drop bits of goo and small bugs.  The entire host of undead soldiers shifts anxiously behind him, as if waiting for a command from their chieftain."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12128/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12128/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12128/wayto/stringproc-12093.rb",
+      "12127": "northeast",
+      "12166": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12127": 0.2,
+      "12166": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567019
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      976,
+      644,
+      986,
+      654
+    ]
+  }
+}

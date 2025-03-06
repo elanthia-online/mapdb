@@ -1,0 +1,26 @@
+{
+  "checksum": "f3d9dec139e6a5f150f3f44292975e51",
+  "room": {
+    "id": 15232,
+    "title": [
+      "[Bluesmith's Weaponry]",
+      "[Bluesmith's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  Some hammered copper display hooks and a set of carved felwood shelves sit in opposite corners while a large anvil rests on a sturdy planked floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15175": "west"
+    },
+    "timeto": {
+      "15175": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

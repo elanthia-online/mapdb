@@ -1,0 +1,30 @@
+{
+  "checksum": "efd0b989dd497d18ab0e6cae1e349ba0",
+  "room": {
+    "id": 18505,
+    "title": [
+      "[Grawood Farmstead, Field]"
+    ],
+    "description": [
+      "Like verdant canopies, dark-leafed strawberry plants line the rows carved into the field by plow and hand.  The soil is remarkably free of weeds, and the small paths in between the rows show signs of travel."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18504": "north",
+      "18506": "south",
+      "18508": "east"
+    },
+    "timeto": {
+      "18504": 0.2,
+      "18506": 0.2,
+      "18508": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

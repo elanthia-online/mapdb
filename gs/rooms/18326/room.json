@@ -1,0 +1,46 @@
+{
+  "checksum": "b0e5e6cb8293aaea27f50e5c74d92fa0",
+  "room": {
+    "id": 18326,
+    "title": [
+      "[Saewehna Lagoon]"
+    ],
+    "description": [
+      "The pale forms of clouds and the pinpoint lights of a myriad of stars are mirrored in the night-darkened water, drawing attention to the sheer black hue of the liquid in comparison.  Flitting across the water, the occasional firefly flashes a brilliant spark of light to break the shadows near the shoreline, before disappearing once more into the darkness of night.",
+      "Sunlight sparkles upon the surface of the water, drawing attention to the various hues that bleed together within the depths of the lagoon.  Hues ranging from almost translucent mist blue at the surface to dark midnight blue further down give the aqueous body depth and vibrancy.  The shoreline glistens with constant dew from the lapping water as it splashes against the soil."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "18324": "swim northeast",
+      "18325": "go shoreline",
+      "18328": "swim northwest",
+      "18333": "swim north"
+    },
+    "timeto": {
+      "18324": 5,
+      "18325": 0.2,
+      "18328": 5,
+      "18333": 5
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3210476
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      2000,
+      942,
+      2030,
+      973
+    ]
+  }
+}

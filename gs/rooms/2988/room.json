@@ -1,0 +1,38 @@
+{
+  "checksum": "6b8bf27ff415ce882c7d5e3407c1ab14",
+  "room": {
+    "id": 2988,
+    "title": [
+      "[Abbey, Pantry]"
+    ],
+    "description": [
+      "Sturdy wooden shelves completely line the walls of the abbey's pantry, each neatly crowded with rows of clay pots.  A plenitude of burlap sacks, stuffed with grains and other dry goods, crowds most of the available floor space."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2972": "southeast",
+      "2989": "north"
+    },
+    "timeto": {
+      "2972": 0.2,
+      "2989": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132023
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      493,
+      304,
+      546,
+      357
+    ]
+  }
+}

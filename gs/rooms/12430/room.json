@@ -1,0 +1,31 @@
+{
+  "checksum": "ed9c72f2995edd5e8da378b0a5b1fdc4",
+  "room": {
+    "id": 12430,
+    "title": [
+      "[North Hallway]"
+    ],
+    "description": [
+      "Two narrow passages branch off towards small shops.  Large, circular patches of soot cover the ceiling high above the torches lining the walls.  Several torches have burned out, leaving the area a patchwork of light and shadow."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12422": "south",
+      "12431": "north",
+      "12433": "northeast",
+      "12434": "northwest"
+    },
+    "timeto": {
+      "12422": 0.2,
+      "12431": 0.2,
+      "12433": 0.2,
+      "12434": 0.2
+    },
+    "uid": [
+      3003547
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "6d2f7cadd3fb3542fafc79e8983800dc",
+  "room": {
+    "id": 7023,
+    "title": [
+      "[Castle Darkstone, Parapet]"
+    ],
+    "description": [
+      "The walkway is covered with pieces of rock here, making passage difficult.  One particularly large block of stone has forced itself into the stone top of the parapet, and stands on one corner in a most peculiar pose.  To the west is a guardtower, while the parapet extends on to the east."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7022": "west",
+      "7024": "east"
+    },
+    "timeto": {
+      "7022": 0.2,
+      "7024": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45151
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      332,
+      617,
+      342,
+      627
+    ]
+  }
+}

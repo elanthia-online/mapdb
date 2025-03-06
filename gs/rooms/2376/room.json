@@ -1,0 +1,46 @@
+{
+  "checksum": "b992ed2e8c203ea32c2f179cc173d71e",
+  "room": {
+    "id": 2376,
+    "title": [
+      "[Icemule, Incantation Alley]"
+    ],
+    "description": [
+      "An irregular crack running down the length of the wall bleeds rust from the spent iron wands that have been crammed into the open space through the years.  A small puddle in the center of the alley offers the only relief from the frozen mud, and that relief comes only in the form of an icy window that opens onto frozen mud."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2375": "north",
+      "2377": "south",
+      "27851": "go plaster warehouse",
+      "27853": "go stucco shop",
+      "27856": "go simple shop",
+      "27857": "go plaster market",
+      "27859": "go stucco building"
+    },
+    "timeto": {
+      "2375": 0.2,
+      "2377": 0.2,
+      "27851": 0.2,
+      "27853": 0.2,
+      "27856": 0.2,
+      "27857": 0.2,
+      "27859": 0.2
+    },
+    "uid": [
+      735035
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      49,
+      405,
+      69,
+      425
+    ]
+  }
+}

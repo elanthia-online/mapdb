@@ -1,0 +1,38 @@
+{
+  "checksum": "1153b3e9414f8fb0d107d741cfd40f31",
+  "room": {
+    "id": 23197,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16131": "south",
+      "23198": "north",
+      "33734": "go silk curtain"
+    },
+    "timeto": {
+      "16131": 0.2,
+      "23198": 0.2,
+      "33734": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001053
+    ],
+    "unique_loot": [
+      "ivory silk curtain",
+      "black curtain with the sigil of Arcane Masters"
+    ]
+  }
+}

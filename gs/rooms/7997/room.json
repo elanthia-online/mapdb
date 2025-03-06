@@ -1,0 +1,49 @@
+{
+  "checksum": "293e31535f306180c40ba000897c33e8",
+  "room": {
+    "id": 7997,
+    "title": [
+      "[Upper Trollfang, Gully]"
+    ],
+    "description": [
+      "A wide lip of rock rises overhead to provide a place of cool shadows.  A thick band of low growing shrubs obscures the far end of the gully.  Small straggly bushes are growing over a pair of rust streaks set into the rocky floor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the old Mine Road",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7993": "out",
+      "7998": "go shrub",
+      "7999": "go shadows"
+    },
+    "timeto": {
+      "7993": 0.2,
+      "7998": 0.2,
+      "7999": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      401210
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      203,
+      815,
+      213,
+      825
+    ]
+  }
+}

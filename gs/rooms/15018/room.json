@@ -1,0 +1,34 @@
+{
+  "checksum": "8e58778e36a35ee013e1b45057c47720",
+  "room": {
+    "id": 15018,
+    "title": [
+      "[Hevalt's Weaponry]",
+      "[Hevalt's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a raised fel panel ceiling, a blue watered silk tapestry hangs on one of the mahogany paneled walls.  A vine-carved mahogany table and a bamboo rack sit in opposite corners while a bronzed drake sculpture rests on the oak floor."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "370": "out",
+      "24772": "west",
+      "24776": "east"
+    },
+    "timeto": {
+      "370": 0.2,
+      "24772": 0.2,
+      "24776": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      632361
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "889f298436a144e06e6f0460a8f07493",
+  "room": {
+    "id": 20473,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "A deep chill rises up from the water, its dark surface reminiscent of shadows.  The peninsula begins to disappear behind you."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20471": "/rooms/20473/wayto/stringproc-20471.rb",
+      "20476": "/rooms/20473/wayto/stringproc-20476.rb"
+    },
+    "timeto": {
+      "20471": 2,
+      "20476": 2
+    }
+  }
+}

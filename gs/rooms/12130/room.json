@@ -1,0 +1,50 @@
+{
+  "checksum": "6c7d86c380b4818997a7dac55606629e",
+  "room": {
+    "id": 12130,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The granite wall before you is covered in a huge mural of gouges and scratches.  The pattern spreads from the bottom of the wall upwards, branching much like a tree into various parts.  Studying the damage a bit more, you realize it was all very carefully planned, although why isn't immediately apparent."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12130/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12130/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12130/wayto/stringproc-12093.rb",
+      "12129": "northeast",
+      "12158": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12129": 0.2,
+      "12158": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud"
+    ],
+    "uid": [
+      4567018
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      948,
+      644,
+      958,
+      654
+    ]
+  }
+}

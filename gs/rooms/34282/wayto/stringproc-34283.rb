@@ -1,0 +1,2 @@
+move "go edge"
+waitrt?

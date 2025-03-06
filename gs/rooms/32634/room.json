@@ -1,0 +1,43 @@
+{
+  "checksum": "71b929b8d7cf79bf761a7f05499b505a",
+  "room": {
+    "id": 32634,
+    "title": [
+      "[Cavern Home, Junction]"
+    ],
+    "description": [
+      "A northwest/southeast corridor crosses a northeast/southwest corridor.  The gelatinous trails along the ceiling also cross, and bursts of energy coming from different directions sometimes pass without colliding.  At other times they arrive at the junction point simultaneously, doubling their illumination power for just a moment before continuing along the ceiling once more.  The rippled walls and ceiling cast no shadows, nor do they reflect the light in any great quantity."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32627": "northeast",
+      "32633": "southeast",
+      "32635": "northwest",
+      "32641": "southwest"
+    },
+    "timeto": {
+      "32627": 0.2,
+      "32633": 0.2,
+      "32635": 0.2,
+      "32641": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      17003109
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      459,
+      138,
+      472,
+      151
+    ]
+  }
+}

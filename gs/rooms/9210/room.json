@@ -1,0 +1,38 @@
+{
+  "checksum": "2f59924eefbb5528f149b691405db152",
+  "room": {
+    "id": 9210,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "A thick plume of murky black smoke fills the passageway, its source a violently shaking contraption below.  The haze dissipates fairly quickly, but the unpleasant scent of tar lingers in the air."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "3781": "north",
+      "9209": "south"
+    },
+    "timeto": {
+      "3781": 0.2,
+      "9209": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532005
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1144,
+      730,
+      1154,
+      740
+    ]
+  }
+}

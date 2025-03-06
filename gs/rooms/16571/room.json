@@ -1,0 +1,29 @@
+{
+  "checksum": "1587b5e3e5e42675cf9d49977b007e11",
+  "room": {
+    "id": 16571,
+    "title": [
+      "[Earom's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A shell-lined bamboo counter and a plain wooden table sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12273": "out",
+      "16645": "west",
+      "16646": "east"
+    },
+    "timeto": {
+      "12273": 0.2,
+      "16645": 0.2,
+      "16646": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

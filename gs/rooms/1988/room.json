@@ -1,0 +1,43 @@
+{
+  "checksum": "b9d363018203a02db100e98817a6badc",
+  "room": {
+    "id": 1988,
+    "title": [
+      "[Aquamarine, Cul-de-sac]"
+    ],
+    "description": [
+      "Swales of green turf rise against the town's rock walls to the north and west, forming a cozy bowl-shaped enclosure about the street.  Carved oaken benches line the cobbles, separated by the sharply-sculpted shapes of boxwood hedges into individual conversation nooks of their own.  An elven couple lounges in the grass, whispering and giggling."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1984": "east",
+      "12382": "go path",
+      "24064": "go wrought gate"
+    },
+    "timeto": {
+      "1984": 0.2,
+      "12382": 0.2,
+      "24064": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3002002
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      289,
+      129,
+      325,
+      165
+    ]
+  }
+}

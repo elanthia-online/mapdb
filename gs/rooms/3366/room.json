@@ -1,0 +1,43 @@
+{
+  "checksum": "f4af8422396cb8f762a692c3d726c827",
+  "room": {
+    "id": 3366,
+    "title": [
+      "[Spitfire Alley, Gangplank Way]"
+    ],
+    "description": [
+      "A hand crafted stone arch crosses the street, an intricately carved skull relief on the keystone.  Ice and snow is jammed in between the massive rocks, the stonework weathered by the constant blast of frozen winds."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2304": "go stone path",
+      "3367": "northwest",
+      "8946": "southeast"
+    },
+    "timeto": {
+      "2304": 0.2,
+      "3367": 0.2,
+      "8946": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      705209
+    ],
+    "image": "imt-homes-1264234799.png",
+    "image_coords": [
+      857,
+      471,
+      877,
+      491
+    ]
+  }
+}

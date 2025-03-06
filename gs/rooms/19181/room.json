@@ -1,0 +1,24 @@
+{
+  "checksum": "9d98a355793ecc77566090d49c02d606",
+  "room": {
+    "id": 19181,
+    "title": [
+      "[The Workery, Patterns]"
+    ],
+    "description": [
+      "The modwir-paneled walls outfitting the spacious storage area are polished to a faint silvery gleam and house a brass-faced porthole that provides a glimpse of the water outside.  Incandescent oil lamps hanging along the bulkheads illuminate a pair of vivid cyan seascape tapestries that frame the sides of a beaded sewing room curtain and provide plenty of light to inspect a neatly labeled sewing pattern cabinet."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19144": "west",
+      "19180": "go curtain"
+    },
+    "timeto": {
+      "19144": 0.2,
+      "19180": 0.2
+    }
+  }
+}

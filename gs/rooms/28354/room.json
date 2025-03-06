@@ -1,0 +1,35 @@
+{
+  "checksum": "97bc7c7690a0ea29fe0c4fe2b8d800fa",
+  "room": {
+    "id": 28354,
+    "title": [
+      "[Moonstone Abbey, Great Hall]"
+    ],
+    "description": [
+      "Dazzling moonlight streams in through a deep, narrow window cut high on the eastern wall, causing the moonstones set into the polished onyx floor to glitter and sparkle like stars against a nighttime sky.  A tall spiral staircase rises from the center of the chamber, each step inset with a single perfect white opal.  The clink of glassware and sounds of easy camraderie drift up a passageway to the southeast, and a marble arch leads down into a great chamber to the west."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28353": "southwest",
+      "28356": "northwest",
+      "28361": "go arch",
+      "28370": "go staircase",
+      "28382": "southeast",
+      "28388": "northeast"
+    },
+    "timeto": {
+      "28353": 0.2,
+      "28356": 0.2,
+      "28361": 0.2,
+      "28370": 0.2,
+      "28382": 0.2,
+      "28388": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

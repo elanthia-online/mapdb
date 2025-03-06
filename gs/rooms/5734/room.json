@@ -1,0 +1,40 @@
+{
+  "checksum": "d1d6af57d22218e81cbad27a1259425b",
+  "room": {
+    "id": 5734,
+    "title": [
+      "[Marshtown, Shoreline]"
+    ],
+    "description": [
+      "The planks on this section of the huge barrel-raft of the town are unusually thick and well maintained.  This may be due to the large pier to the south.  A number of larger ships dock there, and crewmen busy themselves moving barrels and crates from ship to shore and shore to ship.  The majority of Marshtown lies to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5732": "northeast",
+      "11756": "go pier"
+    },
+    "timeto": {
+      "5732": 0.2,
+      "11756": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4744013
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      778,
+      788,
+      788,
+      798
+    ]
+  }
+}

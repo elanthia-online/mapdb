@@ -1,0 +1,36 @@
+{
+  "checksum": "9d9d2266339e2920366f5bdb9ae4d720",
+  "room": {
+    "id": 23551,
+    "title": [
+      "[Beacon Hall Annex, Gallery]"
+    ],
+    "description": [
+      "With floor-to-ceiling windows and creamy ivory walls, this room is a showcase of statuary and exhibits.  Stretching across one side, a long glass case protects an array of important and delicate items.  In contrast, displays of battle memorabilia command attention throughout the rest of the room, plush benches scattered between.  A spiral staircase affixed with a sign leads upward, while a guard stationed near a graceful arch prevents casual visitors from further exploration."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "23548": "/rooms/23551/wayto/stringproc-23548.rb",
+      "23552": "go stair",
+      "23553": "go arch"
+    },
+    "timeto": {
+      "23548": 0.2,
+      "23552": 0.2,
+      "23553": 0.2
+    },
+    "uid": [
+      54302
+    ],
+    "image": "wl-beacon_hall.png",
+    "image_coords": [
+      77,
+      171,
+      117,
+      212
+    ]
+  }
+}

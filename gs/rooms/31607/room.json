@@ -1,0 +1,45 @@
+{
+  "checksum": "125d46d46621f4ca20813f17a7c093d1",
+  "room": {
+    "id": 31607,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Illuminated stained glass windows splatter the glistening cobblestones of the lane in a variety of hues as light spills forth from an eclectic curios shop that sits perched upon one corner.  Other shops with amber-lit windows gaze upon the cobbled streets, their shutters canted at angles to their whorled panes.  A railing of wrought iron lines the quiet canal, a banded wooden bench perched at its edge with a tumble of knotted vines decorating its backing."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31562": "northeast",
+      "31592": "southwest",
+      "31603": "southeast",
+      "31608": "go shop"
+    },
+    "timeto": {
+      "31562": 0.2,
+      "31592": 0.2,
+      "31603": 0.2,
+      "31608": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083015
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      633,
+      404,
+      655,
+      425
+    ]
+  }
+}

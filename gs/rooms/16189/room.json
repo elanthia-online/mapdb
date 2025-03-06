@@ -1,0 +1,36 @@
+{
+  "checksum": "349f9d8e06a11feaa625e057db42f7a6",
+  "room": {
+    "id": 16189,
+    "title": [
+      "[Beacon Hall, Game Room]"
+    ],
+    "description": [
+      "In the middle of this room is a large gaming table complete with equipment for playing a variety of games.  An enormous bar that appears freshly stocked dominates the west wall.  The darkly stained modwir walls are covered with an assortment of armaments and flags."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16184": "southwest",
+      "16190": "northwest",
+      "16203": "east"
+    },
+    "timeto": {
+      "16184": 0.2,
+      "16190": 0.2,
+      "16203": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      1112,
+      468,
+      1157,
+      513
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "7d7d154c4dfea12faefc2dbba8242cbc",
+  "room": {
+    "id": 11114,
+    "title": [
+      "[Krol Ship, Main Deck Forward]"
+    ],
+    "description": [
+      "This section of the deck lies beneath the ship's foremast, the peak of which is some fifty feet above your head.  A flight of stairs leads up from here to the forecastle, while the gangplank and the cargo hatch lie aft of here along the deck.  Underneath the forecastle you spot a door leading inside."
+    ],
+    "paths": [
+      "Obvious paths: north, up"
+    ],
+    "location": "the Sea Caves",
+    "climate": "freshwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11090": "north",
+      "11115": "up",
+      "11118": "go door"
+    },
+    "timeto": {
+      "11090": 0.2,
+      "11115": 0.2,
+      "11118": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26005
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4070,
+      1653,
+      4092,
+      1675
+    ]
+  }
+}

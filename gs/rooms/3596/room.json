@@ -1,0 +1,42 @@
+{
+  "checksum": "cfd69ff4248da7999fd758c64857eb37",
+  "room": {
+    "id": 3596,
+    "title": [
+      "[Stronghold, Southeast Skew]"
+    ],
+    "description": [
+      "The floor breaks up into a rough course, growing more hazardous as it progresses to the southeast.  Jumbled boulders are flung against the uneven stone walls in great heaps, their silhouettes cloaked in shifting clouds of gloomy dust.  A penetrating odor of stale air hangs in the corridor, like a haunt reigning over the place where it died for all eternity."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "Stone Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3595": "north",
+      "3597": "southeast"
+    },
+    "timeto": {
+      "3595": 0.2,
+      "3597": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2025-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4292020
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      596,
+      550,
+      606,
+      560
+    ]
+  }
+}

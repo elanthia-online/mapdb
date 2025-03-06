@@ -1,0 +1,41 @@
+{
+  "checksum": "c1e77b5690a38b9f8b324083f8de1c5b",
+  "room": {
+    "id": 29478,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "A ragged chimney allows for a way upwards as the tunnel continues through the pitch black darkness deep in the mountain depths.  Marred walls show no evidence of what has been stripped from the surrounding black granite.  The tunnel continues curving from northeast to northwest."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29477": "northeast",
+      "29479": "up",
+      "29480": "northwest"
+    },
+    "timeto": {
+      "29477": 0.2,
+      "29479": 0.2,
+      "29480": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007207
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      412,
+      245,
+      438,
+      264
+    ]
+  }
+}

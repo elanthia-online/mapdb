@@ -1,0 +1,35 @@
+{
+  "checksum": "1303d1b7ad1f6d8a5f8ba093cb029052",
+  "room": {
+    "id": 13940,
+    "title": [
+      "[Kreldor's Locksmithy, Salesroom]"
+    ],
+    "description": [
+      "Thin strips of polished rosewood and birch are inlaid along the walls creating an intricate design.  Some rustic wooden chairs are set about the room on rugs of colorful spun wool.  A pair of carved shelves is fixed to the back wall, each holding various locksmithing tools.  Hung from each wall are pairs of faenor sconces that burn brightly with scented candles.  Several tall windows of tinted glaes allow cool air to flow through the building."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the hamlet of Ravelin",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13939": "out",
+      "13954": "east"
+    },
+    "timeto": {
+      "13939": 0.2,
+      "13954": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11",
+      "locksmith shop"
+    ],
+    "uid": [
+      14201040
+    ]
+  }
+}

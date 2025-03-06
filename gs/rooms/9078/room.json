@@ -1,0 +1,42 @@
+{
+  "checksum": "e2ef7a19ecb51df9462e0f721c48c5ea",
+  "room": {
+    "id": 9078,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "A pool of warm liquid all but blocks the tunnel.  It looks to be only a few inches deep, but the acrid smell of it prevents you from stepping in it to find out for sure. A swarm of large white flies seem elated at the presence of the little pool."
+    ],
+    "paths": [
+      "Obvious exits: southwest, up"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9077": "southwest",
+      "9079": "up"
+    },
+    "timeto": {
+      "9077": 0.2,
+      "9079": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "some bur-clover root",
+      "some wingstem root",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045157
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1350,
+      456,
+      1360,
+      466
+    ]
+  }
+}

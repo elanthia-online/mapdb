@@ -1,0 +1,39 @@
+{
+  "checksum": "436636f931b6c307fc55dc250a90227e",
+  "room": {
+    "id": 12683,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "Sections of the eastern wall have been carved out around an arched window, forming permanent shelves.  None are currently used, and each is covered with a thin layer of moisture and mold."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12682": "south",
+      "12684": "north",
+      "12689": "west"
+    },
+    "timeto": {
+      "12682": 0.2,
+      "12684": 0.2,
+      "12689": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031102
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      945,
+      505,
+      981,
+      541
+    ]
+  }
+}

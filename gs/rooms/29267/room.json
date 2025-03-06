@@ -1,0 +1,24 @@
+{
+  "checksum": "b81381927426698f323efbe967329375",
+  "room": {
+    "id": 29267,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Muted and persistent, the sound of waves crashing against reverberates throughout the corridor, which is damp and filled with a thick, silvery mist.  Tall clusters of tiny boulders are stacked against the western wall and serve as makeshift shelves, housing dozens of indigo votives."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29266": "south",
+      "29268": "north"
+    },
+    "timeto": {
+      "29266": 0.2,
+      "29268": 0.2
+    }
+  }
+}

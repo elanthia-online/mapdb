@@ -1,0 +1,54 @@
+{
+  "checksum": "e3238c7b6864432a31e3e3855c1ddc92",
+  "room": {
+    "id": 12205,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A long line of robed monks walks solemnly, fading off into the distance.  They seem to be traveling toward the largest mountain of a set which runs across the distant horizon.  Two bursts of flame shoot up from an opening in the mountain occasionally, illuminating a skull-shaped castle and a line of supplicants several miles long moving towards it."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12205/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12205/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12205/wayto/stringproc-12152.rb",
+      "12204": "north",
+      "12212": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12204": 0.2,
+      "12212": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568037
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      320,
+      1118,
+      330,
+      1128
+    ]
+  }
+}

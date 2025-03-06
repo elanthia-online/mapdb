@@ -1,0 +1,29 @@
+{
+  "checksum": "61c3647ae9fed50142e7a5beac764a2b",
+  "room": {
+    "id": 27815,
+    "title": [
+      "[Cholen's Temple, East Hall]"
+    ],
+    "description": [
+      "The corridor is wide and slightly curved, terminating at a recessed door of redwood.  Brass lanterns line the walls, spilling golden light in pools across the long crimson rug that traverses the length of the hall.  Several nondescript doors line the east wall of the corridor, opposite a wide arch of ornately carved gold-veined marble."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "27812": "go door",
+      "27826": "west",
+      "27827": "south"
+    },
+    "timeto": {
+      "27812": 0.2,
+      "27826": 0.2,
+      "27827": 0.2
+    },
+    "uid": [
+      284027
+    ]
+  }
+}

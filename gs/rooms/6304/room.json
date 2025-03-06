@@ -1,0 +1,41 @@
+{
+  "checksum": "b6a7144e2008a08524900c1f1d4ae3c9",
+  "room": {
+    "id": 6304,
+    "title": [
+      "[Dirt Mines, Mud Pits]"
+    ],
+    "description": [
+      "The drip-drop of water and the squish-squash of mud echo through these low tunnels and subterranean pockets.  Bubbles of foul smelling air struggle free from the muck nearby, splattering everything.  Not that you'd notice."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6303": "/rooms/6304/wayto/stringproc-6303.rb",
+      "6305": "northwest"
+    },
+    "timeto": {
+      "6303": 0.2,
+      "6305": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372030
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      145,
+      137,
+      155,
+      147
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "340d08683234b1e970775f02ccde7014",
+  "room": {
+    "id": 2332,
+    "title": [
+      "[Temple Burrow, Koar and Lumnis]"
+    ],
+    "description": [
+      "The edge of the glacier offers a marvelous view of the walled town below, a mix of burrows in the ice and cold earth and shingled rooftops of aboveground dwellings.  The roads are slightly haphazard in layout, but they join eventually with four main streets sprouting from the town center.  Above towers the temple, carved from pure ice and radiant in the sunlight.  An ice ramp descends westward, while an ice staircase leads down to the east and some carved steps plunge to the northwest around an oddly shaped ice flow.",
+      "On the edge of the glacier, you have a marvelous view of the city to the south.  Your eyes follow the slightly haphazard streets around Icemule Trace until they meet the four roads and eventually the gates in the walls.  Above you towers the great temple, carved from the purest ice and shining with a nearly divine light in the sun.  A ramp of ice leads down to the west, while an ice staircase leads down to the east and a set of carved ice steps lead down to the northwest around an oddly shaped ice flow.",
+      "On the edge of the glacier, you have a marvelous view of the city to the south.  Above you towers the temple, carved from the purest ice and shining with a nearly divine aura in the moonlight.  A ramp of ice leads down to the west, while an ice staircase leads down to the east and a set of carved ice steps lead down to the northwest around an oddly shaped ice flow."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2320": "go staircase",
+      "2325": "down",
+      "2331": "go ramp",
+      "2334": "go temple",
+      "2356": "go steps",
+      "23547": "go door"
+    },
+    "timeto": {
+      "2320": 0.2,
+      "2325": 0.2,
+      "2331": 0.2,
+      "2334": 0.2,
+      "2356": 0.2,
+      "23547": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042012
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      760,
+      521,
+      794,
+      555
+    ]
+  }
+}

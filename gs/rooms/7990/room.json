@@ -1,0 +1,48 @@
+{
+  "checksum": "3f3bff4e1ba9925d6bff7f1e496a8f8a",
+  "room": {
+    "id": 7990,
+    "title": [
+      "[House of Paupers, Lounge]",
+      "[Paupers, Lounge]"
+    ],
+    "description": [
+      "You hear the sound of muted conversation and laughter coming from the Common room, though the thick carpets which cover the floor seem to absorb some of the sound.  The walls are paneled in polished mahogany and are decorated with several silver candle sconces which shed their warm light onto the tables scattered about the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7986": "go mahogany door",
+      "8747": "go curtain",
+      "32853": "/rooms/7990/wayto/stringproc-32853.rb",
+      "32854": "/rooms/7990/wayto/stringproc-32854.rb",
+      "32855": "/rooms/7990/wayto/stringproc-32855.rb",
+      "32856": "/rooms/7990/wayto/stringproc-32856.rb",
+      "32857": "/rooms/7990/wayto/stringproc-32857.rb"
+    },
+    "timeto": {
+      "7986": 0.2,
+      "8747": 0.2,
+      "32853": 0.2,
+      "32854": 0.2,
+      "32855": 0.2,
+      "32856": 0.2,
+      "32857": 0.2
+    },
+    "tags": [
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104505
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      897,
+      338,
+      979,
+      391
+    ]
+  }
+}

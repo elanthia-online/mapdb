@@ -1,0 +1,47 @@
+{
+  "checksum": "37db9c77b6a82abd5495c6b62a9a6744",
+  "room": {
+    "id": 11452,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The sea swells break lazily against the stony base of a low cliff wall.  The cliff runs from the southeast to the northwest, where it gradually forms a rolling headland.  The tiled roof of a tower is visible above the headland to the northwest.  The green waters of Maelstrom Bay, muted by the moonlight, stretch out to the west.",
+      "The sea swells break lazily against the stony base of a low cliff wall.  The cliff runs from the southeast to the northwest, where it gradually forms a rolling headland.  The tiled roof of a tower is visible above the headland to the northwest.  The green waters of Maelstrom Bay, bright in the sunlight, stretch out to the west."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11451": "/rooms/11452/wayto/stringproc-11451.rb",
+      "11453": "/rooms/11452/wayto/stringproc-11453.rb",
+      "11454": "/rooms/11452/wayto/stringproc-11454.rb",
+      "11455": "/rooms/11452/wayto/stringproc-11455.rb",
+      "11469": "/rooms/11452/wayto/stringproc-11469.rb"
+    },
+    "timeto": {
+      "11451": 2,
+      "11453": 2,
+      "11454": 2,
+      "11455": 2,
+      "11469": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304026
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      729,
+      1206,
+      739,
+      1216
+    ]
+  }
+}

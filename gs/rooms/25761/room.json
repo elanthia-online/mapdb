@@ -1,0 +1,41 @@
+{
+  "checksum": "7f31a9f80124267824816bcc61808df1",
+  "room": {
+    "id": 25761,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Following the curve of the small island, the waters of the harbor flow gently against the nearby shoals and ripple backwards with little care.  Passionflowers and palm leaves, blown free from the nightly winds that plague this side of the island, float on the slightly choppy sea with indifference and roam where the tide takes them."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25755": "/rooms/25761/wayto/stringproc-25755.rb",
+      "25762": "/rooms/25761/wayto/stringproc-25762.rb",
+      "25764": "/rooms/25761/wayto/stringproc-25764.rb"
+    },
+    "timeto": {
+      "25755": 6,
+      "25762": 6,
+      "25764": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223817
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1840,
+      1039,
+      1860,
+      1058
+    ]
+  }
+}

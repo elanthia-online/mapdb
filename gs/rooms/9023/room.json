@@ -1,0 +1,31 @@
+{
+  "checksum": "f8879d7da6ca749f72995cba547a5c41",
+  "room": {
+    "id": 9023,
+    "title": [
+      "[Warehouse, Decadent Decor]"
+    ],
+    "description": [
+      "The warehouse sprawls out from the wooden double door that serves as the entryway.  Off to the side of the large foyer that greets customers, several large facade displays are positioned along the walls.  Renderings of brick, stone, wood, and other rock faces have been expertly executed in exquisite detail."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9022": "go door",
+      "9024": "north",
+      "9025": "west",
+      "9032": "east"
+    },
+    "timeto": {
+      "9022": 0.2,
+      "9024": 0.2,
+      "9025": 0.2,
+      "9032": 0.2
+    },
+    "uid": [
+      733016
+    ]
+  }
+}

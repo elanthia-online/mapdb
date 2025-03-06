@@ -1,0 +1,32 @@
+{
+  "checksum": "db3b7dcfb6a0251eb9ccf3e226f8215a",
+  "room": {
+    "id": 18427,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "A broken-down wagon blocks half of the roadway as it sits catawampus near the fence.  One of its back wheels has been removed and is lying beside it, several of the spokes splintered and broken.  Many of the baskets in the wagon have shifted to one side, the fruit and vegetables within barely covered by a square of burlap."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18424": "northeast",
+      "18428": "go workshop",
+      "18429": "northwest",
+      "18451": "southwest"
+    },
+    "timeto": {
+      "18424": 0.2,
+      "18428": 0.2,
+      "18429": 0.2,
+      "18451": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

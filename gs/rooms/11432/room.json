@@ -1,0 +1,41 @@
+{
+  "checksum": "1c762afc03b978a1876cfd211b9719b4",
+  "room": {
+    "id": 11432,
+    "title": [
+      "[Floating Dock, Tempest River]"
+    ],
+    "description": [
+      "The dock is little more than a few hundred narrowly-spaced slats carefully tied with sail cordage to a trio of long beams.  Large, ovoid casks, coated with pitch and spaced every few yards, keep it afloat.  The dock juts into an eddy formed by the current of the river rushing west and the waves from the Bay moving east.  A ramp leads up to the Stone Eye veranda.",
+      "A massive dock stretches far out over the river's surface, complete with large support columns at regular intervals, several slips for boats of various sizes, and a series of steps leading towards the swiftly flowing river.  A large warehouse sits adjacent to the slips, and a ramp leads up to the Stone Eye veranda.",
+      "A massive dock stretches far out over the river's surface, complete with large support columns at regular intervals, several slips for boats of various sizes, and a series of steps leading towards the swiftly flowing river.  The shattered remains of a large warehouse lie adjacent to the slips, and a ramp leads up to the Stone Eye veranda."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11431": "up",
+      "11433": "/rooms/11432/wayto/stringproc-11433.rb"
+    },
+    "timeto": {
+      "11431": 0.2,
+      "11433": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      304009
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1933,
+      371,
+      1957,
+      393
+    ]
+  }
+}

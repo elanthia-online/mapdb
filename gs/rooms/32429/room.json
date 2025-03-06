@@ -1,0 +1,41 @@
+{
+  "checksum": "4d12711915b71d19023634ecca7ec502",
+  "room": {
+    "id": 32429,
+    "title": [
+      "[Moonsedge, Ash Row]"
+    ],
+    "description": [
+      "Stirred by the breeze, a thin skim of sludge swirls sluggishly in the basin of a black marble fountain.  The spouts of the fountain, hoisted aloft by nubile maidens and supple young men adorned with gilt, are choked with opportunistic flora that has dried in time with the water.  Across the street, the rear wall of a large manor house is draped in vines that are almost obscenely lush, garish with a growth of crimson flowers."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32424": "south",
+      "32425": "north"
+    },
+    "timeto": {
+      "32424": 0.2,
+      "32425": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577023
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      440,
+      344,
+      462,
+      369
+    ]
+  }
+}

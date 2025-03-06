@@ -1,0 +1,43 @@
+{
+  "checksum": "850b959b84fd16e0c793b702c979eadc",
+  "room": {
+    "id": 43,
+    "title": [
+      "[Whistler's Pass, Road]"
+    ],
+    "description": [
+      "The walls of the pass open up and fade into the sides of the hills.  The road continues its ascent through the darkness towards what appears to be a large gate.",
+      "The walls of the pass open up and fade into the sides of the hills.  The road continues its ascent towards what appears to be a large gate."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "42": "east",
+      "44": "west",
+      "13177": "go path"
+    },
+    "timeto": {
+      "42": 0.2,
+      "44": 0.2,
+      "13177": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      13017095
+    ],
+    "image": "en-sapphire-1658723758.png",
+    "image_coords": [
+      1143,
+      163,
+      1153,
+      173
+    ]
+  }
+}

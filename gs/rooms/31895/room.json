@@ -1,0 +1,38 @@
+{
+  "checksum": "6e225fea267af372ef6fbff99cdd2e81",
+  "room": {
+    "id": 31895,
+    "title": [
+      "[Illusory Dreams, Entryway]"
+    ],
+    "description": [
+      "A variety of twilight and celestial-themed knickknacks adorn the walls and decorate the fabrics chosen for this shop.  A narrow window with drawn moon and stars curtains adorns the eastern wall.  Empty doorframes leading into other rooms hint at this building's previous function as a house, although it is unclear how long ago the conversion took place."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31630": "go panel-inset door",
+      "31896": "west",
+      "31897": "south",
+      "31898": "southwest",
+      "32099": "go blue curtain"
+    },
+    "timeto": {
+      "31630": 0.2,
+      "31896": 0.2,
+      "31897": 0.2,
+      "31898": 0.2,
+      "32099": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084341
+    ]
+  }
+}

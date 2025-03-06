@@ -1,0 +1,29 @@
+{
+  "checksum": "1119164ef53147775e4e5a71638ea865",
+  "room": {
+    "id": 28380,
+    "title": [
+      "[Second Floor, Hallway]"
+    ],
+    "description": [
+      "On either side of the soft ivory carpet running down the center of the hall, dark herringboned felwood complements the narrow panels of polished cherrywood that have been affixed to the lower half of the walls.  Above them, fine ebony brocade extends to the ceiling.  Halfway down the corridor, an elegant porcelain bowl filled with lily and rose petals sits on a carved ivory pedestal, lending a pleasant fragrance to the air."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28357": "northwest",
+      "28370": "south",
+      "28381": "go door"
+    },
+    "timeto": {
+      "28357": 0.2,
+      "28370": 0.2,
+      "28381": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

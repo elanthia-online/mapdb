@@ -1,0 +1,51 @@
+{
+  "checksum": "708cf97f563831d43432886302b7e82d",
+  "room": {
+    "id": 2365,
+    "title": [
+      "[Magical Burrow, Wraith Road]"
+    ],
+    "description": [
+      "Dense fog creeps over the street in heavy banks.  Hanging low to the ground, it swirls in a chilling caress, muting the footsteps of passerby and making the noises of the district sound distant and strange.  Wrought iron fences guard the stolid old estates along the sides of the street.  Their windows stare down like empty sockets, and even the burrows nearby are grim things with dark-painted doors.  One gate is partly askew, allowing access to the porch of a small house.",
+      "Wrought-iron fences and a dense fog seem to be everywhere.  The fog is low to the ground and swirls in a chilling caress around you, even when you stand still.  The fog is probably just from the nearby glacier--at least, that is what you keep telling yourself."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south",
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2364": "northeast",
+      "2366": "southeast",
+      "2381": "east",
+      "3350": "go gate",
+      "34068": "south",
+      "34069": "north"
+    },
+    "timeto": {
+      "2364": 0.2,
+      "2366": 0.2,
+      "2381": 0.2,
+      "3350": 0.2,
+      "34068": 0.2,
+      "34069": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042116
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      138,
+      520,
+      174,
+      556
+    ]
+  }
+}

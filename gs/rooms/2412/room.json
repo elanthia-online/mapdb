@@ -1,0 +1,57 @@
+{
+  "checksum": "05a16c6ffe1d193a07057be08be984d0",
+  "room": {
+    "id": 2412,
+    "title": [
+      "[Icemule Trace, South Road]"
+    ],
+    "description": [
+      "A flow of adventurers, merchants, trappers, and lumberjacks congeals into a noisy throng near the South Gate of Icemule Trace.  Adding to the clack of wagon wheels and the din of the crowd, sounds of laughter and clanking mugs beckon from the inns and taverns that occupy the Tavern Burrow, just to the west.   The road lies in the shadow of the town's high walls and barbican towers, the foundations of which are of darker stone than the top.",
+      "Several groups of adventurers jostle past you on their way through the South Gate.  The sounds of laughter from the west remind you of the inns and taverns back home.  You notice that the lowest part of the wall is darker stone than the top, a sign that this fortification was raised at some point in the past."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2411": "north",
+      "2413": "east",
+      "2486": "go south gate",
+      "3438": "west",
+      "27702": "go east tower",
+      "27709": "go west tower",
+      "30709": "/rooms/2412/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2411": 0.2,
+      "2413": 0.2,
+      "2486": 0.2,
+      "3438": 0.2,
+      "27702": 0.2,
+      "27709": 0.2,
+      "30709": "/rooms/2412/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "advpickup",
+      "calmintha flower",
+      "urchin guide southgate",
+      "urchin-access",
+      "southgate",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin guide guard"
+    ],
+    "uid": [
+      4042225
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      582,
+      1229,
+      618,
+      1265
+    ]
+  }
+}

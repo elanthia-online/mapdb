@@ -1,0 +1,27 @@
+{
+  "checksum": "9e43593821aa4bc926b7a3d263f85d9d",
+  "room": {
+    "id": 21730,
+    "title": [
+      "[ShadowGuard, East Wing]"
+    ],
+    "description": [
+      "The frescoes adorning this portion of the wide hallway depict various key moments throughout the history of the Elven Empire.  An elegant teak hutch stands against the north wall as a poignant reminder to the opulence of the former inhabitants."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21728": "west",
+      "21732": "east"
+    },
+    "timeto": {
+      "21728": 0.2,
+      "21732": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "f65538c6259dc5197fbf774c5b1dff27",
+  "room": {
+    "id": 33440,
+    "title": [
+      "[House Aspis, Under the Floor]"
+    ],
+    "description": [
+      "You can't see more than a few inches in front of your face, but you are pretty sure you remember how to find the small opening to get back into the building.  A cold shiver drips down your back and you think you hear footsteps.  Is it your imagination, or is there really someone else down here too?"
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "33439": "go opening",
+      "33441": "west"
+    },
+    "timeto": {
+      "33439": 0.2,
+      "33441": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102501
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      560,
+      1028,
+      693,
+      1095
+    ]
+  }
+}

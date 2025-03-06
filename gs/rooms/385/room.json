@@ -1,0 +1,44 @@
+{
+  "checksum": "6b85903b34114f84c387f37b22bfe366",
+  "room": {
+    "id": 385,
+    "title": [
+      "[Landing Hall, Courtyard]"
+    ],
+    "description": [
+      "A large domed structure of solid granite rests in the middle of a grass clearing, seemingly out of place from the bustling streets outside.  The dome of gold rises grandly from the roof of the building, providing a shining beacon in the moonlight.  Brilliant stained glass is set along the bottom circumference of the dome, adding a touch of color to the gold.  A narrow cobblestone path leads to the massive oak doors that provide entry into the building.",
+      "A large domed structure of solid granite rests in the middle of a grass clearing, seemingly out of place from the bustling streets outside.  The dome of gold rises grandly from the roof of the building, providing a shining beacon in the sunlight.  Brilliant stained glass is set along the bottom circumference of the dome, adding a touch of color to the gold.  A narrow cobblestone path leads to the massive oak doors that provide entry into the building."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "230": "out",
+      "8684": "go path",
+      "30633": "go doors",
+      "30708": "/rooms/385/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "230": 0.2,
+      "8684": 0.2,
+      "30633": 0.2,
+      "30708": "/rooms/385/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "mho hall",
+      "mho hall board",
+      "urchin-access",
+      "urchin guide townhall",
+      "townhall",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      853004
+    ]
+  }
+}

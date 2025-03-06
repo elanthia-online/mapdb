@@ -1,0 +1,32 @@
+{
+  "checksum": "aaf72c7e6c53fbed2f65e15e4e341616",
+  "room": {
+    "id": 31854,
+    "title": [
+      "[Both Sides Now, Central Room]"
+    ],
+    "description": [
+      "Divided in half symmetrically, the main room of the cottage is decorated in dark somber tones on one side and light cheerful hues on the other.  Display racks match in height and size, only their composition is different, creating a kind of opposing mirror visual.  The center has been left clear for customers to pause as they consider which half of the cottage to peruse first.  Stark torches flicker from their brackets on the shadow wall, opposed by clear, half-circle sconces glimmering parallel."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31769": "out",
+      "31855": "go wooden arch"
+    },
+    "timeto": {
+      "31769": 0.2,
+      "31855": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084641
+    ]
+  }
+}

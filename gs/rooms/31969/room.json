@@ -1,0 +1,32 @@
+{
+  "checksum": "7eb6f0dbc51552ae2ba78ed4f87d2ac7",
+  "room": {
+    "id": 31969,
+    "title": [
+      "[Rodnir's Bait and Tackle]"
+    ],
+    "description": [
+      "Patchwork walls form an irregularly shaped interior of rotted wooden planks and warped beams, the floor equally buckled and uneven around a battered wooden rack held in place by moss that has grown through in thick patches.  Thatched vines and brambles glisten with streaks of ichor and damp blood, their jagged thorns and hardened spines jutting downward from the ceiling.  Sagging dangerously low in the center of the room, a rotting ichor-covered crate dangles from a series of knotted cables."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31635": "out",
+      "32119": "jump crate"
+    },
+    "timeto": {
+      "31635": 0.2,
+      "32119": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084321
+    ]
+  }
+}

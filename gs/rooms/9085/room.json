@@ -1,0 +1,42 @@
+{
+  "checksum": "da4d6fea6d6fe4aa3ae03a8805236126",
+  "room": {
+    "id": 9085,
+    "title": [
+      "[Infested Tunnels, Rat's Nest]"
+    ],
+    "description": [
+      "Bits of fur and other filth drift about in the air along the dark tunnels.  You can't shake the feeling that as you stalk the rats, contagion stalks you.  Cold steel is no protection against the slow death of disease."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, northwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9084": "northeast",
+      "9088": "east",
+      "9089": "northwest"
+    },
+    "timeto": {
+      "9084": 0.2,
+      "9088": 0.2,
+      "9089": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045165
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1269,
+      304,
+      1279,
+      314
+    ]
+  }
+}

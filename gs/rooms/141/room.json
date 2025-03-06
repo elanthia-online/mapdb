@@ -1,0 +1,38 @@
+{
+  "checksum": "4f7d35d60c2d58bbb21d3e32e1fc0ccc",
+  "room": {
+    "id": 141,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "A gust of sweet, fresh air stirs the dusty currents and reminds you that there is a world beyond these tomblike tunnels.  A large rock now rests against the north wall, effectively blocking any access to the hidden breach."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "140": "east",
+      "142": "west"
+    },
+    "timeto": {
+      "140": 0.2,
+      "142": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300001
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      637,
+      440,
+      647,
+      450
+    ]
+  }
+}

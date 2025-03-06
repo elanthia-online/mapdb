@@ -1,0 +1,34 @@
+{
+  "checksum": "6455c8d60d58c4bcfabbe5f79d1d0d8e",
+  "room": {
+    "id": 32568,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "The jagged spires of the coastal cliffs rise up overhead as the Darkstone Bay floods in to eternally brush across the Black Sands beach. Nearby rocks glisten with the spray from the ocean, and the crashing of waves resounds nearby."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7625": "go beach",
+      "32569": "/rooms/32568/wayto/stringproc-32569.rb"
+    },
+    "timeto": {
+      "7625": 0.2,
+      "32569": 3.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      336814
+    ]
+  }
+}

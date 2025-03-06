@@ -1,0 +1,38 @@
+{
+  "checksum": "3cec336711801ab6e5d5cedcbe22963e",
+  "room": {
+    "id": 9778,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Deep scratches mar the walls and floor of the tunnel.  Roots are broken and wilted and there is the foul scent of death in the air.  Fragments of bone with bits of black hair lie here and there."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9777": "north",
+      "9779": "southeast"
+    },
+    "timeto": {
+      "9777": 0.2,
+      "9779": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022041
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1150,
+      651,
+      1160,
+      661
+    ]
+  }
+}

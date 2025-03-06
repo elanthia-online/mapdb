@@ -1,0 +1,41 @@
+{
+  "checksum": "44613d6a7aa4ea65ee14f7b09ff71d5b",
+  "room": {
+    "id": 7834,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "This is a bend in a dull grey corridor.  There's a door on the west wall, and passages lead northeast and south."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7835": "northeast",
+      "7837": "south",
+      "7847": "go door"
+    },
+    "timeto": {
+      "7835": 0.2,
+      "7837": 0.2,
+      "7847": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35047
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      492,
+      411,
+      502,
+      421
+    ]
+  }
+}

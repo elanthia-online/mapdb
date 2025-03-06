@@ -1,0 +1,26 @@
+{
+  "checksum": "35ad2fb5303092bbb1e0177e05318022",
+  "room": {
+    "id": 29263,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Adequately brightened by candles to the east, west, and north, three corridors come together upon waterlogged velvet carpeting that is stained a shade darker than blood.  Shattered remains of a lounge chair, its once-decorative canvas long gone, rest against a bare wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29262": "east",
+      "29264": "west",
+      "29273": "north"
+    },
+    "timeto": {
+      "29262": 0.2,
+      "29264": 0.2,
+      "29273": 0.2
+    }
+  }
+}

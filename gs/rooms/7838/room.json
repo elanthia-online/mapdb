@@ -1,0 +1,39 @@
+{
+  "checksum": "09e6b96335a2c418b0c62dd838772994",
+  "room": {
+    "id": 7838,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "Three chairs and a small couch are grouped around a rectangular table in the center of this room.  Two of the chairs and the table have collapsed, and all the upholstery is mouldy.  Rodents have gnawed holes in the upholstery and made off with most of the stuffing.  A mosaic, faded and filthy, is set into the south wall over a small fireplace."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7837": "west",
+      "7839": "northeast"
+    },
+    "timeto": {
+      "7837": 0.2,
+      "7839": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35056
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      544,
+      493,
+      554,
+      503
+    ]
+  }
+}

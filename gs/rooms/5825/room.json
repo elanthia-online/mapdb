@@ -1,0 +1,47 @@
+{
+  "checksum": "5b67246831c6db07c16fc775e3f7c713",
+  "room": {
+    "id": 5825,
+    "title": [
+      "[The Legendary Rest, Courtyard]"
+    ],
+    "description": [
+      "Flat marble walkways lead northeast and southeast to the inn's rooms.  A towering marble fountain dominates the courtyard's center, and its cascading waters change their flow patterns regularly to create different appearances and effects.  Six tables surround the fountain, keeping a safe distance from the fountain's watery spray, and freestanding torches occupy places near each table to await the coming night.  An immaculately dressed lady supplies food and drink from behind a polished brass bar."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Legendary Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5824": "/rooms/5825/wayto/stringproc-5824.rb",
+      "5826": "go doors",
+      "6106": "/rooms/5825/wayto/stringproc-6106.rb",
+      "10303": "northeast",
+      "10305": "southeast",
+      "24051": "/rooms/5825/wayto/stringproc-24051.rb",
+      "28266": "/rooms/5825/wayto/stringproc-28266.rb",
+      "28267": "/rooms/5825/wayto/stringproc-28267.rb",
+      "28268": "/rooms/5825/wayto/stringproc-28268.rb"
+    },
+    "timeto": {
+      "5824": 0.2,
+      "5826": 0.2,
+      "6106": 0.2,
+      "10303": 0.2,
+      "10305": 0.2,
+      "24051": 0.2,
+      "28266": 0.2,
+      "28267": 0.2,
+      "28268": 0.2
+    },
+    "tags": [
+      "table",
+      "no forageables"
+    ],
+    "uid": [
+      14101004
+    ]
+  }
+}

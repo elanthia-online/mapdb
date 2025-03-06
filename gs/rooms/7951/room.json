@@ -1,0 +1,50 @@
+{
+  "checksum": "0372a745efdfc33d26e5480974d6ec2c",
+  "room": {
+    "id": 7951,
+    "title": [
+      "[Burrows, Ambush]"
+    ],
+    "description": [
+      "This narrow room would be ideal for a surprise attack, at least one by an organized force.  Tunnels lead east and northwest to crude guard posts, leaving the only escapes deeper into the burrow or back to scramble up the tunnel.  Assuming this is used to keep intruders out of the main burrows, you conclude that it is not very effective."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, south, northwest"
+    ],
+    "location": "Melgorehn's Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7950": "northeast",
+      "7952": "east",
+      "7953": "south",
+      "7954": "northwest"
+    },
+    "timeto": {
+      "7950": 0.2,
+      "7952": 0.2,
+      "7953": 0.2,
+      "7954": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2148027
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      817,
+      432,
+      827,
+      442
+    ]
+  }
+}

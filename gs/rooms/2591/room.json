@@ -1,0 +1,56 @@
+{
+  "checksum": "9345979ceff3d4bfa211501117c75892",
+  "room": {
+    "id": 2591,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A huge fountain of blood erupts from the ground here, gushing hundreds of feet into the air and raining back down hard.  At its apex, the thick fluid holds the pattern of a pair of eyes, watching your movements as you pass through.  The eyes hold your own a moment, and a wave of nausea passes over you. When it fades, they have wavered and fallen with their medium."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, south, west, northwest",
+      "Obvious paths: northeast, east, south, west, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2586": "northwest",
+      "2587": "northeast",
+      "2590": "east",
+      "2592": "west",
+      "2603": "south",
+      "2635": "/rooms/2591/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2591/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2591/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2586": 0.2,
+      "2587": 0.2,
+      "2590": 0.2,
+      "2592": 0.2,
+      "2603": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "withered deathblossom",
+      "twisted black mawflower"
+    ],
+    "uid": [
+      4566013
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      186,
+      697,
+      194,
+      705
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "1ac42a7e9eff5b0f3e68acb52ff4fdde",
+  "room": {
+    "id": 29583,
+    "title": [
+      "[Water Tower, First Floor]"
+    ],
+    "description": [
+      "Stairsteps descend and ascend along the inward facing wall of the room, their dark blue wood in contrast to the light blue-green of the walls and marble floors.  The northern walkway and the western walkway lead off to other chambers on the outward side of the tower.  A few overstuffed chairs covered in garish sealife prints sit around a low table inset with a coral and mother-of-pearl pattern on its legs."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, up, down"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "29580": "go northern walkway",
+      "29582": "go western walkway",
+      "29589": "up",
+      "29603": "down",
+      "29606": "southwest",
+      "29607": "southeast"
+    },
+    "timeto": {
+      "29580": 0.2,
+      "29582": 0.2,
+      "29589": 0.2,
+      "29603": 0.2,
+      "29606": 0.2,
+      "29607": 0.2
+    },
+    "uid": [
+      686007
+    ],
+    "image": "ifw-wizard_guild-1619773727.png",
+    "image_coords": [
+      433,
+      1417,
+      463,
+      1447
+    ]
+  }
+}

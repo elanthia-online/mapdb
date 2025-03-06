@@ -1,0 +1,41 @@
+{
+  "checksum": "b8b3db8cdc61150960049d729141fab0",
+  "room": {
+    "id": 31832,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "Flowing at a leisurely pace, the river courses through a somber landscape featuring steep, rocky hillsides and stubby trees.  The air is still, no breeze rustling the tree branches or sending ripples across the water.  A collection of lily pads float along, their burgundy blooms a stark contrast to the otherwise grey surroundings."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31831": "/rooms/31832/wayto/stringproc-31831.rb",
+      "31833": "/rooms/31832/wayto/stringproc-31833.rb"
+    },
+    "timeto": {
+      "31831": 0.2,
+      "31833": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083412
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1407,
+      915,
+      1429,
+      937
+    ]
+  }
+}

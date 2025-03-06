@@ -1,0 +1,42 @@
+{
+  "checksum": "4d0ec4d4ab05612eab3a9615c3be495f",
+  "room": {
+    "id": 16490,
+    "title": [
+      "[Rogue Guild, Courtyard]"
+    ],
+    "description": [
+      "The second story of the building above overhangs the courtyard here, shading a small arrangement of tables set among the flagstones.  Torches set into the walls provide light for nighttime meetings, and a narrow passage leads into an alleyway between the buildings in the corner."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16438": "east",
+      "16491": "go passage",
+      "16504": "northeast",
+      "16517": "north"
+    },
+    "timeto": {
+      "16438": 0.2,
+      "16491": 0.2,
+      "16504": 0.2,
+      "16517": 0.2
+    },
+    "tags": [
+      "rogue guild dirt",
+      "rogue guild window"
+    ],
+    "uid": [
+      261019
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      398,
+      303,
+      426,
+      331
+    ]
+  }
+}

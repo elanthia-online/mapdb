@@ -1,0 +1,40 @@
+{
+  "checksum": "419e5df5ce905faa0a5777e26ec878bf",
+  "room": {
+    "id": 6880,
+    "title": [
+      "[Abandoned Inn, Workshop]"
+    ],
+    "description": [
+      "A wide assortment of hardware, lumber, pipes and window glass sit arranged about the room.  Brushes for paint, buckets of odds and ends, and other tools sit among them, giving the place the look of every other workshop kept by a handyman.  A single industrious spider makes a web high in a corner, as if looking for refuge from the clutter."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6878": "east",
+      "6881": "south",
+      "6882": "/rooms/6880/wayto/stringproc-6882.rb"
+    },
+    "timeto": {
+      "6878": 0.2,
+      "6881": 0.2,
+      "6882": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21128
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      933,
+      1025,
+      943,
+      1035
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "0151b039631e38f366961ba9baec3c54",
+  "room": {
+    "id": 25785,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Strangely formed, the nearby island appears to be comprised of smooth stones, sand, and pebbles.  Silver moonlight slips through the puffy white clouds in the sky, while the dazzling stars of the heavens reflect off of the waters of the harbor."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25704": "/rooms/25785/wayto/stringproc-25704.rb",
+      "25730": "/rooms/25785/wayto/stringproc-25730.rb",
+      "25774": "/rooms/25785/wayto/stringproc-25774.rb"
+    },
+    "timeto": {
+      "25704": 6,
+      "25730": 6,
+      "25774": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223862
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1841,
+      1680,
+      1860,
+      1700
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "693f32fd7e726b97c19804b620685856",
+  "room": {
+    "id": 26592,
+    "title": [
+      "[Caligos Isle, Blind Man's Rail]"
+    ],
+    "description": [
+      "Twin railings stand at either side of the narrow pathway, the broken wood frames hanging precariously over the darkness of the cavern depths below.  The intermittent echo of rocks colliding down the walls of the chamber breaks up the otherwise monotonous silence of the area."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26530": "southwest",
+      "26593": "go rope",
+      "26594": "northwest"
+    },
+    "timeto": {
+      "26530": 0.2,
+      "26593": 0.2,
+      "26594": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      825,
+      220,
+      838,
+      233
+    ]
+  }
+}

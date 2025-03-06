@@ -1,0 +1,38 @@
+{
+  "checksum": "74d803a7df10e2726d3d13d0b7c7bdeb",
+  "room": {
+    "id": 6613,
+    "title": [
+      "[Lower Chamber]"
+    ],
+    "description": [
+      "To the east, this strange, arched cellar opens into a small room and a door is visible there.  To the west, the cellar disappears into the darkness of the underground tower."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6612": "west",
+      "6614": "east"
+    },
+    "timeto": {
+      "6612": 0.2,
+      "6614": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285052
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      919,
+      645,
+      929,
+      655
+    ]
+  }
+}

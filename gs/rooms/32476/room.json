@@ -1,0 +1,37 @@
+{
+  "checksum": "854f8aa72009fa9961a9b6e8ecff2fb1",
+  "room": {
+    "id": 32476,
+    "title": [
+      "[Moonsedge Castle, Master Suite]"
+    ],
+    "description": [
+      "A high ceiling with raw timber rafters crowns the vast antechamber of the master suite.  Brilliantly illuminated by dozens of beeswax candles, the room's windows are smothered by heavy curtains of dark crimson velvet, the draperies marked with the same moon and bramble sigil as a heavy bloodwood door.  Along one wall, a luxuriant couch lazes, bright scarlet pillows vivid against its dark leather surface."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32475": "go door",
+      "32477": "north"
+    },
+    "timeto": {
+      "32475": 0.2,
+      "32477": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577247
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1109,
+      285,
+      1127,
+      305
+    ]
+  }
+}

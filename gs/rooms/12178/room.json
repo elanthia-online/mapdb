@@ -1,0 +1,54 @@
+{
+  "checksum": "f13b8888ffd82fbf9ee3476e8b8e3047",
+  "room": {
+    "id": 12178,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A small wooden sign sits before you, ancient writing scrawled across the surface.  Just behind it, a huge pit extends deep into the ground.  An unusual silence hangs heavily over the area, broken occasionally by a metallic squeak from the pit.  Looking inside, you see thousands of small, grooved metal rods imbedded in the walls rotating slowly.  The further down the pit extends, the more narrow it becomes until you can see no more."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/12178/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12178/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12178/wayto/stringproc-12152.rb",
+      "12177": "west",
+      "12179": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12177": 0.2,
+      "12179": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568006
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      268,
+      1006,
+      276,
+      1014
+    ]
+  }
+}

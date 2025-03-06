@@ -1,0 +1,38 @@
+{
+  "checksum": "c9e90eba6c8a69d4599efc314db61776",
+  "room": {
+    "id": 9205,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "This room is nothing more than a tiny closet.  With the exception of the ornately framed mirror that is nearly covering one of the walls, it is completely barren."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9204": "up",
+      "9206": "go mirror"
+    },
+    "timeto": {
+      "9204": 0.2,
+      "9206": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532001
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1174,
+      852,
+      1184,
+      862
+    ]
+  }
+}

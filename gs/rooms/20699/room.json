@@ -1,0 +1,40 @@
+{
+  "checksum": "a6d11ab1efbd0ea7b3b40db2cf44959c",
+  "room": {
+    "id": 20699,
+    "title": [
+      "[Meazernis Villa, Transport Room]"
+    ],
+    "description": [
+      "Pale pink walls surround this small room that is little more than a spacious closet.  Leaning up against one wall, a small table stands beside a curved petal pink doorway that leads out of the room.  Nearby, a young attendant stands ready to serve.  The focal point of the room is a swirling iridescent portal framed by an oval of wrought silver.  Sprawling cherry blossom branches have been etched into the metal, their flowering lengths mingling near the top, reminiscent of a garden bower."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "18721": "go petal doorway",
+      "30714": "/rooms/20699/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "18721": 0.2,
+      "30714": "/rooms/20699/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "node",
+      "premium:transport",
+      "urchin-access",
+      "meta:premium"
+    ],
+    "uid": [
+      4002718
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      3136,
+      2033,
+      3268,
+      2089
+    ]
+  }
+}

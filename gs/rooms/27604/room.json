@@ -1,0 +1,41 @@
+{
+  "checksum": "52a1f14067619c2e37fd0da2cb759e89",
+  "room": {
+    "id": 27604,
+    "title": [
+      "[River's Rest, Dilapidated Pier]"
+    ],
+    "description": [
+      "This section of the pier is much closer to the water than that above, so close in fact that one might dip their feet in the river by sitting at the platform's edge.  Beneath the boards, the sound of water sloshing against the pilings can be heard, and silvery water striders can be seen skipping along the river's surface in the midst of the cattails and reeds."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10843": "go ladder",
+      "27605": "go shack"
+    },
+    "timeto": {
+      "10843": 0.2,
+      "27605": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      155005
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1775,
+      1084,
+      1813,
+      1121
+    ]
+  }
+}

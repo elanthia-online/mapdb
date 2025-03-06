@@ -1,0 +1,24 @@
+{
+  "checksum": "d0fbf1be9c7e8ec9b36adbb5174a197c",
+  "room": {
+    "id": 20542,
+    "title": [
+      "[Stone Keep, Outer Wall]"
+    ],
+    "description": [
+      "This section of the wall lingers in darkness, trapped between the dark storm and the shadow of the keep.  Booming thunder echoes from the north."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20541": "west",
+      "20543": "east"
+    },
+    "timeto": {
+      "20541": 0.2,
+      "20543": 0.2
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "1e886f8ebd26e66913ca3f983254185d",
+  "room": {
+    "id": 7515,
+    "title": [
+      "[Catacombs, Narrow Corridor]"
+    ],
+    "description": [
+      "A solidly constructed, well-maintained passage leads west.  The crumbling brick walls have been plastered over with lime to keep them intact and small shelves built into the brick still contain tools and supplies used to dig out the niches for the tombs in the catacombs."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "7508": "say well",
+      "7516": "west"
+    },
+    "timeto": {
+      "7508": 0.2,
+      "7516": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      46013
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      687,
+      1043,
+      697,
+      1053
+    ]
+  }
+}

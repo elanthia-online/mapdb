@@ -1,0 +1,43 @@
+{
+  "checksum": "9cea6b7d81f73f318e3e19610101e174",
+  "room": {
+    "id": 10661,
+    "title": [
+      "[Neartofar Forest, Stockade]"
+    ],
+    "description": [
+      "Two lines have been scratched deep into the ground at either edge of the courtyard, which is littered with various contraptions that suggest its use as an exercise yard.  A small, brick chimney rises from the northeast corner of the barracks, thick oily smoke rising into the bright blue sky.  A cargo net draped against the outer wall provides a means of climbing to the platform overhead."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest, up"
+    ],
+    "location": "the Neartofar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10660": "southwest",
+      "10662": "up",
+      "10663": "northwest"
+    },
+    "timeto": {
+      "10660": 0.2,
+      "10662": 0.2,
+      "10663": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14015204
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      948,
+      921,
+      960,
+      930
+    ]
+  }
+}

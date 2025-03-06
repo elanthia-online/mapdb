@@ -1,0 +1,43 @@
+{
+  "checksum": "6ff73a1f8b2b73c30b19cd4c516fe876",
+  "room": {
+    "id": 16117,
+    "title": [
+      "[Hoosegow Rotunda]"
+    ],
+    "description": [
+      "Brightly colored river pebbles have been crafted into a mosaic in the floor.  Inset in the orange-hued stucco walls are a series of green ceramic tiles, each decorated with a highly stylized image of the scales of justice. A sturdy stout iron gate is set in the south wall.  A circle of windows around the dome of the rotunda allows moonlight to flood the room.",
+      "Brightly colored river pebbles have been crafted into a mosaic in the floor.  Inset in the orange-hued stucco walls are a series of green ceramic tiles, each decorated with a highly stylized image of the scales of justice. A sturdy stout iron gate is set in the south wall.  A circle of windows around the dome of the rotunda allows sunlight to flood the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10892": "go portcullis",
+      "16119": "northeast",
+      "16125": "go arch"
+    },
+    "timeto": {
+      "10892": 0.2,
+      "16119": 0.2,
+      "16125": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5007003
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1542,
+      752,
+      1566,
+      775
+    ]
+  }
+}

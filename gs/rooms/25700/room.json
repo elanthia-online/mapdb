@@ -1,0 +1,39 @@
+{
+  "checksum": "5808d966b3466e076d11dfb2deb07fac",
+  "room": {
+    "id": 25700,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Moonlight glitters off of the smooth, round surface of the globes that are strung in a straight line that creates a barrier between the open harbor and the swimming area beyond.  Dark blue waters slosh over the tops of the glass objects, causing random pieces to occasionally slip beneath the surface."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25699": "/rooms/25700/wayto/stringproc-25699.rb",
+      "25701": "/rooms/25700/wayto/stringproc-25701.rb"
+    },
+    "timeto": {
+      "25699": 6,
+      "25701": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223843
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1440,
+      1439,
+      1461,
+      1459
+    ]
+  }
+}

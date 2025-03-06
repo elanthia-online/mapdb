@@ -1,0 +1,58 @@
+{
+  "checksum": "a7e686d3981c607012e3753a41bb86ee",
+  "room": {
+    "id": 12221,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A portrait rests against an immense boulder here.  The boulder seems to have a vaguely familiar shape, but exactly what is too difficult to place.  Leaning against the base of the boulder is a modwir-framed picture, depicting an incredibly strong man wrestling with a heavy burden.  The rock he holds appears to grow heavier, and he looks tired and pained by the weight of it.  At the base of the painting before you are two footprints imbedded deeply into the ground."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south",
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12221/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12221/wayto/stringproc-12089.rb",
+      "12092": "south",
+      "12152": "/rooms/12221/wayto/stringproc-12152.rb",
+      "12222": "northeast"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12092": 0.2,
+      "12152": 21.6,
+      "12222": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568049
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      119,
+      1114,
+      129,
+      1124
+    ]
+  }
+}

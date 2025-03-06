@@ -1,0 +1,37 @@
+{
+  "checksum": "9c54029b1ab43521e1f858a03e780675",
+  "room": {
+    "id": 8634,
+    "title": [
+      "[Wehnimer's, Shop Cellar]"
+    ],
+    "description": [
+      "Wrought iron candelabras occupy opposite corners of the room, casting a series of flickering shadows along the ceiling and walls.  Multicolored throw rugs patterned with interlocking spheres are scattered throughout the basement.  An oddly shaped table and a single ladder-back chair rest in the far corner of the room near an old pot-bellied stove."
+    ],
+    "paths": [
+      "Obvious exits: north, up"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8633": "up",
+      "8635": "north",
+      "30708": "/rooms/8634/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "8633": 0.2,
+      "8635": 0.2,
+      "30708": "/rooms/8634/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "chronomage",
+      "urchin-access",
+      "urchin guide chronomages",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      112013
+    ]
+  }
+}

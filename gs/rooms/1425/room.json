@@ -1,0 +1,43 @@
+{
+  "checksum": "c55ef2a0aae91461feb8b62119fa5cf2",
+  "room": {
+    "id": 1425,
+    "title": [
+      "[Solhaven, Tumbledown Lane]"
+    ],
+    "description": [
+      "Resembling a cobblestone footpath more than a street, Tumbledown Lane levels out for only a few feet.  The street dead ends at the door of a stone cottage sporting an incongruous onion-shaped dome, nestled close in the shadow of the Northwest Tower.  Behind the cottage, the metal track runs past, headed down the hillside."
+    ],
+    "paths": [
+      "Obvious paths: north, up"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1424": "up",
+      "1426": "north",
+      "9396": "go cottage",
+      "33346": "go ladder"
+    },
+    "timeto": {
+      "1424": 0.2,
+      "1426": 0.2,
+      "9396": 0.2,
+      "33346": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4209001
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1207,
+      198,
+      1231,
+      222
+    ]
+  }
+}

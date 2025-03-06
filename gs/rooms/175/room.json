@@ -1,0 +1,43 @@
+{
+  "checksum": "df3c8814fe5dadbe1247d4fb537df4e8",
+  "room": {
+    "id": 175,
+    "title": [
+      "[Ta'Illistim, Ellaerin Var]"
+    ],
+    "description": [
+      "The base of the granite tower is nearly covered in a lush green carpet of creeping fig.  The tiny leaves provide a stark living contrast to the tower's impenetrable stony exterior.  North of the var, a flagstone walkway leads to the gatehouse of a compound enclosed by a curving, grey stone wall."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "174": "northwest",
+      "176": "northeast",
+      "727": "north"
+    },
+    "timeto": {
+      "174": 0.2,
+      "176": 0.2,
+      "727": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100024
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      948,
+      927,
+      969,
+      949
+    ]
+  }
+}

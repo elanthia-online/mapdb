@@ -1,0 +1,44 @@
+{
+  "checksum": "4cdaf5d34a8f4bb61f0464211adc359b",
+  "room": {
+    "id": 32899,
+    "title": [
+      "[Brisker's Cove, Comyner's Docks]"
+    ],
+    "description": [
+      "Supported by thick posts in the ground, a small square building is built against the very edge of the dock.  Tacked to its walls are billboards and posters advertising various vessels looking for day laborers as well as the most current customs regulations.  A pair of large arrows are painted upon the damp planks, one pointing east to Pier 1 and the other pointing south to Piers 2 through 5."
+    ],
+    "paths": [
+      "Obvious paths: east, south, up"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32898": "up",
+      "32900": "south",
+      "32908": "east",
+      "32947": "go building"
+    },
+    "timeto": {
+      "32898": 0.2,
+      "32900": 0.2,
+      "32908": 0.2,
+      "32947": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140126
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      375,
+      627,
+      389,
+      640
+    ]
+  }
+}

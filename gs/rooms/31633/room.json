@@ -1,0 +1,32 @@
+{
+  "checksum": "e6f0598bbf4981f58afa296e240a203d",
+  "room": {
+    "id": 31633,
+    "title": [
+      "[Constabulary, Entry]"
+    ],
+    "description": [
+      "Large cobbled stones plastered with stucco form the walls of this windowless room, while thick iron bars create a barrier between the common area and that of the detention area.  Rough wooden benches form a loose waiting area in front of a baluster-surrounded counter where moldy and dust-covered papers are stacked in orderly piles.  Stretching along the eastern wall, a set of stairs rises to towards the second floor but sharply turns towards the north as it disappears around a corner."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31563": "out",
+      "31634": "go stairs"
+    },
+    "timeto": {
+      "31563": 0.2,
+      "31634": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084076
+    ]
+  }
+}

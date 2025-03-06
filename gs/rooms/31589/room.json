@@ -1,0 +1,43 @@
+{
+  "checksum": "5a80f66e26de27010d3844a354b6bb67",
+  "room": {
+    "id": 31589,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "The river bends sharply here between steep, tree-lined banks, the roots of the willow and alder sentinels bursting out of the damp earth and reaching towards the dark waters.  Visibility is low as a somber mist shrouds the bend making it almost impossible to see what lies ahead, though the sound of lapping water denotes that the shore is nearby."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31588": "go shore",
+      "32077": "/rooms/31589/wayto/stringproc-32077.rb",
+      "32082": "/rooms/31589/wayto/stringproc-32082.rb"
+    },
+    "timeto": {
+      "31588": 0.2,
+      "32077": 0.2,
+      "32082": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083390
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1021,
+      567,
+      1044,
+      589
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "0c26fd5a4cacfa222287880c00c06834",
+  "room": {
+    "id": 7586,
+    "title": [
+      "[Ant Nest, Tunnels]"
+    ],
+    "description": [
+      "The smooth wall of the tunnel curves before you, its surface covered with glowing lichen and damp stone.  The ground is littered with shards of bone and bits of old leather, and the acid stench in the air burns your nostrils."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7585": "northwest",
+      "7587": "southwest",
+      "7588": "west"
+    },
+    "timeto": {
+      "7585": 0.2,
+      "7587": 0.2,
+      "7588": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47027
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      135,
+      1100,
+      145,
+      1110
+    ]
+  }
+}

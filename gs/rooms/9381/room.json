@@ -1,0 +1,37 @@
+{
+  "checksum": "5ed0dfc261c1a92311d4c516ab7135ce",
+  "room": {
+    "id": 9381,
+    "title": [
+      "[Trading Post, Upstairs Hallway]"
+    ],
+    "description": [
+      "A faded, fraying carpet pads the center of the floor in this hall.  Oil lamps hang at odd intervals on the walls, providing patchy, flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9378": "climb staircase",
+      "9382": "go ash door",
+      "9383": "go modwir door",
+      "9384": "north"
+    },
+    "timeto": {
+      "9378": 0.2,
+      "9382": 0.2,
+      "9383": 0.2,
+      "9384": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120106
+    ]
+  }
+}

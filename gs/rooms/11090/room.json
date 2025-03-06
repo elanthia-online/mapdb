@@ -1,0 +1,47 @@
+{
+  "checksum": "ea57c5f98fd30963190be76f4ffe26b9",
+  "room": {
+    "id": 11090,
+    "title": [
+      "[Krol Ship, Main Deck Amidships]"
+    ],
+    "description": [
+      "This is the center of the ship, where the Krolvin load their cargo and move on and off the ship via the gangplank.  To the north, towards the stern, you can see the massive base of the mainmast.  Further aft is the quarterdeck.  Forward from here are the foremast trunk and the forecastle."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Sea Caves",
+    "climate": "freshwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11089": "go gangplank",
+      "11091": "go skiff",
+      "11092": "north",
+      "11105": "go grate",
+      "11114": "south"
+    },
+    "timeto": {
+      "11089": 0.2,
+      "11091": 0.2,
+      "11092": 0.2,
+      "11105": 0.2,
+      "11114": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26004
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4069,
+      1589,
+      4091,
+      1610
+    ]
+  }
+}

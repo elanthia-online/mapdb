@@ -1,0 +1,45 @@
+{
+  "checksum": "08167b144612addd369d3ecd583af019",
+  "room": {
+    "id": 2954,
+    "title": [
+      "[Abbey, Grand Stair Landing]",
+      "[Abbey Grand Stair Landing]"
+    ],
+    "description": [
+      "The broad landing of the grand stair is oval, with its wooden floor painted dark green.  A semi-circular railing surrounds the landing and continues up the final five steps to the upper gallery."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, down",
+      "Obvious exits: southwest, down",
+      "Obvious exits: up, down"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2953": "down",
+      "2955": "go steps",
+      "2991": "southwest",
+      "31063": "southeast"
+    },
+    "timeto": {
+      "2953": 0.2,
+      "2955": 0.2,
+      "2991": 0.2,
+      "31063": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132035
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      268,
+      531,
+      322,
+      582
+    ]
+  }
+}

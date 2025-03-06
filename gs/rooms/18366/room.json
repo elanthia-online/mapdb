@@ -1,0 +1,27 @@
+{
+  "checksum": "bf1cdfdd4e6d720f85720358e3d537c1",
+  "room": {
+    "id": 18366,
+    "title": [
+      "[Mistral Hall, Deck]"
+    ],
+    "description": [
+      "A low, wooden railing surrounds the rectangular deck without obscuring the view.  Sometimes shrouded in mists, sometimes crystal clear, the waterfront provides a place for never-ending reverie."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "18365": "north",
+      "18367": "southwest"
+    },
+    "timeto": {
+      "18365": 0.2,
+      "18367": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

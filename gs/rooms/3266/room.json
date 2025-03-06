@@ -1,0 +1,53 @@
+{
+  "checksum": "b2ff052bb5835377c00d798ab9e0b8c3",
+  "room": {
+    "id": 3266,
+    "title": [
+      "[Ice Plains, Hill Base]"
+    ],
+    "description": [
+      "The path curves around the foothill slightly to reveal a large opening with icicles dangling from the ceiling.  A recent rockslide has left the path around this side of the foothill buried beneath several hundred tons of rock, making it impossible to continue in this direction."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "plain dirt",
+    "wayto": {
+      "3265": "west",
+      "3267": "go open"
+    },
+    "timeto": {
+      "3265": 0.2,
+      "3267": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "sweetfern stalk",
+      "frostflower",
+      "winter rose",
+      "sassafras leaf",
+      "some pennyroyal stem",
+      "some valerian root",
+      "some angelica root",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127007
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      369,
+      409,
+      379,
+      419
+    ]
+  }
+}

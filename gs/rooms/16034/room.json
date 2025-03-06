@@ -1,0 +1,27 @@
+{
+  "checksum": "a4fb0e3715f87002dba81a77f66d5f81",
+  "room": {
+    "id": 16034,
+    "title": [
+      "[Dark Tower, Great Hall]"
+    ],
+    "description": [
+      "The hall is circular, its polished dark walls stretching nearly thirty spans overhead.  Long tapestries hang from the walls, interspersed with iron braziers.  In the floor's center, inlaid into the grey granite tile, is a slit-pupiled eye rendered in vivid gold marble.  Around the room's circumference stand brass censers, from which smoke from exotic-smelling incense languidly curls upward.  A winding staircase disappears through the ceiling, and a black onyx door leads outside."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Dark Tower, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "3030": "/rooms/16034/wayto/stringproc-3030.rb",
+      "16035": "go staircase"
+    },
+    "timeto": {
+      "3030": 1.2,
+      "16035": 0.2
+    },
+    "tags": [
+      "private property"
+    ]
+  }
+}

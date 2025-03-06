@@ -1,0 +1,37 @@
+{
+  "checksum": "bf8e34750b20eacf017c99e58ea36721",
+  "room": {
+    "id": 32455,
+    "title": [
+      "[Moonsedge Castle, Passage]"
+    ],
+    "description": [
+      "Walls rise high to either side of the passage, culminating in a graceful arch that is mostly lost to the shadows far above.  Torches burn in sconces flanking the walkway, throwing back the immediate darkness and filling the hall with acrid smoke.  More plentiful light, that of countless flickering candles, pours in via a pair of stone double doors leading out into an expansive chamber."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32454": "go door",
+      "32465": "north"
+    },
+    "timeto": {
+      "32454": 0.2,
+      "32465": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577233
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1108,
+      586,
+      1129,
+      607
+    ]
+  }
+}

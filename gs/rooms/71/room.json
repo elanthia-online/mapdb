@@ -1,0 +1,40 @@
+{
+  "checksum": "6b3d74a5937e141f020aed512e539cb7",
+  "room": {
+    "id": 71,
+    "title": [
+      "[Whistler's Pass, Bridges]"
+    ],
+    "description": [
+      "Two bridges fan out from this hilltop.  The iron bridge to the northeast curves slightly to reach a hill to the north while the cobblestone bridge to the southwest is as straight as an arrow.  Some iron steps lead to the iron bridge."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "70": "go steps",
+      "72": "go bridge"
+    },
+    "timeto": {
+      "70": 0.2,
+      "72": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      13017067
+    ],
+    "image": "en-sapphire-1658723758.png",
+    "image_coords": [
+      882,
+      179,
+      892,
+      189
+    ]
+  }
+}

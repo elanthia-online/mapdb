@@ -1,0 +1,50 @@
+{
+  "checksum": "0f2d23f0b0b50f3cd1da655f7b7f1e4a",
+  "room": {
+    "id": 3947,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "A faint light trickles in through the cracks in the ceiling, as the tunnel continues to drop.  In the distance, you can hear the faint scratching sounds of vermin being about their business."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3946": "south",
+      "3948": "north"
+    },
+    "timeto": {
+      "3946": 0.2,
+      "3948": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2133101
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      586,
+      439,
+      594,
+      446
+    ]
+  }
+}

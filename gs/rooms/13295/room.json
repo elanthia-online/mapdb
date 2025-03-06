@@ -1,0 +1,32 @@
+{
+  "checksum": "46023bebad3c166782d0824d9185993f",
+  "room": {
+    "id": 13295,
+    "title": [
+      "[Temple of Tonis, Foyer]"
+    ],
+    "description": [
+      "White marble extends floor to ceiling, nearly unadorned except for a border of lapis lazuli chevrons that work their way around the circumference of the small dome overhead.  Gold scrollwork edges a narrow azure blue carpet that continues into the main hall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "13294": "go doors",
+      "14562": "north"
+    },
+    "timeto": {
+      "13294": 0.2,
+      "14562": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749302
+    ]
+  }
+}

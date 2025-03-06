@@ -1,0 +1,42 @@
+{
+  "checksum": "be6af953a9eedfa9c22268732d4fd0bd",
+  "room": {
+    "id": 22356,
+    "title": [
+      "[Faendryl Embassy, Assemblage]"
+    ],
+    "description": [
+      "Covered with a rich, cinereal wool carpet, the marbled alabaster floor melds smoothly with the walls, veins of crimson contrasting with their immaculate surface.  A large ebon marble fireplace dominates the room, a basket of sticks resting at its base.  A number of small meeting tables are set along the perimeter, and a dark sideboard has been placed to the side, its surface covered with various bowls and platters."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Illistim Embassies",
+    "wayto": {
+      "22355": "north",
+      "22365": "/rooms/22356/wayto/stringproc-22365.rb",
+      "22366": "/rooms/22356/wayto/stringproc-22366.rb",
+      "22367": "/rooms/22356/wayto/stringproc-22367.rb",
+      "22368": "/rooms/22356/wayto/stringproc-22368.rb",
+      "22369": "/rooms/22356/wayto/stringproc-22369.rb"
+    },
+    "timeto": {
+      "22355": 0.2,
+      "22365": 0.2,
+      "22366": 0.2,
+      "22367": 0.2,
+      "22368": 0.2,
+      "22369": 0.2
+    },
+    "uid": [
+      13125015
+    ],
+    "image": "en-ta_illistim-embassies-1405076623.png",
+    "image_coords": [
+      608,
+      500,
+      671,
+      536
+    ]
+  }
+}

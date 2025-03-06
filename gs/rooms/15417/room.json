@@ -1,0 +1,27 @@
+{
+  "checksum": "550495bee417e46b12f2a71c685307b8",
+  "room": {
+    "id": 15417,
+    "title": [
+      "[Helden Hall Annex]"
+    ],
+    "description": [
+      "The floor, made of unglazed octagonal tiles, is partly covered with a thick carpet.  A window, screened with intricately carved wood, is set high on the wall.  Set beneath the window is a heavy terra cotta urn containing a tall plant."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "15418": "west",
+      "23205": "go curtain"
+    },
+    "timeto": {
+      "15418": 0.2,
+      "23205": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Helden Hall"
+    ]
+  }
+}

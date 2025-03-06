@@ -1,0 +1,54 @@
+{
+  "checksum": "99d3fa9ef22d69b062b7cc78061c7504",
+  "room": {
+    "id": 25620,
+    "title": [
+      "[Mistydeep, Ravelin]"
+    ],
+    "description": [
+      "Smoke from nearby homes drifts out over the water and flows along with the current.  A half-finished canoe, hewn from a felled birch, rests on wooden trestles near the west bank.  Another watercraft, bowl-shaped and fashioned from tightly woven rushes, sits nearby with a crudely-shaped oar leaning against its rim.  The slow-moving water creates little sound, allowing bird songs and various animal skitterings to be easily heard."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, west, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "13966": "/rooms/25620/wayto/stringproc-13966.rb",
+      "25619": "/rooms/25620/wayto/stringproc-25619.rb",
+      "25621": "/rooms/25620/wayto/stringproc-25621.rb",
+      "25622": "/rooms/25620/wayto/stringproc-25622.rb",
+      "30505": "swim down"
+    },
+    "timeto": {
+      "13966": "/rooms/25620/timeto/stringproc-13966.rb",
+      "25619": "/rooms/25620/timeto/stringproc-25619.rb",
+      "25621": "/rooms/25620/timeto/stringproc-25621.rb",
+      "25622": "/rooms/25620/timeto/stringproc-25622.rb",
+      "30505": "/rooms/25620/timeto/stringproc-30505.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117008
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1123,
+      651,
+      1140,
+      669
+    ]
+  }
+}

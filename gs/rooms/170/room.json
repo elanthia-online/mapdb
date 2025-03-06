@@ -1,0 +1,43 @@
+{
+  "checksum": "8d0d620e3a666019f32c3f3c299a2caf",
+  "room": {
+    "id": 170,
+    "title": [
+      "[Ta'Illistim, Kaerinar Wey]"
+    ],
+    "description": [
+      "A large warehouse, its doors painted blue and bound with strips of iron, stands beside the wey.  An empty wagon rests to one side of the dooryard.  Crates, boxes and barrels are stacked neatly along the side walls of the stone building."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "169": "southwest",
+      "171": "northeast",
+      "209": "southeast"
+    },
+    "timeto": {
+      "169": 0.2,
+      "171": 0.2,
+      "209": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100095
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      433,
+      592,
+      455,
+      614
+    ]
+  }
+}

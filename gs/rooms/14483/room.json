@@ -1,0 +1,35 @@
+{
+  "checksum": "004c0a9eeb75b0168eba845dbf7d3fc4",
+  "room": {
+    "id": 14483,
+    "title": [
+      "[Outside the Aquarium]"
+    ],
+    "description": [
+      "White crushed shell mixed with gravel lines a walkway around a raised, rock-edged pond.  A pale limestone building faced with blue and green glazed pottery tiles sits behind the pond.  Shadows fill the dim doorway that leads into the aquarium."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14415": "west",
+      "14426": "east",
+      "14484": "go building"
+    },
+    "timeto": {
+      "14415": 0.2,
+      "14426": 0.2,
+      "14484": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      411112
+    ]
+  }
+}

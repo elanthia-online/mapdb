@@ -1,0 +1,29 @@
+{
+  "checksum": "94b65e3fd07ee42ce3d03305dd08a49b",
+  "room": {
+    "id": 13622,
+    "title": [
+      "[Koquette's General Store]"
+    ],
+    "description": [
+      "Beneath a domed white stucco ceiling, a tattered merchant permit hangs on one of the painted white plaster walls.  A heavy white granite counter and a white marble shelf sit in opposite corners while a thin gold-edge black runner rests on a black-checked white tile floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9012": "out",
+      "13907": "east",
+      "13908": "north"
+    },
+    "timeto": {
+      "9012": 0.2,
+      "13907": 0.2,
+      "13908": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

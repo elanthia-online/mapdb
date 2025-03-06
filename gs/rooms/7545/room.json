@@ -1,0 +1,55 @@
+{
+  "checksum": "3181d7efda88738c00a368c48e5e55b0",
+  "room": {
+    "id": 7545,
+    "title": [
+      "[Catacombs, Dark Cavern]"
+    ],
+    "description": [
+      "Thick, spongy moss covers the floor and muffles the sound of your footsteps.  Large limestone stalactites hang from the ceiling like the sharpened fangs of a giant maw waiting to devour any who pass within.  The sound of dripping water echoes through the cavern and mingles with the more ominous sounds of screeches and growls as the denizens of this place move through the darkness."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7544": "go crevice",
+      "7546": "north",
+      "7547": "northeast",
+      "7550": "northwest"
+    },
+    "timeto": {
+      "7544": 0.2,
+      "7546": 0.2,
+      "7547": 0.2,
+      "7550": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490001
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      340,
+      1123,
+      350,
+      1133
+    ]
+  }
+}

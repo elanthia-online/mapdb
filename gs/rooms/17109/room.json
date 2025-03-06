@@ -1,0 +1,43 @@
+{
+  "checksum": "5f446a1736f10d2009cc3a7631bffdc2",
+  "room": {
+    "id": 17109,
+    "title": [
+      "[Illistim Warrior Guild, Foyer]"
+    ],
+    "description": [
+      "A grand, double staircase leads up to the administrative offices of the Warrior Guild of Ta'Illistim.  Mica-flecked blue granite floors lead to fine, maoral-paneled walls, each bedecked with a suit of armor.  To the east, the guild's distinctive task offices are plainly visible through a wide marble arch and easily accesible to all guild members."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "17094": "go doors",
+      "17110": "go arch",
+      "17115": "go staircase",
+      "17182": "northeast",
+      "17184": "north"
+    },
+    "timeto": {
+      "17094": 0.2,
+      "17110": 0.2,
+      "17115": 0.2,
+      "17182": 0.2,
+      "17184": 0.2
+    },
+    "tags": [
+      "warrior guild floor"
+    ],
+    "uid": [
+      256100
+    ],
+    "image": "en-ta_illistim-warrior_guild-v2.png",
+    "image_coords": [
+      920,
+      999,
+      940,
+      1025
+    ]
+  }
+}

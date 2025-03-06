@@ -1,0 +1,39 @@
+{
+  "checksum": "a25e00b860ba795e2ae402abe40e80e1",
+  "room": {
+    "id": 6453,
+    "title": [
+      "[Abandoned Mine, Cavern]"
+    ],
+    "description": [
+      "A crystalline garden, glittering softly in the subdued light, is gradually taking over this section of the cavern.  The delicately colored growths have cascaded down the northern wall and have begun to creep up the forest of stalagmites rising from the center of the chamber."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6452": "southeast",
+      "6454": "southwest"
+    },
+    "timeto": {
+      "6452": 0.2,
+      "6454": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      485008
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1304,
+      108,
+      1314,
+      118
+    ]
+  }
+}

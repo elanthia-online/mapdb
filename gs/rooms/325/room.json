@@ -1,0 +1,37 @@
+{
+  "checksum": "ae19b5f755caa99eb8d3693c67a0fdf3",
+  "room": {
+    "id": 325,
+    "title": [
+      "[Herbalist's, Dispensary]"
+    ],
+    "description": [
+      "Redolent with a sweet, almost cinnamony fragrance, the herbalist's shop is dominated by a glass counter.  It contains small pouches of bark, leaves, berries and stems.  Syiah Kintaru, master herbalist, stands behind it, grinding herbs with a porcelain mortar and pestle."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "321": "out",
+      "8866": "go barkcloth curtain",
+      "30708": "/rooms/325/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "321": 0.2,
+      "8866": 0.2,
+      "30708": "/rooms/325/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "herbalist",
+      "urchin-access",
+      "urchin guide herbalist",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      1028
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "479e594b6efa85d675282c5b2e2fbab4",
+  "room": {
+    "id": 19731,
+    "title": [
+      "[Cavernhold, Lake Shore]"
+    ],
+    "description": [
+      "This is the southeastern shore of the underground lake.  Several sand castles, in various stages of completion, are scattered about and indicate to you that this area must be a favorite with the younger gnolls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, southwest, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19723": "south",
+      "19724": "west",
+      "19729": "northeast",
+      "19730": "southwest"
+    },
+    "timeto": {
+      "19723": 0.2,
+      "19724": 0.2,
+      "19729": 0.2,
+      "19730": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11010
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      369,
+      659,
+      381,
+      669
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "4d490c3f6f468a95d5bff0f4a3ff32d5",
+  "room": {
+    "id": 1837,
+    "title": [
+      "[Dragonspine and Rolaren]"
+    ],
+    "description": [
+      "Dragonspine Avenue is the main street of Kharam-Dzu.  Most of the people you see are well-to-do dwarves, nattily dressed and apparently in a rush.  The buildings all look new.  Even the cobblestone streets are immaculately clean.  A sturdy set of glaes-banded mithril doors leads into a low stone structure.  The two guards outside clench their pikes tightly, peering closely at all who approach."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1838": "go doors",
+      "1839": "west",
+      "1882": "north",
+      "1962": "south",
+      "12388": "east",
+      "30715": "/rooms/1837/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1838": 0.2,
+      "1839": 0.2,
+      "1882": 0.2,
+      "1962": 0.2,
+      "12388": 0.2,
+      "30715": "/rooms/1837/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001013
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1035,
+      786,
+      1065,
+      816
+    ]
+  }
+}

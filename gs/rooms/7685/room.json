@@ -1,0 +1,41 @@
+{
+  "checksum": "5577929294c9e707ce79f55942d34124",
+  "room": {
+    "id": 7685,
+    "title": [
+      "[Underground Ruin, Fire Room]"
+    ],
+    "description": [
+      "Fitted stones cover every square foot of this room.  The entire east wall is nothing but a huge fireplace for cooking.  It seems very odd to you that there are no burn marks in the fireplace."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7684": "west",
+      "7686": "northeast",
+      "7689": "south"
+    },
+    "timeto": {
+      "7684": 0.2,
+      "7686": 0.2,
+      "7689": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68012
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      470,
+      1150,
+      480,
+      1160
+    ]
+  }
+}

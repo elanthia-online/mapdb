@@ -1,0 +1,46 @@
+{
+  "checksum": "5564622073821b47f61fd46d14d4987b",
+  "room": {
+    "id": 11866,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "A dimly lit cavern opens up to allow passage of a glowing emerald stream barely a foot deep.  The stream fills the cavern from wall to wall, though, entering from a tunnel to the north and exiting through a tunnel to the west.  In a small alcove on the eastern wall, steps wind upward, following a chimney into the darkness.  A slight amount of fresh air wafts down from the chimney, but for the most part the air in the cavern is still and cool."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11858": "go steps",
+      "11867": "north",
+      "11869": "west"
+    },
+    "timeto": {
+      "11858": 0.2,
+      "11867": 0.2,
+      "11869": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003016
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1291,
+      1016,
+      1301,
+      1026
+    ]
+  }
+}

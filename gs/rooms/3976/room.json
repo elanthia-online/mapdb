@@ -1,0 +1,41 @@
+{
+  "checksum": "082d0de1f61f2b00b9771388a9de76e2",
+  "room": {
+    "id": 3976,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "Entering this stretch of the tunnel, you notice a shifting blob of some sort on one wall.  As you approach, the mound breaks up into hundreds of bugs, running for cover.  Left behind is what appears to be some type of skull, imbedded in the wall!  It's hard to even imagine the force it would take to do this."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3938": "southeast",
+      "3975": "northwest"
+    },
+    "timeto": {
+      "3938": 0.2,
+      "3975": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      2136104
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      719,
+      623,
+      728,
+      634
+    ]
+  }
+}

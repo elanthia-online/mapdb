@@ -1,0 +1,27 @@
+{
+  "checksum": "cf2d0160070cebb297282704cfc770b9",
+  "room": {
+    "id": 30871,
+    "title": [
+      "[Ranger's Guild, Entrance]"
+    ],
+    "description": [
+      "Huge and hollow, the inside of the tree is also almost entirely empty.  A simple small table constructed from an old tree stump sits in the center of the trunk.  Spiraling around the inside of the trunk, a narrow staircase leads upwards further than the dim light reaches."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "30870": "out",
+      "30872": "go staircase"
+    },
+    "timeto": {
+      "30870": 0.2,
+      "30872": 0.2
+    },
+    "uid": [
+      279005
+    ]
+  }
+}

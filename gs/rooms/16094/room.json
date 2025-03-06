@@ -1,0 +1,32 @@
+{
+  "checksum": "0cc5be475dd22d85257c6e0645ea4679",
+  "room": {
+    "id": 16094,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "The room is cluttered with bijoux and knickknackery.  Some of the items are clearly very new, while others show the signs of extreme age.  Although the items are all freshly dusted and tidy, there appears to be no order in which they're arranged."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16093": "east",
+      "16095": "west"
+    },
+    "timeto": {
+      "16093": 0.2,
+      "16095": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734106
+    ]
+  }
+}

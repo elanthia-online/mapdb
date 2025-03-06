@@ -1,0 +1,41 @@
+{
+  "checksum": "59d9c806bc56a1f60aff6533aae0de2f",
+  "room": {
+    "id": 12014,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "A statue of a woman, carved out of beige-colored marble, towers over the southeast corner of the plaza.  Clothed in flowing robes that sweep down around her feet and over the pedestal on which she stands, the woman presents a regal appearance that is only slightly marred by the fact that she no longer possesses a right arm or the fingers of her left hand."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12013": "west",
+      "12015": "north"
+    },
+    "timeto": {
+      "12013": 0.2,
+      "12015": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004064
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      863,
+      641,
+      873,
+      651
+    ]
+  }
+}

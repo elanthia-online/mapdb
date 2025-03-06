@@ -1,0 +1,40 @@
+{
+  "checksum": "7c01e2453dccc61450fa764f695bddff",
+  "room": {
+    "id": 26055,
+    "title": [
+      "[Gryphon Holding, Open Courtyard]"
+    ],
+    "description": [
+      "Designed to be used for training, the courtyard is ringed with several devices for improving combat skills.  In the center is an arena of sand for practicing skills against opponents.  A set of racks rests against the south wall, storing several items of weaponry and armor.  Near the western wall, a wide stone staircase leads up to the door, giving entrance to the tower.  A selection of refreshments wait on a nearby table."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14453": "go arch",
+      "26056": "go gate",
+      "26059": "go oak door"
+    },
+    "timeto": {
+      "14453": 0.2,
+      "26056": 0.2,
+      "26059": 0.2
+    },
+    "tags": [
+      "meta:mapname:Gryphon's Holding - Wehnimer's Landing",
+      "meta:mapshortname:Gryphon's Holding",
+      "meta:mapcategory:MHO",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mho:The Order of the Silver Gryphon"
+    ],
+    "image": "wl-gryphon_holding-1625109388.png",
+    "image_coords": [
+      530,
+      202,
+      616,
+      286
+    ]
+  }
+}

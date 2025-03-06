@@ -1,0 +1,42 @@
+{
+  "checksum": "2a8e16d9e979088ee08ee54df5e52bd0",
+  "room": {
+    "id": 7167,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "The path leads you close to the crypt.  The grey-flecked rock has been ground to a smooth, dull surface.  To the southwest, the boundary walls extend up to the edge of a shallow creek, and to the southeast, the spires of a high gate can be seen."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4141": "southeast",
+      "7168": "north"
+    },
+    "timeto": {
+      "4141": 0.2,
+      "7168": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "skeleton"
+    ],
+    "uid": [
+      18011
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      192,
+      859,
+      202,
+      869
+    ]
+  }
+}

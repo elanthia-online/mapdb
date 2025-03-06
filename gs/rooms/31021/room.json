@@ -1,0 +1,31 @@
+{
+  "checksum": "9096f41d330e7d7afe806a71271c45a4",
+  "room": {
+    "id": 31021,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "31020": "south",
+      "32990": "go curtained opening"
+    },
+    "timeto": {
+      "31020": 0.2,
+      "32990": 0.2
+    },
+    "tags": [
+      "brigatta locker",
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      4219394
+    ]
+  }
+}

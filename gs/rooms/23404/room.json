@@ -1,0 +1,46 @@
+{
+  "checksum": "10dd673ecf7546113632c21b5e0a992b",
+  "room": {
+    "id": 23404,
+    "title": [
+      "[A Dark Tunnel]"
+    ],
+    "description": [
+      "The ground levels out a bit as the temperature continues to drop.  Ice crunches underfoot."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23403": "north",
+      "23405": "south"
+    },
+    "timeto": {
+      "23403": 0.2,
+      "23405": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018020
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      190,
+      551,
+      199,
+      560
+    ],
+    "check_location": true
+  }
+}

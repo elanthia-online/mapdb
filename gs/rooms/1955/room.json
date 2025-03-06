@@ -1,0 +1,50 @@
+{
+  "checksum": "493b9738f893d57a7a1dfe6991adda7f",
+  "room": {
+    "id": 1955,
+    "title": [
+      "[Glaes Street]"
+    ],
+    "description": [
+      "The street enters the wall of the canyon, into an arch perhaps fifty feet high.  Just outside the tunnel is a sturdy, three-story stone tower.  This is the headquarters for the local militia.  Uniformed dwarves bearing axes and hammers swagger in and out of its steel double doors."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1951": "east",
+      "1956": "west",
+      "1958": "go headquarters",
+      "12511": "go building",
+      "23281": "/rooms/1955/wayto/stringproc-23281.rb",
+      "30715": "/rooms/1955/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1951": 0.2,
+      "1956": 0.2,
+      "1958": 0.2,
+      "12511": 0.2,
+      "23281": 0.4,
+      "30715": "/rooms/1955/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001043
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1163,
+      254,
+      1193,
+      284
+    ]
+  }
+}

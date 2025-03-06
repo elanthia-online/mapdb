@@ -1,0 +1,46 @@
+{
+  "checksum": "863bec113e6998e07f83a89d207b859e",
+  "room": {
+    "id": 3438,
+    "title": [
+      "[Tavern Burrow, Honeybeer Road]"
+    ],
+    "description": [
+      "At the busy intersection of Stout Street and Honeybeer Road, the smell of roasting meats drifts from the west on a cold breeze.  The whistling of a traveling merchant rises over the moaning of the wind as her mule-drawn cart clatters down the road.  Sounds of town guards drilling filter over the high wall of an armory to the north.",
+      "You find yourself at the busy intersection of Stout Street and Honeybeer Road.  The smells of roasting meats entice you to move west, yet there seems to be some activity to the north which might be worth investigating.  Pausing briefly, you whistle a quick tune and make your way down the road."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2396": "west",
+      "2412": "east",
+      "3437": "north",
+      "15690": "climb ladder"
+    },
+    "timeto": {
+      "2396": 0.2,
+      "2412": 0.2,
+      "3437": 0.2,
+      "15690": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042210
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      494,
+      1233,
+      530,
+      1269
+    ]
+  }
+}

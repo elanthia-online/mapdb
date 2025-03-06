@@ -1,0 +1,91 @@
+{
+  "checksum": "18fc1f03e5d1edf8328f2a3cb772c95b",
+  "room": {
+    "id": 10854,
+    "title": [
+      "[River's Rest, Spring Rest]"
+    ],
+    "description": [
+      "All about, leaves and small twigs litter the forest floor, but at the forest's edge, in this clearing, brush marks in the soft dirt show the care that someone takes here.  A pool of clear water dominates the area and feeds a small stream which meanders southward beside a small path.  At the edge of the clearing, two large stone pillars mark a pathway west.  Moonlight filters through the trees and seems to invite the weary to rest here in peace.",
+      "All about, leaves and small twigs litter the forest floor, but at the forest's edge, in this clearing, brush marks in the soft dirt show the care that someone takes here.  A pool of clear water dominates the area and feeds a small stream which meanders southward beside a small path.  At the edge of the clearing, two large stone pillars mark a pathway west.  Warm sunlight filters through the trees and seems to invite the weary to rest here in peace."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10853": "east",
+      "10855": "go pillars",
+      "10856": "south",
+      "20764": "go pier",
+      "30711": "/rooms/10854/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10853": 0.2,
+      "10855": 0.2,
+      "10856": 0.2,
+      "20764": "/rooms/10854/timeto/stringproc-20764.rb",
+      "30711": "/rooms/10854/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "withered black mushroom",
+      "handful of oats",
+      "wild chokecherry",
+      "heath aster",
+      "ironfern root",
+      "murdroot",
+      "pepperthorn root",
+      "stalk of chicory",
+      "sprig of thanot",
+      "sprig of alyssum",
+      "small daisy",
+      "yellow primrose",
+      "stalk of goldenrod",
+      "small rose",
+      "urchin-access",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "angelica root",
+      "small wild rose",
+      "motherwort",
+      "sagebrush root",
+      "murkweed",
+      "mistweed",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "agave heart",
+      "bright red beet",
+      "green guava",
+      "meta:forage-sensed:night:2023-02",
+      "juniper berry",
+      "curly garlic scapes",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101011
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1888,
+      926,
+      1923,
+      964
+    ]
+  }
+}

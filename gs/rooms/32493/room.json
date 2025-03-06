@@ -1,0 +1,41 @@
+{
+  "checksum": "60d1d7702deeb7ae40b8e27a3ba0fe92",
+  "room": {
+    "id": 32493,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "Birds have nested in the horns of one of the grotesques overlooking the flagstone walk.  His mouth, a spigot for rainwater runoff from the castle walls, is choked with brambles, the eager greenery having grown down the piping in an unending quest for sunlight and sustenance.  Altogether, the monstrosity looks absurd, and the glower on his face makes it look as if he knows it."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32491": "east",
+      "32494": "southwest"
+    },
+    "timeto": {
+      "32491": 0.2,
+      "32494": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577111
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      685,
+      588,
+      703,
+      606
+    ]
+  }
+}

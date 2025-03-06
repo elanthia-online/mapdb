@@ -1,0 +1,40 @@
+{
+  "checksum": "dd1fe3918222a208b28f581b8a6d964f",
+  "room": {
+    "id": 9788,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "The size of the tunnel becomes constricted with vine-like roots.  Part of a dusty old spider web dangles from the wall.  Strands of old web cling to the hanging roots, gathering dust while bone fragments and smaller stones rest along the wall."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9734": "/rooms/9788/wayto/stringproc-9734.rb",
+      "9772": "southwest",
+      "9799": "north"
+    },
+    "timeto": {
+      "9734": 100,
+      "9772": 0.2,
+      "9799": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022035
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1096,
+      625,
+      1106,
+      635
+    ]
+  }
+}

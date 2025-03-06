@@ -1,0 +1,38 @@
+{
+  "checksum": "5fe269385d7d550f2642650f882ddef9",
+  "room": {
+    "id": 27675,
+    "title": [
+      "[Clovertooth, Second Floor Hall]"
+    ],
+    "description": [
+      "The corridor bends narrowly at this juncture, as the offices of two town functionaries reside beyond the northwest and northeast walls.  Some tall cedar double doors with limestone accents have as decor a pair of crossed short swords above them, and to either side a cracked glowbark crook, some sturdy spiked leather gloves, a sephwir composite bow, and a deep blue mithglin tower shield.  Bright ice blue motes enclosed in crystal on the wall between the offices provide more than enough light for this space."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "27674": "southeast",
+      "27676": "go doors",
+      "27678": "southwest",
+      "27684": "go entryway"
+    },
+    "timeto": {
+      "27674": 0.2,
+      "27676": 0.2,
+      "27678": 0.2,
+      "27684": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ],
+    "image": "imt-clovertooth_hall-1546618992.png",
+    "image_coords": [
+      486,
+      229,
+      588,
+      295
+    ]
+  }
+}

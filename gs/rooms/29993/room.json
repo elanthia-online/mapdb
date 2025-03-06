@@ -1,0 +1,41 @@
+{
+  "checksum": "4ce57944abadbca194ee042a04ef4b94",
+  "room": {
+    "id": 29993,
+    "title": [
+      "[Angargreft, Pits of the Dead]"
+    ],
+    "description": [
+      "Craggy debris strewn across the path appears to have spilled from a breached red stone wall to the west.  The rush of wind through the pits solicits a ceaseless low moan from the breach that rebounds in the distance as a melancholic echo.  Paintings adorn the walls as high as the eye can see, depicting scenes of brutal triumph that likely provided little comfort to the resultant dead."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29992": "north",
+      "29994": "go wall",
+      "29995": "south"
+    },
+    "timeto": {
+      "29992": 0.2,
+      "29994": 0.2,
+      "29995": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503451
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      444,
+      758,
+      459,
+      772
+    ]
+  }
+}

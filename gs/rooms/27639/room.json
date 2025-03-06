@@ -1,0 +1,37 @@
+{
+  "checksum": "15dba53aea9bd50acc5042c3fc66a259",
+  "room": {
+    "id": 27639,
+    "title": [
+      "[Peregrine Tavern, Falcon Nest]"
+    ],
+    "description": [
+      "Raspberry-hued walls extend corner to corner, the paint's vibrancy enhanced to produce a slight sheen.  The central focal point is a plush and ornate four poster bed with a crimson down comforter and silky golden pillows.  There is a maoral nightstand along the right side of the bed, while a large matching trunk rests at the foot.  Across the far wall, a river stone fireplace offers the rich scent of peat and cedar, further enhancing the comfortingly tranquil feeling of the bedroom."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Peregrine Tavern, outside the elven city of Ta'Illistim",
+    "wayto": {
+      "27638": "/rooms/27639/wayto/stringproc-27638.rb",
+      "27640": "go maoral arch"
+    },
+    "timeto": {
+      "27638": 0.2,
+      "27640": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1304305
+    ],
+    "image": "pp-eastern-spine-1543903046.png",
+    "image_coords": [
+      309,
+      722,
+      408,
+      822
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "c81be27fca22190fb4720fb2df04bf65",
+  "room": {
+    "id": 13513,
+    "title": [
+      "[Temple of Jastev, Courtyard]"
+    ],
+    "description": [
+      "Grey stone cobbles run the length of the courtyard, meeting the rough protective walls.  Small shrubbery and ornamental trees line the interior of the walls as they gently curve towards the tower.  A small path cuts a more direct route to the entrance past a grand fountain."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1506": "go gate",
+      "13514": "go path",
+      "14137": "northwest",
+      "14138": "northeast"
+    },
+    "timeto": {
+      "1506": 0.2,
+      "13514": 0.2,
+      "14137": 0.2,
+      "14138": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      4740800
+    ]
+  }
+}

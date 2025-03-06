@@ -1,0 +1,38 @@
+{
+  "checksum": "c5011d036bcdbdb73db611033dd7aab0",
+  "room": {
+    "id": 6626,
+    "title": [
+      "[The Broken Lands, South Hall]"
+    ],
+    "description": [
+      "Incandescent globes hung from the ceiling cast gloomy lights on the large stone chair at the south end of the room, deepening the shadows of the bas relief above it.  The floor is pitted and marred by long deep gouges."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6622": "north",
+      "6627": "west",
+      "6628": "east",
+      "7436": "/rooms/6626/wayto/stringproc-7436.rb"
+    },
+    "timeto": {
+      "6622": 0.2,
+      "6627": 0.2,
+      "6628": 0.2,
+      "7436": 0.2
+    },
+    "uid": [
+      487005
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      501,
+      843,
+      511,
+      853
+    ]
+  }
+}

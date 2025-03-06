@@ -1,0 +1,42 @@
+{
+  "checksum": "816fe9e641aaafd69cb24e4c03f6bafb",
+  "room": {
+    "id": 13516,
+    "title": [
+      "[Solhaven, Conch Street]"
+    ],
+    "description": [
+      "Conch Street runs southeasterly here, closer to the foot of the cliff.  Many wagons line the street, making it difficult to walk amongst them.  The wagon guards glare openly as pedestrians wander through the area."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "150": "north",
+      "1440": "west",
+      "1441": "southeast"
+    },
+    "timeto": {
+      "150": 0.2,
+      "1440": 0.2,
+      "1441": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209015
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1186,
+      388,
+      1208,
+      410
+    ]
+  }
+}

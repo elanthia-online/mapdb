@@ -1,0 +1,45 @@
+{
+  "checksum": "e52d6fe9b70ead9253ba981fa7634ea3",
+  "room": {
+    "id": 32446,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "The flagstones split into two distinct paths, one bending north toward the mouth of a small training yard sheltered by the castle walls.  Overgrown with grasses and weeds, the pathway is uncertain.  A clearer trail toward the castle's entrance leads past a dark tower stationed along the curtain wall."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32447": "go tower",
+      "32448": "west",
+      "32453": "east",
+      "32520": "north"
+    },
+    "timeto": {
+      "32447": 0.2,
+      "32448": 0.2,
+      "32453": 0.2,
+      "32520": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577119
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      926,
+      827,
+      947,
+      847
+    ]
+  }
+}

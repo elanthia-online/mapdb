@@ -1,0 +1,24 @@
+{
+  "checksum": "0c7ba85309cd79fff0548c4d79f1c37c",
+  "room": {
+    "id": 20495,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "A freezing chill clings to the area, its icy temperature seemingly unnatural.  The waters are illuminated more, but now by red lightning that crackles along the bottom of the storm clouds."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20492": "/rooms/20495/wayto/stringproc-20492.rb",
+      "20496": "/rooms/20495/wayto/stringproc-20496.rb"
+    },
+    "timeto": {
+      "20492": 2,
+      "20496": 2
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "6ca898f6e8e976929a44fcca9ae6a077",
+  "room": {
+    "id": 17075,
+    "title": [
+      "[Temple of Ronan, Room of Drakes]"
+    ],
+    "description": [
+      "Magnificent murals of the great drakes are on every wall and the ceiling.  The murals are so vivid they appear to follow all movement with their eyes.  Thick red carpet covers the floor, and a single ebonwood table sits against one wall."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "17072": "north",
+      "17177": "west"
+    },
+    "timeto": {
+      "17072": 0.2,
+      "17177": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749012
+    ]
+  }
+}

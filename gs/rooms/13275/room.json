@@ -1,0 +1,36 @@
+{
+  "checksum": "0c5333df0f913bf905ccd062952e20dc",
+  "room": {
+    "id": 13275,
+    "title": [
+      "[East Wing]"
+    ],
+    "description": [
+      "The corridor stretches away to the northeast.  High, vaulted ceilings vanish into the darkness high above, dimly lit by flaming sconces that line the walls of carved basalt.  Dark tapestries hang on the walls, though in the dim light it is difficult to make out the images woven into them."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "13255": "southwest",
+      "13276": "northeast",
+      "33167": "go marble arch"
+    },
+    "timeto": {
+      "13255": 0.2,
+      "13276": 0.2,
+      "33167": 0.2
+    },
+    "uid": [
+      13112004
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      689,
+      473,
+      745,
+      529
+    ]
+  }
+}

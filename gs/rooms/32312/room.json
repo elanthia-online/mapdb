@@ -1,0 +1,39 @@
+{
+  "checksum": "133af6f5a7f0018d7ea11ec5ebb88d61",
+  "room": {
+    "id": 32312,
+    "title": [
+      "[Deserted Farmhouse, Entry]"
+    ],
+    "description": [
+      "The cramped interior of the farmhouse is made less navigable by an overturned table blocking the way into a ransacked kitchen.  Despite the cold, the smells of spoilage and rot commingle into a revolting melange that hangs on the air like a rancid oil slick.  Some rickety wooden stairs climb past the wreckage, guarded by an unwieldy looking bannister as they ascend to the house's second story."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Crawling Shore",
+    "wayto": {
+      "32311": "out",
+      "32313": "go stairs"
+    },
+    "timeto": {
+      "32311": 0.2,
+      "32313": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4576051
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1634,
+      1345,
+      1675,
+      1391
+    ]
+  }
+}

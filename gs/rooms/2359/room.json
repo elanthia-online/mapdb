@@ -1,0 +1,49 @@
+{
+  "checksum": "5887b1546b4f130b911718dfe7604266",
+  "room": {
+    "id": 2359,
+    "title": [
+      "[Icemule Trace, North Gate]"
+    ],
+    "description": [
+      "Several town guards watch the northern gate of the town, which is little more than a chasm hollowed out of the encroaching glacier.  Though armed, the guards seem less focused on watching for foes from the ice and more on discouraging the unwary or unprepared from braving the frigid depths.  The faint shadow of what once must have been the actual gates is visible through the ice, evidently devoured during the glacier's unrelenting advance.  Some stairs cut into the ice leading up to the city walls climb the natural wall created by the ice.",
+      "Several well-armed guards stand to either side of a hole in the glacier.  People wander in and out of the opening, which apparently serves as a gate to the town.  Within the ice you can see the faint shadow of what once must have been the actual gates.  However, the glacier has devoured it over time, and the resourceful halflings have taken advantage of the natural wall created by the ice.",
+      "Several well-armed guards stand to either side of a hole in the glacier.  People wander in and out of the opening, which apparantly serves as a gate to the town.  Within the ice you can see the faint shadow of what once must have been the actual gates.  However, the glacier has devoured it over time, and the resourceful halflings have taken advantage of the natural wall created by the ice."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2358": "south",
+      "2360": "west",
+      "3307": "go ice-encrusted gate",
+      "3726": "go stairs",
+      "30709": "/rooms/2359/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2358": 0.2,
+      "2360": 0.2,
+      "3307": 0.2,
+      "3726": 0.2,
+      "30709": "/rooms/2359/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide northgate",
+      "northgate"
+    ],
+    "uid": [
+      4042026
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      584,
+      343,
+      620,
+      379
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "4b969e6016f0293a1a90f80f83c57aa9",
+  "room": {
+    "id": 5942,
+    "title": [
+      "[Catacombs, Chart Room]"
+    ],
+    "description": [
+      "Ancient maps have been stashed away into a small nook in the wall.",
+      "Ancient maps have been stashed away into a small nook in the wall.  From the looks of them, a slight breeze would send them sailing through the air in a cloud of fine dust.  The sounds of someone or something breathing heavily comes from the darkened corner along the western wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5941": "north",
+      "5943": "west",
+      "5944": "east"
+    },
+    "timeto": {
+      "5941": 0.2,
+      "5943": 0.2,
+      "5944": 0.2
+    },
+    "tags": [
+      "some bolmara lichen",
+      "white hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009022
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      121,
+      903,
+      129,
+      914
+    ]
+  }
+}

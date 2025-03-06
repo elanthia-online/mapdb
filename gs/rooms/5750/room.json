@@ -1,0 +1,62 @@
+{
+  "checksum": "f661b410d3b33d53ababd07d2f7ea9e0",
+  "room": {
+    "id": 5750,
+    "title": [
+      "[Zul Logoth, Emerald Tunnel]"
+    ],
+    "description": [
+      "The developers of this section of tunnel have attempted to render it as rustic and outdoorsy as possible.  Massive pine trees, skillfully painted on the walls, thrust up to the ceiling overhead.  A giant toadstool, growing in a large stone pot, enhances the scene by bathing the ceiling and upper walls in an emerald light.  On the north wall, a log home nestles behind the pine tree screen.  A painted fawn shyly peers around the corner of the house, as if examining the interlopers with curiosity."
+    ],
+    "paths": [
+      "Obvious exits: east, south, northwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5749": "south",
+      "5751": "northwest",
+      "9406": "east",
+      "19788": "go archway",
+      "30712": "/rooms/5750/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "5749": 0.2,
+      "5751": 0.2,
+      "9406": 0.2,
+      "19788": "/rooms/5750/timeto/stringproc-19788.rb",
+      "30712": "/rooms/5750/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "clericguild",
+      "pepperthorn root",
+      "flathead mushroom",
+      "soft white mushroom",
+      "ironfern root",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "urchin guide clericguild",
+      "urchin-access",
+      "cleric guild",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006011
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      450,
+      446,
+      470,
+      466
+    ]
+  }
+}

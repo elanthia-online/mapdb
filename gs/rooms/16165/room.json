@@ -1,0 +1,30 @@
+{
+  "checksum": "d1edbcdb5e46be13303dbbc9a807bc32",
+  "room": {
+    "id": 16165,
+    "title": [
+      "[Minaret, Refuge]"
+    ],
+    "description": [
+      "Tiles on the walls, ceiling, and floor of this circular room form incredibly intricate geometric patterns which center on the large statue of a blood eagle in the middle of the room.  A wide arch flanked by a pair of brass braziers leads out onto a balcony.  Against the far wall, an oak-framed mirror reflects the fire from the braziers."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16064": "/rooms/16165/wayto/stringproc-16064.rb",
+      "16158": "west"
+    },
+    "timeto": {
+      "16064": 1.6,
+      "16158": 0.2
+    },
+    "tags": [
+      "meta:society:Council of Light"
+    ],
+    "uid": [
+      5008004
+    ]
+  }
+}

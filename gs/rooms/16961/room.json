@@ -1,0 +1,46 @@
+{
+  "checksum": "5a05b9ec08d219b624ccf790905b0995",
+  "room": {
+    "id": 16961,
+    "title": [
+      "[Ta'Illistim, Caear Courtyard]"
+    ],
+    "description": [
+      "The illuminated domes of Ta'Illistim Keep rise overhead, each one tiled and sparkling with an abundance of mosaic decoration.  Before the keep, the var widens to a half-moon shaped courtyard, which in turn is bordered by the edge of the city green.",
+      "The domes of Ta'Illistim Keep rise overhead, each one tiled and sparkling with an abundance of mosaic decoration.  Before the keep, the var widens to a half-moon shaped courtyard, which in turn is bordered by the edge of the city green."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "623": "west",
+      "742": "east",
+      "17841": "climb stairway",
+      "24556": "go green"
+    },
+    "timeto": {
+      "623": 0.2,
+      "742": 0.2,
+      "17841": 0.2,
+      "24556": 10
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101063
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      731,
+      297,
+      753,
+      319
+    ]
+  }
+}

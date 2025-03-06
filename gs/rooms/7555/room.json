@@ -1,0 +1,51 @@
+{
+  "checksum": "8602591108408a0f7a3b0461ce31e89f",
+  "room": {
+    "id": 7555,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "The tunnel narrows sharply making the going extremely difficult and treacherous.  The air hangs damp and heavy making it difficult to breathe and adding to the illusion of the walls closing in.  The tight confines seem to magnify the sounds of the water dripping from the ceiling above."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7554": "south",
+      "7556": "northeast"
+    },
+    "timeto": {
+      "7554": 0.2,
+      "7556": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490011
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      341,
+      909,
+      351,
+      919
+    ]
+  }
+}

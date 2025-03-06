@@ -1,0 +1,46 @@
+{
+  "checksum": "78b41fb8a98fa6046c4d5f1ae29e3460",
+  "room": {
+    "id": 16200,
+    "title": [
+      "[Beacon Hall, Kitchen]"
+    ],
+    "description": [
+      "A small army of halfling chefs bustles about this large kitchen, oblivious to anything not concerning cookery.  Clinging to the highest rung of a ladder, one of the small cooks hangs precariously over the open door of a huge brick oven.  A white-aproned chef diligently kneads a large mound of dough on a rectangular butcher block counter standing in the center of the ceramic tile floor.  The tiny cooks proudly hand over their delicious fare to the elven pages steadily arriving from the dining hall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16187": "south",
+      "16198": "north",
+      "16201": "go door",
+      "18898": "/rooms/16200/wayto/stringproc-18898.rb",
+      "18899": "/rooms/16200/wayto/stringproc-18899.rb",
+      "18900": "/rooms/16200/wayto/stringproc-18900.rb",
+      "18901": "/rooms/16200/wayto/stringproc-18901.rb",
+      "18902": "/rooms/16200/wayto/stringproc-18902.rb"
+    },
+    "timeto": {
+      "16187": 0.2,
+      "16198": 0.2,
+      "16201": 0.2,
+      "18898": 0.2,
+      "18899": 0.2,
+      "18900": 0.2,
+      "18901": 0.2,
+      "18902": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      610,
+      466,
+      657,
+      511
+    ]
+  }
+}

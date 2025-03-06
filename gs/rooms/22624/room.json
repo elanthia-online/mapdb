@@ -1,0 +1,25 @@
+{
+  "checksum": "cffd975247ce2f57d1a30ad6bc94bdf0",
+  "room": {
+    "id": 22624,
+    "title": [
+      "[The Blackshire Emporium]"
+    ],
+    "description": [
+      "A heavy black iron chandelier hangs from the support beams overhead, each of its many arms bearing a tallow candle.  Wirework mannequins lurk in the corners, casting raucous shadows across the walls, and in the center of the room is an ebon wire birdcage housing an obsidian raven.  A pair of matching ebonwood chests sit open beneath the birdcage, and elevated on carved ebonwood pedestals, velvet-lined glass cases display a variety of wares."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": false,
+    "wayto": {
+      "22623": "west",
+      "22625": "go curtain"
+    },
+    "timeto": {
+      "22623": 0.2,
+      "22625": 0.2
+    },
+    "check_location": false
+  }
+}

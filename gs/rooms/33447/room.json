@@ -1,0 +1,37 @@
+{
+  "checksum": "ac17d613da9af1a7756d41c082c8defa",
+  "room": {
+    "id": 33447,
+    "title": [
+      "[Underground, Narrow Tunnel]"
+    ],
+    "description": [
+      "The tunnel seems to continue to the west, but a large gap in the floor prevents you from travelling any further in that direction.  Mud and water flow rapidly around your legs and through the gap, sending a small brown waterfall cascading over the edge."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7544": "go gap",
+      "33446": "east"
+    },
+    "timeto": {
+      "7544": 200,
+      "33446": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102504
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      99,
+      1028,
+      229,
+      1096
+    ]
+  }
+}

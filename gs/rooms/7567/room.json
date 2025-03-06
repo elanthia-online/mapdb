@@ -1,0 +1,45 @@
+{
+  "checksum": "c370d85c3194b1468082357953fbcb70",
+  "room": {
+    "id": 7567,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "Dim light filters in from the opening to the south, illuminating a broad tunnel that winds northward.  The air is dank and still except for an occasional wisp of breeze from the opening, and a faint acrid smell touches your nostrils."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7566": "south",
+      "7568": "north"
+    },
+    "timeto": {
+      "7566": 0.2,
+      "7568": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47001
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      224,
+      1370,
+      234,
+      1380
+    ]
+  }
+}

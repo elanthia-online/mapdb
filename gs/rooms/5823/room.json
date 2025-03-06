@@ -1,0 +1,54 @@
+{
+  "checksum": "1a51cc214b10a4dc0a199d080bb667be",
+  "room": {
+    "id": 5823,
+    "title": [
+      "[Zul Logoth, Ruby Tunnel]"
+    ],
+    "description": [
+      "The tunnel has been sealed off directly to the south.  Thick chunks of granite are piled to the ceiling and filled with mortar to try to prevent anyone from proceeding further down the tunnel...or to prevent something from proceeding up the tunnel.  The workmanship is not up to the usual dwarven standards, though, and shrinkage, or seismic activity, or something else totally unknown has caused a narrow but deep crevasse to appear on one side along the wall."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1009": "north",
+      "1010": "northwest",
+      "5822": "go crevasse"
+    },
+    "timeto": {
+      "1009": 0.2,
+      "1010": 0.2,
+      "5822": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006005
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      406,
+      669,
+      426,
+      689
+    ]
+  }
+}

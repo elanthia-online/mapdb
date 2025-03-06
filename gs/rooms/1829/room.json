@@ -1,0 +1,38 @@
+{
+  "checksum": "eca535356c2b57cf7e750e43438ddf54",
+  "room": {
+    "id": 1829,
+    "title": [
+      "[Wraithenmist, Fishing Hut]"
+    ],
+    "description": [
+      "Bits and pieces of fishing tackle, including several large barbed hooks, are actually embedded in the rear wall of the hut, as if they were placed there by the force of some extreme blast of energy.  The remnants of a wooden chair, fractured into splinters and half rotted away, lie scattered across the floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wraithenmist",
+    "wayto": {
+      "1828": "south",
+      "1830": "go doorway"
+    },
+    "timeto": {
+      "1828": 0.2,
+      "1830": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13027015
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      98,
+      197,
+      108,
+      207
+    ]
+  }
+}

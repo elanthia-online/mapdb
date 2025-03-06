@@ -1,0 +1,56 @@
+{
+  "checksum": "a7bd7325546e2b6a1ab802ac4f43bfbb",
+  "room": {
+    "id": 12227,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The darkness seems to wrap about you, seeking to hold you and bind you to it.  But the darkness is cold, burning and scalding you with its icy touch.  Too alien to be the comfortable darkness of the night, too hungry to be the peace of a room with curtains drawn, it leeches and draws the strength from you, threatening to leave you a dried husk."
+    ],
+    "paths": [
+      "Obvious paths: northwest",
+      "Obvious exits: northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12227/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12227/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12227/wayto/stringproc-12152.rb",
+      "12226": "northwest"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12226": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568055
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      280,
+      1113,
+      290,
+      1123
+    ]
+  }
+}

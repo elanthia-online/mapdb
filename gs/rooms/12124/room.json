@@ -1,0 +1,56 @@
+{
+  "checksum": "731ec33423e2a2f14c1407e952672dbf",
+  "room": {
+    "id": 12124,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Screaming wind tears through this area, filling the air with a dreadful howling.  Just ahead a cavern looms, offering a bit of solace from the biting wind.  As you move closer to the safehaven, you see that the cavern is actually the open mouth of a massive, long-fallen statue - the wind, an eternal scream."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, northwest",
+      "Obvious exits: north, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12124/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12124/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12124/wayto/stringproc-12093.rb",
+      "12101": "north",
+      "12123": "northwest",
+      "12126": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12101": 0.2,
+      "12123": 0.2,
+      "12126": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567014
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1029,
+      617,
+      1039,
+      627
+    ]
+  }
+}

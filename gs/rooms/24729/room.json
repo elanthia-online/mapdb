@@ -1,0 +1,79 @@
+{
+  "checksum": "8305dd50c9c721e3ce7079199c20bbe1",
+  "room": {
+    "id": 24729,
+    "title": [
+      "[Red Forest, Derelict Village]"
+    ],
+    "description": [
+      "At the furthest edge of the village, a small field spreads out in an almost spherical shape.  The field is primarily matted dirt with patches of brownish-yellow grass sprouting here and there.  Some crude wooden pens sit empty in a row behind a weathered old outhouse.  Beyond the stretch of the field, a great wall of trees rises up as ancient oak sentinels."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Red Forest",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "24727": "south",
+      "24730": "/rooms/24729/wayto/stringproc-24730.rb"
+    },
+    "timeto": {
+      "24727": 0.2,
+      "24730": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "tkaro root",
+      "bright red cranberry",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "broken twig",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "small wild rose",
+      "sprig of wild lilac",
+      "wild chokecherry",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "blue whortleberry",
+      "dwarf billberry",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      480245
+    ],
+    "image": "red_forest-1260914757.png",
+    "image_coords": [
+      269,
+      472,
+      283,
+      485
+    ]
+  }
+}

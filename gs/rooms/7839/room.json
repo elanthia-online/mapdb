@@ -1,0 +1,45 @@
+{
+  "checksum": "88fb5350fb477a4d526b7c2238b67507",
+  "room": {
+    "id": 7839,
+    "title": [
+      "[Glatoph, Ruins]"
+    ],
+    "description": [
+      "This grand hall still echoes with the ghosts of powerful people and momentous happenings.  A great firepit dominates the center of the room, its sides lined with ceramic tiles.  A steel block sits next to the table, waist-high and as long as a man is tall.  A hammer-shaped impression is left in the dust, but there doesn't seem to be a hammer in the room.  Twenty niches are set into the walls, each with a panel in the back.  One of the panels has collapsed, revealing a lifesized steel statue."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7835": "go left arch",
+      "7836": "go right arch",
+      "7838": "southwest",
+      "7840": "southeast",
+      "7850": "go door"
+    },
+    "timeto": {
+      "7835": 0.2,
+      "7836": 0.2,
+      "7838": 0.2,
+      "7840": 0.2,
+      "7850": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35058
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      573,
+      466,
+      583,
+      476
+    ]
+  }
+}

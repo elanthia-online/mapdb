@@ -1,0 +1,53 @@
+{
+  "checksum": "014b3e1360cfdf2c4a25a529ad547317",
+  "room": {
+    "id": 31632,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Cramped and crowded, cottages and shops squat upon both sides of the thoroughfare beneath thatched roofs of pampas, straw, and haulm.  Stray bits of dried roofing collect against the drainage slots and grates, while ropy vines invade from Bittermere Woods and snake under the cobblestones, lifting them from their footings to generate an uneven terrain.  Enormous trees loom over the northeastern buildings, their thick canopies flickering with lights that do little to dispel the heavy shadows they throw."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "deciduous",
+    "wayto": {
+      "31563": "northwest",
+      "31630": "southeast",
+      "31857": "go thatched store",
+      "31858": "go whitewashed store"
+    },
+    "timeto": {
+      "31563": 0.2,
+      "31630": 0.2,
+      "31857": 0.2,
+      "31858": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "seedhead of beebalm",
+      "jagged boneset leaf",
+      "yellow sorrel sprig",
+      "orange-yellow chamomile",
+      "evermore rosehip",
+      "green gingko leaf",
+      "downy skullcap",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083027
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      723,
+      315,
+      747,
+      337
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "037e2b1c4327f749e4673f5040ebd6a9",
+  "room": {
+    "id": 1479,
+    "title": [
+      "[Solhaven, Nerite Lane]"
+    ],
+    "description": [
+      "White-wimpled housewives in their mantles and gowns mingle with brightly-clad artisans and clerics sporting their deities' colors, each on some private mission among the shops and stalls of Solhaven."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1471": "east",
+      "1475": "west",
+      "9294": "go shop"
+    },
+    "timeto": {
+      "1471": 0.2,
+      "1475": 0.2,
+      "9294": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209049
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      941,
+      702,
+      965,
+      726
+    ]
+  }
+}

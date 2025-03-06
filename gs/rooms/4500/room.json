@@ -1,0 +1,28 @@
+{
+  "checksum": "ccc86a1982bb054bce80c0fbaa4ca4fa",
+  "room": {
+    "id": 4500,
+    "title": [
+      "[Crystal Level, Hall]"
+    ],
+    "description": [
+      "Two large metal pipes run along the ceiling, water dripping from both of them.  The metal is rusting badly, and looks patched in several places.  A small mouse has taken up residence atop one of the pipes."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4498": "south",
+      "4501": "northwest"
+    },
+    "timeto": {
+      "4498": 0.2,
+      "4501": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

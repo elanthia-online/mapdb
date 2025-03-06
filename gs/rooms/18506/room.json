@@ -1,0 +1,30 @@
+{
+  "checksum": "8fed0ed294334ea34a7354166e9aed2b",
+  "room": {
+    "id": 18506,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "A crosswoven basket sits at the end of one of the rows, empty and abandoned, with a pair of stained gloves draped over the handle.  Nearby, a small spade has been left lying between two plants, as if someone had begun to harvest, but was interrupted."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18505": "north",
+      "18507": "east",
+      "18508": "northeast"
+    },
+    "timeto": {
+      "18505": 0.2,
+      "18507": 0.2,
+      "18508": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

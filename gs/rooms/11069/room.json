@@ -1,0 +1,39 @@
+{
+  "checksum": "0a43c12fa5ecc4e81b05d8698861faa5",
+  "room": {
+    "id": 11069,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "Water bubbles up into a large pool that nearly fills this room.  The shores of the pool are sandy, and booted footprints in the sand are evidence of regular travel here.  The pool drains to the west.  A natural opening to the east leads into some sea caves."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11068": "/rooms/11069/wayto/stringproc-11068.rb",
+      "11070": "east"
+    },
+    "timeto": {
+      "11068": 0.2,
+      "11070": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      26103
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4130,
+      854,
+      4153,
+      876
+    ]
+  }
+}

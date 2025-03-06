@@ -1,0 +1,43 @@
+{
+  "checksum": "8166e1f8641d37c9d4fdb15602be7a3d",
+  "room": {
+    "id": 29532,
+    "title": [
+      "[Clovertooth, Surveyor's Office]"
+    ],
+    "description": [
+      "Beneath the watchful eyes of a mounted brown bear head on the western wall, a weary claims clerk presides over a chaotic desk littered with parchments and scroll tubes.  A large illuminated map of Icemule Trace sprawls across the desk, lent unnatural topography by the heaps of paperwork underneath.  Hallways proceed to the north and south toward other offices that cannot possibly be less organized."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29531": "go arch",
+      "29546": "south",
+      "29547": "north"
+    },
+    "timeto": {
+      "29531": 0.2,
+      "29546": 0.2,
+      "29547": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043039
+    ],
+    "image": "imt-Clovertooth_Hall-1615305972.png",
+    "image_coords": [
+      198,
+      1370,
+      296,
+      1466
+    ]
+  }
+}

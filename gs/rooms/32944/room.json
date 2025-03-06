@@ -1,0 +1,33 @@
+{
+  "checksum": "19fb95b2ca24ef4e9dc47c5ecf194564",
+  "room": {
+    "id": 32944,
+    "title": [
+      "[Shrine of Fate, Oratory]"
+    ],
+    "description": [
+      "Cool marble slabs stretch across the circular floor of the shrine, the alabaster hue fairly luminous in the sunlight that slips through the surrounding pillars.  At the heart of the structure is a decorative altar, long and wide; its smooth surface is rather plain while its sides are carved with basrelief images.  A trinity of statues, each a different female Artkati, stands between the pillars."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Seareach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32943": "out",
+      "32945": "go altar"
+    },
+    "timeto": {
+      "32943": 0.2,
+      "32945": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140204
+    ]
+  }
+}

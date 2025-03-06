@@ -1,0 +1,32 @@
+{
+  "checksum": "92d503f00989762a24d0ba60504b9a5e",
+  "room": {
+    "id": 8901,
+    "title": [
+      "[Wrenrick's, Trunk Room]"
+    ],
+    "description": [
+      "This small room contains trunks of all sizes and shapes.  Sturdy shelves from floor to ceiling increase the number that may be stored here.  A pulley and rope is attached to the high ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8900": "north",
+      "8902": "go door"
+    },
+    "timeto": {
+      "8900": 0.2,
+      "8902": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3026
+    ]
+  }
+}

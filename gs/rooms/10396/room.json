@@ -1,0 +1,37 @@
+{
+  "checksum": "dd2797cc4bbc889f57ec50d4090979a4",
+  "room": {
+    "id": 10396,
+    "title": [
+      "[Saphrie's Herbs and Tinctures]",
+      "[Ta'Vaalor, Triage Station]"
+    ],
+    "description": [
+      "Soft aquamarine curtains frame the glaesine-paned windows of the herb shop.  Whitewashed haon shelves line the walls, each shelf carefully stocked with a variety of glaes bottles.  A long monir counter, well worn and apparently used as a worktable, rests in the center of the shop.",
+      "Whitewashed haon shelves line the walls of this room, each shelf carefully stocked with a variety of glaes bottles, bandages, herbs, and other healing supplies.  Elven nurses flow around and behind a long monir counter, well-worn and apparently used as a worktable, that rests in the center of the room.  An open doorway to the west leads to the infirmary, and a black-inked sign rests upon the far wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3513": "out",
+      "10397": "go doorway",
+      "30713": "/rooms/10396/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3513": 0.2,
+      "10397": 0.2,
+      "30713": "/rooms/10396/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "herbalist",
+      "urchin guide herbalist",
+      "urchin-access",
+      "maraene"
+    ],
+    "uid": [
+      14103400
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "7bba1c03d787f2c45911cf92bb8310b0",
+  "room": {
+    "id": 25185,
+    "title": [
+      "[Dazh's Caravans, Conductor]"
+    ],
+    "description": [
+      "Sweat and horseflesh conspire to form a tangy musk around the open-air business, which is astir with dozens of patrons with dustcloaks and knapsacks full of clothing, all gathered around a high counter at the center of the area.  A small fel sign sits atop the counter.  Stalls with horses and the occasional yierka line the western wall, tended by a team of sweating and overworked grooms.  The clank of wagons departing and arriving is a constant addition to the din."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "5579": "go caravansary",
+      "25145": "/rooms/25185/wayto/stringproc-25145.rb"
+    },
+    "timeto": {
+      "5579": 0.2,
+      "25145": "/rooms/25185/timeto/stringproc-25145.rb"
+    },
+    "tags": [
+      "caravan",
+      "silver-cost:25145:3000"
+    ],
+    "uid": [
+      4216901
+    ]
+  }
+}

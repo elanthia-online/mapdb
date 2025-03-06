@@ -1,0 +1,28 @@
+{
+  "checksum": "0f2b7ce82ffc53dc1580b0ff446c483e",
+  "room": {
+    "id": 15536,
+    "title": [
+      "[Stavio's Magic Shoppe]",
+      "[Stavio's Combat Gear]",
+      "[Stavio's General Store]",
+      "[Stavio's Weaponry]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "15534": "southwest"
+    },
+    "timeto": {
+      "15534": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

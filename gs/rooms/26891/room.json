@@ -1,0 +1,27 @@
+{
+  "checksum": "310b7c2bc328bfafb1992ca774cb8932",
+  "room": {
+    "id": 26891,
+    "title": [
+      "[Bloodriven Village, Pewter Road]"
+    ],
+    "description": [
+      "Opening slightly to the south, the narrow street transitions with great difficulty from dingy alley to an actual road.  Debris and refuse spill beyond the confines of the alley onto the crowded path, though someone has made an attempt at containing a portion of the mess by building a small dam of cobblestones in the middle of the street."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the sewers of Bloodriven Village",
+    "wayto": {
+      "26887": "north",
+      "26892": "south",
+      "27653": "go building"
+    },
+    "timeto": {
+      "26887": 0.2,
+      "26892": 0.2,
+      "27653": 0.2
+    },
+    "check_location": true
+  }
+}

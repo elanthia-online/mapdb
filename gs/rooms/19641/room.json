@@ -1,0 +1,46 @@
+{
+  "checksum": "afe5a9ba4e520c8aed700c840e8f2858",
+  "room": {
+    "id": 19641,
+    "title": [
+      "[Glowing Intersection]"
+    ],
+    "description": [
+      "Clumps of an odd fungus cling to the walls and ceiling of this room and glow with a dim greenish-gray light.  Passages lead off in several directions, each one black and silent."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19640": "go opening",
+      "19658": "northwest",
+      "19660": "east",
+      "19661": "northeast",
+      "19662": "north"
+    },
+    "timeto": {
+      "19640": 0.2,
+      "19658": 0.2,
+      "19660": 0.2,
+      "19661": 0.2,
+      "19662": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10021
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      579,
+      999,
+      592,
+      1013
+    ]
+  }
+}

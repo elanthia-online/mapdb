@@ -1,0 +1,31 @@
+{
+  "checksum": "9d87ce2726725b5627bb4a4ac342ef5b",
+  "room": {
+    "id": 14182,
+    "title": [
+      "[Temple of Lorminstra, Hallway]"
+    ],
+    "description": [
+      "Barely discernable in the dimly lit blackness, two hallways intersect here.  The main northwest-southeast hall is crossed by one running at right angles to it, but just southeast of the intersection the main hallway opens out into a brightly lit nave."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14180": "northwest",
+      "14183": "southwest",
+      "14190": "southeast",
+      "14191": "northeast"
+    },
+    "timeto": {
+      "14180": 0.2,
+      "14183": 0.2,
+      "14190": 0.2,
+      "14191": 0.2
+    },
+    "uid": [
+      4742012
+    ]
+  }
+}

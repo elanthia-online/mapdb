@@ -1,0 +1,28 @@
+{
+  "checksum": "a2ef0b55b262cad417233a87fe86dd67",
+  "room": {
+    "id": 4438,
+    "title": [
+      "[Shield Shed, Cranny]"
+    ],
+    "description": [
+      "This part of the shop is little more than a wide crack.  Shields are crammed into the cramped space, allowing scant room to move about.  A lone, dented lantern provides negligible illumination."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4436": "southwest",
+      "4439": "northwest"
+    },
+    "timeto": {
+      "4436": 0.2,
+      "4439": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

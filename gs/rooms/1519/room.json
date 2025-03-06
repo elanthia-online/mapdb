@@ -1,0 +1,47 @@
+{
+  "checksum": "31fa25cd5fe9e98b89e71bc498923873",
+  "room": {
+    "id": 1519,
+    "title": [
+      "[Solhaven, Limpet and Shadow]"
+    ],
+    "description": [
+      "Three of the four corners of the intersection are occupied by the dark stone walls of expansive estates, but the southwest corner contains tall, granite block town homes that are the hallmark of South 'Haven's aged heart.  This corner appears to be as far north as they were ever built.",
+      "Three of the four corners of the intersection are occupied by the dark stone walls of expansive estates, which stand like monuments to forgotten splendor and long-squandered wealth.  The southwest corner is dominated by the steepled roof of a dilapidated townhome, one of many littering the aged heart of South 'Haven.  A garland of vivid red roses hangs from the painted steel pole of a street lantern near the home's entrance."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1515": "north",
+      "1521": "west",
+      "1522": "east",
+      "1523": "south",
+      "28613": "go townhome"
+    },
+    "timeto": {
+      "1515": 0.2,
+      "1521": 0.2,
+      "1522": 0.2,
+      "1523": 0.2,
+      "28613": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902048
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1247,
+      1144,
+      1269,
+      1166
+    ]
+  }
+}

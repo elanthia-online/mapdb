@@ -1,0 +1,37 @@
+{
+  "checksum": "7a676159f56f5b0c537ecf4d7eeb012e",
+  "room": {
+    "id": 21302,
+    "title": [
+      "[Willow Hall, The Grotto]"
+    ],
+    "description": [
+      "A grotto carved deeply into a stone cliff is hidden behind the cascading curtain of a waterfall.  A myriad of ferns, orchids, ivy and bromeliads hang from the walls, and a small crescent shaped pool has been cut into the moss-covered stone floor.  Muted sunlight passes through the waterfall, casting wisps of dancing white-blue light across the surface of the pool."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Willow Hall",
+    "wayto": {
+      "19292": "out",
+      "21303": "/rooms/21302/wayto/stringproc-21303.rb"
+    },
+    "timeto": {
+      "19292": 0.2,
+      "21303": 0.2
+    },
+    "tags": [
+      "meta:che:Willow Hall"
+    ],
+    "uid": [
+      218014
+    ],
+    "image": "wl-willow_hall-1308424874.png",
+    "image_coords": [
+      903,
+      626,
+      950,
+      673
+    ]
+  }
+}

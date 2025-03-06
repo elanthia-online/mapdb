@@ -1,0 +1,38 @@
+{
+  "checksum": "f2dd0ea7a3423923cf16d7860a6c9fcf",
+  "room": {
+    "id": 21652,
+    "title": [
+      "[Guards' Quarters]"
+    ],
+    "description": [
+      "Rows of wooden bunk beds fill the room.  At the foot of each bed stand two footlockers.  Small tables stand between each set of bunks, each with a lantern and a prayerbook neatly set atop them.  A long rug runs down the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "near Fearling Pass",
+    "wayto": {
+      "21650": "north",
+      "21653": "south"
+    },
+    "timeto": {
+      "21650": 0.2,
+      "21653": 0.2
+    },
+    "tags": [
+      "meta:society:Order of Voln",
+      "no forageables"
+    ],
+    "uid": [
+      14116055
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      709,
+      178,
+      721,
+      190
+    ]
+  }
+}

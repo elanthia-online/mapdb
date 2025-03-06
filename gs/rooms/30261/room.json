@@ -1,0 +1,34 @@
+{
+  "checksum": "71264ac1f4d34dfb09773fec5faf2081",
+  "room": {
+    "id": 30261,
+    "title": [
+      "[West Docks, Dragonfire Pier]"
+    ],
+    "description": [
+      "Five piers of saltstained oak edged with darkened glaes form a large docking structure with ample portage.  Covered with myriad, tiny barnacles in a variety of colors, teak support posts frame each docking slip.  Thick cork bumpers are each painted with a chubby white goose, and a glaes-inlaid sign reads, \"West Docks, Dragonfire Pier - Slips 16-20.\""
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30260": "west",
+      "30262": "east"
+    },
+    "timeto": {
+      "30260": 0.2,
+      "30262": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7123019
+    ]
+  }
+}

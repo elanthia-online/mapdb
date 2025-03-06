@@ -1,0 +1,24 @@
+{
+  "checksum": "6200db461db3c258f1652c0b2bd6cada",
+  "room": {
+    "id": 25459,
+    "title": [
+      "[Woeful Wines, Sales Room]"
+    ],
+    "description": [
+      "Decorated almost entirely in shades of black, this excessively decorated tent could almost be mistaken for a funeral home.  Death masks, somber portraits, and other grim mementos clutter nearly every available wall and surface.  Only a solitary display of champagne bottles, guarded by a somber sales clerk, betrays the fact that this is a shop at all."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20305": "out",
+      "25458": "go curtain"
+    },
+    "timeto": {
+      "20305": 0.2,
+      "25458": 0.2
+    }
+  }
+}

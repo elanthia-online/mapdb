@@ -1,0 +1,50 @@
+{
+  "checksum": "5bc3970019e82827441dcca55be5d131",
+  "room": {
+    "id": 12105,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A huge three-masted ship floats in midair here just above the ground, sails rippling gently in the slight breeze.  Deck hands from on board make noise as they move about, adjusting cargo and preparing for voyage.  From the crow's nest high above, you can see the ship's falconer directing large hunting hawks through aerial warm-up exercises."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12105/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12105/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12105/wayto/stringproc-12093.rb",
+      "12107": "southeast",
+      "12158": "northeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12107": 0.2,
+      "12158": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4567032
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      949,
+      699,
+      959,
+      709
+    ]
+  }
+}

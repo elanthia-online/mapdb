@@ -1,0 +1,49 @@
+{
+  "checksum": "431c600b101be6d3b869c40b9334261d",
+  "room": {
+    "id": 2451,
+    "title": [
+      "[Icemule Trace, East Road]"
+    ],
+    "description": [
+      "Adventurers thread through the crowd cluttering the eastbound road, ornate weapons and flamboyant attire standing out from the more common furs and wool worn by merchants and locals.  Young halfling and human children run around near the street, tugging at travelers' coattails in an effort to hawk cheap gems.  Wooden building sits amidst the chaos, its yard heaped with crates, barrels, and trunks, while a well-lit dark stone shop seems to have taken a more reserved approach, standing away from the busy throng.",
+      "Crowds of adventurers flock along this main road, traveling back and forth between the East Gate and the Icemule town center.  Young children run around, tugging at travellers' coattails as they hawk cheap gems.  A rather squat wooden building sits comfortably on the north side of the road."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2427": "west",
+      "2452": "east",
+      "2472": "south",
+      "3372": "go building",
+      "32867": "go dark shop"
+    },
+    "timeto": {
+      "2427": 0.2,
+      "2452": 0.2,
+      "2472": 0.2,
+      "3372": 0.2,
+      "32867": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042303
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      848,
+      785,
+      884,
+      821
+    ]
+  }
+}

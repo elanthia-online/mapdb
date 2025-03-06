@@ -1,0 +1,41 @@
+{
+  "checksum": "91df77995cd0a29e8af6e1c5a03d02de",
+  "room": {
+    "id": 6301,
+    "title": [
+      "[Dirt Mines, Sluice]"
+    ],
+    "description": [
+      "The clay roof sags downward, drops of viscous orange liquid falling into the underground stream.  The walls have rotted outward, losing themselves in the rich earth and leaving miniature crumbly cliffs overhanging the water.  As a result, the stream is wider and shallower for several paces."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6300": "northeast",
+      "6302": "southwest"
+    },
+    "timeto": {
+      "6300": 0.2,
+      "6302": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372026
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      199,
+      151,
+      209,
+      161
+    ]
+  }
+}

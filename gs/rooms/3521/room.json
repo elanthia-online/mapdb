@@ -1,0 +1,56 @@
+{
+  "checksum": "d4862170ad0ff86fcc7f951828c90ee1",
+  "room": {
+    "id": 3521,
+    "title": [
+      "[Ta'Vaalor, Victory Court]",
+      "[Ta'Vaalor, Tyrnian Court]",
+      "[Ta'Vaalor, King's Court]"
+    ],
+    "description": [
+      "Thick grey stone walls clad a large structure that dominates this part of the court.  Red and gold House Vaalor pennants flutter atop the crenelated walls, adding the only bit of color the building possesses.  A plain faenor sign is posted beside the entrance to the imposing hall.",
+      "Thick grey stone walls clad a large structure that dominates this part of the court.  Red and gold House Vaalor pennants flutter atop the crenellated walls, adding the only bit of color the building possesses.  A plain faenor sign is posted beside the entrance to the imposing hall."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3519": "west",
+      "3522": "east",
+      "3668": "/rooms/3521/wayto/stringproc-3668.rb",
+      "17215": "go entrance",
+      "30713": "/rooms/3521/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3519": 0.6,
+      "3522": 0.2,
+      "3668": "/rooms/3521/timeto/stringproc-3668.rb",
+      "17215": "/rooms/3521/timeto/stringproc-17215.rb",
+      "30713": "/rooms/3521/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "urchin guide warriorguild",
+      "urchin-access",
+      "warrior guild",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:teleport",
+      "meta:forage-sensed:night:2023-01",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      14100043
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1001,
+      854,
+      1037,
+      890
+    ]
+  }
+}

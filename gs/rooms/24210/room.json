@@ -1,0 +1,31 @@
+{
+  "checksum": "8c280b059749f234fa3cea935a296ad2",
+  "room": {
+    "id": 24210,
+    "title": [
+      "[Annex, House Brigatta Lobby]"
+    ],
+    "description": [
+      "Simple, but elegant, the teakwood flooring of this room is polished to a lustrous sheen.  A blue velvet pennant edged with white hangs near a heavy, white muslin curtain."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12296": "go arch",
+      "29571": "go white curtain"
+    },
+    "timeto": {
+      "12296": 0.2,
+      "29571": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      3215115
+    ]
+  }
+}

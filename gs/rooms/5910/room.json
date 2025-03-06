@@ -1,0 +1,50 @@
+{
+  "checksum": "d6e68af1ea613d00bdff4169b7f764bb",
+  "room": {
+    "id": 5910,
+    "title": [
+      "[Catacombs, Eatery]"
+    ],
+    "description": [
+      "A gentle breeze from the open hatch above creates enough disturbances in the air to send tiny particles of dust and dirt sailing through the air.  An old wood burner is slumped over onto its side in the far corner of the room.  A wooden bowl still contains the molded remnants of the last meal served in this morbid place.",
+      "A gentle breeze from the open hatch above creates enough disturbances in the air to send tiny particles of dust and dirt sailing through the air.  One of its legs missing, an old wood burner is slumped over onto its side in the far corner of the room.  A splintered barrel, with a warped and pockmarked flat piece of wood lying atop it looms above several broken crates that once served as a crude table and chairs.  A wooden bowl still contains the molded remnants of the last meal served in this morbid place."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5909": "go hatch",
+      "5911": "south"
+    },
+    "timeto": {
+      "5909": 0.2,
+      "5911": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "white hook mushroom",
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "some wingstem root",
+      "ironfern root",
+      "withered black mushroom",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009002
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      354,
+      571,
+      362,
+      581
+    ]
+  }
+}

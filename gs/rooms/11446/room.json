@@ -1,0 +1,48 @@
+{
+  "checksum": "20e4044c635110f534bdb0886f2644cd",
+  "room": {
+    "id": 11446,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The green waters of Maelstrom Bay stretch out in all directions.  Swells roll in from the great western sea without interruption.  A sharp current prohibits movement to the west.  To the east, the mainland is marked by a sheer, rocky cliff."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11439": "/rooms/11446/wayto/stringproc-11439.rb",
+      "11445": "/rooms/11446/wayto/stringproc-11445.rb",
+      "11447": "/rooms/11446/wayto/stringproc-11447.rb",
+      "11455": "/rooms/11446/wayto/stringproc-11455.rb",
+      "11462": "/rooms/11446/wayto/stringproc-11462.rb",
+      "16041": "/rooms/11446/wayto/stringproc-16041.rb"
+    },
+    "timeto": {
+      "11439": 2,
+      "11445": "/rooms/11446/timeto/stringproc-11445.rb",
+      "11447": 2,
+      "11455": 2,
+      "11462": 3,
+      "16041": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304020
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      675,
+      1260,
+      685,
+      1270
+    ]
+  }
+}

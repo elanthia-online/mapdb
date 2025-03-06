@@ -1,0 +1,34 @@
+{
+  "checksum": "40a93d8527157b94892d393e25d5ea01",
+  "room": {
+    "id": 6631,
+    "title": [
+      "[Broken Lands, Hidden Stairs]"
+    ],
+    "description": [
+      "The stairwell is cramped and musty, with a thick layer of dust which rises into the air from the slightest breeze.  A lone pinpoint of light can be seen at the top of the stairs, while a blanket of darkness shrouds the bottom."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "6630": "go passage",
+      "6632": "/rooms/6631/wayto/stringproc-6632.rb"
+    },
+    "timeto": {
+      "6630": 0.2,
+      "6632": 0.2
+    },
+    "uid": [
+      487011
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      367,
+      1074,
+      377,
+      1084
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "b83fd3f8369245b0e7b04e9923f3cb04",
+  "room": {
+    "id": 30039,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "Beyond the jagged edge of the hanging gardens' ruins and far below, the snow-clad woodland spreads to the furthest vagaries of vision.  Here and there, the primordial forest is broken by dozens of sprawling settlements, but from such a distance they seem very small.  The wind is cold and cuts like glass, screaming over the crumbling edifice like a vengeful banshee."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30038": "north",
+      "30040": "southwest"
+    },
+    "timeto": {
+      "30038": 0.2,
+      "30040": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503469
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      941,
+      307,
+      957,
+      322
+    ]
+  }
+}

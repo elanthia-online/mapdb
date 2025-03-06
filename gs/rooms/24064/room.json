@@ -1,0 +1,35 @@
+{
+  "checksum": "806e21d8db23454aa51e3739f5779748",
+  "room": {
+    "id": 24064,
+    "title": [
+      "[Villa Brigatta, Atrium]"
+    ],
+    "description": [
+      "Rows of white granite columns echo the outside stylings, ringing the room and bracing the corridor leading off to the east.  At the center and beneath an open ceiling is a step-down area filled with comfortable settees.  To ward off the damp chill that comes with rain and cooler seasons is a free-standing white marble fireplace.  Blue star mosaic insets scatter across the pale travertine floor, and sky-hued gossamer curtains dance with the breeze.  A garden lush with native plants opens out to the north."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out",
+      "Obvious exits: north, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1988": "go mistwood door",
+      "24065": "west",
+      "24066": "north",
+      "24068": "go gossamer curtain"
+    },
+    "timeto": {
+      "1988": 0.2,
+      "24065": 0.2,
+      "24066": 0.2,
+      "24068": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      3003701
+    ]
+  }
+}

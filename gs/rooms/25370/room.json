@@ -1,0 +1,30 @@
+{
+  "checksum": "687caa50437d6f8a2ea294e7f6b1b4b2",
+  "room": {
+    "id": 25370,
+    "title": [
+      "[Delirium Manor, Storage Room]"
+    ],
+    "description": [
+      "Various sized baskets, crates, and boxes crowd the peripheral area.  Traversing the room's interior is difficult due to a large cluster of furniture.  A dozen human-sized dolls, all dressed in formal clothing and each holding a wine glass, are arranged in a seated position in padded rocking chairs."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25367": "southwest",
+      "25382": "north"
+    },
+    "timeto": {
+      "25367": 0.2,
+      "25382": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100060
+    ]
+  }
+}

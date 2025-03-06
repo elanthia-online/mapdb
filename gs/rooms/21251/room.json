@@ -1,0 +1,29 @@
+{
+  "checksum": "f59745da2d2f6430e860b4a8d4cef7f8",
+  "room": {
+    "id": 21251,
+    "title": [
+      "[Wondrious's Outfitting]"
+    ],
+    "description": [
+      "An oil-filled copper sconce hangs on one of the rough white stucco walls, and a domed white stucco ceiling rises overhead.  A pile of striped throw pillows sits in one corner of a white limestone floor.  There is a set of carved felwood shelves on one side of the shop and a spacious grey slate counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9019": "out",
+      "21260": "southwest",
+      "21261": "southeast"
+    },
+    "timeto": {
+      "9019": 0.2,
+      "21260": 0.2,
+      "21261": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

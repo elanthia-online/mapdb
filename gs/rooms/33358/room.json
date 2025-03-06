@@ -1,0 +1,34 @@
+{
+  "checksum": "5b982ac1f2f2c038e951ff3416f49a77",
+  "room": {
+    "id": 33358,
+    "title": [
+      "[Warcat Suite, Living Room]"
+    ],
+    "description": [
+      "Wood paneled walls stretch in every direction of the living room, their surfaces burnished to a nice sheen that brightens slightly from the light of bronze lanterns nearby.  The center of the area is dominated by an oversized plush sofa, its rich burgundy hue matching the massive threaded tapestry hanging near a carved archway.  Nestled to the side of a modwir door stands a polished granite-topped bar."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Warcat Suite, inside the frontier town of Wehnimer's Landing",
+    "wayto": {
+      "33357": "go door",
+      "33359": "go arch",
+      "33360": "west",
+      "33361": "east"
+    },
+    "timeto": {
+      "33357": 0.2,
+      "33359": 0.2,
+      "33360": 0.2,
+      "33361": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730502
+    ]
+  }
+}

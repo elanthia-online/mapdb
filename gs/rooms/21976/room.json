@@ -1,0 +1,31 @@
+{
+  "checksum": "37faaa53ce507ea8c9a8eba0e4928e0a",
+  "room": {
+    "id": 21976,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "Old metal carts have sat along the walls for hundreds of years, collecting both dust and grime.  Inside one cart is a humanoid skeleton, its skull half missing."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21975": "southeast",
+      "21977": "north"
+    },
+    "timeto": {
+      "21975": 0.2,
+      "21977": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      900,
+      98,
+      913,
+      110
+    ]
+  }
+}

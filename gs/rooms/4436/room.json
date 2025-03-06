@@ -1,0 +1,32 @@
+{
+  "checksum": "7292929baf8e1b7efab616a579e29a3f",
+  "room": {
+    "id": 4436,
+    "title": [
+      "[Shield Shed, Entry]"
+    ],
+    "description": [
+      "At first glance, the dim shop seems a bit dreary and dingy.  Rustic wooden beams support the ceiling, and the grey stone walls are drab.  No decorations alleviate the monotony.  Slowly adjusting to the low light, it can be seen that the shop is filled with magnificent shields of all sizes and types."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4431": "out",
+      "4437": "northwest",
+      "4438": "northeast",
+      "4439": "north"
+    },
+    "timeto": {
+      "4431": 0.2,
+      "4437": 0.2,
+      "4438": 0.2,
+      "4439": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

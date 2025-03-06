@@ -1,0 +1,43 @@
+{
+  "checksum": "42f72a12cb8bcb63fda861d3f86019be",
+  "room": {
+    "id": 20776,
+    "title": [
+      "[Welkin Hall, Entrance]"
+    ],
+    "description": [
+      "Broad stone steps lead up towards a narrow building constructed of marbled quartz.  Thin ribbons of grey, blue, and pink streak the stones, giving an almost festive appearance to the facade broken only by a dwarven statue that stands guard beside a steel-banded door.  High above, arched windows peer out over the landscape like unseeing eyes, the glass reflecting minimal light from the sky."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "20775": "southeast",
+      "20777": "go door",
+      "30715": "/rooms/20776/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "20775": 0.2,
+      "20777": 0.2,
+      "30715": "/rooms/20776/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "meta:premium",
+      "no forageables",
+      "urchin-access"
+    ],
+    "uid": [
+      4002202
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      627,
+      516,
+      664,
+      551
+    ]
+  }
+}

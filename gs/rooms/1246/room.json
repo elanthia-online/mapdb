@@ -1,0 +1,32 @@
+{
+  "checksum": "627ef7b246bbabca467c43064b8a134a",
+  "room": {
+    "id": 1246,
+    "title": [
+      "[River Tower East, Headquarters]"
+    ],
+    "description": [
+      "Papers are strewn over the desk that stands in the middle of the room.  On the wall behind the desk is a banner with the insignia of the guard regiment assigned to man the walls and watchtowers of Wehnimer's Landing."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "381": "out",
+      "1247": "go stair"
+    },
+    "timeto": {
+      "381": 0.2,
+      "1247": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5065
+    ]
+  }
+}

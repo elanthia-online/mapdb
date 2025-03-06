@@ -1,0 +1,52 @@
+{
+  "checksum": "9197cf217b450fd3f9c6e07eaeda058c",
+  "room": {
+    "id": 6917,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Fingers of lamp light reach in from the tunnel to the northwest, a welcome sight in the dimness of the lower tunnels.  The remains of a lamp dangle down, a wreckage of metal and shards of glass.  The rest of the glass, however, has long since been ground into the floor, giving the dirt a sparkling quality."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest, northwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6916": "northwest",
+      "6918": "south",
+      "6920": "southwest",
+      "6927": "east"
+    },
+    "timeto": {
+      "6916": 0.2,
+      "6918": 0.2,
+      "6920": 0.2,
+      "6927": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37015
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      985,
+      1382,
+      995,
+      1392
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "01e7ca4d3b50dd8aa1641bfa388a5bd4",
+  "room": {
+    "id": 14070,
+    "title": [
+      "[Castle Tower, Northwest]"
+    ],
+    "description": [
+      "The remnants of a small table and several chairs lie strewn about the stone floor.  A wooden weapons rack has been torn from the wall and now lies shattered against it.  Weaving amongst the debris are many sets of muddied boot prints."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Castle Varunar",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14069": "out",
+      "15991": "/rooms/14070/wayto/stringproc-15991.rb"
+    },
+    "timeto": {
+      "14069": 0.2,
+      "15991": 0.4
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750040
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      585,
+      225,
+      595,
+      235
+    ]
+  }
+}

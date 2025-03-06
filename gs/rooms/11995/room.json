@@ -1,0 +1,41 @@
+{
+  "checksum": "1287980012a2d8df0043a896c0da0196",
+  "room": {
+    "id": 11995,
+    "title": [
+      "[Forgotten Pool]"
+    ],
+    "description": [
+      "A spacious circular room chiseled directly out of the granite rock bed surrounds what may once have been a shallow pool.  The sides of the pool slope slowly down to the center of the room where they suddenly plunge into a dark hole perhaps six feet wide.  Circular stairs, cut into the walls of the room, rise to the Observatory above, following faded pictures inked into the granite.  A musty odor pervades the area, and there is a noticeable lack of air circulation."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11994": "climb stairs",
+      "11996": "climb hole"
+    },
+    "timeto": {
+      "11994": 0.2,
+      "11996": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17003217
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      149,
+      131,
+      159,
+      141
+    ]
+  }
+}

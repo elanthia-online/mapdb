@@ -1,0 +1,50 @@
+{
+  "checksum": "9a416b4ef65874e450b88a3770b46c34",
+  "room": {
+    "id": 7329,
+    "title": [
+      "[Shadow Valley]"
+    ],
+    "description": [
+      "Steep rocky walls rise high above, squelching any thoughts of climbing out.  A cold biting wind blows across your face, stinging your eyes and lips."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, west, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7326": "northwest",
+      "7327": "north",
+      "7328": "northeast",
+      "7330": "west",
+      "7332": "climb trail"
+    },
+    "timeto": {
+      "7326": 0.2,
+      "7327": 0.2,
+      "7328": 0.2,
+      "7330": 0.2,
+      "7332": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02",
+      "shadow mare"
+    ],
+    "uid": [
+      389034
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1374,
+      632,
+      1384,
+      642
+    ]
+  }
+}

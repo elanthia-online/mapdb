@@ -1,0 +1,59 @@
+{
+  "checksum": "b893119db4b6a8758c23ed575133734d",
+  "room": {
+    "id": 937,
+    "title": [
+      "[Whistler's Pass, Tunnel]"
+    ],
+    "description": [
+      "The tunnel opens up suddenly as the ground drops away into a deep gorge below.  Rushing water rumbles down the gorge, the sound thundering in the tunnel's mouth and bouncing off the stone walls endlessly.  A rope bridge extends across the gorge, to a ledge just visible at the bridge's far end."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "936": "north",
+      "938": "go bridge"
+    },
+    "timeto": {
+      "936": 0.2,
+      "938": 0.2
+    },
+    "tags": [
+      "marallis berry",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "golden aster",
+      "cluster of butterflyweed",
+      "mountain dryad",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11",
+      "sunburst blossom",
+      "dwarf billberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13015036
+    ],
+    "image": "en-whistlers_pass-1639036092.png",
+    "image_coords": [
+      344,
+      806,
+      354,
+      816
+    ]
+  }
+}

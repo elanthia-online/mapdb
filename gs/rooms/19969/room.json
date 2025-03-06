@@ -1,0 +1,40 @@
+{
+  "checksum": "9d048893ace02410ce4787f57399e08b",
+  "room": {
+    "id": 19969,
+    "title": [
+      "[Landmarks, Melgorehn's Reach]"
+    ],
+    "description": [
+      "The room is designed so the center is raised sharply, mimicking a mountaintop completely covered by a replica of a tall dark tower with its labyrinth of passages, bridges, ledges, and tunnels.  Spread out before the sprawling structure down the mountainside is a grassy plain, and one large boulder with a single flattened side lays near the base of the slope.  A metal sign on an iron stand and a small oak pedestal rest beside the three-dimensional exhibit."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19962": "west",
+      "19970": "east"
+    },
+    "timeto": {
+      "19962": 0.2,
+      "19970": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28139
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      1631,
+      1032,
+      1773,
+      1093
+    ]
+  }
+}

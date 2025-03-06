@@ -1,0 +1,30 @@
+{
+  "checksum": "a76309ab31d4eba53e7227c0ffecca70",
+  "room": {
+    "id": 4473,
+    "title": [
+      "[Topaz Level, Elbow]"
+    ],
+    "description": [
+      "Solid stone on either wall has made it necessary to carve a steep bend to continue the shaft.  The stone is scarred with numerous attempts to widen the gap, but evidently without success.  A few twisted pieces of metal litter the ground, remnants of what must have been a pickaxe at one time."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4463": "north",
+      "4474": "go tunnel",
+      "4476": "west"
+    },
+    "timeto": {
+      "4463": 0.2,
+      "4474": 0.2,
+      "4476": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "3b74a5360153a12acf24355720518226",
+  "room": {
+    "id": 3958,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "You carefully pick your way around the bits and pieces of debris.  Just thinking about the nature of this debris makes you a bit nauseous.  The smell of the place is revolting, making matters even worse."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "3957": "southwest",
+      "3959": "northeast"
+    },
+    "timeto": {
+      "3957": 0.2,
+      "3959": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ],
+    "uid": [
+      2134103
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      691,
+      383,
+      700,
+      390
+    ]
+  }
+}

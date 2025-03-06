@@ -1,0 +1,48 @@
+{
+  "checksum": "f1d39b7ae726c382e44c43a9be02fe5f",
+  "room": {
+    "id": 5658,
+    "title": [
+      "[Warrens]"
+    ],
+    "description": [
+      "A steadily burning torch along one wall is providing the light source for the odd shadows that are dancing along the floor of this passageway.  While the air is stagnant and breezeless, the flickering of the flame is causing the shadows to waver to and fro in a mesmerizing fashion."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, southwest"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5657": "southwest",
+      "5659": "east",
+      "5660": "southeast"
+    },
+    "timeto": {
+      "5657": 0.2,
+      "5659": 0.2,
+      "5660": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4006020
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      658,
+      607,
+      668,
+      617
+    ]
+  }
+}

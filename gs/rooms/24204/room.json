@@ -1,0 +1,24 @@
+{
+  "checksum": "650263f535ef2e81d62b7df8290d56cd",
+  "room": {
+    "id": 24204,
+    "title": [
+      "[Sacrificial Hall, South Wing]"
+    ],
+    "description": [
+      "Unremarkable in decor, this small hallway is lined with stone columns that lack the elaborate carvings of those previously seen.  A putrid odor hangs in the air near a pile of bloodstained cloths with what appears to be the remains of a decaying scalp protruding from beneath."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24198": "north",
+      "24205": "south"
+    },
+    "timeto": {
+      "24198": 0.2,
+      "24205": 0.2
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "5f8080875fb7c6dd986a1490e4816542",
+  "room": {
+    "id": 4128,
+    "title": [
+      "[Glatoph, Lava Pool]"
+    ],
+    "description": [
+      "Waves of heat rise from the lava, and everything around you shimmers and dances.  To the west, you see a huge grey arch reaching for the ceiling of the chamber.  The arch seems to vibrate in the billows of heated air, as though it's about to tumble into the pool below."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4127": "west",
+      "4129": "northeast"
+    },
+    "timeto": {
+      "4127": 0.2,
+      "4129": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35023
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      267,
+      465,
+      277,
+      475
+    ]
+  }
+}

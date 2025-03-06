@@ -1,0 +1,36 @@
+{
+  "checksum": "ebeb734a5d5a7ed47811c94a1586edc6",
+  "room": {
+    "id": 1842,
+    "title": [
+      "[Golden Helm, Lobby]"
+    ],
+    "description": [
+      "The thick stone walls are hung with rich tapestries in velvet and silk.  A variety of battle-worn weapons are also displayed, some so old you have never seen their like.  An open guest registry book lies on the ornately-carved rosewood front desk, which faces the front doors."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1841": "out",
+      "12504": "east",
+      "30715": "/rooms/1842/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1841": 0.2,
+      "12504": 0.2,
+      "30715": "/rooms/1842/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "inn",
+      "urchin-access",
+      "urchin guide inn",
+      "urchin guide goldenhelm",
+      "goldenhelm"
+    ],
+    "uid": [
+      3003006
+    ]
+  }
+}

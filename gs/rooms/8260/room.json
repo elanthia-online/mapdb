@@ -1,0 +1,40 @@
+{
+  "checksum": "ccd66da76a610474ec9a3bc341c1820a",
+  "room": {
+    "id": 8260,
+    "title": [
+      "[Wolves' Den, Training Hall]"
+    ],
+    "description": [
+      "Circles and squares are painted on the floor of this vast chamber.  Weapon and armor racks are scattered throughout, their contents covered with rust.  One wall is hung with targets.  The doorway to the south is unbarred, the remains of the doors lying flat on the floor.  An opening in the western wall leads into a large, dark area.  A stone arch leads north."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8230": "go arch",
+      "8259": "west",
+      "8272": "south"
+    },
+    "timeto": {
+      "8230": 0.2,
+      "8259": 0.2,
+      "8272": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390019
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      256,
+      379,
+      266,
+      389
+    ]
+  }
+}

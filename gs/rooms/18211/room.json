@@ -1,0 +1,40 @@
+{
+  "checksum": "ab66a43062c81f4bf9c07093f12eadf6",
+  "room": {
+    "id": 18211,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "A large chunk of iron shaped into an anvil is set carefully in the midst of some white sand.  Beyond that is a slight incline decorated with pebbles and rocks of varying colors and sizes.  After a moment, it dawns on you that the rocks are arranged to form a picture of Eonak."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18210": "northwest",
+      "18212": "southeast"
+    },
+    "timeto": {
+      "18210": 0.2,
+      "18212": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312002
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      172,
+      376,
+      184,
+      388
+    ]
+  }
+}

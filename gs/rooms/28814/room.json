@@ -1,0 +1,29 @@
+{
+  "checksum": "bada563335f5c25b74a83ad09548eef5",
+  "room": {
+    "id": 28814,
+    "title": [
+      "[Kraken's Fall Bank]"
+    ],
+    "description": [
+      "A small series of wide steps just inside the oak door lead down into a wide corridor.  Alcoves can be seen to either side, though they aren't well lit, and it's hard to make out their contents.  Several muscular guards patrol this area, their suspicious eyes constantly on the move.  The entire space is lit by some large braziers suspended from the stone ceiling, and the scent of hot wax is omnipresent."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28870": "go door",
+      "28907": "out",
+      "29122": "go booth"
+    },
+    "timeto": {
+      "28870": 0.2,
+      "28907": 0.2,
+      "29122": 0.2
+    },
+    "uid": [
+      7118400
+    ]
+  }
+}

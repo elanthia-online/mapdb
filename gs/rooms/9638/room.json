@@ -1,0 +1,41 @@
+{
+  "checksum": "7ee3dd7689c9f587a62ed2c21fcf6e2a",
+  "room": {
+    "id": 9638,
+    "title": [
+      "[Temple, Bathing Chamber]"
+    ],
+    "description": [
+      "Water droplets condensing on the hollow-tiled ceiling above the central bath grow gravid in the steamy air and return to their source with a quiet splash.  Silver ewers and vials of scented oil are within easy reach of the communal bath, their tarnished surfaces reflecting the flickering candlelight dimly.  A large window on the western wall appears to serve the dual purpose of allowing bathers to admire the night skies and to put themselves on display.",
+      "Water droplets condensing on the hollow-tiled ceiling above the central bath grow gravid in the steamy air and return to their source with a quiet splash.  Silver ewers and vials of scented oil are within easy reach of the communal bath, their tarnished surfaces only dimly reflecting the rippling sunlight on the water's surface.  A large window on the western wall appears to serve the dual purpose of allowing bathers to admire the lush forest outside and to put themselves on display."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "9637": "go door",
+      "9639": "go steps",
+      "9640": "northeast"
+    },
+    "timeto": {
+      "9637": 0.2,
+      "9639": 0.2,
+      "9640": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2191012
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      642,
+      650,
+      652,
+      660
+    ]
+  }
+}

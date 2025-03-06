@@ -1,0 +1,48 @@
+{
+  "checksum": "a7f01b07e3897bd53320a1f40c4f789b",
+  "room": {
+    "id": 30,
+    "title": [
+      "[Ta'Illistim, Stearriza Var]"
+    ],
+    "description": [
+      "The pitched roof of a nearby cottage slopes gently towards its stonework support, the roof tiles carefully laid atop one another in neat rows.  A large bougainvillea, its slender boughs laden with deep pink blossoms, drapes itself gently over one end of the cottage.",
+      "The domed roof of a nearby house is a shiny sapphire blue, its tiles carefully laid against one another in neat rows.  A large cluster of climbing vines, laden with tightly closed white roses, drapes itself gently over one end of the building.",
+      "The domed roof of a nearby house is a shiny sapphire blue, its tiles carefully laid against one another in neat rows.  A large cluster of climbing vines, laden with blooming white roses, drapes itself gently over one end of the building.",
+      "The domed roof of a nearby house is a shiny sapphire blue, its tiles carefully laid against one another in neat rows.  A large cluster of climbing vines, laden with tightly closed white roses, drapes itself gently over one end of the building.  A cobblestone path leads east towards a large marble tower."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, southwest, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29": "northwest",
+      "31": "south",
+      "183": "southwest",
+      "726": "northeast"
+    },
+    "timeto": {
+      "29": 0.2,
+      "31": 0.2,
+      "183": 0.2,
+      "726": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100010
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1353,
+      736,
+      1376,
+      757
+    ]
+  }
+}

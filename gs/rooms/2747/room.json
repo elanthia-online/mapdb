@@ -1,0 +1,70 @@
+{
+  "checksum": "d49709f14bc0c6e12a5e4cb5b2d75741",
+  "room": {
+    "id": 2747,
+    "title": [
+      "[Arctic Tundra]"
+    ],
+    "description": [
+      "To the west, a large spire of ice towers far above your head and is quickly lost in the swirling snowstorm.  A wooden hatch to the north leads, strangely enough, down into the snow.  Paths lead from the hatch to the south and southwest."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest"
+    ],
+    "location": "the Pinefar forests",
+    "climate": "snowy, arctic",
+    "terrain": "mountainous",
+    "wayto": {
+      "2746": "go hatch",
+      "2748": "south",
+      "2750": "southwest"
+    },
+    "timeto": {
+      "2746": 0.2,
+      "2748": 0.2,
+      "2750": 0.2
+    },
+    "tags": [
+      "gok nut",
+      "red winterberry",
+      "some angelica root",
+      "some arctic moss",
+      "manroot stalk",
+      "sweetfern stalk",
+      "some daggit root",
+      "some wyrmwood bark",
+      "some pennyroyal stem",
+      "some red lichen",
+      "lingonberry",
+      "sassafras leaf",
+      "red lichen",
+      "feverfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "wyrmwood bark",
+      "daggit root",
+      "arctic moss",
+      "tundra grass",
+      "rockberry",
+      "crowberry",
+      "orange rowanberry",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4563059
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      771,
+      874,
+      781,
+      884
+    ]
+  }
+}

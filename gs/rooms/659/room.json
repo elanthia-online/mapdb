@@ -1,0 +1,40 @@
+{
+  "checksum": "c463bbb34811264b457cefefb4bc59d6",
+  "room": {
+    "id": 659,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The trees break toward the northwest, revealing rich fields of gold and green.  To the southeast the trees thicken, and the road seems to cut through them like a knife."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "658": "northwest",
+      "660": "southeast"
+    },
+    "timeto": {
+      "658": 0.2,
+      "660": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049015
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      450,
+      631,
+      460,
+      641
+    ]
+  }
+}

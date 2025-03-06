@@ -1,0 +1,45 @@
+{
+  "checksum": "f2428fcb0f14063c078377bdaa99909d",
+  "room": {
+    "id": 29175,
+    "title": [
+      "[The F'Eyrie, Trail Split]"
+    ],
+    "description": [
+      "Along the crater rim the rocky path splits around a small peak covered with craggy rocks and blackened nests.  Ash covers the small spire, as well as a treacherous path that's dangerously close to a gaping crater of molten lava.  Clouds of noxious fumes drift from east to west overhead."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "29174": "southeast",
+      "29176": "northwest",
+      "29184": "northeast"
+    },
+    "timeto": {
+      "29174": 0.2,
+      "29176": 0.2,
+      "29184": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023111
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      100,
+      197,
+      129,
+      225
+    ]
+  }
+}

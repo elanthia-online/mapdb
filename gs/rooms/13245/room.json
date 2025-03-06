@@ -1,0 +1,42 @@
+{
+  "checksum": "78a91d50f8b8f9b153bd53cd242a3a31",
+  "room": {
+    "id": 13245,
+    "title": [
+      "[Tower]"
+    ],
+    "description": [
+      "A rough angled ceiling of thin iron plates arcs overhead, supported by thick poles of iron that continue down to the ground that is far below.  Planks of wood make up the sturdy albeit rough floor, and a few small notches are cut into the dark metal walls.  The countryside expands out beneath you, its terrain easily visible from this high vantage point.",
+      "A rough angled ceiling of thin iron plates arcs overhead, supported by thick poles of iron that continue down to the ground that is far below.  Planks of wood make up the sturdy albeit rough floor, and a few small notches are cut into the dark metal walls.  The countryside expands out beneath you, its terrain easily visible from this high vantage point, the moonlight gently illuminating the interior of the tower."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "291": "go ladder",
+      "28699": "go trapdoor"
+    },
+    "timeto": {
+      "291": 0.2,
+      "28699": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "peer trapdoor =~ /Clumps of dirt make the travel here uneven and bumpy/",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      498001
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      507,
+      437,
+      544,
+      473
+    ]
+  }
+}

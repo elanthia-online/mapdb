@@ -1,0 +1,30 @@
+{
+  "checksum": "e79588f4d5cb799c7de80a99f0f46d47",
+  "room": {
+    "id": 14738,
+    "title": [
+      "[Cylla's Outfitting]",
+      "[Cylla's Magic Shoppe]"
+    ],
+    "description": [
+      "Red silk-covered walls rise from a grey-speckled white marble floor.  Just above a worn rug hangs a tattered merchant permit, and a glaes-skylit ceiling completes the picture.  A large carved haon display and a large carved haon counter stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "1973": "out",
+      "14750": "northwest",
+      "14751": "northeast"
+    },
+    "timeto": {
+      "1973": 0.2,
+      "14750": 0.2,
+      "14751": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

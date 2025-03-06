@@ -1,0 +1,49 @@
+{
+  "checksum": "3159c7099940f8a8e33bf20b63859db8",
+  "room": {
+    "id": 991,
+    "title": [
+      "[Cavern Mouth]"
+    ],
+    "description": [
+      "A large, well-lit cavern extends back into the mountain face.  Wagonloads of freight move slowly out of the cavern, stopping at the precipice's edge to await daylight and the use of the freight pulley.  The pulley appears to be closed and locked for the night.  Several large bags of salt are piled near the freight pulley.  The footing is icy, and the dwarves moving the wagons wear heavy-soled boots to provide better traction.",
+      "A large, well-lit cavern extends back into the mountain face.  Wagonloads of freight move slowly out of the cavern, stopping at the precipice's edge to await the use of the freight pulley.  Once emptied, the dwarves load the wagons up again with inbound freight and make their way back into the cavern.  Several large bags of salt are piled near the freight pulley.  The footing is icy, and the dwarves working the pulley wear heavy-soled boots to provide better traction."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Zhindel's Post",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "990": "/rooms/991/wayto/stringproc-990.rb",
+      "992": "go mouth"
+    },
+    "timeto": {
+      "990": 10,
+      "992": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "snowberries",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13003019
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1280,
+      710,
+      1288,
+      718
+    ]
+  }
+}

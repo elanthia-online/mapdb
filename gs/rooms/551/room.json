@@ -1,0 +1,41 @@
+{
+  "checksum": "48d0d8730fdfa70b148649c1dc61fc8d",
+  "room": {
+    "id": 551,
+    "title": [
+      "[Whistler's Pass, Pond Edge]"
+    ],
+    "description": [
+      "A calm pond stretches towards a waterfall to the southwest.  A rope bridge divides the dark pond in half.",
+      "A calm pond stretches towards a waterfall to the southwest.  A rope bridge divides the sparkling pond in half."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "550": "southeast",
+      "552": "go bridge"
+    },
+    "timeto": {
+      "550": 0.2,
+      "552": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      13017031
+    ],
+    "image": "en-sapphire-1658723758.png",
+    "image_coords": [
+      676,
+      717,
+      686,
+      727
+    ]
+  }
+}

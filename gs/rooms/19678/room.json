@@ -1,0 +1,40 @@
+{
+  "checksum": "85656bede4ac93e7a037139c2a12cedf",
+  "room": {
+    "id": 19678,
+    "title": [
+      "[Cavernhold, Living Area]"
+    ],
+    "description": [
+      "This room is cluttered with the everyday items used by the Gnolls.  A large number of beds, tables, chairs and trunks are scattered about the room."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19677": "southeast",
+      "19679": "west"
+    },
+    "timeto": {
+      "19677": 0.2,
+      "19679": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11029
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      871,
+      708,
+      882,
+      718
+    ]
+  }
+}

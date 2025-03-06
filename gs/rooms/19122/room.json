@@ -1,0 +1,31 @@
+{
+  "checksum": "a54e86b7c57d03c35811f261de3db76d",
+  "room": {
+    "id": 19122,
+    "title": [
+      "[The S. S. Saulty's Ship Shop]"
+    ],
+    "description": [
+      "Gruff-looking sailors greet customers as they step in.  To the northwest, rapscallions pick over weapons, armor, and shields, and, to the west, scallywags admire some trinkets.  Through a barnacle-covered arch, there seems to be some sort of bar."
+    ],
+    "paths": [
+      "Obvious exits: west, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19120": "go door",
+      "19123": "go arch",
+      "19160": "northwest",
+      "19161": "west"
+    },
+    "timeto": {
+      "19120": 0.2,
+      "19123": 0.2,
+      "19160": 0.2,
+      "19161": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

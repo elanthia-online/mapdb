@@ -1,0 +1,45 @@
+{
+  "checksum": "6475c8bac0121586c979d2d8cfb0945e",
+  "room": {
+    "id": 7365,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "Ominous dark clouds travel swiftly across the horizon filling you with a sense of dread.  Twisted tumbleweed roll across the dusty ground pushed by a strong biting wind."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7364": "southwest",
+      "7366": "south",
+      "7368": "northwest"
+    },
+    "timeto": {
+      "7364": 0.2,
+      "7366": 0.2,
+      "7368": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160025
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1332,
+      1047,
+      1342,
+      1057
+    ]
+  }
+}

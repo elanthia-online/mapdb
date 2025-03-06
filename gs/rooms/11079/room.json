@@ -1,0 +1,39 @@
+{
+  "checksum": "010bb7a253ff1d15a6c8193673b04815",
+  "room": {
+    "id": 11079,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "The cave continues to the northeast, but a short cliff face stops further progress to the south.  The cliff is not tall, and can be easily climbed.  Small swatches of cloth can be found among the sharp rocks of the cliff face."
+    ],
+    "paths": [
+      "Obvious exits: northeast, up"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11078": "northeast",
+      "11080": "up"
+    },
+    "timeto": {
+      "11078": 0.2,
+      "11080": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26117
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4603,
+      1012,
+      4626,
+      1035
+    ]
+  }
+}

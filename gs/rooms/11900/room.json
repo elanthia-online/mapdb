@@ -1,0 +1,41 @@
+{
+  "checksum": "d6880e10062f874d90943c1f449d9d0b",
+  "room": {
+    "id": 11900,
+    "title": [
+      "[Basilica, Narthex]"
+    ],
+    "description": [
+      "This large, cubic room serves as the entryway into the building. Tiled entirely in black marble, it seems smaller than its actual size.  An open space leads back outside and a high arch leads east, further into the building.  Over the arch, carved into the dark marble, is a design formed of several geometrical shapes entwined together in a complicated, interlocking pattern."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11897": "east",
+      "12040": "out"
+    },
+    "timeto": {
+      "11897": 0.2,
+      "12040": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17001101
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1160,
+      870,
+      1170,
+      880
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "0b080fe4fd9df7000b75810504a33579",
+  "room": {
+    "id": 21973,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "Huge, misshapen footprints are seen in the dirt ground of the tunnel.  Periodically, a few pebbles loosen and fall from the surrounding walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21972": "southwest",
+      "21974": "northeast"
+    },
+    "timeto": {
+      "21972": 0.2,
+      "21974": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      900,
+      196,
+      913,
+      209
+    ]
+  }
+}

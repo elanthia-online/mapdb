@@ -1,0 +1,34 @@
+{
+  "checksum": "2aa708ea4fd3ade8dc3ea9b5bf0764b2",
+  "room": {
+    "id": 16331,
+    "title": [
+      "[Mist Harbor Lockup, Entry Hall]"
+    ],
+    "description": [
+      "Austere and barren, the room is meticulously clean and the hardware on the imposing gate gleams.  A single wooden bench rests against one wall with an oil painting affixed over it."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16330": "go door",
+      "16332": "go gate",
+      "16704": "west",
+      "16705": "east"
+    },
+    "timeto": {
+      "16330": 0.2,
+      "16332": 0.2,
+      "16704": 0.2,
+      "16705": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3205002
+    ]
+  }
+}

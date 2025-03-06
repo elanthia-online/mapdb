@@ -1,0 +1,24 @@
+{
+  "checksum": "0e6094faf4ce252c44e300e83f2162c2",
+  "room": {
+    "id": 29344,
+    "title": [
+      "[The Lily's Grace, Below Deck]"
+    ],
+    "description": [
+      "A tiered oaken rack rests between a pair of cobalt-curtained windows that offer a view of the port outside, flanked to one side by a carved oak armoire and to the other by a set of golden oak hooks.  A deep blue carpeted runner extends from the archway to the west to an elaborately carved oak door across the way."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29343": "west",
+      "29345": "go door"
+    },
+    "timeto": {
+      "29343": 0.2,
+      "29345": 0.2
+    }
+  }
+}

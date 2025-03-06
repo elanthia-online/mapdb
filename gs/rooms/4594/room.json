@@ -1,0 +1,32 @@
+{
+  "checksum": "d8fe3b73109c1e0d1a8455c9d5bf2186",
+  "room": {
+    "id": 4594,
+    "title": [
+      "[Wine Cellar, Hallway]"
+    ],
+    "description": [
+      "Resting on the plush, cerulean carpeting is a frosted glass cabinet that contains an assortment of crystal figurines.  A black velvet painting depicting a school of dolphins flanking both sides of a fishing vessel hangs on the wall opposite the door.  Placed directly on both sides of the doorway are identical copper pots containing snapdragons in full bloom."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "4592": "east",
+      "4595": "north",
+      "32728": "go meeting door"
+    },
+    "timeto": {
+      "4592": 0.2,
+      "4595": 0.2,
+      "32728": 0.2
+    },
+    "tags": [
+      "meta:society:Council of Light"
+    ],
+    "uid": [
+      4220003
+    ]
+  }
+}

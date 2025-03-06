@@ -1,0 +1,24 @@
+{
+  "checksum": "610ab9207446940cff0daf947836f388",
+  "room": {
+    "id": 24353,
+    "title": [
+      "[The Brazen Bull]"
+    ],
+    "description": [
+      "A long metal table is the only piece of furniture in this sparsely decorated room.  A sharp and rusty lever has been mounted to its side.  Situated low on one wall is a dented metal hatch, the floor surrounding it dusty with iron shavings.  A large brass-framed painting hangs just above the hatch."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24218": "up",
+      "24354": "crawl hatch"
+    },
+    "timeto": {
+      "24218": 0.2,
+      "24354": 0.2
+    }
+  }
+}

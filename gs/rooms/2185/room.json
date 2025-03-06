@@ -1,0 +1,44 @@
+{
+  "checksum": "8ed3f6aad5bd77b4a9a551cc8505109a",
+  "room": {
+    "id": 2185,
+    "title": [
+      "[Eye of V'Tull, Outer Caverns]"
+    ],
+    "description": [
+      "Pillars of crystal stretch to the ceiling, providing an eerie blue light throughout.  Piles of fresh igneous rock protrude from beneath the cloak of ash revealing recent activity while thunderous groans and crashes can be heard deeper into the heart of V'Tull."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2184": "north",
+      "2186": "southwest",
+      "2187": "southeast"
+    },
+    "timeto": {
+      "2184": 0.2,
+      "2186": 0.2,
+      "2187": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060005
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      762,
+      469,
+      770,
+      477
+    ]
+  }
+}

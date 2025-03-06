@@ -1,0 +1,38 @@
+{
+  "checksum": "e7fe5e08a8123849dc43a6c4a61c3edc",
+  "room": {
+    "id": 30155,
+    "title": [
+      "[Obsidian Acropolis, Stoa Elan]"
+    ],
+    "description": [
+      "Worn by foot-traffic and the effluxion of time, a lengthy gold-flecked obsidian walkway stretches from the gatehouse and ends at a colossal portico toward the east.  Helical pillars extend the span of the walkway, while providing support for an expansive rainbow glaes canopy that arcs high overhead from the northern veranda.  From this picturesque vantage point, a sprawling amphitheater lies beyond the southern colonnade while the faint traces of Sylvarraend are visible in the far distance.",
+      "Worn by foot-traffic and the effluxion of time, a lengthy gold-flecked obsidian walkway stretches from the gatehouse and ends at a colossal portico toward the east.  Helical pillars extend the span of the walkway, while providing support for an expansive rainbow glaes canopy that arcs high overhead from the northern veranda.  From this picturesque vantage point, a sprawling amphitheater lies beyond the southern colonnade and remains silhouetted against the twinkling night sky."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30154": "go gatehouse",
+      "30156": "go portico",
+      "30157": "go veranda",
+      "30158": "south"
+    },
+    "timeto": {
+      "30154": 0.2,
+      "30156": 0.2,
+      "30157": 0.2,
+      "30158": 0.2
+    },
+    "tags": [
+      "obsidian acropolis stoa",
+      "private property"
+    ],
+    "unique_loot": [
+      "glowering gargantuan gargoyle"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "69db97ffdffca59df1ab7f77efd7a714",
+  "room": {
+    "id": 11742,
+    "title": [
+      "[Marsh Keep, Flooded Chamber]"
+    ],
+    "description": [
+      "Somber murals surround this chamber where the stone paved floor has sunk several feet below the doorway leading back out into the vaulted room.  All but for a few paces of floor remain, the rest has quietly succumbed to a rising pool of black water that dominates most of the room.  Occasionally, something causes the water to ripple as unseen things stir beneath the surface."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Marsh Keep",
+    "wayto": {
+      "11741": "out",
+      "11747": "/rooms/11742/wayto/stringproc-11747.rb"
+    },
+    "timeto": {
+      "11741": 0.2,
+      "11747": 30
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376076
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      553,
+      730,
+      563,
+      740
+    ]
+  }
+}

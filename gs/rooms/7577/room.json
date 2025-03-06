@@ -1,0 +1,45 @@
+{
+  "checksum": "c61d1546ef15bed98eca5088ce61887e",
+  "room": {
+    "id": 7577,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "The walls are more rock than dirt here, and the water that trickles down into a pool and runs off to the south is clear.  Lichen covers the outcroppings of timeworn stone, its greenish light reflecting on the pool."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7576": "south",
+      "7581": "northwest"
+    },
+    "timeto": {
+      "7576": 0.2,
+      "7581": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47014
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      197,
+      1101,
+      207,
+      1111
+    ]
+  }
+}

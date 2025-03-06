@@ -1,0 +1,31 @@
+{
+  "checksum": "3de567012bb274735b0edebefc1a2417",
+  "room": {
+    "id": 25591,
+    "title": [
+      "[Blacksmith, Scorched Hall]"
+    ],
+    "description": [
+      "Thick smoke swirls down the hall, making it hard to breathe in this area.  The glow of forges can be seen from further away."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25503": "east",
+      "25645": "west"
+    },
+    "timeto": {
+      "25503": 0.2,
+      "25645": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      871,
+      734,
+      898,
+      762
+    ]
+  }
+}

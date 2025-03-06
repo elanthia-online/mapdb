@@ -1,0 +1,46 @@
+{
+  "checksum": "7665170ac6b91cc460267b8275c1d994",
+  "room": {
+    "id": 22352,
+    "title": [
+      "[Ta'Illistim, Linsandrych Var]"
+    ],
+    "description": [
+      "Just out of the shadow of a silvery blue stone gatehouse, the cobblestones fan out into a wide var, which splits off in opposite directions.  Lush, blossoming foliage lines either side of a narrow walkway that leads into a flourishing garden.  An enameled silver sign is placed next to a crystal-paned lantern hung from a carved alabaster column."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Ta'Illistim Embassies",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "603": "go gate",
+      "22353": "southeast",
+      "22371": "southwest",
+      "22386": "go walkway"
+    },
+    "timeto": {
+      "603": 0.2,
+      "22353": 0.2,
+      "22371": 0.2,
+      "22386": 0.2
+    },
+    "tags": [
+      "meta:mapname:Elven Nations - Ta'Illistim Embassies",
+      "meta:mapshortname:Ta'Illistim Embassies",
+      "meta:mapcategory:Elven Nations",
+      "no forageables"
+    ],
+    "uid": [
+      13125001
+    ],
+    "image": "en-ta_illistim-embassies-1405076623.png",
+    "image_coords": [
+      542,
+      54,
+      618,
+      130
+    ]
+  }
+}

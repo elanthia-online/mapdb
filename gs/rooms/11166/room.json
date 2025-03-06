@@ -1,0 +1,63 @@
+{
+  "checksum": "db343831bd577f2861ebf9e21d1dd131",
+  "room": {
+    "id": 11166,
+    "title": [
+      "[Citadel, Outside]"
+    ],
+    "description": [
+      "This section of the wall has remained mostly intact although charred, as if a large bonfire had been set beside it.  Stray gusts of wind bluster around the edges, carrying damp wisps of mist.  The massive stone structure just south of the pathway was apparently the garrison for the citadel's troops."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Citadel",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11165": "east",
+      "11167": "go garrison",
+      "11202": "west"
+    },
+    "timeto": {
+      "11165": 0.2,
+      "11167": 0.2,
+      "11202": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "murdroot",
+      "withered black mushroom",
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "motherwort",
+      "murkweed",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2102029
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      886,
+      552,
+      896,
+      562
+    ]
+  }
+}

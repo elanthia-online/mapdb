@@ -1,0 +1,28 @@
+{
+  "checksum": "8f12942bcaeb9781d4cb7c039a90e958",
+  "room": {
+    "id": 18533,
+    "title": [
+      "[General Store]"
+    ],
+    "description": [
+      "Wooden shelves droop beneath the weight of assorted goods all arranged in tidy rows.  In the center of the shop, a glass showcase holds a small selection of flatware, while the remainder of the merchandise is displayed on counters, on barrels, in crates, and miscellaneous other containers.  A tall ladder is available for reaching the upper shelving."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18532": "out",
+      "18577": "west"
+    },
+    "timeto": {
+      "18532": 0.2,
+      "18577": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

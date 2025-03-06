@@ -1,0 +1,30 @@
+{
+  "checksum": "f6808e5dffaa8f0cfcc19942de728d65",
+  "room": {
+    "id": 4380,
+    "title": [
+      "[Ruby Level, North Hall]"
+    ],
+    "description": [
+      "This portion of the mine widens quite a bit and is at least twice the span of the passages leading to it.  A pair of gleaming mithril swords hang on the wall, one pointing to the west, the other east."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4373": "west",
+      "4381": "east",
+      "4398": "south"
+    },
+    "timeto": {
+      "4373": 0.2,
+      "4381": 0.2,
+      "4398": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

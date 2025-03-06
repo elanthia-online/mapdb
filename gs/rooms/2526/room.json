@@ -1,0 +1,45 @@
+{
+  "checksum": "690dc2cd888af9678b2b1812ac6d1cf6",
+  "room": {
+    "id": 2526,
+    "title": [
+      "[Icemule Trace, Snowy Plains]"
+    ],
+    "description": [
+      "Massive boulders and rocks lie to the sides of the rough trail as it winds its way up into the majestic mountains.  The whistling wind has increased and even though you had not thought it possible, it has become colder."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "snowy, arctic",
+    "terrain": "rough",
+    "wayto": {
+      "2525": "/rooms/2526/wayto/stringproc-2525.rb",
+      "2527": "/rooms/2526/wayto/stringproc-2527.rb"
+    },
+    "timeto": {
+      "2525": 0.2,
+      "2527": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "bright red teaberry",
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044111
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      1012,
+      554,
+      1022,
+      564
+    ]
+  }
+}

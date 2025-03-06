@@ -1,0 +1,44 @@
+{
+  "checksum": "a0587110e25e7a9068160bdaf02dae4b",
+  "room": {
+    "id": 2471,
+    "title": [
+      "[Commerce Burrow, Bazaar]"
+    ],
+    "description": [
+      "Flamboyantly dressed merchants, many of them halflings but with a scattering of half-krolvin, humans, and giantkin mixed in, rest from their work and devour local delicacies at large round tables scattered around the center of the bazaar.  Off to the edges, more peddler's booths and tents in raucous colors stand, their owners selling exotic spices, bright copper pots and pans, and everything in between.  A dainty shop stands back from the fray, sedate in comparison to the throng despite its sky blue roof.",
+      "Large tables with flamboyantly dressed halfling merchants are scattered around the center part of the bazaar.  Off to the edge of the bazaar more tables are set up with merchants of various races trying to hawk their wares.  As you move between the tables each merchant in turn waves at you and motions for you to come closer to his table."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2460": "east",
+      "2470": "west",
+      "27351": "go shop"
+    },
+    "timeto": {
+      "2460": 0.2,
+      "2470": 0.2,
+      "27351": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042314
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      937,
+      1052,
+      973,
+      1088
+    ]
+  }
+}

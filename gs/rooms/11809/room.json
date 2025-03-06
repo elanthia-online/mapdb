@@ -1,0 +1,44 @@
+{
+  "checksum": "4b50b0778d21d3deee177d776d1b3707",
+  "room": {
+    "id": 11809,
+    "title": [
+      "[Ta'Faendryl Approach]"
+    ],
+    "description": [
+      "Patches of greenery rise up from patches of dead vegetation as the cycle of death and rebirth continues unabated, even in this seemingly deity-forsaken place.  Clumps of cattails huddle protectively together, as if their numbers will be enough to ward off the creeping disease of the black mud.  Braver swamp grasses venture out into the open spaces, heedless of the danger lurking just below the still waters."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "humid",
+    "terrain": "barren scrub",
+    "wayto": {
+      "11808": "southwest",
+      "11810": "northeast"
+    },
+    "timeto": {
+      "11808": 0.2,
+      "11810": 0.2
+    },
+    "tags": [
+      "pothinir grass",
+      "wild chokecherry",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17000006
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      517,
+      1053,
+      527,
+      1063
+    ]
+  }
+}

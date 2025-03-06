@@ -1,0 +1,49 @@
+{
+  "checksum": "c534f06aef718445e05f381d10c46cad",
+  "room": {
+    "id": 7246,
+    "title": [
+      "[Graveyard, Barrow Tunnel]"
+    ],
+    "description": [
+      "The tunnel curves against a solid wall of rock to the east and south, marked by numerous gouges and scratches that indicate failed attempts to dig further.  The air is damp and chill, and water condenses on the dark stone to drip into foul-smelling puddles on the dirt floor."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7213": "northwest",
+      "7214": "north",
+      "7247": "west"
+    },
+    "timeto": {
+      "7213": 0.2,
+      "7214": 0.2,
+      "7247": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162110
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      530,
+      237,
+      540,
+      247
+    ]
+  }
+}

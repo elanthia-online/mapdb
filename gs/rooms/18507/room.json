@@ -1,0 +1,30 @@
+{
+  "checksum": "0871d711f040bff0fd9f78dcd342078b",
+  "room": {
+    "id": 18507,
+    "title": [
+      "[Grawood Farmstead, Field]"
+    ],
+    "description": [
+      "The branches of a pear tree droop low as they hang over the fence, laden with large, ripe fruit.  A certain sweetness lingers in the air, and a dusting of small, white blossoms litter the ground beneath the tree."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18506": "west",
+      "18508": "north",
+      "18511": "east"
+    },
+    "timeto": {
+      "18506": 0.2,
+      "18508": 0.2,
+      "18511": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

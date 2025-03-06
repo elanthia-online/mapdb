@@ -1,0 +1,40 @@
+{
+  "checksum": "d0df45f23e155de199e8988f3ddd5061",
+  "room": {
+    "id": 12220,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Mirrors upon mirrors crowd the stone floor, with barely enough room to navigate around the obstacles.  Each mirrored surface is framed in light frost with tiny dangling icicles.  A shadowy figure flits between the mirrors, though its form is not visible in any of the other countless reflections in the room.",
+      "Mirrors upon mirrors crowd the stone floor, with barely enough room to navigate around the obstacles.  Each mirrored surface shows a hellish inferno with flames of brilliant red; the fiery environment is not visible within the physical room.  A shadowy figure flits between the mirrors, though its form is not visible in any of the other countless reflections."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast",
+      "Obvious paths: north, east, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12220/wayto/stringproc-12151.rb",
+      "12217": "southeast",
+      "12229": "north",
+      "12231": "east"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12217": 0.2,
+      "12229": 0.2,
+      "12231": 0.2
+    },
+    "uid": [
+      4571022
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      127,
+      266,
+      151,
+      290
+    ]
+  }
+}

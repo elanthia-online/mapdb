@@ -1,0 +1,42 @@
+{
+  "checksum": "a61ea5cbc8c96b20c79d93dafb1478dc",
+  "room": {
+    "id": 8764,
+    "title": [
+      "[Liabo Circle, Niima's Way]"
+    ],
+    "description": [
+      "This is more a bridge than a street, extended over a long pond which continues to the east.  Though the waters are clear, you cannot see the pond's bottom.  A school of silvery fish races about, incredibly agile and fast.  Narrow wooden pathways lead off the bridge to a few homes built on the water's edge."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8763": "east",
+      "8765": "west"
+    },
+    "timeto": {
+      "8763": 0.2,
+      "8765": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      701065
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      524,
+      1154,
+      542,
+      1172
+    ]
+  }
+}

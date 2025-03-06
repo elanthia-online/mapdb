@@ -1,0 +1,34 @@
+{
+  "checksum": "7c177ad128841829aa32d03955b7f6c4",
+  "room": {
+    "id": 14586,
+    "title": [
+      "[Mercantylers' Hall, Registrar]"
+    ],
+    "description": [
+      "Shelves full of ledgers clutter this small office. The dust is extremely thick on some of the ledgers suggesting that they may not have been looked at in years, if not ages.  The working area of the office is separated from the rest by a blue silken curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5611": "go door",
+      "14587": "go curtain"
+    },
+    "timeto": {
+      "5611": 0.2,
+      "14587": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2120500
+    ]
+  }
+}

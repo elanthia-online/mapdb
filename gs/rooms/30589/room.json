@@ -1,0 +1,37 @@
+{
+  "checksum": "ada964c2747fa1e16d3592f46bbf2f05",
+  "room": {
+    "id": 30589,
+    "title": [
+      "[Clearing]"
+    ],
+    "description": [
+      "This wide clearing is covered in hay, though sections of black volcanic rock peek out from beneath.  Directly across from the entry arch is a large black barn trimmed in fiery red paint.  The handles on the door are glaes and forged in the shape of a horseshoe."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12393": "out",
+      "30715": "/rooms/30589/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12393": 0.2,
+      "30715": "/rooms/30589/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide stable",
+      "stable",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      12002001
+    ]
+  }
+}

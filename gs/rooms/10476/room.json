@@ -1,0 +1,50 @@
+{
+  "checksum": "95ad256d0426bae0919111a82cfbffc0",
+  "room": {
+    "id": 10476,
+    "title": [
+      "[Catacombs, Temple]"
+    ],
+    "description": [
+      "Oddly colored stone pillars, which are really stones stacked atop each other, look ready to topple over and crush anyone foolish enough to venture too close.  In the center of the pillars rests an empty raised dais.  Directly behind the dais, strange and indecipherable markings mar the surface of the wall.  Closer inspection reveals that blood covers all surfaces in this chamber."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5922": "out",
+      "23601": "/rooms/10476/wayto/stringproc-23601.rb"
+    },
+    "timeto": {
+      "5922": 0.2,
+      "23601": 0.2
+    },
+    "tags": [
+      "ayana'al lichen",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "ayana'al leaf",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      14009015
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      346,
+      958,
+      353,
+      968
+    ]
+  }
+}

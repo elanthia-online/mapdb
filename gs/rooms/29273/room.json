@@ -1,0 +1,24 @@
+{
+  "checksum": "98353c060f38617a431b96b97f643ca9",
+  "room": {
+    "id": 29273,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Bare walls and warped ceilings converge in this section of the hallway, which is rife with the echoing sounds of dripping water.  Algae and kelp clings to the floor, except where it has been cleared away to display a considerable collection of burning candles."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29263": "south",
+      "29274": "north"
+    },
+    "timeto": {
+      "29263": 0.2,
+      "29274": 0.2
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "5e5ded0ae80524a31cdd6ce2884d4aab",
+  "room": {
+    "id": 19683,
+    "title": [
+      "[Cavernhold, Shrine]"
+    ],
+    "description": [
+      "Carved from a pocket of obsidian and quartz is the shrine dedicated to the Mountain Father and his Sons.  The altar is a plume of polished obsidian.  Clusters of spiked quartz crystals protrude from the walls and small ledges hold offerings."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19681": "northeast",
+      "19684": "south"
+    },
+    "timeto": {
+      "19681": 0.2,
+      "19684": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10049
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      742,
+      806,
+      754,
+      816
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "863ada831910f2c8ccbda1e78dda85ad",
+  "room": {
+    "id": 1559,
+    "title": [
+      "[Solhaven, Changeling Lane]"
+    ],
+    "description": [
+      "A pair of large, purple amphorae stand in bas-relief to either side of an open shop door on Changeling's north side.  The windows flanking the doorway contain ceramic and glass bottles of many shapes and sizes, but all recognizable as common containers for oils of various kinds, from olive oil to strongly scented bath oils."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1557": "west",
+      "1560": "east",
+      "13476": "go building"
+    },
+    "timeto": {
+      "1557": 0.2,
+      "1560": 0.2,
+      "13476": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902068
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      881,
+      1269,
+      905,
+      1293
+    ]
+  }
+}

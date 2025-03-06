@@ -1,0 +1,34 @@
+{
+  "checksum": "cc948f31788fe946a26cc318b5cd0513",
+  "room": {
+    "id": 19885,
+    "title": [
+      "[Cleric Guild, Prayer Room]"
+    ],
+    "description": [
+      "Effigies of the Lords and Ladies of Lornon tower above you, the foreshortening of their features giving their expressions an indefinable arrogance as they gaze down at those who come to worship.  The low stone altar at one end of the circular chamber and any offerings upon it look insignificant, and despite its bulk the massive slab seems to crouch abjectly at the feet of the nearest colossus.  It is cold enough to fog your breath."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19884": "northwest",
+      "26033": "southeast"
+    },
+    "timeto": {
+      "19884": 0.2,
+      "26033": 0.2
+    },
+    "uid": [
+      673009
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      1056,
+      698,
+      1122,
+      761
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "0962f000cd50d76c289fce13f78c56a1",
+  "room": {
+    "id": 30366,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Jagged dark forms are discernible to the south, the moonlight reflecting off their surfaces.  Patches of dark seaweed float atop the ocean waves, moving in rhythm with the swells.  The sound of ocean crashing against rock echoes in the night."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30365": "pedal east",
+      "30367": "pedal west",
+      "30368": "pedal northwest",
+      "30377": "pedal north"
+    },
+    "timeto": {
+      "30365": 6,
+      "30367": 6,
+      "30368": 6,
+      "30377": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216222
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1120,
+      4723,
+      1144,
+      4743
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "493d3e65305c7420a44bbff30f8ca61f",
+  "room": {
+    "id": 11046,
+    "title": [
+      "[Port Valley, Shaded Path]"
+    ],
+    "description": [
+      "Shaded by tall linden trees, this well-tended dirt path is lined with golden flowers.  Bees buzz about them, intent on their own business."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11045": "southwest",
+      "11047": "northeast",
+      "11055": "northwest"
+    },
+    "timeto": {
+      "11045": 0.2,
+      "11047": 0.2,
+      "11055": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      706101
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      902,
+      1343,
+      922,
+      1363
+    ]
+  }
+}

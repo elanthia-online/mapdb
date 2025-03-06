@@ -1,0 +1,45 @@
+{
+  "checksum": "c3ee3247d152cbe914c51d551c3e82bf",
+  "room": {
+    "id": 29877,
+    "title": [
+      "[Rawknuckle's, Watering Hole]"
+    ],
+    "description": [
+      "Low eaves, stained black with smoke, do little to keep out the icy chill of the outdoors, though they have been sealed in many places with acrid pine pitch.  The floor is an artless mosaic of uneven planks, most badly warped, and the nails securing them are more rust than iron.  Behind a carved counter of time-silvered wood is a collection of racks holding dusty bottles in a variety of colors."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29869": "out",
+      "29881": "east",
+      "34399": "/rooms/29877/wayto/stringproc-34399.rb"
+    },
+    "timeto": {
+      "29869": 0.2,
+      "29881": 0.2,
+      "34399": "/rooms/29877/timeto/stringproc-34399.rb"
+    },
+    "tags": [
+      "guard",
+      "advguard",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "urchin-access",
+      "urchin guide guard"
+    ],
+    "uid": [
+      7503251
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      501,
+      1064,
+      518,
+      1082
+    ]
+  }
+}

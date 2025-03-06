@@ -1,0 +1,39 @@
+{
+  "checksum": "85fe712483f877cf389aa72ebb24a162",
+  "room": {
+    "id": 692,
+    "title": [
+      "[Wizard Guild, Library]"
+    ],
+    "description": [
+      "The long rows of bookshelves that line the adjacent halls meet here at the corner of the library.  Faint beams of colored light stream in through a series of arched stained glass windows set high in the walls.  At the juncture of the bookcases, a great marble arch leads out of the library, while a pair of gilded columns marks an entrance to the central atrium to the northwest.",
+      "The long rows of bookshelves that line the adjacent halls meet here at the corner of the library.  Colored light streams in through a series of arched stained glass windows set high in the walls.  At the juncture of the bookcases, a great marble arch leads out of the library, while a pair of gilded columns marks an entrance to the central atrium to the northwest."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "15618": "go arch",
+      "16952": "northwest",
+      "16954": "north",
+      "33828": "west"
+    },
+    "timeto": {
+      "15618": 0.2,
+      "16952": 0.2,
+      "16954": 0.2,
+      "33828": 0.2
+    },
+    "uid": [
+      685028
+    ],
+    "image": "en-ta_illistim-Wizard_Guild-1264234799.gif",
+    "image_coords": [
+      123,
+      418,
+      153,
+      439
+    ]
+  }
+}

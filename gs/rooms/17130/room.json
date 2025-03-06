@@ -1,0 +1,47 @@
+{
+  "checksum": "2da054e04e4b18745bf9c1f011b59de7",
+  "room": {
+    "id": 17130,
+    "title": [
+      "[Cysaegir, Top of Pedestal]"
+    ],
+    "description": [
+      "The air thickens from this vantage point on the pedestal, where alternating shades of paled purple, pink, and white light reflect from the disk above, struggling against the glare of the golden sun.  Like fingers of a blind man, hazy mist traverses the ground to obscure the form of a woman.  Loud creaking sounds, emanating from the warped rocking chair she rests in, are muted significantly by a droning sound like that of a thousand agitated cinder wasps.",
+      "The air thickens from this vantage point on the pedestal, where alternating shades of paled purple, pink, and white light reflect from the disk above, enhancing the pale light of the moon.  Like fingers of a blind man, hazy mist traverses the ground to obscure the form of a woman.  Loud creaking sounds, emanating from the warped rocking chair she rests in, are muted significantly by a droning sound like that of a thousand agitated cinder wasps."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Cysaegir",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4650": "down",
+      "17155": "up",
+      "30717": "/rooms/17130/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4650": 0.2,
+      "17155": 0.2,
+      "30717": "/rooms/17130/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "chronomage",
+      "urchin-access",
+      "urchin guide chronomages",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      14051038
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      457,
+      809,
+      482,
+      833
+    ]
+  }
+}

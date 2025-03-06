@@ -1,0 +1,38 @@
+{
+  "checksum": "e3c0ea7526497a7d3ecf8484cb14c384",
+  "room": {
+    "id": 16767,
+    "title": [
+      "[Temple Wyneb, Effluentorium]"
+    ],
+    "description": [
+      "A steady trickle of water emerges from a crack in the pale green wall and slides down the stone until it joins the stream on the floor.  The air is so humid you can feel the moisture accumulate in your lungs.  There is no choice but to wade through the wide, shallow stream."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16766": "south",
+      "16768": "north"
+    },
+    "timeto": {
+      "16766": 0.2,
+      "16768": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300049
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      662,
+      627,
+      672,
+      637
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "8a2f28dcc684a16b75e666955ba091c7",
+  "room": {
+    "id": 31373,
+    "title": [
+      "[Illithien Aerie, Woodstar Salon]"
+    ],
+    "description": [
+      "Starlight drifts through large paned windows on either side of the entryway, illuminating the circular salon in a silvered glow.  Hooded copper lanterns are suspended along the marble pilasters flanking several bookcases, each stacked floor to ceiling with a variety of tomes and manuscripts.  Several armchairs are arranged around a low table at the center, and a desk stands beneath one of the windows.  A shallow copper brazier emitting wafts of incense rests near the entry."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "31372": "out",
+      "31374": "push nondescript tome"
+    },
+    "timeto": {
+      "31372": 0.2,
+      "31374": 0.2
+    },
+    "tags": [
+      "meta:mho",
+      "meta:mho:The Ilyan Syndicate"
+    ],
+    "uid": [
+      18053008
+    ],
+    "image": "en-ta_illistim-illithien_aerie_mho-1670786460.png",
+    "image_coords": [
+      1087,
+      399,
+      1152,
+      438
+    ]
+  }
+}

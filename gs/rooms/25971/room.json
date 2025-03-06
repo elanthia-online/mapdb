@@ -1,0 +1,41 @@
+{
+  "checksum": "b7d9f3403956a3fe2bb4457eb68e1c9c",
+  "room": {
+    "id": 25971,
+    "title": [
+      "[Patron Suite, Oils]"
+    ],
+    "description": [
+      "The area is infused with a variety of aromas, ranging from musky colognes to flavorful perfumes.  Small windows above provide escape for the oily scents.  Two burnished dark mahogany tables run parallel in the center of the room, each holding a variety of oil pots."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "25861": "/rooms/25971/wayto/stringproc-25861.rb",
+      "25972": "/rooms/25971/wayto/stringproc-25972.rb",
+      "25973": "/rooms/25971/wayto/stringproc-25973.rb"
+    },
+    "timeto": {
+      "25861": 0.2,
+      "25972": 0.2,
+      "25973": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336014
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      208,
+      1197,
+      352,
+      1255
+    ]
+  }
+}

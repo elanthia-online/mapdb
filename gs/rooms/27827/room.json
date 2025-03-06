@@ -1,0 +1,31 @@
+{
+  "checksum": "2f2c918fa6defb29735412d38d60fab2",
+  "room": {
+    "id": 27827,
+    "title": [
+      "[Cholen's Temple, East Hall]"
+    ],
+    "description": [
+      "The wide corridor ends at an arched door inlaid with a crimson-stained lute set in a circle of gold.  Brass lanterns line the walls, spilling golden light in pools across the long crimson rug that traverses the length of the hall.  Three short steps lead up to an elevated door set in the west wall, while an oak door draped with scarlet silk stands further down the corridor in the east wall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "27815": "north",
+      "27824": "go elevated door",
+      "27828": "go oak door",
+      "27829": "go arched door"
+    },
+    "timeto": {
+      "27815": 0.2,
+      "27824": 0.2,
+      "27828": 0.2,
+      "27829": 0.2
+    },
+    "uid": [
+      284026
+    ]
+  }
+}

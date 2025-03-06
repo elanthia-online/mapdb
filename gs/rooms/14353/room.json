@@ -1,0 +1,34 @@
+{
+  "checksum": "9180b2ccc259af24836d7ae9a00bbc6c",
+  "room": {
+    "id": 14353,
+    "title": [
+      "[Solhaven, Beacon Tower]"
+    ],
+    "description": [
+      "Glossy ebonwood banisters, lacquered and etched with mystic runes, wrap the stairwell as it climbs from the base of the tower to the highest landing.  A wide shelf juts outward from the limestone tower walls over an arch that leads to a repaired room.  Gone are the torches of yore, their scorch marks upon the smooth walls the only testament to their existence.  In their place are strange globes holding dancing lights of lime green, which flicker and sputter sporadically."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14234": "down",
+      "14354": "go arch",
+      "14355": "up"
+    },
+    "timeto": {
+      "14234": 0.2,
+      "14354": 0.2,
+      "14355": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4223001
+    ]
+  }
+}

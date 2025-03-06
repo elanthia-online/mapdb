@@ -1,0 +1,40 @@
+{
+  "checksum": "0595f404f5d72acdf711707fe11378dd",
+  "room": {
+    "id": 31366,
+    "title": [
+      "[Illithien Aerie, Snowcap Atrium]"
+    ],
+    "description": [
+      "An arching, engraved copper entryway stands watch over the immense atrium, whose pale marble floor is inlaid with rings of concentric copper and jade to form a complex mandala.  Starlight speckles the floor as it filters through rose-hued window panes, while lit copper braziers keep the shadows at bay.  Twin staircases curve invitingly upward to meet in a broad balcony.  Tapestries provide a discreet screen to the hallway beyond."
+    ],
+    "paths": [
+      "Obvious exits: up, out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "31365": "out",
+      "31367": "go hallway",
+      "31368": "up"
+    },
+    "timeto": {
+      "31365": 0.2,
+      "31367": 0.2,
+      "31368": 0.2
+    },
+    "tags": [
+      "meta:mho",
+      "meta:mho:The Ilyan Syndicate"
+    ],
+    "uid": [
+      18053002
+    ],
+    "image": "en-ta_illistim-illithien_aerie_mho-1670786460.png",
+    "image_coords": [
+      363,
+      977,
+      447,
+      1014
+    ]
+  }
+}

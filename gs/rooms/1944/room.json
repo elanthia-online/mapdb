@@ -1,0 +1,53 @@
+{
+  "checksum": "6d27ca0722f0c24cae97dacb71ce548f",
+  "room": {
+    "id": 1944,
+    "title": [
+      "[Dragonspine and Imflass]"
+    ],
+    "description": [
+      "Dragonspine broadens into a wide plaza, a bazaar paved with grey and white granite flagstones.  The foot traffic, mostly preoccupied dwarves, mingles with ox carts, pack horses, and burros laden with goods.  Vendors have set up wooden booths to peddle their assorted wares."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1932": "south",
+      "1943": "west",
+      "1945": "east",
+      "3668": "/rooms/1944/wayto/stringproc-3668.rb",
+      "12395": "north",
+      "26905": "/rooms/1944/wayto/stringproc-26905.rb",
+      "31558": "/rooms/1944/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "1932": 0.2,
+      "1943": 0.2,
+      "1945": 0.2,
+      "3668": "/rooms/1944/timeto/stringproc-3668.rb",
+      "12395": 0.2,
+      "26905": 2400,
+      "31558": "/rooms/1944/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "meta:teleport",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      3001031
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1038,
+      435,
+      1064,
+      461
+    ]
+  }
+}

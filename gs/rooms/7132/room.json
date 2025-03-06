@@ -1,0 +1,44 @@
+{
+  "checksum": "f53bf6b15ecf34d9b2c78b922ef2ae56",
+  "room": {
+    "id": 7132,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A light breeze blows down this corridor, bringing a putrid scent with it.  The odor seems to cling to the moss growing on the walls, fouling the air for quite a stretch."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7128": "north",
+      "7133": "south"
+    },
+    "timeto": {
+      "7128": 0.2,
+      "7133": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41038
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1082,
+      388,
+      1092,
+      398
+    ]
+  }
+}

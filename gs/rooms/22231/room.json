@@ -1,0 +1,55 @@
+{
+  "checksum": "700297051112f4987c007561a2f941e6",
+  "room": {
+    "id": 22231,
+    "title": [
+      "[A Deep Mist]"
+    ],
+    "description": [
+      "A wall of dark sinuous mist enfolds itself around you, obscuring your vision.  The cold unwelcome blanket suppresses any hope of spotting a way out."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3818": "east",
+      "22230": "northeast"
+    },
+    "timeto": {
+      "3818": 0.2,
+      "22230": 0.2
+    },
+    "tags": [
+      "map:samepath:southeast,northeast,southwest,west",
+      "map:samepath:east,northwest",
+      "map:samepath:north,south",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "white hook mushroom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388018
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      632,
+      1332,
+      642,
+      1342
+    ]
+  }
+}

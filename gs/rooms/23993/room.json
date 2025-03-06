@@ -1,0 +1,35 @@
+{
+  "checksum": "5c399b85763fe445747d67ec1c34a75d",
+  "room": {
+    "id": 23993,
+    "title": [
+      "[Inner Walkway, Entrance]"
+    ],
+    "description": [
+      "The wildness of the wood through the vine-covered archway gives way to an expansive flagstone walkway leading toward a massive limestone coliseum to the west.  Manicured lawns surrounded by impeccably maintained flower beds flank the promenade to the north and south while rows of flowering cherry trees guard the borders of the wood beyond."
+    ],
+    "paths": [
+      "Obvious paths: southwest, west, northwest"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "23992": "go archway",
+      "24010": "northwest",
+      "24012": "west",
+      "24021": "southwest"
+    },
+    "timeto": {
+      "23992": 0.2,
+      "24010": 0.2,
+      "24012": 0.2,
+      "24021": 0.2
+    },
+    "image": "fest-Festival_of_the_Fallen-1442606479.png",
+    "image_coords": [
+      717,
+      276,
+      767,
+      326
+    ]
+  }
+}

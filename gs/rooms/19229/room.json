@@ -1,0 +1,34 @@
+{
+  "checksum": "6501f769bc761b59e2fe70166e0d24f0",
+  "room": {
+    "id": 19229,
+    "title": [
+      "[Dark Tunnel]"
+    ],
+    "description": [
+      "It is too dark here to see anything.  The tunnel is damp and smells musty, although there is a slight hint of air coming from the west.  The floor of the tunnel is firm but uneven."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19228": "east",
+      "19230": "west"
+    },
+    "timeto": {
+      "19228": 0.2,
+      "19230": 0.2
+    },
+    "uid": [
+      263046
+    ],
+    "image": "rr-rogue_guild-1305438533.png",
+    "image_coords": [
+      138,
+      259,
+      161,
+      279
+    ]
+  }
+}

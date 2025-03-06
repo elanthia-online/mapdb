@@ -1,0 +1,54 @@
+{
+  "checksum": "0798aca30a8c4faf901fc7618a4ccef6",
+  "room": {
+    "id": 2643,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A circular marble pillar sits in the middle of a room with thick grey tapestries for walls.  Above this pillar floats a large skull that appears to be serpentine or lizardlike in nature, slowly rotating in a sphere of blue energy.  The skull rotates, morphing into an elven one, then gently spinning again and changing into a human one, then a krolvin skull, then a giant one, and finally back to the serpent one."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/2643/wayto/stringproc-2605.rb",
+      "2635": "/rooms/2643/wayto/stringproc-2635.rb",
+      "12093": "/rooms/2643/wayto/stringproc-12093.rb",
+      "12113": "northeast",
+      "12155": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12113": 0.2,
+      "12155": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567031
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      921,
+      699,
+      931,
+      709
+    ]
+  }
+}

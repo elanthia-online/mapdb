@@ -1,0 +1,34 @@
+{
+  "checksum": "e1dfd6d0b2c922daf01bbfbc8902c308",
+  "room": {
+    "id": 33240,
+    "title": [
+      "[Bliss Island, Beach]"
+    ],
+    "description": [
+      "Lapping waters caress the peaceful beach, the surf creating a gentle rhythm like the heartbeat of the secluded island.  Scattered about are variegated seashells that have washed up onto shore over time.  Bathed in moonlight, a lone palm has been sent swaying in the tropical night, casting a dancing shadow against the pale sand."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "33239": "north",
+      "33241": "swim surf"
+    },
+    "timeto": {
+      "33239": 0.2,
+      "33241": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3223942
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "a38a35cfc3c5ad05c66ffaa85f4b3e18",
+  "room": {
+    "id": 32259,
+    "title": [
+      "[Hollowlair, Dreadgrounds]"
+    ],
+    "description": [
+      "The surface of this barren place is extremely hot, with plumes of sulfur pouring out from vents in the ground.  The air is choked with smoke, and it feels dangerous to breathe.  The monolithic stone door standing guard over this area is sealed closed from this side.",
+      "The surface of this barren place is extremely hot, with plumes of sulfur pouring out from vents in the ground.  The air is choked with smoke, and it feels dangerous to breathe.  The monolithic stone door standing guard over this area is sealed open from this side."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "32258": "go door",
+      "32260": "northeast",
+      "32263": "northwest"
+    },
+    "timeto": {
+      "32258": 0.2,
+      "32260": 0.2,
+      "32263": 0.2
+    },
+    "uid": [
+      8088051
+    ]
+  }
+}

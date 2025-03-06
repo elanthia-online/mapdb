@@ -1,0 +1,28 @@
+{
+  "checksum": "12a298d177189cddd51670a3ae3347c9",
+  "room": {
+    "id": 24109,
+    "title": [
+      "[Necropolis, Ascendant]"
+    ],
+    "description": [
+      "Torches mounted in iron sconces encompass the room, casting a dim light that barely reaches the hewn stone of the ceiling.  Two mummified corpses, clothed in tattered robes, have been tossed into an alcove set into the eastern wall.  To the north is an expansive stone door which appears closed."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24108": "go stone stairwell",
+      "24110": "southeast",
+      "24111": "southwest",
+      "24113": "/rooms/24109/wayto/stringproc-24113.rb"
+    },
+    "timeto": {
+      "24108": 0.2,
+      "24110": 0.2,
+      "24111": 0.2,
+      "24113": 0.2
+    }
+  }
+}

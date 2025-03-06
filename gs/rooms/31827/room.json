@@ -1,0 +1,41 @@
+{
+  "checksum": "343152c63379213bc06e6d88e9a869e8",
+  "room": {
+    "id": 31827,
+    "title": [
+      "[Gleyminn Anni River, Cavern]"
+    ],
+    "description": [
+      "A faint light to the east illuminates a craggy cave mouth filled by the dark waters of a slow-moving river.  Lanterns have been tucked into niches around the grotto, their flickering flames creating dancing shadows on the limestone.  Water drips slowly from the stalactites overhead, each drop into the river reverberating around the cavern."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31824": "/rooms/31827/wayto/stringproc-31824.rb",
+      "31828": "/rooms/31827/wayto/stringproc-31828.rb"
+    },
+    "timeto": {
+      "31824": 0.2,
+      "31828": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083407
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1215,
+      838,
+      1235,
+      859
+    ]
+  }
+}

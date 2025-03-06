@@ -1,0 +1,49 @@
+{
+  "checksum": "aa7eedb711f6533150dec37dc03a5fdc",
+  "room": {
+    "id": 12171,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A stout wooden wall impedes your progress forward.  In the center of the wall, on a large yellowed parchment, is a poster.  The poster is a side view of a man laying in a coffin or box of some kind.  Small arrows point to parts of the picture, and in an unknown language describe some of the things in it.  A second, older poster next to the first has the picture of an old, one-eyed dark elf with the number \"12000\" below it."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest",
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12171/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12171/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12171/wayto/stringproc-12093.rb",
+      "12169": "northwest",
+      "12172": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12169": 0.2,
+      "12172": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4567042
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1030,
+      727,
+      1038,
+      735
+    ]
+  }
+}

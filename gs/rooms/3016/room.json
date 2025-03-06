@@ -1,0 +1,41 @@
+{
+  "checksum": "c86845194e091f72521b35d645444b6f",
+  "room": {
+    "id": 3016,
+    "title": [
+      "[Snow Fort, Tunnel]"
+    ],
+    "description": [
+      "This round tunnel through the ice twists and turns towards an upward slope.  The shimmering ice crystals are nearly blinding in their beauty, their light dancing across the remains of a fallen statue lying near one wall.  The statue may have been beautiful in its day, but now lies scattered in pieces on the floor."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, up"
+    ],
+    "location": "the High Plains",
+    "wayto": {
+      "3015": "southwest",
+      "3017": "up",
+      "3024": "east"
+    },
+    "timeto": {
+      "3015": 0.2,
+      "3017": 0.2,
+      "3024": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129101
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      434,
+      847,
+      444,
+      857
+    ]
+  }
+}

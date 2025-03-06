@@ -1,0 +1,50 @@
+{
+  "checksum": "f2dc322bc71ff35694da8930afeb5d85",
+  "room": {
+    "id": 7753,
+    "title": [
+      "[Mossy Caverns, Tunnel]"
+    ],
+    "description": [
+      "Small patches of glowing moss sprout from the tunnel walls here.  From the north, you hear a screeching wail that makes your skin crawl.  Southwest, the tunnel appears to open into a massive cavern."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7752": "southwest",
+      "7754": "north"
+    },
+    "timeto": {
+      "7752": 0.2,
+      "7754": 0.2
+    },
+    "tags": [
+      "pothinir grass",
+      "withered black mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4381015
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      1055,
+      1290,
+      1065,
+      1300
+    ]
+  }
+}

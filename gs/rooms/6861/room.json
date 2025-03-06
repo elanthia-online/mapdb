@@ -1,0 +1,38 @@
+{
+  "checksum": "83cf59f7b1dd147bacbc14a6c2916011",
+  "room": {
+    "id": 6861,
+    "title": [
+      "[Abandoned Inn, Guest Room]"
+    ],
+    "description": [
+      "This room is larger than the rest of the guestrooms.  Several chairs and a small sofa provide a cozy sitting area, and a large bed leans against the wall behind them.  Rich purples and violets give the room a slightly regal touch, as if this room were perhaps meant for finer travellers passing through on their way to important business."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6856": "go door",
+      "6862": "south"
+    },
+    "timeto": {
+      "6856": 0.2,
+      "6862": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21123
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      816,
+      1293,
+      826,
+      1303
+    ]
+  }
+}

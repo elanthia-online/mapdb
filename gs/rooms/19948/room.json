@@ -1,0 +1,33 @@
+{
+  "checksum": "05ff829eec2efdf2f73b7267c95bebe4",
+  "room": {
+    "id": 19948,
+    "title": [
+      "[Museum, Cabinet of Curiosities]"
+    ],
+    "description": [
+      "This small room is crammed from floor to ceiling with shelves and cases.  All varieties of artifacts rest on their surfaces.  A row of goblin skulls on a high shelf transitions from prehistoric to modern day, and several bulbous eyeballs in clear glass jars glint from the shelf below, reflecting light from the glass-paned oil lanterns that dot the room.  On the north wall, a narrow door rests between two tall cabinets, while to the south, a bloody tapestry ripples slightly in an occasional cold draft."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19965": "go door",
+      "19970": "go stone passage"
+    },
+    "timeto": {
+      "19965": 0.2,
+      "19970": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28137
+    ]
+  }
+}

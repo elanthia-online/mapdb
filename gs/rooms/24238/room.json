@@ -1,0 +1,24 @@
+{
+  "checksum": "ebd2a13f45ae8458cc9c0cecb027769a",
+  "room": {
+    "id": 24238,
+    "title": [
+      "[Smuggling Tunnels, Geyser]"
+    ],
+    "description": [
+      "The temperature in this area is much cooler than the previous cavern, and dampness coats everything in the reach of a slick opening in the ground.  An opening in the ceiling appears to be a pathway out.  Adjacent a gaping hole in the wall, a massive rockslide blocks passage to the northeast."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "21557": "/rooms/24238/wayto/stringproc-21557.rb",
+      "24239": "go gaping hole"
+    },
+    "timeto": {
+      "21557": 300,
+      "24239": 0.2
+    }
+  }
+}

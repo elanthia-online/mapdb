@@ -1,0 +1,26 @@
+{
+  "checksum": "da1b95da8337701c2f74d13b6d63c863",
+  "room": {
+    "id": 15370,
+    "title": [
+      "[Rosewyn's General Store]",
+      "[Rosewyn's Magic Shoppe]"
+    ],
+    "description": [
+      "A portrait hangs on one of the glossy mistwood walls, and a vaulted ceiling rises overhead.  A bronzed drake sculpture sits in one corner of an enameled hardwood floor.  There is a gilded maple cabinet on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15061": "south"
+    },
+    "timeto": {
+      "15061": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "c7e5491ddef830718300c904f4d66165",
+  "room": {
+    "id": 528,
+    "title": [
+      "[Ta'Illistim, Shimmarglin Court]"
+    ],
+    "description": [
+      "Townsfolk meander into and out of the city's weaponry shop, carrying fat purses on the way in and large packages on the way out.  Three of the city guardsmen stand near the establishment's door, keeping a watchful eye on the comings and goings.",
+      "A square stone shop, ringed with columns on all four faces, stands at the edge of the courtyard.  To either of side of it are buildings of white marble, though the square building is, instead, silvery blue granite.  A floating dais hovers over the center of the open space.",
+      "A square stone shop, ringed with columns on all four faces, stands at the edge of the courtyard.  To either of side of it are buildings of white marble, though the square building is, instead, silvery blue granite.  A series of smaller, less permanent stalls have been erected in front of all of the storefronts, hovered over by a floating dais."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "187": "northwest",
+      "188": "go dais",
+      "529": "southeast",
+      "602": "go shop"
+    },
+    "timeto": {
+      "187": 0.2,
+      "188": 0.2,
+      "529": 0.2,
+      "602": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100041
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1270,
+      513,
+      1293,
+      532
+    ]
+  }
+}

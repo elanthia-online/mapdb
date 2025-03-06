@@ -1,0 +1,43 @@
+{
+  "checksum": "c4b9f34baf7239668c4948ab5da7c112",
+  "room": {
+    "id": 26800,
+    "title": [
+      "[Ta'Illistim Keep, Hallway]"
+    ],
+    "description": [
+      "Crafted entirely of silvery grey stone, the blocks fit together seamlessly creating the smooth passage walls.  Set into a shallow recess is a narrow archway covered with a peacock blue silk curtain."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18140": "south",
+      "26801": "/rooms/26800/wayto/stringproc-26801.rb",
+      "26802": "/rooms/26800/wayto/stringproc-26802.rb",
+      "26803": "go curtain",
+      "32733": "north"
+    },
+    "timeto": {
+      "18140": 1,
+      "26801": 0.5,
+      "26802": 0.5,
+      "26803": 240,
+      "32733": 0.2
+    },
+    "tags": [
+      "publiclockers",
+      "public lockers",
+      "public locker",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13102016
+    ]
+  }
+}

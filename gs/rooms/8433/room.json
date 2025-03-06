@@ -1,0 +1,77 @@
+{
+  "checksum": "b17b4f745d933c92385c224d676a08e2",
+  "room": {
+    "id": 8433,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The path splits three ways here.  The most traveled branch heads off to the north, towards the sound of running water.  The second branch heads off to the south and disappears over a heavily forest hill.  The third, and least visible, path runs off to the east towards a low boggy region."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "mountainous",
+    "wayto": {
+      "8432": "north",
+      "8434": "south",
+      "8540": "east"
+    },
+    "timeto": {
+      "8432": 0.2,
+      "8434": 0.2,
+      "8540": 0.2
+    },
+    "tags": [
+      "forest troll",
+      "golden aster",
+      "small apple",
+      "stalk of bluebells",
+      "angelica root",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "yellow primrose",
+      "sprig of holly",
+      "sprig of ivy",
+      "pepperthorn root",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "alder bark",
+      "deep purple shockroot",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "rhubarb",
+      "stalk of celery",
+      "leek",
+      "shallot",
+      "hop flowers",
+      "agave heart",
+      "meta:forage-sensed:night:2023-02",
+      "dwarf billberry",
+      "round grumbleberry",
+      "birch bark",
+      "small watermelon",
+      "cherry peppers",
+      "fresh catnip",
+      "peppermint leaves",
+      "sprig of rooibos",
+      "sun-wilted tea leaves",
+      "lemon balm",
+      "lemon verbena",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16004
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      714,
+      572,
+      724,
+      582
+    ]
+  }
+}

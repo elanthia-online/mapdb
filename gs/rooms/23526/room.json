@@ -1,0 +1,53 @@
+{
+  "checksum": "a4024f7e72f9553c18f13f326324b453",
+  "room": {
+    "id": 23526,
+    "title": [
+      "[Mistydeep, Northern Strand]"
+    ],
+    "description": [
+      "Thrashing furiously against the current, large, gleaming fish leap from the water, occasionally flapping against the rocks in their attempt to push northward.  Indifferent to their plight, the Mistydeep River gushes onward, scrambling headlong over every obstacle in its path.  The resultant white water kicks up a sparkling spray that spatters the shore.  Within a small oxbow, a beaver dam takes shape as the sleek animals scurry industriously to and fro.",
+      "Thrashing furiously against the current, large, gleaming fish leap from the water, occasionally flapping against the rocks in their attempt to push northward.  Indifferent to their plight, the Mistydeep River gushes onward, scrambling headlong over every obstacle in its path.  The resultant white water kicks up a sparkling spray that spatters the shore.  Within a small oxbow, a partial beaver dam squats silently in the water as its builders sleep."
+    ],
+    "paths": [
+      "Obvious paths: north, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "23525": "/rooms/23526/wayto/stringproc-23525.rb",
+      "23527": "/rooms/23526/wayto/stringproc-23527.rb",
+      "25544": "/rooms/23526/wayto/stringproc-25544.rb",
+      "30514": "swim down"
+    },
+    "timeto": {
+      "23525": "/rooms/23526/timeto/stringproc-23525.rb",
+      "23527": "/rooms/23526/timeto/stringproc-23527.rb",
+      "25544": "/rooms/23526/timeto/stringproc-25544.rb",
+      "30514": "/rooms/23526/timeto/stringproc-30514.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117024
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1277,
+      924,
+      1306,
+      953
+    ]
+  }
+}

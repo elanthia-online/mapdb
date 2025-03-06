@@ -1,0 +1,75 @@
+{
+  "checksum": "23110c0da7a3f49770447a3b04e988d4",
+  "room": {
+    "id": 11032,
+    "title": [
+      "[South River Road]"
+    ],
+    "description": [
+      "The trees alongside the road filter out the majority of the sound from the falls to the northeast, shielding your ears from the noise.  The road also runs westward along the bank of the river."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the South River Road",
+    "climate": "moist",
+    "terrain": "riparian",
+    "wayto": {
+      "6274": "/rooms/11032/wayto/stringproc-6274.rb",
+      "11025": "west",
+      "11033": "northeast",
+      "16015": "go pathway",
+      "16016": "go rough-cut track"
+    },
+    "timeto": {
+      "6274": 100,
+      "11025": 0.2,
+      "11033": 0.2,
+      "16015": 0.2,
+      "16016": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "boot",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "striped heart mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "water chestnut",
+      "stalk of cattail",
+      "stalk of bluebells",
+      "wild chokecherry",
+      "bright red cranberry",
+      "kylan berry",
+      "murdroot",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "talneo root",
+      "banana leaf",
+      "meta:forage-sensed",
+      "golden flax fronds",
+      "cassava root",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "bright orange",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2104014
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2611,
+      1565,
+      2633,
+      1588
+    ]
+  }
+}

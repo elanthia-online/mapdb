@@ -1,0 +1,48 @@
+{
+  "checksum": "3dd598a494171d6be0a535061843f10b",
+  "room": {
+    "id": 5376,
+    "title": [
+      "[Noman's Land, Cave]"
+    ],
+    "description": [
+      "A large pile of rocks in the center of this chamber has been festooned with scraps of once-colorful cloth, polished bones and shiny bits of metal.  One particularly large skull is perched atop the pile, a bright piece of red glaes set into its single eye-socket."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Noman's Land",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5375": "west",
+      "5377": "east",
+      "5378": "south"
+    },
+    "timeto": {
+      "5375": 0.2,
+      "5377": 0.2,
+      "5378": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cyclops",
+      "wolifrew lichen",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4600018
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      265,
+      638,
+      275,
+      648
+    ]
+  }
+}

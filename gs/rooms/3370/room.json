@@ -1,0 +1,44 @@
+{
+  "checksum": "b7f5e1faf3cb8fc45a5ef6ae167543e6",
+  "room": {
+    "id": 3370,
+    "title": [
+      "[Icemule Trace, Bank]"
+    ],
+    "description": [
+      "A row of highly polished brass teller windows lines the back wall of the bank.  Staggered in height from short to tall, their ledges comfortably accommodate travellers of all sizes.  Suspended from the ceiling is a gilded silver sign."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2426": "out",
+      "3371": "go booth",
+      "30709": "/rooms/3370/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2426": 0.2,
+      "3371": 0.2,
+      "30709": "/rooms/3370/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "bank",
+      "urchin-access",
+      "urchin guide bank",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4043301
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      671,
+      787,
+      707,
+      823
+    ]
+  }
+}

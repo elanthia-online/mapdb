@@ -1,0 +1,30 @@
+{
+  "checksum": "079d5cc9296f74ae6c349b698ec6856a",
+  "room": {
+    "id": 15683,
+    "title": [
+      "[Brinemead's Outfitting]",
+      "[Brinemead's General Store]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A low wrought iron table and a smooth plaster counter stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3440": "out",
+      "15810": "west",
+      "15811": "east"
+    },
+    "timeto": {
+      "3440": 0.2,
+      "15810": 0.2,
+      "15811": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

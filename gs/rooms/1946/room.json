@@ -1,0 +1,44 @@
+{
+  "checksum": "c31c079a77222f488ceb33b47b1ed191",
+  "room": {
+    "id": 1946,
+    "title": [
+      "[Imflass Street]"
+    ],
+    "description": [
+      "The street is drilled into the canyon wall here.  The dwarves wandering out of the tunnel blink in the moonlight.  Some children are playing by some bushes planted just south of the road.  They run about frantically, searching for something.",
+      "The street is drilled into the canyon wall here.  The dwarves wandering out of the tunnel blink and squint in the light.  Some children are playing by some bushes planted just south of the road.  They run about frantically, searching for something."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1945": "west",
+      "1947": "east",
+      "33825": "go shop"
+    },
+    "timeto": {
+      "1945": 0.2,
+      "1947": 0.2,
+      "33825": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001033
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1216,
+      434,
+      1246,
+      464
+    ]
+  }
+}

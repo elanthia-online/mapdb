@@ -1,0 +1,31 @@
+{
+  "checksum": "17dd2739e2bb9f5552e67362831398bd",
+  "room": {
+    "id": 26251,
+    "title": [
+      "[Lich's Landing, Corpse Row]"
+    ],
+    "description": [
+      "Grisly zombies meander along the road, bits of flesh dangling loose from their pallid skin.  A black crow squawks from the edge of a broken wagon."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26250": "south",
+      "26252": "north"
+    },
+    "timeto": {
+      "26250": 0.2,
+      "26252": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      317,
+      265,
+      344,
+      291
+    ]
+  }
+}

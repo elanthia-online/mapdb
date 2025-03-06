@@ -1,0 +1,47 @@
+{
+  "checksum": "564dddce994a8c8827a5929e341c0df0",
+  "room": {
+    "id": 10879,
+    "title": [
+      "[Plaza of Stars]"
+    ],
+    "description": [
+      "A large plaza fronts the imposing facade of the Jastev Amphitheater, which is linked to its companion Bard Guild via a beautifully arched covered walkway.  The tile paving the plaza is laid in alternating bands of color, soft salmon contrasted with ivory, the tone and pattern matched in the walls of the buildings.  A statue stands in the plaza's center and a wide bank of stairs leads up to the amphitheater's entrance, at least a story higher than the plaza's floor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10878": "go pathway",
+      "10880": "go stairs",
+      "25601": "go arched walkway",
+      "30711": "/rooms/10879/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10878": 0.2,
+      "10880": 0.2,
+      "25601": 0.2,
+      "30711": "/rooms/10879/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "bardguild",
+      "urchin-access",
+      "urchin guide bardguild",
+      "bard guild",
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      283007
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2786,
+      611,
+      2823,
+      649
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "74d909fde85230ef929f91b09b1a6a0c",
+  "room": {
+    "id": 26,
+    "title": [
+      "[Ta'Illistim, Glaendier Wey]"
+    ],
+    "description": [
+      "The cobblestoned wey widens abruptly as it meets Shimmarglin Court.  The hue and cry from the denizens of the huge plaza echoes off the stone buildings lining the wey.  A trickle of patrons flows to and from a nearby well-kept cottage.",
+      "The cobblestoned wey widens abruptly as it meets the edge of Shimmarglin Court.  Perched at the juncture between the road and the open space is a elevated shop, raised up three steps and set with tapered marble columns.",
+      "The cobblestoned wey widens abruptly as it meets the edge of Shimmarglin Court.  Perched at the juncture between the road and the open space is an elevated shop, raised up three steps and set with tapered marble columns."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25": "west",
+      "27": "northeast",
+      "1439": "go shop"
+    },
+    "timeto": {
+      "25": 0.2,
+      "27": 0.2,
+      "1439": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100029
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1150,
+      771,
+      1173,
+      794
+    ]
+  }
+}

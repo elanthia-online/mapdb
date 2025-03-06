@@ -1,0 +1,42 @@
+{
+  "checksum": "854d741df21f672c865af3a480eda0ae",
+  "room": {
+    "id": 10836,
+    "title": [
+      "[Ta'Illistim, Gateyard]"
+    ],
+    "description": [
+      "A small guardroom has been built into the city's massive stone wall, the room large enough to hold several guards but still insignificant compared to the enormous city wall.  An open window allows the guardsman within to keep a watchful eye on the gateyard's ever-changing occupancy.",
+      "A small guardroom has been built into the city's massive stone wall, the room large enough to potentially hold several guards but still insignificant compared to the enormous city wall.  An open window allows anyone on-duty within to keep a watchful eye on the gateyard's ever-changing occupancy."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "37": "east",
+      "10837": "west"
+    },
+    "timeto": {
+      "37": 0.2,
+      "10837": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100002
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1580,
+      807,
+      1602,
+      829
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "20c3950541c7b52a416acaae79f37992",
+  "room": {
+    "id": 13742,
+    "title": [
+      "[Savina's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by plain wooden walls, the shop features a worn rug in the center of its wooden floor.  A tattered merchant permit hangs under the wooden ceiling.  Right near the front is a spacious grey slate counter and a long brass clothing rack."
+    ],
+    "paths": [
+      "Obvious exits: north, out",
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9014": "out",
+      "13757": "north",
+      "24801": "east"
+    },
+    "timeto": {
+      "9014": 0.2,
+      "13757": 0.2,
+      "24801": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      639377
+    ]
+  }
+}

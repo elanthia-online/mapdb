@@ -1,0 +1,33 @@
+{
+  "checksum": "3ade10e093c3b5346494ed7e3557edc2",
+  "room": {
+    "id": 14005,
+    "title": [
+      "[Silverwood Manor, Awards Hall]"
+    ],
+    "description": [
+      "The northern wall of this rather long hallway is lined with plaques and framed squares of parchment, with clear glass sconces strategically placed to allow for perfect illumination.  Opposite the display is a massive stone doorway inlaid with silver scrollwork.  Thick carpeting is designed to muffle even the heaviest of footsteps, giving this area a somewhat hushed, reverent atmosphere.  Marking the termination of the hallway is a pair of stained glass doors."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13532": "west",
+      "14006": "go doors",
+      "14007": "go doorway"
+    },
+    "timeto": {
+      "13532": 0.2,
+      "14006": 0.2,
+      "14007": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384005
+    ]
+  }
+}

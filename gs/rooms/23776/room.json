@@ -1,0 +1,36 @@
+{
+  "checksum": "212ca91f7aca928cc7d4a1aa2502df98",
+  "room": {
+    "id": 23776,
+    "title": [
+      "[Duskruin Arena, Entrance]"
+    ],
+    "description": [
+      "To either side of a set of stone steps stands a large suit of armor, one in golvern and the other in vultite, each polished to a shine.  Above them, carved into the stone itself are large letters spelling out the word, \"DUSKRUIN\"."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23775": "north",
+      "23777": "south",
+      "23794": "go steps"
+    },
+    "timeto": {
+      "23775": 0.2,
+      "23777": 0.2,
+      "23794": 0.2
+    },
+    "uid": [
+      8213005
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1203,
+      369,
+      1231,
+      399
+    ]
+  }
+}

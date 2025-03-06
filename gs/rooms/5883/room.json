@@ -1,0 +1,37 @@
+{
+  "checksum": "92cad4134e9e20aae08eaa63212e5c03",
+  "room": {
+    "id": 5883,
+    "title": [
+      "[Stone Turret, Ground Floor]"
+    ],
+    "description": [
+      "The cool, stony darkness of this circular room is pierced by a shaft of sunlight coming through the open doorway.  A thick carpet softens the footsteps of the well-heeled gentry who stop to chat with the staff seated at a long table before ascending a twisting stone staircase.",
+      "A dozen tiny lamps, flickering in the draft coming through the open doorway, light this stone-walled, circular room.  A thick carpet softens the footsteps of the well-heeled gentry who stop to chat with the staff seated at a long table before ascending a twisting stone staircase."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Victory Road",
+    "wayto": {
+      "5952": "out",
+      "13779": "go staircase",
+      "30713": "/rooms/5883/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "5952": 0.2,
+      "13779": 0.2,
+      "30713": "/rooms/5883/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "chronomage",
+      "urchin-access",
+      "urchin guide chronomages",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      14004100
+    ]
+  }
+}

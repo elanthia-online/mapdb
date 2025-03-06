@@ -1,0 +1,41 @@
+{
+  "checksum": "0f08396b8d17bda5157480237f65c219",
+  "room": {
+    "id": 27702,
+    "title": [
+      "[South Barbican, East Tower]"
+    ],
+    "description": [
+      "A small cross-hatched window looks out to the wilds beyond the gate, and a few torn, bloodied bandages hang along a series of nails hammered into its lower edge -- simple tokens testifying to the bravery of the local guard.  A long, winding staircase edges the round walls of the barbican tower, the shallow steps defended by an iron-barred gate."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2412": "go out",
+      "27703": "go gate"
+    },
+    "timeto": {
+      "2412": 0.2,
+      "27703": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4050106
+    ],
+    "image": "imt-Town_Walls_Map-1707071672.png",
+    "image_coords": [
+      520,
+      645,
+      556,
+      674
+    ]
+  }
+}

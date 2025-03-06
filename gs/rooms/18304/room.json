@@ -1,0 +1,45 @@
+{
+  "checksum": "4c86bf2ce4fbbcdcb9c0bc0e4c85a25a",
+  "room": {
+    "id": 18304,
+    "title": [
+      "[Saewehna Jungle, Swamp]"
+    ],
+    "description": [
+      "Woody vines hang in the shadows from the nearby trees, looking like slimy locks of hair in the dimness.  Light is at a premium in the depths of night, the faint luminescence from a few toadstools offering what little ambient illumination can be found.  Hindering travel, ankle-deep mud spreads across the ground, the overpowering scent of decay rising from its surface."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, northwest"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "freshwater",
+    "terrain": "plain dirt",
+    "wayto": {
+      "18301": "southwest",
+      "18305": "northwest",
+      "18306": "south"
+    },
+    "timeto": {
+      "18301": 0.2,
+      "18305": 0.2,
+      "18306": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3210458
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      967,
+      595,
+      1018,
+      644
+    ]
+  }
+}

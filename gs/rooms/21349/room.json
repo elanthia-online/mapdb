@@ -1,0 +1,41 @@
+{
+  "checksum": "8cbb3fbe3d03a13c59a8fa259ebf2214",
+  "room": {
+    "id": 21349,
+    "title": [
+      "[House Sylvanfair, Alcove]"
+    ],
+    "description": [
+      "The leafy ceiling is low here, which doesn't leave much room to move about.  A thin green curtain leads to a small locker room."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21346": "north",
+      "21347": "go curtain",
+      "21350": "northeast",
+      "33050": "go green curtain"
+    },
+    "timeto": {
+      "21346": 0.2,
+      "21347": 0.2,
+      "21350": 0.2,
+      "33050": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211004
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      644,
+      420,
+      685,
+      460
+    ]
+  }
+}

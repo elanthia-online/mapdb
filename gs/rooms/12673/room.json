@@ -1,0 +1,42 @@
+{
+  "checksum": "79079de2cce69c87914c383f72ac89fb",
+  "room": {
+    "id": 12673,
+    "title": [
+      "[Teras Isle, Underwater]"
+    ],
+    "description": [
+      "Light streams gently through the water from the surface above as the trench opens into a large, underwater chasm.  Innumberable species of brightly colored life seem to ignore any encroachment into their habitat, swimming, skittering, and floating about with limitless abandon.",
+      "Light streams gently through the water from the surface above as the trench opens into a large, underwater chasm.  Innumerable species of brightly colored life seem to ignore any encroachment into their habitat, swimming, skittering, and floating about with limitless abandon."
+    ],
+    "paths": [
+      "Obvious paths: east",
+      ""
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12662": "/rooms/12673/wayto/stringproc-12662.rb",
+      "12677": "/rooms/12673/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12673/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "12662": 45,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "meta:map:ignore-blanks",
+      "meta:underwater"
+    ],
+    "uid": [
+      3031020
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      1172,
+      1028,
+      1192,
+      1048
+    ]
+  }
+}

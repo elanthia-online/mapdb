@@ -1,0 +1,48 @@
+{
+  "checksum": "f59551952450b2470b202c0ab4a8a9e1",
+  "room": {
+    "id": 2366,
+    "title": [
+      "[Magical Burrow, Banshee Lane]"
+    ],
+    "description": [
+      "Small magical shops offering cure-all potions and other far-fetched elixirs line the narrow ribbon of cobblestone street.  Peddlers, the halfling ones standing atop crates to better their vantage and visibility, hawk their wares loudly and more quietly try to convince passersby of their authenticity.  Only the occasional street lamp stands along the roadside, their bases fashioned in the shapes of hollow-eyed banshees, and the shadows of the lamp posts stretch long across the thoroughfare.",
+      "Small magical shops offering cure-all potions line the street.  Peddlers walk by trying to sell their wares and to convince travellers that they are effective."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, southwest, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2365": "northwest",
+      "2367": "southeast",
+      "2380": "southwest",
+      "3353": "east",
+      "3356": "northeast"
+    },
+    "timeto": {
+      "2365": 0.2,
+      "2367": 0.2,
+      "2380": 0.2,
+      "3353": 0.2,
+      "3356": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042107
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      227,
+      607,
+      263,
+      643
+    ]
+  }
+}

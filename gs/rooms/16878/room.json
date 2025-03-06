@@ -1,0 +1,29 @@
+{
+  "checksum": "7691cd2286eaa5f0491f051fe7d3775b",
+  "room": {
+    "id": 16878,
+    "title": [
+      "[Lewk's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A twisted invar rack and a plain wooden table sit in opposite corners while a worn rug rests on a rough stone floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9425": "out",
+      "16884": "east",
+      "16885": "north"
+    },
+    "timeto": {
+      "9425": 0.2,
+      "16884": 0.2,
+      "16885": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "1820db4e8939684acfcf59b9f35d1b4f",
+  "room": {
+    "id": 18042,
+    "title": [
+      "[Wizard Guild, Foyer]"
+    ],
+    "description": [
+      "Upward-sweeping arches of stone, impossibly slender yet seemingly ageless, rise overhead to meet around a slender shaft.  Between the stonework, panels of stained and clear glass allow starlight to stream into this roughly triangular room.  The outlines of the three towers of the guildhall are clearly visible, as well."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18041": "out",
+      "18043": "go steps",
+      "18044": "go doors",
+      "18045": "southeast",
+      "18046": "northeast"
+    },
+    "timeto": {
+      "18041": 0.2,
+      "18043": 0.2,
+      "18044": 0.2,
+      "18045": 0.2,
+      "18046": 0.2
+    },
+    "uid": [
+      687002
+    ],
+    "image": "en-ta_vaalor_wizard_guild-1649013056.jpg",
+    "image_coords": [
+      355,
+      835,
+      420,
+      899
+    ]
+  }
+}

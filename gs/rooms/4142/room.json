@@ -1,0 +1,43 @@
+{
+  "checksum": "3e3857027ea87e0d709faa914f5e36c1",
+  "room": {
+    "id": 4142,
+    "title": [
+      "[Graveyard, Crypt]"
+    ],
+    "description": [
+      "The entry foyer to this enormous granite crypt is stark, adorned only with grisly friezes sculpted in low relief into the walls.  Bands of bluish-green ahnver are inlaid into the stone in thin strips just below the ceiling throughout the entire structure, bathing the rooms in a subtle light.  A shadowy arch curves overhead and leads deeper into the inner sanctum of the sepulcher."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4141": "out",
+      "4143": "go arch"
+    },
+    "timeto": {
+      "4141": 0.2,
+      "4143": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:mapname:Wehnimer's Landing - Graveyard",
+      "meta:mapshortname:Graveyard",
+      "meta:mapcategory:Wehnimer's Landing",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      568,
+      896,
+      578,
+      906
+    ]
+  }
+}

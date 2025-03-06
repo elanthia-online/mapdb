@@ -1,0 +1,29 @@
+{
+  "checksum": "d7ee29ba74269612f91df731016db8ce",
+  "room": {
+    "id": 26047,
+    "title": [
+      "[Balgamar's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by plain wooden walls, the shop features a worn rug in the center of its wooden floor.  A tattered merchant permit hangs under the wooden ceiling.  Right near the front is a long varnished counter and a lacquered wooden shelf."
+    ],
+    "paths": [
+      "Obvious exits: south, west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3444": "out",
+      "26049": "west",
+      "26050": "south"
+    },
+    "timeto": {
+      "3444": 0.2,
+      "26049": 0.2,
+      "26050": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

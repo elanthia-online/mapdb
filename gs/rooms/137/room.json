@@ -1,0 +1,38 @@
+{
+  "checksum": "a18e6039a13425b8a6b8c6079572c68e",
+  "room": {
+    "id": 137,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "A fluttering at the edge of your vision draws your eye upward, where it hits upon a swaying canopy of bats clinging to the ceiling as they rest.  It would probably be prudent to let them sleep, rather than risk the disease even a single bite might inflict."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "136": "southeast",
+      "138": "west"
+    },
+    "timeto": {
+      "136": 0.2,
+      "138": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300005
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      745,
+      439,
+      755,
+      449
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "f6d3d70b6f8a91879630e1921ce6bb5c",
+  "room": {
+    "id": 31581,
+    "title": [
+      "[Otherworldy Wealth, Entry]"
+    ],
+    "description": [
+      "Customers, both corporeal and ethereal, pass through the high-arched witchwood doors framing the grey stone building, the sounds of coin-handling muffled by the embroidered tapestries suspended from floor to ceiling.  The vine-engulfed counters are separated by tall dividers formed from lacquered scraps of parchment, their surfaces scrawled in a variety of languages.  An avian skeleton gazes from atop a stack of books, mimicking the motions of preening itself as it attempts to stretch its bone-set wings."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31580": "out",
+      "31775": "east"
+    },
+    "timeto": {
+      "31580": 0.2,
+      "31775": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084061
+    ]
+  }
+}

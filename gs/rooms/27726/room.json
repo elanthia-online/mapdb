@@ -1,0 +1,43 @@
+{
+  "checksum": "88c85b0adf07123168353a07e0a3a7ed",
+  "room": {
+    "id": 27726,
+    "title": [
+      "[Icemule Defenses, East Wall]"
+    ],
+    "description": [
+      "The wall ends in a tall barbican tower to the north, keeping watch over the East Gate of Icemule Trace.  A few adventurers wander through the gate at all times of day and night, some eager to test themselves against the wilds and some bearing the wounds and treasure that mark the relative success of their ventures.  To the west across the narrow Trade Alley stands the city jail."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious paths: south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "27719": "north",
+      "27725": "climb rope",
+      "27727": "south"
+    },
+    "timeto": {
+      "27719": 0.2,
+      "27725": 0.2,
+      "27727": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4050014
+    ],
+    "image": "imt-Town_Walls_Map-1707071672.png",
+    "image_coords": [
+      774,
+      575,
+      802,
+      602
+    ]
+  }
+}

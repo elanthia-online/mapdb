@@ -1,0 +1,60 @@
+{
+  "checksum": "b76328582565eb95b1cd1f29d567487e",
+  "room": {
+    "id": 12144,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The horizon is scrutinized by cautious sentries as you arrive at the wide gateway guarding the land route to a wildland outpost.  The frantic preparations of the citizens to the south are a far cry from the deceptive calm of the mists around you.  Two charred and beaten towers survey the countryside and hold silent vigil over the town, flanking the road to the east and west."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south",
+      "Obvious exits: north, southeast, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12144/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12144/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12144/wayto/stringproc-12093.rb",
+      "12111": "southeast",
+      "12115": "north",
+      "12147": "south"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12111": 0.2,
+      "12115": 0.2,
+      "12147": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567029
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      867,
+      698,
+      877,
+      708
+    ]
+  }
+}

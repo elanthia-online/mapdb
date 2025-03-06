@@ -1,0 +1,43 @@
+{
+  "checksum": "70610a5dcbb48fda7f95b42627c95299",
+  "room": {
+    "id": 32445,
+    "title": [
+      "[Moonsedge Castle, Well]"
+    ],
+    "description": [
+      "A covered well sits at the intersection of two flagstone paths, one winding toward the castle entrance in the east and the other dwindling as it meanders northward.  The sounds of flowing water echo up from below, crisply musical.  A number of pottery jugs rest next to the well, consumed by the high grasses during the flora's unfettered growth."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32444": "southwest",
+      "32450": "southeast",
+      "32494": "northwest"
+    },
+    "timeto": {
+      "32444": 0.2,
+      "32450": 0.2,
+      "32494": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577109
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      684,
+      705,
+      706,
+      729
+    ]
+  }
+}

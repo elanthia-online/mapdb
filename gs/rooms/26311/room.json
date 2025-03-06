@@ -1,0 +1,31 @@
+{
+  "checksum": "cb414572b3689d9e7135aea03ec5a981",
+  "room": {
+    "id": 26311,
+    "title": [
+      "[Lich Citadel, Throne Room]"
+    ],
+    "description": [
+      "Dark, macabre tapestries hang from bone pillars, their embroidered images broken up by blood splotches and decay.  A sorrowful requiem drifts through the cold air."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26310": "northwest",
+      "26313": "northeast"
+    },
+    "timeto": {
+      "26310": 0.2,
+      "26313": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1367,
+      582,
+      1394,
+      608
+    ]
+  }
+}

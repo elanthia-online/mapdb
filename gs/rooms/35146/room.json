@@ -1,0 +1,29 @@
+{
+  "checksum": "ab520e9ee0a76faa18aaf321db9f8cf3",
+  "room": {
+    "id": 35146,
+    "title": [
+      "[The Crimson House, Clerk]"
+    ],
+    "description": [
+      "A stately bloodwood and ebony desk bars further passage into the manse, its surface a study in organized chaos.  Scrolls and ledgers form ordered piles, some so high that they look as if they must totter, and inkwells full of crimson fluid sit in precise rows along one edge.  The desk is positioned to watch the arched doors of a nearby office, over which a single stylized droplet is etched into the lintel.  Stairs ascend to a raised hallway overlooking the lower story."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35106": "north",
+      "35147": "go stairs",
+      "35148": "go doors"
+    },
+    "timeto": {
+      "35106": 0.2,
+      "35147": 0.2,
+      "35148": 0.2
+    },
+    "uid": [
+      4426651
+    ]
+  }
+}

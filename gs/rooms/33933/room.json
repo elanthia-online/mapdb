@@ -1,0 +1,50 @@
+{
+  "checksum": "c8fb7fe00b409f2cd5ae10f962985452",
+  "room": {
+    "id": 33933,
+    "title": [
+      "[Zul Logoth, Cave of Convergence]"
+    ],
+    "description": [
+      "Ghostly mycelium tendrils spread out of a dark shaft in this sizable cave's ceiling, spiraling out and down the dark granite walls, weaving around puddles of water in the stone floor, eventually meeting again at the center of this grotto where they wind and twist themselves into the form of a lithe humanoid figure standing before a natural spring.  Golden clusters of bioluminescent mushrooms gather in patches along the web-like network to illuminate the surroundings in a tranquil light."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "33932": "northeast",
+      "33934": "go spring"
+    },
+    "timeto": {
+      "33932": 0.2,
+      "33934": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "ayana leaf",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13010230
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      427,
+      400,
+      451,
+      425
+    ]
+  }
+}

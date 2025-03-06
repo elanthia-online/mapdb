@@ -1,0 +1,45 @@
+{
+  "checksum": "75f1b9895e4fab5e66b31655da5189c5",
+  "room": {
+    "id": 12392,
+    "title": [
+      "[Golvern Street]"
+    ],
+    "description": [
+      "Several burros are tied to a long modwir post just off the side of the street.  Though most doze peaceably, one pair of the beasts nips and snorts at each other.  The clacks of their hooves off the cobblestones echo off the tunnel walls.  Dwarves wander by on their way in and out of various shops and small homes."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1949": "east",
+      "12393": "west",
+      "26236": "go iron wagon",
+      "26237": "go modwir wagon"
+    },
+    "timeto": {
+      "1949": 0.2,
+      "12393": 0.2,
+      "26236": 0.2,
+      "26237": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001040
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1302,
+      345,
+      1332,
+      375
+    ]
+  }
+}

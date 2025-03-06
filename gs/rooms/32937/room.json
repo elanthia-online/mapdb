@@ -1,0 +1,33 @@
+{
+  "checksum": "c8df48d5dca13e1322d4d7f9901e13ba",
+  "room": {
+    "id": 32937,
+    "title": [
+      "[Cooperage, Workroom]"
+    ],
+    "description": [
+      "Stacks of curing wood line the southern walls, each arranged in racks by type and labeled with concisely worded phrases etched into copper plates.  Upon the northern wall, tools of the coopering craft are carefully fitted into displays amid glass-faced bins holding quarter hoops, head hoops, and rivets.  Several worktables house barrels in various stages of creation, though no attendants are visibly working on them at this time.  A small door leads to the backyard."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32880": "out",
+      "32938": "go door"
+    },
+    "timeto": {
+      "32880": 0.2,
+      "32938": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140252
+    ]
+  }
+}

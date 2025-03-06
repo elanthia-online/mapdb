@@ -1,0 +1,29 @@
+{
+  "checksum": "c36f713e854bf0ae4df6ec90fadbdbf4",
+  "room": {
+    "id": 15148,
+    "title": [
+      "[Galann's General Store]"
+    ],
+    "description": [
+      "A midnight blue rising phoenix tapestry hangs on one of the mottled grey marble walls, and an enameled modwir ceiling rises overhead.  A wooden statue of Rone Wehnimer sits in one corner of a speckled black marble floor.  There is a vine-carved mahogany table on one side of the shop and a gold-leafed mistwood cabinet on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "353": "out",
+      "14689": "northeast",
+      "15297": "northwest"
+    },
+    "timeto": {
+      "353": 0.2,
+      "14689": 0.2,
+      "15297": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

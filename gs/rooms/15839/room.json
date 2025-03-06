@@ -1,0 +1,30 @@
+{
+  "checksum": "4cccd2705f934fa231b09d83ddf710b0",
+  "room": {
+    "id": 15839,
+    "title": [
+      "[Rasson's Outfitting]",
+      "[Rasson's Weaponry]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A low wrought iron table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2376": "out",
+      "15894": "northwest",
+      "15895": "northeast"
+    },
+    "timeto": {
+      "2376": 0.2,
+      "15894": 0.2,
+      "15895": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

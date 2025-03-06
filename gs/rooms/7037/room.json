@@ -1,0 +1,42 @@
+{
+  "checksum": "5d65faba372146a26869e84e6186cbdd",
+  "room": {
+    "id": 7037,
+    "title": [
+      "[Castle Darkstone, Great Hall]"
+    ],
+    "description": [
+      "Once a hall for meetings and pleasurable dinners, this spacious structure now is the apparent workshop of the new castle occupants.  Several tables have been set up and show recent signs of use.  Empty flasks and mein shavings litter the floor.  The most notable fixture here is a massive stone pedestal that has been placed in the center of the room.  Atop the pedestal is a curious swirling void, and the whole apparatus seems to hum with a mysterious power."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7034": "out",
+      "7038": "east"
+    },
+    "timeto": {
+      "7034": 0.2,
+      "7038": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      45128
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      667,
+      467,
+      677,
+      477
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "e6682552a20cd54f173bbcfc1bc0b502",
+  "room": {
+    "id": 7544,
+    "title": [
+      "[Catacombs, Beneath a Well]"
+    ],
+    "description": [
+      "The columnar stone shaft of an old well punctures the vaulted ceiling above and extends about halfway to the ground.  Directly beneath is the glassy surface of a spring-fed lake of unsurpassed crystalline beauty.  Diffuse light refracts off the lake and casts multihued reflections on the walls, as though filtered through a thousand tiny prisms of Elven devising.  The scene is so enchanting, you almost forget the harsh, muffled sounds echoing down the well."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7543": "south",
+      "7545": "go darkened crevice",
+      "7562": "climb stout rope"
+    },
+    "timeto": {
+      "7543": 0.2,
+      "7545": 0.2,
+      "7562": 0.2
+    },
+    "tags": [
+      "node",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "soft white mushroom",
+      "red trafel mushroom",
+      "white hook mushroom",
+      "meta:noteleport:fwi",
+      "cave moss",
+      "ayana leaf",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46037
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      340,
+      1262,
+      350,
+      1272
+    ]
+  }
+}

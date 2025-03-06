@@ -1,0 +1,42 @@
+{
+  "checksum": "d333d859b820e6852458c48f4c47ac8e",
+  "room": {
+    "id": 13984,
+    "title": [
+      "[Castle, Outer Drawbridge]"
+    ],
+    "description": [
+      "You are on an iron banded, fel wood drawbridge.  Looking east and west you see the defensive ditch that surrounds the castle.  In the ditch you see remnants of broken siege engines, rusted shields, and the occasional bit of sun-bleached bone.  To the north you see the barbican."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13983": "go drawbridge",
+      "13985": "north"
+    },
+    "timeto": {
+      "13983": 0.2,
+      "13985": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "agave heart",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750002
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      656,
+      539,
+      664,
+      547
+    ]
+  }
+}

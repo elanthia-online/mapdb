@@ -1,0 +1,54 @@
+{
+  "checksum": "401aaae1a41dcbc14c396ee72a9b28a5",
+  "room": {
+    "id": 3727,
+    "title": [
+      "[Ta'Vaalor, Amaranth Gate]"
+    ],
+    "description": [
+      "The towering city gate looms above, its massive edifice built from thick blocks of pale ivory limestone.  Intricate carvings adorn the blocks, each depicting various scenes of battle and occasionally a representation of Koar or Eonak.  City guardsmen flank the gate's opening, inspecting each entrant into the city's vast interior.",
+      "The towering city gate looms above.  Oily burning torches cast flickering light across the carvings, making them appear to writhe against the pale stone.  City guardsmen flank the gate's opening, inspecting each entrant into the city's vast interior.",
+      "The towering city gate looms above, its massive edifice built from thick blocks of pale ivory limestone.  Intricate carvings adorn the blocks, each depicting various scenes of battle and occasionally a representation of Koar or Eonak.  Oily burning torches cast flickering light across the carvings, making them appear to writhe against the pale stone.  City guardsmen flank the gate's opening, inspecting each entrant into the city's vast interior."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3483": "/rooms/3727/wayto/stringproc-3483.rb",
+      "6104": "northwest",
+      "26905": "/rooms/3727/wayto/stringproc-26905.rb",
+      "30713": "/rooms/3727/wayto/stringproc-30713.rb",
+      "31558": "/rooms/3727/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "3483": 0.2,
+      "6104": 0.2,
+      "26905": 2400,
+      "30713": "/rooms/3727/timeto/stringproc-30713.rb",
+      "31558": "/rooms/3727/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "advguard",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide guard",
+      "guard",
+      "meta:forage-sensed:night:2022-09",
+      "meta:teleport"
+    ],
+    "uid": [
+      14100003
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      1002,
+      889,
+      1012,
+      899
+    ]
+  }
+}

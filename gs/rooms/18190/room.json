@@ -1,0 +1,40 @@
+{
+  "checksum": "1f612cc3e056a5a28c765704b9e34430",
+  "room": {
+    "id": 18190,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Only a few carefully selected plants inhabit this portion of the path.  Most of the area is occupied by a circular rock garden.  Bordered by silvery stones, the white sands of the garden have been drawn with a pictogram of the goddess Lorminstra."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18188": "southwest",
+      "18191": "northeast"
+    },
+    "timeto": {
+      "18188": 0.2,
+      "18191": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312023
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      370,
+      311,
+      382,
+      322
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "ddccc08b66abd83e588cca0cd51d3c41",
+  "room": {
+    "id": 3921,
+    "title": [
+      "[Stronghold, Tunnel]"
+    ],
+    "description": [
+      "A pile of rocks disfigure the tunnel floor, covering the path and making footing treacherous.  The irregular jumble is echoed in the rough surfaces of walls and ceiling, giving the tunnel the appearance of a construction only just begun.  Dust lies thick in the deep crevices between the rocks, concealing possible hazards from unwary passersby."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Stone Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3920": "east",
+      "3922": "northwest"
+    },
+    "timeto": {
+      "3920": 0.2,
+      "3922": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4292045
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      667,
+      489,
+      677,
+      499
+    ]
+  }
+}

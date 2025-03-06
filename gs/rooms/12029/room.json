@@ -1,0 +1,41 @@
+{
+  "checksum": "069723bf577ef0d87f879b6b837c100c",
+  "room": {
+    "id": 12029,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "Large chunks of the marble slab pavement have broken off along the edge of the plaza and plummeted into the depths of the lake below.  The broken edges reveal the solid granite base on which the pyramid rests, mute testimony to the skills of the engineers who leveled the top of what must have once been a substantial hill of stone."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12028": "east",
+      "12030": "west"
+    },
+    "timeto": {
+      "12028": 0.2,
+      "12030": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004035
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      687,
+      364,
+      697,
+      374
+    ]
+  }
+}

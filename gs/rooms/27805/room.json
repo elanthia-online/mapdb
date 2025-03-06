@@ -1,0 +1,27 @@
+{
+  "checksum": "49d23cd26e7c35d04bb9d3fe06c43c87",
+  "room": {
+    "id": 27805,
+    "title": [
+      "[Bard Guild, Hallway]"
+    ],
+    "description": [
+      "A variety of dark crimson candles casts a dim illumination across the hall, and sweeping draperies shroud the many large windows set within a small cul-de-sac.  An arched vaalin-swept door stands along the southern wall, a gold-chased velvet rug leading beyond its threshold."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "27795": "east",
+      "27806": "go door"
+    },
+    "timeto": {
+      "27795": 0.2,
+      "27806": 0.2
+    },
+    "uid": [
+      285003
+    ]
+  }
+}

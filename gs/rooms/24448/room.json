@@ -1,0 +1,32 @@
+{
+  "checksum": "232784851312f93dd07eb441731f3747",
+  "room": {
+    "id": 24448,
+    "title": [
+      "[Warehouse, Storage Room]"
+    ],
+    "description": [
+      "The din of the open warehouse is muffled by several mammoth hides draped against the walls, the giant layers set behind a long wooden counter, preventing access to the public.  A riveted wooden platform sits towards one end of the counter, loaded with twine-tied bundles of fabric, neatly stacked and labeled."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "24442": "south",
+      "30709": "/rooms/24448/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "24442": 0.2,
+      "30709": "/rooms/24448/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "cobbling",
+      "urchin guide cobbling",
+      "urchin-access"
+    ],
+    "uid": [
+      4052004
+    ]
+  }
+}

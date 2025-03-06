@@ -1,0 +1,33 @@
+{
+  "checksum": "37e26140f4ae800dee74feb516e70bee",
+  "room": {
+    "id": 21306,
+    "title": [
+      "[House Brigatta, Lockers]"
+    ],
+    "description": [
+      "This room is small and cramped."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21305": "go curtained opening"
+    },
+    "timeto": {
+      "21305": 0.2
+    },
+    "tags": [
+      "brigatta locker",
+      "meta:che:House Brigatta",
+      "meta:locker"
+    ],
+    "uid": [
+      107209
+    ],
+    "unique_loot": [
+      "counter"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "92cb6ade97671dcb62d5e5715af490d4",
+  "room": {
+    "id": 1901,
+    "title": [
+      "[Mithril and Dragonswing]"
+    ],
+    "description": [
+      "The walls of the canyon tower over your head, reaching hundreds of feet toward the sky.  The street does not stop at the rock, but continues right on inside.  Dwarves bustle in and out of the tunnel.  One fat old fellow, obviously fond of his ale, bellows out an old song.  The crowd gives him a wide berth."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1899": "west",
+      "1902": "go arch",
+      "1921": "east"
+    },
+    "timeto": {
+      "1899": 0.2,
+      "1902": 0.2,
+      "1921": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001022
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1217,
+      609,
+      1247,
+      639
+    ]
+  }
+}

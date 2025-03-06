@@ -1,0 +1,40 @@
+{
+  "checksum": "a6c42853b537f35e3837c46c9f66ad35",
+  "room": {
+    "id": 19997,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "A cool wisp of air blows down the back of your neck as you pass through an area that seems to have a fairly high-ceiling.  There is a faint sound of dripping water above and to one side, and the stones on that side are slightly damp and slick.  To the south, the passageway narrows somewhat."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19996": "north",
+      "19998": "southeast"
+    },
+    "timeto": {
+      "19996": 0.2,
+      "19998": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11210
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1077,
+      692,
+      1087,
+      702
+    ]
+  }
+}

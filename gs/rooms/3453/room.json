@@ -1,0 +1,43 @@
+{
+  "checksum": "53461f5950e5f411875fb1f1f269632f",
+  "room": {
+    "id": 3453,
+    "title": [
+      "[Wineberry's Weapons, Shop]"
+    ],
+    "description": [
+      "In spite of the obviously recent renovations, the main room of the shop retains a faint scent of oil and smoke that is not altogether unpleasant.  Several halflings wander about, polishing metal surfaces or adjusting the position of something to better catch the light.  Fresh sawdust is scattered on the ground, wet footprints tracked through it here and there."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2392": "out",
+      "30709": "/rooms/3453/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2392": 0.2,
+      "30709": "/rooms/3453/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "weaponshop",
+      "urchin-access",
+      "urchin guide weapons",
+      "weapons",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4043850
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      139,
+      1143,
+      175,
+      1179
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "161725b297bfb0545cfc2556d4952da8",
+  "room": {
+    "id": 2462,
+    "title": [
+      "[Commerce Burrow, Dwarven Circle]"
+    ],
+    "description": [
+      "Bumblefinger's Pawnshop is perched on the south side of the road, the well-tended wooden building draped with several blue and green banners proclaiming its low prices and fine goods.  Several giantkin mill about outside, counting their coins.  Freshly painted some white stairs climb up to the pawnshop porch.",
+      "A giantman strolls merrily away from Bumblefinger's Pawnshop, counting his coins.  The pawnshop is perched on the south side of the road, housed in a well tended wooden building.  Freshly painted white stairs lead up to the pawnshop porch."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2461": "east",
+      "2463": "go white stairs",
+      "2465": "west"
+    },
+    "timeto": {
+      "2461": 0.2,
+      "2463": 0.2,
+      "2465": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042319
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      938,
+      1142,
+      974,
+      1178
+    ]
+  }
+}

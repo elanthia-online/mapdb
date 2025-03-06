@@ -1,0 +1,44 @@
+{
+  "checksum": "92ad8562d408ab58fa8fd846c6dfd7c5",
+  "room": {
+    "id": 8667,
+    "title": [
+      "[Town Well]"
+    ],
+    "description": [
+      "An old wooden bench rests in the shade next to the well, nearly covered by a low-hanging oak branch.  A few townspeople and merchants relax and chat in the cool, shaded air, taking a break in their errands or simply wasting time.",
+      "An old wooden bench rests in the shade next to the well, nearly covered by a low-hanging oak branch.  A few townspeople and merchants relax and chat in the cool night air, taking a break in their errands or simply wasting time."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8666": "southeast",
+      "8668": "southwest"
+    },
+    "timeto": {
+      "8666": 0.2,
+      "8668": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "no forageables"
+    ],
+    "uid": [
+      7352
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      290,
+      377,
+      300,
+      387
+    ]
+  }
+}

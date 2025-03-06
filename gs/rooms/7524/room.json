@@ -1,0 +1,51 @@
+{
+  "checksum": "33b83ed0544a75442bc482a2a7838018",
+  "room": {
+    "id": 7524,
+    "title": [
+      "[Catacombs, Old Tunnel]"
+    ],
+    "description": [
+      "Through the holes in the barricade you can see that the tunnel continues on the other side.  The tunnel here is very old and threatens to cave in, several of the old bricks have crumbled littering the floor with dirt, rocks, and rubble."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7505": "go boards",
+      "7525": "south"
+    },
+    "timeto": {
+      "7505": 0.2,
+      "7525": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4126001
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      862,
+      1128,
+      872,
+      1138
+    ]
+  }
+}

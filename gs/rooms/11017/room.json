@@ -1,0 +1,43 @@
+{
+  "checksum": "35df0d38d13f45651efbb3b2fc25ca5b",
+  "room": {
+    "id": 11017,
+    "title": [
+      "[Warrior Guild, Entryway]"
+    ],
+    "description": [
+      "A long wall of native grey stone extends across a clearing, interrupted only by a wrought iron gate.  Two tall modwir trees stand guard a few paces in front of the entrance.",
+      "A long wall of native grey stone extends across a clearing, interrupted only by a wrought iron gate.  Two tall modwir trees stand guard a few paces in front of the entrance, their wide branches providing plentiful shade.  A grassy courtyard can be glimpsed through the wide bars of the gate."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "11016": "west",
+      "17348": "go gate",
+      "30711": "/rooms/11017/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "11016": 0.2,
+      "17348": "/rooms/11017/timeto/stringproc-17348.rb",
+      "30711": "/rooms/11017/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild"
+    ],
+    "uid": [
+      253001
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2398,
+      1865,
+      2420,
+      1887
+    ]
+  }
+}

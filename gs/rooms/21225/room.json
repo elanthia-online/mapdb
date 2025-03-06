@@ -1,0 +1,38 @@
+{
+  "checksum": "eab3daa5add411b67e77dd3c257faeaa",
+  "room": {
+    "id": 21225,
+    "title": [
+      "[Silvergate, A Small Landing]"
+    ],
+    "description": [
+      "Muffled voices from the lounge barely reach your ears here.  Dimly lit, there is still enough light for you to make your way.  A narrow staircase leads down to the lower levels of the manor."
+    ],
+    "paths": [
+      "Obvious exits: down, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3735": "out",
+      "21250": "down"
+    },
+    "timeto": {
+      "3735": 0.2,
+      "21250": 0.2
+    },
+    "tags": [
+      "meta:che:Silvergate Inn",
+      "meta:che:Silvergate Manor"
+    ],
+    "uid": [
+      109012
+    ],
+    "image": "wl-silvergate_inn-1487242763.png",
+    "image_coords": [
+      617,
+      531,
+      700,
+      585
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "05d3ec0a3893fc2a4727cdd528614711",
+  "room": {
+    "id": 11460,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "Elkhorn coral, ten feet tall and branched like trees, grows in small groves.  The floor of the bay, uneven and dotted with clumps of kelp and seaweed, rises sharply to south.  The tracks of crabs and mud shrimp score the sand on the bay floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, west, northwest, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11459": "/rooms/11460/wayto/stringproc-11459.rb",
+      "11461": "/rooms/11460/wayto/stringproc-11461.rb",
+      "11463": "/rooms/11460/wayto/stringproc-11463.rb",
+      "11464": "/rooms/11460/wayto/stringproc-11464.rb",
+      "11467": "/rooms/11460/wayto/stringproc-11467.rb",
+      "11468": "/rooms/11460/wayto/stringproc-11468.rb"
+    },
+    "timeto": {
+      "11459": 2,
+      "11461": 3,
+      "11463": 2,
+      "11464": 2,
+      "11467": 2,
+      "11468": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304219
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      949,
+      1260,
+      959,
+      1270
+    ]
+  }
+}

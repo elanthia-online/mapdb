@@ -1,0 +1,30 @@
+{
+  "checksum": "957a0b7c75da52bf260391699afa4d90",
+  "room": {
+    "id": 15638,
+    "title": [
+      "[Everan's General Store]",
+      "[Everan's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A large brass-bound chest and a plain wooden table sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3446": "out",
+      "15647": "east",
+      "15648": "north"
+    },
+    "timeto": {
+      "3446": 0.2,
+      "15647": 0.2,
+      "15648": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

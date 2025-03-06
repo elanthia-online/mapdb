@@ -1,0 +1,31 @@
+{
+  "checksum": "0c3bbd3464c76332f565a4031035522b",
+  "room": {
+    "id": 26339,
+    "title": [
+      "[Barracks, Darkness]"
+    ],
+    "description": [
+      "The room is full of darkness, making it impossible to see."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26338": "north",
+      "26340": "northwest"
+    },
+    "timeto": {
+      "26338": 0.2,
+      "26340": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1327,
+      225,
+      1352,
+      251
+    ]
+  }
+}

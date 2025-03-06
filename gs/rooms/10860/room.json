@@ -1,0 +1,47 @@
+{
+  "checksum": "bf2272739ef52cdbaff8e98dfbbe348d",
+  "room": {
+    "id": 10860,
+    "title": [
+      "[River's Rest, Targon's Square]"
+    ],
+    "description": [
+      "This large, welcoming square is set away from the center of town and paved with large stone blocks.  The crowds that gather here do not seem to crowd the openness of the square, but to make it feel warm and welcoming.  Set off to one side, a small tavern seems to attract many in the crowd, and each time its doors open, sounds of revelry spill out into the open to attract even more.  The River's Rest Inn stands nestled back in the brambles that guard the eastern side of the tavern."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10859": "west",
+      "10866": "north",
+      "10951": "go tavern",
+      "10956": "go inn",
+      "16009": "go path"
+    },
+    "timeto": {
+      "10859": 0.2,
+      "10866": 0.2,
+      "10951": 0.2,
+      "10956": 0.2,
+      "16009": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101013
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2685,
+      925,
+      2725,
+      964
+    ]
+  }
+}

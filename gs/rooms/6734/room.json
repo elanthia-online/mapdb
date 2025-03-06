@@ -1,0 +1,42 @@
+{
+  "checksum": "0a15f4520b444693d99e148e48478cf6",
+  "room": {
+    "id": 6734,
+    "title": [
+      "[Upper Dragonsclaw, Ledge]"
+    ],
+    "description": [
+      "At the base of a rocky ravine, this narrow ledge is eroded from the side of the mountain.  The wind blows fiercely down from above, threatening to sweep you along with it."
+    ],
+    "paths": [
+      "Obvious paths: east, up"
+    ],
+    "location": "the Upper Dragonsclaw",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6733": "up",
+      "6735": "climb rocks",
+      "6736": "east"
+    },
+    "timeto": {
+      "6733": 0.2,
+      "6735": 0.2,
+      "6736": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4121018
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      336,
+      959,
+      346,
+      969
+    ]
+  }
+}

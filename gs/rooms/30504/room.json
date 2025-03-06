@@ -1,0 +1,39 @@
+{
+  "checksum": "7a2e2da8c0ff5d1e64507fceb872a87d",
+  "room": {
+    "id": 30504,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The sparking water of the Mistydeep River runs deep, dark, and fast over the clean sand.  Large gneiss boulders provide a refuge from the swift current for smaller denizens of the river, who dart in and out among the grasses that grow there."
+    ],
+    "paths": [
+      "Obvious exits: southeast, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25622": "swim up",
+      "30505": "swim southeast"
+    },
+    "timeto": {
+      "25622": 0.2,
+      "30505": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117106
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1083,
+      850,
+      1100,
+      868
+    ]
+  }
+}

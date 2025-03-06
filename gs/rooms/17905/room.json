@@ -1,0 +1,39 @@
+{
+  "checksum": "1732a0302cceaff4b8608fa37fc6dd63",
+  "room": {
+    "id": 17905,
+    "title": [
+      "[Rogue Guild, Corridor]"
+    ],
+    "description": [
+      "Square glaes windows line the walls of this wide corridor, framed with a thin border of gold against the black marble.  Faint murmuring can be heard from beyond a dark lacquered door."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "17896": "west",
+      "17903": "east",
+      "17906": "go door"
+    },
+    "timeto": {
+      "17896": 0.2,
+      "17903": 0.2,
+      "17906": 0.2
+    },
+    "tags": [
+      "rogue guild window"
+    ],
+    "uid": [
+      268005
+    ],
+    "image": "en-zul_logoth-rogue-1648915933.jpg",
+    "image_coords": [
+      455,
+      344,
+      493,
+      382
+    ]
+  }
+}

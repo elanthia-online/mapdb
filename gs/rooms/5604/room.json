@@ -1,0 +1,33 @@
+{
+  "checksum": "2cc7e7af07b10da610dbae369a97364e",
+  "room": {
+    "id": 5604,
+    "title": [
+      "[Storage Warehouse, Hallway]"
+    ],
+    "description": [
+      "Lit only by what light manages to leak around the corner to the east, this short length of hallway turns north at its eastern end, but otherwise runs west.  A curtained opening is set into the north wall."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5602": "west",
+      "5603": "north"
+    },
+    "timeto": {
+      "5602": 0.2,
+      "5603": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120205
+    ]
+  }
+}

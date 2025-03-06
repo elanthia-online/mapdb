@@ -1,0 +1,49 @@
+{
+  "checksum": "d997d1c0becaaaca031d311f64c8576e",
+  "room": {
+    "id": 23211,
+    "title": [
+      "[White Haven, Founders Hall]"
+    ],
+    "description": [
+      "A highly polished marble floor dances with reflected light from the shimmering crystal chandelier overhead.  Next to a large open fireplace sits a white basket filled with wood and kindling.  Nearby, several plush chairs and a carved huntboard add comfort and warmth to the huge room.  Covering the north wall is an elegant mural of White Haven's founders.  A sweeping staircase of carved white modwir gently curves as it ascends to the tower's upper floors."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "White Haven",
+    "wayto": {
+      "23209": "out",
+      "23212": "/rooms/23211/wayto/stringproc-23212.rb",
+      "23213": "go staircase",
+      "23214": "go mural",
+      "23215": "go archway",
+      "23216": "go stained-glass door",
+      "23217": "go gold-framed door",
+      "23221": "east"
+    },
+    "timeto": {
+      "23209": 0.2,
+      "23212": 0.2,
+      "23213": 0.2,
+      "23214": 0.2,
+      "23215": 0.2,
+      "23216": 0.2,
+      "23217": 0.2,
+      "23221": 0.2
+    },
+    "tags": [
+      "meta:che:White Haven"
+    ],
+    "uid": [
+      213005
+    ],
+    "image": "imt-WhiteHaven2.png",
+    "image_coords": [
+      562,
+      441,
+      640,
+      521
+    ]
+  }
+}

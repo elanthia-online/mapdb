@@ -1,0 +1,40 @@
+{
+  "checksum": "a3f25bffbeeef06401c9a2b89ef9d3d3",
+  "room": {
+    "id": 32322,
+    "title": [
+      "[Moonsedge, Briar Gate]"
+    ],
+    "description": [
+      "Walls twice the height of a giantman loom over the cobblestone road as it winds toward the city.  Ornamental etchings of thorny briars adorn the stone faces, which are hewn from vast cubes of dark basalt.  The wall is unbroken save for a black gate of wrought iron that is adorned with countless wild roses fashioned of dark metal.  From within come none of the sounds of a thriving city, not wagons squeaking, nor the din of a throng."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32330": "north",
+      "32373": "go gate"
+    },
+    "timeto": {
+      "32330": 0.2,
+      "32373": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4577003
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      843,
+      1341,
+      889,
+      1385
+    ]
+  }
+}

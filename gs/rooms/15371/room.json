@@ -1,0 +1,26 @@
+{
+  "checksum": "687347fef1c92240d4dc72a63fe75955",
+  "room": {
+    "id": 15371,
+    "title": [
+      "[Colletta's Outfitting]",
+      "[Colletta's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15060": "north"
+    },
+    "timeto": {
+      "15060": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

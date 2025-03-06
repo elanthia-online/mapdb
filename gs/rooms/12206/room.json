@@ -1,0 +1,52 @@
+{
+  "checksum": "ea01bd7d7873348390a9744eaf76534e",
+  "room": {
+    "id": 12206,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A nest of worms writhes in a pocket to the south.  They seem to be breeding here, then moving into other parts of the area to eat and destroy.  The walls hardly constrict here, although the loud thump-thump from the other chambers is still loud and strong.  Blood moves over the floor, forced northward by the weak contractions of the walls."
+    ],
+    "paths": [
+      "Obvious paths: east, south, northwest",
+      "Obvious exits: east, south, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12206/wayto/stringproc-2579.rb",
+      "12160": "east",
+      "12165": "south",
+      "12173": "northwest"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12160": 0.2,
+      "12165": 0.2,
+      "12173": 0.2
+    },
+    "tags": [
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570012
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      964,
+      1136,
+      974,
+      1146
+    ]
+  }
+}

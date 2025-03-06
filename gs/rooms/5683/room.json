@@ -1,0 +1,33 @@
+{
+  "checksum": "20bcb1e81fa4589f86393570773f27fa",
+  "room": {
+    "id": 5683,
+    "title": [
+      "[Hall of the Claw]"
+    ],
+    "description": [
+      "An elaborate inlay of an onyx cat's head graces the mottled crimson marble of the floor, its circular design mirrored in the shape of the chamber.  The room is ringed by nine huge feline statues reclining upon unadorned slabs, their golden eyes staring eternally at one another.  A weathered black monolith is set in the precise center of the floor.  Silver script is written upon it, distorted by the wavering amber glow of the numerous torches above."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5682": "south",
+      "5684": "north"
+    },
+    "timeto": {
+      "5682": 0.2,
+      "5684": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900609
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "checksum": "033c9c274cdbb001fe237f251d846d0f",
+  "room": {
+    "id": 5709,
+    "title": [
+      "[Deep Woods, Overgrowth]"
+    ],
+    "description": [
+      "The trees, brambles and fog all conspire to lose you within the forest, making visibility uncertain at best.  Any movement becomes a shambling stagger, more controlled tripping than a true walk as the bushes seem to reach out to purposely snare you.  Brambles obscure a crumbling section of the temple wall."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest"
+    ],
+    "location": "the deep woods",
+    "climate": "temperate",
+    "terrain": "coniferous forest",
+    "wayto": {
+      "5698": "/rooms/5709/wayto/stringproc-5698.rb",
+      "5707": "southwest",
+      "5708": "south"
+    },
+    "timeto": {
+      "5698": 0.2,
+      "5707": 0.2,
+      "5708": 0.2
+    },
+    "tags": [
+      "vesperti",
+      "no-magic",
+      "acantha leaf",
+      "torban leaf",
+      "calamia fruit",
+      "haphip root",
+      "tkaro root",
+      "sticks",
+      "angelica root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "red vornalite mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "handful of pinenuts",
+      "broken twig",
+      "pine cone",
+      "pine needles",
+      "stalk of bluebells",
+      "golden buttercup",
+      "wild pink geranium",
+      "wild chokecherry",
+      "tree bark",
+      "white lily",
+      "pink rain lily",
+      "coppery rain lily",
+      "kylan berry",
+      "white baneberry",
+      "ayana'al leaf",
+      "yew twig",
+      "ironfern root",
+      "sunburst blossom",
+      "twisted twig",
+      "slender twig",
+      "ebony twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "trollfear mushroom",
+      "oxblood lily",
+      "brostheras grass",
+      "meta:forage-sensed:day:2023-02",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4007037
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1352,
+      342,
+      1362,
+      352
+    ]
+  }
+}

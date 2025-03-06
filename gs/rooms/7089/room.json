@@ -1,0 +1,42 @@
+{
+  "checksum": "d318d072054b672a2450a40305d361a1",
+  "room": {
+    "id": 7089,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The corner is a bit lower than the rest of the corridor, and water has collected there.  The water is brackish and slimy, and furry green moss spreads across the floor and up the walls from the puddle."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7088": "north",
+      "7090": "east"
+    },
+    "timeto": {
+      "7088": 0.2,
+      "7090": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44025
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      921,
+      1049,
+      931,
+      1059
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "af6e48b7795c6ad342b0de0571e12e6b",
+  "room": {
+    "id": 28676,
+    "title": [
+      "[Rockslinger's, Annex Corridor]"
+    ],
+    "description": [
+      "A long, wide corridor extends north and west, its length lit by a huge amber toadstool planted in a large stone pot.  Tightly woven, sapphire blue carpet covers the floor, muffling footsteps and providing a soft surface on which to walk.  Overhead, timbers spaced two feet apart hold up the grey granite ceiling, the timber ends disappearing into the light blue marble walls on either side of the corridor.  More corridor extends east, but to the west the corridor ends at a flat marble wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "28675": "east",
+      "28677": "west",
+      "29562": "go Beacon arch",
+      "33130": "go willow arch",
+      "33740": "go cairnfang arch"
+    },
+    "timeto": {
+      "28675": 0.2,
+      "28677": 0.2,
+      "29562": 0.2,
+      "33130": 0.2,
+      "33740": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13010137
+    ],
+    "unique_loot": [
+      "Beacon Hall arch",
+      "Willow Hall arch",
+      "Cairnfang Manor arch"
+    ]
+  }
+}

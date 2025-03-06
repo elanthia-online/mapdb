@@ -1,0 +1,69 @@
+{
+  "checksum": "52c79ec43ac4173754602193f5decd81",
+  "room": {
+    "id": 7278,
+    "title": [
+      "[Slither Creek, South Bank]"
+    ],
+    "description": [
+      "The woods end at a marshy creek.  Cattails line the gently sloping banks, moving with the flow of the water, although an occasional rustle and splash from the plants lead you to believe there may be something more than water there.  Given the gentle slope of the ground, it looks like you could enter the creek anywhere along the bank."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "riparian",
+    "wayto": {
+      "7277": "southeast",
+      "7279": "east",
+      "7283": "west",
+      "7293": "go creek"
+    },
+    "timeto": {
+      "7277": 0.2,
+      "7279": 0.2,
+      "7283": 0.2,
+      "7293": 0.2
+    },
+    "tags": [
+      "stalk of bluebells",
+      "blue trafel mushroom",
+      "wild gooseberry",
+      "white hook mushroom",
+      "bright red teaberry",
+      "fiddlehead fern",
+      "wild chokecherry",
+      "soft white mushroom",
+      "stalk of cattail",
+      "sprig of wild lilac",
+      "withered black mushroom",
+      "bright red cranberry",
+      "wintergreen leaf",
+      "acantha leaf",
+      "ephlox moss",
+      "aloeas stem",
+      "blueberries",
+      "small wild rose",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "talneo root",
+      "meta:forage-sensed",
+      "pearly green vine",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156006
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      214,
+      251,
+      222,
+      259
+    ]
+  }
+}

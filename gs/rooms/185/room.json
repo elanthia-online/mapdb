@@ -1,0 +1,47 @@
+{
+  "checksum": "62a833107f01e174b70cdca09f1fea93",
+  "room": {
+    "id": 185,
+    "title": [
+      "[Ta'Illistim, Shimmarglin Court]"
+    ],
+    "description": [
+      "A steady patronage frequents a nearby building, undoubtedly a bakery judging from the fragrant scents emanating from within.  Several beds bursting with rosemary, lavender, thyme, and other herbs frame the shop's cobblestoned walk.",
+      "Twin smokestacks protrude from the top of a long, low building.  Around their outputs, the marble that makes up the building's cladding is tinged a dirty grey, off from the overall white.  A further grey on the building is a deep shadow, cast from the shape of a floating dais raised over the roofline.",
+      "Twin smokestacks protrude from the top of a long, low building.  Around their outputs, the marble that makes up the building's cladding is tinged a dirty grey, off from the overall white.  A further grey on the building is a filmy shadow, cast from the shape of a floating dais raised over the roofline."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "184": "southeast",
+      "186": "northeast",
+      "188": "go dais",
+      "4011": "go building"
+    },
+    "timeto": {
+      "184": 0.2,
+      "186": 0.2,
+      "188": 0.2,
+      "4011": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100044
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1055,
+      583,
+      1077,
+      606
+    ]
+  }
+}

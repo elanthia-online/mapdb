@@ -1,0 +1,31 @@
+{
+  "checksum": "1e7639777d5e86cc22a6e335e404bb02",
+  "room": {
+    "id": 28095,
+    "title": [
+      "[Grand Stable, East Wing]"
+    ],
+    "description": [
+      "On the northern side of the wide cobblestone alley, an area has been reserved for feed storage.  The space is filled with barrels of various grains, canvas bags of apples and carrots, and numerous leather feed bags awaiting deployment to the stable's residents.  On the south side of the alley, two stalls reside together, their lower doors latched with blued-steel hardware."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Rumor Woods",
+    "wayto": {
+      "28071": "go wide door",
+      "28096": "go west stall",
+      "28097": "go east stall",
+      "28098": "west"
+    },
+    "timeto": {
+      "28071": 0.2,
+      "28096": 0.2,
+      "28097": 0.2,
+      "28098": 0.2
+    },
+    "uid": [
+      8209136
+    ]
+  }
+}

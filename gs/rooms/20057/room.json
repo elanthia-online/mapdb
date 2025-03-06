@@ -1,0 +1,33 @@
+{
+  "checksum": "d1d4d888a127fb868750e180a51ec327",
+  "room": {
+    "id": 20057,
+    "title": [
+      "[Museum, Basement Storage]"
+    ],
+    "description": [
+      "This expansive room is cluttered floor to ceiling with canvas-draped objects that rest in storage.  The timber-braced mortared stone walls are almost completely obscured by piles of artifacts, paintings, statues, and relics that dwell in this subterranean room.  Flickering torches high in the walls cast their light on the covered objects below, and a glimpse of reddish fur peeks out from beneath an askew canvas cover.  An old and musty tapestry hangs on the south wall beside an open archway that leads out of the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20056": "go archway",
+      "20638": "/rooms/20057/wayto/stringproc-20638.rb"
+    },
+    "timeto": {
+      "20056": 0.2,
+      "20638": 0.4
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28152
+    ]
+  }
+}

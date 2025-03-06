@@ -1,0 +1,57 @@
+{
+  "checksum": "411fe4cc2ae5b6233af5842b7d62a49c",
+  "room": {
+    "id": 9564,
+    "title": [
+      "[The Waggler's, Consignment]"
+    ],
+    "description": [
+      "Mirrors line the walls of this shop from east to west, multiplying the tiniest amount of light to create a well-lit area.  Many objects are stockpiled, offering a cluttered appearance."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9563": "east",
+      "9565": "west",
+      "30712": "/rooms/9564/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9563": 0.2,
+      "9565": 0.2,
+      "30712": "/rooms/9564/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "consignment",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      160022
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1118,
+      605,
+      1144,
+      631
+    ]
+  }
+}

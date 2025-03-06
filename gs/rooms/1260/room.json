@@ -1,0 +1,46 @@
+{
+  "checksum": "51d170478e757c937f46a7ebc0cdfde9",
+  "room": {
+    "id": 1260,
+    "title": [
+      "[Zul Logoth, Marcasite Tunnel]"
+    ],
+    "description": [
+      "Smooth granite walls taper into a narrow passageway.  Through the tunnel visible ahead, mining carts careen past upon a set of metal rails, screeching and whining their way under the DragonSpine.  Several dwarves move about the tunnel, efficiently getting passengers loaded and keeping the carts moving along."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "994": "west",
+      "1261": "/rooms/1260/wayto/stringproc-1261.rb",
+      "30712": "/rooms/1260/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "994": 0.2,
+      "1261": 180,
+      "30712": "/rooms/1260/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "silver-cost:1261:1000",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin guide eastcart",
+      "urchin-access",
+      "eastcart"
+    ],
+    "uid": [
+      13010201
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1240,
+      537,
+      1260,
+      557
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "25defef05d071746c588e25b871890aa",
+  "room": {
+    "id": 2777,
+    "title": [
+      "[Pinefar Trading Post, Greatroom]"
+    ],
+    "description": [
+      "Shining wood floors and a beamed ceiling distinguish the spacious room.  An impressive rock fireplace dominates the back wall, flanked by a wide staircase leading to an upper floor.  Before the hearth sits a tawny leather sofa with a variety of armchairs sitting in attendance around it.  Rugs scattered across the plank floor add tones of coral, blue and red to the warm ambience.  All along the walls, paintings compete with windows offering views of the snow-bound countryside.",
+      "Shining wood floors and a beamed ceiling distinguish the spacious room.  An impressive rock fireplace dominates the back wall, flanked by a wide staircase leading to an upper floor.  Before the hearth sits a tawny leather sofa with a variety of armchairs sitting in attendance around it.  Rugs scattered across the plank floor add tones of coral, blue and red to the warm ambience.  All along the walls, paintings compete with windows offering views of the moonlit, snow-bound countryside."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, west, northwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "2775": "go doors",
+      "2778": "west",
+      "2779": "east",
+      "2782": "northwest",
+      "2783": "northeast",
+      "2788": "go staircase"
+    },
+    "timeto": {
+      "2775": 0.2,
+      "2778": 0.2,
+      "2779": 0.2,
+      "2782": 0.2,
+      "2783": 0.2,
+      "2788": 0.2
+    },
+    "tags": [
+      "node",
+      "town",
+      "supernode",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Towns",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:mapname:Icemule Trace - Pinefar Trading Post",
+      "meta:mapshortname:Pinefar Trading Post"
+    ],
+    "uid": [
+      4564003
+    ],
+    "image": "imt-PinefarTradingPost-1615312810.png",
+    "image_coords": [
+      227,
+      279,
+      317,
+      333
+    ]
+  }
+}

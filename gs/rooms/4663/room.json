@@ -1,0 +1,45 @@
+{
+  "checksum": "9d6bc231b36cf18dc0082fcae5d95b99",
+  "room": {
+    "id": 4663,
+    "title": [
+      "[Hihaeim's Locksmithery]"
+    ],
+    "description": [
+      "Plaster and stone walls remain unadorned, along with the majority of the room.  Though vacant, the shop is meticulously clean and nary a speck of dust can be found.  A bejeweled brass bin is tucked behind a smooth granite counter, prominently displaying a catalog of wares.  Warm light shines through a narrow oak archway draped in pale blue fabric.",
+      "Plaster and stone walls remain unadorned, along with the majority of the room.  Though vacant, the shop is meticulously clean and nary a speck of dust can be found.  A catalog of wares is prominently displayed upon a smooth granite counter, open for perusal and to facilitate the delivery of orders from the curtained-off backroom."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4661": "out",
+      "28718": "go oak archway",
+      "30717": "/rooms/4663/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4661": 0.2,
+      "28718": 0.2,
+      "30717": "/rooms/4663/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "locksmith",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide locksmith",
+      "locksmith shop"
+    ],
+    "uid": [
+      14051036
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      613,
+      508,
+      638,
+      533
+    ]
+  }
+}

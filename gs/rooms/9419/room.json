@@ -1,0 +1,56 @@
+{
+  "checksum": "48192cb1b8f788a8097cfc996699a7c0",
+  "room": {
+    "id": 9419,
+    "title": [
+      "[Zul Logoth, Chalcedony Tunnel]"
+    ],
+    "description": [
+      "A wide, plate glass window flanks a grey steel door on the east wall.  Dwarven children excitedly peer through, jabbering among themselves and pointing at things within.  Elder dwarves shoo them away from the window, but they return as soon as the older ones wander out of sight.  Rumblings emanate from inside the building every so often, causing the floor to tremble underfoot, and the air seems hotter in this section of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9418": "southwest",
+      "9420": "north",
+      "9421": "west",
+      "9508": "go archway"
+    },
+    "timeto": {
+      "9418": 0.2,
+      "9420": 0.2,
+      "9421": 0.2,
+      "9508": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006026
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      699,
+      803,
+      719,
+      823
+    ]
+  }
+}

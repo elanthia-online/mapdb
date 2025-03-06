@@ -1,0 +1,43 @@
+{
+  "checksum": "d530a80041d5ce00e231812e4033f730",
+  "room": {
+    "id": 7338,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "Some ancient horse tracks have become barren patches of dry earth between the small clumps of yellowed longgrass.  A few starched-white bones stick up at odd angles here and there, like the shattered ribs of the pasture itself."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7337": "northwest",
+      "7339": "southeast"
+    },
+    "timeto": {
+      "7337": 0.2,
+      "7339": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161010
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1174,
+      784,
+      1182,
+      792
+    ]
+  }
+}

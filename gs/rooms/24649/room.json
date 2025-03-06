@@ -1,0 +1,23 @@
+{
+  "checksum": "e6d1bc514b59bb836a6dd7661a599619",
+  "room": {
+    "id": 24649,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Though several lit torches light the way close to the ruin walls of the corridor, the center of the wide passage remains shrouded in murk and littered with small dirt piles.  A small swarm of bats flit past, the raspy sound of their membranous wings echoing as they go.  In several locations, wood beams have been hammered together to create a brace where the walls have weakened."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": false,
+    "wayto": {
+      "24648": "east"
+    },
+    "timeto": {
+      "24648": 0.2
+    },
+    "check_location": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "83390f669c7cb3191720a45a2576bf5b",
+  "room": {
+    "id": 6962,
+    "title": [
+      "[Gorge, North Rim]"
+    ],
+    "description": [
+      "The gorge narrows here a bit, its sheer walls rising almost vertically from the stream's edges.  Tiny ledges provide many footholds, but the damp walls and tremendous height make you wonder if climbing is safe.  The path disappears into a blackened, glasslike cliff face that completely blocks the gorge to the southwest.  Looking around, you find no easy way to pass in that direction, save for some serious climbing."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "freshwater",
+    "terrain": "hilly",
+    "wayto": {
+      "6955": "/rooms/6962/wayto/stringproc-6955.rb",
+      "6963": "northeast"
+    },
+    "timeto": {
+      "6955": 0.2,
+      "6963": 0.2
+    },
+    "tags": [
+      "sticks",
+      "yew twig",
+      "bolmara lichen",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      43006
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      185,
+      384,
+      195,
+      394
+    ]
+  }
+}

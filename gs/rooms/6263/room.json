@@ -1,0 +1,60 @@
+{
+  "checksum": "b5f0726fdef89110331e7d40d58461fa",
+  "room": {
+    "id": 6263,
+    "title": [
+      "[Kobold Village, Hedgerow]"
+    ],
+    "description": [
+      "A ramshackle collection of shanties and lean-to sheds huddles amid a yellowish river of mist in the small, dark vale below.  The pitiful little huts crowd together in clumps, each seemingly hoping not to stand out enough to be noticed.  If the size of the dwellings left any doubt, their bedraggled state leaves none:  Only kobolds could have made such squalor in the midst of a pristine forest."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "6262": "go bramble hedge",
+      "6264": "down"
+    },
+    "timeto": {
+      "6262": 0.2,
+      "6264": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "withered black mushroom",
+      "sweetfern stalk",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of chicory",
+      "small wild rose",
+      "wild chokecherry",
+      "bright red cranberry",
+      "blue whortleberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "kobold",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      373005
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      323,
+      401,
+      333,
+      411
+    ]
+  }
+}

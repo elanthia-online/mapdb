@@ -1,0 +1,45 @@
+{
+  "checksum": "62575911bc4766d2851edd8fe03b93c8",
+  "room": {
+    "id": 32405,
+    "title": [
+      "[Moonsedge, Bramble and Dirge]"
+    ],
+    "description": [
+      "A tall black iron lamppost sits at the intersection of Bramble Street and Dirge Row.  A weathered sign once hung from chains beneath the post's outstretched arm, but rust has eaten through them.  The sign lies in a dying bed of ornamental brambles, devoured by rot.  Tall, greying buildings with broken windows like gouged eyes stare down on the crossing blindly, not a hint of light within."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32373": "north",
+      "32406": "west",
+      "32414": "south",
+      "32427": "east"
+    },
+    "timeto": {
+      "32373": 0.2,
+      "32406": 0.2,
+      "32414": 0.2,
+      "32427": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577007
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      383,
+      163,
+      401,
+      183
+    ]
+  }
+}

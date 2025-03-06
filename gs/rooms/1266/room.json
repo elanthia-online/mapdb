@@ -1,0 +1,42 @@
+{
+  "checksum": "728da3e3a9a3e1e1b7452db15732b4a8",
+  "room": {
+    "id": 1266,
+    "title": [
+      "[Kharag 'doth Dzulthu, Tunnels]"
+    ],
+    "description": [
+      "Several small torches are mounted upon the walls of this large cavern, casting a dim light across the faces of the occupants.  Half a dozen dwarves scurry about, directing passengers aboard a series of mining carts that barely stop long enough to allow entrance."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kharag 'doth Dzulthu",
+    "wayto": {
+      "1013": "out",
+      "1261": "/rooms/1266/wayto/stringproc-1261.rb",
+      "1267": "/rooms/1266/wayto/stringproc-1267.rb"
+    },
+    "timeto": {
+      "1013": 0.2,
+      "1261": "/rooms/1266/timeto/stringproc-1261.rb",
+      "1267": 180
+    },
+    "tags": [
+      "silver-cost:1267:1000",
+      "no forageables",
+      "meta:forage-sensed",
+      "silver-cost:1261:2000"
+    ],
+    "uid": [
+      13004002
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      277,
+      487,
+      287,
+      497
+    ]
+  }
+}

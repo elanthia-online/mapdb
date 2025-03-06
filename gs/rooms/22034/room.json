@@ -1,0 +1,36 @@
+{
+  "checksum": "02cb34141fe98438c0405666e122ea8b",
+  "room": {
+    "id": 22034,
+    "title": [
+      "[Helden Hall, Buttery]"
+    ],
+    "description": [
+      "Stacked casks of mead and ale take up most of the space in this huge room dedicated to storage.  From the amount of stored food, one can surmise that either a war is coming or the members of the Hall have huge appetites.  A half-windowed door to the south gives a picturesque view of the livestock pens of the Inner Bailey."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3880": "west",
+      "22035": "go stairs",
+      "24791": "north"
+    },
+    "timeto": {
+      "3880": 0.2,
+      "22035": 0.2,
+      "24791": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      531,
+      917,
+      568,
+      955
+    ]
+  }
+}

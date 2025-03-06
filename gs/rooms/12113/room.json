@@ -1,0 +1,58 @@
+{
+  "checksum": "a3e8254a419b1ab60ddc4cc1af641bb9",
+  "room": {
+    "id": 12113,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The sounds of battle cut through the air.  Melee rages around you, threatening to draw you in.  People, dressed only in shreds of clothing, beat each other into the ground, climbing over the bodies of their fallen comrades in an attempt to reach a pile of gold and gems at the far side of the field.  From this distance, the pile seems to be shaped like a mocking horned head, looking on at the destruction with evil glee."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest",
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12113/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12113/wayto/stringproc-2635.rb",
+      "2643": "southwest",
+      "12093": "/rooms/12113/wayto/stringproc-12093.rb",
+      "12132": "northwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "2643": 0.2,
+      "12093": 21.6,
+      "12132": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567025
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      948,
+      672,
+      958,
+      682
+    ]
+  }
+}

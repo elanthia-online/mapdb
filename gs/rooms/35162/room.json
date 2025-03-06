@@ -1,0 +1,29 @@
+{
+  "checksum": "99deccad8c1673e740ed5f65224b8921",
+  "room": {
+    "id": 35162,
+    "title": [
+      "[The Raider's Take, Corridor]"
+    ],
+    "description": [
+      "Passing beyond the eaves as it slips through the branches of an ancient larch, sunlight slants across the brazier-lined corridor in long bands.  Creating the appearance of sinister sentinels, support posts carved to resemble wargs flank a set of descending steps and glare balefully at the gathering hall beyond.  A grey-washed dark pine door occupies the western russet-stained wall and is open to the brazier-warmed air."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35157": "south",
+      "35161": "go steps",
+      "35163": "go door"
+    },
+    "timeto": {
+      "35157": 0.2,
+      "35161": 0.2,
+      "35163": 0.2
+    },
+    "uid": [
+      4426708
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "checksum": "313b39a226ea4b5cf90c235cea872268",
+  "room": {
+    "id": 19903,
+    "title": [
+      "[Woodlands, Blackberry Patch]"
+    ],
+    "description": [
+      "The trail bends from the north to the west through a sunny clearing that breaks the deep woods.  Tangles of blackberry bushes grow around the trunks of the scattered trees, their brambles extending into the small paths that lead to homes in the underbrush.  A flock of blackbirds have stopped to rest in the branches of a nearby oak, filling the clearing with their cries."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "barren scrub",
+    "wayto": {
+      "19904": "/rooms/19903/wayto/stringproc-19904.rb",
+      "19905": "north",
+      "19906": "west"
+    },
+    "timeto": {
+      "19904": 0.2,
+      "19905": 0.2,
+      "19906": 0.2
+    },
+    "tags": [
+      "cactacae spine",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "blueberries",
+      "stalk of chicory",
+      "handful of currants",
+      "elderberries",
+      "wild grapes",
+      "broken twig",
+      "sprig of alyssum",
+      "golden buttercup",
+      "red clover blossom",
+      "pink clover blossom",
+      "white clover blossom",
+      "purple clover blossom",
+      "yellow clover blossom",
+      "stalk of goldenrod",
+      "sprig of larkspur",
+      "yellow primrose",
+      "small wild rose",
+      "sprig of wild lilac",
+      "Imaera's Lace",
+      "wild chokecherry",
+      "murkweed",
+      "fire lily",
+      "blue whortleberry",
+      "pepperthorn root",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      700351
+    ],
+    "image": "wl-homes-2-1264234799.png",
+    "image_coords": [
+      522,
+      559,
+      538,
+      574
+    ]
+  }
+}

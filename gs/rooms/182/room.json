@@ -1,0 +1,46 @@
+{
+  "checksum": "06458f695d97aa3c610d8fb8e7f508fe",
+  "room": {
+    "id": 182,
+    "title": [
+      "[Ta'Illistim, Stearriza Var]"
+    ],
+    "description": [
+      "The neatly kept cottages of the var march cheerily onward, many displaying painted wooden window boxes brimming with colorful blooms.  Bees, humming with industrious glee, hover about trees and bushes alongside the var.  A sign swings above the doorway of one cottage.",
+      "The neatly kept cottages of the var march cheerily onward, many displaying wooden window boxes brimming with shadowy blooms.  Moonlight glimmers across the var.",
+      "The neatly kept houses of the var present their marbled facades, many displaying carved pediments and entablatures lit by unflickering blue lights.  A sign swings above the arched doorway of one building, setting it apart from the residential structures around it.",
+      "The neatly kept houses of the var present their marbled facades, many displaying carved pediments and entablatures.  A sign swings above the arched doorway of one building, setting it apart from the residential structures around it."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "181": "southwest",
+      "183": "northeast",
+      "24641": "go doorway"
+    },
+    "timeto": {
+      "181": 0.2,
+      "183": 0.2,
+      "24641": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100012
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1237,
+      848,
+      1261,
+      870
+    ]
+  }
+}

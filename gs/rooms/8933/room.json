@@ -1,0 +1,36 @@
+{
+  "checksum": "c1b0e33b07eccf39188a7841416af4f7",
+  "room": {
+    "id": 8933,
+    "title": [
+      "[Wizard Guild, Balcony]"
+    ],
+    "description": [
+      "A wide balustrade of unevenly twisted metals defines the edge of the walkway.  Stonework, set in a herringbone pattern along the balcony, is washed in hues of violet and celadon from the endless lightstorm swirling through the center of the tower."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8932": "southwest",
+      "8934": "east",
+      "8941": "go arch"
+    },
+    "timeto": {
+      "8932": 0.2,
+      "8934": 0.2,
+      "8941": 0.2
+    },
+    "uid": [
+      680050
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      108,
+      107,
+      158,
+      155
+    ]
+  }
+}

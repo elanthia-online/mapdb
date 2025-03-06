@@ -1,0 +1,27 @@
+{
+  "checksum": "28fa176ac6549d27165a83a194070c75",
+  "room": {
+    "id": 33735,
+    "title": [
+      "[Cairnfang Manor, Nook]"
+    ],
+    "description": [
+      "Set back from the main room, the small nook is enclosed by panels of rough driftwood.  Terracotta tiles are set into the floor in a haphazard pattern with a tarnished brass lamp on the wall the only light source.  A runner of woven sea grass creates a cushioned walkway leading to a heavy beaded curtain."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "33734": "east",
+      "33736": "go curtain"
+    },
+    "timeto": {
+      "33734": 0.2,
+      "33736": 0.2
+    },
+    "uid": [
+      5001076
+    ]
+  }
+}

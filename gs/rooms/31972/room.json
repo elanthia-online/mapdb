@@ -1,0 +1,32 @@
+{
+  "checksum": "05738ba35a9893442a7fb5208ddef0dd",
+  "room": {
+    "id": 31972,
+    "title": [
+      "[Shadowplay, Hall]"
+    ],
+    "description": [
+      "Rows of ecru beeswax candles haunt the narrow chamber with ghostly light, accentuating the intricate bas-relief roses snaking over the stone surface of the walls.  A silver-chased mistwood trunk displays its innards enticingly in the dim, flickering glow."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31928": "north",
+      "32107": "go passage"
+    },
+    "timeto": {
+      "31928": 0.2,
+      "32107": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084522
+    ]
+  }
+}

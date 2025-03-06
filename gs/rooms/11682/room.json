@@ -1,0 +1,76 @@
+{
+  "checksum": "56d44c581e1abe39d55f7879e15682ab",
+  "room": {
+    "id": 11682,
+    "title": [
+      "[Ghastly Swamp, Foggy Path]"
+    ],
+    "description": [
+      "Tendrils of cold, damp fog swirl about the area, reducing visibility to nothing with encompassing walls of white mist, leaving no sign of the pathway underfoot.  Even the surrounding sounds and noises of the swampy area are muted by the fog, creating a stillness that permeates the area."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "moist",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11681": "southeast",
+      "11683": "/rooms/11682/wayto/stringproc-11683.rb"
+    },
+    "timeto": {
+      "11681": 0.2,
+      "11683": 0.2
+    },
+    "tags": [
+      "yellow heliconia",
+      "red passionflower",
+      "pink passionflower",
+      "purple passionflower",
+      "pink heliconia",
+      "withered black mushroom",
+      "red heliconia",
+      "calamia fruit",
+      "aloeas stem",
+      "trollfear mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "water chestnut",
+      "stalk of cattail",
+      "spider lily",
+      "alligator lily",
+      "kylan berry",
+      "orange heliconia",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      376005
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      97,
+      1161,
+      107,
+      1171
+    ]
+  }
+}

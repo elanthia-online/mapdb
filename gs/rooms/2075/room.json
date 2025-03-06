@@ -1,0 +1,75 @@
+{
+  "checksum": "198d84620ae2e2471c645bfefe49c9a9",
+  "room": {
+    "id": 2075,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "This must have been the main square of the village.  The charred remains of a large fountain occupy the center of the area, rising up from a rectangular pool brimming with stagnant, soot-filled water.  A statue that once rose gracefully from the center of the fountain is now a twisted, blackened mockery of its former beauty.  Large stone buildings border the square, but even though they are still standing, they did not escape the fire unscathed."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, west"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2068": "east",
+      "2069": "southeast",
+      "2076": "west",
+      "2083": "north",
+      "12640": "go mercantile",
+      "12643": "go inn",
+      "12644": "go doorway",
+      "12647": "go constabulary"
+    },
+    "timeto": {
+      "2068": 0.2,
+      "2069": 0.2,
+      "2076": 0.2,
+      "2083": 0.2,
+      "12640": 0.2,
+      "12643": 0.2,
+      "12644": 0.2,
+      "12647": 0.2
+    },
+    "tags": [
+      "small wild rose",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "withered black mushroom",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "wild chokecherry",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030211
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      536,
+      1001,
+      544,
+      1009
+    ]
+  }
+}

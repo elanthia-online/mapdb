@@ -1,0 +1,77 @@
+{
+  "checksum": "102d35c4343c6fb6ec4eaf7f486d591f",
+  "room": {
+    "id": 5536,
+    "title": [
+      "[Outlands Manor, Stable]"
+    ],
+    "description": [
+      "Smelling more of moldered hay and rotted wood than of horses, the dark interior of the stable provides a faded image of its past glory.  Outlines and nail holes mark the wood where metallic crests once adorned the now warped maoral stalls and the carved haon doorjamb.  An old modwir ladder leads up to the stable's hayloft above the empty stalls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Outlands",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5533": "out",
+      "5561": "go ladder",
+      "14602": "go stall"
+    },
+    "timeto": {
+      "5533": 0.2,
+      "5561": 0.2,
+      "14602": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "withered black mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "sweet potato",
+      "agave heart",
+      "brown-skinned kiwi",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4215118
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1390,
+      629,
+      1400,
+      639
+    ]
+  }
+}

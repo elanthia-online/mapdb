@@ -1,0 +1,32 @@
+{
+  "checksum": "fbc6ca4dc61649020782a7b55100717a",
+  "room": {
+    "id": 31906,
+    "title": [
+      "[Goblin King Dolls, Landing]"
+    ],
+    "description": [
+      "Shattered porcelain litters the floor, and the wood frame, walls, and flooring around the door are blackened with a mix of soot and mold.  The layout of this upstairs landing has been mostly walled off.  There are no windows, hallways, or other doors here.  Shelves staggered, hung across the eastern wall, are home to more dolls."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31905": "go stairs",
+      "32097": "go door"
+    },
+    "timeto": {
+      "31905": 0.2,
+      "32097": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084624
+    ]
+  }
+}

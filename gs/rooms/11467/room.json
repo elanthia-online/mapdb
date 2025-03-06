@@ -1,0 +1,54 @@
+{
+  "checksum": "086f0b9dbc5d9df02369e1c7f9b33f74",
+  "room": {
+    "id": 11467,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A pair of tall elkhorn corals stand in the sand of the bay floor like sentinels.  Bluish turtle grass, thick as a lawn, surrounds the coral.  A few grey, egg-sized stones lay scattered in the turtle grass.  Dozens of yellow-striped fish, no bigger than a dwarf's thumb, meander through the thick grasses."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11459": "/rooms/11467/wayto/stringproc-11459.rb",
+      "11460": "/rooms/11467/wayto/stringproc-11460.rb",
+      "11463": "/rooms/11467/wayto/stringproc-11463.rb",
+      "11464": "/rooms/11467/wayto/stringproc-11464.rb",
+      "11466": "/rooms/11467/wayto/stringproc-11466.rb",
+      "11468": "/rooms/11467/wayto/stringproc-11468.rb",
+      "11470": "/rooms/11467/wayto/stringproc-11470.rb",
+      "11471": "/rooms/11467/wayto/stringproc-11471.rb",
+      "11473": "/rooms/11467/wayto/stringproc-11473.rb"
+    },
+    "timeto": {
+      "11459": 2,
+      "11460": 2,
+      "11463": 2,
+      "11464": 2,
+      "11466": 3,
+      "11468": 2,
+      "11470": 2,
+      "11471": 2,
+      "11473": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304222
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      949,
+      1234,
+      959,
+      1244
+    ]
+  }
+}

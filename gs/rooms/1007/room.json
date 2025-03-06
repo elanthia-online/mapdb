@@ -1,0 +1,58 @@
+{
+  "checksum": "aab93dafeda94e014c2ef46b8c2a8374",
+  "room": {
+    "id": 1007,
+    "title": [
+      "[Zul Logoth, Emerald Tunnel]"
+    ],
+    "description": [
+      "Emerald light plays across the tunnel ceiling in circular patches as each toadstool projects its glow upward through its green cap.  A gentle, constant breeze courses through the tunnel, but the toadstools remain unmoving due to the sheer weight and solidity of their stalks and lack of variance in the wind's speed.  The lower glow from the toadstools also creates pools of light and areas of darkness.  This is not a travel problem, though, for the floor is smooth and clear of hidden obstructions."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1006": "northeast",
+      "1008": "southwest",
+      "5748": "northwest",
+      "9448": "go building",
+      "32823": "go stone arch"
+    },
+    "timeto": {
+      "1006": 0.2,
+      "1008": 0.2,
+      "5748": 0.2,
+      "9448": 0.2,
+      "32823": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006008
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      494,
+      581,
+      514,
+      601
+    ]
+  }
+}

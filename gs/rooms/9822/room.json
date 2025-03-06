@@ -1,0 +1,40 @@
+{
+  "checksum": "3b781b05ae6db23b90676d0c0e56d200",
+  "room": {
+    "id": 9822,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "The rich brown hue of the walls and floor continues as both stretch out to create another twisting, narrow passageway.  A single, deep crack rends one wall nearly in two, roots streaming out of the cramped space like tiny tentacles.  Several cracked vertebrae have been wedged into the jagged crevasse, each lined up in a perfectly straight row."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, northwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9821": "southwest",
+      "9823": "northwest",
+      "9825": "north"
+    },
+    "timeto": {
+      "9821": 0.2,
+      "9823": 0.2,
+      "9825": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022013
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1097,
+      492,
+      1107,
+      502
+    ]
+  }
+}

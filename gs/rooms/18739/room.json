@@ -1,0 +1,28 @@
+{
+  "checksum": "c41ac5b561d0fc153ed4c3f0177a3d5f",
+  "room": {
+    "id": 18739,
+    "title": [
+      "[Cleric Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "18732": "south",
+      "19787": "go cauldrons"
+    },
+    "timeto": {
+      "18732": 0.2,
+      "19787": 0.2
+    },
+    "uid": [
+      674022
+    ],
+    "check_location": true
+  }
+}

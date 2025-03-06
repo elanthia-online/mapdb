@@ -1,0 +1,40 @@
+{
+  "checksum": "94b08a921f84d47d478b1cd7e54fb6c9",
+  "room": {
+    "id": 9170,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "Leaning up against one of the walls is a long slender plank.  The wood is cracked from top to bottom and it doesn't look particularly sturdy.  Near this makeshift ladder, one of the roundish stones used in the wall has been scrawled on with some crude graffiti.  It's difficult to make out, but it looks as if it might be a picture or drawing of some sort."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9169": "west",
+      "9171": "south",
+      "9190": "climb plank"
+    },
+    "timeto": {
+      "9169": 0.2,
+      "9171": 0.2,
+      "9190": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531005
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      847,
+      572,
+      857,
+      582
+    ]
+  }
+}

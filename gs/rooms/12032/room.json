@@ -1,0 +1,46 @@
+{
+  "checksum": "922237d9e7e4f547a2ee34228d17287e",
+  "room": {
+    "id": 12032,
+    "title": [
+      "[Basilica Platform, First Level]"
+    ],
+    "description": [
+      "The irregular shadows of night darkened ruins spread out to the west of the pyramid.  Wide stone steps lead down to the streets below.  Another set of steps lead up to the second level of the pyramid.",
+      "Positioned above all the single story buildings of the city, it is possible to see the damage that time has wrought.  Several blocks to the northwest a tall, dark tower pokes its tip above the cracked and crumbling walls of the surrounding structures.  Wide stone steps lead down to the streets below.  Another set of steps lead up to the second level of the pyramid."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, down"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12031": "down",
+      "12033": "southeast",
+      "12035": "northeast",
+      "12036": "climb steps"
+    },
+    "timeto": {
+      "12031": 0.2,
+      "12033": 0.2,
+      "12035": 0.2,
+      "12036": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004163
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      641,
+      501,
+      649,
+      509
+    ]
+  }
+}

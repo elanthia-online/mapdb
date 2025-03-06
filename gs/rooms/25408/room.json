@@ -1,0 +1,41 @@
+{
+  "checksum": "74c4516944dc735dad3d0910cde87e66",
+  "room": {
+    "id": 25408,
+    "title": [
+      "[Hendoran Outpost, Upper Hall]"
+    ],
+    "description": [
+      "A narrow window offers a view of the inner courtyard below and in case of emergency, an archer's perch for the determined defenders of the outpost.  The hallway is divided by a thick brown bearskin rug that runs its length, separating two sets of doors.  A single Hendoran guard stands sentry beside the iron-bound wooden doorway."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25407": "east",
+      "25411": "go ladder"
+    },
+    "timeto": {
+      "25407": 0.2,
+      "25411": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336338
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      449,
+      597,
+      483,
+      632
+    ]
+  }
+}

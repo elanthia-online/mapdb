@@ -1,0 +1,40 @@
+{
+  "checksum": "8324607e7940a3c3d5f68f690cb1c748",
+  "room": {
+    "id": 25702,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Sunlight warms the moist tropical air of the watercourse and glitters off of the gently rolling waves.  Rocky shoals stand out against the verdant green of nearby islands and are surrounded by strands of seaweed that has been dislodged from the ocean floor.",
+      "Moonlight illuminates the watercourse, its silvery glow casting the rocky shoals that surround the nearby islands in dark shadows.  Heavy and moist, the tropical air is perfumed with the acrid scent of salt and the sweet fragrance of tropical fruits."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25701": "/rooms/25702/wayto/stringproc-25701.rb",
+      "25703": "/rooms/25702/wayto/stringproc-25703.rb"
+    },
+    "timeto": {
+      "25701": 6,
+      "25703": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223854
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1600,
+      1600,
+      1620,
+      1617
+    ]
+  }
+}

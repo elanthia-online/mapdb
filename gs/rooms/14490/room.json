@@ -1,0 +1,34 @@
+{
+  "checksum": "a50b920a187fc4520143d5db3509bf69",
+  "room": {
+    "id": 14490,
+    "title": [
+      "[Aquarium, Under the Sea]"
+    ],
+    "description": [
+      "A wide tunnel has been constructed to allow passage through the enormous aquarium, thick glass surrounding it on all sides, save for the dark carpeted floor.  Fish of all kinds pass above and beside you, swimming alongside visitors as they walk past.  A short metal handrail follows the curve of the glass walls on both sides."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14489": "northwest",
+      "14491": "northeast",
+      "14492": "southwest",
+      "14493": "southeast"
+    },
+    "timeto": {
+      "14489": 0.2,
+      "14491": 0.2,
+      "14492": 0.2,
+      "14493": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      411160
+    ]
+  }
+}

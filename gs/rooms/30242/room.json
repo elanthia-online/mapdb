@@ -1,0 +1,36 @@
+{
+  "checksum": "8753e4428b97baf510f72af98c1bf3d3",
+  "room": {
+    "id": 30242,
+    "title": [
+      "[West Docks, Blue Geode Pier]"
+    ],
+    "description": [
+      "The glaes-strengthened oak pier is punctuated by teak posts set at regular intervals.  Neatly coiled piles of rope frame each docking slip, and thick cork bumpers protect the docking structure from errant ships.  A glaes-edged sign hangs between thick strands of hemp railing and reads, \"West Docks, Blue Geode Pier - Slips 1-5,\" and underneath someone has scrawled, \"Stormbrow is watching.\""
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30241": "north",
+      "30243": "south",
+      "30249": "east"
+    },
+    "timeto": {
+      "30241": 0.2,
+      "30243": 0.2,
+      "30249": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7123006
+    ]
+  }
+}

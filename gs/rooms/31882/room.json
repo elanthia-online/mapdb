@@ -1,0 +1,32 @@
+{
+  "checksum": "feeebfd620df915f0d5bb602e0ab8860",
+  "room": {
+    "id": 31882,
+    "title": [
+      "[The Witching Flower]"
+    ],
+    "description": [
+      "Creeping along the ceiling and walls of the room, a thick labyrinth of leafy vines creates a verdant enclosure, allowing only a series of wooden hooks to peek through.  Tendrils of greenery weave in and out, blanketing the floor and surrounding a tall oak hutch.  The foliage travels around a glass-inlaid ironwood door, a small copper handle barely visible through the massive tangle."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31881": "south",
+      "32110": "go ironwood door"
+    },
+    "timeto": {
+      "31881": 0.2,
+      "32110": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084443
+    ]
+  }
+}

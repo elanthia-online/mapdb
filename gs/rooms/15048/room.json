@@ -1,0 +1,29 @@
+{
+  "checksum": "e640af78ea8969eff35748cba63e4a06",
+  "room": {
+    "id": 15048,
+    "title": [
+      "[Limper's Outfitting]"
+    ],
+    "description": [
+      "A portrait hangs on one of the glossy mistwood walls, and a vaulted ceiling rises overhead.  A bronzed drake sculpture sits in one corner of an enameled hardwood floor.  There is a gilded maple cabinet on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "369": "out",
+      "15081": "east",
+      "15082": "north"
+    },
+    "timeto": {
+      "369": 0.2,
+      "15081": 0.2,
+      "15082": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

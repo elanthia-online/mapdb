@@ -1,0 +1,48 @@
+{
+  "checksum": "db2daea41b913aa4b4891b3a7b587551",
+  "room": {
+    "id": 7149,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Sticky cobwebs cling to your face, despite your best efforts to brush them away.  The webbing is tougher and stickier than any you've ever encountered before.  A small pot set high on a wall sheds a flickering light over the area, just enough to turn the webs into shadowy traps.",
+      "Sticky cobwebs cling to your face despite your best efforts to brush them away.  The webbing is tougher and stickier than any you've ever encountered before.  A small pot set high on a wall sheds a flickering light over the area, just enough to turn the webs into shadowy traps."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7147": "northeast",
+      "7150": "south"
+    },
+    "timeto": {
+      "7147": 0.2,
+      "7150": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01",
+      "meta:maze",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      41003,
+      41008,
+      41013,
+      41017
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      872,
+      527,
+      882,
+      537
+    ]
+  }
+}

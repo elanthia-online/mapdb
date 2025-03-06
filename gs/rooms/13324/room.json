@@ -1,0 +1,33 @@
+{
+  "checksum": "5137176831ff7eb07cd5e94c715658d6",
+  "room": {
+    "id": 13324,
+    "title": [
+      "[Eorgina's Temple, Narthex]"
+    ],
+    "description": [
+      "Just inside the doors, the elaborate detail work in this vestibule becomes evident.  Each wall has been painted with a lush monument symbolizing fealty to Eorgina in the Willing, the Unwilling, and the Scholar.  Shaped like ornate crowns of solid silver and amply set with precious gems, small mounted altars hold a trio of candles, lit and providing a soft glow.  An openwork black iron divider of thorned vines with an arched portal leads farther inside the temple."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13322": "out",
+      "13348": "go portal"
+    },
+    "timeto": {
+      "13322": 0.2,
+      "13348": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900002
+    ]
+  }
+}

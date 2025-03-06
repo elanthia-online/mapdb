@@ -1,0 +1,41 @@
+{
+  "checksum": "0055cfebe5922b921591f30a85e2f596",
+  "room": {
+    "id": 31084,
+    "title": [
+      "[Abandoned Manor, Remains]"
+    ],
+    "description": [
+      "What may once have been a fine house now lies hollow and guttered.  All that is left standing is the rickety skeleton of the structure, heavily blackened with char in some areas.  A mixture of dust, dead leaves, and decaying pieces of wood form the debris that nearly covers the floor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Forgotten Vineyard",
+    "wayto": {
+      "5383": "out",
+      "31085": "/rooms/31084/wayto/stringproc-31085.rb"
+    },
+    "timeto": {
+      "5383": 0.2,
+      "31085": 3.2
+    },
+    "tags": [
+      "meta:mapname:Vornavis - Forgotten Vineyard",
+      "meta:mapshortname:Forgotten Vineyard",
+      "meta:mapcategory:Vornavis",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4225001
+    ],
+    "image": "vo-forgotten_vineyard-1653511567.png",
+    "image_coords": [
+      302,
+      1404,
+      351,
+      1451
+    ]
+  }
+}

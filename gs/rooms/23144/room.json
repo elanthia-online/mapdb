@@ -1,0 +1,30 @@
+{
+  "checksum": "9d3406fbc24a473f162955c268c9f867",
+  "room": {
+    "id": 23144,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23138": "/rooms/23144/wayto/stringproc-23138.rb"
+    },
+    "timeto": {
+      "23138": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Paupers, Annex Lobby\\]$/",
+      "pauperslocker",
+      "meta:locker"
+    ],
+    "uid": [
+      3215143
+    ]
+  }
+}

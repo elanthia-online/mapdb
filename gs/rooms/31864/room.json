@@ -1,0 +1,43 @@
+{
+  "checksum": "346c6999112d11fad7169a692d6bfa2e",
+  "room": {
+    "id": 31864,
+    "title": [
+      "[Icebriar Lake]"
+    ],
+    "description": [
+      "The frozen expanse of the lake stretches far and wide, the banks littered with broken remnants of docks, small boats, and other debris.  Large drifts of snow, often peppered with vicious thorns, block most access points to the lake, a sole icy bank navigable.  A small variety of structures dot the glittering surface of the lake, and a few holes are cut into the ice, revealing green-black depths."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "icy glacier",
+    "wayto": {
+      "31863": "go bank",
+      "32204": "go canted shack",
+      "34937": "go snug shelter"
+    },
+    "timeto": {
+      "31863": 0.2,
+      "32204": 0.2,
+      "34937": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083075
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1204,
+      203,
+      1228,
+      225
+    ]
+  }
+}

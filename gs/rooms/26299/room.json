@@ -1,0 +1,33 @@
+{
+  "checksum": "b9d998c5ccbec0a688e4fec95663049e",
+  "room": {
+    "id": 26299,
+    "title": [
+      "[Lich Citadel, Outer Chamber]"
+    ],
+    "description": [
+      "The walls of the citadel move like liquid darkness, shifting and drifting along.  Ethereal forms move through the shadows, their transparent forms appearing more like ripples in the air."
+    ],
+    "paths": [
+      "Obvious exits: east, west, down"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26298": "down",
+      "26300": "west",
+      "26303": "east"
+    },
+    "timeto": {
+      "26298": 0.2,
+      "26300": 0.2,
+      "26303": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1368,
+      677,
+      1394,
+      703
+    ]
+  }
+}

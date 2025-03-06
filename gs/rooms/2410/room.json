@@ -1,0 +1,50 @@
+{
+  "checksum": "b62f4b5fcdd860ed0b75ecfa22e3c3a4",
+  "room": {
+    "id": 2410,
+    "title": [
+      "[Icemule Trace, South Road]"
+    ],
+    "description": [
+      "Occasional cheers of victory or groans of failure echo from the west, where the rooftop of the town's gaming hall glistens with a fresh tracing of silvery ice.  Several newcomers to town, standing out due to their foreign garb and lack of layered clothing, filter through the doors of a stone cottage.  A few crafty young krolvin linger outside, plying them for spare silvers.",
+      "The hoarse voices from the west are hard to understand.  Either they are happy cries or anguished moans, or perhaps both.  A group of enterprising youths approach you and ask for silvers, but continue along the road without pausing for your response."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2409": "north",
+      "2411": "south",
+      "2421": "east",
+      "3411": "go cottage",
+      "3436": "west",
+      "27031": "go tent"
+    },
+    "timeto": {
+      "2409": 0.2,
+      "2411": 0.2,
+      "2421": 0.2,
+      "3411": 0.2,
+      "3436": 0.2,
+      "27031": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042227
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      583,
+      1053,
+      619,
+      1089
+    ]
+  }
+}

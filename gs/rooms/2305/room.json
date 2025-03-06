@@ -1,0 +1,49 @@
+{
+  "checksum": "3057afcffa2c80bb5d1c09ae0977dcf9",
+  "room": {
+    "id": 2305,
+    "title": [
+      "[Temple Burrow, Oleani Way]"
+    ],
+    "description": [
+      "Children dash down the street, filling the chilly air with high-pitched laughter.  Although many are halflings, there are just as many giantkin and half-krolvin among them.  They weave in spritely chases through the traffic before a snow-covered wooden lodge while a small coterie of sylvankind youths follows at a more sedate pace.  Several would-be merchants near to the lodge hawk rings and other tokens of affection.",
+      "You are nearly bowled over by a large group of children dashing by on the cottage-lined street.  They seem to be chasing an impish lad who is carrying a small shoe and, as one of the pursuers has a single bare foot, you can see how the chase started.  Given the situation, you aren't certain who to root for.",
+      "A cold wind bears the promise of a coming storm down the street.  Most of the cottages are quiet and dark, but here and there a candle burns in a window to light the way home."
+    ],
+    "paths": [
+      "Obvious paths: north, east, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2304": "northwest",
+      "2306": "east",
+      "2321": "north",
+      "30709": "/rooms/2305/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2304": 0.2,
+      "2306": 0.2,
+      "2321": 0.2,
+      "30709": "/rooms/2305/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "calmintha flower",
+      "urchin guide weddinghall",
+      "urchin-access",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042003
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      848,
+      699,
+      884,
+      735
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "6d966a4c6805e09884613d68e18528b8",
+  "room": {
+    "id": 397,
+    "title": [
+      "[Moot Hall, Upstairs Corridor]"
+    ],
+    "description": [
+      "This end of the hallway is quieter, its hardwood floor muffled by a large burgundy-colored rug.  Potted plants, well-watered but looking a bit starved for sun in their dark corners, stand on two elaborate brass tables on either side of a richly carved mahogany door at the end of the hall.",
+      "The end of the hallway is enclosed by large burgundy rugs.  Potted plants are displayed on brass stands resting between a polished maoral door and a richly carved mahogany door.  The dark corridor doesn't offer much in terms of natural lighting."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "396": "west",
+      "398": "go maoral door",
+      "23839": "go ladder",
+      "31425": "go burnished archway"
+    },
+    "timeto": {
+      "396": 0.2,
+      "398": 0.2,
+      "23839": 0.2,
+      "31425": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      2062
+    ],
+    "image": "wl-moot_hall-1486755929.png",
+    "image_coords": [
+      767,
+      495,
+      906,
+      556
+    ]
+  }
+}

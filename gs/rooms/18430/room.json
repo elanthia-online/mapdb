@@ -1,0 +1,32 @@
+{
+  "checksum": "1ad31c2b4a865bd8ad6ed47ca9f0a8c8",
+  "room": {
+    "id": 18430,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "Near the steps of a tin-roofed building is a small hitching post and just on the other side is a trough of murky water.  Between the supports that rise to the roof on the building's porch is a hand-painted banner that simply proclaims, \"Welcome!\""
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18395": "northwest",
+      "18429": "northeast",
+      "18431": "go building",
+      "18451": "southeast"
+    },
+    "timeto": {
+      "18395": 0.2,
+      "18429": 0.2,
+      "18431": 0.2,
+      "18451": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

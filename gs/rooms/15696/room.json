@@ -1,0 +1,34 @@
+{
+  "checksum": "9f086eb5d1b7a349d178171396247573",
+  "room": {
+    "id": 15696,
+    "title": [
+      "[Bard Guild, Auditorium Lobby]"
+    ],
+    "description": [
+      "The lobby has richly carved wooden walls.  A thick rug covers the polished floorboards, helping to insulate the chamber from the pervading cold outside a heavy, carved door on the east wall.  Overhead, a massive lantern sheds soft light from hundreds of candles placed along its wrought-iron arms.  Each small flame is protected from drafts by a small, amber-colored paper shade."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3461": "go heavy door",
+      "15800": "go double doors",
+      "22100": "go arch"
+    },
+    "timeto": {
+      "3461": 0.2,
+      "15800": 0.2,
+      "22100": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      280004
+    ]
+  }
+}

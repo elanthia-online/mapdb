@@ -1,0 +1,38 @@
+{
+  "checksum": "ff0f91890114daadae6239fe022d2f18",
+  "room": {
+    "id": 16991,
+    "title": [
+      "[Guild Hall, Basement]"
+    ],
+    "description": [
+      "You stand at the bottom of a narrow stairwell, in the dank, musty and dark basement of the Guild Hall.  A doorway leads west, though the door itself seems to have been removed from its hinges."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "16990": "go steps",
+      "16996": "west"
+    },
+    "timeto": {
+      "16990": 0.2,
+      "16996": 0.2
+    },
+    "tags": [
+      "warrior guild cleaning supplies",
+      "warrior guild tool rack"
+    ],
+    "uid": [
+      251100
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      419,
+      780,
+      441,
+      802
+    ]
+  }
+}

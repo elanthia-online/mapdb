@@ -1,0 +1,34 @@
+{
+  "checksum": "e78d004c8daa5ceffa2ebee528fba269",
+  "room": {
+    "id": 15513,
+    "title": [
+      "[Henty's Depot, Warehouse]"
+    ],
+    "description": [
+      "A massive ramp leads down from a large opening adjacent to some stairs.  Numerous papers have been affixed to a nearby bulletin board labeled, \"Inventory.\"  A series of pulleys and ropes line the ceiling of the passage, in order to securely move cargo between floors."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6361": "go stairs",
+      "15515": "east",
+      "15517": "north"
+    },
+    "timeto": {
+      "6361": 0.2,
+      "15515": 0.2,
+      "15517": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      731045
+    ]
+  }
+}

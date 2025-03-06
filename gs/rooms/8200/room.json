@@ -1,0 +1,51 @@
+{
+  "checksum": "92914acf74aad8158b11fd176547cf20",
+  "room": {
+    "id": 8200,
+    "title": [
+      "[Sea Caverns, Chieftain's Lair]"
+    ],
+    "description": [
+      "This chamber is furnished with an old, battered table and a trio of rickety chairs.  An especially large pile of rags lies in the northeast corner.  At its foot is a massive iron chest.  A ragged tapestry is hung upon the southern wall."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8199": "west",
+      "8201": "south"
+    },
+    "timeto": {
+      "8199": 0.2,
+      "8201": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391007
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      601,
+      68,
+      611,
+      78
+    ]
+  }
+}

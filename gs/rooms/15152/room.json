@@ -1,0 +1,36 @@
+{
+  "checksum": "527e64eaf40b3be013fb96e08690cae3",
+  "room": {
+    "id": 15152,
+    "title": [
+      "[Ungerd's Weaponry]",
+      "[Ungerd's Combat Gear]",
+      "[Ungerd's Armory]",
+      "[Ungerd's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an ebonwood beam ceiling, a midnight blue rising phoenix tapestry hangs on one of the varnished ebonwood walls.  A jewel-inlaid caddy and a vine-carved mahogany table sit in opposite corners while a bronzed drake sculpture rests on a speckled black marble floor.",
+      "Beneath an ebonwood beam ceiling, a midnight blue rising phoenix tapestry hangs on one of the varnished ebonwood walls.  A jewel-inlaid caddy and a gold-leafed mistwood cabinet sit in opposite corners while a bronzed drake sculpture rests on a speckled black marble floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "355": "out",
+      "15483": "west",
+      "15484": "east"
+    },
+    "timeto": {
+      "355": 0.2,
+      "15483": 0.2,
+      "15484": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      634321
+    ]
+  }
+}

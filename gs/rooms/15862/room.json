@@ -1,0 +1,30 @@
+{
+  "checksum": "321540d264cf5626880ea4f189d26b73",
+  "room": {
+    "id": 15862,
+    "title": [
+      "[Myztyk's Magic Shoppe]",
+      "[Myztyk's Weaponry]"
+    ],
+    "description": [
+      "Beneath a varnished oak ceiling, a pair of wooden snowshoes hangs on one of the dark oak walls.  A long varnished counter and an iron-banded wooden chest sit in opposite corners while a polar bear rug rests on a polished oak floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2373": "out",
+      "15878": "southwest",
+      "15879": "southeast"
+    },
+    "timeto": {
+      "2373": 0.2,
+      "15878": 0.2,
+      "15879": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

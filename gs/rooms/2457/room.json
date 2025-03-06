@@ -1,0 +1,42 @@
+{
+  "checksum": "9c219b22b67e9c4667c04a9f15a088a6",
+  "room": {
+    "id": 2457,
+    "title": [
+      "[Icemule Trace, Jailhouse Path]"
+    ],
+    "description": [
+      "There are garden plots along the walls to either side of the jail entrance, a sturdy steel door etched with a dour-looking mule.  The hardy herbs and flowers growing in the cold soil lend the gloomy structure a glimmer of natural beauty.  The jailhouse path bends around a large boulder that is worn smooth by the elements.  The rock's sheer size suggests that its presence might predate the town around it.",
+      "A small, well-tended garden surrounds the entrance to the Icemule Trace Jailhouse, providing it with a sense of simple beauty.  The garden is centered around a large boulder that has rested here since long before Icemule was founded."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2456": "go path",
+      "2458": "go door"
+    },
+    "timeto": {
+      "2456": 0.2,
+      "2458": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042326
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      977,
+      871,
+      1019,
+      897
+    ]
+  }
+}

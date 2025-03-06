@@ -1,0 +1,45 @@
+{
+  "checksum": "32286fe1c56b8705cb4381a504abd533",
+  "room": {
+    "id": 12515,
+    "title": [
+      "[Golvern Street, Rock Garden]"
+    ],
+    "description": [
+      "Four enormous pillars frame the block, their red-veined blue glaes contrasting sharply with the gold of the cobblestones.  An elven bard leans against one, gently strumming a mandolin and singing in a low, soothing voice.  A mithril-bound wooden gate leads out into the city proper."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12396": "go gate",
+      "12516": "northeast",
+      "12517": "southwest",
+      "12518": "northwest"
+    },
+    "timeto": {
+      "12396": 0.2,
+      "12516": 0.2,
+      "12517": 0.2,
+      "12518": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703207
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      218,
+      409,
+      236,
+      427
+    ]
+  }
+}

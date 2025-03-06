@@ -1,0 +1,26 @@
+{
+  "checksum": "dfa3389d75859968c2320a7032b1986c",
+  "room": {
+    "id": 23169,
+    "title": [
+      "[Halfway Midway, Carousel]"
+    ],
+    "description": [
+      "A scalloped wooden overhang encloses a dingy white ceiling whorled with gold flourishes accented by hints of color.  From somewhere within the central column of the carousel, a tinny, off-key melody filters into the air, while the column's exterior is decorated with scenes of carnival games, booths, and a variety of fantastical creatures.  Overhead, strings of glass-globed lights span out like spokes from the center of the carousel, shedding an amber light onto the bobbing wooden carousel creatures below."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest, out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "23166": "northeast",
+      "23171": "northwest",
+      "23173": "/rooms/23169/wayto/stringproc-23173.rb"
+    },
+    "timeto": {
+      "23166": 0.2,
+      "23171": 0.2,
+      "23173": 0.2
+    }
+  }
+}

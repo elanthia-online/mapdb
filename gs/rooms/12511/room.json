@@ -1,0 +1,45 @@
+{
+  "checksum": "14199b6049864d1239fa26420836ce15",
+  "room": {
+    "id": 12511,
+    "title": [
+      "[Adventurer's Guild, Lobby]"
+    ],
+    "description": [
+      "Thick and windowless marble walls enclose this rather spacious lobby, which is liberally decorated with the mounted heads of both exotic and mundane beasts.  The floor is covered with fine bearskin rugs and various specimens of antique dwarven stone furniture.  Overhead, a massive candle-lit chandelier adequately illuminates the area and provides for the impressive shadows cast by the various stuffed beasts arrayed about the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "the Adventurer's Guild",
+    "wayto": {
+      "1955": "out",
+      "12512": "west",
+      "12513": "east",
+      "30715": "/rooms/12511/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1955": 0.2,
+      "12512": 0.2,
+      "12513": 0.2,
+      "30715": "/rooms/12511/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin guide bounty",
+      "urchin-access",
+      "bounty",
+      "meta:nomagic"
+    ],
+    "uid": [
+      15001001
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      1598,
+      1912,
+      1667,
+      1977
+    ]
+  }
+}

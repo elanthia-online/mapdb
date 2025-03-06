@@ -1,0 +1,44 @@
+{
+  "checksum": "7d4628f3f0fbc5737dca37fe569d5b47",
+  "room": {
+    "id": 30439,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Water the brilliant blue of sapphires strikes the rock-laced island shore to the east even as it spirals foam-tinged toward a spinning whirlpool to the north.  The jagged shoreline holds all the safety of broken glass as the battering current crashes against it noisily, the sound itself serving as a cautionary warning to all but the most foolhardy."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south, southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30420": "pedal south",
+      "30435": "pedal north",
+      "30436": "pedal northwest",
+      "30438": "pedal northeast"
+    },
+    "timeto": {
+      "30420": 6,
+      "30435": 6,
+      "30436": 6,
+      "30438": 6
+    },
+    "tags": [
+      "map:samepath:southwest,northwest",
+      "no forageables"
+    ],
+    "uid": [
+      3216159
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      626,
+      2123,
+      641,
+      2139
+    ]
+  }
+}

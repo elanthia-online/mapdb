@@ -1,0 +1,39 @@
+{
+  "checksum": "0272c10b27ca4920f578ecabc9b7849b",
+  "room": {
+    "id": 25699,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Bouncing on the tumultuous waves, a series of blown glass globes creates a small barrier that prevents swimmers from entering the traffic of the harbor and boats from invading the recreational area.  Multihued, scaly bodies churn the surface of the water as hundreds of fish rise from the depths to take part in a moonlit meal."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25698": "/rooms/25699/wayto/stringproc-25698.rb",
+      "25700": "/rooms/25699/wayto/stringproc-25700.rb"
+    },
+    "timeto": {
+      "25698": 6,
+      "25700": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223836
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1360,
+      1359,
+      1381,
+      1378
+    ]
+  }
+}

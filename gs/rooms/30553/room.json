@@ -1,0 +1,41 @@
+{
+  "checksum": "71a1c293aab1e77874b22f21d4058ff9",
+  "room": {
+    "id": 30553,
+    "title": [
+      "[Hub]"
+    ],
+    "description": [
+      "A placid dark lake extends to the south.  A sheltered island sits in the center of the lake, and a bridge arches over the lake's waters to reach the island.  Well-maintained paths of white stone wind through a stark landscape of crushed volcanic rock and strategically placed volcanic boulders.  Tiny grey lizards peek out from under some of the boulders while others scamper over the rocks in search of an insect meal.  A stairway rises to the north, and a stone building resides to the east.",
+      "A placid, crystal blue lake extends to the south.  A sheltered island sits in the center of the lake, and a bridge arches over the lake's waters to reach the island.  Well-maintained paths of white stone wind through a stark landscape of crushed volcanic rock and strategically placed volcanic boulders.  Tiny grey lizards sun themselves on some of the boulders while others scamper over the rocks in search of an insect meal.  A stairway rises to the north, and a stone building resides to the east."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "30552": "go stairway",
+      "30554": "go building",
+      "30557": "go bridge",
+      "30574": "go door",
+      "30575": "west"
+    },
+    "timeto": {
+      "30552": 0.2,
+      "30554": 0.2,
+      "30557": 0.2,
+      "30574": 0.2,
+      "30575": 0.2
+    },
+    "uid": [
+      652003
+    ],
+    "image": "teras-empath_guild.jpg",
+    "image_coords": [
+      614,
+      270,
+      676,
+      328
+    ]
+  }
+}

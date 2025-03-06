@@ -1,0 +1,46 @@
+{
+  "checksum": "0b56dedff2ce56e7999d82b9042bf656",
+  "room": {
+    "id": 17104,
+    "title": [
+      "[Cleric Guild, Landing]"
+    ],
+    "description": [
+      "Walls made of polished and lacquered wood gleam a rich golden brown in the lantern light.  Whorls and swirls of darker grains weave through the whole, joining shadows and sun in an intricate dance.  In the center of the room stand two statues, one male and one female, backs turned but still looking over their shoulders, each watching the other.  They stand upon a wooden base with words carved into the surface.  The soft, rich scent of incense drifts through the air, tickling at the nose."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, west, northwest, up"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6321": "go door",
+      "18597": "up",
+      "18598": "northwest",
+      "18602": "/rooms/17104/wayto/stringproc-18602.rb",
+      "18603": "southwest",
+      "18606": "southeast",
+      "18607": "northeast",
+      "18728": "west"
+    },
+    "timeto": {
+      "6321": 0.2,
+      "18597": 0.2,
+      "18598": 0.2,
+      "18602": 0.4,
+      "18603": 0.2,
+      "18606": 0.2,
+      "18607": 0.2,
+      "18728": 0.2
+    },
+    "uid": [
+      671001
+    ],
+    "image": "wl-cleric_guild-1275417297.png",
+    "image_coords": [
+      579,
+      196,
+      625,
+      242
+    ]
+  }
+}

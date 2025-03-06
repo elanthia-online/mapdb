@@ -1,0 +1,40 @@
+{
+  "checksum": "d4b9f0059b4e19ae9392e3a64242d985",
+  "room": {
+    "id": 12239,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "A brilliant purple stone formation with veins of orange towers overhead.  Frozen humanoid corpses lie around the base of the formation in supplicated positions.  Tiny bright red insect-like creatures feast upon the dead, skittering to and fro from an unseen nest.",
+      "A brilliant purple stone formation with veins of orange towers overhead.  Desiccated humanoid corpses lie around the base of the formation in supplicated positions.  Tiny bright red insect-like creatures surrounded by a subtle, yet distinct flame scavenge the dead, skittering to and fro from an unseen nest."
+    ],
+    "paths": [
+      "Obvious exits: north, up",
+      "Obvious paths: north, up"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12239/wayto/stringproc-12151.rb",
+      "12237": "up",
+      "12238": "north",
+      "12241": "go barrier"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12237": 0.2,
+      "12238": 0.2,
+      "12241": 0.2
+    },
+    "uid": [
+      4571015
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      572,
+      322,
+      594,
+      344
+    ]
+  }
+}

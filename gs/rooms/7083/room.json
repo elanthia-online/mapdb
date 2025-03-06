@@ -1,0 +1,42 @@
+{
+  "checksum": "87a1faa311e9ddf08fd76984dabd7c01",
+  "room": {
+    "id": 7083,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Climbing under the wall and up into this room, you find yourself on top of a pile of rubble, up near the ceiling.  There's a trapdoor set in the center of the ceiling within your reach.  This is a good thing, because you can make out the remnants of a ladder, smashed to splinters beneath the collapsed wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7082": "go space",
+      "7120": "go trapdoor"
+    },
+    "timeto": {
+      "7082": 0.2,
+      "7120": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44019
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      840,
+      835,
+      850,
+      845
+    ]
+  }
+}

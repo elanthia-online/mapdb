@@ -1,0 +1,59 @@
+{
+  "checksum": "3ef48737c10f62f60053a7b1227eeb11",
+  "room": {
+    "id": 12662,
+    "title": [
+      "[Teras Isle, Beach]"
+    ],
+    "description": [
+      "Dim moonlight bathes the beach in its glow, causing portions of the beach to shimmer like a masterfully cut gem.  The gentle, rhythmic breaking of waves against rock can be heard coming from the sea.",
+      "Sunlight breaks through the clouds and ash above in bright streams, bathing the area in shadowed light.  Tiny crustaceans skitter across the beach, appearing and disappearing near the rocks of the sea.  The gentle, rhythmic breaking of waves against rock and sand echoes through the cove, interrupted only by the occasional call of a sea bird."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "humid",
+    "terrain": "sandy",
+    "wayto": {
+      "2071": "go incline",
+      "12677": "/rooms/12662/wayto/stringproc-12677.rb",
+      "20786": "/rooms/12662/wayto/stringproc-20786.rb"
+    },
+    "timeto": {
+      "2071": 0.2,
+      "12677": 45,
+      "20786": 45
+    },
+    "tags": [
+      "yabathilium fruit",
+      "meta:mapname:Teras Isle - Nelemar",
+      "meta:mapshortname:Nelemar",
+      "meta:mapcategory:Teras Isle",
+      "acantha leaf",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3031001
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      1173,
+      768,
+      1191,
+      786
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "a9941435c85fc98b33aaba7934772cf9",
+  "room": {
+    "id": 1575,
+    "title": [
+      "[Solhaven, South Market SW]"
+    ],
+    "description": [
+      "Looking more like an oversized stall than a shop, the wooden wall panels of the western-most business have been swung open to allow customers to more easily enter and examine the wide variety of items for sale.  A silver-painted breastplate hangs from the second story of the storefront.  The bustle of the South Market continues to the west along a substantial pier, and a catwalk extends to the northwest behind the Market's row of east-facing shops."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1572": "northeast",
+      "1574": "east",
+      "1576": "north",
+      "1582": "west",
+      "9306": "go catwalk",
+      "34277": "go small shop"
+    },
+    "timeto": {
+      "1572": 0.2,
+      "1574": 0.2,
+      "1576": 0.2,
+      "1582": 0.2,
+      "9306": 0.2,
+      "34277": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902109
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      577,
+      1459,
+      599,
+      1481
+    ]
+  }
+}

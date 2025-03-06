@@ -1,0 +1,78 @@
+{
+  "checksum": "02a9e1ca7b44af6ce4698ef81246b925",
+  "room": {
+    "id": 8918,
+    "title": [
+      "[Wizard Guild, Courtyard]"
+    ],
+    "description": [
+      "Winter appears to have somewhat loosened its cold grip upon the verdant swath of lawn surrounding the stone building.  Flowers imported from a more mild climate much farther to the south line either side of the path that courses through a green sea of impeccably clipped grass.  A cobblestone path arcs away from the courtyard while a pair of large arched doors leading into the guild stand slightly ajar."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Icemule Trace",
+    "climate": "temperate",
+    "terrain": "cultivated",
+    "wayto": {
+      "3352": "go footbridge",
+      "8919": "go path",
+      "8920": "go doors",
+      "30709": "/rooms/8918/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "3352": 0.2,
+      "8919": 0.2,
+      "8920": "/rooms/8918/timeto/stringproc-8920.rb",
+      "30709": "/rooms/8918/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "wizardguild",
+      "some cactacae spine",
+      "calamia fruit",
+      "haphip root",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "trollfear mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "small violet",
+      "golden buttercup",
+      "Imaera's Lace",
+      "rose-marrow root",
+      "small primrose",
+      "raspberries",
+      "blue whortleberry",
+      "arctic brambles",
+      "witchwood twig",
+      "yew twig",
+      "luckbloom blossom",
+      "wavepetal blossom",
+      "nightbloom blossom",
+      "onion skin",
+      "urchin-access",
+      "urchin guide wizardguild",
+      "wizard guild",
+      "cactacae spine",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      680002
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      212,
+      800,
+      263,
+      851
+    ]
+  }
+}

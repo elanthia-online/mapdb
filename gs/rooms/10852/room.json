@@ -1,0 +1,92 @@
+{
+  "checksum": "4f7de05883e38610a3d7428488c5d831",
+  "room": {
+    "id": 10852,
+    "title": [
+      "[River's Rest, Commons Circle]"
+    ],
+    "description": [
+      "Here, the dusty roadway splits and continues to the northeast and northwest.  The rush of River Road traffic to the south is faint in the air and the pace of life seems slower and calmer to the north.  Between the roads, a dusty pathway fades into a broad expanse of green lawn."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10840": "south",
+      "10853": "northwest",
+      "10859": "northeast",
+      "10861": "go pathway",
+      "28717": "go patched tent",
+      "30711": "/rooms/10852/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10840": 0.2,
+      "10853": 0.2,
+      "10859": 0.2,
+      "10861": 0.2,
+      "28717": 0.2,
+      "30711": "/rooms/10852/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "pepperthorn root",
+      "stalk of chicory",
+      "sprig of thanot",
+      "ironfern root",
+      "handful of oats",
+      "murdroot",
+      "heath aster",
+      "sprig of alyssum",
+      "small daisy",
+      "yellow primrose",
+      "stalk of goldenrod",
+      "small rose",
+      "wild chokecherry",
+      "withered black mushroom",
+      "urchin-access",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "angelica root",
+      "small wild rose",
+      "motherwort",
+      "sagebrush root",
+      "murkweed",
+      "mistweed",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "agave heart",
+      "bright red beet",
+      "green guava",
+      "meta:forage-sensed:night:2023-02",
+      "juniper berry",
+      "curly garlic scapes",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101004
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2290,
+      1006,
+      2326,
+      1040
+    ]
+  }
+}

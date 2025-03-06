@@ -1,0 +1,29 @@
+{
+  "checksum": "827510eab228cd7dfe88d2c3c7bb4e2b",
+  "room": {
+    "id": 16258,
+    "title": [
+      "[Karazja Jungle, Overgrown Path]"
+    ],
+    "description": [
+      "Thick vines cross the path, hindering passage but not preventing it.  Large pitcher-shaped plants grow on one side of the pathway.  Their bluish-grey flowers drip a smelly, viscous fluid onto the leaves.  A stand of tall bamboo trees rattles in the breeze."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16253": "northwest",
+      "16257": "west",
+      "16259": "east"
+    },
+    "timeto": {
+      "16253": 0.2,
+      "16257": 0.2,
+      "16259": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "84a9bf217de1b4088849103229f2d975",
+  "room": {
+    "id": 9271,
+    "title": [
+      "[Pets No More]"
+    ],
+    "description": [
+      "Taking up less than a quarter of the length of the wagon, this small room contains only a short, butcher block counter with Mettys Rundig standing behind it.  A curtained doorway to the left of the counter leads further into the wagon."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Northern Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9247": "out",
+      "14082": "go doorway"
+    },
+    "timeto": {
+      "9247": 0.2,
+      "14082": 0.2
+    },
+    "tags": [
+      "furrier",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4746110
+    ]
+  }
+}

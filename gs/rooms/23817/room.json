@@ -1,0 +1,37 @@
+{
+  "checksum": "b01bb61581a48e770a7a1efa14813a74",
+  "room": {
+    "id": 23817,
+    "title": [
+      "[Antiques, Baubles, And Trinkets]"
+    ],
+    "description": [
+      "Stacks of wooden boxes and crates are piled high around the small room overflowing with a wide assortment of trinkets.  Various bits and pieces of curiosity are stuffed inside several dust-covered display cases.  The walls are lined with wooden shelves cluttered with a tangle of items.  Attendants wander in and out of the aisles, pausing to peer inside a container before resuming their search."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "617": "go out",
+      "30714": "/rooms/23817/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "617": 0.2,
+      "30714": "/rooms/23817/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "collectibles",
+      "urchin-access",
+      "urchin guide collectibles",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13103200
+    ]
+  }
+}

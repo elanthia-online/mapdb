@@ -1,0 +1,27 @@
+{
+  "checksum": "6f510945f2ae94283cae6223437c8556",
+  "room": {
+    "id": 15418,
+    "title": [
+      "[Helden Hall, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "15416": "go beaded curtain",
+      "15417": "east"
+    },
+    "timeto": {
+      "15416": 0.2,
+      "15417": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Helden Hall"
+    ]
+  }
+}

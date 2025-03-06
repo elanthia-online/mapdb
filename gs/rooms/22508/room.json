@@ -1,0 +1,25 @@
+{
+  "checksum": "28b3851f0d13ff3df737671f3c4c0c40",
+  "room": {
+    "id": 22508,
+    "title": [
+      "[Woods In the Woods, Third Floor]"
+    ],
+    "description": [
+      "More knotty pine covers the skewed walls of this third-story room.  The ladder sticking out from the hole in the floor extends down to the second floor, and some uneven steps lead up to the topmost room of the shop.  A rough-hewn plank has been nailed to the front of a tall wooden wardrobe."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "22507": "go ladder",
+      "22509": "go steps"
+    },
+    "timeto": {
+      "22507": 0.2,
+      "22509": 0.2
+    },
+    "check_location": false
+  }
+}

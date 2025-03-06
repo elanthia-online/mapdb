@@ -1,0 +1,50 @@
+{
+  "checksum": "055e2b759ddc1710cb152b1bdd139a5a",
+  "room": {
+    "id": 5924,
+    "title": [
+      "[Catacombs, Altar]"
+    ],
+    "description": [
+      "Thick bluish-green mold covers the walls entirely.  Sudden cracks and holes in the ground make walking treacherous.  In each corner of the room, stands considerably sized candelabras with partially burnt blood-red candles perched atop them.  A wooden lectern rests atop a raised, rock platform in the center of the room.  An old tome lies open on the lecturn."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5923": "south",
+      "5925": "east",
+      "5947": "west"
+    },
+    "timeto": {
+      "5923": 0.2,
+      "5925": 0.2,
+      "5947": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "some wingstem root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009017
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      261,
+      902,
+      268,
+      912
+    ]
+  }
+}

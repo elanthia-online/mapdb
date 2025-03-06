@@ -1,0 +1,43 @@
+{
+  "checksum": "672f6e69bdeef84471e28f6909c47ef8",
+  "room": {
+    "id": 32352,
+    "title": [
+      "[Frostmain Docks, Salty Pier]",
+      "[Frostmain, Starboard Pier]"
+    ],
+    "description": [
+      "Salt cakes, deposited by the waters over the years, have turned the planks of the pier into a crunchy mess.  The salt is stained red and orange by the rust coming off of the nails that hold the planks together.  Brine stings sharply in the air.",
+      "The easternmost of the trio of piers is a mess of creaky planks spotted heavily with the droppings of seafowl.  Waters to either side are deep, black, and cold.  Stinging salt is so thick on the air as to have left cakes of gleaming grit on the nearby pylons."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32351": "south",
+      "32353": "north"
+    },
+    "timeto": {
+      "32351": 0.2,
+      "32353": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133020
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1272,
+      600,
+      1317,
+      644
+    ]
+  }
+}

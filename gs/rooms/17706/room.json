@@ -1,0 +1,38 @@
+{
+  "checksum": "d4aa62115148d342fc3b899af32a5755",
+  "room": {
+    "id": 17706,
+    "title": [
+      "[Citadel, Stairwell]"
+    ],
+    "description": [
+      "Moonlight filters in through an arrow slit in the wall, shedding light on a stone spiral staircase that descends into darkness below.  An old wooden chair sits at the top of the stairwell, its seat rotted through, next to glass bottle knocked over on its side."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11366": "out",
+      "17707": "climb staircase"
+    },
+    "timeto": {
+      "11366": 0.2,
+      "17707": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377301
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      102,
+      1224,
+      112,
+      1234
+    ]
+  }
+}

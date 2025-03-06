@@ -1,0 +1,41 @@
+{
+  "checksum": "de7bfe0b31d6e290955aab2fe7da2a87",
+  "room": {
+    "id": 17967,
+    "title": [
+      "[Rogue Guild, Center Courtyard]"
+    ],
+    "description": [
+      "The rough wooden wall of an old warehouse, broken only by the outline of a simple wooden door, bounds the north side of the courtyard.  The frosty ground is hard-packed and muddy around the several small tables and chairs that have been arranged near the stone wall of the gaming hall on the south side, where a small well provides a convenient source of water."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Icemule Trace",
+    "wayto": {
+      "17965": "west",
+      "17968": "go door",
+      "17976": "east"
+    },
+    "timeto": {
+      "17965": 0.2,
+      "17968": 0.2,
+      "17976": 0.2
+    },
+    "tags": [
+      "rogue guild administrator",
+      "rogue guild plant",
+      "meta:trashcan:oak barrel"
+    ],
+    "uid": [
+      260004
+    ],
+    "image": "imt-rogue_guild-1305438533.png",
+    "image_coords": [
+      349,
+      343,
+      379,
+      368
+    ]
+  }
+}

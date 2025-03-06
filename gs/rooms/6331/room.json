@@ -1,0 +1,36 @@
+{
+  "checksum": "f95af0c6ea62a244b04c59ba1a05b7c4",
+  "room": {
+    "id": 6331,
+    "title": [
+      "[Wizard Guild, Day Room]"
+    ],
+    "description": [
+      "The long broad room is dimly lit by the light coming from the few occupied tables that hold lanterns.  A few candles are set up near the middle of a long counter that runs along a good portion of the opposite wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6330": "go arch",
+      "6332": "south",
+      "6348": "north"
+    },
+    "timeto": {
+      "6330": 0.2,
+      "6332": 0.2,
+      "6348": 0.2
+    },
+    "uid": [
+      681005
+    ],
+    "image": "wl-wizard_guild.jpg",
+    "image_coords": [
+      215,
+      411,
+      263,
+      460
+    ]
+  }
+}

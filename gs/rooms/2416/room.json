@@ -1,0 +1,47 @@
+{
+  "checksum": "a34b5b1e4a001117340b47c7733873d1",
+  "room": {
+    "id": 2416,
+    "title": [
+      "[Commerce Burrow, Krolvin Alley]",
+      "[Commerce Burrow, Elven Alley]"
+    ],
+    "description": [
+      "Twisting and turning between weathered buildings of brick and pine, the cobbled alley slopes steeply downward.  Dense shadows lurk to either side of the walkway.  As if oblivious to the foreboding look of the span, an elegant little shop opens onto the alleyway, hand-drawn maps of locales familiar and foreign on display through its wide bay windows.",
+      "Twisting and turning between weathered buildings of stone and wood, the alley slopes steeply downward.  Shadows dance along the high walls and across the packed earth road."
+    ],
+    "paths": [
+      "Obvious paths: north, down"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2415": "north",
+      "2417": "go shop",
+      "2418": "down",
+      "3402": "go wagon"
+    },
+    "timeto": {
+      "2415": 0.2,
+      "2417": 0.2,
+      "2418": 0.2,
+      "3402": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042322
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      759,
+      1232,
+      795,
+      1268
+    ]
+  }
+}

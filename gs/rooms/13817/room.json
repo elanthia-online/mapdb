@@ -1,0 +1,30 @@
+{
+  "checksum": "b90801521b5e95d92e614d23f1b6ee33",
+  "room": {
+    "id": 13817,
+    "title": [
+      "[G.E.M.S. Embassy, Great Hall]"
+    ],
+    "description": [
+      "The broad splay of white oak plank flooring unfolds to meet the high stone walls.  Numerous rows of lacquered rowan benches are separated by a wide aisle that stretches from the front door to a stately oak lectern set at the head of the room.  Behind the lectern stands a pair of oak double doors framed by two tall recessed windows.  Candles held in golden sconces line the eastern and western walls, and a large chandelier hangs high over the aisle, tethered to the center beam of the lofty, exposed timber ceiling."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13504": "out",
+      "13836": "go door",
+      "13843": "go arch"
+    },
+    "timeto": {
+      "13504": 0.2,
+      "13836": 0.2,
+      "13843": 0.2
+    },
+    "tags": [
+      "meta:mho:G.E.M.S.",
+      "gone"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "679eae1dd44419c62cc8ede545a08150",
+  "room": {
+    "id": 23830,
+    "title": [
+      "[Abbey Stables, Caravan Master]",
+      "[Abbey Stables]"
+    ],
+    "description": [
+      "The center of the stables has been turned into a makeshift office by an old maplewood counter that demarcates the workspace of a harried caravan master.  Framed by horse stalls along either wall, the hay-strewn space is well-lit and breezy, the air kept fresh by a large window along one wall that lets in a crisp, cold breeze.",
+      "Motes of dust float gently in shafts of light streaming into the stable through great holes torn from the thatched ceiling.  The hard-packed floor is littered with molding straw, from which puffs of dust arise with one's every movement."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "221": "/rooms/23830/wayto/stringproc-221.rb",
+      "2773": "/rooms/23830/wayto/stringproc-2773.rb",
+      "2942": "south",
+      "2943": "north",
+      "29860": "/rooms/23830/wayto/stringproc-29860.rb"
+    },
+    "timeto": {
+      "221": 3600,
+      "2773": 3600,
+      "2942": 0.2,
+      "2943": 0.2,
+      "29860": 3600
+    },
+    "tags": [
+      "nedum vereri",
+      "dark shambler",
+      "arctic puma",
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10",
+      "silver-cost:29860:3000",
+      "silver-cost:221:3000",
+      "silver-cost:2773:3000"
+    ],
+    "uid": [
+      4132017
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      379,
+      963,
+      433,
+      1016
+    ]
+  }
+}

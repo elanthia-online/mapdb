@@ -1,0 +1,34 @@
+{
+  "checksum": "1b8e3ffcc2f1c15e575a8105ecf8769b",
+  "room": {
+    "id": 16620,
+    "title": [
+      "[Underground Tunnel]"
+    ],
+    "description": [
+      "The tunnel dips slightly as it bends around the cold rock of a stone cellar, and the floor at the lowest point is muddy and tangled with roots.  A narrower and drier stretch of passage leads northwest into darkness, and a flicker of light can be seen from the southwest."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16590": "southwest",
+      "16621": "northwest"
+    },
+    "timeto": {
+      "16590": 0.2,
+      "16621": 0.2
+    },
+    "uid": [
+      261058
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      243,
+      471,
+      271,
+      499
+    ]
+  }
+}

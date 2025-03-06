@@ -1,0 +1,39 @@
+{
+  "checksum": "c988bea178175a1613f031e68bd9178c",
+  "room": {
+    "id": 12582,
+    "title": [
+      "[Hog's Pen]"
+    ],
+    "description": [
+      "This rugged tavern is a single great hall, windowless and choked with smoke from its blazing hearth and the long pipes favored by many of the local dwarves.  Tables and benches are scattered about, clumped here and there in bunches where a large group of miners or a logging team has staked a claim.  A row of barrels set on end near the fire and tended by a gruff bearded fellow seems to serve as a bar.  Around it, rain and ale have softened the dirt floor to mud."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the old Logging Road",
+    "wayto": {
+      "2053": "go flap",
+      "12583": "north",
+      "28709": "go staircase"
+    },
+    "timeto": {
+      "2053": 0.2,
+      "12583": 0.2,
+      "28709": "/rooms/12582/timeto/stringproc-28709.rb"
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3010001
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      419,
+      315,
+      429,
+      325
+    ]
+  }
+}

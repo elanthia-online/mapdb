@@ -1,0 +1,41 @@
+{
+  "checksum": "3fcb49813201905e6b9b39a9dcded240",
+  "room": {
+    "id": 18859,
+    "title": [
+      "[Twilight Hall, Kyrion's Refuge]"
+    ],
+    "description": [
+      "Tall vine-covered walls rise around the lush setting of the Refuge.  A stone path wends its way in sinuous patterns through verdant greenery that fills the area. Bushes trimmed in the shapes of various animals both real and legendary line the path, with benches placed in secluded areas for conversation and contemplation. A small artificial waterfall to one side cascades into a pool that beckons one to slip into its cool embrace."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18849": "up",
+      "18860": "go waterfall",
+      "18861": "go path",
+      "18863": "go trellis"
+    },
+    "timeto": {
+      "18849": 0.2,
+      "18860": 0.2,
+      "18861": 0.2,
+      "18863": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108005
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      589,
+      267,
+      674,
+      320
+    ]
+  }
+}

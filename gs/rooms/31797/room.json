@@ -1,0 +1,32 @@
+{
+  "checksum": "632ecafefe07d8ff6de690f729b6c7f3",
+  "room": {
+    "id": 31797,
+    "title": [
+      "[Evermore Hotel, Grand Hall]"
+    ],
+    "description": [
+      "Highly polished floors reflect tiered chandeliers suspended on lengthy chains overhead, the flickering candles catching specks of gold in the black marble underfoot.  On all sides, carpeted staircases climb up and out of sight to the floor above, the walls presenting a gallery of artwork to be discovered on each flight.  Richly appointed settees clustered around evenly spaced columns marching down the center of the hall encourage casual discourse between guests."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31748": "south",
+      "32187": "/rooms/31797/wayto/stringproc-32187.rb"
+    },
+    "timeto": {
+      "31748": 0.2,
+      "32187": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8087163
+    ]
+  }
+}

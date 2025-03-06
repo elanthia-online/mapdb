@@ -1,0 +1,37 @@
+{
+  "checksum": "3fb71e675c2dc6a730d62db23816e38e",
+  "room": {
+    "id": 17824,
+    "title": [
+      "[Warehouse]"
+    ],
+    "description": [
+      "A threadbare rug manages to partially cover a massive blood stain on the floor.  Evidently it was easier to cover it than try to clean it.  Grunting, groaning and an occasional thud can be heard emanating from somewhere nearby."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17823": "south",
+      "18345": "go trapdoor"
+    },
+    "timeto": {
+      "17823": 0.2,
+      "18345": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      267125
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      177,
+      299,
+      219,
+      339
+    ]
+  }
+}

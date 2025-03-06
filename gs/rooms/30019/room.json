@@ -1,0 +1,32 @@
+{
+  "checksum": "4c22695cedeadaa5a1c1383008910665",
+  "room": {
+    "id": 30019,
+    "title": [
+      "[Eldurhaart, High Hall]"
+    ],
+    "description": [
+      "Arched beams of polished yew support the high peaked roof of the high hall, each carved with a pattern reminiscent of winding scales.  The air is warm and close and heavily tinged with char, and above, a colossal draconic head of carved spruce looks down over the entryway with cruelly narrowed eyes.  Rough-hewn stairs rise from the stone floor toward a dais in the north, which appears to be source of the heat and flickering firelight that casts the entryway in such ominous shadow."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30018": "out",
+      "30026": "north"
+    },
+    "timeto": {
+      "30018": 0.2,
+      "30026": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503382
+    ]
+  }
+}

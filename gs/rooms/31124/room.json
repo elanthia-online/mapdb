@@ -1,0 +1,37 @@
+{
+  "checksum": "9cfbf69e14609fe5a5b5c32c30c1afed",
+  "room": {
+    "id": 31124,
+    "title": [
+      "[House Aspis, Kitchen]"
+    ],
+    "description": [
+      "As you walk into this warm and homey place, the aromas of many meals past invade your senses.  Feasts of old have made their mark upon this room, from the large brick oven designed to roast whole roltons, to the pouches of herbs and spices strewn about the countertops.  A rack of burnished and well-used pots hang above your head, within easy reach of the stove top.  Next to the wastebin, sits a deeply-scarred and stained butcher block.  A hallway leads to the formal dining room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31122": "out",
+      "31125": "go hall"
+    },
+    "timeto": {
+      "31122": 0.2,
+      "31125": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102104
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      135,
+      648,
+      265,
+      721
+    ]
+  }
+}

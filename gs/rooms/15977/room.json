@@ -1,0 +1,38 @@
+{
+  "checksum": "ff6e7b9747e307d22537d852ff2ea168",
+  "room": {
+    "id": 15977,
+    "title": [
+      "[Sorcerer Guild, Library]"
+    ],
+    "description": [
+      "Shelves resting against the redwood walls display an extensive assortment of reading materials.  Several circular communal reading tables occupy the center of the room with six chairs placed around each table.  A heavy layer of sawdust covers the floor, effectively eliminating the sound of passage.  A rectangular skylight allows moonlight to stream liberally into the room, illuminating the tables, shelves, and a rather stern-looking librarian seated at a corner desk.  Several torches also burn brightly."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "13102": "go tunnel",
+      "17096": "go arch",
+      "17102": "go mist",
+      "17103": "north"
+    },
+    "timeto": {
+      "13102": 0.2,
+      "17096": 0.2,
+      "17102": 0.2,
+      "17103": 0.2
+    },
+    "uid": [
+      663008
+    ],
+    "image": "rr-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      643,
+      462,
+      679,
+      500
+    ]
+  }
+}

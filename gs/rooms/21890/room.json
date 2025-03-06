@@ -1,0 +1,37 @@
+{
+  "checksum": "7301018e17de48dd63e743ed0c8bc429",
+  "room": {
+    "id": 21890,
+    "title": [
+      "[Talador, East Circle]"
+    ],
+    "description": [
+      "Vibrant-hued pavilions and merchant carts line the stone road, hawkers displaying their wares to tourists, citizens and town guards alike.  An armored knight stands to the side of the road, brushing down the side of his dapple grey horse."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21879": "west",
+      "21887": "southeast",
+      "21891": "go tent",
+      "21892": "go pavilion",
+      "21894": "go wagon"
+    },
+    "timeto": {
+      "21879": 0.2,
+      "21887": 0.2,
+      "21891": 0.2,
+      "21892": 0.2,
+      "21894": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      368,
+      158,
+      395,
+      183
+    ]
+  }
+}

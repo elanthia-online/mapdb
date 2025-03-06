@@ -1,0 +1,28 @@
+{
+  "checksum": "21e5151528807bc43cb9ada22b0c2f3f",
+  "room": {
+    "id": 19754,
+    "title": [
+      "[Empath Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "19747": "south",
+      "19755": "go cauldrons"
+    },
+    "timeto": {
+      "19747": 0.2,
+      "19755": 0.2
+    },
+    "uid": [
+      654017
+    ],
+    "check_location": true
+  }
+}

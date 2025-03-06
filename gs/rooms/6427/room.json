@@ -1,0 +1,39 @@
+{
+  "checksum": "91ebb29f52003edaa1b672fe2a3093b5",
+  "room": {
+    "id": 6427,
+    "title": [
+      "[Lysierian Hills, Bedroom]"
+    ],
+    "description": [
+      "This small room attached to the larger great room of the cottage was probably the master bedroom.  It is completely empty now, except for a few small bushes that have sprung up through the floor near the window of the north wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6426": "out",
+      "6428": "go window"
+    },
+    "timeto": {
+      "6426": 0.2,
+      "6428": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      93064
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1127,
+      189,
+      1137,
+      199
+    ]
+  }
+}

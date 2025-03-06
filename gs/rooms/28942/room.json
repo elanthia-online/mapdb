@@ -1,0 +1,32 @@
+{
+  "checksum": "6225593c2bef39ab99ac64f4da57b45e",
+  "room": {
+    "id": 28942,
+    "title": [
+      "[The Naked Fauna]"
+    ],
+    "description": [
+      "A small counter occupies the back wall, its backdrop a large glass tank housing a variety of colorful fish.  Stretched beneath a tall drying rack covered in stretched animal skins, a loosely-woven seagrass mat attempts to protect the wagon floors from scuffing but does little to hide the wear and tear.  A cheerful windchime of two pewter octopuses sways in the doorway of the shop."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28895": "out",
+      "30716": "/rooms/28942/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28895": 0.2,
+      "30716": "/rooms/28942/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier"
+    ],
+    "uid": [
+      7118430
+    ]
+  }
+}

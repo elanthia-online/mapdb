@@ -1,0 +1,62 @@
+{
+  "checksum": "c443983af8541f746bd7ed3e0ea0ac65",
+  "room": {
+    "id": 2300,
+    "title": [
+      "[Icemule Trace, Town Center]"
+    ],
+    "description": [
+      "A bustling square dusted with snow sprawls beneath a sturdy mule statue standing placidly atop a tall plinth of silver-veined black stone.  The sun filters through the ice of the statue, showering the throng with a kaleidoscope of rainbowed shards.  Some denizens, mostly halflings but with a scattering of other folk mixed in, chatter by a roaring bonfire, lazing on a smooth dark stone bench or reclining on colorful cloaks spread out on the ground.  Others mill around a burled pine message board standing close to a colorful silver-bound barrel.",
+      "The bustling town comes together in this square.  Halflings dressed in varying fashions stand about, some chattering happily, others reclining on cloaks laid on the ground.  One ancient halfling leans against the base of the large ice statue of a mule, snoring blissfully.  A feeling of community pervades the area, putting you immediately at ease.",
+      "The center of the bustling frontier town is overseen by the large ice statue of a mule, which rises from the surrounding snow on a plinth of cold dark stone.  The sun's radiance filters through the ice, casting prismatic rays of light over a swirling throng of halflings.  Some chatter loudly by a colorful silver-bound barrel emblazoned with a row of tiny grey penguins, while others recline on colorful cloaks spread out across the hard ground.  Over by a smooth dark stone bench, a roaring bonfire crackles merrily, lending its warmth to the surroundings.",
+      "The center of the slumbering frontier town is overseen by the large ice statue of a mule, which rises from the surrounding snow on a plinth of cold dark stone.  The stars' brilliance winks through the ice, casting prismatic glints of light over a scattering of halflings.  Some chatter quietly by a colorful silver-bound barrel emblazoned with a row of tiny grey penguins, while others stargaze on colorful cloaks spread out across the hard ground.  Near the comfort of a smooth dark stone bench, a roaring bonfire crackles merrily, lending its warmth and illumination to the surroundings."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, west",
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2301": "north",
+      "2302": "south",
+      "2426": "east",
+      "3233": "west",
+      "30709": "/rooms/2300/wayto/stringproc-30709.rb",
+      "34071": "northeast"
+    },
+    "timeto": {
+      "2301": 2.4,
+      "2302": 2.4,
+      "2426": 2.4,
+      "3233": 2.4,
+      "30709": "/rooms/2300/timeto/stringproc-30709.rb",
+      "34071": 0.2
+    },
+    "tags": [
+      "node",
+      "town",
+      "calmintha flower",
+      "supernode",
+      "meta:mapname:Icemule Trace",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Towns",
+      "urchin-access",
+      "urchin guide tc",
+      "tc",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042150
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      581,
+      787,
+      617,
+      823
+    ]
+  }
+}

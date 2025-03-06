@@ -1,0 +1,52 @@
+{
+  "checksum": "c6c547359b7a54943ecb6fce1da7f9b9",
+  "room": {
+    "id": 10130,
+    "title": [
+      "[Fethayl Bog, Muddy Slough]"
+    ],
+    "description": [
+      "The nearby saw grass has overgrown the trail in some places and rustles softly in the breeze.  Where the trail is still clear, some recent disturbances in the mud indicate that it may be deeper than it looks.  A lake of thick mud, littered with several unidentifiable objects discarded by previous travelers, blocks passage to the southeast."
+    ],
+    "paths": [
+      "Obvious paths: west, northwest"
+    ],
+    "location": "Fethayl Bog",
+    "climate": "saltwater",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "10128": "northwest",
+      "10131": "west",
+      "10133": "/rooms/10130/wayto/stringproc-10133.rb"
+    },
+    "timeto": {
+      "10128": 0.2,
+      "10131": 0.2,
+      "10133": 5
+    },
+    "tags": [
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "saltmeadow cordgrass",
+      "blades of cordgrass",
+      "blue-green marshgrass",
+      "feathery mannagrass",
+      "yellowed salt reedgrass",
+      "meta:forage-sensed:day:2023-11",
+      "broken twig",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13038005
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      1113,
+      231,
+      1123,
+      241
+    ]
+  }
+}

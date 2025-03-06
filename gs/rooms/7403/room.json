@@ -1,0 +1,46 @@
+{
+  "checksum": "227f2a0e4b04841f11facf5e8d9c8762",
+  "room": {
+    "id": 7403,
+    "title": [
+      "[Tunnel Chamber]"
+    ],
+    "description": [
+      "Three tunnels have met to form a large chamber within the mine.  Every sound you make echoes down the tunnels, and returns to your ears seconds later as a faint unrecognizable jumble of voices and sound."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7402": "northeast",
+      "7404": "south",
+      "7405": "northwest"
+    },
+    "timeto": {
+      "7402": 0.2,
+      "7404": 0.2,
+      "7405": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2158009
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1257,
+      191,
+      1265,
+      199
+    ]
+  }
+}

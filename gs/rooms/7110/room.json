@@ -1,0 +1,45 @@
+{
+  "checksum": "337bd7512085e69c31055b7c6c7d93ad",
+  "room": {
+    "id": 7110,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "This room is littered with stone and dirt, a dusty boulder and assorted rubble.  It's incredibly dusty, and by the time you've taken a couple of steps in here, the air is so full of dust that it's hard to breathe, and your eyes are watering.  The cause of all this mess seems to be a rough black hole gaping in the ceiling, from which the debris seems to have come."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7109": "go crack",
+      "7111": "go door"
+    },
+    "timeto": {
+      "7109": 0.2,
+      "7111": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "cave moss",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      44001
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      945,
+      1149,
+      955,
+      1159
+    ]
+  }
+}

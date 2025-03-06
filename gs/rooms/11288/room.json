@@ -1,0 +1,43 @@
+{
+  "checksum": "0651c74571ec774b2fc1eeae184ee1dd",
+  "room": {
+    "id": 11288,
+    "title": [
+      "[Zoo, Cage Area]"
+    ],
+    "description": [
+      "A mountain goat stares inquisitively at you from behind the bars of a cage to one side.  From the scraggly remnants of grass growing in the cage, you get the impression that maybe the goat is eyeing you for his next meal.  There are no signs of life from the cage on your other side."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Citadel",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11274": "south",
+      "11286": "north",
+      "11289": "go door"
+    },
+    "timeto": {
+      "11274": 0.2,
+      "11286": 0.2,
+      "11289": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables"
+    ],
+    "uid": [
+      377059
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      562,
+      761,
+      572,
+      771
+    ]
+  }
+}

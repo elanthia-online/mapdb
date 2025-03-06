@@ -1,0 +1,43 @@
+{
+  "checksum": "5e520e224150a8da3bac3d9d19f6026f",
+  "room": {
+    "id": 32343,
+    "title": [
+      "[Frostmain Docks, Moon Pier]",
+      "[Frostmain, Main Pier]"
+    ],
+    "description": [
+      "Though the planks are badly damaged by time and the ravages of the waves, an inscribed moon adorns them, haloed by a twine of stylized brambles.  Several barrels, cracked and long since robbed of their contents by exposure, huddle by one of the pilings.  They may have once been painted with bright symbols, but now their destinations and origins are a mystery lost to the past.",
+      "The thoroughfare of the main pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32342": "north",
+      "32344": "south"
+    },
+    "timeto": {
+      "32342": 0.2,
+      "32344": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133007
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1200,
+      315,
+      1245,
+      356
+    ]
+  }
+}

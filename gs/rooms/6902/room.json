@@ -1,0 +1,51 @@
+{
+  "checksum": "161452bec57772953e6260daae695786",
+  "room": {
+    "id": 6902,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "The planks of wood are beginning to warp away from the ceiling, bending into the room and lowering the roof enough to make giantmen duck.  Several have already fallen down, tumbled in splintering ruins on the floor.  A shattered lantern sits beneath them, bent and mangled by the impact."
+    ],
+    "paths": [
+      "Obvious exits: south, west, northwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6900": "northwest",
+      "6901": "west",
+      "6903": "south"
+    },
+    "timeto": {
+      "6900": 0.2,
+      "6901": 0.2,
+      "6903": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wraith",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37035
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1128,
+      1382,
+      1138,
+      1392
+    ]
+  }
+}

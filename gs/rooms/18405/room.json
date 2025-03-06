@@ -1,0 +1,32 @@
+{
+  "checksum": "da609a9173e1089ad19a854f702bcc3d",
+  "room": {
+    "id": 18405,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "Sections of split-rail fence create an enclosure with openings that lead to the very heart of the town.  Sitting very near several of the openings are large, iron-bound barrels full of water.  Smaller buckets sit stacked beside each, apparently kept in the interest of safety as even here, the scent of wood smoke can still be caught on breezes that drift across the circle's interior."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18400": "southwest",
+      "18404": "southeast",
+      "18406": "northwest",
+      "18417": "northeast"
+    },
+    "timeto": {
+      "18400": 0.2,
+      "18404": 0.2,
+      "18406": 0.2,
+      "18417": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

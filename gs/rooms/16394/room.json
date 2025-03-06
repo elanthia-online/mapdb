@@ -1,0 +1,36 @@
+{
+  "checksum": "0b9b5161d2a0b927aa1ec7396d3a0383",
+  "room": {
+    "id": 16394,
+    "title": [
+      "[Rogue Guild, Entry Hall]"
+    ],
+    "description": [
+      "A dimly lit hallway leads north into the shadows and east into a darkened chamber from which quiet sounds of whispered conversations and laughter drift in.  A black-clad giantman stands guarding the hallway, his deceptively friendly smile glinting in the torchlight as he looks you over."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16393": "go door",
+      "16395": "go hallway",
+      "16423": "east"
+    },
+    "timeto": {
+      "16393": 0.2,
+      "16395": 0.2,
+      "16423": 0.2
+    },
+    "uid": [
+      261003
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      460,
+      471,
+      488,
+      499
+    ]
+  }
+}

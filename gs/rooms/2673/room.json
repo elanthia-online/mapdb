@@ -1,0 +1,42 @@
+{
+  "checksum": "113cad32fc497cfd6f960acc26007406",
+  "room": {
+    "id": 2673,
+    "title": [
+      "[Domed Entry Hall, Hill of Ice]"
+    ],
+    "description": [
+      "The stairs culminate in an entry hall, little more than a glorified landing replete with sculpted stone.  Stairwells curving down to the southeast and southwest converge at a double column surmounted by capitals carved in high relief.  Opposite the trumeau, two arches, crafted of alternating dark and reddish-toned granite blocks, open to the northeast and northwest.  Over every surface, the relentless sheath of ice gives a reflective coating that is as lovely as it is precarious."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Koar's Shrine",
+    "wayto": {
+      "2666": "northwest",
+      "2672": "northeast",
+      "2674": "go #-9293",
+      "2676": "go #-9292"
+    },
+    "timeto": {
+      "2666": 0.2,
+      "2672": 0.2,
+      "2674": 0.2,
+      "2676": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4562004
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      363,
+      647,
+      373,
+      657
+    ]
+  }
+}

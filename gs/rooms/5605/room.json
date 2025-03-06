@@ -1,0 +1,33 @@
+{
+  "checksum": "eaf27db9dd1e25733021ed98a789c5fd",
+  "room": {
+    "id": 5605,
+    "title": [
+      "[Mercantylers' Hall, Landing]"
+    ],
+    "description": [
+      "The ebony-and-brass banister from the staircase changes to an ebon railing that follows the plaster walls of this small landing.  The railing ends at a plain ebon doorway adorned with a sign carved to resemble a faceted gem.  A small dark hallway leads to the south."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5590": "go staircase",
+      "5611": "south"
+    },
+    "timeto": {
+      "5590": 0.2,
+      "5611": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120086
+    ]
+  }
+}

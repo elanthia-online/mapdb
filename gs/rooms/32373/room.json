@@ -1,0 +1,44 @@
+{
+  "checksum": "1035b210c8ed51395c737d0c13f7badb",
+  "room": {
+    "id": 32373,
+    "title": [
+      "[Moonsedge, Bramble Market]"
+    ],
+    "description": [
+      "A sprawling market forms a crescent around the vast black iron gate leading out of the city.  Stalls and wagons crowd the marketplace, huddling beneath maples that have been planted in earthen beds along its borders.  Discarded wares, from tattered remnants of silks to shattered potion bottles, are scattered in disarray across the pale white stones that form the crescent-shaped plaza and not a seller can be seen."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32322": "go gate",
+      "32405": "south"
+    },
+    "timeto": {
+      "32322": 0.2,
+      "32405": 0.2
+    },
+    "tags": [
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapshortname:Moonsedge",
+      "meta:mapname:Icemule Trace - Moonsedge",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577004
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      378,
+      102,
+      401,
+      122
+    ]
+  }
+}

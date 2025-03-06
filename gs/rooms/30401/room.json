@@ -1,0 +1,49 @@
+{
+  "checksum": "52600cb42b02d5c22deda45ab9f4a1b8",
+  "room": {
+    "id": 30401,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Tapering off towards the east, the water laps about a small sandbar that leads up to an ebon-hued cliff.  Tendrils of vine drape from the peak, blanketing much of the wall.  Worn away by eons of rain and wind, a narrow crack breaks the surface."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30400": "pedal south",
+      "30402": "pedal west",
+      "30404": "pedal southwest",
+      "30405": "pedal northwest",
+      "30406": "pedal north",
+      "30408": "pedal southeast",
+      "30410": "pedal northeast"
+    },
+    "timeto": {
+      "30400": 6,
+      "30402": 6,
+      "30404": 6,
+      "30405": 6,
+      "30406": 6,
+      "30408": 6,
+      "30410": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216178
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      519,
+      2848,
+      532,
+      2864
+    ]
+  }
+}

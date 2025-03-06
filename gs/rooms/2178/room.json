@@ -1,0 +1,39 @@
+{
+  "checksum": "252724df07e8529719aab86c4efa2df6",
+  "room": {
+    "id": 2178,
+    "title": [
+      "[Lava Flows, Lava Pipe]"
+    ],
+    "description": [
+      "The river continues to flow westward through this subterranean tube."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the volcano",
+    "wayto": {
+      "2177": "east",
+      "2179": "west"
+    },
+    "timeto": {
+      "2177": 0.2,
+      "2179": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3050040
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      842,
+      299,
+      850,
+      307
+    ]
+  }
+}

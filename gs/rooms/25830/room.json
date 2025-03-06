@@ -1,0 +1,39 @@
+{
+  "checksum": "29b318f500db36448d9972605a4faffe",
+  "room": {
+    "id": 25830,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Swirling water rushes between the edges of the small island and the tall, ragged crags of the Teeth of Charl.  Large clumps of dark green seaweed speckled with brownish-white foam clog the tiny pass making it impossible for boats, or even small animals, to traverse the space between the mountains and the ring of protective cliffs."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25829": "/rooms/25830/wayto/stringproc-25829.rb",
+      "25831": "/rooms/25830/wayto/stringproc-25831.rb"
+    },
+    "timeto": {
+      "25829": 6,
+      "25831": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223848
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      881,
+      1519,
+      901,
+      1538
+    ]
+  }
+}

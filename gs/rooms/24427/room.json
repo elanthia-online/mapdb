@@ -1,0 +1,36 @@
+{
+  "checksum": "59e1673fe0bcb3ed953577070bd58b5c",
+  "room": {
+    "id": 24427,
+    "title": [
+      "[Ranger Guild, Foyer]"
+    ],
+    "description": [
+      "Modwir posts and beams are a darker accent to the white oak walls of this open room.  An undyed wool rug covers the sanded floorboards and benches of pine, teak, and modwir, elegant in their simplicity, rest near the door.  The clink of glasses issues from beyond the swinging doors to the west."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "24422": "go oak door",
+      "24428": "go doors",
+      "24429": "east"
+    },
+    "timeto": {
+      "24422": 0.2,
+      "24428": 0.2,
+      "24429": 0.2
+    },
+    "uid": [
+      273011
+    ],
+    "image": "rr_rangerguild.png",
+    "image_coords": [
+      254,
+      18,
+      271,
+      34
+    ]
+  }
+}

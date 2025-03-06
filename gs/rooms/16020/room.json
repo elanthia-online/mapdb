@@ -1,0 +1,35 @@
+{
+  "checksum": "806d987b95b040f0c39b258674905b1c",
+  "room": {
+    "id": 16020,
+    "title": [
+      "[River's Rest Hall, Foyer]"
+    ],
+    "description": [
+      "A wooden staircase rises to the second floor, its railing painted a pristine white.  Ivy vines have been trained to follow the balustrade, providing a verdant contrast to the paleness of the banister.  To the north, a hallway leads further into the building."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16010": "climb staircase",
+      "16019": "go door",
+      "16227": "north"
+    },
+    "timeto": {
+      "16010": 0.2,
+      "16019": 0.2,
+      "16227": 0.2
+    },
+    "tags": [
+      "mho hall clerk",
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      854002
+    ]
+  }
+}

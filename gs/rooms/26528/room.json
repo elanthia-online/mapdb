@@ -1,0 +1,31 @@
+{
+  "checksum": "f3ba46be4eb01c583b2097dc8f40a413",
+  "room": {
+    "id": 26528,
+    "title": [
+      "[Caligos Isle, Cavern Entrance]"
+    ],
+    "description": [
+      "The darkened tunnel opens up into an enormous cavern, the malformed limestone columns casting ominous shadows as their forms flicker against the iron-mounted torches scattered along the area.  Mirror-like pools conceal the true size of the area, flanking an uneven path that curves further down into the depths of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26527": "out",
+      "26529": "go path"
+    },
+    "timeto": {
+      "26527": 0.2,
+      "26529": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      660,
+      319,
+      673,
+      332
+    ]
+  }
+}

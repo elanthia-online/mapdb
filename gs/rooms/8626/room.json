@@ -1,0 +1,32 @@
+{
+  "checksum": "841b9ce7b509dea1a713a52d4d7d3ce8",
+  "room": {
+    "id": 8626,
+    "title": [
+      "[Merchant's Guild, Foyer]"
+    ],
+    "description": [
+      "You stand in the middle of a high-domed foyer at the entrance of the merchant guild.  From the wooden arches which form the dome hang banners representing the various crafts that participate in the Merchant's Guild."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "293": "out",
+      "8627": "go passage",
+      "8630": "go doorway"
+    },
+    "timeto": {
+      "293": 0.2,
+      "8627": 0.2,
+      "8630": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      4034
+    ]
+  }
+}

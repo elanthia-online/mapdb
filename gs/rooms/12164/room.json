@@ -1,0 +1,47 @@
+{
+  "checksum": "d874a0e829da999c5f853f28c79f10a7",
+  "room": {
+    "id": 12164,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A portrait rests against an immense boulder here.  The boulder seems to have a vaguely familiar shape, but exactly what is too difficult to place.  Leaning against the base of the boulder is a modwir-framed picture, depicting an incredibly strong man wrestling with a heavy burden.  The rock he holds appears to grow heavier, and he looks tired and pained by the weight of it.  At the base of the painting before you are two footprints imbedded deeply into the ground."
+    ],
+    "paths": [
+      "Obvious exits: northwest",
+      "Obvious paths: northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12164/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12164/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12164/wayto/stringproc-12093.rb",
+      "12163": "northwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12163": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4567049
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1030,
+      753,
+      1040,
+      763
+    ]
+  }
+}

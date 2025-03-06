@@ -1,0 +1,51 @@
+{
+  "checksum": "04a5786cadb35935831d3690ccd93655",
+  "room": {
+    "id": 7219,
+    "title": [
+      "[Underbarrow, Burial Chamber]"
+    ],
+    "description": [
+      "Frozen bodies are tumbled across the floor like fallen logs.  Some have broken into pieces, fallen from the rows that once lined the grey stone walls, others show only a light scuffing of the ice that coats them.  Spiderwebs string between them like a cat's cradle, glimmering with tiny gems of frost.  Sitting in the center of the room is a perfectly preserved heart, frozen as solid as the rock of the chamber."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7218": "south",
+      "7220": "east",
+      "7223": "southwest",
+      "7224": "west"
+    },
+    "timeto": {
+      "7218": 0.2,
+      "7220": 0.2,
+      "7223": 0.2,
+      "7224": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162119
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      651,
+      161,
+      661,
+      171
+    ]
+  }
+}

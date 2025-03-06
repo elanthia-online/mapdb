@@ -1,0 +1,43 @@
+{
+  "checksum": "a6eca241e1a974ef1ed9746ee2184c7d",
+  "room": {
+    "id": 29954,
+    "title": [
+      "[Angargreft, Greatchamber]"
+    ],
+    "description": [
+      "The entrance stands, framed by a pair of colossal red stone pillars, at the apogee of a crescent-shaped walk that curves along the interior of the fane.  Towering gigas statues, male and female, stand with battleaxes in hand in alcoves along either wall.  Their faces are unwelcoming and their postures unmistakably aggressive.  Ruddy stone steps breach the wall to the north, heading precipitously downward into stygian shadow."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29953": "go pillars",
+      "29955": "go steps",
+      "29962": "west",
+      "29964": "east"
+    },
+    "timeto": {
+      "29953": 0.2,
+      "29955": 0.2,
+      "29962": 0.2,
+      "29964": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503422
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      820,
+      549,
+      836,
+      564
+    ]
+  }
+}

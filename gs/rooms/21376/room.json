@@ -1,0 +1,24 @@
+{
+  "checksum": "b3f6b19779dd3caa59da8e2a89631837",
+  "room": {
+    "id": 21376,
+    "title": [
+      "[The Eternal Encounter]"
+    ],
+    "description": [
+      "Giant, silvery cobwebs hang from the corners of this dark shop, as tiny glowing spiders weave more silk along the walls.  Stained, wooden shelves line one entire length of the shop, their surfaces cluttered with an assortment of detailed miniatures.  A wide lacquered sign hangs near a curved wooden doorway."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20263": "out",
+      "21377": "go doorway"
+    },
+    "timeto": {
+      "20263": 0.2,
+      "21377": 0.2
+    }
+  }
+}

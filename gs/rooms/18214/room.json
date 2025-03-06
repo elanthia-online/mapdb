@@ -1,0 +1,40 @@
+{
+  "checksum": "569b44d82cf95b3807af696416e25fbb",
+  "room": {
+    "id": 18214,
+    "title": [
+      "[Meditation Chamber]"
+    ],
+    "description": [
+      "Muted light, the sharp scent of incense and a deep silence fill this austere place.  Except for some hardwood benches lining the walls facing inward and a candle lit altar in the center of the room, the place is bare.  You feel contemplative as your mind fills with images of the holy struggle to release the poor tormented souls of the undead."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "3684": "go door"
+    },
+    "timeto": {
+      "3684": 0.2
+    },
+    "tags": [
+      "node",
+      "voln meditation chamber",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312029
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      237,
+      409,
+      251,
+      422
+    ]
+  }
+}

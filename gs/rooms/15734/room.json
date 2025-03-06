@@ -1,0 +1,28 @@
+{
+  "checksum": "3631eb5fab79d29cf8140709e7c09485",
+  "room": {
+    "id": 15734,
+    "title": [
+      "[Sacha's Magic Shoppe]"
+    ],
+    "description": [
+      "Painted black oak walls rise from a russet oak floor.  Just above a large anvil hangs a colorful Icemule map, and an oak beam ceiling completes the picture.  A low wrought iron table and a large brass-bound chest stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "2315": "out",
+      "15735": "west",
+      "15736": "east"
+    },
+    "timeto": {
+      "2315": 0.2,
+      "15735": 0.2,
+      "15736": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "9d49fd60cc2a0f47703331b909b811ff",
+  "room": {
+    "id": 31916,
+    "title": [
+      "[Icewild Hall, Foyer]"
+    ],
+    "description": [
+      "The long, dark length of the Hall is punctuated here and there with floating globes of blue-lit glass.  A white carpet, its edges bound in silver wire, runs the length of the room, filling the space between a pair of large wooden doors and a glassy marble-keystoned arch.  Between the two portals, there is little furniture, though the bubbles of blue light do illuminate several pieces of statuary."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31866": "go doors",
+      "31917": "go marble arch"
+    },
+    "timeto": {
+      "31866": 0.2,
+      "31917": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084246
+    ]
+  }
+}

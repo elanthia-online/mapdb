@@ -1,0 +1,54 @@
+{
+  "checksum": "0bbe0e9121a77f739480ae461fac55e2",
+  "room": {
+    "id": 7296,
+    "title": [
+      "[Slither Creek]"
+    ],
+    "description": [
+      "The soil beneath your feet is rockier here than to the southwest.  The slime clinging to the rocks and the creek bank complicates walking, causing the occasional slip and curse.  Above the babble of the water and your own clumsy splashing you can hear the whisper of wind through trees, speaking in a language you do not understand."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "7281": "go bank",
+      "7295": "southwest",
+      "7297": "northeast"
+    },
+    "timeto": {
+      "7281": 0.2,
+      "7295": 0.2,
+      "7297": 0.2
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "white water lily",
+      "yellow water lily",
+      "blue water lily",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156024
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      319,
+      152,
+      329,
+      162
+    ]
+  }
+}

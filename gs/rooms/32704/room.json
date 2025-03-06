@@ -1,0 +1,29 @@
+{
+  "checksum": "66d2f60c55c243ff910e7635b836c48e",
+  "room": {
+    "id": 32704,
+    "title": [
+      "[Library Aies, Hall of Being]"
+    ],
+    "description": [
+      "The Hall of Being stretches endlessly onward with no end in sight, impossibly long for a building of the library's size.  The endless maoral panelled walls are unembellished save amber glaesine wall sconces, which are evenly spaced down the corridor, providing dim illumination."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "32702": "east",
+      "32705": "go door",
+      "32706": "west"
+    },
+    "timeto": {
+      "32702": 0.2,
+      "32705": 0.2,
+      "32706": 0.2
+    },
+    "uid": [
+      13106014
+    ]
+  }
+}

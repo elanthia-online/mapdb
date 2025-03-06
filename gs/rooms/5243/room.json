@@ -1,0 +1,43 @@
+{
+  "checksum": "823be892581e53d4a2a0ae39e540c6a7",
+  "room": {
+    "id": 5243,
+    "title": [
+      "[Vornavian Coast, Beached Hulk]"
+    ],
+    "description": [
+      "The main mast of the ship rises here, broken at about midpoint, but still reaching high overhead.  A hole in the deck looks like it could have been made when the mainmast fell.  Handholds ascend the mast, and the deck continues northeast to the bow and southwest to stern."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5242": "southwest",
+      "5244": "northeast",
+      "5245": "go mast"
+    },
+    "timeto": {
+      "5242": 0.2,
+      "5244": 0.2,
+      "5245": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4202153
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      91,
+      616,
+      101,
+      626
+    ]
+  }
+}

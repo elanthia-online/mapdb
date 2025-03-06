@@ -1,0 +1,51 @@
+{
+  "checksum": "19665c897089efd16f18f7cfeaf72993",
+  "room": {
+    "id": 9585,
+    "title": [
+      "[Czeroth Caverns, Tunnel]"
+    ],
+    "description": [
+      "Fumes assail the senses in this area of the tunnel, leaving your throat dry and a metallic taste in your mouth.  Crevices pockmark the walls of the tunnel, barely visible in the dim light."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9584": "northwest",
+      "9586": "southeast"
+    },
+    "timeto": {
+      "9584": 0.2,
+      "9586": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007018
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1223,
+      372,
+      1233,
+      382
+    ]
+  }
+}

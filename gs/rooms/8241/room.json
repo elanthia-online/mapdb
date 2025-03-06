@@ -1,0 +1,42 @@
+{
+  "checksum": "484006ce8912da62b8511c6f89b5d026",
+  "room": {
+    "id": 8241,
+    "title": [
+      "[Wolves' Den, Marble Corridor]"
+    ],
+    "description": [
+      "The white marble walls of this corridor are hung with faded tapestries.  The hallway ends to the east in a t-intersection, with iron doors to the north and the south, and a stout mithril door leading east."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8240": "west",
+      "8272": "go northern door",
+      "8273": "go southern door",
+      "8274": "go mithril door"
+    },
+    "timeto": {
+      "8240": 0.2,
+      "8272": 0.2,
+      "8273": 0.2,
+      "8274": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390022
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      256,
+      485,
+      266,
+      495
+    ]
+  }
+}

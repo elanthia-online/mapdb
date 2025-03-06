@@ -1,0 +1,47 @@
+{
+  "checksum": "93d56940b9d7f3628d00cfd76ca7bfcd",
+  "room": {
+    "id": 11124,
+    "title": [
+      "[Sea Tunnels]"
+    ],
+    "description": [
+      "The roar of the river is muted by the masses of mushrooms growing from the floor.  They appear to have a dampening effect on sound, so much so that even speech seems difficult here.  Fortunately, they also seem to be glowing, allowing you to see a tunnel to the southwest."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11123": "north",
+      "11125": "southwest"
+    },
+    "timeto": {
+      "11123": 0.2,
+      "11125": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103024
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3325,
+      694,
+      3361,
+      731
+    ]
+  }
+}

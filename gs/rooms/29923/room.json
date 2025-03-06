@@ -1,0 +1,44 @@
+{
+  "checksum": "18849c845024bd6be096a7d0b44c6edd",
+  "room": {
+    "id": 29923,
+    "title": [
+      "[Hinterwilds, Geistwalk]"
+    ],
+    "description": [
+      "The white stone road is shattered by a great hump of disturbed ground.  Whatever broke the earth did so with force great enough to send spiderwebbing cracks out through the surrounding hardpack.  The jagged edges of the broken stones glint oddly in the aurora's light where they are not drowning in the fallen needles of fir and spruce and pine.  Remnants of the roadway dot the ground to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29922": "southeast",
+      "29924": "northwest",
+      "29948": "northeast"
+    },
+    "timeto": {
+      "29922": 0.2,
+      "29924": 0.2,
+      "29948": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503125
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1064,
+      840,
+      1078,
+      855
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "2f451f1f46ce4e8fcab9174ea1e08b99",
+  "room": {
+    "id": 20876,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Even for a giant, the body laying on the ground before you is huge.  It lies face down, a pool of blood widening slowly around it.  The giant's outstretched arms clutch a battle axe in one hand and a thin veil iron circlet in the other, as if to keep hold of them even in death.  Fortunately, the pack of wild dogs ripping at the body doesn't seem to care about them, only about their dinner."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/20876/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20876/wayto/stringproc-12089.rb",
+      "12094": "west",
+      "12152": "/rooms/20876/wayto/stringproc-12152.rb",
+      "12216": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12094": 0.2,
+      "12152": 21.6,
+      "12216": 0.2
+    },
+    "uid": [
+      4568044
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      187,
+      1208,
+      196,
+      1218
+    ]
+  }
+}

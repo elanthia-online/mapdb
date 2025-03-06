@@ -1,0 +1,43 @@
+{
+  "checksum": "c09300fc6495c1d733682034785cb61c",
+  "room": {
+    "id": 7334,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "Studying the ground carefully, you can see that this pasture was once grazed by a group of large horses.  The sound of thundering hooves bounces off the valley walls behind you, but as you turn to locate the source, the sound stops."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7333": "southwest",
+      "7335": "southeast"
+    },
+    "timeto": {
+      "7333": 0.2,
+      "7335": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161002
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1068,
+      730,
+      1078,
+      740
+    ]
+  }
+}

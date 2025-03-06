@@ -1,0 +1,34 @@
+{
+  "checksum": "24397ff321ee2294358e64e11b525224",
+  "room": {
+    "id": 26781,
+    "title": [
+      "[Catacombs, Dark Tunnels]"
+    ],
+    "description": [
+      "The ramp continues around the outer edges of the shaft.  With each step the ramp groans under your weight and the sound echoes loudly up and down the shaft."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "26780": "up",
+      "26782": "down"
+    },
+    "timeto": {
+      "26780": 0.2,
+      "26782": 0.2
+    },
+    "uid": [
+      4126011
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      1007,
+      1332,
+      1017,
+      1342
+    ]
+  }
+}

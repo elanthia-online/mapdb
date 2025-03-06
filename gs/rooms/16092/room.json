@@ -1,0 +1,32 @@
+{
+  "checksum": "b0f80f6ea06148a5a4a2a817b4b300cd",
+  "room": {
+    "id": 16092,
+    "title": [
+      "[Turpin's Merchant Supplies]"
+    ],
+    "description": [
+      "Stacked around the room are samples of various building materials in a variety of colors.  Although it's obvious an attempt has been made to keep the room neat and tidy, a fine layer of dust from the building materials covers the floor.  Along the walls, the tiny footprints of a mouse can be seen in the dust."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16040": "west",
+      "16096": "east"
+    },
+    "timeto": {
+      "16040": 0.2,
+      "16096": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      734101
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "18bb514f4d1b2bb50baed33142a40c8c",
+  "room": {
+    "id": 3436,
+    "title": [
+      "[Tavern Burrow, Stout Street]",
+      "[Tavern Burrow, Gaming Hall]"
+    ],
+    "description": [
+      "A bright blue carpet fringed with silver tassels leads up to the entrance of a gaming hall, proceeding between two yew trees that have been trimmed into the shapes of mules and sprinkled with silvery powder.  A stout halfling in silver and blue livery bows low as would-be gamblers pass through the doors, an inviting smile on his lips.  An occasional shout of excitement erupts from within the hall as someone wins another hand.",
+      "On either side of a carpeted entry are two dark yew trees, trimmed into the shapes of mules and sprinkled with silvery powder.  A young halfling in silver and blue livery bows low as you pass by, gesturing toward the doorway with an inviting smile on his lips.  From inside the gaming hall comes a rising cry, as someone wins another hand."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2398": "southwest",
+      "2399": "west",
+      "2410": "east",
+      "3429": "north",
+      "3431": "go entrance",
+      "3437": "south"
+    },
+    "timeto": {
+      "2398": 0.2,
+      "2399": 0.2,
+      "2410": 0.2,
+      "3429": 0.2,
+      "3431": 0.2,
+      "3437": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042208
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      494,
+      1054,
+      530,
+      1090
+    ]
+  }
+}

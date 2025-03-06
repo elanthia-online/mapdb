@@ -1,0 +1,37 @@
+{
+  "checksum": "040f5cc134bc7d072e03a2cde7ee40a4",
+  "room": {
+    "id": 14008,
+    "title": [
+      "[West Wing Corridor]"
+    ],
+    "description": [
+      "This corridor is quiet, and the decorations here are minimal.  A soft carpet woven with several hues of complementary summery shades matches the lacquered golden haon of the walls.  A red iron door stands between a pair of triple-pronged candelabrum affixed to the walls, and opposite is an ora-inlaid golden mithril door and a grey-green vultite door."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13533": "east",
+      "14009": "go vultite door",
+      "14010": "go golden door",
+      "14011": "go red door",
+      "14012": "west"
+    },
+    "timeto": {
+      "13533": 0.2,
+      "14009": 0.2,
+      "14010": 0.2,
+      "14011": 0.2,
+      "14012": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384020
+    ]
+  }
+}

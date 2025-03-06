@@ -1,0 +1,41 @@
+{
+  "checksum": "fe38f761e4b106d4297c7c16687c8e37",
+  "room": {
+    "id": 13107,
+    "title": [
+      "[Sunfist Outpost, Corridor]"
+    ],
+    "description": [
+      "Iron lanterns illuminate the dim corridor from their positions between several windows with tightly closed shutters along the southern wall.  Steam trickles through the open door to the north accompanied by the scent of soap and sandalwood.",
+      "Sunlight streams through open windows, their shutters folded back to tack advantage of the daytime illumination, along the southern wall of the corridor and they offer a perfect vantage point of the practice courtyard beyond.  Steam trickles through the open door to the north accompanied by the scent of soap and sandalwood."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "wayto": {
+      "13108": "southeast",
+      "13112": "southwest",
+      "13123": "go door"
+    },
+    "timeto": {
+      "13108": 0.2,
+      "13112": 0.2,
+      "13123": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      562009
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      550,
+      866,
+      560,
+      876
+    ]
+  }
+}

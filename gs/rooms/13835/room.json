@@ -1,0 +1,30 @@
+{
+  "checksum": "faf9ef18971a33980a0c8e0bee371445",
+  "room": {
+    "id": 13835,
+    "title": [
+      "[Xygon's Weaponry]",
+      "[Xygon's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A painted white oak table and a spacious grey slate counter sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9022": "out",
+      "13860": "west",
+      "13861": "east"
+    },
+    "timeto": {
+      "9022": 0.2,
+      "13860": 0.2,
+      "13861": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

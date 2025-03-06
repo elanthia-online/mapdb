@@ -1,0 +1,28 @@
+{
+  "checksum": "3ed48aebc15267e8a15b607ce88e0dd4",
+  "room": {
+    "id": 14687,
+    "title": [
+      "[Shimeria's General Store]",
+      "[Shimeria's Weaponry]",
+      "[Shimeria's Magic Shoppe]",
+      "[Shimeria's Outfitting]"
+    ],
+    "description": [
+      "Beneath a mosaic tiled ceiling, a midnight blue rising phoenix tapestry hangs on one of the glossy mistwood walls.  A gold-leafed mistwood cabinet sits in one corner while a worn rug rests on the black marble floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15100": "west"
+    },
+    "timeto": {
+      "15100": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

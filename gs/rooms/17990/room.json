@@ -1,0 +1,40 @@
+{
+  "checksum": "b4aa398538a057c2901a6c1a0894b76e",
+  "room": {
+    "id": 17990,
+    "title": [
+      "[Rogue Guild, Hallway]"
+    ],
+    "description": [
+      "Thick rugs of bright colors and ornate designs cover the floor of this room, which is devoid of furniture.  A diaphanous curtain of coral beads screens a narrow arch leading to the north.  A placard hangs on the wall beside a thick, iron-banded door."
+    ],
+    "paths": [
+      "Obvious exits: east, south, northwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17988": "east",
+      "17991": "go door",
+      "17992": "go curtain",
+      "17993": "northwest",
+      "17994": "south"
+    },
+    "timeto": {
+      "17988": 0.2,
+      "17991": 0.2,
+      "17992": 0.2,
+      "17993": 0.2,
+      "17994": 0.2
+    },
+    "uid": [
+      263006
+    ],
+    "image": "rr-rogue_guild-1305438533.png",
+    "image_coords": [
+      252,
+      151,
+      276,
+      175
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "2b6903e1269a8588abc7ac743b689a33",
+  "room": {
+    "id": 17983,
+    "title": [
+      "[River's Rest Inn, Pantry]"
+    ],
+    "description": [
+      "Bags of flour, potatoes, onions and herbs stand in this spacious pantry.  Large containers of dry food have been sorted and stacked among the shelves in groups.  A few pots and pans hang from the surrounding walls as light from a nearby window reflects off of them, sending rays of light throughout the pantry."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "17081": "north",
+      "17984": "go bags"
+    },
+    "timeto": {
+      "17081": 0.2,
+      "17984": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101967
+    ]
+  }
+}

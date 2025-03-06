@@ -1,0 +1,27 @@
+{
+  "checksum": "3c9f8dea57de8df8e37ba2f5b194192b",
+  "room": {
+    "id": 23927,
+    "title": [
+      "[Abandoned Asylum]"
+    ],
+    "description": [
+      "A single, flickering lantern provides a gloomy light that dances off the rusty broken cell doors lining the dark stone walls.  The air is warm and uncomfortably moist in this cramped chamber.  A fetid stink of rotting garbage, soiled disregarded clothing and worse assaults you like a slap in the face."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1961": "/rooms/23927/wayto/stringproc-1961.rb",
+      "23928": "go arch"
+    },
+    "timeto": {
+      "1961": 0.8,
+      "23928": 0.2
+    },
+    "uid": [
+      3003055
+    ]
+  }
+}

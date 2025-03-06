@@ -1,0 +1,32 @@
+{
+  "checksum": "33270783b44729958f938b3434200acd",
+  "room": {
+    "id": 15160,
+    "title": [
+      "[Azaton's Weaponry]",
+      "[Azaton's General Store]",
+      "[Azaton's Outfitting]",
+      "[Azaton's Combat Gear]"
+    ],
+    "description": [
+      "A midnight blue rising phoenix tapestry hangs on one of the mahogany paneled walls, and an ebonwood beam ceiling rises overhead.  An open-mawed greater vruul statue sits in one corner of a dark-stained oak floor.  There is an oval-shaped speckled marble counter on one side of the shop and a bamboo rack on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "354": "out",
+      "15487": "west",
+      "15488": "east"
+    },
+    "timeto": {
+      "354": 0.2,
+      "15487": 0.2,
+      "15488": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

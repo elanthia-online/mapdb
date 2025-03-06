@@ -1,0 +1,41 @@
+{
+  "checksum": "8c05602be384e21b3d4d8d276b1991a7",
+  "room": {
+    "id": 32082,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "A darkening gloom settles over the area, the air thick with grey mist which muffles surrounding sounds except for the slow-moving current of the river.  A chill seeps in, followed by the caw of a raven, piercing through the duskiness."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31589": "/rooms/32082/wayto/stringproc-31589.rb",
+      "32081": "/rooms/32082/wayto/stringproc-32081.rb"
+    },
+    "timeto": {
+      "31589": 0.2,
+      "32081": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083389
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      982,
+      568,
+      1005,
+      589
+    ]
+  }
+}

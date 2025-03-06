@@ -1,0 +1,32 @@
+{
+  "checksum": "aa5f582864df8c32e1154fb384ec8b11",
+  "room": {
+    "id": 4489,
+    "title": [
+      "[Crystal Level, Hall]"
+    ],
+    "description": [
+      "The walls are scored with test holes and deep scars, the miners evidently seeking a new vein in this area.  Ominous rumbling sounds deep within the walls, its source unknown.  Some of the vibrations are violent enough to rattle your teeth."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4485": "west",
+      "4490": "go door",
+      "4494": "go bore",
+      "4496": "northeast"
+    },
+    "timeto": {
+      "4485": 0.2,
+      "4490": 0.2,
+      "4494": 0.2,
+      "4496": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

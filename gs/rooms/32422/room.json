@@ -1,0 +1,41 @@
+{
+  "checksum": "d0c0a24a1c13ae2ca3066988a895f371",
+  "room": {
+    "id": 32422,
+    "title": [
+      "[Moonsedge, Bridge Approach]"
+    ],
+    "description": [
+      "A vast, deep ravine severs the highlands on which the city sits from the high hills dominated by the castle.  Joining them is a sinuous bridge of pale stone, a masterwork of architecture and stonecraft.  Flecks of mica in the stonework gleam brightly in the daylight, engulfing the bridge in a nimbus of reflected light."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32420": "north",
+      "32423": "go bridge"
+    },
+    "timeto": {
+      "32420": 0.2,
+      "32423": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577028
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      382,
+      469,
+      402,
+      487
+    ]
+  }
+}

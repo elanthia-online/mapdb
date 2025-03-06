@@ -1,0 +1,27 @@
+{
+  "checksum": "07c7b546d4d403d3a134c178dcf1efd5",
+  "room": {
+    "id": 27026,
+    "title": [
+      "[Lake of Fear, Mid-Lake]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  Based solely on the amount of time spent traveling across the frigid surface, this must be approaching the middle of the lake.  A large patch of kelp lies trapped in the frozen surface, reminiscent of a giant skeletal hand."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27025": "/rooms/27026/wayto/stringproc-27025.rb",
+      "27027": "/rooms/27026/wayto/stringproc-27027.rb"
+    },
+    "timeto": {
+      "27025": 0.2,
+      "27027": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

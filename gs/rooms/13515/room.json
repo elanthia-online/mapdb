@@ -1,0 +1,38 @@
+{
+  "checksum": "5fb02e993b17d614917d9772b750ca02",
+  "room": {
+    "id": 13515,
+    "title": [
+      "[Solhaven, Guardhouse]"
+    ],
+    "description": [
+      "The solemn decorations lend an air of austerity and functionality to the main guardroom.  The room is busy with traffic of towns guardsmen loitering about in between their shifts.  A rack of polished weapons stands beside a large podium that dominates the center of the room.  Upon his high perch, the Sergeant-at-Arms pores over the everyday duties of law enforcement.  A darkened stairwell proceeds ominously down from beyond a steel gate."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1468": "out",
+      "30710": "/rooms/13515/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1468": 0.2,
+      "30710": "/rooms/13515/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4740136
+    ]
+  }
+}

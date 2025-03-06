@@ -1,0 +1,44 @@
+{
+  "checksum": "04ee0eaffe47600794000b28199e3ac9",
+  "room": {
+    "id": 4808,
+    "title": [
+      "[Calelith Villa, Foyer]"
+    ],
+    "description": [
+      "Shards of pottery litter the cracked and scratched marble floor and a shattered maoral table lies against the western wall.  Overhead, a tarnished brass chandelier hangs, its candles long since extinguished."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Gyldemar Forest",
+    "wayto": {
+      "4801": "go door",
+      "4809": "north",
+      "4810": "east",
+      "4811": "go staircase",
+      "4812": "west"
+    },
+    "timeto": {
+      "4801": 0.2,
+      "4809": 0.2,
+      "4810": 0.2,
+      "4811": 0.2,
+      "4812": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13028066
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      196,
+      556,
+      206,
+      566
+    ]
+  }
+}

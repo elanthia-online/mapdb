@@ -1,0 +1,39 @@
+{
+  "checksum": "9afa93a8124c5f3b4d8cd8ecbb7cca84",
+  "room": {
+    "id": 7236,
+    "title": [
+      "[Under Barrow, Shaft]"
+    ],
+    "description": [
+      "You pause as you cling to the treacherous handholds to adjust your gear.  Here there is neither light nor any sound save that of your breathing.  Suddenly, your foot slips free of its fragile hold and you scramble frantically for a more secure position and continue onwards, shaken but still alive."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7235": "down",
+      "7237": "up"
+    },
+    "timeto": {
+      "7235": 0.2,
+      "7237": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18109
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      716,
+      562,
+      726,
+      572
+    ]
+  }
+}

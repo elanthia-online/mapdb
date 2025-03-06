@@ -1,0 +1,25 @@
+{
+  "checksum": "0cc6e13bb1dddcfeb73bda8c8b8e2ae4",
+  "room": {
+    "id": 22603,
+    "title": [
+      "[Booze and Brews, Moonshine]"
+    ],
+    "description": [
+      "Lit only by the dim light flickering in from the chandelier to the west, shadows claim the majority of this corner of the wagon.  A series of padded stools run along the front of a long glass-topped bar, while a distinguished gnome watches customers from behind the bar."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": false,
+    "wayto": {
+      "21443": "west",
+      "21485": "southwest"
+    },
+    "timeto": {
+      "21443": 0.2,
+      "21485": 0.2
+    },
+    "check_location": false
+  }
+}

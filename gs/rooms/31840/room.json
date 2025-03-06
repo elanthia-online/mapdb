@@ -1,0 +1,41 @@
+{
+  "checksum": "92c575a721aae7d9c75f685fdb0fce19",
+  "room": {
+    "id": 31840,
+    "title": [
+      "[Gleyminn Anni River, Cottage]"
+    ],
+    "description": [
+      "Tendrils of mist creep across the slate-colored waters and wrap around the trunk of an immense willow affording a leafy bower on the western embankment.  The mild river washes across a vast slab of rock poking up from the depths, the current eroding a swirl-like pattern on its face.  A grey stone cottage with a thatched roof can be glimpsed, nestled far back in a copse of trees."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31810": "/rooms/31840/wayto/stringproc-31810.rb",
+      "31841": "/rooms/31840/wayto/stringproc-31841.rb"
+    },
+    "timeto": {
+      "31810": 2.2,
+      "31841": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083423
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1633,
+      608,
+      1656,
+      631
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "9610692015c11e03209de83281c917ed",
+  "room": {
+    "id": 25512,
+    "title": [
+      "[The Firebird, Upper Deck]"
+    ],
+    "description": [
+      "Shaded slightly by walls to either side supporting the port and starboard gangways, the upper deck is shielded from all but the strongest natural breezes, but not from the constant gusting of wind deflected by the whir of the propellers holding the ship aloft.  A towering blade assembly dominates the area, the crimson and golden lacquer adorning it vivid compared to the ash-colored wood of the deck."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Aboard an Airship",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25505": "north",
+      "25513": "go stairs"
+    },
+    "timeto": {
+      "25505": 0.2,
+      "25513": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      12101018
+    ]
+  }
+}

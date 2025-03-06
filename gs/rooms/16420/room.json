@@ -1,0 +1,38 @@
+{
+  "checksum": "cf2e67081fcb2bb180b2e726384fd14a",
+  "room": {
+    "id": 16420,
+    "title": [
+      "[Firefly Villa, Corridor]"
+    ],
+    "description": [
+      "Mint green whorls decorate the dark plum carpeting that spans the length of the hall, their elliptical designs complimenting the golden linden paneling of the walls.  Glaesine orbs nestle within wrought iron sconces decorated to resemble luna moths are anchored to the ceiling, as well as around a carved doublewide archway that leads to a bustling tavern.  On the opposite wall rests a pair of double doors that have been left open to allow the heady scent of dog roses to drift in."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12319": "go archway",
+      "12321": "go doors",
+      "16411": "south",
+      "16425": "north"
+    },
+    "timeto": {
+      "12319": 0.2,
+      "12321": 0.2,
+      "16411": 0.2,
+      "16425": 0.2
+    },
+    "uid": [
+      3209319
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1402,
+      2162,
+      1415,
+      2174
+    ]
+  }
+}

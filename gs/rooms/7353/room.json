@@ -1,0 +1,43 @@
+{
+  "checksum": "e99b90e4da856afc4049ac0e2693c048",
+  "room": {
+    "id": 7353,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "This desolate land seems populated by almost nothing except a few fallen petrified trees and blowing dust.  To the southeast you see the base of a group of desolate dark hills."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7352": "southwest",
+      "7354": "southeast"
+    },
+    "timeto": {
+      "7352": 0.2,
+      "7354": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160003
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1279,
+      890,
+      1289,
+      900
+    ]
+  }
+}

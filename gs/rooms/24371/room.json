@@ -1,0 +1,36 @@
+{
+  "checksum": "dad84d70f930aa48b151464eebea28b9",
+  "room": {
+    "id": 24371,
+    "title": [
+      "[Ranger Guild, Moss Bower]"
+    ],
+    "description": [
+      "Delicate, glowing moss has been cultivated in a spectrum of colors, growing along the latticework of an enormous arbor.  Rows of pure white mushrooms mark the curved path to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "24369": "southwest",
+      "24372": "go door",
+      "24374": "east"
+    },
+    "timeto": {
+      "24369": 0.2,
+      "24372": 0.2,
+      "24374": 0.2
+    },
+    "uid": [
+      278005
+    ],
+    "image": "en-zul_logoth-rangerguild-v2.png",
+    "image_coords": [
+      111,
+      160,
+      127,
+      177
+    ]
+  }
+}

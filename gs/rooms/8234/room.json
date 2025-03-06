@@ -1,0 +1,40 @@
+{
+  "checksum": "b0ec7a6881d144cd93d9586ca35e2596",
+  "room": {
+    "id": 8234,
+    "title": [
+      "[Wolves' Den, Corridor]"
+    ],
+    "description": [
+      "This passage turns a corner, leading east and south.  The white granite arch against the northern wall leads into a larger chamber."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8229": "east",
+      "8235": "south",
+      "8248": "go arch"
+    },
+    "timeto": {
+      "8229": 0.2,
+      "8235": 0.2,
+      "8248": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390008
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      37,
+      335,
+      47,
+      345
+    ]
+  }
+}

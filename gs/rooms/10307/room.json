@@ -1,0 +1,34 @@
+{
+  "checksum": "7bd6c4ce30dcadd6c88080cfe71270d1",
+  "room": {
+    "id": 10307,
+    "title": [
+      "[Upper Walkway West]"
+    ],
+    "description": [
+      "A thick walnut lattice walkway extends in a diamond shape to the east.  Sturdy beams rise from the walkway to support a wide overhang that is an extension of the golden tile roof.  At each of the four points of the diamond, a walnut door allows entrance into one of The Legendary Rest's sleeping rooms.  The walls of the rooms touch, so the area is actually a diamond-shape, open to the sky, within a walnut-lined square, and the courtyard and fountain are easily viewed below."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Legendary Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10306": "northeast",
+      "10308": "southeast",
+      "10311": "go door"
+    },
+    "timeto": {
+      "10306": 0.2,
+      "10308": 0.2,
+      "10311": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      14101008
+    ]
+  }
+}

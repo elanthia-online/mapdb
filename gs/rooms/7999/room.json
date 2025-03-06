@@ -1,0 +1,57 @@
+{
+  "checksum": "c5e6fc4ddef62f3a3e1b37c593b8e723",
+  "room": {
+    "id": 7999,
+    "title": [
+      "[Kobold Mines, Entrance]"
+    ],
+    "description": [
+      "This is a wide section of cavern that slopes rapidly downwards into darkness.  The rock-strewn floor has been worn smooth by the passing of many feet hauling heavy loads.  Several smaller caverns and chambers open up in several directions, but in the uncertain light their contents remain hidden.  Twin streaks of rust vanish downslope into the chill and damp air of this benighted domain."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest, down, out"
+    ],
+    "location": "the old Mine Road",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7997": "out",
+      "8000": "north",
+      "8001": "northwest",
+      "8004": "go cave",
+      "8005": "down"
+    },
+    "timeto": {
+      "7997": 0.2,
+      "8000": 0.2,
+      "8001": 0.2,
+      "8004": 0.2,
+      "8005": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "red trafel mushroom",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      401002
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      105,
+      814,
+      115,
+      824
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "14a6c9f109ca8870c8e53991036261df",
+  "room": {
+    "id": 11168,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "A large, rusting chunk of the portcullis, broken away by some great force, lies on the ground.  Scrapes and gouges mar the walls and floors, accompanied by splotches and dark stains."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11167": "go portcullis",
+      "11169": "north",
+      "11170": "west"
+    },
+    "timeto": {
+      "11167": 0.2,
+      "11169": 0.2,
+      "11170": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100002
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      598,
+      497,
+      608,
+      507
+    ]
+  }
+}

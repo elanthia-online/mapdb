@@ -1,0 +1,39 @@
+{
+  "checksum": "2426ab6a5c02526f10a67bf513dd5bff",
+  "room": {
+    "id": 31218,
+    "title": [
+      "[House Aspis, Sun Room]"
+    ],
+    "description": [
+      "The two outside corner walls of this room are glass doors granting access to a small, private garden.  Moonlight gives the red oak flooring a blue shading.  Chimes of all sorts drop down from the ceiling, their music casting a hypnotic sensation on every breeze.  A large red oak tub, built into the floor, is filled to brimming with steamy water.  Fluffy, absorbent towels are stored in a rack within easy reach."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31214": "go heavy door",
+      "31220": "go tub",
+      "31221": "go glass door"
+    },
+    "timeto": {
+      "31214": 0.2,
+      "31220": 0.2,
+      "31221": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102018
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      1896,
+      163,
+      2027,
+      229
+    ]
+  }
+}

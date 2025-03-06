@@ -1,0 +1,39 @@
+{
+  "checksum": "2c9968d9cc4fd8795f555cde1da30708",
+  "room": {
+    "id": 2250,
+    "title": [
+      "[Glaes Tunnel]"
+    ],
+    "description": [
+      "A massive iron wall to the south dominates this gloomy tunnel.  Underfoot, the floor is a vicious track of glaes spikes and pitfalls.  Here and there, pools of molten glaes lie sheathed in steam, which drifts up from the surface of each in a languid, curling dance."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2249": "/rooms/2250/wayto/stringproc-2249.rb",
+      "2251": "north"
+    },
+    "timeto": {
+      "2249": 0.2,
+      "2251": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051021
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      251,
+      698,
+      259,
+      706
+    ]
+  }
+}

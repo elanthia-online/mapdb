@@ -1,0 +1,29 @@
+{
+  "checksum": "7d3adde116878f60dd7309b2f7f981b8",
+  "room": {
+    "id": 22066,
+    "title": [
+      "[Bard Guild, Lower Hallway]"
+    ],
+    "description": [
+      "Blowing through the high, arcing windows, a gentle breeze fills the hallway, cooling the humid air.  A beautiful watercolor hangs next to a teak-framed archway, where a pale silk curtain is pulled to one side.  Gold flecks in the marble reflect the sunlight, making the floor sparkle."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "22063": "west",
+      "22067": "go archway",
+      "22068": "east"
+    },
+    "timeto": {
+      "22063": 0.2,
+      "22067": 0.2,
+      "22068": 0.2
+    },
+    "uid": [
+      289104
+    ]
+  }
+}

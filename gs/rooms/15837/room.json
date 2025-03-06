@@ -1,0 +1,28 @@
+{
+  "checksum": "5ace13ea83b256b0d441d8832588cd7a",
+  "room": {
+    "id": 15837,
+    "title": [
+      "[Diablic's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "2377": "out",
+      "15846": "west",
+      "15847": "east"
+    },
+    "timeto": {
+      "2377": 0.2,
+      "15846": 0.2,
+      "15847": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

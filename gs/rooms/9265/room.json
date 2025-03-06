@@ -1,0 +1,34 @@
+{
+  "checksum": "b2faa82477e05e37971ca08a5c4d72fd",
+  "room": {
+    "id": 9265,
+    "title": [
+      "[Clenchfist Bros. Banking, Entry]"
+    ],
+    "description": [
+      "The log walls of this long, narrow entryway are unadorned and give the room a closed-in feeling.  Split log steps are visible just outside the southern doorway."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Northern Caravansary",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9255": "go steps",
+      "9266": "north"
+    },
+    "timeto": {
+      "9255": 0.2,
+      "9266": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4746113
+    ]
+  }
+}

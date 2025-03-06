@@ -1,0 +1,43 @@
+{
+  "checksum": "f952d79389c88d79034b10d42561d448",
+  "room": {
+    "id": 32413,
+    "title": [
+      "[Moonsedge, Scarlet Road]"
+    ],
+    "description": [
+      "Gilt flakes glint from the street in front of a capacious bathhouse.  Their source is its arched sign, which has been flayed by the elements until the letters are unreadable.  A barricade of overturned wagons, splintered furniture, and heavy barrels has been shoved up against the doors.  The business's facade is otherwise windowless, and there appears no other means of egress."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32412": "west",
+      "32415": "east",
+      "32417": "south"
+    },
+    "timeto": {
+      "32412": 0.2,
+      "32415": 0.2,
+      "32417": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577016
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      318,
+      283,
+      338,
+      303
+    ]
+  }
+}

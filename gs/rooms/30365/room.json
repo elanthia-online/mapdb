@@ -1,0 +1,43 @@
+{
+  "checksum": "899a356024ece9fecf6e97fb79b6bbc6",
+  "room": {
+    "id": 30365,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Along the horizon to the south, a large dark spire rises from the ocean to tower into the sky.  Tiny whitecaps dance about, lit from the moon high above.  A large dark form of seaweed floats on the surface nearby, the moonlight glinting off the thin tendrils."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30364": "pedal east",
+      "30366": "pedal west",
+      "30376": "pedal northeast",
+      "30377": "pedal northwest"
+    },
+    "timeto": {
+      "30364": 6,
+      "30366": 6,
+      "30376": 6,
+      "30377": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216221
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1217,
+      4718,
+      1237,
+      4736
+    ]
+  }
+}

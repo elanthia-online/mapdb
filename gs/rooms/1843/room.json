@@ -1,0 +1,48 @@
+{
+  "checksum": "abb43e885ee95c35875e554610c3f0eb",
+  "room": {
+    "id": 1843,
+    "title": [
+      "[Ghorsa Isle, Plaza Southwest]"
+    ],
+    "description": [
+      "A stout marble tower dominates this corner of the plaza, standing nearly fifty feet high.  Members of various races wander about, some lingering on the marble benches flanking the plaza.  On the far western shore of the river, the ramshackle buildings of the poor quarter are covered by a constant haze."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1840": "northeast",
+      "1841": "north",
+      "1844": "go stairs",
+      "1845": "east",
+      "30715": "/rooms/1843/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1840": 0.2,
+      "1841": 0.2,
+      "1844": 0.2,
+      "1845": 0.2,
+      "30715": "/rooms/1843/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001002
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      679,
+      746,
+      715,
+      782
+    ]
+  }
+}

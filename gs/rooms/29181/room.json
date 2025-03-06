@@ -1,0 +1,45 @@
+{
+  "checksum": "75be79bc3f53b53d86fe36c12c0dccbc",
+  "room": {
+    "id": 29181,
+    "title": [
+      "[The F'Eyrie, Crater Slope]"
+    ],
+    "description": [
+      "The path winds through sharp jagged obsidian peaks turned upwards from volcanic activity.  Thick fumes rise from the crater to the east, while the west is treacherous with a long fall down the side of the volcano below.  Ash and rocks along the trail make it difficult to maneuver."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "29180": "southwest",
+      "29182": "west",
+      "29183": "north"
+    },
+    "timeto": {
+      "29180": 0.2,
+      "29182": 0.2,
+      "29183": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023122
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      605,
+      145,
+      629,
+      166
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "52d33fce23bc22f00813400078467d45",
+  "room": {
+    "id": 16849,
+    "title": [
+      "[Bawdy Bard Inn, Tavern]"
+    ],
+    "description": [
+      "Small humus pots suspended from the ceiling cast donut-shaped pools of light across the stone floor of this cramped tavern.  The scent of pipe tobacco mixes with the odor of stale ale, and a smoky haze envelops the entire room.  Behind a low granite bar, the proprietor gazes out mistrustfully at the patrons gathered at the strangely shaped tables, his eyes darting every so often to the cash box that he keeps within easy reach.  A sign on the bar lists the fare available."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9481": "go arch",
+      "24376": "/rooms/16849/wayto/stringproc-24376.rb",
+      "24377": "/rooms/16849/wayto/stringproc-24377.rb",
+      "24378": "/rooms/16849/wayto/stringproc-24378.rb",
+      "24379": "/rooms/16849/wayto/stringproc-24379.rb",
+      "24380": "/rooms/16849/wayto/stringproc-24380.rb",
+      "24381": "/rooms/16849/wayto/stringproc-24381.rb",
+      "30712": "/rooms/16849/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9481": 0.2,
+      "24376": 0.2,
+      "24377": 0.2,
+      "24378": 0.2,
+      "24379": 0.2,
+      "24380": 0.2,
+      "24381": 0.2,
+      "30712": "/rooms/16849/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables",
+      "no forageables"
+    ],
+    "uid": [
+      13010013
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "224ad3c51fe026357482ccb231fe67a3",
+  "room": {
+    "id": 8907,
+    "title": [
+      "[Wine Shop, Lounge]"
+    ],
+    "description": [
+      "Large candles resting upon elegant brass stands illuminate this richly appointed chamber, the candlelight soft and inviting.  While the bookcase along one wall is not completely full, the numerous tomes arranged within provide ample variety for those interested in a bit of reading."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8906": "west",
+      "8908": "climb ladder"
+    },
+    "timeto": {
+      "8906": 0.2,
+      "8908": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      5029
+    ]
+  }
+}

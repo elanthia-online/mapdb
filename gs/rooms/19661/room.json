@@ -1,0 +1,40 @@
+{
+  "checksum": "69c95edd0673a6287bdae98c02a2fd36",
+  "room": {
+    "id": 19661,
+    "title": [
+      "[Cavernhold, Corridor]"
+    ],
+    "description": [
+      "This corridor runs northeast to southwest.  A large room is clearly visible at the southwest end."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19641": "southwest",
+      "19693": "northeast"
+    },
+    "timeto": {
+      "19641": 0.2,
+      "19693": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10037
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      612,
+      967,
+      624,
+      978
+    ]
+  }
+}

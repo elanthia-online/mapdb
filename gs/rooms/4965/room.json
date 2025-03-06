@@ -1,0 +1,36 @@
+{
+  "checksum": "87a8db4d191a45f73b7c0f44779022ab",
+  "room": {
+    "id": 4965,
+    "title": [
+      "[Observatory, Entry Hall]"
+    ],
+    "description": [
+      "The building's age becomes evident as you look around this expansive entry hall.  Tapestries hang from the tall ceiling and cover most of the walls, and rugs, once rich and vibrant but now faded, cover nearly the entire floor.  Strangely, there is no dust or clutter despite the absence of any housekeeping.  The chamber is vaguely shaped like a huge piece of pie, the far walls sloping inward to meet at one point, and the wall opposite them curving inward on either side."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Seethe Naedal",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4964": "out",
+      "4966": "northwest",
+      "4967": "northeast",
+      "4968": "climb ladder"
+    },
+    "timeto": {
+      "4964": 0.2,
+      "4966": 0.2,
+      "4967": 0.2,
+      "4968": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13025019
+    ]
+  }
+}

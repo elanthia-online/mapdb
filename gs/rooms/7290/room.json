@@ -1,0 +1,54 @@
+{
+  "checksum": "a8adf7036981bf96eef4aa86e5a20f51",
+  "room": {
+    "id": 7290,
+    "title": [
+      "[Slither Creek]"
+    ],
+    "description": [
+      "A black swarm of gnats hovers over the bank a few feet away.  Stray insects fill the air, buzzing too near your face for comfort.  The ground beneath your feet is slick, covered in slippery green slime, and the movement of the water makes standing precarious."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "7285": "go bank",
+      "7289": "west",
+      "7291": "east"
+    },
+    "timeto": {
+      "7285": 0.2,
+      "7289": 0.2,
+      "7291": 0.2
+    },
+    "tags": [
+      "water chestnut",
+      "aloeas stem",
+      "wild gooseberry",
+      "stalk of cattail",
+      "white water lily",
+      "yellow water lily",
+      "blue water lily",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156018
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      108,
+      180,
+      116,
+      188
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "8e77089751dfa4adb99e17dbf84853e6",
+  "room": {
+    "id": 11438,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The sea swells break lazily against the stony base of the cliff wall, creating a dull and muted sussuration.  The cliff towers overhead, unwelcoming and unclimbable.  The waters of Maelstrom Bay, made a deep, bluish green by the moonlight, stretch out to the west.",
+      "The sea swells break lazily against the stony base of the cliff wall, creating a dull and muted susurration.  The cliff towers overhead, unwelcoming and unclimbable.  The green waters of Maelstrom Bay, bright in the sunlight, stretch out to the west."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, west, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11437": "/rooms/11438/wayto/stringproc-11437.rb",
+      "11439": "/rooms/11438/wayto/stringproc-11439.rb",
+      "11447": "/rooms/11438/wayto/stringproc-11447.rb",
+      "11448": "/rooms/11438/wayto/stringproc-11448.rb",
+      "11450": "/rooms/11438/wayto/stringproc-11450.rb",
+      "11457": "/rooms/11438/wayto/stringproc-11457.rb"
+    },
+    "timeto": {
+      "11437": "/rooms/11438/timeto/stringproc-11437.rb",
+      "11439": 2,
+      "11447": 2,
+      "11448": 2,
+      "11450": 2,
+      "11457": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304016
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      729,
+      1287,
+      739,
+      1297
+    ]
+  }
+}

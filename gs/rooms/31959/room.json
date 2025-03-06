@@ -1,0 +1,43 @@
+{
+  "checksum": "91af1f08a9192eea2bbeaa99a21766a0",
+  "room": {
+    "id": 31959,
+    "title": [
+      "[Vigil's End, Legion Lane]"
+    ],
+    "description": [
+      "Shadowed silhouettes of vultures roost within the knotty branches of an immense elm, a suit of lichen-encrusted armor slumped against the trunk.  Glass shards glitter in the weeds beneath the jagged-edged windows of a thatched roof bakery.  Nestled in brick and shingle rubble, a blackened boulder takes up residence within the adjacent destroyed shop.  Arrowheads and discarded weaponry sprinkle the muddied road with corroded debris."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31958": "east",
+      "31960": "west",
+      "32207": "go roof bakery"
+    },
+    "timeto": {
+      "31958": 0.2,
+      "31960": 0.2,
+      "32207": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083094
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1245,
+      333,
+      1265,
+      356
+    ]
+  }
+}

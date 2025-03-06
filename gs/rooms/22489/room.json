@@ -1,0 +1,24 @@
+{
+  "checksum": "d63518d08b45c81a6fc614b0171fbf12",
+  "room": {
+    "id": 22489,
+    "title": [
+      "[Treysen's Trappings, Mid-Wagon]"
+    ],
+    "description": [
+      "Separating this wagon from the lead is a black wool curtain, the ends of the wagons cars left open to allow easy passage between them.  Gnarled black iron lanterns emit a pale green glow and hang above a row of mannequins that stand in various poses."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": false,
+    "wayto": {
+      "22470": "east",
+      "22490": "go curtain"
+    },
+    "timeto": {
+      "22470": 0.2,
+      "22490": 0.2
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "81ab005f64ca7a330257bba70ea25a7b",
+  "room": {
+    "id": 28600,
+    "title": [
+      "[Zelia's Temple, Descent]"
+    ],
+    "description": [
+      "Stone stairs start out wide and even, then become more erratic and twisting back upon themselves in hairpin turns, traversing this passageway.  Each landing created by the snaking steps features a small wooden bench, and yet walls lit with bright oil torches are devoid of any art or tapestries.  A tiny cluster of silver bells is suspended from a small hook set into one of the bench arms."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "28599": "go stairs",
+      "28602": "down"
+    },
+    "timeto": {
+      "28599": 0.2,
+      "28602": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900503
+    ]
+  }
+}

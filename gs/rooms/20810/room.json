@@ -1,0 +1,46 @@
+{
+  "checksum": "d6fe5ed0b10a5619ae1efba80afd0c66",
+  "room": {
+    "id": 20810,
+    "title": [
+      "[House Sovyn, Sun Room]"
+    ],
+    "description": [
+      "Large glass panes form the walls and roof of this room, providing ample sunlight during the day and a perfect spot for the blossoming plants to grow.  The ground is covered with bricks and several tables are placed among the foliage.",
+      "Large glass panes form the walls and roof of this sunny room, providing a perfect spot for the blossoming plants to grow.  The ground is covered with bricks and several tables are placed among the foliage."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20804": "go garden",
+      "25542": "/rooms/20810/wayto/stringproc-25542.rb",
+      "25545": "/rooms/20810/wayto/stringproc-25545.rb",
+      "25546": "/rooms/20810/wayto/stringproc-25546.rb",
+      "25547": "/rooms/20810/wayto/stringproc-25547.rb",
+      "25548": "/rooms/20810/wayto/stringproc-25548.rb"
+    },
+    "timeto": {
+      "20804": 0.2,
+      "25542": 0.2,
+      "25545": 0.2,
+      "25546": 0.2,
+      "25547": 0.2,
+      "25548": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210650
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      1407,
+      182,
+      1575,
+      296
+    ]
+  }
+}

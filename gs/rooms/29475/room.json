@@ -1,0 +1,41 @@
+{
+  "checksum": "41773272aad357c7d1a60b844237e2ac",
+  "room": {
+    "id": 29475,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "The path here is clear of rubble as it slants slightly against the odd geometry of the inner faces of solid rock.  Sharp cracks show where material was extruded from the surrounding stone.  A narrow crevice filled with jagged protrusions leads upwards at an awkward angle."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29473": "northeast",
+      "29476": "up",
+      "29477": "northwest"
+    },
+    "timeto": {
+      "29473": 0.2,
+      "29476": 0.2,
+      "29477": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007209
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      547,
+      244,
+      571,
+      265
+    ]
+  }
+}

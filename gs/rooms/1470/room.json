@@ -1,0 +1,47 @@
+{
+  "checksum": "2138ce11d4c6b435b8bba7d387634830",
+  "room": {
+    "id": 1470,
+    "title": [
+      "[Solhaven, Liabo Esplanade]",
+      "[Solhaven, Liabo and Eastbridge]"
+    ],
+    "description": [
+      "A polished ebon gate dominates the intersection, set into the tall, white marble walls that occupy the intersection's southeast corner."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1466": "north",
+      "1504": "south",
+      "1505": "east",
+      "1599": "west",
+      "13252": "go gate"
+    },
+    "timeto": {
+      "1466": 0.2,
+      "1504": 0.2,
+      "1505": 0.2,
+      "1599": 0.2,
+      "13252": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209062
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1063,
+      765,
+      1087,
+      789
+    ]
+  }
+}

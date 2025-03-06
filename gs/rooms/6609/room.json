@@ -1,0 +1,38 @@
+{
+  "checksum": "aa396ff94924f6b020bd15c12430fbdf",
+  "room": {
+    "id": 6609,
+    "title": [
+      "[Wine Cellar]"
+    ],
+    "description": [
+      "The dark, cavernous cellar is filled with racks holding dust-covered bottles of wine.  Lining one of the walls are huge casks, taller than a giantman, with massive spigots tapping the front of each one.  A glance at one of the bottles reveals a date of such antiquity, it would render the contents either exquisite or pure vinegar.  Whichever is the case, there is an abundance of it, for the shelves, with their bottles, stand rank after rank in this cavernous cellar."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6576": "up",
+      "6610": "go cask"
+    },
+    "timeto": {
+      "6576": 0.2,
+      "6610": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285050
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1077,
+      543,
+      1087,
+      553
+    ]
+  }
+}

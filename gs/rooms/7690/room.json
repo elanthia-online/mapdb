@@ -1,0 +1,39 @@
+{
+  "checksum": "95cc1321d37989c10f77000181e4361c",
+  "room": {
+    "id": 7690,
+    "title": [
+      "[Underground Ruin, Entrance Hall]"
+    ],
+    "description": [
+      "This is the southern most end of the entrance hall.  The walls are bare except for a few burnt out torches.  Flattened against the south wall is the mummified corpse of a guard."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7683": "north",
+      "7697": "go door"
+    },
+    "timeto": {
+      "7683": 0.2,
+      "7697": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68005
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      348,
+      1177,
+      358,
+      1187
+    ]
+  }
+}

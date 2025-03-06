@@ -1,0 +1,39 @@
+{
+  "checksum": "475824df00bc4ae52ba13bded936c9ac",
+  "room": {
+    "id": 4185,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "In the corner stands what could only be described as a giant chopper.  Its purpose is unclear but you are sure that no common flesh and bone could withstand a blow from such a cruel device."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4184": "west",
+      "4186": "north"
+    },
+    "timeto": {
+      "4184": 0.2,
+      "4186": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138127
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      835,
+      1135,
+      845,
+      1145
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "ae2c46c97a456699c58770ebe85bae90",
+  "room": {
+    "id": 29580,
+    "title": [
+      "[Earth Tower, First Floor]"
+    ],
+    "description": [
+      "Comfortable ruddy leather chairs and sofas are flanked by small side tables surmounted by stacks of light reading materials, some quite worn.  The walls are decorated with tapestries portraying soothing woodland vistas, while the floor is covered in thick, richly colored bear hide rugs.  To the south, stretching across the expanse to the next tower is a walkway, while the western walkway heads off in another direction."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up, down"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "28238": "down",
+      "29581": "go western walkway",
+      "29583": "go southern walkway",
+      "29588": "up",
+      "29608": "northwest",
+      "29609": "northeast"
+    },
+    "timeto": {
+      "28238": 0.2,
+      "29581": 0.2,
+      "29583": 0.2,
+      "29588": 0.2,
+      "29608": 0.2,
+      "29609": 0.2
+    },
+    "uid": [
+      686006
+    ],
+    "image": "ifw-wizard_guild-1619773727.png",
+    "image_coords": [
+      435,
+      1171,
+      464,
+      1200
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "65251e0f16650198597048246b27700d",
+  "room": {
+    "id": 11199,
+    "title": [
+      "[Garrison, Lieutenant's Quarters]"
+    ],
+    "description": [
+      "This looks to have been a very nice place to hang your hat, at one time.  Now all the furniture has been destroyed or looted, leaving nothing of value behind.  A skeleton lies on what remains of the bed, the skull crushed beyond recognition, and a dark stain covers the remaining bedding and the wall."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11196": "west"
+    },
+    "timeto": {
+      "11196": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100049
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      599,
+      110,
+      609,
+      120
+    ]
+  }
+}

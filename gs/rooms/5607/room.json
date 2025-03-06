@@ -1,0 +1,33 @@
+{
+  "checksum": "1fa2f040be8c99d7eb108eaaf9a00db4",
+  "room": {
+    "id": 5607,
+    "title": [
+      "[Mercantylers' Hall, Hallway]"
+    ],
+    "description": [
+      "The oak paneled hallway ends at a polished monir doorway.  Upon the door is carved a gray pouch empty of any coin.  From inside can be heard the constant scratching of a quill on paper."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5606": "east",
+      "5609": "go doorway"
+    },
+    "timeto": {
+      "5606": 0.2,
+      "5609": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120083
+    ]
+  }
+}

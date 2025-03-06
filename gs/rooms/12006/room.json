@@ -1,0 +1,44 @@
+{
+  "checksum": "22d827a72c537910246c08cf5dfdb66b",
+  "room": {
+    "id": 12006,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "The ceiling tapers upward from the sides to the middle until the center is lost in blackness.  The floor is slippery, and leaves seem to have mixed with the sediment to make the entire area one slimy, blackish mess.  The odor of decay lingers in the tunnel as the decomposing leaves produce a slight amount of methane.  A few insects seem to be mixed in with the leaves under the water, but none of these insects are alive."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12005": "west",
+      "12007": "east"
+    },
+    "timeto": {
+      "12005": 0.2,
+      "12007": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003211
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      149,
+      289,
+      159,
+      299
+    ]
+  }
+}

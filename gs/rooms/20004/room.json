@@ -1,0 +1,40 @@
+{
+  "checksum": "043ab9168f8e2fe466bbec813ce26bcb",
+  "room": {
+    "id": 20004,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "Smoldering from atop a stone pedestal in the center of the room is an iron charcoal burner.  Drops of water sizzle fitfully as they land on the hot coals after a brief fall from the damp ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20003": "north",
+      "20005": "south"
+    },
+    "timeto": {
+      "20003": 0.2,
+      "20005": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11205
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1077,
+      909,
+      1087,
+      918
+    ]
+  }
+}

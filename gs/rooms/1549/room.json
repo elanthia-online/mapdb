@@ -1,0 +1,43 @@
+{
+  "checksum": "1b00d051dde4717d1edfea316006e578",
+  "room": {
+    "id": 1549,
+    "title": [
+      "[Solhaven, Tidewater Road]"
+    ],
+    "description": [
+      "A mix of boats from peapod and square-sterned skiffs to broad-beamed fishing cutters lie on either side of the road, most of them resting keel upward.  Although an aged wall encloses her workyard east of the thoroughfare, the boatwright has a portable workbench set up between Tidewater and the bay and is engrossed in repairing several sprung strakes in the hull of a small pinnace by the light of several lanterns.",
+      "A mix of boats from peapod and square-sterned skiffs to broad-beamed fishing vessels lie on either side of the road, most of them resting keel upward.  Although an aged wall encloses her workyard east of the thoroughfare, the boatwright has a portable workbench set up between Tidewater and the bay and is engrossed in repairing several sprung strakes in the hull of a small pinnace close by the water's edge."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1546": "north",
+      "1551": "south",
+      "9305": "go workyard"
+    },
+    "timeto": {
+      "1546": 0.2,
+      "1551": 0.2,
+      "9305": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902063
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      575,
+      1269,
+      599,
+      1293
+    ]
+  }
+}

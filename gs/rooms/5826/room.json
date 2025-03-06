@@ -1,0 +1,35 @@
+{
+  "checksum": "c63b57e57c5a2930a1cb0d636fcae19f",
+  "room": {
+    "id": 5826,
+    "title": [
+      "[The Legendary Rest, Lobby]"
+    ],
+    "description": [
+      "A spacious lobby replete with gleaming brass fixtures, plush woolen carpet, and polished walnut furniture greets guests both coming and going.  Carved, thickly padded walnut chairs reside next to lacquered walnut tables, their wood grain surfaces rubbed to a mirror-like sheen, and richly appointed tapestries adorn the walls.  A pair of heavy walnut doors, inlaid with cut-glass panes, allow exit to an immaculate courtyard, while a dignified elf waits stiffly behind a polished walnut desk."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Legendary Rest",
+    "wayto": {
+      "3485": "out",
+      "5825": "go doors",
+      "30713": "/rooms/5826/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3485": 0.2,
+      "5825": 0.2,
+      "30713": "/rooms/5826/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "inn",
+      "urchin-access",
+      "urchin guide inn",
+      "no forageables"
+    ],
+    "uid": [
+      14101002
+    ]
+  }
+}

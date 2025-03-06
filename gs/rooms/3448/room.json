@@ -1,0 +1,45 @@
+{
+  "checksum": "47b1e904f7dc96c7db8a6cbb168c0f96",
+  "room": {
+    "id": 3448,
+    "title": [
+      "[Honeybeer Inn, Main Room]"
+    ],
+    "description": [
+      "The walls and ceiling are paneled in dark cherry wood, which makes the room seem smaller than it really is.  Low-backed chairs upholstered with red leather seats are arranged beside a glowing brazier.  The sounds of clinking mugs and low voices provide the comforting sense that refreshments are near."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2395": "out",
+      "3449": "west",
+      "3450": "east",
+      "8982": "go staircase"
+    },
+    "timeto": {
+      "2395": 0.2,
+      "3449": 0.2,
+      "3450": 0.2,
+      "8982": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4043201
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      316,
+      1232,
+      352,
+      1268
+    ]
+  }
+}

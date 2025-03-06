@@ -1,0 +1,38 @@
+{
+  "checksum": "7e36d02c510fcc50529eeecd3e5d0212",
+  "room": {
+    "id": 9231,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "Thick black smoke belches up from a large metal vat in the pit below.  Clearly, the cauldron is not empty.  Whatever might be inside the huge iron pot is hidden from view by the black haze, but an occasional gurgling noise lends evidence to something brewing within."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9230": "east",
+      "9232": "west"
+    },
+    "timeto": {
+      "9230": 0.2,
+      "9232": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532033
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1173,
+      1002,
+      1183,
+      1012
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "960f05df8c051c7fb23c1b93411b45cc",
+  "room": {
+    "id": 32826,
+    "title": [
+      "[Hall of Clans]"
+    ],
+    "description": [
+      "Columns repeat to the south and west supporting a white marble, rib-vaulted ceiling above.  Light from iron sconces mounted on the marble wall to the northeast cast soft golden light reflected by the polished hexagonal tile floor that spreads throughout the hall.  The shadows of an alcove in the eastern corner obscure the view of a modest wooden door mounted on iron hinges."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, northwest"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32825": "south",
+      "32827": "go modest door",
+      "32828": "northwest",
+      "32829": "southwest"
+    },
+    "timeto": {
+      "32825": 0.2,
+      "32827": 0.2,
+      "32828": 0.2,
+      "32829": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4490006
+    ]
+  }
+}

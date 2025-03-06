@@ -1,0 +1,32 @@
+{
+  "checksum": "6dd4c7fc368111b576c812e2055b436f",
+  "room": {
+    "id": 26079,
+    "title": [
+      "[Zul Logoth, Ancient Passage]"
+    ],
+    "description": [
+      "Ambient light filters into the circular chamber from the downward stairs and the upward spiraling ones, its diffuse hues creating a soft illumination for the area.  Carved patterns rise out of the smooth floor to create a forested scene on the walls that stretch towards an enormous set of gates.  Twin murals, their faces limned in golden tiles, stand at opposite ends of one another, their broad expanses depicting wildly different scenes."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26078": "/rooms/26079/wayto/stringproc-26078.rb",
+      "26080": "/rooms/26079/wayto/stringproc-26080.rb"
+    },
+    "timeto": {
+      "26078": 24,
+      "26080": 12
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      679009
+    ]
+  }
+}

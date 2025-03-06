@@ -1,0 +1,36 @@
+{
+  "checksum": "157094b37d2fd1f12c0ae9898bcf0945",
+  "room": {
+    "id": 13273,
+    "title": [
+      "[West Wing]"
+    ],
+    "description": [
+      "The corridor stretches away to the northwest and southeast.  A single, tall window is set in the wall, throwing shadows on the opposite wall as the trees outside move gently in the breeze."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "13272": "southeast",
+      "13274": "northwest",
+      "33211": "go granite arch"
+    },
+    "timeto": {
+      "13272": 0.2,
+      "13274": 0.2,
+      "33211": 0.2
+    },
+    "uid": [
+      13112011
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      286,
+      276,
+      342,
+      329
+    ]
+  }
+}

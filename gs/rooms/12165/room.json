@@ -1,0 +1,56 @@
+{
+  "checksum": "4612d220be2dc7319e0347c964e00cda",
+  "room": {
+    "id": 12165,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Slime and liquid drip from the close walls of the circular tunnel.  Your footing is precarious, as a rivulet runs through the area.  Low, regular thudding fills your ears, and a smell not unlike a slaughterhouse drifts in on a breeze."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, southwest",
+      "Obvious exits: north, east, southeast, southwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2579": "/rooms/12165/wayto/stringproc-2579.rb",
+      "12159": "southwest",
+      "12206": "north",
+      "12207": "east",
+      "12208": "southeast"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12159": 0.2,
+      "12206": 0.2,
+      "12207": 0.2,
+      "12208": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "mass of congealed slime",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570002
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      964,
+      1163,
+      974,
+      1173
+    ]
+  }
+}

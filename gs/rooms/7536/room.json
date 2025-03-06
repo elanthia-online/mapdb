@@ -1,0 +1,51 @@
+{
+  "checksum": "e6bc6687a49fd698175d2f358f0ba0da",
+  "room": {
+    "id": 7536,
+    "title": [
+      "[Catacombs, Twisting Tunnels]"
+    ],
+    "description": [
+      "A cave-in some time in the distant past must have sealed off the western extension of the manmade tunnel here.  Pristinely clear water cascades in waves over the heap of rubble left in the wake of the collapse, forming a limpid pool at its base.  Overflow from the pool runs off eastward down the center of the floor along a time-worn channel."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7533": "east",
+      "7543": "climb rubble"
+    },
+    "timeto": {
+      "7533": 0.2,
+      "7543": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46035
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      420,
+      1288,
+      430,
+      1298
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "3011cc1b0ab13a18d487900abb2d2755",
+  "room": {
+    "id": 15626,
+    "title": [
+      "[Sylvarraend Herbals, Back Room]"
+    ],
+    "description": [
+      "Soft mats have been placed along the walls of this brightly lit room.  Sunlight floods the area from a series of glaesineth windows, providing a lovely view of the forest to those recuperating from their injuries.  Along the back, a beautiful garden can be seen through an etched glaesineth door.",
+      "Soft mats have been placed along the walls of this brightly lit room.  Sunlight floods the area from a series of glaesine windows lining the rear wall, providing a lovely view of the forest to those recuperating from their injuries.",
+      "Soft mats have been placed along the walls of this dimly lit room.  Pale moonlight floods the area from a series of glaesine windows lining the rear wall, providing a lovely view of the starry night sky to those recuperating from their injuries."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "13137": "south",
+      "33715": "go door"
+    },
+    "timeto": {
+      "13137": 0.2,
+      "33715": "/rooms/15626/timeto/stringproc-33715.rb"
+    },
+    "uid": [
+      13051015
+    ]
+  }
+}

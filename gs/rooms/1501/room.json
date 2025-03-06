@@ -1,0 +1,46 @@
+{
+  "checksum": "55bd01c3cad7e0b0acf0e0e5f7da4766",
+  "room": {
+    "id": 1501,
+    "title": [
+      "[Solhaven, Lornon and Eastbridge]"
+    ],
+    "description": [
+      "A solid wall of evergreens fills the intersection's northeast corner, providing privacy and seclusion for whatever lies beyond.  In contrast, facing the trees from the other side of Eastbridge, a black iron fence -- its gate gaping wide at the corner -- does nothing to hide the brownstone crypt standing in the center of that plot.  Above the gate, a brown enamelled lozenge bears the image of a coiled, green snake."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1500": "south",
+      "1502": "north",
+      "1510": "east",
+      "1597": "west",
+      "4619": "go gate"
+    },
+    "timeto": {
+      "1500": 0.2,
+      "1502": 0.2,
+      "1510": 0.2,
+      "1597": 0.2,
+      "4619": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902017
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1063,
+      1017,
+      1087,
+      1041
+    ]
+  }
+}

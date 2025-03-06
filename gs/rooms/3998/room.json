@@ -1,0 +1,52 @@
+{
+  "checksum": "9bc67222f4f2f431086cceb24037047b",
+  "room": {
+    "id": 3998,
+    "title": [
+      "[Griffin's Keen, Onyx Point]"
+    ],
+    "description": [
+      "A short scramble up from here would place you on the mountain's peak, but the downward trail is steep and less than alluring.  This bleak northern facing wall is worn almost smooth by the coursing wind.  Layered with years of alternating snow and ice, its surface is black and almost featureless."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "3997": "/rooms/3998/wayto/stringproc-3997.rb",
+      "3999": "go fissure",
+      "4000": "/rooms/3998/wayto/stringproc-4000.rb"
+    },
+    "timeto": {
+      "3997": 4.2,
+      "3999": 0.2,
+      "4000": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302116
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      825,
+      169,
+      835,
+      179
+    ]
+  }
+}

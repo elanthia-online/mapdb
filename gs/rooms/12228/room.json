@@ -1,0 +1,38 @@
+{
+  "checksum": "6d8920f8730c3d3cb6d50d34d3352fa9",
+  "room": {
+    "id": 12228,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Countless variety and number of tattered sock puppets have been impaled upon steel pikes planted in an icy field.  A few frozen patches of the once lush wildflowers can be seen; islands upon the sea of cold, packed earth.  Button eyes and some of the stitching have been torn forcefully from the toys, lying scattered around the barren ground.",
+      "Countless variety and number of tattered sock puppets have been impaled upon steel pikes planted in a burnt field.  Only a few patches of the once lush wildflowers remain; islands upon the sea of scorched earth.  Button eyes and some of the stitching have been torn forcefully from the toys, lying scattered around the barren ground."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest",
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12228/wayto/stringproc-12151.rb",
+      "12219": "southwest",
+      "12229": "northeast"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12219": 0.2,
+      "12229": 0.2
+    },
+    "uid": [
+      4571012
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      73,
+      266,
+      97,
+      290
+    ]
+  }
+}

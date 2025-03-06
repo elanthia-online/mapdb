@@ -1,0 +1,44 @@
+{
+  "checksum": "00a8382e25e3961435cc53742d5e361f",
+  "room": {
+    "id": 2402,
+    "title": [
+      "[Tavern Burrow, Lager Road]"
+    ],
+    "description": [
+      "A twisting staircase with slender wrought iron rails spirals precariously up the back of the Nightowl Pub.  The stairs climb to a small grated ledge just below an open window on the second story of the ramshackle building.  Empty hogsheads, still smelling of the beer they once contained, are stacked beneath the staircase, as if to provide a splintery cushion for anyone who might fall.",
+      "A twisting staircase with slender, wrought-iron rails hangs precariously from the backside of the Nightowl Pub.  The top of the staircase ends just below an open window on the second story.  Empty barrels are stacked in the space beneath the staircase, providing a rather splintery cushion for anyone who might fall."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2387": "west",
+      "2401": "east",
+      "2403": "south",
+      "3425": "climb staircase"
+    },
+    "timeto": {
+      "2387": 0.2,
+      "2401": 0.2,
+      "2403": 0.2,
+      "3425": 0.2
+    },
+    "tags": [
+      "calmintha flower"
+    ],
+    "uid": [
+      4042222
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      227,
+      874,
+      263,
+      910
+    ]
+  }
+}

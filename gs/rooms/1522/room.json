@@ -1,0 +1,41 @@
+{
+  "checksum": "2576d99131c89422432181df47c89d69",
+  "room": {
+    "id": 1522,
+    "title": [
+      "[Solhaven, Limpet Ending]"
+    ],
+    "description": [
+      "Bathing the lane in its soft glow, a series of polished crystal spheres creates an eye-catching embellishment to the spiked ironwork topping this section of the Vornavis wall.  Pulsing with harnessed mana, the objects suggest that their purpose is more than mere decorations for the small cul-de-sac.  Matching orbs, slightly smaller but no less vibrant and connected by corded chains, dangle over green copper gates recessed into the wall.",
+      "Polished crystal spheres add an eye-catching embellishment to the spiked ironwork topping the courtyard wall at the eastern end of the cul-de-sac.  The pulsing glow of harnessed mana suggests that their purpose is more than mere decoration."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1519": "west",
+      "33276": "go green gates"
+    },
+    "timeto": {
+      "1519": 0.2,
+      "33276": "/rooms/1522/timeto/stringproc-33276.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902049
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1307,
+      1143,
+      1331,
+      1167
+    ]
+  }
+}

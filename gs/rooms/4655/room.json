@@ -1,0 +1,44 @@
+{
+  "checksum": "53192c4a6734e828daec4f7a7f5cbd56",
+  "room": {
+    "id": 4655,
+    "title": [
+      "[Gems of the Earth]"
+    ],
+    "description": [
+      "Shards of colored glass dangle from the ceiling, casting a myriad of jewel tones upon the platform as sunlight shines through them.  A simple wooden counter houses two rather large chests and serves as the only furniture on this level of the store.  Sturdy-looking steps rise to the second floor in a wide spiral around a massive tree trunk.",
+      "Shards of colored glass dangle from the ceiling, glimmering like jewels amid the freestanding torches.  A simple wooden counter houses two rather large chests and serves as the only furniture on this level of the store.  Sturdy-looking steps rise to the second floor in a wide spiral around a massive tree trunk."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4653": "go walkway",
+      "4702": "up",
+      "30717": "/rooms/4655/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4653": 0.2,
+      "4702": 0.2,
+      "30717": "/rooms/4655/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "gemshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide gemshop"
+    ],
+    "uid": [
+      14051003
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      469,
+      725,
+      494,
+      749
+    ]
+  }
+}

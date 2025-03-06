@@ -1,0 +1,42 @@
+{
+  "checksum": "42c1276e1b4df7a6d6d5b21ac0eecc12",
+  "room": {
+    "id": 9561,
+    "title": [
+      "[Wizard Guild, Cavern of Lava]"
+    ],
+    "description": [
+      "A reddish glow washes over the rocky walls and stalactites, emanating from a fissure that bisects the cavern from north to south.  High above the river of molten rock, a pair of sturdy glaes bridges adjoins the two sides of the cavern.  Several of the larger stalagmites situated in a rough circle have been carved into monoliths bearing giant engraved runes of the elements."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9557": "go ramp",
+      "13163": "go bridge",
+      "16920": "northwest",
+      "16922": "southwest"
+    },
+    "timeto": {
+      "9557": 0.2,
+      "13163": 0.2,
+      "16920": 0.2,
+      "16922": 0.2
+    },
+    "tags": [
+      "wizard alchemy administrator",
+      "wizard guild administrator"
+    ],
+    "uid": [
+      688012
+    ],
+    "image": "en-zul-wizard_guild-1648064027.png",
+    "image_coords": [
+      153,
+      533,
+      214,
+      593
+    ]
+  }
+}

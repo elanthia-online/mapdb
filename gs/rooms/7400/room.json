@@ -1,0 +1,44 @@
+{
+  "checksum": "86159b81e43cf1215f00075536502676",
+  "room": {
+    "id": 7400,
+    "title": [
+      "[Mine Tunnels]"
+    ],
+    "description": [
+      "A noticeable incline in the tunnel's direction makes travel eastward rougher on your legs.  The ground is striped with black marks as if something was dragged through here, down into the tunnels below."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7399": "east",
+      "7401": "southwest"
+    },
+    "timeto": {
+      "7399": 0.2,
+      "7401": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2158012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1337,
+      138,
+      1345,
+      146
+    ]
+  }
+}

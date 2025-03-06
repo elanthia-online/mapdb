@@ -1,0 +1,48 @@
+{
+  "checksum": "27554988f572d14f4df238480d1d5f9b",
+  "room": {
+    "id": 32884,
+    "title": [
+      "[Brisker's Cove, Comyner Court]"
+    ],
+    "description": [
+      "Cracked white tiles form a radiated, wavy-rayed sun around a circular sandstone fountain that dominates the quiet courtyard.  Torches illuminate the faces of many a shop and home that surround the small gathering place, and though many are closed for the evening a stucco and oak store remains open to customers."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32878": "northwest",
+      "32885": "northeast",
+      "32886": "southwest",
+      "32888": "southeast",
+      "32939": "go store"
+    },
+    "timeto": {
+      "32878": 0.2,
+      "32885": 0.2,
+      "32886": 0.2,
+      "32888": 0.2,
+      "32939": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "town",
+      "node"
+    ],
+    "uid": [
+      7140016
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      441,
+      297,
+      455,
+      311
+    ]
+  }
+}

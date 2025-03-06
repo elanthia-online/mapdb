@@ -1,0 +1,40 @@
+{
+  "checksum": "ca94b40007419ede18d3d25d59143814",
+  "room": {
+    "id": 22110,
+    "title": [
+      "[Cairnfang Manor, Entrance]"
+    ],
+    "description": [
+      "Pale stone steps lead up to an elegant riverstone manor, a woven doormat rests in front of a pair of stained glass doors.  An assortment of ceramic urns blooming with colorful flowers are placed about, the beautiful blossoms and greenery spilling over to blanket the steps.  Hanging to one side is a small brass bell, its polished surface shines brilliantly in the bright sunlight."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "22107": "south",
+      "22111": "go doors"
+    },
+    "timeto": {
+      "22107": 0.2,
+      "22111": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      106008
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      179,
+      366,
+      190,
+      377
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "5a9f2e43781958f0be28771151c3b52c",
+  "room": {
+    "id": 3948,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "You carefully pick your way around the bits and pieces of debris.  Just thinking about the nature of this debris makes you a bit nauseous.  The smell of the place is revolting, making matters even worse."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3947": "south",
+      "3949": "north"
+    },
+    "timeto": {
+      "3947": 0.2,
+      "3949": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2133102
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      585,
+      412,
+      594,
+      419
+    ]
+  }
+}

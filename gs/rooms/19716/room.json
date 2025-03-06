@@ -1,0 +1,40 @@
+{
+  "checksum": "42ce1bff7ca5720b790759e5f760a80d",
+  "room": {
+    "id": 19716,
+    "title": [
+      "[Cavernhold, Bent Passage]"
+    ],
+    "description": [
+      "This passage seems almost unnatural as it bends sharply, connecting to another passage to the south and leading to a room to the west."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19688": "south",
+      "19715": "west"
+    },
+    "timeto": {
+      "19688": 0.2,
+      "19715": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11018
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      612,
+      772,
+      625,
+      784
+    ]
+  }
+}

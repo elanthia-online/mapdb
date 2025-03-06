@@ -1,0 +1,42 @@
+{
+  "checksum": "24fa9ada5d03748c5f7454079f2c2bf8",
+  "room": {
+    "id": 11197,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "A shattered glass display case rests in the center of the floor here, a skeleton skull lying with the broken glass within the case. The rest of the skeleton lies on the ground, and whatever was in the case is long gone."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11196": "south",
+      "11198": "west",
+      "16062": "north",
+      "32691": "east"
+    },
+    "timeto": {
+      "11196": 0.2,
+      "11198": 0.2,
+      "16062": 0.2,
+      "32691": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100051
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      571,
+      56,
+      581,
+      66
+    ]
+  }
+}

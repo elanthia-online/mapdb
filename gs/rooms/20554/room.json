@@ -1,0 +1,26 @@
+{
+  "checksum": "ada3a359a86c48f6e8a117a1cd692d35",
+  "room": {
+    "id": 20554,
+    "title": [
+      "[Erythro Island, Forest Ring]"
+    ],
+    "description": [
+      "The area begins to open wider now, the trees becoming more sparse.  A natural trail is revealed, leading further east as the forest diminishes."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20553": "southeast",
+      "20555": "go trail",
+      "20556": "northwest"
+    },
+    "timeto": {
+      "20553": 0.2,
+      "20555": 0.2,
+      "20556": 0.2
+    }
+  }
+}

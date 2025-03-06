@@ -1,0 +1,60 @@
+{
+  "checksum": "c2b54e5a54eab240f2f29eab5db57000",
+  "room": {
+    "id": 6210,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "Gently burning fires rest inside metal braziers, illuminating the entirety of the circular room.  Several tunnels snake away from different sections of the room, each flanked by a pair of bronze bull statues."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6202": "/rooms/6210/wayto/stringproc-6202.rb",
+      "6203": "/rooms/6210/wayto/stringproc-6203.rb",
+      "6204": "/rooms/6210/wayto/stringproc-6204.rb",
+      "6205": "/rooms/6210/wayto/stringproc-6205.rb",
+      "6206": "/rooms/6210/wayto/stringproc-6206.rb",
+      "6207": "/rooms/6210/wayto/stringproc-6207.rb",
+      "6208": "/rooms/6210/wayto/stringproc-6208.rb",
+      "6209": "/rooms/6210/wayto/stringproc-6209.rb"
+    },
+    "timeto": {
+      "6202": 0.5,
+      "6203": 0.5,
+      "6204": 0.5,
+      "6205": 0.5,
+      "6206": 0.5,
+      "6207": 0.5,
+      "6208": 0.5,
+      "6209": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      2167077
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      677,
+      135,
+      695,
+      153
+    ]
+  }
+}

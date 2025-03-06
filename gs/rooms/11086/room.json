@@ -1,0 +1,44 @@
+{
+  "checksum": "413f8d23c714a496a04b2b6b3f60aae1",
+  "room": {
+    "id": 11086,
+    "title": [
+      "[Sea Cove]"
+    ],
+    "description": [
+      "This cove provides an ideal spot for trading boats and ships to drop anchor away from the current of the river.  To the east a sea cave opens, leading into the cliff walls.  Boulders dot the beach, evidence that occasional rock slides occur here."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the Sea Caves",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "11085": "east",
+      "11087": "north"
+    },
+    "timeto": {
+      "11085": 0.2,
+      "11087": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "yabathilium fruit",
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      26111
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4290,
+      1250,
+      4313,
+      1272
+    ]
+  }
+}

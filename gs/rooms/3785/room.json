@@ -1,0 +1,41 @@
+{
+  "checksum": "c93b019e724a834810b2d032be2cbf2b",
+  "room": {
+    "id": 3785,
+    "title": [
+      "[Adventurer's Guild, Office]"
+    ],
+    "description": [
+      "Pushed against the polished mahogany walls are matching leather armchairs separated by gilt-edged end tables.  Twirling gently from its chain overhead, the clacking prisms from the crystal chandelier produce a soft melodic chime.  Directly beneath the fixture rests an oval shaped desk inlaid with blue lapis lazuli along its edges.  Tucked at the back of the room, the dried and well-preserved carcass of a mammoth arachnid rests within a glass display case."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Adventurer's Guild",
+    "wayto": {
+      "1775": "northwest",
+      "30708": "/rooms/3785/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "1775": 0.2,
+      "30708": "/rooms/3785/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin guide bounty",
+      "urchin-access",
+      "bounty",
+      "meta:nomagic"
+    ],
+    "uid": [
+      15000003
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      341,
+      1086,
+      408,
+      1147
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "24f99656c01bad8278b6cdae110d0f02",
+  "room": {
+    "id": 10362,
+    "title": [
+      "[Vonder's Archery Supply]"
+    ],
+    "description": [
+      "A newly polished mahogany counter spans the length of the room, completely dividing the room in half.  Several unfinished bows hang from a rack situated behind the counter, along with several displays holding various types of archery supplies."
+    ],
+    "paths": [
+      "Obvious exits: south, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3533": "out",
+      "10363": "south",
+      "30713": "/rooms/10362/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3533": 0.2,
+      "10363": 0.2,
+      "30713": "/rooms/10362/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin-access",
+      "urchin guide fletcher",
+      "meta:nomagic"
+    ],
+    "uid": [
+      14112001
+    ]
+  }
+}

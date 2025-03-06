@@ -1,0 +1,29 @@
+{
+  "checksum": "7e9ad2b969924e0e3e3bb4eacca99d9d",
+  "room": {
+    "id": 24843,
+    "title": [
+      "[Mikalmas's Outfitting]"
+    ],
+    "description": [
+      "Beneath a varnished golden oak ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A glass-topped mistwood counter and a gold-leafed mistwood cabinet sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "350": "out",
+      "25005": "south",
+      "25006": "north"
+    },
+    "timeto": {
+      "350": 0.2,
+      "25005": 0.2,
+      "25006": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

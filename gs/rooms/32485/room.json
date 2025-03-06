@@ -1,0 +1,37 @@
+{
+  "checksum": "cc464869b27bd3e6f81f9e4f6add164d",
+  "room": {
+    "id": 32485,
+    "title": [
+      "[Moonsedge Castle, Pantry]"
+    ],
+    "description": [
+      "Little separates the pantry from the kitchens beyond a stone half-wall that is lined with containers of dried spices and burlap bags full of salt and flour.  Wheels of cheese, the size of a small child, sit atop blocky tables, and cured legs of meat swing from the arched ceiling.  Several barrels of mead and wine sit in one corner, but they are dusty with disuse.  Behind one barrel, a stairwell descends into the floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32482": "west",
+      "32486": "go stair"
+    },
+    "timeto": {
+      "32482": 0.2,
+      "32486": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577218
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1229,
+      766,
+      1252,
+      789
+    ]
+  }
+}

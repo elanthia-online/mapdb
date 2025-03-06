@@ -1,0 +1,46 @@
+{
+  "checksum": "70dd588dc1cd712626a31f51a6335aad",
+  "room": {
+    "id": 18175,
+    "title": [
+      "[Melgorehn's Reach, Slope]"
+    ],
+    "description": [
+      "You are at the base of a slope which runs straight up the mountain, leading to a point where the trail turns and climbs westward to the mountaintop.  The slope is very steep but does not appear too difficult to run up.  The way continues down from here."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "18174": "west",
+      "18176": "/rooms/18175/wayto/stringproc-18176.rb"
+    },
+    "timeto": {
+      "18174": 0.2,
+      "18176": 0.2
+    },
+    "tags": [
+      "marallis berry",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "golden aster",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      52007
+    ]
+  }
+}

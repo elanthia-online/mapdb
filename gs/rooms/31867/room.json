@@ -1,0 +1,49 @@
+{
+  "checksum": "23bd3b6f685f3f7d65da8d2121a6fe6e",
+  "room": {
+    "id": 31867,
+    "title": [
+      "[Darkbriar Woods, Umbral Path]"
+    ],
+    "description": [
+      "Dark roots shatter a cobblestone pathway running through a dark briar arch, and thick ice coats everything except a shadowed, windy path running east to west surrounded by dense trees and briars that arch overhead, nearly blocking the sky.  Tucked between vine-wrapped oak, ash, and rowan are several smaller buildings, and narrow trails wander off the main path, disappearing in snow drifts, looming trees, and thorny bushes."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous",
+    "wayto": {
+      "31866": "go arch",
+      "31875": "east",
+      "31878": "west",
+      "31904": "go hut",
+      "33963": "go bramble-caught shanty"
+    },
+    "timeto": {
+      "31866": 0.2,
+      "31875": 0.2,
+      "31878": 0.2,
+      "31904": 0.2,
+      "33963": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083081
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1091,
+      243,
+      1111,
+      264
+    ]
+  }
+}

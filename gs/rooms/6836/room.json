@@ -1,0 +1,51 @@
+{
+  "checksum": "a08195dfa358d50c95b877d78e2500ef",
+  "room": {
+    "id": 6836,
+    "title": [
+      "[Badlands, Ravine]"
+    ],
+    "description": [
+      "Years of harsh wind and rain have torn all vegetation from the hills, carving out a ravine that mars the barren land like a vicious scar.  Aside from standing here in the bitter draft blowing off the hill to the south, your only options are to climb the sheer ravine wall, or to follow the twists and turns between the hills to the north.",
+      "Years of harsh wind and rain have torn all vegetation from the hills, carving out a ravine that mars the barren land like a vicious scar.  Aside from standing here in the bitter draft blowing off the hill to the south, your only options are to climb the sheer ravine wall in near-total darkness or to follow the twists and turns between the hills to the north."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "cold, dry",
+    "terrain": "sandy",
+    "wayto": {
+      "6835": "climb wall",
+      "6837": "northeast"
+    },
+    "timeto": {
+      "6835": 0.2,
+      "6837": 0.2
+    },
+    "tags": [
+      "moonlight cactus-bloom",
+      "acantha leaf",
+      "strigae cactus",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      374001
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1018,
+      583,
+      1028,
+      593
+    ]
+  }
+}

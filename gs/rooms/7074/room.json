@@ -1,0 +1,42 @@
+{
+  "checksum": "7cf342fa3b06ba722b1425b036e8e603",
+  "room": {
+    "id": 7074,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The ceiling seems to have partly collapsed here some time in the past, leaving boulders, rocks and smaller rubble to block the passageway.  As you climb over the pile, careful of where you place your feet, something with a lot of legs crawls over your hand.  You hear rustling and clicking noises coming from the north."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7073": "south",
+      "7075": "north"
+    },
+    "timeto": {
+      "7073": 0.2,
+      "7075": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44048
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      702,
+      1038,
+      712,
+      1048
+    ]
+  }
+}

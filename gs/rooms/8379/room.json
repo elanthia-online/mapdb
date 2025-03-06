@@ -1,0 +1,49 @@
+{
+  "checksum": "a3e8e606771a8a30cfd0a830380e3495",
+  "room": {
+    "id": 8379,
+    "title": [
+      "[Thanatoph Bowels, Tunnel]"
+    ],
+    "description": [
+      "The rough-hewn dirt walls are irregular and uneven, clearly not man-made.  The clay-like floor is a quagmire of mud and slop, which makes travel slow and messy.  The tunnel is filled with ominous echoes, the sounds muffled and indeterminate in the darkness."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the bowels of Thanatoph",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8378": "northwest",
+      "8380": "southwest"
+    },
+    "timeto": {
+      "8378": 0.2,
+      "8380": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "some cave moss",
+      "some wingstem root",
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4293005
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      1103,
+      440,
+      1113,
+      450
+    ]
+  }
+}

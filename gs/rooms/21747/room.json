@@ -1,0 +1,49 @@
+{
+  "checksum": "2687297b15ba7f875375b3860f67a460",
+  "room": {
+    "id": 21747,
+    "title": [
+      "[House Phoenix, Grand Hall]"
+    ],
+    "description": [
+      "The elegant Grand Hall appears to have hosted many a merry celebration.  Candlelight from faceted ruby and crystal chandeliers casts a warm glow over a grand cherry banquet table and matching gilded chairs.  Mirror-clad arched alcoves on one wall hold small tables for private gatherings.  Marble pilasters with gilded capitals depicting rising phoenixes frame elaborately figured silk tapestries flanking the great white marble fireplace on the eastern wall.  At the west end of the room rests a small bar."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21741": "west",
+      "21748": "go door",
+      "21749": "south",
+      "28647": "go voln table",
+      "28648": "go koar table",
+      "28649": "go phoen table",
+      "28650": "go eonak table",
+      "28651": "go lumnis table"
+    },
+    "timeto": {
+      "21741": 0.2,
+      "21748": 0.2,
+      "21749": 0.2,
+      "28647": 0.2,
+      "28648": 0.2,
+      "28649": 0.2,
+      "28650": 0.2,
+      "28651": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Rising Phoenix"
+    ],
+    "uid": [
+      103002
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      953,
+      862,
+      1070,
+      939
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "8490ba51a1b9943d5a6ddf63ba985a71",
+  "room": {
+    "id": 12644,
+    "title": [
+      "[Temple, West Hall]"
+    ],
+    "description": [
+      "The holiness of this temple did little to preserve it from the ravages of fire that swept through the village.  The roof has been badly damaged and is falling in at many places.  Charred tatters are all that remain of the tapestries that once graced this room.  An ebony door sags from its hinges on one wall, and a vine covered doorway is barely visible to the northwest."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2075": "go door",
+      "2083": "go doorway",
+      "12645": "northeast",
+      "12646": "east"
+    },
+    "timeto": {
+      "2075": 0.2,
+      "2083": 0.2,
+      "12645": 0.2,
+      "12646": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030001
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      612,
+      942,
+      620,
+      950
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "c474c2e552283ed7d3876bb100d5c6e4",
+  "room": {
+    "id": 16522,
+    "title": [
+      "[Moswell's General Store]",
+      "[Moswell's Armory]",
+      "[Moswell's Magic Shoppe]",
+      "[Moswell's Outfitting]"
+    ],
+    "description": [
+      "Beneath a knotted oak ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A floral-etched ceramic case sits in one corner while some puffed raw silk pillows rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16513": "west"
+    },
+    "timeto": {
+      "16513": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

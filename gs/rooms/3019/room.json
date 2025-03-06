@@ -1,0 +1,41 @@
+{
+  "checksum": "5dff9af23816641f057412c579d23408",
+  "room": {
+    "id": 3019,
+    "title": [
+      "[Snow Fort, Spiral]"
+    ],
+    "description": [
+      "A frozen tower of dark ice spirals far above and below.  The jagged edges of the ice provide barely enough friction to enable you to continue on your way.  Light filters down from somewhere high up the spiral."
+    ],
+    "paths": [
+      "Obvious exits: north, up, down"
+    ],
+    "location": "the High Plains",
+    "wayto": {
+      "3018": "north",
+      "3020": "up",
+      "3024": "down"
+    },
+    "timeto": {
+      "3018": 0.2,
+      "3020": 0.2,
+      "3024": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129104
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      489,
+      821,
+      499,
+      831
+    ]
+  }
+}

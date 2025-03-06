@@ -1,0 +1,41 @@
+{
+  "checksum": "a798fd36a35eb92ef8f492220fdaabb7",
+  "room": {
+    "id": 21762,
+    "title": [
+      "[House Phoenix, Hall]"
+    ],
+    "description": [
+      "The few guttering candles provide barely enough light to avoid stumbling over the uneven tile floor.  The stone walls of this narrow hallway are cool and slightly damp to the touch.  The air, heavy and humid, smells slightly of mildew."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21761": "east",
+      "21763": "west",
+      "25863": "go opening",
+      "32993": "go curtained opening"
+    },
+    "timeto": {
+      "21761": 0.2,
+      "21763": 0.2,
+      "25863": 0.2,
+      "32993": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Rising Phoenix"
+    ],
+    "uid": [
+      103116
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      711,
+      500,
+      827,
+      574
+    ]
+  }
+}

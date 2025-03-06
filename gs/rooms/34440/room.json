@@ -1,0 +1,32 @@
+{
+  "checksum": "c6b161d440fa18d7d007fe7c0603e645",
+  "room": {
+    "id": 34440,
+    "title": [
+      "[Oleander House, Entry]"
+    ],
+    "description": [
+      "Smooth sage green walls encircle the small entry, which is illuminated by frosted orbs hung in the four corners.  Rows of scrollwork wrought iron hooks hang about six feet off the ground, providing storage space for outerwear garments, while below them is a small painted wooden chest designed to house shoes.  A coarse mat of bristles and river reeds rests upon the slate tiles and is positioned before a solid modwir door, while a wall-hugging staircase leads to the second floor."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Oleander House, inside the city of Vornavis Proper",
+    "wayto": {
+      "33277": "go modwir door",
+      "34441": "north",
+      "34444": "go staircase"
+    },
+    "timeto": {
+      "33277": 0.2,
+      "34441": 0.2,
+      "34444": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022026
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "09c251abcf39f227f57bdfb1c3350e6c",
+  "room": {
+    "id": 645,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "Branching off to the southeast, the cobblestoned road shows signs of wear that indicate frequent use.  A copse of trees stands nearby, birds atwitter in the tree branches.  A tall stone marker stands in front of the copse."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "46": "west",
+      "646": "southeast",
+      "27131": "go path"
+    },
+    "timeto": {
+      "46": 0.2,
+      "646": 0.2,
+      "27131": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049001
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      203,
+      437,
+      213,
+      447
+    ]
+  }
+}

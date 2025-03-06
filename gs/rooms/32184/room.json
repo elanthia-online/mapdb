@@ -1,0 +1,32 @@
+{
+  "checksum": "6d327ea5abc042bdf81c8bd9483f1f9f",
+  "room": {
+    "id": 32184,
+    "title": [
+      "[The Minaret, Midspire]"
+    ],
+    "description": [
+      "The simple, round chamber is little more than a landing, with a carved stone spiral staircase continuing both up and down.  A small bit of floor has been stolen from the center of the ring, upon which is a wooden plinth.  An arrowslit lets in a bit of starlight."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "32183": "down",
+      "32185": "up"
+    },
+    "timeto": {
+      "32183": 0.2,
+      "32185": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084251
+    ]
+  }
+}

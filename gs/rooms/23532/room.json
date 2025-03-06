@@ -1,0 +1,38 @@
+{
+  "checksum": "d31d7c859322f2baa6cb230b2ef042b3",
+  "room": {
+    "id": 23532,
+    "title": [
+      "[Twelve Oaks Manor, Parlour]"
+    ],
+    "description": [
+      "Ivory crown molding joins cream-hued walls and the soaring vaulted ceiling.   An arched oak door stands to the side of a black marble fireplace, which is nestled into the western wall and has an ivy-etched mirror centered above it.  Facing the hearth is a plush floral-patterned couch framed by a set of petite lor end tables.  The northern wall boasts a series of floor-to-ceiling windows that look out onto the moonlit garden, broken only by a pair of multi-paned glass doors.  Along the eastern wall is a polished lor arch leading into the dining area."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23530": "south",
+      "23531": "go oak door",
+      "23533": "go arch",
+      "23534": "go doors"
+    },
+    "timeto": {
+      "23530": 0.2,
+      "23531": 0.2,
+      "23533": 0.2,
+      "23534": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      501003
+    ]
+  }
+}

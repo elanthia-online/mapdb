@@ -1,0 +1,48 @@
+{
+  "checksum": "bc37bd41704c3946862a96864407ad1f",
+  "room": {
+    "id": 24434,
+    "title": [
+      "[Ancient Burrow, Thaumaturgy Row]"
+    ],
+    "description": [
+      "Nestled between a round black and blue door and a glaes-paned steel hatch, a natural recess in the stone has been transformed into an open air patio crowded with tables beneath hanging lanterns.  To one side of the passage, a small wooden cart is laden with fish freshly caught from the Frostmain.  As the ground begins to slant upwards, the cobblestones of the subterranean road grow smaller but no less numerous.",
+      "Nestled between an ebonwood door and a glaes-paned steel door, a natural recess in the stone has been transformed into an open air patio crowded with tables beneath hanging lanterns.  To one side of the passage, a small cart with a broken wheel has been abandoned.  As the ground begins to slant upwards, the cobblestones become increasingly uneven."
+    ],
+    "paths": [
+      "Obvious paths: east, up"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24433": "east",
+      "24435": "up",
+      "24436": "go steel door",
+      "24437": "go ebonwood door",
+      "24438": "go patio"
+    },
+    "timeto": {
+      "24433": 0.2,
+      "24435": 0.2,
+      "24436": 0.2,
+      "24437": 0.2,
+      "24438": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042258
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      156,
+      360,
+      171,
+      375
+    ]
+  }
+}

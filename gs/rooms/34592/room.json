@@ -1,0 +1,42 @@
+{
+  "checksum": "7e092d9f7815e5c35ff044b0ca87c519",
+  "room": {
+    "id": 34592,
+    "title": [
+      "[Ebonshade Tower, Ruby Landing]"
+    ],
+    "description": [
+      "A narrow archway adorned with a beautiful tapestry leads into another part of the tower.  In the opposite direction are three doors, all aglow with ruby light emanating from the twisting and turning column of magical energy.  The air seems to shimmer with magical energy as you catch a faint whiff of fragrant incense wafting nearby."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "FWI Sorcerer Guild",
+    "wayto": {
+      "34589": "go column",
+      "34593": "go worn door",
+      "34594": "go tapestry",
+      "34595": "go archway",
+      "34604": "go thick door",
+      "34605": "go ironwood door"
+    },
+    "timeto": {
+      "34589": 0.2,
+      "34593": 0.2,
+      "34594": 0.2,
+      "34595": 0.2,
+      "34604": 0.2,
+      "34605": 0.2
+    },
+    "uid": [
+      669033
+    ],
+    "image": "fwi-Sorcerer_Guild-1721107818.png",
+    "image_coords": [
+      348,
+      447,
+      383,
+      483
+    ]
+  }
+}

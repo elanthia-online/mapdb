@@ -1,0 +1,29 @@
+{
+  "checksum": "219aa0c063ea29bc90bad8bd219bba07",
+  "room": {
+    "id": 27910,
+    "title": [
+      "[Cormactic's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "351": "out",
+      "27912": "east",
+      "27913": "north"
+    },
+    "timeto": {
+      "351": 0.2,
+      "27912": 0.2,
+      "27913": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

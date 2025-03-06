@@ -1,0 +1,38 @@
+{
+  "checksum": "9765ed11ba5e57d11726660e422134ec",
+  "room": {
+    "id": 22445,
+    "title": [
+      "[Dark Shrine, Wide Passageway]"
+    ],
+    "description": [
+      "A plain stone passageway has been cleanly carved from the solid rock, and leads to the east and west.  The featureless stone is grey, and the surface is abrasive."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "19269": "east",
+      "19270": "west"
+    },
+    "timeto": {
+      "19269": 0.2,
+      "19270": 0.2
+    },
+    "tags": [
+      "peer west =~ /\\[Dark Shrine, Large Chamber\\]/",
+      "lesser vruul"
+    ],
+    "uid": [
+      94052
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      839,
+      248,
+      848,
+      258
+    ]
+  }
+}

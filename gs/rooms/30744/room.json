@@ -1,0 +1,36 @@
+{
+  "checksum": "336797882ed84e6ef68b6b44b0f840c7",
+  "room": {
+    "id": 30744,
+    "title": [
+      "[Warehouse, Second Floor Hall]"
+    ],
+    "description": [
+      "This tight, north-south hallway is dark and dank.  Musty smells from the warehouse below waft up though obvious gaps in the floorboards.  Sawdust and discarded bent nails litter the floors."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "30743": "south",
+      "30745": "north",
+      "31053": "go pine door"
+    },
+    "timeto": {
+      "30743": 0.2,
+      "30745": 0.2,
+      "31053": 0.2
+    },
+    "uid": [
+      4219396
+    ],
+    "image": "vo-warehouse_lockers-1485119080.png",
+    "image_coords": [
+      570,
+      537,
+      669,
+      588
+    ]
+  }
+}

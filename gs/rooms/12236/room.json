@@ -1,0 +1,40 @@
+{
+  "checksum": "2b8947da4f7be22aba6ba042e8b790e6",
+  "room": {
+    "id": 12236,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "A white-washed baby's crib stands alone in a circle of dark stones.  Snow swirls around the bed in a loose vortex.  The tortured cries and wails of an infant can be heard clearly, though there is no child to be found anywhere.",
+      "A white-washed baby's crib stands alone in a circle of glowing coals, illuminated with a reddish hue against the darkness.  The tortured cries and wails of an infant can be heard clearly, though there is no child to be found anywhere."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, northwest",
+      "Obvious paths: southeast, south, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12236/wayto/stringproc-12151.rb",
+      "12234": "south",
+      "12235": "northwest",
+      "12238": "southeast"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12234": 0.2,
+      "12235": 0.2,
+      "12238": 0.2
+    },
+    "uid": [
+      4571011
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      460,
+      210,
+      484,
+      234
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "6be559fcd9595421ad0e03af1e7466e8",
+  "room": {
+    "id": 7981,
+    "title": [
+      "[Moot Hall, House Annex Hallway]"
+    ],
+    "description": [
+      "Swaths of black velvet drape to either side of a black curtain with the sigil of Moonstone Abbey of the same hue, while the dim lighting casts most of the room in darkness.  The silvery sigil of Moonstone Abbey arches over the curtain, its highly polished surface glinting softly in the reflected light."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7980": "west",
+      "7982": "east"
+    },
+    "timeto": {
+      "7980": 0.2,
+      "7982": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

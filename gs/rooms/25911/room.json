@@ -1,0 +1,31 @@
+{
+  "checksum": "7f854ca686cf426dcaa9807b4ac0114d",
+  "room": {
+    "id": 25911,
+    "title": [
+      "[Sylinar's Spire]"
+    ],
+    "description": [
+      "An arched wooden door stands illuminated by tall pillar candles sitting on stone pedestals to either side.  The staircase has been blocked by a thick-linked iron chain, preventing further ascent."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25910": "down",
+      "25912": "go door"
+    },
+    "timeto": {
+      "25910": 0.2,
+      "25912": 0.2
+    },
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      938,
+      104,
+      989,
+      159
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "8619c655b8c20e7d3e40ffc6ca774c69",
+  "room": {
+    "id": 25697,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Creating a narrow lane of passage, the waterway stretches beyond a series of blown glass globes toward the distant beach on the north side and crashes against the rough rocks of an island to the south.  Swimmers playfully splash in the waters on the other side of the floating orbs, some waving to the boaters, and others riding the waves back to land.",
+      "Creating a narrow lane of passage, the waterway stretches beyond a series of blown glass globes toward the distant beach to the north and crashes against the rough rocks of an island to the south.  Moonlight bounces off of the waves and casts strange shadows upon the tropical plant life that sways in the evening breeze.  Lone and forlorn, the soft coo of a cormorant dances through the air."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25696": "/rooms/25697/wayto/stringproc-25696.rb",
+      "25698": "/rooms/25697/wayto/stringproc-25698.rb"
+    },
+    "timeto": {
+      "25696": 6,
+      "25698": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223825
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1200,
+      1200,
+      1220,
+      1220
+    ]
+  }
+}

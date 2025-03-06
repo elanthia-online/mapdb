@@ -1,0 +1,41 @@
+{
+  "checksum": "9781119be7e167d94c207911f9edc135",
+  "room": {
+    "id": 18004,
+    "title": [
+      "[Rogue Guild, Hallway]"
+    ],
+    "description": [
+      "The tiled floor is partly covered with simple rugs.  The flickering light from the ornate brass oil lamps reflects off a brightly polished tower shield which hangs on the wall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "18002": "north",
+      "19220": "go step",
+      "30755": "go toolbenches"
+    },
+    "timeto": {
+      "18002": 0.2,
+      "19220": 0.2,
+      "30755": 0.2
+    },
+    "tags": [
+      "rogue workshop",
+      "rogue guild window",
+      "rogue guild workshop"
+    ],
+    "uid": [
+      263037
+    ],
+    "image": "rr-rogue_guild-1305438533.png",
+    "image_coords": [
+      191,
+      411,
+      220,
+      436
+    ]
+  }
+}

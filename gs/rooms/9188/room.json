@@ -1,0 +1,38 @@
+{
+  "checksum": "0f59b7feb82f42daa0ad76ae4f135afb",
+  "room": {
+    "id": 9188,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "Oddly, set into the floor is a huge iron door banded with brass.  Considering its strange placement, it might lead to a lower level in the keep.  Perhaps crafted as some bad joke, a multitude of doorknobs, handles and latches cover the door."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9174": "east",
+      "9187": "northwest"
+    },
+    "timeto": {
+      "9174": 0.2,
+      "9187": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531038
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      741,
+      952,
+      751,
+      962
+    ]
+  }
+}

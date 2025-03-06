@@ -1,0 +1,24 @@
+{
+  "checksum": "52f9727a64f26939fb3783d7c10e5188",
+  "room": {
+    "id": 20373,
+    "title": [
+      "[Feywrot Mire, Overgrown Path]"
+    ],
+    "description": [
+      "The overgrown path ends abruptly at the edge of a stone basin containing a large shimmering pool of clear, dimly luminescent water.  Beyond the edge of the pool, the mire stretches out into the far distance, thick with rolling fog and creeping sounds."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20351": "south",
+      "20374": "go pool"
+    },
+    "timeto": {
+      "20351": 0.2,
+      "20374": 0.2
+    }
+  }
+}

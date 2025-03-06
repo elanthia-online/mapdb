@@ -1,0 +1,63 @@
+{
+  "checksum": "2d87744ca2e17130611988f336835b78",
+  "room": {
+    "id": 11162,
+    "title": [
+      "[Citadel, Outside]"
+    ],
+    "description": [
+      "To the east you can see a huge old oak tree and to the west, the windowless walls of the old building.  The walkway continues to the north and south and seems to be in somewhat better shape than elsewhere."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Citadel",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11161": "south",
+      "11163": "north",
+      "11201": "climb tree"
+    },
+    "timeto": {
+      "11161": 0.2,
+      "11163": 0.2,
+      "11201": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "murdroot",
+      "withered black mushroom",
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "motherwort",
+      "murkweed",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2102025
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      940,
+      606,
+      950,
+      616
+    ]
+  }
+}

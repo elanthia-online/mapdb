@@ -1,0 +1,24 @@
+{
+  "checksum": "5a09aa910d51ef57b5f808dbd1435566",
+  "room": {
+    "id": 20338,
+    "title": [
+      "[Abandoned Tavern, Cellar]"
+    ],
+    "description": [
+      "Half of the cellar has sank into the Feywrot Mire, with the majority of the dank room flooded with muck and water.  A foul smell is heavy in the air.  Upon the areas that are still traversable, a stacked pile of old casks dominates the cellar."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20337": "up",
+      "23150": "/rooms/20338/wayto/stringproc-23150.rb"
+    },
+    "timeto": {
+      "20337": 0.2,
+      "23150": 0.2
+    }
+  }
+}

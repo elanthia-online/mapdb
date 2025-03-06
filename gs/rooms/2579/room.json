@@ -1,0 +1,51 @@
+{
+  "checksum": "7572b3b35c6ae08e59e6c10ad1181cf6",
+  "room": {
+    "id": 2579,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A cold, grey mist swirls around you, making it difficult to gain any sense of what is here.  Through the haze a huge, gnarled hand stretches upward reaching grimly for something past your vision.  As you move closer, it turns out to be only a dead tree, the bent and gnarled limbs twisting toward a blood eagle hovering just out of reach."
+    ],
+    "paths": [
+      "Obvious exits: southwest",
+      "Obvious paths: southwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2580": "southwest",
+      "2635": "/rooms/2579/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2579/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2579/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2580": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "oozing fleshsore bulb",
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "meta:mapname:Icemule Trace - Rift, The",
+      "meta:mapshortname:Rift, The",
+      "meta:mapcategory:Icemule Trace"
+    ],
+    "uid": [
+      4566001
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      186,
+      589,
+      194,
+      597
+    ]
+  }
+}

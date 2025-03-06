@@ -1,0 +1,46 @@
+{
+  "checksum": "fe80dfe35c2ba6c163435c055b4fab7f",
+  "room": {
+    "id": 2331,
+    "title": [
+      "[Temple Burrow, Koar Street]"
+    ],
+    "description": [
+      "Cobbled road gives way to solid ice as the pathway scales the edge of one of the glacier's lesser slopes.  The ground is slippery, but halflings and the occasional sylvankind pedestrian seem unhindered as they make their way.  Dwellings and shops dug out of the ice are fronted by round doors with fresh coats of brightly colored paint, though there seems to be no clear consensus on which colors go together well and which clash.  An ice ramp of packed, grated ice leads up and to the east toward the temple.",
+      "You are on the edge of the glacier.  The ground here is hard-packed ice, slippery beneath your feet, but the halflings seem not to notice as they make their way about their business.  Houses have been carved from the ice, as have a few small shops.  A ramp of packed, grated ice leads up and to the east, likely to the Temple."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2330": "south",
+      "2332": "go ramp",
+      "2356": "north",
+      "3306": "west"
+    },
+    "timeto": {
+      "2330": 0.2,
+      "2332": 0.2,
+      "2356": 0.2,
+      "3306": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042011
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      672,
+      519,
+      708,
+      555
+    ]
+  }
+}

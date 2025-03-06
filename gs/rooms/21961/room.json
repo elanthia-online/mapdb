@@ -1,0 +1,31 @@
+{
+  "checksum": "61f7920b90c94e2ee5be3be9cb7038f6",
+  "room": {
+    "id": 21961,
+    "title": [
+      "[Talador Mines, Old Tunnel]"
+    ],
+    "description": [
+      "The walls of the tunnel are swarming with slimy, glowing white maggots that crawl along like a cascade of bright opals.  Amidst the darkness of the passage, thick cobwebs hang from the uneven ceiling."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21960": "/rooms/21961/wayto/stringproc-21960.rb",
+      "22009": "/rooms/21961/wayto/stringproc-22009.rb"
+    },
+    "timeto": {
+      "21960": 3.8,
+      "22009": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      768,
+      427,
+      782,
+      440
+    ]
+  }
+}

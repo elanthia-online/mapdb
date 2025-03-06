@@ -1,0 +1,40 @@
+{
+  "checksum": "b68b85f04455b386e7b7680a07d6f37c",
+  "room": {
+    "id": 7305,
+    "title": [
+      "[Graveyard, Tunnel]"
+    ],
+    "description": [
+      "The hurried construction of the tunnel is apparent here, and the level of the slipperly stone walkway changes unevenly and suddenly.  The stone blocks in the walls and floor are fitted together carelessly, allowing water and the roots of trees to enter.",
+      "The hurried construction of the tunnel is apparent here, and the level of the slippery stone walkway changes unevenly and suddenly.  The stone blocks in the walls and floor are fitted together carelessly, allowing water and the roots of trees to enter."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7245": "northeast",
+      "7304": "southwest"
+    },
+    "timeto": {
+      "7245": 0.2,
+      "7304": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18064
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      595,
+      438,
+      605,
+      448
+    ]
+  }
+}

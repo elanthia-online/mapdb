@@ -1,0 +1,40 @@
+{
+  "checksum": "144d5e1697f39266924e8de266618141",
+  "room": {
+    "id": 1193,
+    "title": [
+      "[Vipershroud, Ferry Landing]"
+    ],
+    "description": [
+      "The Locksmehr River runs wider, deeper and slower here, allowing a ferry service to take passengers across to the opposite shore.  A weathered wooden dock, firmly lashed to several large pilings, juts out into the river.  To the south and east, the Vipershroud grows down to the water's edge, making travel in those directions impossible."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Vipershroud",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1192": "go ironwood bridge",
+      "1242": "west"
+    },
+    "timeto": {
+      "1192": 0.2,
+      "1242": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2190036
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      188,
+      546,
+      198,
+      556
+    ]
+  }
+}

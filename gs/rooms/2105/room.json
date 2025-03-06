@@ -1,0 +1,41 @@
+{
+  "checksum": "653c4f2edb4e0068e5da81b8df6ef189",
+  "room": {
+    "id": 2105,
+    "title": [
+      "[Fhorian Village, Warehouse]"
+    ],
+    "description": [
+      "There is nothing of value left in this warehouse.  Every container has been turned over and emptied before being discarded.  The piles on the floor tell you nothing about what was in them as the decay is almost total.  They might have been food stores at some time, but now they are just smears on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest, out"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2092": "out",
+      "2103": "northwest",
+      "2104": "north",
+      "2106": "west"
+    },
+    "timeto": {
+      "2092": 0.2,
+      "2103": 0.2,
+      "2104": 0.2,
+      "2106": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030043
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      924,
+      1287,
+      932,
+      1295
+    ]
+  }
+}

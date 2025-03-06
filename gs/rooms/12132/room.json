@@ -1,0 +1,54 @@
+{
+  "checksum": "4cf5f65628ca943ac17996e6e50fc050",
+  "room": {
+    "id": 12132,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A long field stretches before you, covered by dark clouds.  The field is lined with rows and rows of long metal poles, each of which is situated near a stone door.  While you look over the field, lightning flashes down from the clouds and strikes one of the poles.  As the pole absorbs the burst of energy, the door nearest to it slowly swings open, revealing a black stone passage behind.  The door stays open a few seconds, then slowly swings closed again."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast",
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12132/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12132/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12132/wayto/stringproc-12093.rb",
+      "12113": "southeast",
+      "12131": "northeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12113": 0.2,
+      "12131": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567017
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      921,
+      644,
+      931,
+      654
+    ]
+  }
+}

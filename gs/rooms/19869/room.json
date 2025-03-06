@@ -1,0 +1,36 @@
+{
+  "checksum": "4ddaaf5860fed86684261a1a12ff37b1",
+  "room": {
+    "id": 19869,
+    "title": [
+      "[Landing]"
+    ],
+    "description": [
+      "Only wide enough for two or three people to pass each other uncomfortably, the landing gives a view of the magnificent foyer below.  A few small icons hang on the wall to each side of the door set in the middle of the wall.  Carpeting covers the floor, its plush pile dyed a pale eggshell color."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19552": "go door",
+      "19860": "go staircase",
+      "19872": "northeast"
+    },
+    "timeto": {
+      "19552": 0.2,
+      "19860": 0.2,
+      "19872": 0.2
+    },
+    "uid": [
+      678028
+    ],
+    "image": "ifw-cleric_guild.png",
+    "image_coords": [
+      2456,
+      1050,
+      2558,
+      1154
+    ]
+  }
+}

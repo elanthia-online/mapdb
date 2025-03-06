@@ -1,0 +1,39 @@
+{
+  "checksum": "ad560587ec8cc722b70d74ca3a0a7f07",
+  "room": {
+    "id": 19892,
+    "title": [
+      "[Cleric Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19890": "east",
+      "19893": "north"
+    },
+    "timeto": {
+      "19890": 0.2,
+      "19893": 0.2
+    },
+    "tags": [
+      "cleric alchemy masters",
+      "cleric guild masters"
+    ],
+    "uid": [
+      673019
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      221,
+      506,
+      288,
+      569
+    ],
+    "check_location": true
+  }
+}

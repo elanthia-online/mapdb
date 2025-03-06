@@ -1,0 +1,29 @@
+{
+  "checksum": "227d70410616a8dc85094a0111ca062c",
+  "room": {
+    "id": 23562,
+    "title": [
+      "[Lahlia's Armory]"
+    ],
+    "description": [
+      "A painted silk wall panel hangs on one of the white silk-paneled walls, and an etched seaglass ceiling rises overhead.  A tropical floral arrangement sits in one corner of a glazed bamboo floor.  There is a gold-leafed mistwood cabinet on one side of the shop and a long mistwood counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12270": "out",
+      "23644": "south",
+      "23645": "north"
+    },
+    "timeto": {
+      "12270": 0.2,
+      "23644": 0.2,
+      "23645": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "68c7ab037c8bee812a97d64faf382271",
+  "room": {
+    "id": 8666,
+    "title": [
+      "[Town Well]"
+    ],
+    "description": [
+      "The rough flagstone court winds around the old stone well, shaded by the overhanging branches of the nearby oak.  Tufts of grass sprout between the stones, fed by the moisture from below."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7562": "southwest",
+      "8667": "northwest"
+    },
+    "timeto": {
+      "7562": 0.2,
+      "8667": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "no forageables"
+    ],
+    "uid": [
+      7351
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      334,
+      421,
+      343,
+      430
+    ]
+  }
+}

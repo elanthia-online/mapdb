@@ -1,0 +1,47 @@
+{
+  "checksum": "ea2c2d8f8e9eaf7f771b9a4c2246ec58",
+  "room": {
+    "id": 29032,
+    "title": [
+      "[Kraken's Fall, Second Pier]"
+    ],
+    "description": [
+      "Stretching like long fingers towards the ocean, the docking structure has five distinct piers that provide ample room for portage.  A large sign provides directions to the various berths, the instructions painted in several colors upon a black background, while a constantly burning lantern rests above.  Three tie pilings border the western edge of the platform, while two more are arranged upon the east."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28897": "go catwalk",
+      "29037": "west",
+      "29043": "east",
+      "29044": "south",
+      "30716": "/rooms/29032/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28897": 0.2,
+      "29037": 0.2,
+      "29043": 0.2,
+      "29044": 0.2,
+      "30716": "/rooms/29032/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118250
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      407,
+      605,
+      418,
+      617
+    ]
+  }
+}

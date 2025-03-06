@@ -1,0 +1,29 @@
+{
+  "checksum": "a8bc30d0a76c6f43f9cac61f1a2e8577",
+  "room": {
+    "id": 33097,
+    "title": [
+      "[The Drowned Moose, Hold]"
+    ],
+    "description": [
+      "The hold would be spacious, if not for the piles of rotting sail, frayed hemp ropes, and leaking casks heaped toward the warped plank ceiling.  A large puddle of murky water spans the short distance between a red door and a blue door.  Toward the rear of the hold, an old ship's wheel dangles horizontally from a thick, iron chain and supports a few stubs of tallow candles."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33096": "up",
+      "33098": "go red door",
+      "33099": "go blue door"
+    },
+    "timeto": {
+      "33096": 0.2,
+      "33098": 0.2,
+      "33099": 0.2
+    },
+    "uid": [
+      7134177
+    ]
+  }
+}

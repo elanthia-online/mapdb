@@ -1,0 +1,42 @@
+{
+  "checksum": "90253ef3c0e66485438c1c3eee198635",
+  "room": {
+    "id": 18150,
+    "title": [
+      "[Sorcerer Guild, Chamber]"
+    ],
+    "description": [
+      "Cavernous, high walls surround you, arcing upwards into darkness.  Lurid crimson torchlight ripples across the slightly damp stone walls, casting a dark scarlet sheen across the surroundings.  Several well-polished tunnels lead away from the central chamber, and dark velvet rugs flanked by intricate iron candelabras trail in their wake.  A complex, circular design of sigils loop and arc across the center of the room, their intricacy rather weathered by the passage of time."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west, up"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "10781": "up",
+      "18135": "west",
+      "18151": "go sigils",
+      "18152": "north",
+      "18157": "south",
+      "18161": "east"
+    },
+    "timeto": {
+      "10781": 0.2,
+      "18135": 0.2,
+      "18151": 0.2,
+      "18152": 0.2,
+      "18157": 0.2,
+      "18161": 0.2
+    },
+    "uid": [
+      666002
+    ],
+    "image": "en-ta_illistim-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      321,
+      322,
+      357,
+      357
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "checksum": "4e17e0633235767d57fa283c507f0b61",
+  "room": {
+    "id": 14726,
+    "title": [
+      "[Melgorehn's Reach, Landing]"
+    ],
+    "description": [
+      "The cliff trail comes to an abrupt halt at a sheer drop off.  It seems the ledge continues onward after about a forty yard gap.  Cut into the mountain side, by means that you cannot imagine, is a perfectly round opening which is large enough to enter."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "451": "go mountain path",
+      "14728": "go opening",
+      "18172": "/rooms/14726/wayto/stringproc-18172.rb"
+    },
+    "timeto": {
+      "451": 0.1,
+      "14728": 0.2,
+      "18172": 11
+    },
+    "tags": [
+      "cuctucae berry",
+      "marallis berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "golden aster",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      52001
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      730,
+      592,
+      740,
+      601
+    ]
+  }
+}

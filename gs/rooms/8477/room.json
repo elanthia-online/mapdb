@@ -1,0 +1,42 @@
+{
+  "checksum": "16a131195eb7edd7968d65ed7a5cb1c0",
+  "room": {
+    "id": 8477,
+    "title": [
+      "[Temple, Dressing Area]"
+    ],
+    "description": [
+      "Glass from several shattered mirrors covers the floor, and it seems the bad luck from the broken looking glasses has spread throughout the room.  The polished wood vanities are scratched and dented, the silver hairbrushes tarnished and destroyed, and pieces of broken perfume bottles mix with the bits of mirror on the floor.  A narrow staircase descends to the ground floor, the candle sconces lighting it long gone."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, west"
+    ],
+    "location": "the Temple of Love",
+    "wayto": {
+      "8473": "go staircase",
+      "8478": "northeast",
+      "8479": "west",
+      "8483": "north"
+    },
+    "timeto": {
+      "8473": 0.2,
+      "8478": 0.2,
+      "8479": 0.2,
+      "8483": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2155031
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      136,
+      807,
+      146,
+      817
+    ]
+  }
+}

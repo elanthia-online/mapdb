@@ -1,0 +1,45 @@
+{
+  "checksum": "16e98afbce0e338001a13a6b5e348d34",
+  "room": {
+    "id": 11089,
+    "title": [
+      "[Floating Platform]"
+    ],
+    "description": [
+      "This small floating platform extends out into the cove.  Crates and barrels piled around on the rickety structure block your view of the ship docked nearby.  You can't see much, but you can hear the raucous laughter of the Krolvin as they swear, laugh, and boast while they work.  Peering between the piles of cargo, you see a gangplank stretched between the dock and the ship."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Sea Caves",
+    "climate": "freshwater",
+    "terrain": "sandy",
+    "wayto": {
+      "11088": "east",
+      "11090": "go gangplank"
+    },
+    "timeto": {
+      "11088": 0.2,
+      "11090": 0.2
+    },
+    "tags": [
+      "strand of seaweed",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      26003
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4133,
+      1171,
+      4155,
+      1193
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "44af468cacb3c3ac21665c1db24d2e59",
+  "room": {
+    "id": 25743,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Gentle rollicking, the waves of the harbor jostle everything in their path.  Far below the surface, sea grass undulates and dances in the gentle pull and push of the current as it surges through the various islands on its way to the distant shores of the mainland."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25742": "/rooms/25743/wayto/stringproc-25742.rb",
+      "25744": "/rooms/25743/wayto/stringproc-25744.rb",
+      "26046": "/rooms/25743/wayto/stringproc-26046.rb"
+    },
+    "timeto": {
+      "25742": 6,
+      "25744": 6,
+      "26046": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223864
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2160,
+      1680,
+      2180,
+      1698
+    ]
+  }
+}

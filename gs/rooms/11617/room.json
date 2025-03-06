@@ -1,0 +1,64 @@
+{
+  "checksum": "a6f8c72a1d76282138c4d67f7c3600bb",
+  "room": {
+    "id": 11617,
+    "title": [
+      "[Miasmal Forest, Old Road]"
+    ],
+    "description": [
+      "Grotesquely twisted trees stretch out on both sides of the old road.  A slight breeze eddies the fog, creating tendrils that snake through the trees.  On the northern side of the old road is a tree that appears to have been struck by lightning.  The tree's upper trunk is splintered and blackened, its lower limbs hang low over the scrub brush."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, west"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "cold, damp",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11612": "west",
+      "11613": "southwest",
+      "11618": "southeast",
+      "11630": "/rooms/11617/wayto/stringproc-11630.rb",
+      "16122": "/rooms/11617/wayto/stringproc-16122.rb",
+      "22218": "/rooms/11617/wayto/stringproc-22218.rb"
+    },
+    "timeto": {
+      "11612": 0.2,
+      "11613": 0.2,
+      "11618": 0.2,
+      "11630": 1,
+      "16122": 0.4,
+      "22218": 0.8
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "stalk of cattail",
+      "white hook mushroom",
+      "small wild rose",
+      "withered black mushroom",
+      "aloeas stem",
+      "soft white mushroom",
+      "wild gooseberry",
+      "mistweed",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5003003
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      589,
+      627,
+      599,
+      637
+    ]
+  }
+}

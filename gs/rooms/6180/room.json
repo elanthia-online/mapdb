@@ -1,0 +1,44 @@
+{
+  "checksum": "509f97bb2a6ff946a072d4e1de544f96",
+  "room": {
+    "id": 6180,
+    "title": [
+      "[Hidden Plateau, Ruins]"
+    ],
+    "description": [
+      "A portion of northern wall has crumble and collapsed, its once sturdy stone strangled by creeping vines and mosses.  Shards of broken glass are scattered across the marble floor, resting where they fell from the domed glass ceiling above."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6179": "west",
+      "6181": "east",
+      "6187": "south"
+    },
+    "timeto": {
+      "6179": 0.2,
+      "6181": 0.2,
+      "6187": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "agave heart",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2167034
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      411,
+      393,
+      445,
+      427
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "57ab076a324b58760d1b76b2579c7418",
+  "room": {
+    "id": 7458,
+    "title": [
+      "[Jagged Plains, High Ledge]"
+    ],
+    "description": [
+      "Perched here, high above the quietude of the rock and boulder strewn expanse of the jagged plains below, the stillness holds an almost palpable tension.  The strained feeling of expectancy has you poised and alert, and you cannot escape the feeling that someone, or something, is watching you."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7440": "down",
+      "7459": "/rooms/7458/wayto/stringproc-7459.rb"
+    },
+    "timeto": {
+      "7440": 0.2,
+      "7459": 0.2
+    },
+    "tags": [
+      "some blackened moss",
+      "some cave moss",
+      "sponge mushroom",
+      "some glowing green lichen",
+      "bone mushroom"
+    ],
+    "uid": [
+      94001
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      597,
+      801,
+      607,
+      811
+    ]
+  }
+}

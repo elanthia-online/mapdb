@@ -1,0 +1,34 @@
+{
+  "checksum": "39bd0f3210da6620a6cec12e3515818b",
+  "room": {
+    "id": 12298,
+    "title": [
+      "[Atrium, Annex Hallway]"
+    ],
+    "description": [
+      "Polished black marble flooring peeks out from beneath the edges of a richly appointed ivory velvet carpet which stretches down the expanse of the hallway.  Sunlight streams from a large, opened bay window at this end of the hallway.  A collection of seashells and other gifts from the sea line the ocean blue velvet cushion beneath the window, and an ever-present hint of an ocean breeze and salty air fills the area.",
+      "Polished black marble flooring peeks out from beneath the edges of a richly appointed ivory velvet carpet which stretches down the expanse of the hallway and terminates at a large, opened bay window.  Moonlight streams from the window and dances across the floor, highlighting glittering golden threading amidst the ivory.  A collection of seashells and other gifts from the sea line the ocean blue velvet cushion beneath the window, and an ever-present hint of an ocean breeze and salty air fills the area."
+    ],
+    "paths": [
+      "Obvious exits: south",
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16700": "south",
+      "22227": "go ivory door",
+      "22228": "north"
+    },
+    "timeto": {
+      "16700": 0.2,
+      "22227": 0.2,
+      "22228": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3215006
+    ]
+  }
+}

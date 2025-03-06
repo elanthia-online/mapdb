@@ -1,0 +1,38 @@
+{
+  "checksum": "4b9b978baa3a5374a463536c1297b5ba",
+  "room": {
+    "id": 31609,
+    "title": [
+      "[Wrencrest Rookery, Entry]"
+    ],
+    "description": [
+      "Gilded leaf and vine motifs engulf vivid emerald-colored walls, highlighting the tome-filled cases of lacquered lasimor framing the curved archway from floor to ceiling.  A myriad of framed portraits cover the remaining spaces, briefly illuminated by the blackened iron sconces flickering foxfire green flames before a set of elegant glass doors, the sparks scattering into the air.  An ebony velvet runner leads upward from the jet marble floor toward a set of wide stairs, the railing of metal arabesques flanked by a duo of onyx wrens."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31562": "out",
+      "31610": "go wide stairs",
+      "31611": "go elegant doors",
+      "31612": "go archway",
+      "31639": "north"
+    },
+    "timeto": {
+      "31562": 0.2,
+      "31610": 0.2,
+      "31611": 0.2,
+      "31612": 0.2,
+      "31639": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084021
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "b6851464e947e3aebf9cc67e6c126aee",
+  "room": {
+    "id": 3323,
+    "title": [
+      "[Icemule, Ruins]"
+    ],
+    "description": [
+      "The ice takes on a greyish cast, colored by the soot from the forge it has crushed.  Twisted wrecks of metal lay within the frozen walls, and tools have been scattered across the dirt at the front of the building.  An anvil sticks out of the ice, nearly making you stub your toe."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3322": "southwest",
+      "3324": "southeast"
+    },
+    "timeto": {
+      "3322": 0.2,
+      "3324": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130020
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1391,
+      837,
+      1401,
+      847
+    ]
+  }
+}

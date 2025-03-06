@@ -1,0 +1,31 @@
+{
+  "checksum": "99c0c2bf0f8244990215b22bff275a71",
+  "room": {
+    "id": 10440,
+    "title": [
+      "[Old Manor, Dark Altar]"
+    ],
+    "description": [
+      "Three torches are set against the north wall in iron sconces crafted as skeletal hands.  The reddish glow dances off of the sculptures set in each corner.  Four black glaes drakes stand upright, wings spread, their claws thrust into the ceiling.  The drakes' ruby eyes are fixed on the black ora altar in the center of the room.  It is trimmed with gold flecks, which glow red in the quavering moonlight."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12415": "/rooms/10440/wayto/stringproc-12415.rb",
+      "14693": "south"
+    },
+    "timeto": {
+      "12415": 10,
+      "14693": 0.2
+    },
+    "tags": [
+      "meta:sign of darkness",
+      "meta:society:Council of Light"
+    ],
+    "uid": [
+      3003086
+    ]
+  }
+}

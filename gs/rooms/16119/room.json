@@ -1,0 +1,43 @@
+{
+  "checksum": "06fae0680f22fed5850d6ff729ab0b80",
+  "room": {
+    "id": 16119,
+    "title": [
+      "[Hoosegow, Warder's Office]"
+    ],
+    "description": [
+      "The stucco walls of the warder's office have been painted a soft, soothing cream color.  An ornate desk and matching display case face the entrance.  In the wall behind the desk is a small slate fireplace.  Large, arched windows, their shutters tightly closed, line the northern wall.  Moonlight filters through the slats.",
+      "The stucco walls of the warder's office have been painted a soft, soothing cream color.  An ornate desk and matching display case face the entrance.  In the wall behind the desk is a small slate fireplace.  Large, arched windows, their shutters thrown open, line the northern wall admitting an abundance of sunlight."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16117": "southwest",
+      "16120": "go curtain",
+      "16219": "go door"
+    },
+    "timeto": {
+      "16117": 0.2,
+      "16120": 0.2,
+      "16219": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5007004
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1598,
+      706,
+      1621,
+      728
+    ]
+  }
+}

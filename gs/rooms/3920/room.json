@@ -1,0 +1,43 @@
+{
+  "checksum": "1caed89993cd158d35e645047d8380cc",
+  "room": {
+    "id": 3920,
+    "title": [
+      "[Stronghold, Tunnel Crossroads]"
+    ],
+    "description": [
+      "Three branches of the tunnels converge in a low-ceilinged, yet expansive chamber.  Ruts in the floor suggest heavy foot-travel passed this way at some point in time.  Within the gloom of the far corners, bits of bone can be glimpsed mixed in with a skree of boulders and other debris."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "Stone Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3918": "south",
+      "3921": "west",
+      "3926": "northeast"
+    },
+    "timeto": {
+      "3918": 0.2,
+      "3921": 0.2,
+      "3926": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4292046
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      694,
+      488,
+      704,
+      498
+    ]
+  }
+}

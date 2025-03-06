@@ -1,0 +1,45 @@
+{
+  "checksum": "98547afeb09d64ef42dac7982dd10d2a",
+  "room": {
+    "id": 25158,
+    "title": [
+      "[Sanctum of Scales, Courtyard]"
+    ],
+    "description": [
+      "Massive columns of alabaster flank a pair of bronze double doors and continue in evenly spaced intervals along the western pathway.  Each pillar is entwined by an immense serpent of bronze, polished to a burnished luster despite the chaotic dance of the desert winds.  Miniscule grains of airborne sand shimmer in the sunlight, quickened into stinging motes by its furious heat."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the shadow of the Sanctum",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25151": "south",
+      "25153": "west",
+      "25159": "go bronze doors",
+      "25160": "east"
+    },
+    "timeto": {
+      "25151": 0.2,
+      "25153": 0.2,
+      "25159": 0.2,
+      "25160": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      4216002
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      361,
+      623,
+      385,
+      646
+    ]
+  }
+}

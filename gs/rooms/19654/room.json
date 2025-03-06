@@ -1,0 +1,40 @@
+{
+  "checksum": "468fd9e9535804af21926d70fd6681b3",
+  "room": {
+    "id": 19654,
+    "title": [
+      "[Cavernhold, East Guard Chamber]"
+    ],
+    "description": [
+      "A yawning chasm breaches the floor of this nearly circular chamber.  Spanning the deep crevice is a tiny suspension bridge which leads to a well fortified guard chamber on the other side.  In the dim light cast by flickering torches mounted on the far wall you notice the fleeting gray shades of several gnollish sentinels."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19653": "northwest",
+      "19655": "go bridge"
+    },
+    "timeto": {
+      "19653": 0.2,
+      "19655": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10011
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      681,
+      1190,
+      688,
+      1201
+    ]
+  }
+}

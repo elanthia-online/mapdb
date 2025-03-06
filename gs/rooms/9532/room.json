@@ -1,0 +1,44 @@
+{
+  "checksum": "816649a827120332b210fbb981bb6b81",
+  "room": {
+    "id": 9532,
+    "title": [
+      "[Troll Burial Grounds]"
+    ],
+    "description": [
+      "The pile of bones slopes westward, hemmed in by high granite walls.  Walking is treacherous, each step shifting the pile and causing individual bones to roll underfoot.  As the pile shifts, the putrescent odor of rotting flesh is exacerbated.  The sound of undertaker bats high in the darkness reverberates through the area."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Troll Burial Grounds",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9531": "east",
+      "9533": "west"
+    },
+    "timeto": {
+      "9531": 0.2,
+      "9533": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13011025
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      819,
+      1131,
+      829,
+      1141
+    ]
+  }
+}

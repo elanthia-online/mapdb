@@ -1,0 +1,40 @@
+{
+  "checksum": "34e9221a1bb88c6fdbea3e41d0869339",
+  "room": {
+    "id": 8236,
+    "title": [
+      "[Wolves' Den, Sleeping Quarters]"
+    ],
+    "description": [
+      "Many of the beds in this spacious room have crumbled into piles of wood, mold and cloth, and the rest are well on their way.  Some of the beds are surrounded by frames of metal and wood, from which hang tattered cloths.  Apparently, this was an attempt at privacy.  A wide passage leads off south, and there's a wooden door in the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8235": "north",
+      "8237": "south",
+      "8238": "east"
+    },
+    "timeto": {
+      "8235": 0.2,
+      "8237": 0.2,
+      "8238": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390035
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      36,
+      442,
+      46,
+      452
+    ]
+  }
+}

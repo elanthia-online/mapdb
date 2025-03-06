@@ -1,0 +1,43 @@
+{
+  "checksum": "e1c5c71a227f9e8c1aea3881103da7a3",
+  "room": {
+    "id": 31600,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Wrought iron fencing surrounds a neighborhood built around a hillock to the north, the rustle of its high grasses and haunting melodies echoing across the cobblestone road.  To the south, wild brambles and tangled vines hide the bulk of Gleyminn Anni River as it snakes its way around the town and, though the foliage keeps it from sight, the sound of its rushing waters can still be heard.  Firelight from the perpetually burning fire at Fate's Courtyard paints the dew-slick cobbles in orange and red hues."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31590": "northwest",
+      "31591": "north",
+      "31601": "northeast"
+    },
+    "timeto": {
+      "31590": 0.2,
+      "31591": 0.2,
+      "31601": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083021
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      542,
+      616,
+      565,
+      637
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "c92cae9ab4847d1600911a4afb048ac3",
+  "room": {
+    "id": 29492,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Black granite dominates the gouged walls of this tunnel that ascends slightly to the east.  Tiny shards of crimson can be seen along the floor of this tunnel that ends at a small bore leading upwards to another section overhead.  Wretched air weaves its way through the darkness."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest, up"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29489": "southwest",
+      "29491": "northwest",
+      "29493": "up"
+    },
+    "timeto": {
+      "29489": 0.2,
+      "29491": 0.2,
+      "29493": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007220
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      752,
+      212,
+      777,
+      230
+    ]
+  }
+}

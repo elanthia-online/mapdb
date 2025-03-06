@@ -1,0 +1,44 @@
+{
+  "checksum": "d0d26933855008d5553b19c3542f7bb9",
+  "room": {
+    "id": 8760,
+    "title": [
+      "[Liabo Circle, Ronan's Way]"
+    ],
+    "description": [
+      "An enormous dwarf walks his dog down this tree-lined, cobblestone street.  The dog is tiny, barely even a cat, but looks quite jaunty with a big, bright pink ribbon around its neck."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8759": "southwest",
+      "8761": "north",
+      "14672": "go path"
+    },
+    "timeto": {
+      "8759": 0.2,
+      "8761": 0.2,
+      "14672": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      701058
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      631,
+      1226,
+      651,
+      1246
+    ]
+  }
+}

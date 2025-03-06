@@ -1,0 +1,50 @@
+{
+  "checksum": "ebf2a122d546fb1426520592b1980790",
+  "room": {
+    "id": 3991,
+    "title": [
+      "[Griffin's Keen, Switchbacks]"
+    ],
+    "description": [
+      "Halfway up the mountainside, the trail dwindles away to nothing.  The last few feet are so slender as to prevent even a halfling's step.  Ten feet above, another level surface holds the promise of a continuation of the trail."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "3990": "/rooms/3991/wayto/stringproc-3990.rb",
+      "3992": "/rooms/3991/wayto/stringproc-3992.rb"
+    },
+    "timeto": {
+      "3990": 4.2,
+      "3992": 0.6
+    },
+    "tags": [
+      "sprig of holly",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302156
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      798,
+      359,
+      808,
+      369
+    ]
+  }
+}

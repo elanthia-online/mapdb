@@ -1,0 +1,49 @@
+{
+  "checksum": "af880432a2adcd7ef35115071e3c78f1",
+  "room": {
+    "id": 11034,
+    "title": [
+      "[Tempest Falls, Landing]"
+    ],
+    "description": [
+      "The steps pause at a landing of sorts behind the waterfall.  Only inches from the edge of the landing, the water falls rather noisily from above.  Any further progress up the steps is impossible, as the rushing water blocks your way."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "the South River Road",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "11033": "down",
+      "11035": "go crevice",
+      "23960": "go stairs",
+      "30711": "/rooms/11034/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "11033": 0.2,
+      "11035": 0.2,
+      "23960": 0.2,
+      "30711": "/rooms/11034/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "sunburst blossom",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide weddinghall",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2104023
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2713,
+      1416,
+      2737,
+      1437
+    ]
+  }
+}

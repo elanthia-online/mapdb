@@ -1,0 +1,39 @@
+{
+  "checksum": "4489620991c0d76f44db1cc1610b3c37",
+  "room": {
+    "id": 7304,
+    "title": [
+      "[Graveyard, Tunnel]"
+    ],
+    "description": [
+      "Plain granite walls form this tunnel, unadorned and poorly finished.  The rough surface is now home to fluorescent mosses, which give off a faint, pale glow and are nourished by the water seeping through the dark joints in the stone."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7302": "go corridor",
+      "7305": "northeast"
+    },
+    "timeto": {
+      "7302": 0.2,
+      "7305": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18063
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      569,
+      462,
+      579,
+      472
+    ]
+  }
+}

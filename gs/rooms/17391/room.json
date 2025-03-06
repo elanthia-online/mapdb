@@ -1,0 +1,36 @@
+{
+  "checksum": "509769feeeb74e7c38412712c1fc607f",
+  "room": {
+    "id": 17391,
+    "title": [
+      "[Abandoned Warehouse]"
+    ],
+    "description": [
+      "A trail of grain leads off to the east, along with a wide track of rather large rodent footprints.  Nearly covered by large crates is a door marked \"Storage\" in the north wall.  A thick layer of dust coats everything, tickling cruelly at your nose."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "17388": "southwest",
+      "17396": "go door",
+      "17804": "east"
+    },
+    "timeto": {
+      "17388": 0.2,
+      "17396": 0.2,
+      "17804": 0.2
+    },
+    "uid": [
+      262007
+    ],
+    "image": "ti-rogue_guild-1486041266.png",
+    "image_coords": [
+      759,
+      417,
+      877,
+      495
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "b58fa1bf8932bf22f6bc179a86014094",
+  "room": {
+    "id": 6898,
+    "title": [
+      "[Smuggling Tunnels, Guard Post]"
+    ],
+    "description": [
+      "A small wooden table, missing a leg, wobbles in the center of the floor.  A dice bowl still sits on top of it, the pips on the cubes inside it nearly worn off from time and use.  Beneath it is a small notebook, covered in dirt and rat footprints.  Two lanterns burn overhead, bright and constant despite having no fuel."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, northwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6894": "northeast",
+      "6895": "north",
+      "6899": "northwest",
+      "6900": "east",
+      "6901": "southeast"
+    },
+    "timeto": {
+      "6894": 0.2,
+      "6895": 0.2,
+      "6899": 0.2,
+      "6900": 0.2,
+      "6901": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "wraith",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37032
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      1076,
+      1355,
+      1086,
+      1365
+    ]
+  }
+}

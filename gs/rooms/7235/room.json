@@ -1,0 +1,39 @@
+{
+  "checksum": "2a377fbce38890c792705e951f30858e",
+  "room": {
+    "id": 7235,
+    "title": [
+      "[Under Barrow, Shaft]"
+    ],
+    "description": [
+      "The ground here is partially frozen into a slippery, nasty slush.  A damp chill causes moisture to run down the walls making your footing uncertain.  The handholds on the wall are slick and muddy from the moisture."
+    ],
+    "paths": [
+      "Obvious exits: north, up"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "7232": "north",
+      "7236": "up"
+    },
+    "timeto": {
+      "7232": 0.2,
+      "7236": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18110
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      742,
+      585,
+      752,
+      595
+    ]
+  }
+}

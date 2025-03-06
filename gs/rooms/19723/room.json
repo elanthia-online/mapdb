@@ -1,0 +1,44 @@
+{
+  "checksum": "e893b40d5845009098f5c8796904d854",
+  "room": {
+    "id": 19723,
+    "title": [
+      "[Cavernhold, Brewery]"
+    ],
+    "description": [
+      "This part of the chamber is used to make mushroom wine.  The brewery has a large press, cauldrons for boiling the mushrooms, filters, barrels and casks."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19709": "southwest",
+      "19724": "northwest",
+      "19730": "west",
+      "19731": "north"
+    },
+    "timeto": {
+      "19709": 0.2,
+      "19724": 0.2,
+      "19730": 0.2,
+      "19731": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11013
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      370,
+      693,
+      381,
+      702
+    ]
+  }
+}

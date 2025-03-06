@@ -1,0 +1,42 @@
+{
+  "checksum": "ebb4c2893dcc76c3ba4024b5c4e31365",
+  "room": {
+    "id": 8550,
+    "title": [
+      "[Rubble Pile]"
+    ],
+    "description": [
+      "You are standing on the northern edge of the huge rubble pile.  It is much wider up here than you expected and you can easily travel several yards to the south with little difficulty.  To reach the floor of the narrow canyon to the north, you'll have to climb down the rubble pile."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "climate": "",
+    "terrain": "rough",
+    "wayto": {
+      "8549": "/rooms/8550/wayto/stringproc-8549.rb",
+      "8551": "south"
+    },
+    "timeto": {
+      "8549": 5.2,
+      "8551": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      10102
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      1266,
+      621,
+      1276,
+      631
+    ]
+  }
+}

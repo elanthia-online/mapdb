@@ -1,0 +1,40 @@
+{
+  "checksum": "6adc1224bc308c41ee20387ed8281931",
+  "room": {
+    "id": 19664,
+    "title": [
+      "[Cavernhold, Sloping Passage]"
+    ],
+    "description": [
+      "The floor of this passage is pitched at a significantly steep grade.  Large amounts of dirt have been hauled in to this area in an effort to lessen the slope, but it still requires significant effort to move from one end of the room to the other."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19663": "northwest",
+      "19666": "east"
+    },
+    "timeto": {
+      "19663": 0.2,
+      "19666": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10026
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      742,
+      1002,
+      754,
+      1011
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "4800af98d36ad7163ffaa1c9a9dfb0ad",
+  "room": {
+    "id": 21296,
+    "title": [
+      "[Silvergate Inn, Alcove]"
+    ],
+    "description": [
+      "Scented candles in brass fixtures cast a faint, golden light in this small alcove.  The floor is covered with colorful rugs transported from distant lands.  A curtained opening dominates one wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21268": "east",
+      "22039": "go opening"
+    },
+    "timeto": {
+      "21268": 0.2,
+      "22039": 0.2
+    },
+    "tags": [
+      "meta:che:Silvergate Inn",
+      "meta:che:Silvergate Manor"
+    ],
+    "uid": [
+      109501
+    ],
+    "image": "wl-silvergate_inn-1487242763.png",
+    "image_coords": [
+      254,
+      552,
+      338,
+      606
+    ]
+  }
+}

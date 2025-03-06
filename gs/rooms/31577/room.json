@@ -1,0 +1,45 @@
+{
+  "checksum": "bd7e0c8c0cec8fbdd6c0b1fb61d54fbc",
+  "room": {
+    "id": 31577,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Built into the high stone wall that steadily declines to the north and south, an ebony basalt-framed portal whorled with crimson mists creates hazy shadows and flickering lights upon the dew-kissed cobblestones of the road.  A steady thrumming sound issues from the portal, causing a rhythmic tremor in the ground."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28549": "go portal",
+      "31568": "east",
+      "31578": "southeast",
+      "31585": "northeast"
+    },
+    "timeto": {
+      "28549": 0.2,
+      "31568": 0.2,
+      "31578": 0.2,
+      "31585": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083023
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      299,
+      373,
+      323,
+      397
+    ]
+  }
+}

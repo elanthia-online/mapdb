@@ -1,0 +1,40 @@
+{
+  "checksum": "f4d6ec4cf349bad26e1e5203f67433ec",
+  "room": {
+    "id": 11368,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "A large, ironbound door interrupts the simplistic beauty of the smooth granite wall here.  Next to the door is a small pile of decaying rags and sticks which appears to once have been used as torches."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11265": "go wooden door",
+      "11366": "northeast",
+      "11369": "south"
+    },
+    "timeto": {
+      "11265": 0.2,
+      "11366": 0.2,
+      "11369": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377020
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      112,
+      1264,
+      122,
+      1274
+    ]
+  }
+}

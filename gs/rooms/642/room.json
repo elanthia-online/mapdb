@@ -1,0 +1,50 @@
+{
+  "checksum": "679a4941799100034f3d144c56d67f33",
+  "room": {
+    "id": 642,
+    "title": [
+      "[Ta'Illistim, Mzaarine Bazaar]"
+    ],
+    "description": [
+      "Drawing attention from passersby with their blazing hues, incarnadine blossoms of anemones and roses are interrupted by the pale petals of stargazer lilies.  A pair of grey-blue cottages with crimson silk awnings lie beyond the extravagant flower garden.  Standing between the entryways is a pristine marble statue clutching a gold-inked sign.",
+      "Cast in silvery moonlight, very few people pass through this portion of the bazaar at night.  A pair of grey-blue cottages with crimson silk awnings lie beyond an extravagant flower garden.  Standing between the entryways is a pristine marble statue clutching a gold-inked sign."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "641": "southeast",
+      "732": "east",
+      "734": "west",
+      "27059": "go red shop",
+      "27062": "go black edifice",
+      "27809": "go pale building"
+    },
+    "timeto": {
+      "641": 0.2,
+      "732": 0.2,
+      "734": 0.2,
+      "27059": 0.2,
+      "27062": 0.2,
+      "27809": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      737010
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1434,
+      668,
+      1450,
+      684
+    ]
+  }
+}

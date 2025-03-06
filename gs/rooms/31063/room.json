@@ -1,0 +1,39 @@
+{
+  "checksum": "8c5ed283b73e30199dce0a809909f1c9",
+  "room": {
+    "id": 31063,
+    "title": [
+      "[Abbey, Landing]"
+    ],
+    "description": [
+      "Framed by artwork in gilded frames, a rose gold and marble arch opens out of the stony eastern wall.  Occasional flashes of greenish-gold light flicker within, and the air on the landing carries a bitter and unnatural cold."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2954": "northwest",
+      "31064": "go arch"
+    },
+    "timeto": {
+      "2954": 0.2,
+      "31064": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      4132053
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      382,
+      643,
+      431,
+      694
+    ]
+  }
+}

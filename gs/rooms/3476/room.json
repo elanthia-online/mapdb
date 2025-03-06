@@ -1,0 +1,44 @@
+{
+  "checksum": "d5bf107865dd95de61c0f9f131284701",
+  "room": {
+    "id": 3476,
+    "title": [
+      "[Deep Freeze, Cave of Ice]"
+    ],
+    "description": [
+      "Tiny rivulets of water trickle slowly down a multitude of stalactites and drip noisily onto the stalagmites rising from the frozen ground.  There are jagged shards of ice everywhere that crunch loudly beneath your feet as you explore this icy chamber."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3475": "/rooms/3476/wayto/stringproc-3475.rb",
+      "3477": "/rooms/3476/wayto/stringproc-3477.rb",
+      "3478": "/rooms/3476/wayto/stringproc-3478.rb"
+    },
+    "timeto": {
+      "3475": 0.2,
+      "3477": 0.2,
+      "3478": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044131
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      852,
+      687,
+      862,
+      697
+    ]
+  }
+}

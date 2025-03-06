@@ -1,0 +1,46 @@
+{
+  "checksum": "59b78b0c02dea88217aa6197289248af",
+  "room": {
+    "id": 5377,
+    "title": [
+      "[Noman's Land, Cave]"
+    ],
+    "description": [
+      "The cave narrows here, and the ceiling is much lower -- barely large enough for a giantman to stand upright.  Splintered bones, scraps of cloth and various unidentifiable bits of trash are scattered on the ground.  To the east, a narrow opening leads into darkness."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Noman's Land",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5376": "west",
+      "5379": "go opening"
+    },
+    "timeto": {
+      "5376": 0.2,
+      "5379": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cyclops",
+      "wolifrew lichen",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4600020
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      292,
+      638,
+      302,
+      648
+    ]
+  }
+}

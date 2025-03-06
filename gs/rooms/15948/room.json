@@ -1,0 +1,31 @@
+{
+  "checksum": "6c24537cdc64b78bceff5349a7dbf853",
+  "room": {
+    "id": 15948,
+    "title": [
+      "[Paupers, Vault]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove toward the rear of the vault.  One of the lockers has been removed for you and rests open on a stone counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7987": "/rooms/15948/wayto/stringproc-7987.rb"
+    },
+    "timeto": {
+      "7987": 0.2
+    },
+    "tags": [
+      "peer opening =~ /You also see a curtained opening and a steel door\\./",
+      "meta:che:House of Paupers",
+      "meta:locker"
+    ],
+    "uid": [
+      104200
+    ],
+    "check_location": true
+  }
+}

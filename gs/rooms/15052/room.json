@@ -1,0 +1,29 @@
+{
+  "checksum": "49ab8283130e3577ca417c9817b1713c",
+  "room": {
+    "id": 15052,
+    "title": [
+      "[Bloodthorn's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by varnished ebonwood walls, the shop features a sharp wooden guilotine in the center of its black marble floor.  A tattered spiderweb hangs under the vaulted ceiling.  Right near the front is a spiked iron maiden and a heavy lead glass display case."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "374": "out",
+      "15447": "west",
+      "15448": "east"
+    },
+    "timeto": {
+      "374": 0.2,
+      "15447": 0.2,
+      "15448": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "af30e29221d5b8a1c4958f2bef45cc1a",
+  "room": {
+    "id": 6499,
+    "title": [
+      "[Monastery, Spiral Stair]"
+    ],
+    "description": [
+      "A spiral stair has been carved from the stone here.  You cannot see very far down the stair since the sharp curve of the steps quickly leads down and around, out of the line of sight.  The walls are smooth and featureless, and the steps are narrow and deep.  A light sheen of moisture covers everything here, making the stairs look somewhat risky."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6497": "/rooms/6499/wayto/stringproc-6497.rb",
+      "6500": "down"
+    },
+    "timeto": {
+      "6497": 0.2,
+      "6500": 0.2
+    },
+    "tags": [
+      "monastic lich",
+      "no forageables"
+    ],
+    "uid": [
+      95180
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      141,
+      979,
+      151,
+      989
+    ]
+  }
+}

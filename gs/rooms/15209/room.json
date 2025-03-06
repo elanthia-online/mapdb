@@ -1,0 +1,29 @@
+{
+  "checksum": "7b7ea04a479982adfd16c001db73f45c",
+  "room": {
+    "id": 15209,
+    "title": [
+      "[Avondell's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a vaulted ceiling, a pair of crossed bones hangs on one of the plain wooden walls.  An engraved copper bin and a staved-in treasure chest sit in opposite corners while a pile of striped throw pillows rests on a dark-stained oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "345": "out",
+      "15273": "east",
+      "15274": "north"
+    },
+    "timeto": {
+      "345": 0.2,
+      "15273": 0.2,
+      "15274": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

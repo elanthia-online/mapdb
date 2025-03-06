@@ -1,0 +1,27 @@
+{
+  "checksum": "c24c55f212ee636d516bd639014f616e",
+  "room": {
+    "id": 34000,
+    "title": [
+      "[Delirium Giftshop, Front Room]"
+    ],
+    "description": [
+      "A stuffed pony, outfitted with a brushed leather saddle and secured to a curved wooden base, rocks back and forth as visitors pass through this fancifully decorated entryway.  Long streamers of vividly colored satin hang from the ceiling, some dangling tiny crystalline spheres that spin slowly.  A green and white striped curtain drapes across a wide opening, and a wire basket hangs nearby on the wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25353": "out",
+      "34001": "go curtain"
+    },
+    "timeto": {
+      "25353": 0.2,
+      "34001": 0.2
+    },
+    "uid": [
+      8100116
+    ]
+  }
+}

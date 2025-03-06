@@ -1,0 +1,38 @@
+{
+  "checksum": "0275882f8723ab3681eab0a888b73162",
+  "room": {
+    "id": 9809,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "A section of the packed dirt wall has collapsed, revealing an inner wall crafted of thick granite.  Tiny vines creep along the cracks upon its surface, the plants interspersed with small patches of lichen clinging to the steep ledges on the roughly-surfaced granite.  Trails of the moss hang from the small ledges, each swaying slowly in the dank, still air."
+    ],
+    "paths": [
+      "Obvious exits: south, west, northwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9808": "south",
+      "9810": "northwest"
+    },
+    "timeto": {
+      "9808": 0.2,
+      "9810": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022011
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1256,
+      464,
+      1266,
+      474
+    ]
+  }
+}

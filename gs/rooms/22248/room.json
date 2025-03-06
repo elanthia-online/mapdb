@@ -1,0 +1,33 @@
+{
+  "checksum": "e6d03017cd4c6c5473b88f30e8758349",
+  "room": {
+    "id": 22248,
+    "title": [
+      "[Hall of Mages, Foyer]"
+    ],
+    "description": [
+      "The polished white marble floor is dusted with tiny motes of gold and leads up to a wide curving staircase with a smooth brass handrail.  Ascending along the wall beside the stairs are a number of gold-framed paintings, each depicting variations of Elanthia's magical spheres."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "22240": "south",
+      "22249": "go staircase",
+      "22250": "north"
+    },
+    "timeto": {
+      "22240": 0.2,
+      "22249": 0.2,
+      "22250": 0.2
+    },
+    "image": "wl-swale-1405616532.png",
+    "image_coords": [
+      477,
+      116,
+      492,
+      130
+    ]
+  }
+}

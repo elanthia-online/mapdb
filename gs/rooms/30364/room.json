@@ -1,0 +1,43 @@
+{
+  "checksum": "2739ae28e34a377e9882934dff4a37f7",
+  "room": {
+    "id": 30364,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Moonlight glints off the blades of a large kelp forest that floats upon the ocean's surface.  The dark swaying forms are barely visible beneath the water in the dim light.  A quick breeze carries a fine mist of water with it, picked up from the ocean swells."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, west"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30363": "pedal east",
+      "30365": "pedal west",
+      "30375": "pedal southeast",
+      "30376": "pedal north"
+    },
+    "timeto": {
+      "30363": 6,
+      "30365": 6,
+      "30375": 6,
+      "30376": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216220
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1317,
+      4727,
+      1336,
+      4745
+    ]
+  }
+}

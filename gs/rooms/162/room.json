@@ -1,0 +1,44 @@
+{
+  "checksum": "a52bb5f8aff2a4887cd829456b1d9b29",
+  "room": {
+    "id": 162,
+    "title": [
+      "[Ta'Illistim, Vaeshean Wey]"
+    ],
+    "description": [
+      "The deep grey slate roof of the local clerical shop is lined with shallow grooves from years of wind and weather.  Thick beds of acantha intermingled with blaestonberry bushes surround the building, the fragrance of the blossoms permeating the air.  An engraved silver sign is tacked to the blue front door.",
+      "The blue tiles on the roof of the local clerical shop are crazed with tiny cracks and lined with shallow grooves from years of wind and weather.  Thick beds of acantha are planted alongside hydrangea bushes, the greenery left to surround the building and mingle together.  An engraved white plaque is tacked to the blue front door."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "161": "north",
+      "163": "south",
+      "13297": "go shop"
+    },
+    "timeto": {
+      "161": 0.2,
+      "163": 0.2,
+      "13297": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101007
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      243,
+      595,
+      265,
+      615
+    ]
+  }
+}

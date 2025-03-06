@@ -1,0 +1,24 @@
+{
+  "checksum": "18d1b667ca12acc59b5037b2c6b0669a",
+  "room": {
+    "id": 29268,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Crashing against the corridor's western exterior, waves pound upon the structure, causing them to reverberate with the aggressive impact.  A breach in the ceiling permits thick curtains of mist to gain entry, and a light, but constant breeze, wreaks havoc on the flames of nearby candles."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29267": "south",
+      "29272": "north"
+    },
+    "timeto": {
+      "29267": 0.2,
+      "29272": 0.2
+    }
+  }
+}

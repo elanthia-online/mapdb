@@ -1,0 +1,44 @@
+{
+  "checksum": "c6e9c937b0a4821ae8f0c38e22213e4b",
+  "room": {
+    "id": 33278,
+    "title": [
+      "[Vornavis, Gate of Shadows]"
+    ],
+    "description": [
+      "Dispelling shadows at every turn, frosted globes anchored to the arch above the Solhaven gates emit a steady white glow.  Wide sandstone slabs, worn smooth by travelers over years, are fitted between the city walls and the nearby buildings that fills the lane.  Heavily beamed rooves slant from the various structures, their tops hidden beyond the shadow-inducing lips."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1514": "go green gates",
+      "33277": "south",
+      "33279": "northeast"
+    },
+    "timeto": {
+      "1514": 0.2,
+      "33277": 0.2,
+      "33279": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4201103
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1661,
+      1019,
+      1682,
+      1041
+    ]
+  }
+}

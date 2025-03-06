@@ -1,0 +1,42 @@
+{
+  "checksum": "7af1a1a4d9cc697039c1493088c7e80e",
+  "room": {
+    "id": 3690,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Strange, high-pitched wailing echoes through the passage.  You feel something brush against your face in the darkness.  As your eyes adjust to the lack of light, you realize that it is a wispy mass of spider webs."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3689": "north",
+      "3693": "east"
+    },
+    "timeto": {
+      "3689": 0.2,
+      "3693": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42015
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      176,
+      1206,
+      186,
+      1216
+    ]
+  }
+}

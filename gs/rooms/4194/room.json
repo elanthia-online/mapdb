@@ -1,0 +1,39 @@
+{
+  "checksum": "5d7b4e8893ac99b63f1730f903153b08",
+  "room": {
+    "id": 4194,
+    "title": [
+      "[Dark-One's Keep]"
+    ],
+    "description": [
+      "Dead bodies are everywhere.  They are thrown into stacks that go all the way to the ceiling.  The only thing that keeps them from tumbling on you is a low wooden retaining wall that runs the full length of each side of the room.  There is only enough room for you to traverse to the next room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4175": "northeast",
+      "4179": "southwest"
+    },
+    "timeto": {
+      "4175": 0.2,
+      "4179": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138136
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      731,
+      1031,
+      741,
+      1041
+    ]
+  }
+}

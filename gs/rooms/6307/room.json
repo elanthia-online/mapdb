@@ -1,0 +1,43 @@
+{
+  "checksum": "93bae50e9d1c9b003090fbf025672547",
+  "room": {
+    "id": 6307,
+    "title": [
+      "[Dirt Mines, Mud Pits]"
+    ],
+    "description": [
+      "Something slimy and sinewy is moving around beneath the mud, working its way about the room in sporadic jerks.  Hopefully it doesn't have teeth.  Near the north wall, a small skeletal hand juts up from the muck, clutching a dark object."
+    ],
+    "paths": [
+      "Obvious exits: east, south, northwest"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6305": "south",
+      "6306": "east",
+      "6308": "northwest"
+    },
+    "timeto": {
+      "6305": 0.2,
+      "6306": 0.2,
+      "6308": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      372033
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      118,
+      83,
+      128,
+      93
+    ]
+  }
+}

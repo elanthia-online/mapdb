@@ -1,0 +1,46 @@
+{
+  "checksum": "8432d6cb604e0be2316f854d6f88544a",
+  "room": {
+    "id": 11872,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "The western wall has crumbled into the stream, creating a high, long pile of rubble that follows the western side of the tunnel.  The collapse has stopped just within sight of the eastern exit, though the dim lighting makes it hard to determine if the wall there is truly stable.  On the northwest side, the wall has collapsed sufficiently to open a breach to another part of the tunnel works.  The breach is high up on the rubble, but looks accessible."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11871": "east",
+      "11873": "southwest",
+      "11880": "go breach"
+    },
+    "timeto": {
+      "11871": 0.2,
+      "11873": 0.2,
+      "11880": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003013
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1240,
+      1046,
+      1250,
+      1056
+    ]
+  }
+}

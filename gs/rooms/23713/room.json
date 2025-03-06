@@ -1,0 +1,44 @@
+{
+  "checksum": "b93098152a156621cbd01d51a29ce0a2",
+  "room": {
+    "id": 23713,
+    "title": [
+      "[Outpost, Outer Courtyard]"
+    ],
+    "description": [
+      "Four raised garden beds fill the courtyard with a wide crushed gravel path passing through vegetable staples to the Hendoran stables.  The whinnying and neighing of horses continually fill the air and accompany the sounds of uniformed auxiliaries moving about the gardens and in and out of storage sheds built along the wall.  Periodically, mounted Hendorans ride their horses southward to the main entrance of the outpost, while others return from the same direction and disappear into the stables."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23710": "south",
+      "23712": "southeast",
+      "25419": "go rotunda"
+    },
+    "timeto": {
+      "23710": 0.2,
+      "23712": 0.2,
+      "25419": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336323
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      366,
+      117,
+      401,
+      152
+    ]
+  }
+}

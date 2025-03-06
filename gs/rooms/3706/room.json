@@ -1,0 +1,42 @@
+{
+  "checksum": "4167496c2b575bf5c61ee08b08a6d9fb",
+  "room": {
+    "id": 3706,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Hundreds of tortured souls have travelled this corridor to their doom.  Their cries and moans still seem to echo in the passage as your mind conjures gruesome images of their suffering."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3705": "south",
+      "3707": "north"
+    },
+    "timeto": {
+      "3705": 0.2,
+      "3707": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42029
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      336,
+      1117,
+      346,
+      1127
+    ]
+  }
+}

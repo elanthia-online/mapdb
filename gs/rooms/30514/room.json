@@ -1,0 +1,39 @@
+{
+  "checksum": "ec8fb877eb497faba93dbd763e181293",
+  "room": {
+    "id": 30514,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The water here is turbulent, its deep blue-green suffused with the pale radiance of thousands of bubbles as the river tumbles through the rocky course.  Tiny freshwater crabs scuttle about on the sand below, while glossy fish slip effortlessly upstream."
+    ],
+    "paths": [
+      "Obvious exits: northwest, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23526": "swim up",
+      "30513": "swim northwest"
+    },
+    "timeto": {
+      "23526": 0.2,
+      "30513": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117124
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1282,
+      1170,
+      1302,
+      1189
+    ]
+  }
+}

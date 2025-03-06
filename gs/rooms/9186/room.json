@@ -1,0 +1,40 @@
+{
+  "checksum": "f812f21581f3893de6cf3cb78a586afa",
+  "room": {
+    "id": 9186,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "Odd gurgling noises emanate from somewhere rather close and sound much like a pot of boiling stew.  The sweet smell of strawberries is thick in the air as well, and, while not unpleasant, it's a rather odd scent to be wafting down a stone hallway."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9185": "north",
+      "9187": "south",
+      "15913": "east"
+    },
+    "timeto": {
+      "9185": 0.2,
+      "9187": 0.2,
+      "15913": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531036
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      713,
+      895,
+      723,
+      905
+    ]
+  }
+}

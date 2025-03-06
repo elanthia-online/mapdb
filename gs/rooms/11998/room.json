@@ -1,0 +1,44 @@
+{
+  "checksum": "e1f31bdf3a02c49ab8f9848d2fa6cf6c",
+  "room": {
+    "id": 11998,
+    "title": [
+      "[Aqueduct]"
+    ],
+    "description": [
+      "The tunnel moves off to the southwest, the shallow, green water casting an uneven emerald glow on the walls as the water's peace is disturbed by sloshing feet.  Solid granite walls prevent movement in all other directions.  A pile of rubble in the center of the tunnel indicates that there may once have been a hole above to allow water to be drawn from the aqueduct.  It is too dark, though, to see if such a hole exists anymore.  Strangely out of place, a misshapen panel is set into the northeast wall."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11996": "southwest",
+      "12977": "go panel"
+    },
+    "timeto": {
+      "11996": 0.2,
+      "12977": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17003201
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      177,
+      186,
+      187,
+      196
+    ]
+  }
+}

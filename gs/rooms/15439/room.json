@@ -1,0 +1,29 @@
+{
+  "checksum": "1f77769687a9b0d385d1a577d2cdbfa7",
+  "room": {
+    "id": 15439,
+    "title": [
+      "[Moklocedo's Weaponry]",
+      "[Moklocedo's General Store]",
+      "[Moklocedo's Magic Shoppe]",
+      "[Moklocedo's Armory]",
+      "[Moklocedo's Outfitting]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A worn rug sits in one corner of an unfinished wooden floor.  There is a gilded maple cabinet on one side of the shop and a vine-carved mahogany table on the other."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24968": "east"
+    },
+    "timeto": {
+      "24968": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

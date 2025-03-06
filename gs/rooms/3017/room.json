@@ -1,0 +1,39 @@
+{
+  "checksum": "381698bf8befd7a1f990d9e3a61aecda",
+  "room": {
+    "id": 3017,
+    "title": [
+      "[Snow Fort, Tunnel]"
+    ],
+    "description": [
+      "Shards of ice litter the ground of the passage, pieces of a strange mirror, broken long ago.  Whatever broke the ice mirror did so with amazing force, imbedding even the tiniest bits deep in the passage walls.  Kicked off to one side, the remains of a vultite frame lie in shambles on the ground."
+    ],
+    "paths": [
+      "Obvious exits: southeast, down"
+    ],
+    "location": "the High Plains",
+    "wayto": {
+      "3016": "down",
+      "3018": "southeast"
+    },
+    "timeto": {
+      "3016": 0.2,
+      "3018": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129102
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      435,
+      766,
+      445,
+      776
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "71df543081147f4dc04883d09cb40506",
+  "room": {
+    "id": 2979,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "The still, ancient air deep in this tomb is sour and dry.  Deep, narrow alcoves along one wall hold the bones of the honored."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, west"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2978": "northeast",
+      "2980": "west",
+      "15944": "north"
+    },
+    "timeto": {
+      "2978": 0.2,
+      "2980": 0.2,
+      "15944": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132115
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1618,
+      533,
+      1667,
+      583
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "9cd3649e43c03412f6b8a6193cae143c",
+  "room": {
+    "id": 30642,
+    "title": [
+      "[Landing Hall, Hallway]"
+    ],
+    "description": [
+      "This hallway ends in a small nook, with a small potted tree proudly defending its territory from the polished gold lantern fastened to the wall above it.  Loud laughs can occasionally be heard through an engraved granite arch in the north wall, while the sound of supplies being shuffled can be heard through the oak door in the south wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30634": "east",
+      "30637": "go arch",
+      "30643": "go door"
+    },
+    "timeto": {
+      "30634": 0.2,
+      "30637": 0.2,
+      "30643": 0.2
+    },
+    "uid": [
+      853010
+    ]
+  }
+}

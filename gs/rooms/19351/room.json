@@ -1,0 +1,44 @@
+{
+  "checksum": "fde60d71c6c1beac8da5a69acba814a1",
+  "room": {
+    "id": 19351,
+    "title": [
+      "[Eastern Harbor, Alley]"
+    ],
+    "description": [
+      "Dark despite the time of day, the alley is crowded with boxes, barrels, and rope-tied cloth bags.  Doors line the brick walls of the buildings that rise on either side of the cobblestoned path, their faces unmarked and plain.  A lone lantern stands next to a small black entryway, its flickering flame casting long shadows in the confined space.",
+      "Dark despite the faint glow of moonlight, the alley is crowded with boxes, barrels, and rope-tied cloth bags.  Doors line the brick walls of the buildings that rise on either side of the cobblestoned path, their faces unmarked and plain.  A lone lantern stands next to a small black entryway, its flickering flame casting long shadows in the confined space."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "19350": "north",
+      "19352": "south",
+      "21135": "go entryway",
+      "22071": "go door"
+    },
+    "timeto": {
+      "19350": 0.2,
+      "19352": 0.2,
+      "21135": 0.2,
+      "22071": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223021
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      4032,
+      1605,
+      4064,
+      1629
+    ]
+  }
+}

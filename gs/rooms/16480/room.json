@@ -1,0 +1,30 @@
+{
+  "checksum": "0ce4591e27cfa9088ef20a564fa58c6a",
+  "room": {
+    "id": 16480,
+    "title": [
+      "[Berrigan's Weaponry]",
+      "[Berrigan's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  An oversized sea chest sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3869": "out",
+      "16505": "east",
+      "16506": "north"
+    },
+    "timeto": {
+      "3869": 0.2,
+      "16505": 0.2,
+      "16506": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

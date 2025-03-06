@@ -1,0 +1,55 @@
+{
+  "checksum": "89cb6730d6ec9c3ca1ef52574ae80d28",
+  "room": {
+    "id": 14448,
+    "title": [
+      "[Wehnimer's Museum, Grand Foyer]",
+      "[Wehnimer's Museum, Grand Lobby]"
+    ],
+    "description": [
+      "White marble columns, set halfway into the walls, serve as both decoration and structural support for the high ceiling.  Set between them are some colorful velvet settees that offer respite for weary patrons.  The cool marble floor is interrupted by a pale gold carpet that leads up an expansive staircase.  In the center of the western wall is a green marble arch, while the eastern wall sports a white marble arch.  Across the room from a gold marble arch, a large platinum plaque and a rectangular white sign are displayed beside the oaken double doors that lead outside.",
+      "You are in the grand entry hall of the Wehnimer's Museum.  This building houses much ancient and historical lore, artifacts and antiquities.  The museum complex consists of galleries bedecked in fine works of art, wings devoted to historical artifacts, a library of rare manuscripts, a wing devoted to the natural history of Elanthia, and a Hall of Magic and Technology."
+    ],
+    "paths": [
+      "Obvious exits: none",
+      "Obvious exits: north, east, south, west, out",
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "235": "go doors",
+      "14643": "go white arch",
+      "14647": "go green arch",
+      "19947": "go gold arch",
+      "19950": "go staircase",
+      "20054": "/rooms/14448/wayto/stringproc-20054.rb"
+    },
+    "timeto": {
+      "235": 0.2,
+      "14643": 0.2,
+      "14647": 0.2,
+      "19947": 0.2,
+      "19950": 0.2,
+      "20054": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - Museum",
+      "meta:mapshortname:Museum",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28101
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      898,
+      1494,
+      1040,
+      1556
+    ]
+  }
+}

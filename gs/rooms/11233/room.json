@@ -1,0 +1,38 @@
+{
+  "checksum": "d1cf57d481117dc7e2afae7a629f880c",
+  "room": {
+    "id": 11233,
+    "title": [
+      "[Infirmary, Temple]"
+    ],
+    "description": [
+      "Silence and serenity reign in this oblong room.  On a table beside the arched doorway are a matching silver basin and goblet, now tarnished with age.  The tattered remains of woven prayer mats are aligned in front of a faded tapestry.  In the center of the room is a perfectly circular pool of still water."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11231": "north",
+      "11333": "go pool"
+    },
+    "timeto": {
+      "11231": 0.2,
+      "11333": 2.5
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377225
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      164,
+      683,
+      174,
+      693
+    ]
+  }
+}

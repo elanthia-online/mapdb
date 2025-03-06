@@ -1,0 +1,32 @@
+{
+  "checksum": "dee900f73fe5fbc80fdffbf38f4b3db3",
+  "room": {
+    "id": 26083,
+    "title": [
+      "[Zul Logoth, Ancient Passage]"
+    ],
+    "description": [
+      "Intricately carved patterns dance across the western wall as they travel from the downward spiraling stairs to the upward ones, their thick and thin lines are a combination of whorls and musical notes.  Dim light, created by four potted toadstools, illuminates the corridor and draws attention to the colorful murals that are housed within the eastern wall.  Faint and carefree, the sound of a fife playing a joyful tune fills the air."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26082": "/rooms/26083/wayto/stringproc-26082.rb",
+      "26084": "/rooms/26083/wayto/stringproc-26084.rb"
+    },
+    "timeto": {
+      "26082": 24,
+      "26084": 12
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      679006
+    ]
+  }
+}

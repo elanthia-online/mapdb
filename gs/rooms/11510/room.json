@@ -1,0 +1,38 @@
+{
+  "checksum": "3a66eb770b4a0f9a4a77667b62758db7",
+  "room": {
+    "id": 11510,
+    "title": [
+      "[Ruined Tower, Gallery]"
+    ],
+    "description": [
+      "The light grey stone walls would have provided an unobtrusive background for the works of art gathered here.  The artwork is in disarray, as if the entire room had been seized by giant hands and shaken.  Many of the paintings have fallen from the wall, and several of the statues have tipped over or fallen from their stands.  In one corner of the gallery a statue of Niima, the Wavedancer, has fallen against a statue of Charl, her harsh father."
+    ],
+    "paths": [
+      "Obvious exits: east, down"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11507": "down",
+      "11511": "east"
+    },
+    "timeto": {
+      "11507": 0.2,
+      "11511": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305035
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      765,
+      856,
+      775,
+      866
+    ]
+  }
+}

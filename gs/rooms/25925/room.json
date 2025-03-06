@@ -1,0 +1,34 @@
+{
+  "checksum": "18ef03a70d2b9e6458854510cc86f07b",
+  "room": {
+    "id": 25925,
+    "title": [
+      "[Ostwicke Hall, Stage]"
+    ],
+    "description": [
+      "Rich, burgundy velvet curtains hang on either side of the stage's arch.  The highly polished wooden floor extends onto the apron, in the center of which stands a darkly stained podium.  Six wide steps descend into the auditorium."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25922": "go steps",
+      "25926": "go curtain"
+    },
+    "timeto": {
+      "25922": 0.2,
+      "25926": 0.2
+    },
+    "uid": [
+      8211317
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      673,
+      185,
+      723,
+      234
+    ]
+  }
+}

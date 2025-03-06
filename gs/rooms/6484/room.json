@@ -1,0 +1,43 @@
+{
+  "checksum": "02f9f42f38d4f1da6e2bd3b316a1def0",
+  "room": {
+    "id": 6484,
+    "title": [
+      "[Underground Lake]"
+    ],
+    "description": [
+      "A wash of steam rises from the water that bubbles out of a small crack in the cavern wall.  The hot spring has warmed the water of this small underground pool enough to make it comfortable to wade in.  Echoes of the running water ring from the walls of the surrounding cavern.  A narrow sandy beach rises up out of the water, leading to the floor of the huge cavern.  To the east, you can see a small opening just below the water line."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6481": "/rooms/6484/wayto/stringproc-6481.rb",
+      "6485": "go narrow beach"
+    },
+    "timeto": {
+      "6481": 0.2,
+      "6485": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      95153
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      513,
+      1005,
+      523,
+      1015
+    ]
+  }
+}

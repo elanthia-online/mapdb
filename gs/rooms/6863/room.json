@@ -1,0 +1,42 @@
+{
+  "checksum": "a9ee81ef2cc0cf5a7af64233cc5b78a7",
+  "room": {
+    "id": 6863,
+    "title": [
+      "[Abandoned Inn, Attic]"
+    ],
+    "description": [
+      "Obvious effort has been expended to make this attic space respectable and neat.  No boxes or other storage containers clutter the corners, and the floor speaks of a recent soaping.  Brightly burning candles sit in polished sconces on either side of the door to the north.  Little crystals dangle from the holders, as if attempting to catch a casual observer's attention."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6856": "go stair",
+      "6883": "north",
+      "6884": "south",
+      "6885": "east"
+    },
+    "timeto": {
+      "6856": 0.2,
+      "6883": 0.2,
+      "6884": 0.2,
+      "6885": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21135
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      813,
+      1431,
+      823,
+      1441
+    ]
+  }
+}

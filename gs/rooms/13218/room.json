@@ -1,0 +1,31 @@
+{
+  "checksum": "f9943be63c16a686b2384a15265f77b7",
+  "room": {
+    "id": 13218,
+    "title": [
+      "[Shimmarglin Inn, East Hall]"
+    ],
+    "description": [
+      "Thick red carpet coats the wooden flooring, muffling the sound of heavy footfalls as patrons pass through the hallway.  Glowing orbs, perhaps the size of a clenched fist, illuminate the corridor at ten-foot intervals.  The sharp scent of wood polish lingers in the air."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "13211": "west",
+      "13219": "east",
+      "15666": "go polished door",
+      "15667": "go oak door"
+    },
+    "timeto": {
+      "13211": 0.2,
+      "13219": 0.2,
+      "15666": 0.2,
+      "15667": 0.2
+    },
+    "uid": [
+      13108008
+    ]
+  }
+}

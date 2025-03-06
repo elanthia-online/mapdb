@@ -1,0 +1,36 @@
+{
+  "checksum": "60dd5ec6da13123af98360d6ba16bcf1",
+  "room": {
+    "id": 13533,
+    "title": [
+      "[Silverwood Manor, Great Hall]"
+    ],
+    "description": [
+      "The vaulted ceiling of the hall rises to a spectacular height, and the smooth stonework is punctuated by elongated oval skylights that admit slanting rays of moonlight.  Natural light combined with the candles burning amid dozens of filigree sconces set into the walls causes the ivory-veined grey marble floor to gleam.  Soft velvet curtains in various hues of blue and grey drape the northern wall and are tied back in the center to display a polished granite arch.",
+      "The vaulted ceiling of the hall rises to a spectacular height, and the smooth stonework is punctuated by elongated oval skylights that admit slanting rays of sunlight.  Natural light combined with the candles burning amid dozens of filigree sconces set into the walls causes the ivory-veined grey marble floor to gleam.  Soft velvet curtains in various hues of blue and grey drape the northern wall and are tied back in the center to display a polished granite arch."
+    ],
+    "paths": [
+      "Obvious exits: east, west, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13532": "down",
+      "13534": "go arch",
+      "14008": "west",
+      "14013": "east"
+    },
+    "timeto": {
+      "13532": 0.2,
+      "13534": 0.2,
+      "14008": 0.2,
+      "14013": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384011
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "243f63a6703075ee32393298ad620bdf",
+  "room": {
+    "id": 31636,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Flanked by railings, the cobbled road arcs across a vast orchard that sprawls along the northern edge of town, while on the south of the bridge a more manicured and refined orchard fills the village's interior, surrounded by high walls.  Benches butt against the edge, providing resting space to enjoy the scenery of the area beneath.  A lantern-flanked arbor to the north has winding stairs beyond its verdant arc, offering entry to the grounds below."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31635": "southeast",
+      "31637": "go arbor",
+      "31638": "southwest"
+    },
+    "timeto": {
+      "31635": 0.2,
+      "31637": 0.2,
+      "31638": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083017
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      541,
+      132,
+      565,
+      155
+    ]
+  }
+}

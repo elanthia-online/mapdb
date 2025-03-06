@@ -1,0 +1,51 @@
+{
+  "checksum": "8fab79ce12b89ddc16c139af0958542f",
+  "room": {
+    "id": 1473,
+    "title": [
+      "[Solhaven, North Market SW]"
+    ],
+    "description": [
+      "Trappers, still dusty from traveling the caravan route, drift into and out of this small shop.  A velnalin pelt, stretched across a wooden frame, hangs above the narrow entrance.  An old man sits nearby, playing a merry tune on his cornet."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1438": "northeast",
+      "1472": "east",
+      "1474": "north",
+      "1475": "south",
+      "1476": "west",
+      "13054": "go shop",
+      "30710": "/rooms/1473/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1438": 0.2,
+      "1472": 0.2,
+      "1474": 0.2,
+      "1475": 0.2,
+      "1476": 0.2,
+      "13054": 0.2,
+      "30710": "/rooms/1473/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209038
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      880,
+      639,
+      904,
+      663
+    ]
+  }
+}

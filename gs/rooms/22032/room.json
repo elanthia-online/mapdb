@@ -1,0 +1,26 @@
+{
+  "checksum": "6c54d0f7540a68624830179229fb2b7a",
+  "room": {
+    "id": 22032,
+    "title": [
+      "[It's Just a Formality]"
+    ],
+    "description": [
+      "Sturdy, polished teak poles driven straight into the ground support a thick, stretched canvas tent that encloses this space.  Candles of assorted colors occupy spherical lanterns hanging from several of the poles, their wavering lights casting a pale yellow luminescence upon the goods for sale.  Footprints on the ground mark a faint path between the northwest and southeast corners of the temporary establishment, while a neatly sewn flap leads out.  A sign on a thick wooden stake is posted prominently in the center of the area."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "22033": "northwest",
+      "22037": "southeast",
+      "23866": "go flap"
+    },
+    "timeto": {
+      "22033": 0.2,
+      "22037": 0.2,
+      "23866": 0.2
+    }
+  }
+}

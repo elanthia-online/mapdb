@@ -1,0 +1,34 @@
+{
+  "checksum": "43633368c3de927a8a88d50bcae68bfb",
+  "room": {
+    "id": 18109,
+    "title": [
+      "[Wizard Guild, Passage]"
+    ],
+    "description": [
+      "Steam fills the narrow passage and obscures the view.  From somewhere to the west comes muffled sounds of splashing and an occasional peal of laughter."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "18108": "east",
+      "18110": "west"
+    },
+    "timeto": {
+      "18108": 0.2,
+      "18110": 0.2
+    },
+    "uid": [
+      682010
+    ],
+    "image": "ti-wizard_guild.png",
+    "image_coords": [
+      136,
+      268,
+      201,
+      332
+    ]
+  }
+}

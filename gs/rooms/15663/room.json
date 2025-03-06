@@ -1,0 +1,30 @@
+{
+  "checksum": "6efe0dbb1ddbfc4a2448b22a5746ab55",
+  "room": {
+    "id": 15663,
+    "title": [
+      "[Valicar's Armory]",
+      "[Valicar's Weaponry]"
+    ],
+    "description": [
+      "Beneath an oak beam ceiling, a tattered merchant permit hangs on one of the dark oak walls.  A long varnished counter and a dovetailed oak table sit in opposite corners while a large anvil rests on a varnished oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3441": "out",
+      "15816": "east",
+      "15817": "north"
+    },
+    "timeto": {
+      "3441": 0.2,
+      "15816": 0.2,
+      "15817": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

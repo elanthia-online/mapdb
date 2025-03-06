@@ -1,0 +1,62 @@
+{
+  "checksum": "d5aee2d3df00eb968cd90198573f213a",
+  "room": {
+    "id": 30792,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "A sail hanging from a mast casts a large shadow across some debris, while rigging creates a dark, web-like pattern across the planks of the main deck. Along both sides of the ship, cannons stand at the ready.  A lone gull circles overhead, its sonorous call a greeting to those on board."
+    ],
+    "paths": [
+      "Obvious paths: east, west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "go gangplank",
+      "30119": "go gangplank",
+      "30130": "go gangplank",
+      "30142": "go gangplank",
+      "30166": "go gangplank",
+      "30176": "go gangplank",
+      "30793": "west",
+      "30795": "down",
+      "30796": "up",
+      "30797": "east"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30793": 0.2,
+      "30795": 0.2,
+      "30796": 0.2,
+      "30797": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy brigantine",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      804,
+      418,
+      819,
+      431
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "1190f083aa365ce608b0979f105fc454",
+  "room": {
+    "id": 4323,
+    "title": [
+      "[Mine]"
+    ],
+    "description": [
+      "Rubble fills the majority of this section of the mine and it is difficult to move between the fallen timbers.  Rocks of all sizes lay piled in your path making your footing treacherous."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4322": "southeast",
+      "4324": "south",
+      "4333": "east"
+    },
+    "timeto": {
+      "4322": 0.2,
+      "4324": 0.2,
+      "4333": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24023
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      700,
+      497,
+      710,
+      507
+    ]
+  }
+}

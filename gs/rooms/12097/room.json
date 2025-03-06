@@ -1,0 +1,47 @@
+{
+  "checksum": "d0d4d0f254d9fbcaa18034205edbe9c8",
+  "room": {
+    "id": 12097,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Black sand dunes stretch out to infinity.  No plants grow from the ebon ground, and you can hear no small animals or insects going about their business nearby.  In the distance, a triangular shape moves along the ground, breaking the surface of the sand and winding its way towards you before disappearing beneath the surface once again."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest",
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12098": "northwest",
+      "12151": "southwest",
+      "12156": "east",
+      "12207": "/rooms/12097/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12097/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12098": 0.2,
+      "12151": 0.2,
+      "12156": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4569020
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      622,
+      1262,
+      632,
+      1272
+    ]
+  }
+}

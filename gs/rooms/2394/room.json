@@ -1,0 +1,44 @@
+{
+  "checksum": "f4af72bc3e8b24b9240a9fc23441d427",
+  "room": {
+    "id": 2394,
+    "title": [
+      "[Tavern Burrow, Honeybeer Road]"
+    ],
+    "description": [
+      "A few small shops front Honeybeer Road, selling odds and ends.  One shop has a windowbox filled with colorful pinwheels that spin wildly whenever the wind blows, flashing their bright colors in a dizzying dance.  Another storefront's window is filled with a display of beer steins.  A carved spruce sign shaped like an arrow points toward the doorway of the local fletcher's shop.",
+      "A few small shops front Honeybeer Road here, selling odds and ends.  One shop has a windowbox filled with colorful pinwheels that spin wildly whenever someone passes nearby.  Another shop window is filled with a display of beer mugs.  A freshly hung arrow points towards a doorway."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2393": "west",
+      "2395": "east",
+      "3451": "go doorway"
+    },
+    "timeto": {
+      "2393": 0.2,
+      "2395": 0.2,
+      "3451": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042202
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      228,
+      1231,
+      264,
+      1267
+    ]
+  }
+}

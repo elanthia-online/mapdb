@@ -1,0 +1,27 @@
+{
+  "checksum": "15fdc6124f68bafce7dc25f9126377a4",
+  "room": {
+    "id": 12438,
+    "title": [
+      "[Arienne's Artifacts]"
+    ],
+    "description": [
+      "This room is piled high with wooden tables of all sizes and shapes, each one decorated with a unique and esoteric material.  Small pathways wind among the items, providing just enough space for customers to view the wares.  Yellow candles flicker fitfully in the wall sconces as their light dances across the table surfaces."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12435": "southwest",
+      "12439": "northeast"
+    },
+    "timeto": {
+      "12435": 0.2,
+      "12439": 0.2
+    },
+    "uid": [
+      3003556
+    ]
+  }
+}

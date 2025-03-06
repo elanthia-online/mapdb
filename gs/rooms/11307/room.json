@@ -1,0 +1,38 @@
+{
+  "checksum": "3c338c51cf65de3d73d5714ee8978c63",
+  "room": {
+    "id": 11307,
+    "title": [
+      "[Alchemist, Secret Tunnel]"
+    ],
+    "description": [
+      "No torches burn in the empty iron sconces, but torchlight from the west casts a weak orange gleam over your surroundings.  The floor slopes unevenly downward as the tunnel curves toward the northeast, and a distinct chill enters the air.  Tiny roots weave through the packed earth walls, caressing the aging wooden supports like the hair on an old man's head clinging to his balding pate."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11306": "west",
+      "11308": "northeast"
+    },
+    "timeto": {
+      "11306": 0.2,
+      "11308": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377127
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      902,
+      1057,
+      912,
+      1067
+    ]
+  }
+}

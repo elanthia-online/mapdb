@@ -1,0 +1,28 @@
+{
+  "checksum": "d63b11bd2550498385f6b9fe53bc327e",
+  "room": {
+    "id": 4455,
+    "title": [
+      "[Mace, Shield, and Spirit]"
+    ],
+    "description": [
+      "Golden flames dance in mithril-caged lanterns set along the spacious tunnel.  The walls and ceiling are reinforced at intervals with broad oak beams.  A low, sturdy invar rack padded with gnarp wool displays an assortment of maces and morning stars to people passing by the north wall.  To the south, a long, granite block sits against the rock face.  More weaponry has been arrayed upon the granite."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4453": "go exit",
+      "4456": "west"
+    },
+    "timeto": {
+      "4453": 0.2,
+      "4456": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

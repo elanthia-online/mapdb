@@ -1,0 +1,54 @@
+{
+  "checksum": "7c046c4a7448828cdbbbfaa5dc02d87a",
+  "room": {
+    "id": 2326,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "A thin spire of pure ice ascends toward the heavens, its narrow spiked peak glittering with reflected sunlight.  Two tall modwir trees flank the enormous structure, their needle-covered branches dusted with a heavy coating of snow.  Small grey rocks peek out from the layer of white upon the ground, marking two paths that lead to the large tower and off to a smaller building situated near the southeastern wall.",
+      "A thin spire of pure ice ascends toward the heavens, its narrow spiked peak glittering with pale moonlight.  Two tall modwir trees flank the enormous structure, their needle-covered branches dusted with a heavy coating of snow.  Small grey rocks peek out from the layer of white upon the ground, marking two paths that lead to the large tower and off to a smaller building situated near the southeastern wall."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2319": "go gate",
+      "2327": "southeast",
+      "18650": "go tower",
+      "30709": "/rooms/2326/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2319": 0.2,
+      "2327": 0.2,
+      "18650": "/rooms/2326/timeto/stringproc-18650.rb",
+      "30709": "/rooms/2326/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "clericguild",
+      "meta:mapname:Icemule Trace - Cleric Guild",
+      "meta:mapshortname:Cleric Guild (Icemule)",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Guilds",
+      "urchin guide clericguild",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "cleric guild"
+    ],
+    "uid": [
+      670011
+    ],
+    "image": "imt-cleric_guild-1275420218.png",
+    "image_coords": [
+      452,
+      383,
+      498,
+      429
+    ]
+  }
+}

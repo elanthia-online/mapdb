@@ -1,0 +1,51 @@
+{
+  "checksum": "c48bdde8a3dbcac43d8df615ece74820",
+  "room": {
+    "id": 7500,
+    "title": [
+      "[Wehnimer's, Tunnel]"
+    ],
+    "description": [
+      "The twisting stairway seems to go on without end.  After every few steps, you come to another stone landing where the way continues at a sharp angle.  The air is warm and humid, and a feeling of closeness presses in on you."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7490": "down",
+      "7501": "up"
+    },
+    "timeto": {
+      "7490": 0.2,
+      "7501": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46004
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      928,
+      887,
+      938,
+      897
+    ]
+  }
+}

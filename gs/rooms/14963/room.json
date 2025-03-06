@@ -1,0 +1,43 @@
+{
+  "checksum": "1371171d0e2aa0101088a7c6536edfc0",
+  "room": {
+    "id": 14963,
+    "title": [
+      "[West Bank, Pier]"
+    ],
+    "description": [
+      "The wooden pier extends to the north, set on heavy stone pilings rooted in the riverbank.  Merchant barges are berthed along the pier, loading and unloading a variety of crates and barrels.  A group of gaily dressed workmen bustle around a large canvas tent, which seems to be in the process of being taken down or put up."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "freshwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8730": "go stairs",
+      "14962": "north",
+      "14964": "go tent"
+    },
+    "timeto": {
+      "8730": 0.2,
+      "14962": 0.2,
+      "14964": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      701420
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      1018,
+      803,
+      1036,
+      821
+    ]
+  }
+}

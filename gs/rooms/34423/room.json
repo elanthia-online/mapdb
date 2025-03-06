@@ -1,0 +1,36 @@
+{
+  "checksum": "239c091b5cafea10b193e8fb97bfcbf4",
+  "room": {
+    "id": 34423,
+    "title": [
+      "[Ta'Nalfein - Urchin Hideout]"
+    ],
+    "description": [
+      "This is a fake room used to hold wayto/timeto for urchin guides."
+    ],
+    "paths": [
+      "Obvious exits: bwahaha"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33856": "urchin guide docks",
+      "33857": "urchin guide boatswain",
+      "33860": "urchin guide docks",
+      "33888": "urchin guide postoffice",
+      "33889": "urchin guide tables",
+      "33898": "urchin guide cobbling"
+    },
+    "timeto": {
+      "33856": "/rooms/34423/timeto/stringproc-33856.rb",
+      "33857": "/rooms/34423/timeto/stringproc-33857.rb",
+      "33860": "/rooms/34423/timeto/stringproc-33860.rb",
+      "33888": "/rooms/34423/timeto/stringproc-33888.rb",
+      "33889": "/rooms/34423/timeto/stringproc-33889.rb",
+      "33898": "/rooms/34423/timeto/stringproc-33898.rb"
+    },
+    "tags": [
+      "urchin-hideout",
+      "meta:map:virtual room"
+    ]
+  }
+}

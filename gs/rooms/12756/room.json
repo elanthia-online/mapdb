@@ -1,0 +1,37 @@
+{
+  "checksum": "8e72ffa48585f1a64bd763fd551077b9",
+  "room": {
+    "id": 12756,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The passage comes to an abrupt stop at the base of several shattered statues that prevent travel to the west.  Despite the obstruction, water ebbs and flows onward in both directions."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12755": "southwest",
+      "12757": "east"
+    },
+    "timeto": {
+      "12755": 0.2,
+      "12757": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031100
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      811,
+      237,
+      845,
+      271
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "14f76499f215122e97fb91c14deb76be",
+  "room": {
+    "id": 4641,
+    "title": [
+      "[Cysaegir, Treetop Platform]"
+    ],
+    "description": [
+      "Hugging the tree's southern side, the platform stretches out eastward over the large supportive branches of the ancient forest.  A hemlock tree pokes through an intentional break in the planking and looks sturdy enough to climb down to get to ground level."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the village of Cysaegir",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4640": "northwest",
+      "4646": "east",
+      "4650": "climb tree"
+    },
+    "timeto": {
+      "4640": 0.2,
+      "4646": 0.2,
+      "4650": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14050033
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      373,
+      424,
+      397,
+      449
+    ]
+  }
+}

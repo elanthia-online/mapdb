@@ -1,0 +1,38 @@
+{
+  "checksum": "857db1c1a4c9e80b315f82fd9a0b24a5",
+  "room": {
+    "id": 18711,
+    "title": [
+      "[Krolvin Warship, Second Deck]"
+    ],
+    "description": [
+      "Dust motes, dancing in the slanted rays of light with each creak of the gently rolling ship, drift down from the exposed oaken beams supporting the decking overhead.  Hanging from a hook on the splintered portside bulkhead is a single brass lantern, its flickering light casting odd shadows across the crooked deck planks.  Standing next to the lantern, in obvious need of repair, is a misshapen harpoon rack."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south, southwest"
+    ],
+    "location": "somewhere on the Great Western Sea",
+    "wayto": {
+      "18710": "southeast",
+      "18712": "southwest",
+      "24394": "south",
+      "24464": "east"
+    },
+    "timeto": {
+      "18710": 0.2,
+      "18712": 0.2,
+      "24394": 0.2,
+      "24464": 0.2
+    },
+    "uid": [
+      4031015
+    ],
+    "image": "quest-troubled_waters.png",
+    "image_coords": [
+      495,
+      174,
+      520,
+      191
+    ]
+  }
+}

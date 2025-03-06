@@ -1,0 +1,44 @@
+{
+  "checksum": "3e8a00248ce490bb50d146d0346f2cd7",
+  "room": {
+    "id": 21741,
+    "title": [
+      "[House Phoenix, Entry]"
+    ],
+    "description": [
+      "The floor of the main entry is of dark flagstone, deeply polished, the walls are of white marble, veined with crimson.  The walls are hung with brightly colored tapestries and filigreed oil lamps are set in bronze sconces to illuminate them.  Standing in even ranks along the walls are many types of armor from half a hundred eras and regions, each seeming to wait patiently for the trumpets of battle to sound, as they ever have and ever will."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "256": "go door",
+      "21747": "east"
+    },
+    "timeto": {
+      "256": 0.2,
+      "21747": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - House Of The Rising Phoenix",
+      "meta:mapshortname:House Of The Rising Phoenix",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:CHE",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "meta:che:House of the Rising Phoenix"
+    ],
+    "uid": [
+      103001
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      795,
+      862,
+      912,
+      939
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "4e6c4a8e781588a36e77247fe01c4eba",
+  "room": {
+    "id": 21659,
+    "title": [
+      "[DeArchon Home, Hallway]"
+    ],
+    "description": [
+      "A long, dimly lit passageway extends past a circular stairwell.  Along the hall are ornate-framed paintings, each one depicting a variety of ships at sea.  The hall ends at an arched glass-paneled door."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19784": "south",
+      "21660": "go stairwell"
+    },
+    "timeto": {
+      "19784": 0.2,
+      "21660": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

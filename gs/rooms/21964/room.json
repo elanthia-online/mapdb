@@ -1,0 +1,33 @@
+{
+  "checksum": "e3198d9b44ff5b2a76bb248c80fe868f",
+  "room": {
+    "id": 21964,
+    "title": [
+      "[Talador Mines, Outcropping]"
+    ],
+    "description": [
+      "A small jagged outcropping juts out from the wall, darkness all around.  Tiny, glowing white worms slowly inch up the sides of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21965": "/rooms/21964/wayto/stringproc-21965.rb",
+      "21967": "/rooms/21964/wayto/stringproc-21967.rb",
+      "22007": "down"
+    },
+    "timeto": {
+      "21965": 0.2,
+      "21967": 0.5,
+      "22007": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      900,
+      393,
+      914,
+      408
+    ]
+  }
+}

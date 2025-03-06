@@ -1,0 +1,55 @@
+{
+  "checksum": "41c1e5aa9ffdb56cad87f993fc344eb5",
+  "room": {
+    "id": 12170,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The river of blood moves through a hole to the east.  Your feet squelch and squish with each step, and you are forced to place them carefully for fear of slipping.  The walls are crawling with worms, greenish grey and horrible, slowly weakening the structure.  The squeezing of the walls is not as strong here as in other places, as if the creepers had already damaged them."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, west",
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2579": "/rooms/12170/wayto/stringproc-2579.rb",
+      "12207": "south",
+      "12209": "northeast",
+      "12215": "west"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12207": 0.2,
+      "12209": 0.2,
+      "12215": 0.2
+    },
+    "tags": [
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "fleshsore bulb",
+      "withered deathblossom",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570011
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      829,
+      1136,
+      839,
+      1146
+    ]
+  }
+}

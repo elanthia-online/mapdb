@@ -1,0 +1,44 @@
+{
+  "checksum": "b60cd90cd3050a5c3e9ddc4355d67689",
+  "room": {
+    "id": 29881,
+    "title": [
+      "[Rawknuckle's, Pipe Den]"
+    ],
+    "description": [
+      "A mottled grey warg pelt stretches across the plank floor before an uneven brick fireplace on the eastern wall.  Several frayed chairs form a loose semicircle around the hearth.  Decades of pipe smoke has seeped into the surroundings, leaving the air stale with its burnt herbal tang."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29877": "west",
+      "34399": "/rooms/29881/wayto/stringproc-34399.rb"
+    },
+    "timeto": {
+      "29877": 0.2,
+      "34399": "/rooms/29881/timeto/stringproc-34399.rb"
+    },
+    "tags": [
+      "node",
+      "advguard2",
+      "supernode",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "urchin-access",
+      "urchin guide pipeden"
+    ],
+    "uid": [
+      7503252
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      502,
+      1065,
+      517,
+      1081
+    ]
+  }
+}

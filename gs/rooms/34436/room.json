@@ -1,0 +1,33 @@
+{
+  "checksum": "98181ad0690aca87b83999876f2bd761",
+  "room": {
+    "id": 34436,
+    "title": [
+      "[Cuddfan Hollow, Sleeping Space]"
+    ],
+    "description": [
+      "Small and large rugs are stacked upon the ebonwood floors of the wagon's sleeping quarters, their woven patterns decorative and varied.  Fitted into the back half of the wagon, a large box bed occupies much of the space, though its underside has been cleverly fitted with a variety of drawers for convenient storage.  A pair of bronze sconces flank on either side of a bright off-white door that leads to the backyard."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "30708": "/rooms/34436/wayto/stringproc-30708.rb",
+      "34435": "west",
+      "34437": "go off-white door"
+    },
+    "timeto": {
+      "30708": "/rooms/34436/timeto/stringproc-30708.rb",
+      "34435": 0.2,
+      "34437": 0.2
+    },
+    "tags": [
+      "private property",
+      "urchin-access"
+    ],
+    "uid": [
+      2022478
+    ]
+  }
+}

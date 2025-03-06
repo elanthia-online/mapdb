@@ -1,0 +1,43 @@
+{
+  "checksum": "177ea3c5c88a8533514f7f1670b1be63",
+  "room": {
+    "id": 11107,
+    "title": [
+      "[Krol Ship, Hold Aft]"
+    ],
+    "description": [
+      "The hold extends the length of the ship, from the aft companionway all the way to the bow.  The air here is damp and stuffy, and the meager light filtering down from the decks above is barely enough to see by.  Large crates and barrels are piled all around, as far into the semi-darkness as you can see.  The companionway leads up from here to the upper decks and down into the bilge."
+    ],
+    "paths": [
+      "Obvious exits: south, up, down"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11106": "south",
+      "11108": "go door",
+      "11109": "up",
+      "11120": "down"
+    },
+    "timeto": {
+      "11106": 0.2,
+      "11108": 0.2,
+      "11109": 0.2,
+      "11120": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26026
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3643,
+      1526,
+      3665,
+      1547
+    ]
+  }
+}

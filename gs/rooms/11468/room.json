@@ -1,0 +1,46 @@
+{
+  "checksum": "78e91cd7b8d35f07c98ab5daf56b7331",
+  "room": {
+    "id": 11468,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A rocky wall, strewn with dark green clumps of bladder rockweed, rises to the east.  A boulder the size of a hermit's hut is sunk into the sand of the bay floor.  Small, brightly- colored fish dart back and forth between the barnacle-covered boulder and the rockweed."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest, west, northwest, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11459": "/rooms/11468/wayto/stringproc-11459.rb",
+      "11467": "/rooms/11468/wayto/stringproc-11467.rb",
+      "11470": "/rooms/11468/wayto/stringproc-11470.rb",
+      "11471": "/rooms/11468/wayto/stringproc-11471.rb",
+      "16060": "/rooms/11468/wayto/stringproc-16060.rb"
+    },
+    "timeto": {
+      "11459": 2,
+      "11467": 2,
+      "11470": 2,
+      "11471": 2,
+      "16060": 3
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304221
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      976,
+      1234,
+      986,
+      1244
+    ]
+  }
+}

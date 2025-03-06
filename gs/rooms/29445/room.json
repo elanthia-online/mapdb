@@ -1,0 +1,24 @@
+{
+  "checksum": "7fa055868e79ff2ccbaf177f315716a7",
+  "room": {
+    "id": 29445,
+    "title": [
+      "[Seaside Seers, Jasper and Jade]"
+    ],
+    "description": [
+      "Large swathes of multi-hued silk and velvet cloth cover the walls, draped with mithril chains dangling an assortment of well-used wands and divination cards.  Hanging from the ceiling, a rickety wooden orrery with dusty gemstone moons casts a flickering shadow across a mahogany chest and a matching jewelry case.  Tucked into one corner is a salt-stained velvet and silk curtain adorned with hundreds of beads."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29444": "south",
+      "29450": "go curtain"
+    },
+    "timeto": {
+      "29444": 0.2,
+      "29450": 0.2
+    }
+  }
+}

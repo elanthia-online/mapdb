@@ -1,0 +1,32 @@
+{
+  "checksum": "88db62446e567408bfdc40f7f40c1288",
+  "room": {
+    "id": 6943,
+    "title": [
+      "[The New Look, Distinctive Marks]"
+    ],
+    "description": [
+      "The strange emptiness of this portion of the tent gives it an even more ominous feel.  The only object is an upright wooden box just large enough to contain one person.  Its narrow door latches solidly on the outside."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6941": "southwest",
+      "6942": "south"
+    },
+    "timeto": {
+      "6941": 0.2,
+      "6942": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      9006312
+    ]
+  }
+}

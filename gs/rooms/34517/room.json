@@ -1,0 +1,45 @@
+{
+  "checksum": "d88eae3905c5b2082fbdcf61312bdeca",
+  "room": {
+    "id": 34517,
+    "title": [
+      "[Bleaklands, Nightmare Cavern]"
+    ],
+    "description": [
+      "The uneven earthen ground descends sharply, narrowing as it does before opening into an immense cavern.  Columns of stalagmites rise from the floor, rugged and twisted like jagged, broken teeth.  A faint, dark mist blankets the area, creeping along the base of the rock pillars."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Bleaklands",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "34507": "out",
+      "34518": "northwest",
+      "34522": "northeast"
+    },
+    "timeto": {
+      "34507": 0.2,
+      "34518": 0.2,
+      "34522": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      474230
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      135,
+      374,
+      144,
+      385
+    ]
+  }
+}

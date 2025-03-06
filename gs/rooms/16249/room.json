@@ -1,0 +1,29 @@
+{
+  "checksum": "39a3dcd19e08fd96d0d43617267b23a3",
+  "room": {
+    "id": 16249,
+    "title": [
+      "[Karazja Jungle, Stone Ruins]"
+    ],
+    "description": [
+      "The thick jungle foliage gives way to a fairly open area dotted with blocks of stone and bits of debris, clearly the remnants of some ancient building.  Part of one wall remains standing, though it leans precariously.  Vines grow in profusion, covering the blocks of stone and creeping up the wall."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16248": "east",
+      "16250": "northwest",
+      "16251": "west"
+    },
+    "timeto": {
+      "16248": 0.2,
+      "16250": 0.2,
+      "16251": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

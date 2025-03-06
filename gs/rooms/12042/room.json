@@ -1,0 +1,55 @@
+{
+  "checksum": "0391d85663077f1675625b0caad17239",
+  "room": {
+    "id": 12042,
+    "title": [
+      "[Old Ta'Faendryl, Alley]"
+    ],
+    "description": [
+      "The path weaves between high piles of baked bricks, dirt and windblown debris.  Towering walls rise on either side of the path, looming darkly above the remains of what may have once been small residential buildings lining this narrow alley.",
+      "The path weaves between high piles of baked bricks, dirt and windblown debris.  Towering walls rise on either side of the path, shadowing the remains of what may have once been small residential buildings lining this narrow alley."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "12041": "south",
+      "12043": "north"
+    },
+    "timeto": {
+      "12041": 0.2,
+      "12043": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004027
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      1119,
+      591,
+      1129,
+      601
+    ]
+  }
+}

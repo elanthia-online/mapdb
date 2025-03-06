@@ -1,0 +1,30 @@
+{
+  "checksum": "00e0f779ada5cf6f84ced8b3c0a0c9bd",
+  "room": {
+    "id": 18481,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "The slender rows of heavily burdened cornstalks begin to give way to huge bales of hay that have dried out in the noonday sun.  Garlands of flowers have been festooned across the sides of the hay bales, giving them a more festive appearance."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18468": "northeast",
+      "18480": "southwest",
+      "18482": "southeast"
+    },
+    "timeto": {
+      "18468": 0.2,
+      "18480": 0.2,
+      "18482": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "8366de93992359d6089fdeb3a08af7b0",
+  "room": {
+    "id": 3328,
+    "title": [
+      "[Icemule, Ruins]"
+    ],
+    "description": [
+      "Your breath echoes off the walls of this huge chamber.  At the north side stands a large temple.  An immense plate of ice sits atop it, slowly crushing the finely varnished wood.  Colored glass litters the floor, forced from the windows by the pressure the ice is putting on the structure.  You cannot help but marvel that the building still stands, and wonder if perhaps it is only faith that allows it to do so."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Glacier",
+    "wayto": {
+      "3327": "northeast",
+      "3329": "northwest"
+    },
+    "timeto": {
+      "3327": 0.2,
+      "3329": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root"
+    ],
+    "uid": [
+      4130017
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      1391,
+      970,
+      1401,
+      980
+    ]
+  }
+}

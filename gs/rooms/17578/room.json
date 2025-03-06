@@ -1,0 +1,77 @@
+{
+  "checksum": "d64f57f60b8bd415901c8d936cd62aa2",
+  "room": {
+    "id": 17578,
+    "title": [
+      "[Mist Harbor, Southern Walk]"
+    ],
+    "description": [
+      "A tall fence continues to run southward, separating the dirt pathway from what lies beyond it.  At the top of the fence, scratch marks can be seen just along the rim.  Swarms of flies float in and out, searching through the dark foliage that creeps along the ground."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "temperate",
+    "terrain": "tropical",
+    "wayto": {
+      "17577": "northeast",
+      "20887": "go fence",
+      "30718": "/rooms/17578/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "17577": 0.2,
+      "20887": 0.2,
+      "30718": "/rooms/17578/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "acantha leaf",
+      "luckbloom blossom",
+      "murdroot",
+      "wavepetal blossom",
+      "twisted twig",
+      "slender twig",
+      "ebony twig",
+      "talneo root",
+      "brostheras grass",
+      "bur-clover root",
+      "red cherries",
+      "small lime",
+      "yellow lemon",
+      "small coconut",
+      "raw almonds",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "yellow papaya",
+      "orange-yellow starfruit",
+      "red-green mango",
+      "purple passion fruit",
+      "red lychee",
+      "green guava",
+      "ghost pepper",
+      "hot pepper",
+      "small green quenepas",
+      "vibrant green plantain",
+      "bright yellow plantain",
+      "cone-shaped pineapple",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3210103
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2634,
+      2586,
+      2668,
+      2615
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "3802ce08792065e5d16b102aded5f459",
+  "room": {
+    "id": 27031,
+    "title": [
+      "[Citizens' Tent, Reception]"
+    ],
+    "description": [
+      "Town citizens mill about the open space of the tent, weaving in between the support poles and engaging in idle chatter.  A few individuals cluster near a large announcement board, gossiping loudly.  The distinct smell of freshly baked tarts wafts from a snowflake-carved modwir refreshment cart in one corner of the room.  Near the rear of the tent, an icicle-engraved fel box stocked with tinder rests next to an iron brazier.  The atmosphere lends a potential respite from the cold just outside."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2410": "go out",
+      "27032": "go snow curtain",
+      "27033": "go ice curtain"
+    },
+    "timeto": {
+      "2410": 0.2,
+      "27032": 0.2,
+      "27033": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Icemule Trace",
+      "citizen lounge"
+    ],
+    "uid": [
+      4043951
+    ]
+  }
+}

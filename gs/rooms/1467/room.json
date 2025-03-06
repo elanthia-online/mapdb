@@ -1,0 +1,46 @@
+{
+  "checksum": "44e12d428c567c2decaea08fa42b8c12",
+  "room": {
+    "id": 1467,
+    "title": [
+      "[Solhaven, Nerite Lane]"
+    ],
+    "description": [
+      "The long, gambrel-roofed bulk of the Scribners' Hall fills the north side of Nerite Lane, the gleam from its row of glaes-paned dormers lending brightness to an otherwise drab building."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1464": "east",
+      "1465": "west",
+      "9062": "go building",
+      "13174": "go gap",
+      "25677": "go hovel"
+    },
+    "timeto": {
+      "1464": 0.2,
+      "1465": 0.2,
+      "9062": 0.2,
+      "13174": 0.2,
+      "25677": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209053
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1185,
+      702,
+      1209,
+      726
+    ]
+  }
+}

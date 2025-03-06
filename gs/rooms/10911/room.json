@@ -1,0 +1,39 @@
+{
+  "checksum": "9fae907e4fbb8b12c2c1d4cde789f711",
+  "room": {
+    "id": 10911,
+    "title": [
+      "[River's Rest Bank, Teller]"
+    ],
+    "description": [
+      "Unlike the other buildings in this town, this one is built of stone blocks, and decorated with wood beams.  When you realize that it is protecting the wealth of all who do business here, you can understand why.  Heavily armed guards watch over the lobby although you notice one flirting with a pretty elven teller who is currently between customers.  The window she is standing at is protected by heavy metal bars and appears to be very secure."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10850": "out",
+      "10912": "go door",
+      "10915": "go office",
+      "30711": "/rooms/10911/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10850": 0.2,
+      "10912": 0.2,
+      "10915": 0.2,
+      "30711": "/rooms/10911/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "bank",
+      "urchin-access",
+      "urchin guide bank",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101904
+    ]
+  }
+}

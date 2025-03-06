@@ -1,0 +1,37 @@
+{
+  "checksum": "59df33432e2040be7c8e79ea8f52a9c8",
+  "room": {
+    "id": 8009,
+    "title": [
+      "[Kobold Mines, Oil Room]"
+    ],
+    "description": [
+      "The walls and floor here are coated with a thick layer of oil and grease.  Broken barrels and slashed-open skins each in a puddle of stinking lubricant, along with heaps of moldy oil-soaked rags, lead you to believe this room held the various things needed to keep equipment from the quick death by rust that is common in caves."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the old Mine Road",
+    "wayto": {
+      "8008": "south"
+    },
+    "timeto": {
+      "8008": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      401015
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      105,
+      890,
+      115,
+      900
+    ]
+  }
+}

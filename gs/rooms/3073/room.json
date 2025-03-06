@@ -1,0 +1,41 @@
+{
+  "checksum": "56211d2b2ac32a9bbbc93c51654210f3",
+  "room": {
+    "id": 3073,
+    "title": [
+      "[Icemule Trace, Snowfield Slope]"
+    ],
+    "description": [
+      "Chill wind blows across the slope, kicking up shifting drifts of snow that nearly obscure the path.  Something that might be the town wall of Icemule Trace is faintly visible through the flurries to the west, and the weather seems clearer further up the slope to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3072": "southwest",
+      "3074": "northeast"
+    },
+    "timeto": {
+      "3072": 0.2,
+      "3074": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      704136
+    ],
+    "image": "imt-homes-1264234799.png",
+    "image_coords": [
+      172,
+      968,
+      192,
+      988
+    ]
+  }
+}

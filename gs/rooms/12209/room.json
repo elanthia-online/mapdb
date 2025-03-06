@@ -1,0 +1,50 @@
+{
+  "checksum": "2b8c22d0dfd8851f2469c229c93c0e1c",
+  "room": {
+    "id": 12209,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Worms practically cover the walls and floor.  The rhythmically collapsing walls shake some from the ceiling as well, dropping them around you to chew their way into the floor.  A disconcerting, whistling wheeze sounds throughout the area, as wind howls through the holes in the chamber.  Blood oozes over the floor northward."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest",
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2579": "/rooms/12209/wayto/stringproc-2579.rb",
+      "12170": "southwest",
+      "12208": "northeast",
+      "12215": "northwest"
+    },
+    "timeto": {
+      "2579": 6.8,
+      "12170": 0.2,
+      "12208": 0.2,
+      "12215": 0.2
+    },
+    "tags": [
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4570010
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      856,
+      1108,
+      866,
+      1118
+    ]
+  }
+}

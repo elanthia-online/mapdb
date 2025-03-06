@@ -1,0 +1,46 @@
+{
+  "checksum": "b3cc89374fa9423c624faffb0e49a862",
+  "room": {
+    "id": 8181,
+    "title": [
+      "[Mine, Crystal Caves]"
+    ],
+    "description": [
+      "The hard-packed dirt and dull grey stone that form the walls in so much of the mines are nowhere to be found here.  Instead, outcroppings of crystals of every size and color dazzle you, glinting with light from an unseen source.  Quartz, citrine and amethyst glow gently, bathing you in jewel-like hues."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8180": "go fissure",
+      "8182": "down"
+    },
+    "timeto": {
+      "8180": 0.2,
+      "8182": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24058
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      978,
+      419,
+      988,
+      429
+    ]
+  }
+}

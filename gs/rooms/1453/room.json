@@ -1,0 +1,51 @@
+{
+  "checksum": "bb620fe2cf4ee060c26bfae51763c5ce",
+  "room": {
+    "id": 1453,
+    "title": [
+      "[Solhaven, North Market East]"
+    ],
+    "description": [
+      "A brown awning stretches across the front of the large stone building here.  Hanging above the entrance is a metal breastplate, rusted from exposure to the salty sea air.  Two giantmen, deeply engrossed in conversation, lean casually against the building."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1438": "west",
+      "1448": "north",
+      "1454": "east",
+      "1460": "south",
+      "12813": "go entrance",
+      "30710": "/rooms/1453/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1438": 0.2,
+      "1448": 0.2,
+      "1454": 0.2,
+      "1460": 0.2,
+      "12813": 0.2,
+      "30710": "/rooms/1453/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "trash",
+      "meta:trashcan:green and white oak barrel",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209031
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1002,
+      576,
+      1026,
+      600
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "477ef013064e16511c9e79be12fab4f3",
+  "room": {
+    "id": 1957,
+    "title": [
+      "[Kharam-Dzu, Town Gates]"
+    ],
+    "description": [
+      "A sturdy wooden gate is set into the massive stone walls surrounding Kharam-Dzu.  Mail-clad guards with pikes and heavy crossbows pace back and forth atop the walls.  Dwarves, burros and the odd giantman or human travel the broad cobblestone street which leads south into town.  A squad of dwarven militia drills on the small, rocky parade ground to the east.  A cloud of dust surrounds them as they march to and fro, and the gruff barks of their sergeant blend with the din of the crowd at the gate.",
+      "A sturdy wooden gate is set into the massive stone walls surrounding Kharam-Dzu.  Mail-clad guards with pikes and heavy crossbows pace back and forth atop the walls.  Dwarves, burros and the odd giantman or human travel the broad cobblestone street which leads south into town.  A squad of dwarven militia drills on the small, rocky parade ground to the east.  A cloud of dust surrounds them as they march to and fro, the sound of their marching barely audible over the din of the crowd at the gate."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1956": "south",
+      "1991": "go gate",
+      "30715": "/rooms/1957/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1956": 0.2,
+      "1991": 0.2,
+      "30715": "/rooms/1957/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "advguard",
+      "urchin-access",
+      "urchin guide guard",
+      "urchin guide gate",
+      "guard",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001046
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1033,
+      162,
+      1069,
+      198
+    ]
+  }
+}

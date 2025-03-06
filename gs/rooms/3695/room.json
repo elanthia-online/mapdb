@@ -1,0 +1,42 @@
+{
+  "checksum": "9d0762565d0f3c0aa76dd7609e092474",
+  "room": {
+    "id": 3695,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The cold, stone floor is slick with damp and slime, and it is hard not to slip and fall as you travel the sloping passage.  Hundreds of pairs of small, glowing yellow eyes watch your progress from tiny fissures in the rock walls."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3694": "northeast",
+      "3696": "west"
+    },
+    "timeto": {
+      "3694": 0.2,
+      "3696": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42021
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      336,
+      1260,
+      346,
+      1270
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "26488df08b5dd2332b2176688a0029ba",
+  "room": {
+    "id": 20219,
+    "title": [
+      "[Miasmic Verge, Outer Swamp]"
+    ],
+    "description": [
+      "Broken limbs lie in scattered heaps across the soggy ground, their ends clawed and chewed upon by some unseen animal.  A narrow tree-enshrouded path leads further into a thick wooded pass, away from the swamp.  Sprouting out of their rotting expanses are tubes of wild mushrooms with cup-shaped heads and blue-green blades of wildrye.  A thin trail of stones winds its way through the slogging mud and provides a solid means of egress from the area."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest",
+      "Obvious paths: northeast, northwest",
+      "Obvious paths: northwest",
+      "Obvious paths: north, west",
+      "Obvious paths: southeast, south",
+      "Obvious paths: east",
+      "Obvious paths: east, west"
+    ],
+    "location": "The Miasmic Verge",
+    "wayto": {
+      "20079": "go path",
+      "22830": "east",
+      "24242": "go log",
+      "24326": "west"
+    },
+    "timeto": {
+      "20079": 0.2,
+      "22830": 0.2,
+      "24242": 0.2,
+      "24326": 0.2
+    }
+  }
+}

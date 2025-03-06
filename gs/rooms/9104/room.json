@@ -1,0 +1,42 @@
+{
+  "checksum": "828ff668896bd04bef65be003d1021e7",
+  "room": {
+    "id": 9104,
+    "title": [
+      "[Great Cavern, Stalagmite Forest]"
+    ],
+    "description": [
+      "The massive stalagmites stretch up toward the ceiling.  In most places you cannot make out their tips, as a cloud-like fog rolls about the cavern's ceiling.  Another layer of fog obscures your feet, hovering a yard off the floor.  Below and above the air is relatively clear."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, southwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9102": "southeast",
+      "9103": "east",
+      "9105": "north",
+      "9106": "southwest"
+    },
+    "timeto": {
+      "9102": 0.2,
+      "9103": 0.2,
+      "9105": 0.2,
+      "9106": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045213
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      117,
+      543,
+      127,
+      553
+    ]
+  }
+}

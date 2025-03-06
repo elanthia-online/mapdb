@@ -1,0 +1,41 @@
+{
+  "checksum": "4a7012cfecc63dd3a5fb09c25120daf3",
+  "room": {
+    "id": 6454,
+    "title": [
+      "[Abandoned Mine, Cavern]"
+    ],
+    "description": [
+      "The northern wall of the cavern is shadowed by the unusually large formation of stalagmites in the center of the chamber.  Even so, the colors are vibrant and rich beyond compare."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, south"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6453": "northeast",
+      "6455": "south",
+      "6456": "southeast"
+    },
+    "timeto": {
+      "6453": 0.2,
+      "6455": 0.2,
+      "6456": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      485007
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1280,
+      135,
+      1290,
+      145
+    ]
+  }
+}

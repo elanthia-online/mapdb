@@ -1,0 +1,28 @@
+{
+  "checksum": "0f845d470b4bd1f0ea31a08d57bd692e",
+  "room": {
+    "id": 4458,
+    "title": [
+      "[Topaz Level, Chute]"
+    ],
+    "description": [
+      "The steepness of the floor is such that extreme care must be taken to navigate it.  A wide metal chute runs parallel to the passage, carrying murky water towards the bottom of the mine.  Occasionally, a tool or sack will rattle down the steel slide as well."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4444": "down",
+      "4459": "up"
+    },
+    "timeto": {
+      "4444": 0.2,
+      "4459": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

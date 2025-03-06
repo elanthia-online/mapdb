@@ -1,0 +1,39 @@
+{
+  "checksum": "cc7526e957b42f58ae81218207083c40",
+  "room": {
+    "id": 30397,
+    "title": [
+      "[Western Waterway, White Escape]"
+    ],
+    "description": [
+      "Varying in level, the water's depth changes as the waves push towards the shore.  Moonlight glints off of the white sands of a beach to the southeast.  Swirling about, the currents make safe passage impossible."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30396": "pedal southwest",
+      "30398": "pedal northwest"
+    },
+    "timeto": {
+      "30396": 6,
+      "30398": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216188
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      614,
+      3317,
+      633,
+      3331
+    ]
+  }
+}

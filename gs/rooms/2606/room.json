@@ -1,0 +1,56 @@
+{
+  "checksum": "e5cf51ebe25d60b10a3eff42609f9ca0",
+  "room": {
+    "id": 2606,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A small, faded festival tent has been set up in a patch of grass here.  The tent covers several long tables with cakes and pastries arranged on them.  Behind and to the sides of the tent, couples dance together, completely oblivious to your presence.  The crowd of revelers moves stiffly, like puppets under the hand of a new master.  Slowly they all turn and look at you, lifeless eyes pleading for release from this grim masquerade, then return to their partners in resignation as the dance continues."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest",
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2600": "northwest",
+      "2605": "east",
+      "2607": "southwest",
+      "2635": "/rooms/2606/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2606/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2606/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2600": 0.2,
+      "2605": 0.2,
+      "2607": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4566022
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      106,
+      751,
+      114,
+      759
+    ]
+  }
+}

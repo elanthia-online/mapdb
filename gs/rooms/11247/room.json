@@ -1,0 +1,38 @@
+{
+  "checksum": "d4003f7982ce4d066bf0398d0747135b",
+  "room": {
+    "id": 11247,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "Footprints mar the tiled floor of the hallway.  The words \"Staff Only\" are painted on the wall beside a narrow set of wooden stairs.  The lower stair railings have been indiscriminately hacked and chopped."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11229": "east",
+      "11248": "go stairs"
+    },
+    "timeto": {
+      "11229": 0.2,
+      "11248": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377207
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      110,
+      574,
+      120,
+      584
+    ]
+  }
+}

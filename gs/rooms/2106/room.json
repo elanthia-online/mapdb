@@ -1,0 +1,41 @@
+{
+  "checksum": "1ddf17d7372cfbc78a5132cd00b2ec19",
+  "room": {
+    "id": 2106,
+    "title": [
+      "[Fhorian Village, Warehouse]"
+    ],
+    "description": [
+      "This small office has been completely dismantled in a very thorough, if not destructive, fashion.  The drawers from a large desk have been pulled out, and their contents strewn about the room.  Yellowed ledgers, books, and old receipts flutter with each gust of wind that wafts through the building.  A dark stain in the middle of the room appears to be dried ink at first glance, but a vaguely gruesome sense of curiosity makes you look again."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, out"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2100": "out",
+      "2103": "north",
+      "2104": "northeast",
+      "2105": "east"
+    },
+    "timeto": {
+      "2100": 0.2,
+      "2103": 0.2,
+      "2104": 0.2,
+      "2105": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030042
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      870,
+      1286,
+      878,
+      1294
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "8773926343c4ab799e22db0410587344",
+  "room": {
+    "id": 17820,
+    "title": [
+      "[Warehouse]"
+    ],
+    "description": [
+      "Two well-dressed elves keep a close eye on the area.  The elder of the pair gestures at different spots about the chamber, perhaps discussing renovations or repairs.",
+      "Moonlight filters in through the few un-boarded windows, the scant illumination augmented by several sconces.  A small child sits in one corner, counting out silvers."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17816": "south",
+      "17821": "go door"
+    },
+    "timeto": {
+      "17816": 0.2,
+      "17821": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      267120
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      387,
+      529,
+      428,
+      569
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "847d76a92875f8313ca1d0c2e4f71771",
+  "room": {
+    "id": 7385,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "A decaying fel tree has smashed into the remains of a large rotting barn surrounded by a few smaller buildings.  A cold biting wind blows by, chilling you to the bone."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7363": "southeast",
+      "7364": "northeast",
+      "7388": "southwest"
+    },
+    "timeto": {
+      "7363": 0.2,
+      "7364": 0.2,
+      "7388": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160030
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1279,
+      1101,
+      1289,
+      1111
+    ]
+  }
+}

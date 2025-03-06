@@ -1,0 +1,58 @@
+{
+  "checksum": "2025da58219e6f548d128e870947262b",
+  "room": {
+    "id": 6109,
+    "title": [
+      "[A Mountain Trail]"
+    ],
+    "description": [
+      "The trail here is barely passable, probably due to the avalanche that occurred here many years ago."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "the Upper Dragonsclaw",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6108": "go trail",
+      "6110": "/rooms/6109/wayto/stringproc-6110.rb",
+      "7922": "up"
+    },
+    "timeto": {
+      "6108": 0.2,
+      "6110": 0.2,
+      "7922": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "sweetfern stalk",
+      "marallis berry",
+      "wild pink geranium",
+      "golden aster",
+      "ironfern root",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "sprig of larkspur",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "dwarf billberry",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      8030
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      305,
+      1201,
+      315,
+      1211
+    ]
+  }
+}

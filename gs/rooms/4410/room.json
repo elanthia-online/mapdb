@@ -1,0 +1,30 @@
+{
+  "checksum": "bb0e1e3b780739a2c64ce17a4a38a7af",
+  "room": {
+    "id": 4410,
+    "title": [
+      "[Well In Hand]"
+    ],
+    "description": [
+      "Abundantly plain and drab, the floor of the shop is nothing more than plank boards set in place with tarnished nails.  Similarly, old, grey pieces of tongue-and-groove board comprise the walls, which are adorned with naught but a scattering of iron-mounted torches.  Soot and ash cling to the ceiling, discoloring the wood and infusing the entire area with the lingering aroma of smoke."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4409": "out",
+      "4411": "west",
+      "4412": "east"
+    },
+    "timeto": {
+      "4409": 0.2,
+      "4411": 0.2,
+      "4412": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

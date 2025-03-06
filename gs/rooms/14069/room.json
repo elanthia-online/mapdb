@@ -1,0 +1,43 @@
+{
+  "checksum": "383e3d6dcb026c9ea5ec87edf6dbafcf",
+  "room": {
+    "id": 14069,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "A large earthen kiln sits just off the path to the south.  Next to the kiln, a wood covered lean-to with four potter's wheels under it has been recently set up.  You also notice a stout wooden door leading into the northwest castle tower."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14068": "east",
+      "14070": "go door",
+      "14071": "south"
+    },
+    "timeto": {
+      "14068": 0.2,
+      "14070": 0.2,
+      "14071": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750039
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      651,
+      224,
+      661,
+      234
+    ]
+  }
+}

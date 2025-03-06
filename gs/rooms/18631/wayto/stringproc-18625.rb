@@ -1,0 +1,2 @@
+move "out"
+move "east"

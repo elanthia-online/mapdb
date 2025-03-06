@@ -1,0 +1,38 @@
+{
+  "checksum": "d198f6c6c0e18a400e8af9df17f3f78a",
+  "room": {
+    "id": 16768,
+    "title": [
+      "[Temple Wyneb, Effluentorium]"
+    ],
+    "description": [
+      "The air is laden with moisture from the broad, sluggish stream coursing along the floor.  Condensation drips from the ceiling and beads the walls."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16767": "south",
+      "16769": "north"
+    },
+    "timeto": {
+      "16767": 0.2,
+      "16769": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300047
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      663,
+      599,
+      673,
+      609
+    ]
+  }
+}

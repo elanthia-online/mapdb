@@ -1,0 +1,25 @@
+{
+  "checksum": "c6df426ecd3c6473e89a40dc4bafcdac",
+  "room": {
+    "id": 21393,
+    "title": [
+      "[I Do Eclair!, Front Counter]"
+    ],
+    "description": [
+      "Beneath a dusty banner stretched across the room, a set of glass display cases stand opposite a tall curio cabinet on rotting cypress floors that have been hastily whitewashed.  A row of hooks adorns the otherwise bare wall behind a long counter with tall hardwood stools clustered in front of it."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20321": "out",
+      "21394": "go counter"
+    },
+    "timeto": {
+      "20321": 0.2,
+      "21394": 0.2
+    },
+    "check_location": false
+  }
+}

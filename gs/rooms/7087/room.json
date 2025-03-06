@@ -1,0 +1,44 @@
+{
+  "checksum": "b12710da75bd0e626a0aa40d689aa7c0",
+  "room": {
+    "id": 7087,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Dust and pebbles are scattered across the intersection, and appear to get thicker to the west.  A thin crack runs across the ceiling; the western side of the crack is visibly lower than the eastern side."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7086": "west",
+      "7088": "south",
+      "7097": "east"
+    },
+    "timeto": {
+      "7086": 0.2,
+      "7088": 0.2,
+      "7097": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44023
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      920,
+      897,
+      930,
+      907
+    ]
+  }
+}

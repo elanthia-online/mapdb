@@ -1,0 +1,34 @@
+{
+  "checksum": "2b8f239682e42d5b967c3ada607ff5e0",
+  "room": {
+    "id": 12905,
+    "title": [
+      "[Velathae, East Sunrise Road]"
+    ],
+    "description": [
+      "A winding path cuts through the dense woods that strangle the light of a nearby lantern post, turning away from the shadowed, rotting wooden bridge to the northeast.  Unnatural shrieks and cries echo from the trees nearby, but the thickness of the foliage prevents finding the source of the noise.  Pairs of pale yellow and dark red eyes gleam occasionally from the light of the lantern, but vanish quickly as they dart to and from different portions of the forest."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12904": "northwest",
+      "12906": "south"
+    },
+    "timeto": {
+      "12904": 0.2,
+      "12906": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ],
+    "image_coords": [
+      1373,
+      255,
+      1399,
+      281
+    ]
+  }
+}

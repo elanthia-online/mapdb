@@ -1,0 +1,43 @@
+{
+  "checksum": "65e02ded34b6662962bb1bf702fa2693",
+  "room": {
+    "id": 30062,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "The fleshless remains of a gigas skeleton are scattered across the rough ground of the burrow, the bones eaten away in places and sucked clean of marrow.  Lengths of goopy wormsilk cling to the bones like a poorly made robe, their phosphorescence casting strange shadows around the remains.  Nearby, a huge spear with a broken obsidian tip lies tangled in the radiant gunk."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30060": "northeast",
+      "30061": "north",
+      "30063": "southeast",
+      "30064": "east"
+    },
+    "timeto": {
+      "30060": 0.2,
+      "30061": 0.2,
+      "30063": 0.2,
+      "30064": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503483
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      740,
+      228,
+      755,
+      243
+    ]
+  }
+}

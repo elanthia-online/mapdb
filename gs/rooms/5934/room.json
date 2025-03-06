@@ -1,0 +1,48 @@
+{
+  "checksum": "1c46b00b56e2148bc0c03cdcc5908106",
+  "room": {
+    "id": 5934,
+    "title": [
+      "[Catacombs, Serpent's Den]"
+    ],
+    "description": [
+      "A huge snake pit dominates this area.  Near the pit lies a pool of murky water filled with more snakes.  It is impossible to determine which direction the reptiles are moving as they splash in the foul smelling fluid."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5933": "southeast",
+      "5935": "northwest"
+    },
+    "timeto": {
+      "5933": 0.2,
+      "5935": 0.2
+    },
+    "tags": [
+      "some bolmara lichen",
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009031
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      315,
+      791,
+      325,
+      801
+    ]
+  }
+}

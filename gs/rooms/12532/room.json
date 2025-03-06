@@ -1,0 +1,35 @@
+{
+  "checksum": "f8a8c0219c965cf5cbc58cea77f4aed8",
+  "room": {
+    "id": 12532,
+    "title": [
+      "[Swimming Hole, Rocky Path]"
+    ],
+    "description": [
+      "Large, water-smoothed stones lie neatly to form a path.  The stones range in color from subdued blues to fiery reds.  A pair of trees flank the path, breaking the moonlight.",
+      "Large, water-smoothed stones lie neatly to form a path.  The stones range in color from subdued blues to fiery reds.  A pair of trees flank the path, spreading shade throughout the area."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the old Logging Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1943": "go path",
+      "12533": "north"
+    },
+    "timeto": {
+      "1943": 0.2,
+      "12533": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3011001
+    ]
+  }
+}

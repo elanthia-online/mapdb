@@ -1,0 +1,41 @@
+{
+  "checksum": "de9e1eb0082c711e7baaf9bf1d10b78f",
+  "room": {
+    "id": 9490,
+    "title": [
+      "[J.M. and Descendants, Foyer]"
+    ],
+    "description": [
+      "A small, entry room forms a T-shaped intersection with larger shops to the north and south.  Occasionally the sound of metal grinding on metal comes from either direction, and sometimes from both directions simultaneously.  Overhead, a large, tightly woven metal mesh cage houses a goodly number of fireflies, and their winking on and off illuminates the room with a soft strobe effect.  A metal sign affixed to the west wall offers a directory of services, and a heavy black door provides an exit."
+    ],
+    "paths": [
+      "Obvious exits: north, south",
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "1002": "go door",
+      "9491": "north",
+      "9492": "south"
+    },
+    "timeto": {
+      "1002": 0.2,
+      "9491": 0.2,
+      "9492": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13010016
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      766,
+      585,
+      776,
+      595
+    ]
+  }
+}

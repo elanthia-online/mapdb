@@ -1,0 +1,29 @@
+{
+  "checksum": "3ab9afaaef2aa11f9d2f91a6a5fd2ae0",
+  "room": {
+    "id": 16539,
+    "title": [
+      "[Gibreficul's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by thick slate walls, the shop features an intricate sea creatures display in the center of its slate floor.  A Four Winds Isle map hangs under the skylight-set ceiling.  Right near the front is a heavy ale barrel and a salt-crusted sandstone case."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12267": "out",
+      "16591": "northeast",
+      "20472": "northwest"
+    },
+    "timeto": {
+      "12267": 0.2,
+      "16591": 0.2,
+      "20472": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

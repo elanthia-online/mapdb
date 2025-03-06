@@ -1,0 +1,29 @@
+{
+  "checksum": "8f2f59e3a0d2ee1204c82ba995c76047",
+  "room": {
+    "id": 15832,
+    "title": [
+      "[Lalan's Magic Shoppe]"
+    ],
+    "description": [
+      "A midnight blue rising phoenix tapestry hangs on one of the pale oak walls, and a varnished oak ceiling rises overhead.  A thin gold-edge black runner sits in one corner of a polished oak floor.  There is a long carved oak counter on one side of the shop and a Vornavian silk-lined display case on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2379": "out",
+      "15896": "south",
+      "15897": "north"
+    },
+    "timeto": {
+      "2379": 0.2,
+      "15896": 0.2,
+      "15897": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

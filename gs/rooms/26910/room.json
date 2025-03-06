@@ -1,0 +1,40 @@
+{
+  "checksum": "78493fc2948fca094741dcebacb49fe8",
+  "room": {
+    "id": 26910,
+    "title": [
+      "[Black Hand, Draccor's Haunt]",
+      "[Black Hand, Game Room]"
+    ],
+    "description": [
+      "The energy of the cavern echoes off the walls as patrons are camouflaged under a thick haze of hazelnut cigar smoke.  Sanguine leather bar stools line a sturdy ebonwood bar that curves outward to provide ample room behind the bar for shelves of various liquor from across Elanthia.  The expansive floor plan opens up to reveal a dart board, which receives the only splash of light in the grotto.  A dimly lit inlet in the rock houses a series of sleek cream leather booths creating an intimate atmosphere."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "26909": "go hole",
+      "26911": "/rooms/26910/wayto/stringproc-26911.rb",
+      "26912": "east"
+    },
+    "timeto": {
+      "26909": 0.2,
+      "26911": 3,
+      "26912": 0.2
+    },
+    "tags": [
+      "meta:mho:The Black Hand Trading Co."
+    ],
+    "uid": [
+      18018005
+    ],
+    "image": "wl-black_hand-1527320047.png",
+    "image_coords": [
+      432,
+      732,
+      586,
+      862
+    ]
+  }
+}

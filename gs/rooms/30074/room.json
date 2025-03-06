@@ -1,0 +1,39 @@
+{
+  "checksum": "8bfd0acb6e3c431347d4cfb5a0e2a6ce",
+  "room": {
+    "id": 30074,
+    "title": [
+      "[Angargreft, Spirit Walk]"
+    ],
+    "description": [
+      "Part of the ceiling has collapsed into the hallway.  A fallen monolith, almost as wide as the corridor, supports what remains of the structure's integrity.  The monolith is scored with many claw marks that look to have pierced its hard stone with terrifying ease."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30073": "south",
+      "30075": "northeast"
+    },
+    "timeto": {
+      "30073": 0.2,
+      "30075": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503426
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      740,
+      428,
+      755,
+      443
+    ]
+  }
+}

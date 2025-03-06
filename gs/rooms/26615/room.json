@@ -1,0 +1,33 @@
+{
+  "checksum": "918f7085335d39bd7037d88010741cbc",
+  "room": {
+    "id": 26615,
+    "title": [
+      "[Caligos Isle, Shadowed Grotto]"
+    ],
+    "description": [
+      "A ring of dying torches flickers through the grotto, the flames casting elongated shadows over the pale greenish waters.  A crumbling curved stairway cuts alongside the underground pool, the ramp briefly concealed as the torches threaten to be extinguished by the rivulets of liquid dripping from the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: west, down"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26614": "west",
+      "26616": "go stairway",
+      "26617": "down"
+    },
+    "timeto": {
+      "26614": 0.2,
+      "26616": 0.2,
+      "26617": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      593,
+      252,
+      608,
+      266
+    ]
+  }
+}

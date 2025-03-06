@@ -1,0 +1,27 @@
+{
+  "checksum": "556108c9153ab39775f18ae25579fbc7",
+  "room": {
+    "id": 30491,
+    "title": [
+      "[Looter's Lair, Landing]"
+    ],
+    "description": [
+      "Rough and irregular, the walls of the cavern are slightly slick and speckled with strange glittering stones.  Torches, which are set within wide iron rings, are set at even intervals down the length to provide ample illumination for those entering and exiting the docks.  Warm heat trickles into the narrow space from somewhere to the northeast."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "30490": "go dock",
+      "30492": "northeast"
+    },
+    "timeto": {
+      "30490": 0.2,
+      "30492": 0.2
+    },
+    "uid": [
+      3217406
+    ]
+  }
+}

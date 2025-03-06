@@ -1,0 +1,44 @@
+{
+  "checksum": "6ab9b19d4fabf085eceb01636b12afb0",
+  "room": {
+    "id": 3429,
+    "title": [
+      "[Tavern Burrow, Stout Street]"
+    ],
+    "description": [
+      "The rear entrance to the gaming hall is nearly as resplendent as its main one.  Espaliered wintercrisp apple trees grow to either side of the massive dark modwir doors.  Bright green apples weigh down their branches, but not a single fruit has been suffered to splatter the cobblestones below.  A smiling attendant in silver and blue waves at passerby.",
+      "The rear entry to the Silvermule Gaming Hall is nearly as impressive as the main entrance.  Espaliered pear trees grow to either side of the massive doors, with silvery fruit affixed to their branches.  A smiling attendant in silver and blue waves at you as you pass by."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2408": "north",
+      "3430": "go rear entrance",
+      "3436": "south"
+    },
+    "timeto": {
+      "2408": 0.2,
+      "3430": 0.2,
+      "3436": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042209
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      493,
+      966,
+      529,
+      1002
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "2d0e8a24f9a37fb0197aeedd03e14383",
+  "room": {
+    "id": 10938,
+    "title": [
+      "[Hortinger's Armory, Armaments]"
+    ],
+    "description": [
+      "A young man in a thick leather apron is obviously overworked as he hurries about, trying to aid the roomful of customers that are browsing through the racks and trunks of weapons.  Finely crafted armor hangs on sturdy hooks on the wall, and a variety of other accoutrements are displayed on counters and tables.  Draped across the wall over the armor display, an old, tattered pirate's flag is a clear warning to any potential thieves."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10937": "east",
+      "30711": "/rooms/10938/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10937": 0.2,
+      "30711": "/rooms/10938/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide armor",
+      "armor",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101908
+    ],
+    "image_coords": [
+      693,
+      669,
+      719,
+      695
+    ]
+  }
+}

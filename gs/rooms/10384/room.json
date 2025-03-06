@@ -1,0 +1,36 @@
+{
+  "checksum": "99f21e5ebbdf744dbe3ef1e1b8d22f38",
+  "room": {
+    "id": 10384,
+    "title": [
+      "[Malwith Inn, Entry]"
+    ],
+    "description": [
+      "Fine woodwork fills the grand entryway.  A large braided rug covers most of the wood floor.  Wood support beams along the ceiling are carved with various depictions of drakes in flight.  Lanterns hang from thick iron hooks attached to the beams.  To the north a grand desk can be seen."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "3517": "out",
+      "10385": "north",
+      "13312": "go stairway",
+      "30713": "/rooms/10384/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3517": 0.2,
+      "10385": 0.2,
+      "13312": 0.2,
+      "30713": "/rooms/10384/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide malwith",
+      "malwith"
+    ],
+    "uid": [
+      14102001
+    ]
+  }
+}

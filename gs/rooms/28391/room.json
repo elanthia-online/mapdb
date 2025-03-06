@@ -1,0 +1,27 @@
+{
+  "checksum": "a37fb221de1985c94586e77d985ecc6d",
+  "room": {
+    "id": 28391,
+    "title": [
+      "[Moonstone Abbey, Narrow Hall]"
+    ],
+    "description": [
+      "A crystal and wrought iron chandelier throws gentle shadows against the intricate carvings on the maoral walls, and the soft black carpeting absorbs the sound of your footfalls, adding to the calm."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28369": "south",
+      "28392": "north"
+    },
+    "timeto": {
+      "28369": 0.2,
+      "28392": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

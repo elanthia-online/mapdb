@@ -1,0 +1,38 @@
+{
+  "checksum": "c48bed7e7e4889f07736fabc7fc6f21b",
+  "room": {
+    "id": 24796,
+    "title": [
+      "[Helden Hall, Hallway]"
+    ],
+    "description": [
+      "Your footsteps echo on the stone floor as you walk along this hallway.  The north end stops at a large inscribed archway.  Torchlight flickers, causing the words inscribed on the stone to glow eerily."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3882": "go archway",
+      "22036": "south",
+      "24799": "go large door",
+      "24805": "go modwir door"
+    },
+    "timeto": {
+      "3882": 0.2,
+      "22036": 0.2,
+      "24799": 0.2,
+      "24805": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      361,
+      543,
+      400,
+      580
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "7458fd30e1203a214597928249dd55ec",
+  "room": {
+    "id": 25707,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Terminating at the edge of Charl's Teeth, the waves of the harbor crash against the sides of the island to the north and the obsidian wall that blocks passage to the south.  Dark shards rise from the ocean floor, their jagged edges creating a dangerous barrier that is ringed with floating refuse."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25706": "/rooms/25707/wayto/stringproc-25706.rb"
+    },
+    "timeto": {
+      "25706": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223884
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2001,
+      1999,
+      2021,
+      2019
+    ]
+  }
+}

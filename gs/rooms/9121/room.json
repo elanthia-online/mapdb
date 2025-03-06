@@ -1,0 +1,41 @@
+{
+  "checksum": "277e3139d16ff81c2e78934920798484",
+  "room": {
+    "id": 9121,
+    "title": [
+      "[Great Cavern, Bog]"
+    ],
+    "description": [
+      "A swarm of giant fireflies crawls over the surface of the east wall of the cavern.  Even through the thick fog, their combined luminescence is painful to eyes grown accustomed to making do with fainter shadows and shades of gray."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, west"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9115": "west",
+      "9118": "southwest",
+      "9119": "north"
+    },
+    "timeto": {
+      "9115": 0.2,
+      "9118": 0.2,
+      "9119": 0.2
+    },
+    "tags": [
+      "some orchil lichen",
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045227
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      225,
+      755,
+      235,
+      765
+    ]
+  }
+}

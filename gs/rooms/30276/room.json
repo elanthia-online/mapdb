@@ -1,0 +1,45 @@
+{
+  "checksum": "ac7e10e329836877c9de29f66a3cc892",
+  "room": {
+    "id": 30276,
+    "title": [
+      "[Rusty Cutlass, Grub Hall]"
+    ],
+    "description": [
+      "Burnished wooden planks curve out to form the massive hall of the tavern's entrance, with rows of sturdy oaken posts rising to connect with a network of rafters above.  Dozens of blackened oil lanterns hang from the ceiling, their light at times a haze behind wisps of smoke drifting in from the galley.  In the center rests a huge cast-iron pot surrounded by countless tables and barrel chairs.  A half-circle driftwood bar is nestled in the corner beneath a salt-stained crest."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "250": "go archway",
+      "30277": "southwest",
+      "30278": "west",
+      "30279": "go ramp"
+    },
+    "timeto": {
+      "250": 0.2,
+      "30277": 0.2,
+      "30278": 0.2,
+      "30279": 0.2
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336651
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      906,
+      494,
+      935,
+      523
+    ]
+  }
+}

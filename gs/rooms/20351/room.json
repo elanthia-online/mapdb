@@ -1,0 +1,24 @@
+{
+  "checksum": "243b4ce5de661e458468c0df8aa6abcc",
+  "room": {
+    "id": 20351,
+    "title": [
+      "[Feywrot Mire, Beyond the Brush]"
+    ],
+    "description": [
+      "The wild overgrowth here is briefly interrupted by the end of a faint path, which leads through the dense brush and toward the din and glow of the festival grounds.  The trail continues deeper into the mire, flanked closely by a wide variety of coarse vegetation."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20350": "go path",
+      "20373": "north"
+    },
+    "timeto": {
+      "20350": 0.2,
+      "20373": 0.2
+    }
+  }
+}

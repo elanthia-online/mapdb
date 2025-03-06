@@ -1,0 +1,42 @@
+{
+  "checksum": "51475dbd998e6c8e9a7524f3ef43e211",
+  "room": {
+    "id": 8551,
+    "title": [
+      "[Rubble Pile]"
+    ],
+    "description": [
+      "You are atop the huge rubble pile.  From here you can travel a few yards to the north or you can climb down to the valley floor to the south."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the foothills of Zeltoph",
+    "climate": "",
+    "terrain": "rough",
+    "wayto": {
+      "8550": "north",
+      "8552": "/rooms/8551/wayto/stringproc-8552.rb"
+    },
+    "timeto": {
+      "8550": 0.2,
+      "8552": 5.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      10103
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      1266,
+      647,
+      1276,
+      657
+    ]
+  }
+}

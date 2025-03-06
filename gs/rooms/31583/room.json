@@ -1,0 +1,47 @@
+{
+  "checksum": "7ed5ec5eb0d0b031430b7244dba8fb6b",
+  "room": {
+    "id": 31583,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Hunkering in the shadows at the edge of the city, a gated neighborhood sprawls within the confines of a wrought iron fence topped with warding sigils.  Painted symbols dapple the cobblestones closest to its entry, while brightly burning lanterns struggle to stave off the shadows that seem to push outward from the neighborhood.  A lone shop braves the miasmic air of the area, its windows filled with brightly burning lights."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31567": "southeast",
+      "31584": "go shop",
+      "31585": "southwest",
+      "31638": "northeast",
+      "31980": "go neighborhood"
+    },
+    "timeto": {
+      "31567": 0.2,
+      "31584": 0.2,
+      "31585": 0.2,
+      "31638": 0.2,
+      "31980": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083024
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      421,
+      255,
+      443,
+      273
+    ]
+  }
+}

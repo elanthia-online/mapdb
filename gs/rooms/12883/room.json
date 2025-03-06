@@ -1,0 +1,28 @@
+{
+  "checksum": "781017398fafeb4655adafa0d3ec0349",
+  "room": {
+    "id": 12883,
+    "title": [
+      "[Apple Orchard, Squirrel Cove]"
+    ],
+    "description": [
+      "Lightning appears to have struck an apple tree here, causing a large, blackened limb to fall heavily to the ground.  A family of tiny ground squirrels have taken up residence in the fallen limb, their noisy chatter coming from within."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12882": "south",
+      "12884": "north"
+    },
+    "timeto": {
+      "12882": 0.2,
+      "12884": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

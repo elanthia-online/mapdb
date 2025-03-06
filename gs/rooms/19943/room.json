@@ -1,0 +1,44 @@
+{
+  "checksum": "c8b46a2358cc534167b6f528f4b9777b",
+  "room": {
+    "id": 19943,
+    "title": [
+      "[Stone Baths, Rooftop Garden]"
+    ],
+    "description": [
+      "Brass handrails rise up along the edges of the bathhouse's stone rooftop, enclosing a wide flat surface that is mostly dominated by vivid flowerbeds, brightened by the moon's silvery rays.  The view from the garden is expansive, revealing the shadowy streets of Wehnimer's Landing and the dark forests beyond the town.",
+      "Brass handrails rise up along the edges of the bathhouse's stone rooftop, enclosing a wide flat surface that is mostly dominated by vivid flowerbeds, made even brighter by the sun's warm light.  The view from the garden is expansive, revealing the bustling streets of Wehnimer's Landing, the lush green wilds, and Darkstone Bay beyond."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8683": "/rooms/19943/wayto/stringproc-8683.rb",
+      "19938": "go hatch"
+    },
+    "timeto": {
+      "8683": 10,
+      "19938": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      336027
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      273,
+      653,
+      414,
+      714
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "5b22559c78cad4d5edeb9d41e6e4ef09",
+  "room": {
+    "id": 4946,
+    "title": [
+      "[Gyldemar Forest, Tunnel]"
+    ],
+    "description": [
+      "Oil-soaked timbers support the earth and rocks forming the tunnel walls and roof.  A lantern hangs from a badly rusted hook secured to one of the timbers.  Wooden planks line the walls, helping to hold the earth back.  A cool draft flows throughout the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Gyldemar Forest",
+    "wayto": {
+      "4945": "go entrance",
+      "4947": "west"
+    },
+    "timeto": {
+      "4945": 0.2,
+      "4947": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030079
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      839,
+      489,
+      849,
+      499
+    ]
+  }
+}

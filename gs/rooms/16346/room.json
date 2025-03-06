@@ -1,0 +1,33 @@
+{
+  "checksum": "b1dcdcfcb4301fa6d30112b8e7d97e8a",
+  "room": {
+    "id": 16346,
+    "title": [
+      "[Melorna's Boutique]",
+      "[Island Boutique]"
+    ],
+    "description": [
+      "Large windows stand to either side of the shop's entry, each displaying different mannequins dressed in the latest fashions.  The glass-front display cases stand in the center of the room, their mirror-finished shelves displaying various wares.  Tiers of candles line the back wall around an ivy-painted arch, while two corridors lead into different sections of the shop.",
+      "Two driftwood-framed windows stand to either side of the entry, each displaying a mannequin dressed in the latest fashions.  Several display cases reside in the center of the room, the gems and jewelry pieces in each are illuminated by a lustrous chandelier that hangs from the slightly raised ceiling.  Two corridors lead into different sections of the shop, and between them, an ivy-painted arch is flanked by potted palms that lend their exotic scents to the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "3636": "out",
+      "12280": "northwest",
+      "16347": "go arch",
+      "16469": "northeast"
+    },
+    "timeto": {
+      "3636": 0.2,
+      "12280": 0.2,
+      "16347": 0.2,
+      "16469": 0.2
+    },
+    "uid": [
+      3209302
+    ]
+  }
+}

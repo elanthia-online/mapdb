@@ -1,0 +1,41 @@
+{
+  "checksum": "9e140a425b04aeee190d6cb4847cb285",
+  "room": {
+    "id": 30507,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "The channel of the river runs very deep here, the sand at its bottom difficult to see even though the water is remarkably free of sediment.  A flick of motion deep below suggests that some of the larger fish on the river enjoy this benthic solitude."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18842": "swim up",
+      "30506": "swim northwest",
+      "30508": "swim southeast"
+    },
+    "timeto": {
+      "18842": 0.2,
+      "30506": 0.2,
+      "30508": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117112
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1163,
+      970,
+      1181,
+      988
+    ]
+  }
+}

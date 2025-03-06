@@ -1,0 +1,31 @@
+{
+  "checksum": "48b0e924838b143c35f0eac284e58b77",
+  "room": {
+    "id": 21969,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "The tunnel opens into a small cavern with a low ceiling.  The crumbled remains of a few small cots are pushed up against a wall, perhaps once an old resting spot for dwarven miners between shifts."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21968": "southeast",
+      "21970": "northwest"
+    },
+    "timeto": {
+      "21968": 0.2,
+      "21970": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      735,
+      130,
+      749,
+      143
+    ]
+  }
+}

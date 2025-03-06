@@ -1,0 +1,31 @@
+{
+  "checksum": "1d805b70a6628e572eb335da16f00696",
+  "room": {
+    "id": 19086,
+    "title": [
+      "[Spitfire, Cargo Hold Stair]"
+    ],
+    "description": [
+      "The stairs leading down into the hold are narrow, brushing the shoulders of anyone who tries to pass in a group.  Running down each side is a smooth modwir railing, polished by the many hands of past crew and passengers.  Glowing lanterns hang at regular intervals along the stairwell, casting a warm yellow glow on the steps."
+    ],
+    "paths": [
+      "Obvious exits: north, up"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "19085": "up",
+      "19089": "north"
+    },
+    "timeto": {
+      "19085": 0.2,
+      "19089": 0.2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      1286,
+      594,
+      1324,
+      632
+    ]
+  }
+}

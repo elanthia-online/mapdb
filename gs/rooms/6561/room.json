@@ -1,0 +1,43 @@
+{
+  "checksum": "7163163d2ed25515cd8dd30f90414892",
+  "room": {
+    "id": 6561,
+    "title": [
+      "[Anwyn Castle Yard]"
+    ],
+    "description": [
+      "The yard seems almost too quiet, even though the frigid climate would naturally discourage any serenade by locust or lark.  An old building sits to the east, the architecture suggesting that it's an old chapel.  The entrance stands doorless and dark, giving it a melancholy appearance.",
+      "The yard seems almost too quiet, even though the frigid climate would naturally discourage any serenade by locust or lark.  A few crows can be seen flying in the distance, but they're too far away to hear.  An old building sits to the east, the architecture suggesting that it's an old chapel.  The entrance stands doorless and dark, giving it a melancholy appearance."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Castle Anwyn",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6559": "west",
+      "6562": "go door",
+      "6563": "northeast"
+    },
+    "timeto": {
+      "6559": 0.2,
+      "6562": 0.2,
+      "6563": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285008
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1367,
+      737,
+      1377,
+      747
+    ]
+  }
+}

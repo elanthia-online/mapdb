@@ -1,0 +1,41 @@
+{
+  "checksum": "db3a33f0c66ee1fa128a712a4d7d9f7c",
+  "room": {
+    "id": 13169,
+    "title": [
+      "[Ta'Illistim, Niche]"
+    ],
+    "description": [
+      "Smooth pale stone walls create an oval space just large enough to accommodate a few patrons at a time.  Other than the subtle sheen of polished stone, there are neither embellishments nor furnishings to distract the eye from a sigil-carved round window, which catches the eye immediately upon entering."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "1276": "north",
+      "10837": "go passageway",
+      "30714": "/rooms/13169/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "1276": 0.2,
+      "10837": 0.2,
+      "30714": "/rooms/13169/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "chronomage",
+      "urchin-access",
+      "urchin guide chronomages"
+    ],
+    "uid": [
+      13112406
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1495,
+      855,
+      1518,
+      876
+    ]
+  }
+}

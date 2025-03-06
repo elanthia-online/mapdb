@@ -1,0 +1,53 @@
+{
+  "checksum": "be65fdc1da0763723f44817713c88537",
+  "room": {
+    "id": 11466,
+    "title": [
+      "[Maelstrom Bay, Underwater]"
+    ],
+    "description": [
+      "Light green water above, deep green water below, green water all around.  The shimmering surface of the bay rolls sinuously overhead.  A gentle current presses in from the west."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest, up, down"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "11455": "/rooms/11466/wayto/stringproc-11455.rb",
+      "11458": "/rooms/11466/wayto/stringproc-11458.rb",
+      "11461": "/rooms/11466/wayto/stringproc-11461.rb",
+      "11462": "/rooms/11466/wayto/stringproc-11462.rb",
+      "11465": "/rooms/11466/wayto/stringproc-11465.rb",
+      "11467": "/rooms/11466/wayto/stringproc-11467.rb",
+      "11469": "/rooms/11466/wayto/stringproc-11469.rb",
+      "11472": "/rooms/11466/wayto/stringproc-11472.rb",
+      "16060": "/rooms/11466/wayto/stringproc-16060.rb",
+      "16121": "/rooms/11466/wayto/stringproc-16121.rb"
+    },
+    "timeto": {
+      "11455": 3,
+      "11458": 2,
+      "11461": 2,
+      "11462": 2,
+      "11465": 2,
+      "11467": 3,
+      "11469": 2,
+      "11472": 2,
+      "16060": 2,
+      "16121": 2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      304122
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      788,
+      1234,
+      798,
+      1244
+    ]
+  }
+}

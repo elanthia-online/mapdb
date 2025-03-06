@@ -1,0 +1,37 @@
+{
+  "checksum": "b5687dcac3468b9752b233559972f3ac",
+  "room": {
+    "id": 17063,
+    "title": [
+      "[Wizard Guild, Storage]"
+    ],
+    "description": [
+      "A sturdy stone stairway provides access into the circular storage room of equal dimensions to the floor above it.  Dust is everywhere, and illumination comes from several torches flickering weakly along the walls.  Periodically, the light of the flames is reflected off the eyes of small animals in the shadows."
+    ],
+    "paths": [
+      "Obvious exits: east, up"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17062": "up",
+      "17069": "east"
+    },
+    "timeto": {
+      "17062": 0.2,
+      "17069": 0.2
+    },
+    "tags": [
+      "wizard alchemy cleaning supplies"
+    ],
+    "uid": [
+      683157
+    ],
+    "image": "rr-wizard_guild.png",
+    "image_coords": [
+      648,
+      34,
+      705,
+      89
+    ]
+  }
+}

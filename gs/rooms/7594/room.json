@@ -1,0 +1,53 @@
+{
+  "checksum": "d97fe4ef76d74894851c28652e2c236d",
+  "room": {
+    "id": 7594,
+    "title": [
+      "[Ant Nest, Tunnels]"
+    ],
+    "description": [
+      "Water drips from the ceiling, collecting in a small pool between the stone columns.  A few bones lie scattered around the tunnel, pressed into the dirt floor by time and passing creatures.  The damp air is heavy with the acrid smell that permeates the tunnels."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, southwest, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7589": "northeast",
+      "7592": "southeast",
+      "7593": "east",
+      "7595": "north",
+      "7597": "southwest",
+      "7598": "northwest"
+    },
+    "timeto": {
+      "7589": 0.2,
+      "7592": 0.2,
+      "7593": 0.2,
+      "7595": 0.2,
+      "7597": 0.2,
+      "7598": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47021
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      55,
+      1128,
+      65,
+      1138
+    ]
+  }
+}

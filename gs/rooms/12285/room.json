@@ -1,0 +1,38 @@
+{
+  "checksum": "39ef409d8cdd1c1761e42b737fba6fb1",
+  "room": {
+    "id": 12285,
+    "title": [
+      "[Grundael's Furs]"
+    ],
+    "description": [
+      "Various furs, claws, and other bits and pieces of creatures are hung or mounted on the walls of this shop, displaying the skills of many adventurers.  A chandelier composed of antlers hangs overhead, the long candles in it currently unlit.  Open windows rest between the spoils displayed on the walls, allowing light to flood the room.  A long counter lines the back of the shop, an open doorway visible behind it.  Upon the counter rests a leatherbound ledger.",
+      "Various furs, claws, and other bits and pieces of creatures are hung or mounted on the walls of this shop, displaying the skills of many adventurers.  A chandelier composed of antlers hangs overhead, the long candles in it providing a gentle light.  Windows covered with deep green curtains rest between the spoils displayed on the walls.  A long counter lines the back of the shop, an open doorway visible behind it.  Upon the counter rests a leatherbound ledger."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "3654": "out",
+      "12286": "go doorway",
+      "30718": "/rooms/12285/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3654": 0.2,
+      "12286": 0.2,
+      "30718": "/rooms/12285/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201908
+    ]
+  }
+}

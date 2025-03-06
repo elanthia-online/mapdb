@@ -1,0 +1,26 @@
+{
+  "checksum": "573fbbdfbe9df88572262baa359358bc",
+  "room": {
+    "id": 20378,
+    "title": [
+      "[Tug-of-War, Willow Knoll]"
+    ],
+    "description": [
+      "Rows of willow benches are clustered atop a gently sloping knoll, providing a clear view of a span of trenched swampland below.  Bits and pieces of rope and clothing litter the area, each stained with blood, mud, and a multitude of unrecognized substances."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20376": "northwest",
+      "20379": "south",
+      "21575": "/rooms/20378/wayto/stringproc-21575.rb"
+    },
+    "timeto": {
+      "20376": 0.2,
+      "20379": 0.2,
+      "21575": 0.2
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "23c4b2f60d0d6ba754c72d3e4717dca0",
+  "room": {
+    "id": 11380,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "Bare stone shows through gaps where the paneling has been ripped from the walls.  Some malevolent force or creature appears to have caused this damage, rather than time itself.  Claw and weapon marks score the granite walls where the paneling was destroyed."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11379": "west",
+      "11381": "east",
+      "11382": "north"
+    },
+    "timeto": {
+      "11379": 0.2,
+      "11381": 0.2,
+      "11382": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377030
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      323,
+      1344,
+      333,
+      1354
+    ]
+  }
+}

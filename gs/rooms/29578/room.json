@@ -1,0 +1,42 @@
+{
+  "checksum": "f1fb69df0146cd88215ecd5553af114a",
+  "room": {
+    "id": 29578,
+    "title": [
+      "[River Lily, Livery Stable]"
+    ],
+    "description": [
+      "As the path progresses, the carpet of grass at its borders lengthens from a short shear to a lush, thick pile where its conveyance ends at a wrought iron gate.  The verdure rises in full sprays at the base of each post of an age-darkened split rail fence that encloses a livery yard.  Beyond the barrier stands a rustic dark green stable with high, arched roofing and dark green walls that blend with the verdant surroundings."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "River's Rest",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11024": "out",
+      "30711": "/rooms/29578/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "11024": 0.2,
+      "30711": "/rooms/29578/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide stable",
+      "stable",
+      "no forageables"
+    ],
+    "uid": [
+      12004001
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2454,
+      1495,
+      2476,
+      1517
+    ]
+  }
+}

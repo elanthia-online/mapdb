@@ -1,0 +1,24 @@
+{
+  "checksum": "5f2f1f8a26e8111312ae7fdf7070611c",
+  "room": {
+    "id": 27625,
+    "title": [
+      "[Underground, Aperture]"
+    ],
+    "description": [
+      "The ceiling slants subtly toward the tunnel's end as its width narrows, and the passage terminates with barely enough room for two bodies to stand shoulder to shoulder.  Outlined in a wan cyan glow emanating from beyond, an uneven aperture cleaves into the stone abutting the walkway, its jagged edges blackened as if by soot or flame.  The sound of water drifts in through the opening."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "27624": "west",
+      "27626": "go aperture"
+    },
+    "timeto": {
+      "27624": 0.2,
+      "27626": 0.2
+    }
+  }
+}

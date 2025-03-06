@@ -1,0 +1,54 @@
+{
+  "checksum": "80a399e2cce37f64f65c44dcf5af2d8a",
+  "room": {
+    "id": 7719,
+    "title": [
+      "[Caverns, Tunnel]"
+    ],
+    "description": [
+      "The tunnel widens into a yawning cavern, its pale grey walls festooned with small glowing patches of greenish lichen.  An arch of rock opens into a small cave in the northern wall, faint beams of light winking in and out of existence from within."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7717": "west",
+      "7720": "northeast",
+      "7723": "south",
+      "7733": "go cave"
+    },
+    "timeto": {
+      "7717": 0.2,
+      "7720": 0.2,
+      "7723": 0.2,
+      "7733": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2163620
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      295,
+      1439,
+      305,
+      1449
+    ]
+  }
+}

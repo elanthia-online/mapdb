@@ -1,0 +1,50 @@
+{
+  "checksum": "e4dcbc3fe7daf320054d6f2875f1eb21",
+  "room": {
+    "id": 6925,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Footprints and faint tracks from tiny man-drawn carts are prevalent through the western and southern tunnels here, avoiding the impossibly narrow tunnel to the north.  A few grains of wheat remain on the floor from where a sack split open, although the marmot paw prints around them suggest the rest of the grain has been eaten."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6915": "west",
+      "6924": "south",
+      "6926": "north"
+    },
+    "timeto": {
+      "6915": 0.2,
+      "6924": 0.2,
+      "6926": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37009
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      987,
+      1328,
+      997,
+      1338
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "a6c32551edb4f0bd89e5788f9dc2e4e7",
+  "room": {
+    "id": 19668,
+    "title": [
+      "[Cavernhold, Wide Passage]"
+    ],
+    "description": [
+      "This passage is very wide and the compacted condition of the floor seems to indicate to you that it is well travelled."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19665": "southwest",
+      "19694": "north"
+    },
+    "timeto": {
+      "19665": 0.2,
+      "19694": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10035
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      870,
+      806,
+      883,
+      817
+    ]
+  }
+}

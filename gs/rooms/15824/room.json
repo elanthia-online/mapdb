@@ -1,0 +1,33 @@
+{
+  "checksum": "fcabd52ce68993536cdcc7149243c771",
+  "room": {
+    "id": 15824,
+    "title": [
+      "[Thurfel's Cabana]"
+    ],
+    "description": [
+      "Decorated with colorful coral, the interior of this hall is festive and cheery.  Long strands of dyed seaweed dangle from the ceiling, the tips coated in phosphorescent moss.  Several simple wooden chairs line one wall and face a large crystal desk in the center of the room.  A handcrafted abalone serving tray holds refreshments for those visiting."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9156": "out",
+      "15893": "go coral door"
+    },
+    "timeto": {
+      "9156": 0.2,
+      "15893": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10",
+      "meta:nomagic"
+    ],
+    "uid": [
+      7530030
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "94749aae0e771728d699b5fc92ab9ac9",
+  "room": {
+    "id": 24661,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Small piles of dirt line the edge of the tunnel, and a fine, powdery mist of dust fills the air.  Overhead, parts of tree roots emerge intermittently from the packed ceiling."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24643": "south",
+      "24645": "west",
+      "24660": "east",
+      "24666": "north"
+    },
+    "timeto": {
+      "24643": 0.2,
+      "24645": 0.2,
+      "24660": 0.2,
+      "24666": 0.2
+    },
+    "check_location": true
+  }
+}

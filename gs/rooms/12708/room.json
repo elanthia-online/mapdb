@@ -1,0 +1,39 @@
+{
+  "checksum": "e0057c54432afa172acf746ecaf3ecae",
+  "room": {
+    "id": 12708,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The shattered remnants of a large clay vase rest on a shelf carved into the northern wall, the shards adorned with painted waves.  Some descending stairs rest at the base of an elaborately carved archway along the eastern wall, flanked by a pair of long extinguished fire pots."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12702": "south",
+      "12716": "west",
+      "12749": "go stairs"
+    },
+    "timeto": {
+      "12702": 0.2,
+      "12716": 0.2,
+      "12749": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031085
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      473,
+      371,
+      509,
+      407
+    ]
+  }
+}

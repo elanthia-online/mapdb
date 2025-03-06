@@ -1,0 +1,33 @@
+{
+  "checksum": "ef82af2ecbf188fb8517d849ae05eb10",
+  "room": {
+    "id": 31751,
+    "title": [
+      "[Evermore Hotel, Dressing Room]"
+    ],
+    "description": [
+      "Ornately framed glass mirrors hang above a row of bourde-covered benches and walnut dressing tables laid out with a variety of brushes and grooming tools.  Behind a painted silk screen partition, washbasins filled with warm, scented water sit atop a low cupboard containing a neat stack of face cloths.  The scent of eucalyptus seeps through a tall marble arch, a glimpse of a steaming pool of water visible beyond its border."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31750": "go door",
+      "32075": "/rooms/31751/wayto/stringproc-32075.rb"
+    },
+    "timeto": {
+      "31750": 0.2,
+      "32075": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "silver-cost:32075:2000"
+    ],
+    "uid": [
+      8087125
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "0d2569015eebdd30aaffc28303305b06",
+  "room": {
+    "id": 31250,
+    "title": [
+      "[Asylum, Common Room]"
+    ],
+    "description": [
+      "This massive room is outlined by some small tables conjoined with battered metal chairs, leaving the center of the room open for roaming.  Neighboring the arched entry doors are some barred round-top windows that cast faint stripes of sunlight diagonally across the stone floor.  The only decorations on the walls are a few modwir-framed some warning signs."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "1943": "go doors",
+      "31251": "go opening",
+      "31252": "go wooden door",
+      "31253": "go ironwood door",
+      "31254": "west",
+      "31259": "east",
+      "31261": "north"
+    },
+    "timeto": {
+      "1943": 0.2,
+      "31251": 0.2,
+      "31252": 0.2,
+      "31253": 0.2,
+      "31254": 0.2,
+      "31259": 0.2,
+      "31261": 0.2
+    },
+    "uid": [
+      3027003
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "checksum": "cd4e5e4c435f2d547ab27f12361836cf",
+  "room": {
+    "id": 11618,
+    "title": [
+      "[Miasmal Forest, Old Road]"
+    ],
+    "description": [
+      "A creek bisects the old road.  The ribs of a fallen bridge are visible through the fog, its rotting timbers now mired below in the turgid creek they once spanned.  The neatly trimmed trunk of a felled tree now spans the creek.  Tall, greasy weeds and scrub brush line the northern side of the road."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "cold, damp",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11616": "southwest",
+      "11617": "northwest",
+      "11619": "go trunk",
+      "11630": "/rooms/11618/wayto/stringproc-11630.rb",
+      "16122": "/rooms/11618/wayto/stringproc-16122.rb",
+      "22218": "/rooms/11618/wayto/stringproc-22218.rb"
+    },
+    "timeto": {
+      "11616": 0.2,
+      "11617": 0.2,
+      "11619": 0.2,
+      "11630": 0.8,
+      "16122": 0.4,
+      "22218": 0.8
+    },
+    "tags": [
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "aloeas stem",
+      "withered black mushroom",
+      "white hook mushroom",
+      "wild gooseberry",
+      "stalk of cattail",
+      "small wild rose",
+      "mistweed",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5003004
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      603,
+      640,
+      613,
+      650
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "f6acce1cbc5e4d31cb4dbcc540884f2a",
+  "room": {
+    "id": 6357,
+    "title": [
+      "[Henty's Depot, Entry]"
+    ],
+    "description": [
+      "The walls of the warehouse are left unpainted, their rough-hewn plank sides apparently made of pine, given the fragrance.  The warm, pale color of the pine siding indicates the newness of the building.  A small office sits to the west while a steady stream of townsfolk and shoppers head due east."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "336": "out",
+      "6358": "west",
+      "6359": "east"
+    },
+    "timeto": {
+      "336": 0.2,
+      "6358": 0.2,
+      "6359": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      731052
+    ]
+  }
+}

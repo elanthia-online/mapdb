@@ -1,0 +1,47 @@
+{
+  "checksum": "ff2a992b9e8b22e75539510e8f9b764d",
+  "room": {
+    "id": 23222,
+    "title": [
+      "[White Haven, Banquet Hall]"
+    ],
+    "description": [
+      "A long black walnut table dominates this hall and is surrounded by matching chairs, each engraved with twining vines along the back.  A sideboard of similar decor provides convenient storage for serving dishes, while a few tables of a more private nature are located near the back of the room.  White arabesque winds across the ceiling, the pattern centering on a twining gold chandelier."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "White Haven",
+    "wayto": {
+      "23221": "out",
+      "23223": "go passageway",
+      "23631": "/rooms/23222/wayto/stringproc-23631.rb",
+      "23632": "/rooms/23222/wayto/stringproc-23632.rb",
+      "23633": "/rooms/23222/wayto/stringproc-23633.rb",
+      "23634": "/rooms/23222/wayto/stringproc-23634.rb",
+      "23639": "/rooms/23222/wayto/stringproc-23639.rb"
+    },
+    "timeto": {
+      "23221": 0.2,
+      "23223": 0.2,
+      "23631": 0.2,
+      "23632": 0.2,
+      "23633": 0.2,
+      "23634": 0.2,
+      "23639": 0.2
+    },
+    "tags": [
+      "meta:che:White Haven"
+    ],
+    "uid": [
+      213010
+    ],
+    "image": "imt-WhiteHaven2.png",
+    "image_coords": [
+      1442,
+      442,
+      1519,
+      518
+    ]
+  }
+}

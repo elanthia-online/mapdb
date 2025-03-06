@@ -1,0 +1,37 @@
+{
+  "checksum": "0f5d755653c7050469994039599880c0",
+  "room": {
+    "id": 8747,
+    "title": [
+      "[Paupers, Dark Landing]"
+    ],
+    "description": [
+      "The air in this dark, cramped room is cool and musty.  Tattered cobwebs hang in the corners of the ceiling.  The narrow wooden stairs look rather rickety."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7990": "go curtain",
+      "24056": "go wooden stairs"
+    },
+    "timeto": {
+      "7990": 0.2,
+      "24056": 0.2
+    },
+    "tags": [
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104550
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      897,
+      452,
+      979,
+      505
+    ]
+  }
+}

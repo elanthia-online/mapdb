@@ -1,0 +1,46 @@
+{
+  "checksum": "2e7d0cea387bdb42b02d2072e14de8a7",
+  "room": {
+    "id": 20980,
+    "title": [
+      "[Alhan'aht River, Hilly Pass]"
+    ],
+    "description": [
+      "Slipping in and out of the gently curving landscape, the river picks up a bit of speed as it leaves the dark hills of the south and heads towards the northern jungle.  The western bank is comprised of a sheer cliff of dark granite, while the eastern bank has been fitted with a small landing dock.  Arching over the water course is an aerial bridge crafted of rough granite and pebbles."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "20967": "go bank",
+      "21068": "/rooms/20980/wayto/stringproc-21068.rb",
+      "21069": "/rooms/20980/wayto/stringproc-21069.rb"
+    },
+    "timeto": {
+      "20967": 0.2,
+      "21068": 2,
+      "21069": 2
+    },
+    "tags": [
+      "stalk of cattail",
+      "murdroot",
+      "meta:forage-sensed",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3217007
+    ],
+    "image": "ifw-wilds-1368242816.png",
+    "image_coords": [
+      1580,
+      1920,
+      1599,
+      1939
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "25e44d2d7b3fac7e311564539b897f68",
+  "room": {
+    "id": 22057,
+    "title": [
+      "[Silvergate, Short Corridor]",
+      "[Silvergate, Members' Wing]"
+    ],
+    "description": [
+      "A small oriel window set high on the northern wall illuminates the portraits which line the corridor.  The ash wainscotting is waxed and polished to a gleaming finish."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "22046": "south",
+      "22058": "go oak door",
+      "22059": "go thanot door",
+      "25649": "go teak door"
+    },
+    "timeto": {
+      "22046": 0.2,
+      "22058": 0.2,
+      "22059": 0.2,
+      "25649": 0.2
+    },
+    "tags": [
+      "meta:che:Silvergate Inn",
+      "meta:che:Silvergate Manor"
+    ],
+    "uid": [
+      109221
+    ],
+    "image": "wl-silvergate_inn-1487242763.png",
+    "image_coords": [
+      395,
+      130,
+      478,
+      186
+    ]
+  }
+}

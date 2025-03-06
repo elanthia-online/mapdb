@@ -1,0 +1,40 @@
+{
+  "checksum": "90569db5e0b04cd884be0cd313ac8cea",
+  "room": {
+    "id": 20695,
+    "title": [
+      "[Solano Hall, Night Sky Landing]"
+    ],
+    "description": [
+      "Particles of mica in the black walls gleam softly in the ambient light of several toadstools, representing the stars in this rock-bound galaxy.  Thin veins of gold and silver ore resemble comet trails in the stone, and occasional pieces of quartz look like larger cosmic bodies.  Stone benches placed in secluded areas allow peaceful contemplation of the faux night sky.  In the center of the room, a roughly hewn fire pit allows for firelight to illuminate the walls to create a brightly glittering, starry night sky."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "20694": "east",
+      "30712": "/rooms/20695/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "20694": 0.2,
+      "30712": "/rooms/20695/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "premium supernode",
+      "supernode",
+      "urchin-access",
+      "meta:premium"
+    ],
+    "uid": [
+      4002407
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      2489,
+      755,
+      2630,
+      814
+    ]
+  }
+}

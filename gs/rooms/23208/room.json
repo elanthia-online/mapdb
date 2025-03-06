@@ -1,0 +1,41 @@
+{
+  "checksum": "2b1da555bc3408b4a5cc051d89311c30",
+  "room": {
+    "id": 23208,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17682": "/rooms/23208/wayto/stringproc-17682.rb",
+      "23206": "south",
+      "23207": "north"
+    },
+    "timeto": {
+      "17682": 3,
+      "23206": 0.2,
+      "23207": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001058
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1072,
+      1082,
+      1111,
+      1122
+    ]
+  }
+}

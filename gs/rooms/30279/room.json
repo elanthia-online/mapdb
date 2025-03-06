@@ -1,0 +1,50 @@
+{
+  "checksum": "92d8963fb146a744e8ad17cf11068a31",
+  "room": {
+    "id": 30279,
+    "title": [
+      "[Rusty Cutlass, Main Deck]"
+    ],
+    "description": [
+      "The main deck of the tavern looks to be untouched by the elements, but its wooden plank flooring is marred by countless scuff marks.  Guests linger and speak in hushed tones along the wooden railings, while the murmur of voices carries down from the quarterdeck above.  A thick rope ladder hangs on the side of the huge wooden mainmast as lights flicker in the breeze from several tiny lanterns dangling from the ship's netting above.  Two wide wooden stairs frame a tall iron-bound door."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30276": "go ramp",
+      "30280": "east",
+      "30281": "northeast",
+      "30282": "climb ladder",
+      "30283": "go door",
+      "30284": "go stairs"
+    },
+    "timeto": {
+      "30276": 0.2,
+      "30280": 0.2,
+      "30281": 0.2,
+      "30282": 0.2,
+      "30283": 0.2,
+      "30284": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      336655
+    ],
+    "image": "wl-docks and tavern-1642366998.jpg",
+    "image_coords": [
+      1054,
+      493,
+      1084,
+      523
+    ]
+  }
+}

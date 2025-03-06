@@ -1,0 +1,48 @@
+{
+  "checksum": "f54eebce5388d04475e560503b7d2154",
+  "room": {
+    "id": 1439,
+    "title": [
+      "[Tanzania's Gems & Jewelry]"
+    ],
+    "description": [
+      "Soft amber-hued velvet curtains frame the shop's glaesine windows.  Thick garnet-colored carpeting muffles all sounds of footfalls as shoppers mill about the shop, buying and selling various pieces of jewelry and gems.  Sunlight streams in through the glaesine windowpanes, illuminating the jewels displayed in cases along the rear wall.",
+      "Soft amber-hued velvet curtains frame the shop's glaesine windows.  Thick garnet-colored carpeting muffles all sounds of footfalls as shoppers mill about the shop, buying and selling various pieces of jewelry and gems.  Moonlight streams in through the glaesine windowpanes, illuminating the jewels displayed in cases along the rear wall."
+    ],
+    "paths": [
+      "Obvious exits: south, out",
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26": "out",
+      "12978": "south",
+      "30714": "/rooms/1439/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "26": 0.2,
+      "12978": 0.2,
+      "30714": "/rooms/1439/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin guide gemshop",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13104175
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1150,
+      770,
+      1171,
+      794
+    ]
+  }
+}

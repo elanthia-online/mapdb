@@ -1,0 +1,37 @@
+{
+  "checksum": "50ed9937c842567297bb4c6a52f7f641",
+  "room": {
+    "id": 24820,
+    "title": [
+      "[Helden Hall, Training Room]"
+    ],
+    "description": [
+      "Large mats cover the floor of this spacious room.  The north wall is lined with modwir racks filled with every type of weapon imaginable.  The haon racks on the southern wall support several training armors.  Between the racks, sturdy benches offer a place to rest between training matches.  Several pitchers and mugs are on a table near the wall, ready to relieve parched and sore throats.  Sawdust and wood chips are scattered in one corner, awaiting the sweep of a broom."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24806": "west",
+      "24821": "east"
+    },
+    "timeto": {
+      "24806": 0.2,
+      "24821": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "uid": [
+      212418
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      1035,
+      1255,
+      1071,
+      1291
+    ]
+  }
+}

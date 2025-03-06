@@ -1,0 +1,58 @@
+{
+  "checksum": "6bb513add7a2b62c5357dbe6ee3698d6",
+  "room": {
+    "id": 12092,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A white pillar stretches up into the vast reaches of the dark sky here.  On either side of the enruned pillar are two full length mirrors, slowly rotating horizontally.  One mirror is lined with a white haon frame, the other with a black thanot one.  A small pool of blood has coagulated around the white pillar, and while something appears to be written in it, the letters are too messy to make out."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious exits: north, south"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12092/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12092/wayto/stringproc-12089.rb",
+      "12091": "south",
+      "12152": "/rooms/12092/wayto/stringproc-12152.rb",
+      "12221": "north"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12091": 0.2,
+      "12152": 21.6,
+      "12221": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568048
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      119,
+      1140,
+      127,
+      1148
+    ]
+  }
+}

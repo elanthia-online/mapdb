@@ -1,0 +1,51 @@
+{
+  "checksum": "f1f39062193582e1109e6b714b2a0f69",
+  "room": {
+    "id": 7496,
+    "title": [
+      "[Catacombs, Tunnel]"
+    ],
+    "description": [
+      "The dank, twisting passage bends from east to southwest, widening somewhat on its eastern side.  Lichen cover the walls and ceiling here, sending droplets of condensation onto the floor and creating a very dangerous, slippery situation on its surface."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7495": "east",
+      "7497": "southwest"
+    },
+    "timeto": {
+      "7495": 0.2,
+      "7497": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46054
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      741,
+      940,
+      751,
+      950
+    ]
+  }
+}

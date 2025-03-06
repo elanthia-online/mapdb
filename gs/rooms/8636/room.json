@@ -1,0 +1,36 @@
+{
+  "checksum": "a091469042259c91850d012fdc9799fe",
+  "room": {
+    "id": 8636,
+    "title": [
+      "[Courtyard South]"
+    ],
+    "description": [
+      "Stubborn clumps of grass grow between the cobblestones on the walkway that traverses the courtyard.  You hear an odd splash from the large fountain that sits in the center of the circular walkway; as you peer over the edge of the lowest tier, you spot several large, fiery red and orange fish lazily swimming about."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "296": "go gate",
+      "8637": "northeast",
+      "8639": "northwest",
+      "8640": "go arch",
+      "8642": "go door"
+    },
+    "timeto": {
+      "296": 0.2,
+      "8637": 0.2,
+      "8639": 0.2,
+      "8640": 0.2,
+      "8642": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi"
+    ],
+    "uid": [
+      32127
+    ]
+  }
+}

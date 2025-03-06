@@ -1,0 +1,40 @@
+{
+  "checksum": "3891024e6918e4b77dbb752fb8507b1c",
+  "room": {
+    "id": 2970,
+    "title": [
+      "[Abbey Chapel, Vaulted Aisle]"
+    ],
+    "description": [
+      "Posts of ancient wood, each seamless as if hewn from the trunk of a single tree, stand wide and straight to either side of the aisle, supporting a beautifully intricate ceiling carved with depictions of each season at its height.  Sounds, no matter how slight, echo clearly off of the high ceiling and seemed magnified by its high curves.",
+      "The posts, each hewn from a single tree, stand wide and straight.  Sounds, no matter how slight, travel lightly along the high ceiling and seem magnified by the distance they must travel."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2969": "west",
+      "2971": "east"
+    },
+    "timeto": {
+      "2969": 0.2,
+      "2971": 0.2
+    },
+    "tags": [
+      "nedum vereri",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132047
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1054,
+      306,
+      1106,
+      356
+    ]
+  }
+}

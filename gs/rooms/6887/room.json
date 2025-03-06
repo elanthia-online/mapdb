@@ -1,0 +1,38 @@
+{
+  "checksum": "6dc0b46bc3764bbe1f4e4c467a0f39e2",
+  "room": {
+    "id": 6887,
+    "title": [
+      "[Abandoned Inn, Mirror Room]"
+    ],
+    "description": [
+      "You are in a small room, doorless and windowless.  The walls are all shrouded in thick black drapes that seem to suck in all the heat and light near them.  In the center of the room stands a small pedestal, with a large crystal sphere upon it.  A full length mirror rests against one wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6882": "touch mirror",
+      "6884": "go mirror"
+    },
+    "timeto": {
+      "6882": 0.2,
+      "6884": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21139
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      875,
+      1458,
+      885,
+      1468
+    ]
+  }
+}

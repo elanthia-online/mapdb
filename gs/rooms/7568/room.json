@@ -1,0 +1,45 @@
+{
+  "checksum": "90778fe1281028b7973fbd9282ca070d",
+  "room": {
+    "id": 7568,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "The tunnel narrows as it turns from the south to the northwest, the darkness broken by the faint phosphorescent glow of a greenish lichen that grows in patches on the dirt walls."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7567": "south",
+      "7569": "northwest"
+    },
+    "timeto": {
+      "7567": 0.2,
+      "7569": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47002
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      225,
+      1342,
+      235,
+      1352
+    ]
+  }
+}

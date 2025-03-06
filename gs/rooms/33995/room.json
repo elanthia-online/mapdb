@@ -1,0 +1,30 @@
+{
+  "checksum": "334d65b8b80d2d603863b50585c4f876",
+  "room": {
+    "id": 33995,
+    "title": [
+      "[Gallivant Manor, West Hall]"
+    ],
+    "description": [
+      "The westerly hall stretches several yards, with numerous doors and entryways along each side.  Old paintings are draped with cobweb-covered black cloth, and at the far west end, the glass of a massive window has been painted black.  Tucked discreetly in an alcove is a set of swinging double doors."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "33994": "east",
+      "33996": "go doors"
+    },
+    "timeto": {
+      "33994": 0.2,
+      "33996": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8085061
+    ]
+  }
+}

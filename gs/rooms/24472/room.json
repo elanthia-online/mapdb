@@ -1,0 +1,41 @@
+{
+  "checksum": "9103559a2c814e8f92836a86a774438d",
+  "room": {
+    "id": 24472,
+    "title": [
+      "[Rone Academy, Walkway]"
+    ],
+    "description": [
+      "This stone walkway links the two different buildings of Rone Academy, a heavily reinforced oak rail protecting each side.  Carved into the stone walkway are different images of wild beasts, some long extinct from the realm of man and some still present.  The walkway proves as an excellent view of the Landing, and a scattering of students pause briefly to admire it, then move on."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Rone Academy",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24407": "go stairway",
+      "25270": "west"
+    },
+    "timeto": {
+      "24407": 0.2,
+      "25270": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      217017
+    ],
+    "image": "wl-rone_academy-1619899949.png",
+    "image_coords": [
+      275,
+      263,
+      299,
+      286
+    ]
+  }
+}

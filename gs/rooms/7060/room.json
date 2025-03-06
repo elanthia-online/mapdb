@@ -1,0 +1,48 @@
+{
+  "checksum": "4b51b28e72e63047059926dc5e6bf446",
+  "room": {
+    "id": 7060,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Huge, black beetles crawl in and out of the eyesockets of a twisted skeleton.  Bits of cloth still cling to its fragile frame, and bony fingers clutch a sharpened piece of scrap metal."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7059": "northeast",
+      "7061": "southwest"
+    },
+    "timeto": {
+      "7059": 0.2,
+      "7061": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42515
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      324,
+      845,
+      334,
+      855
+    ]
+  }
+}

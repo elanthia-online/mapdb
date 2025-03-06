@@ -1,0 +1,38 @@
+{
+  "checksum": "9dd6f50ffd88f7c80ee8cab404e59cdf",
+  "room": {
+    "id": 8357,
+    "title": [
+      "[Spider Temple, Cell]"
+    ],
+    "description": [
+      "A small cot is jammed into one corner of the hard basalt walls of the cell.  Its awkward position would seem to make cramped sleeping quarters.  Holding out the promise of passing an even more restless night are the sets of iron manacles sunk into the wall opposite the cot.  The exit afforded by the iron-bound oak door seems to offer the best alternative."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8352": "go ironbound door",
+      "25497": "/rooms/8357/wayto/stringproc-25497.rb"
+    },
+    "timeto": {
+      "8352": 0.2,
+      "25497": 4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      553,
+      601,
+      563,
+      611
+    ]
+  }
+}

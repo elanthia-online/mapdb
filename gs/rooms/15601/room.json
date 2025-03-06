@@ -1,0 +1,32 @@
+{
+  "checksum": "7f623b4dffdea2ea8fb228d27b6624aa",
+  "room": {
+    "id": 15601,
+    "title": [
+      "[Pinefar, Double Ready Room]"
+    ],
+    "description": [
+      "Oak bookshelves cover two of the walls, filled with a variety of leather-bound tomes.  A pair of armchairs covered in saddle-tan leather sits before a generous window, taking advantage of the ambient light.  Antelope hides cloak the polished plank floor and a small fireplace claims the remaining wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "2790": "go door",
+      "15602": "east"
+    },
+    "timeto": {
+      "2790": 0.2,
+      "15602": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4564305
+    ]
+  }
+}

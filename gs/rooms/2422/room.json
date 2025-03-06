@@ -1,0 +1,41 @@
+{
+  "checksum": "43833343078631f9409731944e8e38ed",
+  "room": {
+    "id": 2422,
+    "title": [
+      "[Glowing Zircon Gem Shop]"
+    ],
+    "description": [
+      "Zirconia the Jeweller sits with her feet up on a short steel counter as she sorts through a small chest full of gems.  Occasionally digging into a bulging money bag to toss coins at gem sellers, she whistles happily to herself as she works.",
+      "Apprentices, all lined up in a row at a short steel counter, work diligently grading and sorting the incoming stones and precious gems under the eagle eye of their supervisor.  An assortment of jeweler's loupes, polishing cloths, and sizing charts lay close to hand, ready to help in the evaluation of the merchandise."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2421": "out",
+      "3761": "go small alcove",
+      "8976": "east",
+      "30709": "/rooms/2422/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2421": 0.2,
+      "3761": 0.2,
+      "8976": 0.2,
+      "30709": "/rooms/2422/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin guide gemshop",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4043304
+    ]
+  }
+}

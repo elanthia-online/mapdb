@@ -1,0 +1,49 @@
+{
+  "checksum": "23485eb5df8534646b1af83b5139d074",
+  "room": {
+    "id": 7224,
+    "title": [
+      "[Underbarrow, Burial Chamber]"
+    ],
+    "description": [
+      "A nest of tangled spiderwebs sits partially hidden behind the walls of piled corpses.  Sticky, oozing white spheres of webbing are tucked into the nest, likely full of eggs laid by the arachnids.  Rows of bodies guard the nursery, both babysitters and pantries for the newborn spiders when they hatch."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7218": "southeast",
+      "7219": "east",
+      "7223": "south"
+    },
+    "timeto": {
+      "7218": 0.2,
+      "7219": 0.2,
+      "7223": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162118
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      624,
+      158,
+      634,
+      168
+    ]
+  }
+}

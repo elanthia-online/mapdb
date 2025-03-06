@@ -1,0 +1,30 @@
+{
+  "checksum": "2e04ac10b8480e5bfd34eb10302624c9",
+  "room": {
+    "id": 31812,
+    "title": [
+      "[Town Hall, Hallway]"
+    ],
+    "description": [
+      "Shadows pool upon the landing, causing the eastern and western passages to be shrouded in darkness.  Doorways fashioned of clotted spiderwebs make it impossible to progress further in any direction that isn't down a balustered ebonwood staircase."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31811": "go ebonwood staircase"
+    },
+    "timeto": {
+      "31811": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084005
+    ]
+  }
+}

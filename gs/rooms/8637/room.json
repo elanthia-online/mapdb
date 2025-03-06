@@ -1,0 +1,31 @@
+{
+  "checksum": "f8003ca54bccd62aa3aaeb5de3016dee",
+  "room": {
+    "id": 8637,
+    "title": [
+      "[Courtyard East]"
+    ],
+    "description": [
+      "Loose strands of ivy drape down from the white lattice arbor above you and trail over the cast-iron gate.  A cobblestone walkway circles a large, six-tiered fountain that gurgles and splashes soothingly."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8636": "southwest",
+      "8638": "northwest",
+      "8644": "go door",
+      "8646": "go gate"
+    },
+    "timeto": {
+      "8636": 0.2,
+      "8638": 0.2,
+      "8644": 0.2,
+      "8646": 0.2
+    },
+    "uid": [
+      32128
+    ]
+  }
+}

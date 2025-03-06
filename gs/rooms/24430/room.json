@@ -1,0 +1,46 @@
+{
+  "checksum": "68005d62c342289df9a1b712e8a4b99c",
+  "room": {
+    "id": 24430,
+    "title": [
+      "[Ancient Burrow, Ingress]"
+    ],
+    "description": [
+      "Crystallized trails of water line the sheer face of a stone hill enclosed by the town walls, glinting brightly above the heads of a pair of dark stone statues.  The cobbles of the road grow fewer as it approaches the yawning mouth of a burrow in the hillside, giving way to the crags of a stone floor several paces within.  Natural light manages little better before it is supplemented by the merry crackle of torches fed by pine pitch, the smell of which lingers on the wintry air.",
+      "Crystallized trails of water line the natural stone walls of the ingress.  Placed on either side of the barrier are a series of carved runes paired with rhimar sigils.  A shallow trough runs the length of the walls, cracked and barren of fluids.  Carved black marble stones create a curving path heading north, alternating with white marble inlays."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south",
+      "Obvious paths: north, out",
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2364": "southeast",
+      "24433": "go burrow",
+      "34069": "south"
+    },
+    "timeto": {
+      "2364": 0.2,
+      "24433": 0.2,
+      "34069": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042260
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      189,
+      393,
+      204,
+      408
+    ]
+  }
+}

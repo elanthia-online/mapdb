@@ -1,0 +1,31 @@
+{
+  "checksum": "2604f6cb42b704921b7d47a9f0189b5d",
+  "room": {
+    "id": 31948,
+    "title": [
+      "[Ironmonger's Smithy, Scrapyard]",
+      "[Ironmonger's Smith, Scrapyard]"
+    ],
+    "description": [
+      "Several giantman-tall piles of discarded weapons and armor construct a hazardous maze within this open-air scrapyard.  A forge smolders away along the edge of the soot-stained red bricks of the adjoined smithy within arm's reach of an anvil accompanied by a tempering trough and grinder.  Assorted tools hang from a rafter set above the anvil.  A side door leads into the towering two-story building on the yard's eastern side."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31946": "go door"
+    },
+    "timeto": {
+      "31946": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084383
+    ]
+  }
+}

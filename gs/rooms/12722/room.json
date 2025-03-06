@@ -1,0 +1,42 @@
+{
+  "checksum": "5a60dd7b80a8d2109c18661e381adf3c",
+  "room": {
+    "id": 12722,
+    "title": [
+      "[Ruined Temple, Third Floor]"
+    ],
+    "description": [
+      "One of the ornamental sculptures that had adorned the roof lies broken in half on the ground.  Concentric circles of broken floor tiles indicate the immense force with which the statue fell.  Several intricate brass scones still adorn the walls, though filled with much rocky debris instead of flickering flame."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12721": "southeast",
+      "12723": "north",
+      "12730": "southwest"
+    },
+    "timeto": {
+      "12721": 0.2,
+      "12723": 0.2,
+      "12730": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3031039
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      253,
+      236,
+      289,
+      272
+    ]
+  }
+}

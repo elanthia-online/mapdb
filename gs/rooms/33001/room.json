@@ -1,0 +1,32 @@
+{
+  "checksum": "c51df28d0e436ac372501bcb265b3ecf",
+  "room": {
+    "id": 33001,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "30740": "go arch",
+      "33002": "north",
+      "33003": "go curtained opening"
+    },
+    "timeto": {
+      "30740": 0.2,
+      "33002": 0.2,
+      "33003": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of the Rising Phoenix"
+    ],
+    "uid": [
+      4219367
+    ]
+  }
+}

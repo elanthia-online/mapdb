@@ -1,0 +1,45 @@
+{
+  "checksum": "a92896f022983cc5baddd01732fa8998",
+  "room": {
+    "id": 31214,
+    "title": [
+      "[House Aspis, Hallway]"
+    ],
+    "description": [
+      "A honey oak door, an oak door, a modwir door, and a heavy red oak door line either side of the thickly carpeted hallway.  Flickering lanterns provide lighting for visitors and to draw attention to the walls where portaits of the leaders of Aspis through the ages hang, each framed in elegantly carved silverwood."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31209": "go marbled arch",
+      "31215": "east",
+      "31216": "go honey door",
+      "31217": "go modwir door",
+      "31218": "go heavy door",
+      "31219": "go oak door"
+    },
+    "timeto": {
+      "31209": 0.2,
+      "31215": 0.2,
+      "31216": 0.2,
+      "31217": 0.2,
+      "31218": 0.2,
+      "31219": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102013
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      1804,
+      325,
+      1940,
+      393
+    ]
+  }
+}

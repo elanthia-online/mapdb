@@ -1,0 +1,40 @@
+{
+  "checksum": "69a2842ff59ddb728d5b9d68e34685fd",
+  "room": {
+    "id": 33305,
+    "title": [
+      "[Vornavis, Gate of Tears]"
+    ],
+    "description": [
+      "Winding a sinuous path away from the walled grasslands of Vornavis, a cobblestone path descends to the city from the verdigris copper gates of the holdings beyond.  Evenly spaced lanterns, little more than sturdy shepherd's hooks dangling bowl-like lanterns, shift and click as an almost continuous breeze tugs at them.  Faint, yet insistent, the roar of the Cascade of Tears is a steady drone in the background."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Vornavis Proper",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5576": "go copper gates",
+      "33304": "down"
+    },
+    "timeto": {
+      "5576": 0.2,
+      "33304": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Solhaven",
+      "no forageables"
+    ],
+    "uid": [
+      4201112
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1597,
+      325,
+      1618,
+      346
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "97746593da27e9bd693db2e688141602",
+  "room": {
+    "id": 8230,
+    "title": [
+      "[Wolves' Den, Long Hall]"
+    ],
+    "description": [
+      "Along the northern wall of this long, dark hallway are a dented iron door, a corroded iron door, and a rusted iron door.  A rough stone arch and a pitted stone arch open in the south wall."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8229": "west",
+      "8231": "east",
+      "8255": "go dented door",
+      "8257": "go corroded door",
+      "8258": "go rusted door",
+      "8259": "go rough arch",
+      "8260": "go pitted arch"
+    },
+    "timeto": {
+      "8229": 0.2,
+      "8231": 0.2,
+      "8255": 0.2,
+      "8257": 0.2,
+      "8258": 0.2,
+      "8259": 0.2,
+      "8260": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390009
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      212,
+      336,
+      222,
+      346
+    ]
+  }
+}

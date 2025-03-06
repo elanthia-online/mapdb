@@ -1,0 +1,58 @@
+{
+  "checksum": "7c9228a5f2e6da58fbf0bcad86c689a2",
+  "room": {
+    "id": 9412,
+    "title": [
+      "[Zul Logoth, Crystalline Cavern]"
+    ],
+    "description": [
+      "Dwarven miners pass in and out of the stone arch on the west wall in this corner of the crystalline cavern.  Most of the dwarves going in carry bulging sacks, while those who exit have flattened sacks and a rather satisfied expression.  A huge ruby is set into the stone wall just above the arch.  On the south wall, a steel door operates as the entry to a windowless shop.  The sounds of hammering and grinding emanate from the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, east, northwest"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1005": "north",
+      "1006": "northwest",
+      "9413": "east",
+      "9474": "go door",
+      "9475": "go arch"
+    },
+    "timeto": {
+      "1005": 0.2,
+      "1006": 0.2,
+      "9413": 0.2,
+      "9474": 0.2,
+      "9475": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006017
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      601,
+      582,
+      621,
+      602
+    ]
+  }
+}

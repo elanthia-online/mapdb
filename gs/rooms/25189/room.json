@@ -1,0 +1,25 @@
+{
+  "checksum": "2066477c28343c8bc6bb2cdb4dd46c5a",
+  "room": {
+    "id": 25189,
+    "title": [
+      "[Smoke Screen]"
+    ],
+    "description": [
+      "The grey brick facade is in dark contrast to the aged and peeling wood lining the interior of this smoke-filled room.  A circular table, covered with a stained linen cloth, serves as a stage for a trio of filled candle votives, each casting their own dancing shadows across the floor.  Broken bottles of ale surround an unfinished oak cupboard that leans precariously to one side, and a collection of dusty trunks are strewn into one corner.  A hand-painted screen is propped against the wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23821": "go doorway",
+      "26840": "out"
+    },
+    "timeto": {
+      "23821": 0.2,
+      "26840": 0.2
+    },
+    "check_location": false
+  }
+}

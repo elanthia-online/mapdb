@@ -1,0 +1,34 @@
+{
+  "checksum": "e6bdaad02686e1f94a37aa809e513d77",
+  "room": {
+    "id": 19367,
+    "title": [
+      "[Harbor Bistro, Courtyard]"
+    ],
+    "description": [
+      "Rough grey and brick-red cobblestones pave the immediate area, which is encapsulated by an iron rail fence with a low gate, and the storefront itself.  The brown brick exterior is broken only by two expansive windows that reflect the sunlight and obscure any view of the interior.  Several carved stone benches stand before the open glass-paned door that leads inside.  An engraved metal sign jutting from the wall near the door swings in the slight breeze, creaking loudly with every forward motion.",
+      "Rough grey and brick-red cobblestones pave the immediate area, which is encapsulated by an iron rail fence with a low gate, and the storefront itself.  The brown brick exterior is broken only by two expansive windows with drawn curtains that obscure any view of the interior.  Several carved stone benches stand before the closed glass-paned door that leads inside.  An engraved metal sign jutting from the wall near the door swings in the slight breeze, creaking loudly with every forward motion."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "19366": "go gate",
+      "19368": "go door"
+    },
+    "timeto": {
+      "19366": 0.2,
+      "19368": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      3223171
+    ]
+  }
+}

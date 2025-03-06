@@ -1,0 +1,34 @@
+{
+  "checksum": "c8bd21b982911ebcfb911285457b648f",
+  "room": {
+    "id": 26907,
+    "title": [
+      "[Duskruin Arena, Scrip Shop]"
+    ],
+    "description": [
+      "Luminescent green moss lines the slick stone walls of this small chamber and provides adequate lighting despite a lack of windows or candles.  Thin pathways between various sized containers and tables impede navigation to a beaded curtain.",
+      "Luminescent green moss lines the slick stone walls of this small chamber and provides adequate lighting despite a lack of windows or candles.  Thin pathways between various sized containers and tables impede navigation."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23773": "out",
+      "33363": "go beaded curtain",
+      "34803": "go rope"
+    },
+    "timeto": {
+      "23773": 0.2,
+      "33363": 0.2,
+      "34803": 0.2
+    },
+    "tags": [
+      "hess"
+    ],
+    "uid": [
+      8212527
+    ],
+    "check_location": false
+  }
+}

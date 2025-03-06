@@ -1,0 +1,34 @@
+{
+  "checksum": "20db45be086e82862fa44c5a7b657f8b",
+  "room": {
+    "id": 12418,
+    "title": [
+      "[Old Manor, Bedroom]"
+    ],
+    "description": [
+      "Atop some battered stairs, you find the blackened remains of the master bedroom.  Scorched and looted of its past grandeur, all that remains is a carved window seat, covered with scraps of burnt grey velvet.  Gazing past the broken glass window frame, you look down upon the twisted ruins of a small garden."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12415": "climb stairs",
+      "12419": "go door"
+    },
+    "timeto": {
+      "12415": 0.2,
+      "12419": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3003082
+    ]
+  }
+}

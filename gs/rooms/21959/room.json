@@ -1,0 +1,33 @@
+{
+  "checksum": "72f9411c08aa6a51fff1d30948d3acea",
+  "room": {
+    "id": 21959,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "Thick wooden posts support the even thicker rock walls of the tunnel, each one covered in slimy glowing white maggots.  The ground is smooth and darkened from ancient blood stains."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21958": "go ladder",
+      "21967": "/rooms/21959/wayto/stringproc-21967.rb",
+      "21968": "east"
+    },
+    "timeto": {
+      "21958": 0.2,
+      "21967": 3.2,
+      "21968": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      669,
+      163,
+      683,
+      176
+    ]
+  }
+}

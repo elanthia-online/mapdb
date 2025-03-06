@@ -1,0 +1,38 @@
+{
+  "checksum": "3a50236176fc9e07b14ccc0bf898cfe2",
+  "room": {
+    "id": 16765,
+    "title": [
+      "[Temple Wyneb, Effluentorium]"
+    ],
+    "description": [
+      "The stream covers most of the floor, moving more slowly now that it has spread out.  Drops of water slide down the pale green marble walls like tears.  From the west comes the muted sound of water falling into a deep pool."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16759": "west",
+      "16774": "east"
+    },
+    "timeto": {
+      "16759": 0.2,
+      "16774": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300076
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      690,
+      681,
+      700,
+      691
+    ]
+  }
+}

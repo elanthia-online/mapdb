@@ -1,0 +1,33 @@
+{
+  "checksum": "d04273c99eed146e4f93ff0f19af36ff",
+  "room": {
+    "id": 21843,
+    "title": [
+      "[Doggoroth, Observation Deck]"
+    ],
+    "description": [
+      "The deck is sturdy and very wide, allowing for comfortable standing room for hundreds of onlookers.  Rows of stone benches are also set about along the center of the deck."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21842": "go ladder",
+      "21845": "south",
+      "21847": "east"
+    },
+    "timeto": {
+      "21842": 0.2,
+      "21845": 0.2,
+      "21847": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      783,
+      40,
+      798,
+      53
+    ]
+  }
+}

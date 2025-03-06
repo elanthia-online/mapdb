@@ -1,0 +1,49 @@
+{
+  "checksum": "369d0a40416c50ef9002ca3d50c2f3e6",
+  "room": {
+    "id": 17163,
+    "title": [
+      "[Raechaer's Alchemical Supplies]"
+    ],
+    "description": [
+      "Natural recesses in the stone display various crystal figurines in an assortment of shapes and colors.  A rock formation that is topped with a square piece of glass is obviously serving as a counter.  Mullein torches cast flickering light along the walls, bathing the floor beneath them with a soft glow.  Concealing one of the shop's stone walls is a series of dupioni silk tapestries."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4681": "south",
+      "17164": "north",
+      "30717": "/rooms/17163/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4681": 0.2,
+      "17164": 0.2,
+      "30717": "/rooms/17163/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin guide alchemy",
+      "urchin-access",
+      "alchemy",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      160020
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "3b6f827b525ab2ef59e230d249c6d191",
+  "room": {
+    "id": 29471,
+    "title": [
+      "[Czeroth Labyrinth, Cavity]"
+    ],
+    "description": [
+      "Irregular angles have been carved through ebon granite deep below the DragonSpine in search of some unseen precious material.  Rocky debris litters the floor of this cavity as it twists deep below the surface increasing the treacherousness of its footing.  Claustrophobic darkness envelops the cramped area."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9607": "go crevice",
+      "29472": "northeast"
+    },
+    "timeto": {
+      "9607": 0.2,
+      "29472": 0.2
+    },
+    "tags": [
+      "meta:mapname:Zul Logoth - Czeroth Labyrinth",
+      "meta:mapshortname:Czeroth Labyrinth",
+      "meta:mapcategory:Zul Logoth",
+      "no forageables"
+    ],
+    "uid": [
+      13007201
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      5,
+      241,
+      30,
+      270
+    ]
+  }
+}

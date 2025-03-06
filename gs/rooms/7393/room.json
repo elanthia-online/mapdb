@@ -1,0 +1,44 @@
+{
+  "checksum": "8dc420b74a216dddd7984058541e714d",
+  "room": {
+    "id": 7393,
+    "title": [
+      "[Mine Shaft]"
+    ],
+    "description": [
+      "The shaft comes to an abrupt end as the ceiling begins to slope rapidly downward to meet the floor.  The wall juts sharply underneath itself and you can see the ground reaching far underneath it."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7328": "/rooms/7393/wayto/stringproc-7328.rb",
+      "7392": "west"
+    },
+    "timeto": {
+      "7328": 0.2,
+      "7392": 0.2
+    },
+    "tags": [
+      "blackgrove root",
+      "cave moss",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389057
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1438,
+      338,
+      1448,
+      348
+    ]
+  }
+}

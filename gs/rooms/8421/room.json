@@ -1,0 +1,51 @@
+{
+  "checksum": "c9154dba30174f532aec58682b766aea",
+  "room": {
+    "id": 8421,
+    "title": [
+      "[Thanatoph Bowels, Cavern]"
+    ],
+    "description": [
+      "A thin beam of light has managed to penetrate the darkness here, but it fails to make any dent in the deep gloom smothering the area.  A huge pile of stones and dirt has collapsed within the passageway, preventing any further progress through a northerly opening."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the bowels of Thanatoph",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8420": "east",
+      "8422": "west",
+      "8429": "south"
+    },
+    "timeto": {
+      "8420": 0.2,
+      "8422": 0.2,
+      "8429": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "some wingstem root",
+      "some cave moss",
+      "some wolifrew lichen",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4293049
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      1222,
+      664,
+      1232,
+      674
+    ]
+  }
+}

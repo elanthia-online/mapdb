@@ -1,0 +1,41 @@
+{
+  "checksum": "e98c1e473410bafd8363015eca731168",
+  "room": {
+    "id": 7510,
+    "title": [
+      "[Catacombs, Temple Crypt]"
+    ],
+    "description": [
+      "A small, octagonal chamber surrounds you.  To the northeast an uneven, well worn stair leads upward into darkness, and a huge, arched door of thick iron blocks further passage to the southwest.  Large, black oil lamps hang in the center of each wall, and on either side of the door are two beautifully decorated urns.  Tombs of priests from ages long past line the walls wherever space allowed."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "7509": "up",
+      "7520": "go urns",
+      "7521": "go arch"
+    },
+    "timeto": {
+      "7509": 0.2,
+      "7520": 0.2,
+      "7521": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      46018
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      634,
+      1181,
+      644,
+      1191
+    ]
+  }
+}

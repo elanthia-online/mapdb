@@ -1,0 +1,35 @@
+{
+  "checksum": "4590f91d4d9a03d12403576569922133",
+  "room": {
+    "id": 10420,
+    "title": [
+      "[Bastille, Central Hall]",
+      "[Stockade, Central Hall]"
+    ],
+    "description": [
+      "The windowless stone walls here are bare of all decoration, save for a portrait on the eastern wall.  Dangling from the chandelier, a large House Vaalor crest announces the keep's affiliation.  Torches set in the walls burn busily, lending light to an otherwise lackluster environment.  Heavy oak doors garnish the northern end of the area.  To the west, an open iron doorway leads to a dim passageway.",
+      "The windowless stone walls here are bare of all decoration, save for a portrait on the eastern wall.  Dangling from the chandelier, a large House Vaalor crest announces the keep's affiliation.  Torches set in the walls burn busily, lending light to an otherwise lackluster environment.  Heavy oak doors adorn the northern end of the area.  To the west, an iron doorway leads to a dim passageway."
+    ],
+    "paths": [
+      "Obvious exits: south, west",
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10419": "south",
+      "10421": "go doorway",
+      "13992": "go doors"
+    },
+    "timeto": {
+      "10419": 0.2,
+      "10421": 0.2,
+      "13992": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      14114002
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "bd9c3891114421d2cfbf76f155454418",
+  "room": {
+    "id": 24167,
+    "title": [
+      "[Necropolis, Excavation]"
+    ],
+    "description": [
+      "The excavation site is just a mere niche into the side of a limestone cliff that overlooks a cerulean phantasmal forest.  Though quite the drop, it offers a vast spectacle of the Miasmic Verge.  Dangling down into the fissure, an old knotted rope could reach a section below."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24165": "crawl down",
+      "24168": "/rooms/24167/wayto/stringproc-24168.rb"
+    },
+    "timeto": {
+      "24165": 0.2,
+      "24168": 0.2
+    }
+  }
+}

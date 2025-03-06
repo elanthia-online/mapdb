@@ -1,0 +1,43 @@
+{
+  "checksum": "e4310925273d073f02e4d48e1ed97d64",
+  "room": {
+    "id": 31781,
+    "title": [
+      "[Innocent's End, The Explorers]"
+    ],
+    "description": [
+      "Leafy vines of bright green crawl across the rocky ground, their lengths entwining with the tall wooden treehouses flanking the dense foliage-covered road.  Iridescent-winged avians flit across the walkway, landing safely in the branches shading the path from the elements, the occasional call echoing from above.  The sweet scent of tropical fruits permeates the air, the sap-covered trees dotting the horizon."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "hot, damp",
+    "terrain": "tropical",
+    "wayto": {
+      "31780": "southwest",
+      "31782": "northeast",
+      "32195": "go byway"
+    },
+    "timeto": {
+      "31780": 0.2,
+      "31782": 0.2,
+      "32195": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083120
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1149,
+      878,
+      1173,
+      900
+    ]
+  }
+}

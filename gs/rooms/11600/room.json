@@ -1,0 +1,38 @@
+{
+  "checksum": "6df87ec3cf919df502eb44946a3b2ac7",
+  "room": {
+    "id": 11600,
+    "title": [
+      "[Smuggler's Lair, Common Room]"
+    ],
+    "description": [
+      "A long table, lined with benches, stands in the center of the room.  Some ratty bunks are set against the far wall.  Near the doorway is a smaller table with a chess board carved into the surface.  Stools and straight-backed chairs are scattered throughout.  A pair of dusty glowing orbs hang from the plank ceiling, casting a hazy light throughout the room."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Shattered Moors",
+    "wayto": {
+      "11595": "south",
+      "11599": "east"
+    },
+    "timeto": {
+      "11595": 0.2,
+      "11599": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      420034
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      167,
+      591,
+      177,
+      601
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "950e3e2d3b1469d067a2536631118b94",
+  "room": {
+    "id": 17805,
+    "title": [
+      "[Shed]"
+    ],
+    "description": [
+      "Slivers of light trickle in through cracks in the ceiling and walls, casting odd shadows within this cramped interior.  A few rusty tools hang on one wall, clearly neglected for many years.",
+      "Burning torches just outside this shed allow a few slivers of light to trickle in through cracks in the ceiling and walls, casting odd shadows within this cramped interior.  A few rusty tools hang on one wall, clearly neglected for many years."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3509": "out",
+      "18348": "/rooms/17805/wayto/stringproc-18348.rb"
+    },
+    "timeto": {
+      "3509": 0.2,
+      "18348": 9.2
+    },
+    "tags": [
+      "meta:mapshortname:Rogue Guild (Ta'Vaalor)",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:Guilds",
+      "meta:mapname:Elven Nations - Ta'Vaalor - Rogue Guild"
+    ],
+    "uid": [
+      267100
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      805,
+      1156,
+      845,
+      1197
+    ]
+  }
+}

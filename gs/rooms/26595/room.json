@@ -1,0 +1,33 @@
+{
+  "checksum": "a6c043601cac215f35a2e33c51b79926",
+  "room": {
+    "id": 26595,
+    "title": [
+      "[Caligos Isle, Shadow Playground]"
+    ],
+    "description": [
+      "The air weighs heavily with the overwhelming scent of sulfur, the plumes of gas stabbing out from vein-like fissures covering the shadowed ground.  Loose rocks, jarred from the inward angled walls, become heated projectiles as they roll across the temperamental fissures."
+    ],
+    "paths": [
+      "Obvious exits: northwest, up"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26594": "up",
+      "26596": "northwest",
+      "26610": "/rooms/26595/wayto/stringproc-26610.rb"
+    },
+    "timeto": {
+      "26594": 0.2,
+      "26596": 0.2,
+      "26610": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      659,
+      220,
+      674,
+      233
+    ]
+  }
+}

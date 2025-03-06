@@ -1,0 +1,27 @@
+{
+  "checksum": "45e7cadf188b83a4983561982546c372",
+  "room": {
+    "id": 29553,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "Ivory drapes hang upon the walls, their overly long lower edges pooling upon the soft rug that stretches from wall to wall.  The drape's silken lengths are unfettered except where they are parted to provide egress through an ivory-edged crimson silk curtain.  A polished white birch counter sits in the center of the circular chamber, beneath the light of an enormous seaglass orb that is held aloft by a woven hemp basket."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29717": "go curtain"
+    },
+    "timeto": {
+      "29717": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /Beacon Hall/",
+      "bhalocker",
+      "meta:locker"
+    ]
+  }
+}

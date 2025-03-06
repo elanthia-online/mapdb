@@ -1,0 +1,28 @@
+{
+  "checksum": "7cc2a30014e63b78c4e97855dcbf6711",
+  "room": {
+    "id": 18483,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "This section of the maze is absolutely crowded.  The walls of corn are planted so closely together that they are actually blocking out some of the light and it is darker here than it is in the rest of the maze.  Any attempts to move forward will have to be made very carefully to avoid damaging the cornstalks."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18482": "go niche",
+      "18484": "southwest"
+    },
+    "timeto": {
+      "18482": 0.2,
+      "18484": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "cc6c9b27456e1b0cbf3099ecb3f528e4",
+  "room": {
+    "id": 9425,
+    "title": [
+      "[Zul Logoth, Opal Tunnel]"
+    ],
+    "description": [
+      "Rising from the stone floor, slender stalagmites form an elegant colonnade along a motley row of stores.  Dwarves pass by slowly, grunting in appreciation of the tunnel's inherent beauty and cleanliness.  Occasionally, a dwarf wanders into one of the many shops in search of a bargain."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9424": "west",
+      "9426": "northeast",
+      "16878": "go shop",
+      "16879": "go door"
+    },
+    "timeto": {
+      "9424": 0.2,
+      "9426": 0.2,
+      "16878": 0.2,
+      "16879": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "murdroot",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      736003
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      938,
+      491,
+      958,
+      511
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "368787713f32b0de9fb2d22f013ce876",
+  "room": {
+    "id": 9607,
+    "title": [
+      "[Czeroth Caverns, Great Cavern]"
+    ],
+    "description": [
+      "The roof of the cavern dips here and shining crystals of gypsum are visible in hundreds of cracks and crevices.  A pile of limestone and gypsum on the floor blocks passage into an eastern crevice.",
+      "The roof of the cavern dips here and shining crystals of gypsum are visible in hundreds of cracks and crevices.  A pile of limestone and gypsum on the floor lays beside an eastern crevice."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9604": "northwest",
+      "9606": "southwest",
+      "9609": "go pool",
+      "29471": "go crevice"
+    },
+    "timeto": {
+      "9604": 0.2,
+      "9606": 0.2,
+      "9609": 0.2,
+      "29471": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13007040
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1294,
+      311,
+      1304,
+      321
+    ]
+  }
+}

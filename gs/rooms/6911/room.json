@@ -1,0 +1,52 @@
+{
+  "checksum": "e6086d06bd4ab5a2902314d02f78a2e1",
+  "room": {
+    "id": 6911,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Bits of shattered stone litter the floor.  A disturbingly large hole gapes in the ceiling, and a dent has been forced into the ground just beneath it.  Judging by the size of the holes and the quantity of rock fragments, it would have taken great strength to break the boulder into manageable bits."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, south, southwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6910": "east",
+      "6912": "southwest",
+      "6913": "south",
+      "6914": "northeast"
+    },
+    "timeto": {
+      "6910": 0.2,
+      "6912": 0.2,
+      "6913": 0.2,
+      "6914": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37005
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      958,
+      1276,
+      968,
+      1286
+    ]
+  }
+}

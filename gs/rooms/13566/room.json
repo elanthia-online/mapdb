@@ -1,0 +1,31 @@
+{
+  "checksum": "52f2716242e1943a83968474eff053f0",
+  "room": {
+    "id": 13566,
+    "title": [
+      "[Merelle's Magic Shoppe]",
+      "[Merelle's Outfitting]",
+      "[Merelle's General Store]"
+    ],
+    "description": [
+      "Enclosed by white brocade walls, the shop features a large potted fern in the center of its cherrywood floor.  A gold and crimson wyvern tapestry hangs under the beam ceiling.  Right near the front is a carved oak table and a large cherrywood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10463": "out",
+      "13567": "northwest",
+      "13568": "northeast"
+    },
+    "timeto": {
+      "10463": 0.2,
+      "13567": 0.2,
+      "13568": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

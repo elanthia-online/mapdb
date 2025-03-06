@@ -1,0 +1,36 @@
+{
+  "checksum": "0dab9e65ebaf8fe1af2652255704ca5d",
+  "room": {
+    "id": 9105,
+    "title": [
+      "[Great Cavern, Stalagmite Forest]"
+    ],
+    "description": [
+      "At the edge of the caverns thin sheets of stone cling between the rock formations and the walls.  Fog puddles between the stone dividers, making misty alcoves for the tired adventurer."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9104": "south"
+    },
+    "timeto": {
+      "9104": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045214
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      118,
+      518,
+      128,
+      528
+    ]
+  }
+}

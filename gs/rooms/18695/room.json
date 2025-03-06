@@ -1,0 +1,30 @@
+{
+  "checksum": "063661ac24c9c5b9a7fff7e367569fee",
+  "room": {
+    "id": 18695,
+    "title": [
+      "[Wyrwood Retreat, Entryway]"
+    ],
+    "description": [
+      "This open, airy room has smooth, polished floorboards that chirp whenever weight is placed upon them.  Bramble-carved ironwood benches rest beneath the windows in the northern wall, framing the doorway that leads to the meditation garden at the center of the lodge.  Wrought iron sconces supporting unlit oil lamps are set into the walls around the room.  A row of coat hooks is set to one side of a pair of sturdy ironwood doors leading back out to the front porch."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wyrwood Retreat, outside the frontier town of Wehnimer's Landing",
+    "wayto": {
+      "18694": "go doors",
+      "18698": "north"
+    },
+    "timeto": {
+      "18694": 0.2,
+      "18698": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1301202
+    ]
+  }
+}

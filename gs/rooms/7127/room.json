@@ -1,0 +1,44 @@
+{
+  "checksum": "8e691ff73b654c51bce672d15e0b2af0",
+  "room": {
+    "id": 7127,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A skeleton lies stretched out on the floor, one hand straining east.  Only a few shreds remain of his (her?) clothes, along with the mouldy remains of some leather armor.  Dark patches of some long-ago dried liquid stain the floor around the skeleton, and splatter the walls."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7125": "west",
+      "7128": "east"
+    },
+    "timeto": {
+      "7125": 0.2,
+      "7128": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41042
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1055,
+      362,
+      1065,
+      372
+    ]
+  }
+}

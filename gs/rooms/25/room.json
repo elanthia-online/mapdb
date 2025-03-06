@@ -1,0 +1,45 @@
+{
+  "checksum": "f8ccf9a15a6e6dd29ff7307c88cfc5b0",
+  "room": {
+    "id": 25,
+    "title": [
+      "[Ta'Illistim, Glaendier Wey]"
+    ],
+    "description": [
+      "The few pedestrians about begin to disperse to the east and west, hurrying towards their destinations.  A lone wagon sits abandoned for the night.",
+      "The crowds begin to disperse to the east and west, pedestrians hurrying towards their destinations.  As merchants drive their wagons along, they call their wares loudly above the din.",
+      "The imposing bulk of a series of conjoined residences takes up the real estate alongside the road.  Little separates the homes, which share interior walls, but each has their own modest dome.  Despite the close quarters, the structure is well-maintained, with white marble cladding and not a sapphire tile out of place on the roofs."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "24": "west",
+      "26": "east",
+      "177": "south"
+    },
+    "timeto": {
+      "24": 0.2,
+      "26": 0.2,
+      "177": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100028
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1067,
+      771,
+      1089,
+      793
+    ]
+  }
+}

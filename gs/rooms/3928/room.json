@@ -1,0 +1,43 @@
+{
+  "checksum": "5c7adcdfd83c0efe8602c59de99005fc",
+  "room": {
+    "id": 3928,
+    "title": [
+      "[Stronghold, Tunnel Junction]"
+    ],
+    "description": [
+      "The mouths of a number of tunnels circle the walls of the cavern, leading off into darkness.  In the center of the area, where the tunnel trails converge, is a pillar of stacked stones.  The construction stands lonely guard over the junction, casting a faint, disjointed shadow across the hard floor of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, northwest"
+    ],
+    "location": "Stone Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3912": "southwest",
+      "3927": "northwest",
+      "3929": "northeast"
+    },
+    "timeto": {
+      "3912": 0.2,
+      "3927": 0.2,
+      "3929": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4292050
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      773,
+      515,
+      783,
+      525
+    ]
+  }
+}

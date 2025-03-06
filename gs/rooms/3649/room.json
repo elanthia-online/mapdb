@@ -1,0 +1,48 @@
+{
+  "checksum": "a4c23f1eef47644112d9364fbb52291e",
+  "room": {
+    "id": 3649,
+    "title": [
+      "[Gardenia Lane]"
+    ],
+    "description": [
+      "Banners of silver and gold silk billow in the sunlight, accented by ribbons of blue, green, and purple that dance with the breeze, twisting around the lampposts from which they hang.  The awnings that line the shops along the street repeat the same colors alternately striped with white.  To the east stands the bank, its bright white facade standing tall above the terracotta rooftops of the surrounding shops.",
+      "Various hues of blue, green, and purple ribbons sway in the gentle breeze, draping from the posts of the illuminated lanterns that line both sides of the street.  The golden lamplight creates circles around the base of each post, spreading outwards until it blends into the silvery moonlight that dapples everything else.",
+      "Banners of silver and gold silk billow in the sunlight, accented by ribbons of blue, green, and purple that dance with the breeze, twisting around the lampposts from which they hang.  The awnings that line the shops along the street repeat the same colors alternately striped with white.  To the east stands the bank, its bright white facade standing tall above the terra cotta rooftops of the surrounding shops."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3648": "west",
+      "3668": "east",
+      "30718": "/rooms/3649/wayto/stringproc-30718.rb",
+      "33751": "go peak-roofed shop"
+    },
+    "timeto": {
+      "3648": 0.2,
+      "3668": 0.8,
+      "30718": "/rooms/3649/timeto/stringproc-30718.rb",
+      "33751": 0.2
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201028
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2634,
+      1328,
+      2666,
+      1351
+    ]
+  }
+}

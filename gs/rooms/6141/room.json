@@ -1,0 +1,60 @@
+{
+  "checksum": "51abdd04d726ee6f9120e38450468607",
+  "room": {
+    "id": 6141,
+    "title": [
+      "[Upper Krag Slopes]"
+    ],
+    "description": [
+      "A steep landslide has tumbled masses of rocks and boulders down the western slope, preventing further passage in that direction.  The tip of a boot-clad foot protrudes from beneath the rubble."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east"
+    ],
+    "location": "the Krag slopes",
+    "climate": "cold, damp",
+    "terrain": "mountainous",
+    "wayto": {
+      "6140": "east",
+      "6145": "northeast",
+      "6152": "/rooms/6141/wayto/stringproc-6152.rb"
+    },
+    "timeto": {
+      "6140": 0.2,
+      "6145": 0.2,
+      "6152": 0.2
+    },
+    "tags": [
+      "golden aster",
+      "some pennyroyal stem",
+      "wild pink geranium",
+      "cuctucae berry",
+      "some bolmara lichen",
+      "sweetfern stalk",
+      "marallis berry",
+      "sprig of larkspur",
+      "sassafras leaf",
+      "stalk of bluebells",
+      "some angelica root",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      495102
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      627,
+      893,
+      661,
+      927
+    ]
+  }
+}

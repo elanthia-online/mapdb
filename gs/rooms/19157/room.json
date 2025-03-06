@@ -1,0 +1,27 @@
+{
+  "checksum": "cc897014b028f09fba683721101c3773",
+  "room": {
+    "id": 19157,
+    "title": [
+      "[Tropic Treasure, Hot Stuff]"
+    ],
+    "description": [
+      "Black sand outlines a winding path leading to a bizarre sight.  All other nearby furnishings are dwarfed by a giant fake volcano standing in the middle of this area of the hold.  A tall pile of obsidian marks the only navigable ascent up the clearly manmade structure."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19156": "west",
+      "19158": "climb volcano"
+    },
+    "timeto": {
+      "19156": 0.2,
+      "19158": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

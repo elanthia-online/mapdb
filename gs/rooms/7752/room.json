@@ -1,0 +1,50 @@
+{
+  "checksum": "44b22b940c6b2d6040a4113a457b1585",
+  "room": {
+    "id": 7752,
+    "title": [
+      "[Mossy Caverns]"
+    ],
+    "description": [
+      "A massive cavern opens before you.  North and south, fields of glowing moss grow in what appears to be a well tended farm.  A worn trail runs west through the fields.  To the northeast, you see a tunnel opening in the cavern wall."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7751": "west",
+      "7753": "northeast"
+    },
+    "timeto": {
+      "7751": 0.2,
+      "7753": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "pothinir grass",
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4381014
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      1028,
+      1317,
+      1038,
+      1327
+    ]
+  }
+}

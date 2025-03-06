@@ -1,0 +1,54 @@
+{
+  "checksum": "0ba18b4c0fdb7455c08c8d4ec8ef336c",
+  "room": {
+    "id": 10958,
+    "title": [
+      "[River's Rest, Dining Room]"
+    ],
+    "description": [
+      "Fresh cooked meats and herbs beckon you to have a seat at one of the many tables here and enjoy some of the towns finest meals.  A servant passes you with a smile as she continues to a nearby table to deliver a feast for some of the hungry customers.  From a door to the south you hear an occasional rattle of pots and pans."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10957": "go doorway",
+      "17070": "/rooms/10958/wayto/stringproc-17070.rb",
+      "17071": "/rooms/10958/wayto/stringproc-17071.rb",
+      "17073": "/rooms/10958/wayto/stringproc-17073.rb",
+      "17074": "/rooms/10958/wayto/stringproc-17074.rb",
+      "17076": "/rooms/10958/wayto/stringproc-17076.rb",
+      "17082": "/rooms/10958/wayto/stringproc-17082.rb",
+      "30711": "/rooms/10958/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10957": 0.2,
+      "17070": 0.2,
+      "17071": 0.2,
+      "17073": 0.2,
+      "17074": 0.2,
+      "17076": 0.2,
+      "17082": 0.2,
+      "30711": "/rooms/10958/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "table",
+      "urchin-access",
+      "urchin guide tables",
+      "tables",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101966
+    ],
+    "image_coords": [
+      762,
+      530,
+      788,
+      556
+    ]
+  }
+}

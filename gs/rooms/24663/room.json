@@ -1,0 +1,29 @@
+{
+  "checksum": "39df77d2781f96ee61a89f9621b7d418",
+  "room": {
+    "id": 24663,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Cramped and dark, the narrow hallway barely traverses more than a few steps, but the short journey is made more unpleasant by the piles of dirt and ancient smell of decay.  Uneven walls with rocky points bite into flesh and cloth when passing through the tight enclosure."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24657": "south",
+      "24659": "west",
+      "24664": "east",
+      "24665": "north"
+    },
+    "timeto": {
+      "24657": 0.2,
+      "24659": 0.2,
+      "24664": 0.2,
+      "24665": 0.2
+    },
+    "check_location": true
+  }
+}

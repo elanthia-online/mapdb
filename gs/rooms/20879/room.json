@@ -1,0 +1,47 @@
+{
+  "checksum": "6b2167d7eff8076ba3303e82a4987e1e",
+  "room": {
+    "id": 20879,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A giant hangs on an elaborate set of poles and straps here.  Two thick poles set crossing each other are framed by two vertical and two horizontal ones.  Violet eyes shrouded in shadow float near the giant's head, watching the expressions that pass there with great interest.  A pair of winged snakes hover near the giant, flying idly about and occasionally striking him."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2635": "/rooms/20879/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20879/wayto/stringproc-12089.rb",
+      "12152": "/rooms/20879/wayto/stringproc-12152.rb",
+      "12201": "west",
+      "12202": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12201": 0.2,
+      "12202": 0.2
+    },
+    "tags": [
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568033
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      241,
+      1034,
+      250,
+      1043
+    ]
+  }
+}

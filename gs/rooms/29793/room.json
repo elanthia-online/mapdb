@@ -1,0 +1,36 @@
+{
+  "checksum": "298ffdb38ca9733325ab485c7da63d82",
+  "room": {
+    "id": 29793,
+    "title": [
+      "[Tower of Wisdom, Substructure]"
+    ],
+    "description": [
+      "Torches blaze in the sconces on the walls, keeping a majority of the shadows at bay.  A threadbare red woolen runner spans the distance from a wide arch and a darkened alcove."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "29775": "up",
+      "29794": "go alcove",
+      "29795": "go arch"
+    },
+    "timeto": {
+      "29775": 0.2,
+      "29794": 0.2,
+      "29795": 0.2
+    },
+    "uid": [
+      689042
+    ],
+    "image": "kf-wizardguild.png",
+    "image_coords": [
+      483,
+      344,
+      503,
+      363
+    ]
+  }
+}

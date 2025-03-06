@@ -1,0 +1,38 @@
+{
+  "checksum": "e01a9f2e717f0b1b168dddf123263dd7",
+  "room": {
+    "id": 11310,
+    "title": [
+      "[Alchemist, Secret Library]"
+    ],
+    "description": [
+      "A bat-winged humanoid skeleton perches atop the tallest shelf, staring balefully down at intruders to its domain.  At first, the skeleton might be taken for nothing but a decorative, though macabre, statue, but watchful pupils gleam within the scarlet flames dancing in its eyesockets.  Heavy vultite chains set with massive padlocks connect each ornate tome to its designated place upon a shelf."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11309": "southeast",
+      "11311": "go doorway"
+    },
+    "timeto": {
+      "11309": 0.2,
+      "11311": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377123
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      765,
+      1003,
+      775,
+      1013
+    ]
+  }
+}

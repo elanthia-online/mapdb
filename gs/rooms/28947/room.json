@@ -1,0 +1,32 @@
+{
+  "checksum": "ceb033aec0111666169097dd0ac50b18",
+  "room": {
+    "id": 28947,
+    "title": [
+      "[The Sea Hag's Roost, Front Desk]"
+    ],
+    "description": [
+      "A happy clerk in a smart blue uniform stands alert at a clean little desk.  A handful of freshly-buffed brass keys hang on the wall behind the clerk as he spins about his dominion in perpetual search for something to tidy up."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28946": "south",
+      "30716": "/rooms/28947/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28946": 0.2,
+      "30716": "/rooms/28947/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide inn",
+      "inn"
+    ],
+    "uid": [
+      7118318
+    ]
+  }
+}

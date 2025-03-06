@@ -1,0 +1,44 @@
+{
+  "checksum": "626aacd58a0abcedbe5d2c6978f7ba4b",
+  "room": {
+    "id": 2200,
+    "title": [
+      "[Eye of V'Tull, Inner Circle]"
+    ],
+    "description": [
+      "Only a thick layer of ash on the floor insulates your feet against the intense heat of the cavern, as smoke and steam still seeps up through it.  A small cracking noise comes from the floor beneath you, the soot covering the ground keeps you from being able to see where it might have cooled unevenly or where it might be thin from the heat.  You can only hope that your weight allows you to traverse the area without incident."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2199": "northwest",
+      "2201": "southwest",
+      "2202": "south"
+    },
+    "timeto": {
+      "2199": 0.2,
+      "2201": 0.2,
+      "2202": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061007
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      847,
+      680,
+      857,
+      690
+    ]
+  }
+}

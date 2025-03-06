@@ -1,0 +1,67 @@
+{
+  "checksum": "183e83a0bb104d6a69dcbe72c96d9914",
+  "room": {
+    "id": 31558,
+    "title": [
+      "[Evermore Hollow, Inner Ring]"
+    ],
+    "description": [
+      "Glistening in the perpetual twilight, large cobblestone pavers stretch across the cramped streets from the edges of gabled buildings to the bowing bridge.  Lampposts wreathed in verdigris copper hold frosted globes aloft, the dim light spilling from them painting the area in a sheen of violet while doing nothing to dispel the shadows of a twining pathway.  Double doors provide entry to a thatch-roofed building, a wooden sign in wrought iron scrollwork above, that is connected to a smaller structure by a moss-covered lancet stone archway."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31559": "southeast",
+      "31560": "southwest",
+      "31561": "go lancet archway",
+      "31567": "go twining pathway",
+      "31569": "go bridge",
+      "31811": "go double doors"
+    },
+    "timeto": {
+      "7": "/rooms/31558/timeto/stringproc-7.rb",
+      "284": "/rooms/31558/timeto/stringproc-284.rb",
+      "1448": "/rooms/31558/timeto/stringproc-1448.rb",
+      "1944": "/rooms/31558/timeto/stringproc-1944.rb",
+      "2426": "/rooms/31558/timeto/stringproc-2426.rb",
+      "3521": "/rooms/31558/timeto/stringproc-3521.rb",
+      "3669": "/rooms/31558/timeto/stringproc-3669.rb",
+      "3727": "/rooms/31558/timeto/stringproc-3727.rb",
+      "4651": "/rooms/31558/timeto/stringproc-4651.rb",
+      "9410": "/rooms/31558/timeto/stringproc-9410.rb",
+      "9652": "/rooms/31558/timeto/stringproc-9652.rb",
+      "10862": "/rooms/31558/timeto/stringproc-10862.rb",
+      "28908": "/rooms/31558/timeto/stringproc-28908.rb",
+      "31559": 0.2,
+      "31560": 0.2,
+      "31561": 0.2,
+      "31567": 0.2,
+      "31569": 0.2,
+      "31811": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "exit",
+      "meta:mapcategory:Events and Festivals",
+      "meta:mapname:Ebon Gate - Naidem 2022 - Part 1",
+      "meta:mapshortname:Ebon Gate - Naidem 2022 - Part 1",
+      "meta:teleport",
+      "no forageables"
+    ],
+    "uid": [
+      8083001
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      543,
+      254,
+      565,
+      275
+    ]
+  }
+}

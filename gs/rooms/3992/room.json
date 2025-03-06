@@ -1,0 +1,52 @@
+{
+  "checksum": "886918a857860bb3a5bd4ad56c8b2d4e",
+  "room": {
+    "id": 3992,
+    "title": [
+      "[Griffin's Keen, Switchbacks]"
+    ],
+    "description": [
+      "The trail ends here in a wide ledge, part of which is sheltered under a shallow overhang of snow-covered rock.  Back from the edge and obscured by the black and greys of ice and stone, a dark blotch marks the entrance to a wide-mouthed cave."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "3991": "/rooms/3992/wayto/stringproc-3991.rb",
+      "3993": "/rooms/3992/wayto/stringproc-3993.rb",
+      "9874": "go cave"
+    },
+    "timeto": {
+      "3991": 0.6,
+      "3993": 4.2,
+      "9874": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302149
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      826,
+      329,
+      836,
+      339
+    ]
+  }
+}

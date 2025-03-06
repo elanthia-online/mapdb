@@ -1,0 +1,52 @@
+{
+  "checksum": "948fcea226624c3035ceac88b7e87c9f",
+  "room": {
+    "id": 13255,
+    "title": [
+      "[The Lost Home, Foyer]"
+    ],
+    "description": [
+      "Tall columns of dark marble rise above you, supporting the high, vaulted ceiling.  The black-tiled floor is covered with a large, thick forest-green carpet.  On the far side of the foyer a fire is roaring in a massive basalt fireplace, sending waves of welcome heat into the room.  Several comfortable looking chairs are pulled to the side of the fireplace, close enough to enjoy the fire without getting too warm."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "193": "out",
+      "13256": "go ornate archway",
+      "13258": "go desk",
+      "13259": "go door",
+      "13271": "northwest",
+      "13275": "northeast",
+      "30714": "/rooms/13255/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "193": 0.2,
+      "13256": 0.2,
+      "13258": 0.2,
+      "13259": 0.2,
+      "13271": 0.2,
+      "13275": 0.2,
+      "30714": "/rooms/13255/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin guide inn",
+      "urchin-access",
+      "urchin guide losthome",
+      "inn",
+      "losthome",
+      "houselockers"
+    ],
+    "uid": [
+      13112001
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      588,
+      576,
+      644,
+      632
+    ]
+  }
+}

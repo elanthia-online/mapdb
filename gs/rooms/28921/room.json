@@ -1,0 +1,47 @@
+{
+  "checksum": "8d96a4fd68ce2cf0ba2439c05cddef06",
+  "room": {
+    "id": 28921,
+    "title": [
+      "[Kraken's Fall, Logging Colony]"
+    ],
+    "description": [
+      "Built against the rough stockade fence that encircles the colony, a set of stone reinforced stairs climbs to a parapet built along the top of the wall.  Water sluiced through gutters along the roof of a fortified tower spills upon the ground, creating a muddy mess that the locals avoid by making walkways of rough oak planks.  A large blackened fist painted within a canary yellow sun decorates the lowest floor of the tower."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, south, west",
+      "Obvious paths: south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28920": "west",
+      "28922": "south",
+      "29082": "go stairs",
+      "30609": "southeast",
+      "30817": "east"
+    },
+    "timeto": {
+      "28920": 0.2,
+      "28922": 0.2,
+      "29082": 0.2,
+      "30609": 0.2,
+      "30817": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      589001
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      803,
+      108,
+      814,
+      121
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "checksum": "5e6774fa9444ec3b57863d0958e2a4fa",
+  "room": {
+    "id": 31919,
+    "title": [
+      "[Luck of the Draw, Chance]"
+    ],
+    "description": [
+      "With decor that could be deemed visually offensive to anyone with eyes, an oval chartreuse takes center stage at the heart of the room, and a wooden table with four mismatched legs, each of a different color, sits directly in the middle.  An old fruit crate painted over with obnoxiously bright colors that appear to have dried clumps sits beneath the table, and at the rear of the room is an arched door."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31918": "west",
+      "32101": "go arched door"
+    },
+    "timeto": {
+      "31918": 0.2,
+      "32101": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084462
+    ]
+  }
+}

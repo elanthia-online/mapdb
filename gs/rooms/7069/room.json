@@ -1,0 +1,45 @@
+{
+  "checksum": "a54ce02b63db26d049ca802a8938c680",
+  "room": {
+    "id": 7069,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Pools of fetid, muddy water splash up around your ankles as you creep through this tiny, dismal tunnel."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7052": "north",
+      "7061": "south"
+    },
+    "timeto": {
+      "7052": 0.2,
+      "7061": 0.2
+    },
+    "tags": [
+      "roa'ter",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42512
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      297,
+      845,
+      307,
+      855
+    ]
+  }
+}

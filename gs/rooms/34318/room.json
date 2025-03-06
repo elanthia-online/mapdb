@@ -1,0 +1,46 @@
+{
+  "checksum": "03dd8c9b85dcb3f806d8c9b3355f598f",
+  "room": {
+    "id": 34318,
+    "title": [
+      "[Thunder Plateau, Rocky Path]"
+    ],
+    "description": [
+      "Stretching both north and south, a long rocky path separates the soggy plateau from a steep pinnacle that is as wide as the path is long.  There are no visible steps or paths leading to the top of the mesa, but the incline's rocky surface appears somewhat navigable with a bit of effort.  Broken limbs and debris swell over the peak's edge and bear resemblance to the blended materials found in a bird's nest."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Stormpeak",
+    "climate": "moist",
+    "terrain": "rough",
+    "wayto": {
+      "34319": "south",
+      "34321": "north",
+      "34322": "/rooms/34318/wayto/stringproc-34322.rb"
+    },
+    "timeto": {
+      "34319": 0.2,
+      "34321": 0.2,
+      "34322": 0.2
+    },
+    "tags": [
+      "broken twig",
+      "wild chokecherry",
+      "cabbage rose",
+      "virescent rose",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150304
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1247,
+      159,
+      1264,
+      178
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "26b5d4cb67ffbdf8ee170bd4471e5aa1",
+  "room": {
+    "id": 12394,
+    "title": [
+      "[Golvern Street]"
+    ],
+    "description": [
+      "As you wander among the small shops lining this cobblestone street, the ear-splitting curses of a spluttering dwarf assault your ears.  He stands in front of a cart, thrashing his arms in the air and berating his bored-looking burro.  The other dwarves who amble by afford him a wide berth."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12393": "east",
+      "12395": "west",
+      "27350": "go warehouse"
+    },
+    "timeto": {
+      "12393": 0.2,
+      "12395": 0.2,
+      "27350": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001038
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1123,
+      345,
+      1153,
+      375
+    ]
+  }
+}

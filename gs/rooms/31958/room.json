@@ -1,0 +1,45 @@
+{
+  "checksum": "597568617ede8dc71c1ee2ebd3274d2a",
+  "room": {
+    "id": 31958,
+    "title": [
+      "[Vigil's End, Legion Lane]"
+    ],
+    "description": [
+      "Gnarled, fruitless orchards stretch behind the moldering frames of ruinous houses, shrouded by smoke curling from the orange embers tucked within the wreckage.  A blackened cottage, a stalwart survivor observing the still smoldering scene, stands defiantly beside a ramshackle stand with a slashed canvas canopy.  Facedown in the churned mud between widely spaced cobblestones, a wooden doll in tattered clothing lies abandoned before a gouge-riddled storefront."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31957": "east",
+      "31959": "west",
+      "33940": "go blackened cottage",
+      "33946": " go gouge-riddled storefront"
+    },
+    "timeto": {
+      "31957": 0.2,
+      "31959": 0.2,
+      "33940": 0.2,
+      "33946": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083095
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1282,
+      333,
+      1305,
+      354
+    ]
+  }
+}

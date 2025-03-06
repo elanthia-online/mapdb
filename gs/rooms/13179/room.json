@@ -1,0 +1,35 @@
+{
+  "checksum": "a2ed2cb3034abc2c7ccb5cf29275ad01",
+  "room": {
+    "id": 13179,
+    "title": [
+      "[Ta'Illistim Gaol, Courtyard]"
+    ],
+    "description": [
+      "A wide trail stretches across the barren courtyard from the portcullis to a low-slung keep, which bears a strong resemblance to a squatting toad.  The trail ends at a long vaulted passageway, opened like some unwholesome maw providing entry to the keep.  Reaching into the sky above the keep is a spindly tower, which points toward the mountain air like the finger of some forgotten, skeletal god."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13177": "go portcullis",
+      "13181": "go passageway"
+    },
+    "timeto": {
+      "13177": 0.2,
+      "13181": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13118002
+    ]
+  }
+}

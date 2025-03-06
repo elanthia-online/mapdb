@@ -1,0 +1,48 @@
+{
+  "checksum": "cf749644ef890dd184a61308915f734f",
+  "room": {
+    "id": 8622,
+    "title": [
+      "[Twilight Hall, Grounds]"
+    ],
+    "description": [
+      "The tall shadowy-grey walls of this fine fieldstone house are carved with intricate runic markings.  The lush green lawn is home to several varieties of plants and flowers which border the walls, and young saplings promise a shady rest spot in years to come.",
+      "The tall shadowy-grey walls of this fine fieldstone house are carved with intricate runic markings.  The lush green lawn is home to several varieties of plants and flowers which border the walls, and young saplings cast long shadows in the moonlight."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "294": "out",
+      "8623": "go arch",
+      "18846": "go portcullis",
+      "18847": "go door"
+    },
+    "timeto": {
+      "294": 0.2,
+      "8623": 0.2,
+      "18846": 0.2,
+      "18847": 0.2
+    },
+    "tags": [
+      "twilight hall",
+      "meta:noteleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      108001
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      585,
+      439,
+      673,
+      498
+    ]
+  }
+}

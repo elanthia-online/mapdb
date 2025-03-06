@@ -1,0 +1,38 @@
+{
+  "checksum": "0ed1db4a8f74ab0d106514b43c47110b",
+  "room": {
+    "id": 21295,
+    "title": [
+      "[Silvergate Inn, Hallway]"
+    ],
+    "description": [
+      "Scented candles cast a faint, golden light in this long hallway.  Plush carpets and decorative rugs gathered from remote Southern marketplaces mute the sound of your footsteps.  A curtained opening dominates one wall."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21289": "go opening",
+      "21297": "north"
+    },
+    "timeto": {
+      "21289": 0.2,
+      "21297": 0.2
+    },
+    "tags": [
+      "meta:che:Silvergate Inn",
+      "meta:che:Silvergate Manor"
+    ],
+    "uid": [
+      109503
+    ],
+    "image": "wl-silvergate_inn-1487242763.png",
+    "image_coords": [
+      479,
+      841,
+      562,
+      895
+    ]
+  }
+}

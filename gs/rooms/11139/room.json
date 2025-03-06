@@ -1,0 +1,49 @@
+{
+  "checksum": "cbd6e0ae0d6be4961ea316a180ea7355",
+  "room": {
+    "id": 11139,
+    "title": [
+      "[River Tunnels]"
+    ],
+    "description": [
+      "The tunnels slope upwards to the northwest with two other branches appearing to level out here.  If you listen closely you can hear the rushing waters of the river above your head.  You breathe in the damp air and realize that, not knowing how much rock is between you and the river, it is a good thing you are not claustrophobic."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, up"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11138": "up",
+      "11140": "southeast",
+      "11142": "southwest"
+    },
+    "timeto": {
+      "11138": 0.2,
+      "11140": 0.2,
+      "11142": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103012
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3720,
+      850,
+      3757,
+      887
+    ]
+  }
+}

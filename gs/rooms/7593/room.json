@@ -1,0 +1,49 @@
+{
+  "checksum": "982f66be4ec1ee74c1a5b59a84ba742b",
+  "room": {
+    "id": 7593,
+    "title": [
+      "[Ant Nest, Tunnels]"
+    ],
+    "description": [
+      "You make your way among the stone pillars, tripping over bits of rock and bone that litter the ground.  The sound of things scurrying along the hard floor is all around you, blending with the constant clicking that seems to come from the north passage."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7587": "east",
+      "7589": "north",
+      "7592": "south",
+      "7594": "west"
+    },
+    "timeto": {
+      "7587": 0.2,
+      "7589": 0.2,
+      "7592": 0.2,
+      "7594": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47020
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      82,
+      1128,
+      92,
+      1138
+    ]
+  }
+}

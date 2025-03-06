@@ -1,0 +1,38 @@
+{
+  "checksum": "3f7019d834561329de4489cdd0022e1d",
+  "room": {
+    "id": 142,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Bats swoop down from the ceiling, passing so close you can feel the caress of their leathery wings.  Mindful of their disease-ridden bites, you do what you can to avoid contact.  After a few circuits they return to their roosts up above and settle back into cocooned sleep."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "141": "east",
+      "143": "southwest"
+    },
+    "timeto": {
+      "141": 0.2,
+      "143": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300036
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      611,
+      439,
+      621,
+      449
+    ]
+  }
+}

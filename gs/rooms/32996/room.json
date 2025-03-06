@@ -1,0 +1,30 @@
+{
+  "checksum": "6121ee6f0515f73d183c62bfb3f79d76",
+  "room": {
+    "id": 32996,
+    "title": [
+      "[Cranberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "32995": "pull small lever",
+      "32997": "go leather curtain"
+    },
+    "timeto": {
+      "32995": 0.2,
+      "32997": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of the Rising Phoenix"
+    ],
+    "uid": [
+      4043270
+    ]
+  }
+}

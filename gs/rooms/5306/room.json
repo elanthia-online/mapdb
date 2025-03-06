@@ -1,0 +1,40 @@
+{
+  "checksum": "079b9c9d424eb0d0ae381b3251b07387",
+  "room": {
+    "id": 5306,
+    "title": [
+      "[Deep Woods, Ruined Temple]"
+    ],
+    "description": [
+      "Burned out torches and shredded tapestries litter the floor, covering pools of crusted, dried blood.  Bones of several humanoid races as well as other unknown creatures mingle with the other debris, broken and chipped as if dropped onto the hard marble.  The air is stagnant, holding the smell of death and decay hostage in the stone ruins."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the deep woods",
+    "wayto": {
+      "5305": "south",
+      "5307": "east"
+    },
+    "timeto": {
+      "5305": 0.2,
+      "5307": 0.2
+    },
+    "tags": [
+      "vesperti",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4007022
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1207,
+      197,
+      1217,
+      207
+    ]
+  }
+}

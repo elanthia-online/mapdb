@@ -1,0 +1,43 @@
+{
+  "checksum": "bed20a8fbed13286f6ef85ea3dfc64b2",
+  "room": {
+    "id": 25701,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Sprawling out in all directions, the waters of the harbor gyrate with small waves that have frothy white caps.  To the north the distant swimming area is surrounded by a series of blown glass globes, while to the east, west, and south small islands obscure the view of the outer barrier of Charl's Teeth."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25700": "/rooms/25701/wayto/stringproc-25700.rb",
+      "25702": "/rooms/25701/wayto/stringproc-25702.rb",
+      "25773": "/rooms/25701/wayto/stringproc-25773.rb",
+      "25796": "/rooms/25701/wayto/stringproc-25796.rb"
+    },
+    "timeto": {
+      "25700": 6,
+      "25702": 6,
+      "25773": 6,
+      "25796": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223850
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1520,
+      1519,
+      1540,
+      1539
+    ]
+  }
+}

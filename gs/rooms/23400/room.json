@@ -1,0 +1,45 @@
+{
+  "checksum": "3dd4ca9a6d8f770acdb65516b0ccfd0e",
+  "room": {
+    "id": 23400,
+    "title": [
+      "[A Dark Tunnel]"
+    ],
+    "description": [
+      "A crumbling torch, affixed to the wall with iron clamps and burning with a strange white flame, illuminates the initial steps of a very steep staircase, unevenly cut from the rough stone of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23401": "go steep staircase",
+      "23402": "south"
+    },
+    "timeto": {
+      "23401": 0.2,
+      "23402": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018023
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      190,
+      460,
+      200,
+      470
+    ]
+  }
+}

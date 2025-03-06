@@ -1,0 +1,36 @@
+{
+  "checksum": "b4ea2440fc32b50037cf71d069544c1e",
+  "room": {
+    "id": 1959,
+    "title": [
+      "[Deputy Commander's Office]"
+    ],
+    "description": [
+      "The weapons rack contains a collection of highly polished axes and knives.  Papers are scattered over the top of the large desk.  A lantern gives off an oily smoke, but lights the room surprisingly well."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1958": "down",
+      "1960": "up",
+      "30715": "/rooms/1959/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1958": 0.2,
+      "1960": 0.2,
+      "30715": "/rooms/1959/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "meta:nomagic"
+    ],
+    "uid": [
+      3003052
+    ]
+  }
+}

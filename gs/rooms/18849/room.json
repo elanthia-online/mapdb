@@ -1,0 +1,48 @@
+{
+  "checksum": "08386fce9d8a71d59248db311fbf85c0",
+  "room": {
+    "id": 18849,
+    "title": [
+      "[Twilight Hall, Back Porch]"
+    ],
+    "description": [
+      "The polished black marble floor reflects the dim glow of several orbs of light that look like faint suns suspended in the black night sky.  Several tables have been arranged around the room, covered with black silk tablecloths.  The chairs are made of black-stained tanik wood cushioned with jet black velvet, which would be hard to see if not for the candles placed on some of the tables.",
+      "The polished black marble floor reflects the dim glow of several orbs of light that look like faint suns suspended in the black night sky.  Several tables have been arranged around the room, covered with black silk tablecloths.  The chairs are made of black-stained tanik wood cushioned with jet black velvet, which would be hard to see if not for the candles placed on some of the tables.  Across from the tables is a coraesine door, next to which is a scribed kakore dart board depicting an elaborate summoning circle that has been set into the wall above a copper owl decoy."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18848": "go door",
+      "18859": "down",
+      "18882": "/rooms/18849/wayto/stringproc-18882.rb",
+      "18884": "/rooms/18849/wayto/stringproc-18884.rb",
+      "18885": "/rooms/18849/wayto/stringproc-18885.rb",
+      "18886": "/rooms/18849/wayto/stringproc-18886.rb",
+      "18887": "/rooms/18849/wayto/stringproc-18887.rb"
+    },
+    "timeto": {
+      "18848": 0.2,
+      "18859": 0.2,
+      "18882": 0.2,
+      "18884": 0.2,
+      "18885": 0.2,
+      "18886": 0.2,
+      "18887": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108200
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      589,
+      145,
+      676,
+      202
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "84ab3e2bb6d1b14fbc86ba989b65ddba",
+  "room": {
+    "id": 32491,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "To the northwest, the flagstones grow scarcer before giving way entirely to a narrow dirt trail that proceeds under an arch of sweetbriar into the gardens.  The paved walkway continues eastward, bending closer to the castle.  A wagon nearby is unattended, its bed full of grey and decomposing vegetation, though whether the refuse began as weeds or flesh plants for the garden is unclear."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32489": "east",
+      "32492": "northwest",
+      "32493": "west"
+    },
+    "timeto": {
+      "32489": 0.2,
+      "32492": 0.2,
+      "32493": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577112
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      743,
+      585,
+      767,
+      607
+    ]
+  }
+}

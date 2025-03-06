@@ -1,0 +1,35 @@
+{
+  "checksum": "b9476bc035dd064be0393c7df4022632",
+  "room": {
+    "id": 31059,
+    "title": [
+      "[Brindlestoat's, Moneylender]"
+    ],
+    "description": [
+      "A crooked wooden desk dominates the small nook to the eastern end of the jeweler's shop.  A tattered green banner above is stitched with piles of glinting coins.  At the desk sits a wizened halfling moneylender who pores over his ledgers with squinting eyes."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "31058": "west",
+      "34399": "/rooms/31059/wayto/stringproc-34399.rb"
+    },
+    "timeto": {
+      "31058": 0.2,
+      "34399": "/rooms/31059/timeto/stringproc-34399.rb"
+    },
+    "tags": [
+      "bank",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "urchin-access",
+      "urchin guide bank"
+    ],
+    "uid": [
+      7503260
+    ]
+  }
+}

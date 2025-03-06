@@ -1,0 +1,36 @@
+{
+  "checksum": "566d12735fd377ab4b5186da1270f829",
+  "room": {
+    "id": 26834,
+    "title": [
+      "[Journey's End, Foyer]"
+    ],
+    "description": [
+      "Covered with stone tiles, the floor of the entryway is a colorful mosaic depicting a rose pattern.  A mirrored coat rack stands next to a carved beechwood door, a reflection of the room echoed in the smooth glass.  Suspended from a silver chain, a large candelabra hangs above, illuminating the area."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Journey's End, inside the elven city of Ta'Illistim",
+    "wayto": {
+      "25985": "go beechwood door",
+      "25991": "north",
+      "26833": "west"
+    },
+    "timeto": {
+      "25985": 0.2,
+      "25991": 0.2,
+      "26833": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "image": "JourneysEnd.jpg",
+    "image_coords": [
+      342,
+      597,
+      463,
+      654
+    ]
+  }
+}

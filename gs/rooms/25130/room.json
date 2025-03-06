@@ -1,0 +1,34 @@
+{
+  "checksum": "1906acdfe8e8897a1f8a806355eb2959",
+  "room": {
+    "id": 25130,
+    "title": [
+      "[Reim Castle, Royal Chambers]"
+    ],
+    "description": [
+      "A carved steel door leads to the east wing of the castle.  The walls of this wing are painted a pristine ivory with decorative golden scrollwork gracing the top edges.  A row of wrought bronze candelabras burn with an ethereal light, their heatless flicker casting shadows on the walls.  Tiles of alternating exotic metals line the patterned floor of the entryway."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Settlement of Reim",
+    "wayto": {
+      "25121": "go door",
+      "25131": "north"
+    },
+    "timeto": {
+      "25121": 0.2,
+      "25131": 0.2
+    },
+    "uid": [
+      -7105172
+    ],
+    "image": "imt-Reim-1260914759.png",
+    "image_coords": [
+      373,
+      308,
+      386,
+      322
+    ]
+  }
+}

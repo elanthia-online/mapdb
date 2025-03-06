@@ -1,0 +1,36 @@
+{
+  "checksum": "e998c0c9eb7d7fbded49f0a83aade6cf",
+  "room": {
+    "id": 31646,
+    "title": [
+      "[Wrencrest Rookery, Landing]"
+    ],
+    "description": [
+      "Tall shelves are adorned in preserved blooms of rich burgundy flora, the ribbon-tied bouquets interspersed with small trinkets and knickknacks covered in a pale coat of dust.  A myriad of leaf-framed animals and aquatic life are depicted across a pair of carved double doors, the fauna covered in lacerations extending from floor to ceiling, stained with splatters of an unknown black substance.  Twin newels of iron twist to form spherical cages on either side of the wide stairs, each pillar entrapping a glass-eyed wren."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31645": "go stairs",
+      "31799": "go doors",
+      "31800": "west",
+      "31805": "east"
+    },
+    "timeto": {
+      "31645": 0.2,
+      "31799": 0.2,
+      "31800": 0.2,
+      "31805": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084041
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "c3af8e81399677862ee290745fb6414b",
+  "room": {
+    "id": 30042,
+    "title": [
+      "[Angargreft, Spirit Walk]"
+    ],
+    "description": [
+      "Aurora-lit twilight pours in through the arch at the end of the walkway, a crumbling work of heavily pocked red stone.  The stones in the eastern wall have buckled, causing a small cave in, but the ceiling still holds.  A trailing bit of silvery, translucent goo hangs from the zenith of the archway, drifting sluggishly in the gale howling through the aperture."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30041": "go arch",
+      "30070": "southeast"
+    },
+    "timeto": {
+      "30041": 0.2,
+      "30070": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503432
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      821,
+      429,
+      835,
+      443
+    ]
+  }
+}

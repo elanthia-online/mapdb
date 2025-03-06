@@ -1,0 +1,36 @@
+{
+  "checksum": "f18b863d18bb6fc86b35e8b5d1ab400a",
+  "room": {
+    "id": 30145,
+    "title": [
+      "[Brigantine, Cargo Hold]"
+    ],
+    "description": [
+      "Crates and barrels fill the cargo hold, all the supplies a crew might need for a long journey.  A few treasure chests fastened with heavy locks are partially concealed underneath the stairs leading up onto the deck.  Piles of sailcloth and tangled nets have been left here for mending."
+    ],
+    "paths": [
+      "Obvious exits: east, west, up"
+    ],
+    "location": "Ships",
+    "wayto": {
+      "30142": "up",
+      "30146": "west",
+      "30147": "east"
+    },
+    "timeto": {
+      "30142": 0.2,
+      "30146": 0.2,
+      "30147": 0.2
+    },
+    "uid": [
+      -7117022
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      355,
+      457,
+      371,
+      472
+    ]
+  }
+}

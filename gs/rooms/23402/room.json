@@ -1,0 +1,45 @@
+{
+  "checksum": "0637d8c54cf3eca87a284816d9f6a185",
+  "room": {
+    "id": 23402,
+    "title": [
+      "[A Dark Tunnel]"
+    ],
+    "description": [
+      "Pinpricks of light illuminate this part of the tunnel very faintly.  The ceiling above appears to have crumbled slightly, revealing miniscule patches of sky.  Water drips through the tiny holes to form stubby icicles."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23400": "north",
+      "23403": "south"
+    },
+    "timeto": {
+      "23400": 0.2,
+      "23403": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018022
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      190,
+      490,
+      200,
+      500
+    ]
+  }
+}

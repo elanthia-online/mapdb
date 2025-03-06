@@ -1,0 +1,38 @@
+{
+  "checksum": "ccf586d9d95b803e547906d5696a32e6",
+  "room": {
+    "id": 11254,
+    "title": [
+      "[Dark Passageway]"
+    ],
+    "description": [
+      "The powerful, loamy smell of mold, fungus and decay drifts up from a dank hole.  Some oddly spaced handholds lead down into the hole."
+    ],
+    "paths": [
+      "Obvious exits: down, out"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11249": "out",
+      "11255": "down"
+    },
+    "timeto": {
+      "11249": 0.2,
+      "11255": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377230
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      63,
+      438,
+      73,
+      448
+    ]
+  }
+}

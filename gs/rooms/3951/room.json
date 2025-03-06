@@ -1,0 +1,50 @@
+{
+  "checksum": "b870ae090fc6017a6d0f18d74416647d",
+  "room": {
+    "id": 3951,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "There is a small bit of sludgy water pouring out of one of the many small pipes.  It has collected into a dark slimy looking pool here, with a small trickle of filth oozing on down the tunnel.  There is just enough room to pick your way around it as you continue on deeper into the earth."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3950": "south",
+      "3952": "north"
+    },
+    "timeto": {
+      "3950": 0.2,
+      "3952": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2133106
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      586,
+      302,
+      594,
+      311
+    ]
+  }
+}

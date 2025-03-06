@@ -1,0 +1,30 @@
+{
+  "checksum": "c24324809e7b7da4b300b4408941cc46",
+  "room": {
+    "id": 33009,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "33008": "south",
+      "33011": "go curtained opening"
+    },
+    "timeto": {
+      "33008": 0.2,
+      "33011": 0.2
+    },
+    "tags": [
+      "meta:locker annex:White Haven"
+    ],
+    "uid": [
+      4219434
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "71343ab93020a81724ab1c8d1e231c7b",
+  "room": {
+    "id": 12233,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Reinforced walls are coated with frost, enclosing this spacious storage area for meats.  Large animal carcasses hang upon shiny hooks from the ceiling.  A thin layer of snow coats the floor, crunching pleasantly underfoot.",
+      "Reinforced steel walls glow red hot, enclosing this spacious storage area for meats.  Large animal carcasses hang upon shiny hooks from the ceiling, dripping blood and fluids onto the slightly warped floor with distinct sizzling sounds.  The intense heat and overwhelming scent of cooking meat threatens to overpower the senses."
+    ],
+    "paths": [
+      "Obvious exits: northwest",
+      "Obvious paths: northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12233/wayto/stringproc-12151.rb",
+      "12231": "northwest",
+      "12249": "go barrier"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12231": 0.2,
+      "12249": 0.2
+    },
+    "uid": [
+      4571006
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      349,
+      320,
+      373,
+      344
+    ]
+  }
+}

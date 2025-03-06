@@ -1,0 +1,36 @@
+{
+  "checksum": "3154a2d274226f3ccc4fecbc3662126a",
+  "room": {
+    "id": 12909,
+    "title": [
+      "[Velathae, East Sunset Street]"
+    ],
+    "description": [
+      "A makeshift side-street has been carved into the terrain to the east by abundant travel from both beasts of burden and heavy wagon wheels.  The mud is thick and soupy, and the plant-life that once thrived here has been trampled into submission.  Directly across from the intersection, through a massive black gate, is a brick path that leads to the entrance of a large temple."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12908": "east",
+      "12935": "north",
+      "12936": "south"
+    },
+    "timeto": {
+      "12908": 0.2,
+      "12935": 0.2,
+      "12936": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ],
+    "image_coords": [
+      1256,
+      606,
+      1282,
+      632
+    ]
+  }
+}

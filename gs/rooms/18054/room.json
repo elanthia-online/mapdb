@@ -1,0 +1,38 @@
+{
+  "checksum": "f18e09aa4337126ddd4dc093a207cfac",
+  "room": {
+    "id": 18054,
+    "title": [
+      "[Wizard Guild, Shaft]"
+    ],
+    "description": [
+      "Vaalorn sconces cast a steady, bluish light over this circular room.  A wide walkway rings a shaft bored clean through the granite of the tower, allowing access to the two Guild towers at this level."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, up, down"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18052": "/rooms/18054/wayto/stringproc-18052.rb",
+      "18068": "/rooms/18054/wayto/stringproc-18068.rb",
+      "18070": "southeast",
+      "18071": "northeast"
+    },
+    "timeto": {
+      "18052": 3,
+      "18068": 3,
+      "18070": 0.2,
+      "18071": 0.2
+    },
+    "uid": [
+      687029
+    ],
+    "image": "en-ta_vaalor_wizard_guild-1649013056.jpg",
+    "image_coords": [
+      353,
+      236,
+      422,
+      301
+    ]
+  }
+}

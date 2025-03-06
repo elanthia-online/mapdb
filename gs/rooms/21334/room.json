@@ -1,0 +1,39 @@
+{
+  "checksum": "c3150f1d72ad6e9b3fc03bfdfa255bf3",
+  "room": {
+    "id": 21334,
+    "title": [
+      "[House Sylvanfair, Workroom]"
+    ],
+    "description": [
+      "A large blackboard forms one wall of this room, held in place by the living wood of the tree.  The rest of the walls are covered with shelves containing various boxes and jars, and no few number of magical experiments in progress.  A large table of slate, stained and pitted, dominates the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21330": "southeast",
+      "21332": "go door",
+      "21348": "east"
+    },
+    "timeto": {
+      "21330": 0.2,
+      "21332": 0.2,
+      "21348": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211018
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      312,
+      254,
+      351,
+      294
+    ]
+  }
+}

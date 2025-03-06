@@ -1,0 +1,39 @@
+{
+  "checksum": "bed806086957430c1e6611d644c6b71d",
+  "room": {
+    "id": 7649,
+    "title": [
+      "[Sailors' Haven, Storageroom]"
+    ],
+    "description": [
+      "This appears to have once been a storeroom for the fishermens' supplies.  Piles of rotted nets slump in corners and old casks and chests lie broken and splintered about the place.  A dull grey film of dust and dried salt covers every surface."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7647": "north",
+      "7650": "west"
+    },
+    "timeto": {
+      "7647": 0.2,
+      "7650": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      84113
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      300,
+      660,
+      310,
+      670
+    ]
+  }
+}

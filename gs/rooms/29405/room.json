@@ -1,0 +1,24 @@
+{
+  "checksum": "030b3647ad59030f255a100b490881be",
+  "room": {
+    "id": 29405,
+    "title": [
+      "[Over Yander, Goods]"
+    ],
+    "description": [
+      "The sides of the covered wagon have been folded down, providing a sturdy shelf on which goods are displayed.  Several crates, barrels, and tubs have been placed near the rear of the wain, and hold a variety of products for sale.  Twin brass braziers flank a series of wooden steps leading to the interior of the schooner, providing both light and heat for patrons."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29399": "out",
+      "29406": "go steps"
+    },
+    "timeto": {
+      "29399": 0.2,
+      "29406": 0.2
+    }
+  }
+}

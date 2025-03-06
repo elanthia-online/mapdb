@@ -1,0 +1,38 @@
+{
+  "checksum": "cc7026fa7feec644bce7bcb61b991bd8",
+  "room": {
+    "id": 17184,
+    "title": [
+      "[Warrior Guild, Hall of Armor]"
+    ],
+    "description": [
+      "The expansive hall appears as a long, uninterrupted passageway into the guild building.  Arched columns spaced at regular intervals are the only distraction from the solemn displays of antique elven armors that grace the hall with their presence."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "17109": "south",
+      "17204": "northeast"
+    },
+    "timeto": {
+      "17109": 0.2,
+      "17204": 0.2
+    },
+    "tags": [
+      "warrior guild armor",
+      "warrior guild floor"
+    ],
+    "uid": [
+      256101
+    ],
+    "image": "en-ta_illistim-warrior_guild-v2.png",
+    "image_coords": [
+      919,
+      893,
+      940,
+      919
+    ]
+  }
+}

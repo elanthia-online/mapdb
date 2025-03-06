@@ -1,0 +1,43 @@
+{
+  "checksum": "3617d8d6839d3bfeedbb212f76a33108",
+  "room": {
+    "id": 30378,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "The dark jungle backdrop of a large lagoon is visible to the north and east, a moonlit beach before it.  Silver glints off a large waterfall that is surrounded by the dark vegetation.  The sound of waves crashing on the beach are audible in the distance, the only sound to break the tranquility."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "30376": "pedal southeast",
+      "30377": "pedal southwest",
+      "30380": "pedal northwest"
+    },
+    "timeto": {
+      "30376": 6,
+      "30377": 6,
+      "30380": 6
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3216211
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      1220,
+      4524,
+      1235,
+      4542
+    ]
+  }
+}

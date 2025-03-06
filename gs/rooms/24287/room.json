@@ -1,0 +1,38 @@
+{
+  "checksum": "029cf62db7a2d5d2d4e3282d43833489",
+  "room": {
+    "id": 24287,
+    "title": [
+      "[Guild Lodge, Hallway]"
+    ],
+    "description": [
+      "Paintings of majestic forest scenes hang on the walls of the hallway.  Plush rabbit-fur carpeting covers the hardwood floor underneath.  A well-kept potted fir tree sits in the corner, adding a pleasant scent to the air.  Overhead an iron candelabra hangs, shedding light on the walls."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Icemule Ranger Guild",
+    "wayto": {
+      "24284": "west",
+      "24288": "go engraved door",
+      "24289": "go plain door",
+      "24290": "south"
+    },
+    "timeto": {
+      "24284": 0.2,
+      "24288": 0.2,
+      "24289": 0.2,
+      "24290": 0.2
+    },
+    "uid": [
+      270007
+    ],
+    "image": "imt-rangerguild-v2.png",
+    "image_coords": [
+      191,
+      161,
+      208,
+      179
+    ]
+  }
+}

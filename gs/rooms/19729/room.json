@@ -1,0 +1,40 @@
+{
+  "checksum": "8e2785636aad649aba61132426a85c10",
+  "room": {
+    "id": 19729,
+    "title": [
+      "[Cavernhold, Lake Shore]"
+    ],
+    "description": [
+      "This is the eastern shore of the large underground lake.  A small stream exits the lake here and disappears under the wall to the southeast.  The quiet gurgle of the tumbling water is wonderfully relaxing."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19728": "go stones",
+      "19731": "southwest"
+    },
+    "timeto": {
+      "19728": 8,
+      "19731": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11009
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      403,
+      627,
+      414,
+      638
+    ]
+  }
+}

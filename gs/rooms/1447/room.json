@@ -1,0 +1,44 @@
+{
+  "checksum": "1b54256e1fe382a83cd9bc57a9dd0136",
+  "room": {
+    "id": 1447,
+    "title": [
+      "[Solhaven, Triton Road]"
+    ],
+    "description": [
+      "The imposing facade of the Solhaven Library rises above the roadway.  Clad in soft white limestone, the building presents an elegant contrast to the surrounding stone cottages.  A knot of scholars argues on the limestone staircase leading to the entrance."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "149": "east",
+      "1445": "north",
+      "1449": "west",
+      "5395": "go entrance"
+    },
+    "timeto": {
+      "149": 0.2,
+      "1445": 0.2,
+      "1449": 0.2,
+      "5395": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209025
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1124,
+      513,
+      1148,
+      537
+    ]
+  }
+}

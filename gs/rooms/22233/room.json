@@ -1,0 +1,31 @@
+{
+  "checksum": "bc4533a43769b98e86c072c9522dc229",
+  "room": {
+    "id": 22233,
+    "title": [
+      "[Drafix's Magic Shoppe]",
+      "[Drafix's Weaponry]",
+      "[Drafix's General Store]",
+      "[Drafix's Outfitting]",
+      "[Drafix's Combat Gear]",
+      "[Nya's House of Horrors]"
+    ],
+    "description": [
+      "Beneath a pink stucco ceiling, a bundle of dried flowers hangs on one of the honey gold oak walls.  A lacquered wooden shelf and a low wrought iron table sit in opposite corners while a knotted woolen rug rests on a honey gold oak floor.",
+      "A bundle of dried flowers hangs on one of the honey gold oak walls, and a pink stucco ceiling rises overhead.  A knotted woolen rug sits in one corner of a honey gold oak floor.  There is a lacquered wooden shelf on one side of the shop and a low wrought iron table on the other."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "22232": "south"
+    },
+    "timeto": {
+      "22232": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

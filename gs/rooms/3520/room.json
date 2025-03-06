@@ -1,0 +1,46 @@
+{
+  "checksum": "cb5eca6b0e05c976786a09e3215f5731",
+  "room": {
+    "id": 3520,
+    "title": [
+      "[Ta'Vaalor, Victory Wey]"
+    ],
+    "description": [
+      "The turrets and crennelated walls of Guardian Keep tower above the city.  Fashioned of pale ivory stone, the ancestral home of House Vaalor is a deceptively lovely stronghold.  Glittering red and gold pennants flutter atop the crimson tiled rooftops.  Several city guardsmen stand in the center of the wey, blocking any progress into the Keep's inner courtyard.",
+      "The turrets and crennelated walls of Guardian Keep tower above the city.  Fashioned of pale ivory stone, the ancestral home of House Vaalor is a deceptively lovely stronghold.  Glittering red and gold pennants flutter atop the crimson-tiled rooftops.  Several city guardsmen stand in the center of the wey, studying everyone that passes through the gate into the Keep's outer bailey.",
+      "The turrets and crennelated walls of Guardian Keep tower above the city.  Fashioned of pale ivory stone, the ancestral home of House Vaalor is an imposing stronghold.  Glittering red and gold pennants flutter atop the crimson-tiled rooftops.  Several city guardsmen stand in the center of the wey, studying everyone that passes through the gate into the Keep's outer bailey.",
+      "The turrets and crenellated walls of Guardian Keep tower above the city.  Fashioned of pale ivory stone, the ancestral home of House Vaalor is an imposing stronghold.  Glittering red and gold pennants flutter atop the crimson-tiled rooftops.  Several city guardsmen stand in the center of the wey, studying everyone that passes through the gate into the Keep's outer bailey."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3519": "south",
+      "10441": "go gate",
+      "26018": "/rooms/3520/wayto/stringproc-26018.rb"
+    },
+    "timeto": {
+      "3519": 0.6,
+      "10441": 0.2,
+      "26018": 5
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100075
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      924,
+      778,
+      961,
+      815
+    ]
+  }
+}

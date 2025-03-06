@@ -1,0 +1,35 @@
+{
+  "checksum": "de1fd6b65ef32bf47d850d3c92aeb10c",
+  "room": {
+    "id": 20323,
+    "title": [
+      "[Feywrot Mire, Green Shoreline]"
+    ],
+    "description": [
+      "Dotted with a plethora of tiny holes, the muck at the edge of shoreline appears solid.  Miniscule rivulets of water cut spiderweb-thin patterns through the dirt, exposing the limestone base underneath.  Overhead, the branches of cypress trees spread far and wide, their drooping limbs dripping with thick moss."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20322": "east",
+      "20324": "northwest",
+      "21601": "/rooms/20323/wayto/stringproc-21601.rb",
+      "24321": "go wooden wagon"
+    },
+    "timeto": {
+      "20322": 0.2,
+      "20324": 0.2,
+      "21601": 0.2,
+      "24321": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      422,
+      919,
+      436,
+      933
+    ]
+  }
+}

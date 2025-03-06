@@ -1,0 +1,38 @@
+{
+  "checksum": "c9537ac4b67932c9fa3787bf26278d85",
+  "room": {
+    "id": 32473,
+    "title": [
+      "[Moonsedge Castle, Upper Hallway]"
+    ],
+    "description": [
+      "Heavy curtains block the starlight from streaming through vast windows along the eastern wall, necessitating the candles carried by grotesques in arched nooks along the walls.  The small, comical gargoyles bend as if to surveil a dark-stained pine door, which is etched with a spread-winged raven surrounded by falling feathers.  A grey-trimmed scarlet carpet runs up to the foot of the door to soften the cold stone of the walk.",
+      "Heavy curtains block the sunlight from streaming through vast windows along the eastern wall, necessitating the candles carried by grotesques in arched nooks along the walls.  The small, comical gargoyles bend as if to surveil a dark-stained pine door, which is etched with a spread-winged raven surrounded by falling feathers.  A grey-trimmed scarlet carpet runs up to the foot of the door to soften the cold stone of the walk."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32466": "southwest",
+      "32474": "go door"
+    },
+    "timeto": {
+      "32466": 0.2,
+      "32474": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577244
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1169,
+      347,
+      1187,
+      365
+    ]
+  }
+}

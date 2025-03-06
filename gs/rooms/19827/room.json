@@ -1,0 +1,39 @@
+{
+  "checksum": "893e545d3ce20705d3d5188a82fc3da6",
+  "room": {
+    "id": 19827,
+    "title": [
+      "[Cleric Guild, Master's Hall]"
+    ],
+    "description": [
+      "Polished walls of honey and black oak inlaid in a pattern of interlocking chevrons define the hallway of the annex that leads to the cauldron practice rooms.  Water flows slowly over a sheet of glass overlaying the woodwork in the corner, with occasional ripples betraying the presence of etchings in the glass."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "19812": "east",
+      "19828": "north"
+    },
+    "timeto": {
+      "19812": 0.2,
+      "19828": 0.2
+    },
+    "tags": [
+      "cleric alchemy masters",
+      "cleric guild masters"
+    ],
+    "uid": [
+      675020
+    ],
+    "image": "en-ta_vaalor_cleric_guild.png",
+    "image_coords": [
+      103,
+      414,
+      156,
+      466
+    ],
+    "check_location": true
+  }
+}

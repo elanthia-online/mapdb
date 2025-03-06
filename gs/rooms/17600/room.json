@@ -1,0 +1,52 @@
+{
+  "checksum": "ec6c8571201da363d4d287267a1d6427",
+  "room": {
+    "id": 17600,
+    "title": [
+      "[Scuttlebug Tavern]"
+    ],
+    "description": [
+      "Rough oak planks spread from the entry at one end of the room to the dinghy-shaped bar that is surrounded by stools at the other, their slender surfaces riddled with large and small knots.  High above, a chandelier housing dozens of candles provides ample illumination for each of the various tables that are scattered throughout, while also illuminating the various signs that hang from the rafters.  A rickety staircase leads to the upstairs and connects with a balcony that encircles half of the tavern."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Western Harbor",
+    "wayto": {
+      "13663": "/rooms/17600/wayto/stringproc-13663.rb",
+      "13664": "/rooms/17600/wayto/stringproc-13664.rb",
+      "15154": "/rooms/17600/wayto/stringproc-15154.rb",
+      "15527": "/rooms/17600/wayto/stringproc-15527.rb",
+      "16061": "out",
+      "16698": "/rooms/17600/wayto/stringproc-16698.rb",
+      "17346": "/rooms/17600/wayto/stringproc-17346.rb",
+      "17386": "/rooms/17600/wayto/stringproc-17386.rb",
+      "17408": "/rooms/17600/wayto/stringproc-17408.rb",
+      "17413": "/rooms/17600/wayto/stringproc-17413.rb",
+      "17601": "climb staircase",
+      "17888": "/rooms/17600/wayto/stringproc-17888.rb",
+      "18684": "/rooms/17600/wayto/stringproc-18684.rb"
+    },
+    "timeto": {
+      "13663": 0.2,
+      "13664": 0.2,
+      "15154": 0.2,
+      "15527": 0.2,
+      "16061": 0.2,
+      "16698": 0.2,
+      "17346": 0.2,
+      "17386": 0.2,
+      "17408": 0.2,
+      "17413": 0.2,
+      "17601": 0.2,
+      "17888": 0.2,
+      "18684": 0.2
+    },
+    "tags": [
+      "table"
+    ],
+    "uid": [
+      3216031
+    ]
+  }
+}

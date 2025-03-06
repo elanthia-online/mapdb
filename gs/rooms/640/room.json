@@ -1,0 +1,39 @@
+{
+  "checksum": "7c06526acee7861c9a74916bbff9600a",
+  "room": {
+    "id": 640,
+    "title": [
+      "[Valina's Herbs and Tinctures]"
+    ],
+    "description": [
+      "Row upon row of tiny glaesine bottles line wooden shelves, which in turn crowd every bit of wall space in this tiny shop.  Baskets of herbs rest at the foot of a large thanot worktable.  An open doorway leads further into the building's interior, the occasional murmur of conversation drifting from within."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "166": "out",
+      "13241": "go doorway",
+      "30714": "/rooms/640/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "166": 0.2,
+      "13241": 0.2,
+      "30714": "/rooms/640/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "herbalist",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin-access",
+      "urchin guide herbalist"
+    ],
+    "uid": [
+      13104200
+    ]
+  }
+}

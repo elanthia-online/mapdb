@@ -1,0 +1,51 @@
+{
+  "checksum": "be17c672b49accec433a0291b8dcad96",
+  "room": {
+    "id": 7552,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "The tunnel widens considerably here allowing for easier movement.  Unlike other sections of the tunnels the floor is relatively free of rubble and clutter.  Loud scratching noises and low growls echo through the area, their source unknown."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7551": "southwest",
+      "7553": "north"
+    },
+    "timeto": {
+      "7551": 0.2,
+      "7553": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490007
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      314,
+      1017,
+      324,
+      1027
+    ]
+  }
+}

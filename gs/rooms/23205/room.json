@@ -1,0 +1,39 @@
+{
+  "checksum": "cad5c6cb3baf6bae5cdd56872a8f8ffd",
+  "room": {
+    "id": 23205,
+    "title": [
+      "[Timor's, House Annex Hallway]"
+    ],
+    "description": [
+      "The hallway floor is warped and uneven.  Ceramic oil lamps hang from the ceiling, bathing the hallway in a flickering light."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "15417": "go bronze curtain",
+      "23199": "south",
+      "23206": "north",
+      "32974": "go green curtain"
+    },
+    "timeto": {
+      "15417": 0.2,
+      "23199": 0.2,
+      "23206": 0.2,
+      "32974": 0.2
+    },
+    "tags": [
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5001056
+    ],
+    "unique_loot": [
+      "bronze curtain with the sigil of Helden Hall"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "625dd2479c463b3a8d8ab85e73df5784",
+  "room": {
+    "id": 18142,
+    "title": [
+      "[Ta'Illistim Keep, Hallway]"
+    ],
+    "description": [
+      "Hanging from a vaalin chain, a beautiful crystal lamp sways above, the cut glass of the panes send motes of fragmented light across the alabaster stone.  Set into the wall opposite a white marble pedestal is an ivory silk-draped archway.  Centered in the hall floor is a beautiful mosaic crafted from tiny crystals."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18141": "east",
+      "18143": "west",
+      "18148": "go archway"
+    },
+    "timeto": {
+      "18141": 0.2,
+      "18143": 0.2,
+      "18148": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13102031
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "8ab44779ead3baf5601bb90f28e36956",
+  "room": {
+    "id": 16423,
+    "title": [
+      "[Rogue Guild, Lounge]"
+    ],
+    "description": [
+      "Thick tapestries and richly panelled screens divide this spacious room into a dimly lit maze of pathways and corners, providing a measure of privacy to the candlelit tables arranged artfully throughout the room.  A quiet murmur of muted conversations and clinking glasses flows through the room."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16394": "west",
+      "16424": "go niche",
+      "16427": "go table",
+      "16430": "go nook",
+      "16551": "south"
+    },
+    "timeto": {
+      "16394": 0.2,
+      "16424": 0.2,
+      "16427": 0.2,
+      "16430": 0.2,
+      "16551": 0.2
+    },
+    "tags": [
+      "rogue guild bar"
+    ],
+    "uid": [
+      261004
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      521,
+      471,
+      549,
+      499
+    ]
+  }
+}

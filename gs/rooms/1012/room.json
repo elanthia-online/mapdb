@@ -1,0 +1,44 @@
+{
+  "checksum": "b925e639ac82612b4d2e3b5da8bccdf7",
+  "room": {
+    "id": 1012,
+    "title": [
+      "[Zul Logoth, Ruby Tunnel]"
+    ],
+    "description": [
+      "The smooth walls of the tunnel give way to a small cavern utilized as an entrance to the vast network of mining tunnels under the DragonSpine.  Carts ricochet past on a double-railed metal track, stopping occasionally for brief instances to pick up passengers.  Several dwarves busily work the area, ensuring the carts travel rapidly towards their destination."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "1011": "east",
+      "1013": "/rooms/1012/wayto/stringproc-1013.rb",
+      "30712": "/rooms/1012/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "1011": 0.2,
+      "1013": 180,
+      "30712": "/rooms/1012/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "silver-cost:1013:1000",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin guide westcart",
+      "urchin-access",
+      "westcart"
+    ],
+    "uid": [
+      13010301
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      272,
+      580,
+      292,
+      600
+    ]
+  }
+}

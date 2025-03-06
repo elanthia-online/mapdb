@@ -1,0 +1,28 @@
+{
+  "checksum": "62be4508d5983663e4f24549846755fa",
+  "room": {
+    "id": 16866,
+    "title": [
+      "[Dread's Outfitting]"
+    ],
+    "description": [
+      "Plain wooden walls rise from a rough stone floor.  Just above a leaping dolphin statuette hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A small invar-inlaid table and a twisted invar rack stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "9424": "out",
+      "16880": "east",
+      "16881": "north"
+    },
+    "timeto": {
+      "9424": 0.2,
+      "16880": 0.2,
+      "16881": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

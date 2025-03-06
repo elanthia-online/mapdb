@@ -1,0 +1,36 @@
+{
+  "checksum": "379931bee764d22664a987264d8fe9be",
+  "room": {
+    "id": 21305,
+    "title": [
+      "[House Brigatta, Hallway]"
+    ],
+    "description": [
+      "This narrow hallway ends in a blank wall and at the other end a curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21306": "go curtained opening",
+      "21308": "north"
+    },
+    "timeto": {
+      "21306": 0.2,
+      "21308": 0.2
+    },
+    "tags": [
+      "meta:che:House Brigatta"
+    ],
+    "uid": [
+      107207
+    ],
+    "image_coords": [
+      430,
+      560,
+      517,
+      614
+    ]
+  }
+}

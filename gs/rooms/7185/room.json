@@ -1,0 +1,59 @@
+{
+  "checksum": "2150ae508290ccb22a67cd33c198d7a3",
+  "room": {
+    "id": 7185,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "The trail turns at a sharp angle, causing you to move with greater purpose.  The air is sweet with the earthy scents of rich soil, growing things and long-buried secrets.  A lone gorcrow croaks overhead and alights upon a mysterious mound of earth to the north."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7184": "southwest",
+      "7186": "north"
+    },
+    "timeto": {
+      "7184": 0.2,
+      "7186": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "cuctucae berry",
+      "blue whortleberry",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "small wild rose",
+      "wild chokecherry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18019
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      395,
+      508,
+      405,
+      518
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "625d1687d9a75d38a02f5f45942bd81a",
+  "room": {
+    "id": 18496,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "Towering stalks of corn wrapped in thick green leaves sway overhead in the slight breeze.  Thin yellow ribbons fly from the tops of a few of  the stalks, waving like proud banners.  The wind gusts gently, pulling at the yellow silken threads attached to the corn husks."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18468": "go barrels",
+      "18495": "northwest",
+      "18497": "southwest"
+    },
+    "timeto": {
+      "18468": 0.2,
+      "18495": 0.2,
+      "18497": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

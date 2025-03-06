@@ -1,0 +1,35 @@
+{
+  "checksum": "63d33501f97c8838cde95b7fe57351cf",
+  "room": {
+    "id": 31773,
+    "title": [
+      "[Quinton Manse, Western Nook]"
+    ],
+    "description": [
+      "Wrapped in a towering ebonwood bookcases, the nook is a somewhat private booth covered in decorative rugs that compliment the floral-patterned walls.  Though no windows are present, lighting is not an issue as wall sconces housing frosted globes are prevalent in this area.  A small sign offers information for the curious."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east",
+      "Obvious exits: east"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31597": "east",
+      "32198": "northeast"
+    },
+    "timeto": {
+      "31597": 0.2,
+      "32198": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "autoflarer",
+      "auto-flarer"
+    ],
+    "uid": [
+      8084686
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "f77f4664f17257c2d5a721725d45fc21",
+  "room": {
+    "id": 8922,
+    "title": [
+      "[Wizard Guild, Workshop]"
+    ],
+    "description": [
+      "The ceiling of the workshop is formed from a solid sheet of blue ice marked with phantasmagorical shapes, but whether they were created by sentient hands or the result of slow melting is impossible to tell.  The glare from the translucent ice above casts a dim, cold blue light on a wide array of alembics, retorts and other materials filling the brass racks that line the walls.  In one corner is a winding brass stairway centered around a solid zorchar rod reaching up through the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8921": "southeast",
+      "8923": "northeast",
+      "8932": "climb stairway"
+    },
+    "timeto": {
+      "8921": 0.2,
+      "8923": 0.2,
+      "8932": 0.2
+    },
+    "tags": [
+      "wizard workshop",
+      "node",
+      "meta:mapname:Icemule Trace - Wizard Guild",
+      "meta:mapshortname:Wizard Guild (Icemule)",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapcategory:Guilds",
+      "wizard guild workshop"
+    ],
+    "uid": [
+      680009
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      4,
+      594,
+      53,
+      639
+    ]
+  }
+}

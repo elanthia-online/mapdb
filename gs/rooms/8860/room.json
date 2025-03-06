@@ -1,0 +1,36 @@
+{
+  "checksum": "42195d68f9328fca3164214f0e54f436",
+  "room": {
+    "id": 8860,
+    "title": [
+      "[Helga's, Back Alley]"
+    ],
+    "description": [
+      "The narrow alley, shaded by the overhanging eaves of the stone and wood buildings that rise on all sides, is full of debris, piles of rags and filth.  A broken wooden chair, an old crate and a trash barrel are piled to either side of the smoke-stained oaken door that leads into the back of the building to the south."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "270": "out",
+      "8861": "go door",
+      "20622": "go trapdoor"
+    },
+    "timeto": {
+      "270": 0.2,
+      "8861": 0.2,
+      "20622": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4105
+    ]
+  }
+}

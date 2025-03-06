@@ -1,0 +1,41 @@
+{
+  "checksum": "b525858e1cc40354da896cb725c0c5da",
+  "room": {
+    "id": 26890,
+    "title": [
+      "[Black Hand, Old Warehouse]"
+    ],
+    "description": [
+      "The large double sliding doors open to a poorly lit warehouse with a thick cedar floor covered with dust and scuff marks.  Stacks of crates and boxes occupy several marked locations on the floor, designated for storage and delivery.  Near the rear wall is a simple wooden desk covered in piles of stained paper."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "244": "go out",
+      "26901": "/rooms/26890/wayto/stringproc-26901.rb",
+      "26911": "/rooms/26890/wayto/stringproc-26911.rb"
+    },
+    "timeto": {
+      "244": 0.2,
+      "26901": 6,
+      "26911": 3
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      18018001
+    ],
+    "image": "wl-black_hand-1527320047.png",
+    "image_coords": [
+      474,
+      55,
+      626,
+      183
+    ]
+  }
+}

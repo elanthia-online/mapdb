@@ -1,0 +1,40 @@
+{
+  "checksum": "eaee6b6cb30fb413f95e1366a132f213",
+  "room": {
+    "id": 22196,
+    "title": [
+      "[Guardian Keep, Postern Gate]"
+    ],
+    "description": [
+      "The slope of the lawn creates a natural depression around the postern gate, where a broad circle of paving stones is bordered by some square-trimmed boxwood bushes.  The cobblestone path divides the lush, green lawn, heading north toward a small, tranquil pond and southeast to the parade grounds.  The keep is festooned with brilliantly hued banners in crimson and gold, which hang near the top of the crenellated walls."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10458": "go gate",
+      "22195": "southeast",
+      "22205": "north"
+    },
+    "timeto": {
+      "10458": 0.2,
+      "22195": 0.2,
+      "22205": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:citizenship:Ta'Vaalor"
+    ],
+    "uid": [
+      14119004
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      804,
+      496,
+      820,
+      516
+    ]
+  }
+}

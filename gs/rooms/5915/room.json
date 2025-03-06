@@ -1,0 +1,49 @@
+{
+  "checksum": "0c5beb651bcecbceeabd7e815e8c716a",
+  "room": {
+    "id": 5915,
+    "title": [
+      "[Catacombs, Storage Room]"
+    ],
+    "description": [
+      "A stockpile of the mutant mushrooms reaches the ceiling in this chamber.",
+      "A stockpile of the mutant mushrooms reaches the ceiling in this chamber.  Throughout the mushrooms, which have all shrunken down into one huge organic mess, small armies of maggots and other bugs march defiantly.  With nary a care, the maggots seem to glide gracefully on top of the liquid mess that seeped from the mushrooms."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5914": "go door",
+      "5916": "east"
+    },
+    "timeto": {
+      "5914": 0.2,
+      "5916": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "ironfern root",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009007
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      406,
+      800,
+      414,
+      809
+    ]
+  }
+}

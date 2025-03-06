@@ -1,0 +1,39 @@
+{
+  "checksum": "a125889420e22904dd11882a153dbb94",
+  "room": {
+    "id": 21163,
+    "title": [
+      "[Rogue Guild, Sewers]"
+    ],
+    "description": [
+      "Much of the water flowing into the area cascades through the gates in the floor in a frothy rush, leaving the available footing covered with spray and as slippery as metal.   Recessed into the wall, a ladder pushes up toward a trapdoor."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21152": "go ladder",
+      "21158": "north",
+      "21188": "south"
+    },
+    "timeto": {
+      "21152": 0.2,
+      "21158": 0.2,
+      "21188": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      265013
+    ],
+    "image": "ifw-rogue_guild.png",
+    "image_coords": [
+      601,
+      537,
+      617,
+      550
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "abd7efea5ebaaf634e96978fd0beeccd",
+  "room": {
+    "id": 11817,
+    "title": [
+      "[Old Ta'Faendryl, Southern Road]"
+    ],
+    "description": [
+      "Trees and brush thicken and grow with an increasingly vigorous appearance along the edges of the road to the north.  To the south, the road is wider, the sicklier vegetation of the swampy lowlands apparently less able to compete with its cobbled surface."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11816": "southwest",
+      "11818": "north"
+    },
+    "timeto": {
+      "11816": 0.2,
+      "11818": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004002
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      677,
+      1027,
+      687,
+      1037
+    ]
+  }
+}

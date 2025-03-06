@@ -1,0 +1,33 @@
+{
+  "checksum": "626f325b6dbfa5f4852af3cd49254157",
+  "room": {
+    "id": 8715,
+    "title": [
+      "[Florist's, Front Counter]"
+    ],
+    "description": [
+      "Freshly cut flowers, wreaths, and garlands are displayed in all their multicolored glory in large, earthenware pots and upon wide, wooden tables covered in soft, white cloth.  The spritely florist, Tessie Brinn, smiles as she weaves a crown of Blaeston blossoms to adorn a maiden's hair."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "237": "out",
+      "8716": "east"
+    },
+    "timeto": {
+      "237": 0.2,
+      "8716": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4055
+    ]
+  }
+}

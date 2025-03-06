@@ -1,0 +1,30 @@
+{
+  "checksum": "d7a64ffbd7f77839f13eb404cd3488ae",
+  "room": {
+    "id": 32965,
+    "title": [
+      "[Willow Hall Annex]"
+    ],
+    "description": [
+      "The floor, made of unglazed octagonal tiles, is partly covered with a thick carpet.  A window, screened with intricately carved wood, is set high on the wall.  Set beneath the window is a stout wooden tub containing a flowering vine."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23207": "go curtain",
+      "32966": "west"
+    },
+    "timeto": {
+      "23207": 0.2,
+      "32966": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Willow Hall"
+    ],
+    "uid": [
+      5001280
+    ]
+  }
+}

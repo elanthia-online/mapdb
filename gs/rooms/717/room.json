@@ -1,0 +1,42 @@
+{
+  "checksum": "9e24672dd7e27bf1f7884771d8a1ca64",
+  "room": {
+    "id": 717,
+    "title": [
+      "[Ta'Illistim, Seneschal Court]"
+    ],
+    "description": [
+      "The imposing exterior of the Hall of Justice towers above.  Unusually free of extraneous decoration, the simple stone building nevertheless presents both a formidable and impenetrable appearance.  A set of arched double doors is flanked by two city guardsmen.",
+      "The imposing exterior of the Hall of Justice towers above.  Largely free of extraneous decoration, the simple stone building nevertheless presents both a formidable and impenetrable appearance.  A set of arched double doors sits behind a tall colonnade of white marble, each column neatly fluted and set with scroll-capped capitals."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "715": "northeast",
+      "1780": "go doors"
+    },
+    "timeto": {
+      "715": 0.2,
+      "1780": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101027
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      350,
+      344,
+      371,
+      365
+    ]
+  }
+}

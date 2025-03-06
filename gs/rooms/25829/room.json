@@ -1,0 +1,41 @@
+{
+  "checksum": "0a9bf1a2b78f635177d4c9b5873abeac",
+  "room": {
+    "id": 25829,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Cool and crisp, the dark waters have a shadowy cast to them that is enhanced by the silvery glow of moonlight that attempts to pierce the ocean's reflective layers.  Far below, flickers of yellow light dance through the current like tiny fireflies at the edge of a forested glade."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25821": "/rooms/25829/wayto/stringproc-25821.rb",
+      "25830": "/rooms/25829/wayto/stringproc-25830.rb",
+      "25832": "/rooms/25829/wayto/stringproc-25832.rb"
+    },
+    "timeto": {
+      "25821": 6,
+      "25830": 6,
+      "25832": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223841
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      961,
+      1439,
+      981,
+      1458
+    ]
+  }
+}

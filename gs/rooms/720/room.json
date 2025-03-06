@@ -1,0 +1,48 @@
+{
+  "checksum": "22d3b5558cc290ded030d32238069318",
+  "room": {
+    "id": 720,
+    "title": [
+      "[Ta'Illistim, Aaendarein Var]"
+    ],
+    "description": [
+      "A lone cottage sits well back from the edge of the var, its generous yard planted full of various fruit trees and flowering bushes whose fragrance deepens upon the night air.  A wooden swing, barely visible in the gloom of night, sways from the branches of one nearby tree.",
+      "A lone cottage sits well back from the edge of the var, its generous yard planted full of various fruit trees and flowering bushes whose fragrance floats on the breeze.  A wooden swing sways from the branches of one nearby tree.",
+      "A lone villa sits well back from the edge of the var, its generous yard planted full of various fruit trees and flowering bushes whose fragrance deepens upon the night air.  A wooden swing, barely visible in the gloom of night, sways from the branches of one nearby tree.  Next door, the marble facade of the Ta'Illistim Realty building is clearly commercial, but understated.",
+      "A lone villa sits well back from the edge of the var, its generous yard planted full of various fruit trees and flowering bushes.  A wooden swing sways from the branches of one nearby tree.  Next door, the marble facade of the Ta'Illistim Realty building is clearly commercial, but understated."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "719": "southwest",
+      "721": "northeast",
+      "722": "east",
+      "2175": "go building"
+    },
+    "timeto": {
+      "719": 0.2,
+      "721": 0.2,
+      "722": 0.2,
+      "2175": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100035
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1459,
+      463,
+      1483,
+      486
+    ]
+  }
+}

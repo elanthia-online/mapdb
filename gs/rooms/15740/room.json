@@ -1,0 +1,28 @@
+{
+  "checksum": "0f1cee336862eb1cde5da536656ab551",
+  "room": {
+    "id": 15740,
+    "title": [
+      "[Junarra's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an oak beam ceiling, a tattered merchant permit hangs on one of the pale oak walls.  A lacquered wooden shelf and a low wrought iron table sit in opposite corners while a well-pruned lemon tree rests on a polished oak floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, out"
+    ],
+    "wayto": {
+      "2316": "out",
+      "15767": "south",
+      "15768": "northeast"
+    },
+    "timeto": {
+      "2316": 0.2,
+      "15767": 0.2,
+      "15768": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "d29b3b835a28943bb1d44420fee08b20",
+  "room": {
+    "id": 2455,
+    "title": [
+      "[Icemule Trace, East Gate]"
+    ],
+    "description": [
+      "Pack mules bray from wide hitching posts to either side of the East Gate, laden with luggage and gear from travelers fixing to brave the snowy wilderness.  Crowds pass through the barbican beyond, a peculiar mix of returning adventurers, weary merchants, and serene monks and sisters from the abbey to the east.  A group of halfling children plays a game by the barbican towers, daring one another to run out into the wilds beyond.",
+      "Pack mules bray from wide hitching posts to either side of the East Gate, laden with luggage and gear from travelers fixing to brave the snowy wilderness.  Crowds pass through the barbican beyond, a peculiar mix of returning adventurers, weary merchants, and serene monks and sisters from the abbey to the east.  Several town guards stand watch in the darkness near the barbican towers, their eyes trained on the wilds beyond.",
+      "A layer of dust swirls around the ground, stirred up by the trampling feet of the crowds passing in and out of a tall gate.  A group of halfling children play a game by the gate, daring each other to run out into the wilds beyond."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2452": "west",
+      "3234": "go east gate",
+      "27716": "go north tower",
+      "27723": "go south tower",
+      "30709": "/rooms/2455/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2452": 0.2,
+      "3234": 0.2,
+      "27716": 0.2,
+      "27723": 0.2,
+      "30709": "/rooms/2455/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "calmintha flower",
+      "urchin-access",
+      "urchin guide eastgate",
+      "eastgate",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042305
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      1026,
+      787,
+      1062,
+      823
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "72dc56b77a8bc8ee978a94ee94c452a8",
+  "room": {
+    "id": 20002,
+    "title": [
+      "[Cavernhold, Western Shore]"
+    ],
+    "description": [
+      "You are on the western side of a swiftly moving underground stream.  The cavern here is large and dark, making it difficult to see very far in any one direction.  A passage curves off to the southwest, closely following the path of the stream."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20001": "go bridge",
+      "20010": "southwest"
+    },
+    "timeto": {
+      "20001": 0.2,
+      "20010": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11219
+    ]
+  }
+}

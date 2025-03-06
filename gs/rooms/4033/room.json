@@ -1,0 +1,55 @@
+{
+  "checksum": "f7c916af77f9f8729c72b10d1832d038",
+  "room": {
+    "id": 4033,
+    "title": [
+      "[Hall of Patrons, Vestibule]"
+    ],
+    "description": [
+      "Cool marble floors and frescoed walls enclose this spacious entryway.  Candlelight flickers brightly from brass wall sconces, illuminating the area and seamless marble columns support a large archway to the north, opening into a large rotunda.  To the south, large gated doors stand open."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "745": "north",
+      "1830": "/rooms/4033/wayto/stringproc-1830.rb",
+      "4034": "east",
+      "4038": "go doors",
+      "9823": "/rooms/4033/wayto/stringproc-9823.rb",
+      "10010": "/rooms/4033/wayto/stringproc-10010.rb"
+    },
+    "timeto": {
+      "745": 0.2,
+      "1830": "/rooms/4033/timeto/stringproc-1830.rb",
+      "4034": 0.2,
+      "4038": 0.2,
+      "9823": "/rooms/4033/timeto/stringproc-9823.rb",
+      "10010": "/rooms/4033/timeto/stringproc-10010.rb"
+    },
+    "tags": [
+      "node",
+      "voln",
+      "meta:mapname:Elven Nations - Ta'Illistim Buildings",
+      "meta:mapshortname:Ta'Illistim Buildings",
+      "meta:mapcategory:Elven Nations",
+      "meta:seeking",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13109002
+    ],
+    "image": "en-ta_illistim_buildings.png",
+    "image_coords": [
+      368,
+      2138,
+      503,
+      2191
+    ]
+  }
+}

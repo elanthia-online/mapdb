@@ -1,0 +1,48 @@
+{
+  "checksum": "a5a36c2f36557e0189d0e26a98e75450",
+  "room": {
+    "id": 4304,
+    "title": [
+      "[Mine]"
+    ],
+    "description": [
+      "To the west is a rough opening to another tunnel which looks cavelike and lacks the shoring timbers as in the passageway where you stand."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4303": "south",
+      "4305": "north",
+      "4334": "go crevice"
+    },
+    "timeto": {
+      "4303": 0.2,
+      "4305": 0.2,
+      "4334": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24004
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      754,
+      604,
+      764,
+      614
+    ]
+  }
+}

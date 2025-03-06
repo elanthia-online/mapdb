@@ -1,0 +1,58 @@
+{
+  "checksum": "809c909d0dd07e917eb2722b39a5795d",
+  "room": {
+    "id": 2634,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The path you travel upon winds its way through the scrubby ground.  Amid the bushes hangs a man, suspended from his ankle.  His face is a purple crimson from the blood pooled within, and his eyes have rolled back into his head.  While this is not uncommon, perhaps more remarkable is the fact that the rope is anchored in the ground, and the man hangs upwards."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest",
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/2634/wayto/stringproc-2605.rb",
+      "2635": "/rooms/2634/wayto/stringproc-2635.rb",
+      "12093": "/rooms/2634/wayto/stringproc-12093.rb",
+      "12102": "northwest",
+      "12134": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12102": 0.2,
+      "12134": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567010
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      923,
+      619,
+      931,
+      627
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "d3306648853efaf4096aba74478ff301",
+  "room": {
+    "id": 12680,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "Severe burns mar the walls and ceiling, and several of the carved grooves in the floor have been chipped and cut, as if hit with the edge of a heavy object.  A small portion of the wall has collapsed, the stones that once supported it heaped in piles where they fell."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12679": "west",
+      "12681": "east",
+      "12688": "south"
+    },
+    "timeto": {
+      "12679": 0.2,
+      "12681": 0.2,
+      "12688": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031051
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      810,
+      708,
+      846,
+      744
+    ]
+  }
+}

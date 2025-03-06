@@ -1,0 +1,40 @@
+{
+  "checksum": "4cbc1010a6eeb0c7f790c283bd6fbe58",
+  "room": {
+    "id": 19687,
+    "title": [
+      "[Cavernhold, Loud Corridor]"
+    ],
+    "description": [
+      "The loud banging of metal on metal can be heard coming from the room to the southeast."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19686": "southeast",
+      "19688": "west"
+    },
+    "timeto": {
+      "19686": 0.2,
+      "19688": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10046
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      646,
+      806,
+      656,
+      817
+    ]
+  }
+}

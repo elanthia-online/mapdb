@@ -1,0 +1,40 @@
+{
+  "checksum": "fb0cecc19bd79878926453cae5c62951",
+  "room": {
+    "id": 22004,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "The flowers of the garden have given way to a patch of wavy pothinir grass.  The green living carpet flows along the ground surrounding a magnificent oak tree which towers over the area.  At the end of the path, an opulant marble archway marks the way out of the garden."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "3685": "south",
+      "18189": "north"
+    },
+    "timeto": {
+      "3685": "/rooms/22004/timeto/stringproc-3685.rb",
+      "18189": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312026
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      304,
+      409,
+      317,
+      421
+    ]
+  }
+}

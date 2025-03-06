@@ -1,0 +1,41 @@
+{
+  "checksum": "5d1f3bd4dcf780cabeead4aa3a917d07",
+  "room": {
+    "id": 18191,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "As the pathway curves inward, you notice the sunflowers have grown tall as giantmen in the warm brilliant light of the sun.  Adding to the majestic scene, four brightly colored dragonflies hover just above the flowers, surveying their domain.",
+      "Though night has fallen, the warm promise of the dawn fills the air in this portion of the garden.  Sunflowers as tall as giantmen line the inward curve of the path.  Adding to the majestic scene, four brightly colored dragonflies hover just above the flowers, surveying their domain."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18190": "southwest",
+      "18192": "north"
+    },
+    "timeto": {
+      "18190": 0.2,
+      "18192": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312022
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      403,
+      277,
+      415,
+      290
+    ]
+  }
+}

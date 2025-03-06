@@ -1,0 +1,41 @@
+{
+  "checksum": "d001e445694441eeaab14ebf8273529e",
+  "room": {
+    "id": 32450,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "A pair of heavy stone doors is set into the ground at a slight angle, guarding the entrance to a vault or storeroom beneath the castle.  Heavy beams hold the doors shut, secured by thick silver nails.  The path proceeds past the blockaded entrance, passing a spray of dried blood on the wall nearby."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32445": "northwest",
+      "32448": "southeast"
+    },
+    "timeto": {
+      "32445": 0.2,
+      "32448": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577117
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      745,
+      769,
+      763,
+      786
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "40c90703a0ce633d3e88c0dce532822a",
+  "room": {
+    "id": 17730,
+    "title": [
+      "[Empath Guild, Training Foyer]"
+    ],
+    "description": [
+      "Intricate marquetry of naturally hued woods, incorporating palest pine, purple-grey haon, vivid red cedar, and dusky ebonwood, forms the walls of this grandly proportioned foyer.  Assorted training rooms and their attendant equipment can be glimpsed further inside the training annex.  The dry, herbal scents of cedar and sandalwood fill the air, the aroma more intense near the lamps set along each wall."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17725": "out",
+      "17731": "go archway",
+      "19886": "west"
+    },
+    "timeto": {
+      "17725": 0.2,
+      "17731": 0.2,
+      "19886": 0.2
+    },
+    "tags": [
+      "empath alchemy administrator",
+      "empath guild administrator"
+    ],
+    "uid": [
+      653015
+    ],
+    "image": "rr-empath_guild-1525964802.jpg",
+    "image_coords": [
+      208,
+      105,
+      259,
+      155
+    ],
+    "check_location": true
+  }
+}

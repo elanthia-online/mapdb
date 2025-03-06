@@ -1,0 +1,32 @@
+{
+  "checksum": "f96e07fb3d4ed2df9b1518523c47cae5",
+  "room": {
+    "id": 35217,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14121": "go pine door",
+      "35218": "go curtained opening",
+      "35219": "north"
+    },
+    "timeto": {
+      "14121": 0.2,
+      "35218": 0.2,
+      "35219": 0.2
+    },
+    "tags": [
+      "aspis locker"
+    ],
+    "uid": [
+      4219362
+    ]
+  }
+}

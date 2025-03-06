@@ -1,0 +1,43 @@
+{
+  "checksum": "1fdc3a251c86b481fa1ebe8ac648384b",
+  "room": {
+    "id": 12526,
+    "title": [
+      "[Riverbank, Rocky Shore]"
+    ],
+    "description": [
+      "A sharp jumble of grey and black rocks, as high as a halfling is tall, makes for a treacherous trip to the shore.  Nonetheless, one old dwarf has braved it, mumbling about near the riverbank with a bucket and small spade."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12525": "north",
+      "12527": "northeast",
+      "12528": "south"
+    },
+    "timeto": {
+      "12525": 0.2,
+      "12527": 0.2,
+      "12528": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703211
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      145,
+      552,
+      165,
+      572
+    ]
+  }
+}

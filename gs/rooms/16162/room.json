@@ -1,0 +1,38 @@
+{
+  "checksum": "eda5ca32410064e68e94d158fc3e62aa",
+  "room": {
+    "id": 16162,
+    "title": [
+      "[Outpost, Courtyard]"
+    ],
+    "description": [
+      "Men and women of various races cross back and forth through the courtyard, sparring under the watchful eye of a stout dwarf standing atop a large wood block.  The covered walkway extends along the border of the courtyard, providing shade and shelter to several archways and doorways that open out on to the courtyard.  Along a wall that extends westwards towards the main gate are lined a series of dummies built to resemble orcs, goblins, and other fiends."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16159": "west",
+      "16163": "go doorway",
+      "16164": "go archway"
+    },
+    "timeto": {
+      "16159": 0.2,
+      "16163": 0.2,
+      "16164": 0.2
+    },
+    "uid": [
+      564006
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2784,
+      1683,
+      2808,
+      1706
+    ]
+  }
+}

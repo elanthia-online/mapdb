@@ -1,0 +1,42 @@
+{
+  "checksum": "8f6b7f6f727ba1ee78d38a0a2ea0a8bc",
+  "room": {
+    "id": 378,
+    "title": [
+      "[House Aspis, Outside the Gate]"
+    ],
+    "description": [
+      "At the end of the quiet lane you come upon a high stone wall.  Set into the midst of the wall is an elaborate wrought-iron gate.  Next to the gate, a polished silver plaque is inset into the stonework.",
+      "At the end of the quiet lane you come upon a high stone wall.  Set into the midst of the wall is an elaborate wrought iron gate.  Next to the gate, a polished silver plaque is inset into the stonework."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "376": "west",
+      "24956": "go gate"
+    },
+    "timeto": {
+      "376": 0.2,
+      "24956": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      102599
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1421,
+      792,
+      1457,
+      828
+    ]
+  }
+}

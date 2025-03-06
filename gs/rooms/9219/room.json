@@ -1,0 +1,38 @@
+{
+  "checksum": "1a98a838c8822f15295a63a4317862b0",
+  "room": {
+    "id": 9219,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "This portion of the path is barely wide enough to travel upon.  Any slip or stumble promises a nasty spill to the pit below for those careless enough not to pay attention.  A trail of slime on the stone floor indicates that something odd has passed this way."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9212": "north",
+      "9220": "south"
+    },
+    "timeto": {
+      "9212": 0.2,
+      "9220": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532009
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1199,
+      731,
+      1209,
+      741
+    ]
+  }
+}

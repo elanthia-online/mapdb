@@ -1,0 +1,41 @@
+{
+  "checksum": "75cb8415c17344fabbf4d7c026eeb66b",
+  "room": {
+    "id": 5711,
+    "title": [
+      "[The North 'Haven Pawnery]"
+    ],
+    "description": [
+      "A middle-aged man wearing a bushy salt-and-pepper beard and a sour expression stands behind a modwir counter that bears the rounded edges and marring of a thousand transactions.  The cracked and yellowed plaster walls, dilapidated counter and the appearance of the proprietor suggest a distinctly Dwarven influence, if not lineage."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1475": "out",
+      "5712": "west",
+      "30710": "/rooms/5711/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1475": 0.2,
+      "5712": 0.2,
+      "30710": "/rooms/5711/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "urchin guide pawn",
+      "urchin-access",
+      "trash",
+      "meta:trashcan:wide-lipped copper urn",
+      "pawn",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740075
+    ]
+  }
+}

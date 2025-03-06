@@ -1,0 +1,41 @@
+{
+  "checksum": "cea2402a839a79cc7a10e26ed0c69946",
+  "room": {
+    "id": 3809,
+    "title": [
+      "[Helga's Tavern, Barroom]"
+    ],
+    "description": [
+      "The blended odors of ale, sweat, leather, perfume and hearty stew fill the stifling air of the tavern.  Disheveled regulars and road-weary travelers rub elbows at the wooden bar, which looks recently varnished but already bears a variety of stains and grime.  Helga, the ancient, obese proprietor, moves behind the bar, wiping glasses with a dirty towel as she keeps a beady eye on the patrons.  A small fireplace in one corner burns feebly, adding little light or warmth to the room."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "271": "go doors",
+      "8858": "north",
+      "8859": "west",
+      "8861": "go entrance",
+      "30708": "/rooms/3809/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "271": 0.2,
+      "8858": 0.2,
+      "8859": 0.2,
+      "8861": 0.2,
+      "30708": "/rooms/3809/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "advguard2",
+      "urchin-access",
+      "urchin guide helgas",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4101
+    ]
+  }
+}

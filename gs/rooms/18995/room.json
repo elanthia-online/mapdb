@@ -1,0 +1,36 @@
+{
+  "checksum": "1b6a7231eed05762b28f89c61820c3e3",
+  "room": {
+    "id": 18995,
+    "title": [
+      "[Sorcerer Guild, Tunnel]"
+    ],
+    "description": [
+      "Faint striations of crimson are visible within the stone walls, highlighted by the luminescence of giant toadstools.  Some large carved stone doors stand at the end of the tunnel, right beside a peculiar sphene chip mosaic."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "18981": "north",
+      "18996": "go doors",
+      "19001": "/rooms/18995/wayto/stringproc-19001.rb"
+    },
+    "timeto": {
+      "18981": 0.2,
+      "18996": 0.2,
+      "19001": 5
+    },
+    "uid": [
+      668004
+    ],
+    "image": "en-zul-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      762,
+      462,
+      800,
+      499
+    ]
+  }
+}

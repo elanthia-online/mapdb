@@ -1,0 +1,55 @@
+{
+  "checksum": "b33f8c28ab9f1cda9052ecd9d18cc7e2",
+  "room": {
+    "id": 8208,
+    "title": [
+      "[Sea Caverns, Sleeping Quarters]"
+    ],
+    "description": [
+      "This is obviously another area the goblins have claimed as living quarters.  Piles of rags line the walls all about.  A fire pit smolders in the chamber's center, giving off the rank smell of burning hair.  All sorts of scraps and trinkets litter the ground around the pit's perimeter."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south, northwest"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8207": "northwest",
+      "8209": "southeast",
+      "8210": "east",
+      "8211": "south"
+    },
+    "timeto": {
+      "8207": 0.2,
+      "8209": 0.2,
+      "8210": 0.2,
+      "8211": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391019
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      553,
+      235,
+      563,
+      245
+    ]
+  }
+}

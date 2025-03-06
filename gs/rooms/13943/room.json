@@ -1,0 +1,35 @@
+{
+  "checksum": "e962caa10a9e703be6144d9d2d3997cc",
+  "room": {
+    "id": 13943,
+    "title": [
+      "[Natulcien's Healer Hall, Shop]"
+    ],
+    "description": [
+      "Stretched between ancient modwir trees, the ceiling is fashioned of a sturdy canvas and silk blend.  Permanent eastern and western walls support shelves and drying racks that house herbs, tinctures, and poultices alike, while a linden platform lifts the floor off the ground and is covered with lush rugs.  A set of steps leads down into a garden towards another canvas covered platform."
+    ],
+    "paths": [
+      "Obvious exits: down, out"
+    ],
+    "location": "the hamlet of Ravelin",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13942": "out",
+      "13950": "down"
+    },
+    "timeto": {
+      "13942": 0.2,
+      "13950": 0.2
+    },
+    "tags": [
+      "herbalist",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14201010
+    ]
+  }
+}

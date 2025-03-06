@@ -1,0 +1,41 @@
+{
+  "checksum": "a53ec846676e0ac779d2cb82de9900bd",
+  "room": {
+    "id": 3885,
+    "title": [
+      "[Prison, Courtyard]"
+    ],
+    "description": [
+      "A stiff breeze carries the faint scent of Darkstone Bay over the high basalt walls into this small, secluded yard.  Several low marble benches are scattered here and there, and a heavy iron portcullis leads to the interior of the prison.  A slender stone path leads out of the courtyard and back to the crowded streets."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "308": "go path",
+      "3886": "go portcullis"
+    },
+    "timeto": {
+      "308": 0.2,
+      "3886": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      77001
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      970,
+      965,
+      1006,
+      1001
+    ]
+  }
+}

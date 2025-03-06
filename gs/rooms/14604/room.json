@@ -1,0 +1,42 @@
+{
+  "checksum": "c0e6f2d16d772a95ccf92ec18cc12db6",
+  "room": {
+    "id": 14604,
+    "title": [
+      "[Manor House, Servants' Stairs]"
+    ],
+    "description": [
+      "Along the east wall a stairway descends to the ground floor of the house, while another stairway along the south wall leads up to the manor's attic.  Both sets of stairs look weak, and a few of the steps are actually missing."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5547": "go #-7293",
+      "14607": "north",
+      "17079": "go #-7296"
+    },
+    "timeto": {
+      "5547": 0.2,
+      "14607": 0.2,
+      "17079": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4215158
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1154,
+      851,
+      1164,
+      861
+    ]
+  }
+}

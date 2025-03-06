@@ -1,0 +1,34 @@
+{
+  "checksum": "a3089dbd81ed6f6d0a56cabb9190eda1",
+  "room": {
+    "id": 24672,
+    "title": [
+      "[Lily Manor, Foyer]"
+    ],
+    "description": [
+      "An ebony-edged plum carpet runner extends across the grey marble flooring to the base of a grand staircase.  Silver sconces cast flickering candlelight upon the varnished ebonwood walls enclosing the large foyer, and moonlight streams through the arched windows framing the doors.  Shadows play across an expansive multi-hued tapestry serving as a backdrop to some ivory silk-covered chairs, and a linen-covered table rests near a tall archway to the west."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "24644": "go doors",
+      "24674": "go archway",
+      "25181": "northwest",
+      "25182": "northeast"
+    },
+    "timeto": {
+      "24644": 0.2,
+      "24674": 0.2,
+      "25181": 0.2,
+      "25182": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      18017002
+    ]
+  }
+}

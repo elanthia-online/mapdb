@@ -1,0 +1,86 @@
+{
+  "checksum": "a2e2355b450f0ab39a699c9a415b05ec",
+  "room": {
+    "id": 3619,
+    "title": [
+      "[Wayside Inn, Dining Room]"
+    ],
+    "description": [
+      "This ramshackle hostel bears the signs of rough use by hard-bitten travellers and headstrong adventurers.  Several blade-scarred tables and low stools are lined up against the walls, while the central area is dominated by a large firepit around which is a low platform covered with a few ratty bearskins.  The clatter of clay tankards and the smell of humble victuals provide some small comfort to the steady stream of wayfarers who pause here to meet and greet one another."
+    ],
+    "paths": [
+      "Obvious exits: south, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "221": "out",
+      "1777": "/rooms/3619/wayto/stringproc-1777.rb",
+      "3620": "/rooms/3619/wayto/stringproc-3620.rb",
+      "3621": "/rooms/3619/wayto/stringproc-3621.rb",
+      "3625": "/rooms/3619/wayto/stringproc-3625.rb",
+      "3732": "/rooms/3619/wayto/stringproc-3732.rb",
+      "3760": "/rooms/3619/wayto/stringproc-3760.rb",
+      "3828": "/rooms/3619/wayto/stringproc-3828.rb",
+      "3832": "/rooms/3619/wayto/stringproc-3832.rb",
+      "3840": "/rooms/3619/wayto/stringproc-3840.rb",
+      "3841": "/rooms/3619/wayto/stringproc-3841.rb",
+      "3908": "/rooms/3619/wayto/stringproc-3908.rb",
+      "3911": "/rooms/3619/wayto/stringproc-3911.rb",
+      "3978": "/rooms/3619/wayto/stringproc-3978.rb",
+      "9652": "south",
+      "14627": "go steep stair",
+      "18230": "/rooms/3619/wayto/stringproc-18230.rb",
+      "18232": "/rooms/3619/wayto/stringproc-18232.rb",
+      "18233": "/rooms/3619/wayto/stringproc-18233.rb",
+      "21298": "/rooms/3619/wayto/stringproc-21298.rb",
+      "21299": "/rooms/3619/wayto/stringproc-21299.rb",
+      "21300": "/rooms/3619/wayto/stringproc-21300.rb",
+      "21301": "/rooms/3619/wayto/stringproc-21301.rb",
+      "30708": "/rooms/3619/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "221": 0.2,
+      "1777": 0.2,
+      "3620": 0.2,
+      "3621": 0.2,
+      "3625": 0.2,
+      "3732": 0.2,
+      "3760": 0.2,
+      "3828": 0.2,
+      "3832": 0.2,
+      "3840": 0.2,
+      "3841": 0.2,
+      "3908": 0.2,
+      "3911": 0.2,
+      "3978": 0.2,
+      "9652": 0.2,
+      "14627": 0.2,
+      "18230": 0.2,
+      "18232": 0.2,
+      "18233": 0.2,
+      "21298": 0.2,
+      "21299": 0.2,
+      "21300": 0.2,
+      "21301": 0.2,
+      "30708": "/rooms/3619/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "table",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide wayside",
+      "wayside"
+    ],
+    "uid": [
+      3003
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      658,
+      251,
+      668,
+      261
+    ]
+  }
+}

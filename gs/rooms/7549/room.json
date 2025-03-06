@@ -1,0 +1,51 @@
+{
+  "checksum": "386f76f16e39f5f93963e81db03449d8",
+  "room": {
+    "id": 7549,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "A thin layer of mist covers the floor which swirls and surges as you walk through it.  The mist glows eerily as the light from the moss that grows on the walls is diffused through it.  Thick drops of water splash down upon you from the ceiling, adding to the chill which fills the area."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7548": "southwest",
+      "7559": "northwest"
+    },
+    "timeto": {
+      "7548": 0.2,
+      "7559": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490018
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      420,
+      1017,
+      430,
+      1027
+    ]
+  }
+}

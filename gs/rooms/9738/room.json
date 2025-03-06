@@ -1,0 +1,40 @@
+{
+  "checksum": "a77e9a45870b83e961a96e12ee46ad22",
+  "room": {
+    "id": 9738,
+    "title": [
+      "[Maaghara Tower, Dark Stair]"
+    ],
+    "description": [
+      "The spiraling stair curves sharply, moving away from the wall and towards the center of the tree, ending above at a central landing.  Odd sighs and groans echo through the interior of the tree at irregular intervals.  The light from the walls casts disturbing shadows across the area, shadows that move one way for an instant then dart away in the opposite direction.  Under the stairwell, a narrow, dark passage leads off to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, up"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9733": "southwest",
+      "9737": "east",
+      "9739": "up"
+    },
+    "timeto": {
+      "9733": 0.2,
+      "9737": 0.2,
+      "9739": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13021009
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      714,
+      616,
+      724,
+      626
+    ]
+  }
+}

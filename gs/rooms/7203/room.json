@@ -1,0 +1,63 @@
+{
+  "checksum": "52831f8ae4b1412ea68edcfc366704bc",
+  "room": {
+    "id": 7203,
+    "title": [
+      "[Graveyard]"
+    ],
+    "description": [
+      "The land sinks down into a bowl-shaped depression to the side of the route.  The trail in that direction has become muddy and indistinct, ending in a watery conclusion.  The brown, foul water that just covers the surface of the ground within the depression seems to hide a multitude of traps and treasures."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "moist",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7202": "east",
+      "7204": "southwest",
+      "7251": "go trail"
+    },
+    "timeto": {
+      "7202": 0.2,
+      "7204": 0.2,
+      "7251": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "wild chokecherry",
+      "bright red cranberry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18052
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      209,
+      647,
+      219,
+      657
+    ]
+  }
+}

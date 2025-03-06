@@ -1,0 +1,43 @@
+{
+  "checksum": "aef604aef5de089228e388be8022f008",
+  "room": {
+    "id": 31861,
+    "title": [
+      "[Icebriar Lake, Oblivion Lane]"
+    ],
+    "description": [
+      "Snow blankets the ground, almost obscuring the cobblestone path wending its way through the area.  Several almost identical houses overlook a large lake, and crimson-tipped spikes of ice bristle en masse to block all access to its frozen expanse.  Set farther back, dark vines drape over numerous smaller structures and wind around snowmen looming in the shadows."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "icy glacier",
+    "wayto": {
+      "31860": "northwest",
+      "31862": "west",
+      "31868": "southeast"
+    },
+    "timeto": {
+      "31860": 0.2,
+      "31862": 0.2,
+      "31868": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083077
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1283,
+      165,
+      1305,
+      185
+    ]
+  }
+}

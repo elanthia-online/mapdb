@@ -1,0 +1,38 @@
+{
+  "checksum": "01ff8c6fc13358b2797bba5e849a6449",
+  "room": {
+    "id": 21308,
+    "title": [
+      "[House Brigatta, Secret Hallway]"
+    ],
+    "description": [
+      "This narrow hallway ends in a blank wall and at the other end a curtain."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21305": "south",
+      "21309": "go curtain",
+      "21310": "/rooms/21308/wayto/stringproc-21310.rb"
+    },
+    "timeto": {
+      "21305": 0.2,
+      "21309": 0.2,
+      "21310": 0.2
+    },
+    "tags": [
+      "meta:che:House Brigatta"
+    ],
+    "uid": [
+      107107
+    ],
+    "image_coords": [
+      432,
+      480,
+      514,
+      532
+    ]
+  }
+}

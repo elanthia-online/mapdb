@@ -1,0 +1,53 @@
+{
+  "checksum": "4882e2e9f7ee85b46bdd2ed89a01e36e",
+  "room": {
+    "id": 7554,
+    "title": [
+      "[Twisting Tunnel]"
+    ],
+    "description": [
+      "The tunnels widen sharply here at this intersection of tunnels and then become narrow again away from the center.  A smaller side tunnel leads off to the north into the darkness while the main tunnel continues east and west."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7553": "west",
+      "7555": "north",
+      "7557": "east"
+    },
+    "timeto": {
+      "7553": 0.2,
+      "7555": 0.2,
+      "7557": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      490010
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      340,
+      936,
+      350,
+      946
+    ]
+  }
+}

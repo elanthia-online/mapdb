@@ -1,0 +1,79 @@
+{
+  "checksum": "23b35fa58f0614fee72030dbecde3a20",
+  "room": {
+    "id": 3669,
+    "title": [
+      "[Gardenia Lane]"
+    ],
+    "description": [
+      "A pair of tall, beribboned stone columns flanks the entrance to the Four Winds National Bank.  The three-story building dwarfs the surrounding shops and remains the largest in the city proper.  Tiled in a rustic red shingle, the roof of the bank appears to be a cool silvery purple hue as the moonlight reflects off its surface.  A pair of armor-clad elven warriors guard the entrance, their gaze never wavering as they protect the city's treasure.",
+      "A pair of tall, beribboned stone columns flanks the entrance to the Mist Harbor National Bank.  The three-story building dwarfs the surrounding shops and remains the largest in the city proper.  Tiled in a rustic red shingle, the roof of the bank appears to be a cool silvery purple hue as the moonlight reflects off its surface.  A pair of armor-clad elven warriors guard the entrance, their gaze never wavering as they protect the city's treasure.",
+      "A pair of tall, beribboned stone columns flanks the entrance to the Four Winds National Bank.  The three-story building dwarfs the surrounding shops and remains the largest in the city proper.  Tiled in a rustic red shingle, the roof of the bank appears to be on fire, as sun glints off its surface.  A pair of armor-clad elven warriors guard the entrance, their gaze never wavering as they protect the city's treasure."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7": "/rooms/3669/wayto/stringproc-7.rb",
+      "284": "/rooms/3669/wayto/stringproc-284.rb",
+      "1448": "/rooms/3669/wayto/stringproc-1448.rb",
+      "1944": "/rooms/3669/wayto/stringproc-1944.rb",
+      "2426": "/rooms/3669/wayto/stringproc-2426.rb",
+      "3521": "/rooms/3669/wayto/stringproc-3521.rb",
+      "3668": "west",
+      "3670": "go bank",
+      "3673": "east",
+      "4651": "/rooms/3669/wayto/stringproc-4651.rb",
+      "9410": "/rooms/3669/wayto/stringproc-9410.rb",
+      "10862": "/rooms/3669/wayto/stringproc-10862.rb",
+      "26905": "/rooms/3669/wayto/stringproc-26905.rb",
+      "28908": "/rooms/3669/wayto/stringproc-28908.rb",
+      "29869": "/rooms/3669/wayto/stringproc-29869.rb",
+      "30718": "/rooms/3669/wayto/stringproc-30718.rb",
+      "31558": "/rooms/3669/wayto/stringproc-31558.rb",
+      "32885": "/rooms/3669/wayto/stringproc-32885.rb",
+      "33863": "/rooms/3669/wayto/stringproc-33863.rb"
+    },
+    "timeto": {
+      "7": "/rooms/3669/timeto/stringproc-7.rb",
+      "284": "/rooms/3669/timeto/stringproc-284.rb",
+      "1448": "/rooms/3669/timeto/stringproc-1448.rb",
+      "1944": "/rooms/3669/timeto/stringproc-1944.rb",
+      "2426": "/rooms/3669/timeto/stringproc-2426.rb",
+      "3521": "/rooms/3669/timeto/stringproc-3521.rb",
+      "3668": 0.8,
+      "3670": 0.2,
+      "3673": 0.2,
+      "4651": "/rooms/3669/timeto/stringproc-4651.rb",
+      "9410": "/rooms/3669/timeto/stringproc-9410.rb",
+      "10862": "/rooms/3669/timeto/stringproc-10862.rb",
+      "26905": 2400,
+      "28908": "/rooms/3669/timeto/stringproc-28908.rb",
+      "29869": "/rooms/3669/timeto/stringproc-29869.rb",
+      "30718": "/rooms/3669/timeto/stringproc-30718.rb",
+      "31558": "/rooms/3669/timeto/stringproc-31558.rb",
+      "32885": "/rooms/3669/timeto/stringproc-32885.rb",
+      "33863": "/rooms/3669/timeto/stringproc-33863.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10",
+      "meta:teleport"
+    ],
+    "uid": [
+      3201030
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2910,
+      1320,
+      2951,
+      1361
+    ]
+  }
+}

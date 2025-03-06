@@ -1,0 +1,56 @@
+{
+  "checksum": "7989ce5b8caf19f3b77290db766b068b",
+  "room": {
+    "id": 12135,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A volcano erupts in the distance, spewing molten lava and ash all over.  The lava flies high into the air, carrying with it chunks of mountain and clouds of ash.  In the large crater the eruption created, you see figures moving about in the lava itself.  They splash in it and throw it on each other, howling and laughing.  Above the mountain, dark red birds of some kind dodge flying lava and debris, screeching in contentment."
+    ],
+    "paths": [
+      "Obvious paths: northwest",
+      "Obvious exits: northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12135/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12135/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12135/wayto/stringproc-12093.rb",
+      "12118": "northwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12118": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567009
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      895,
+      619,
+      903,
+      627
+    ]
+  }
+}

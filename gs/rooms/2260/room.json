@@ -1,0 +1,42 @@
+{
+  "checksum": "40548ce5c99fde5f40a8c8e19a805f3b",
+  "room": {
+    "id": 2260,
+    "title": [
+      "[On A Ferryboat]"
+    ],
+    "description": [
+      "Were it not for the thick chain holding this squat ferryboat back, the current would certainly sweep it along the river and eventually out to sea.  The boat heaves and sways dangerously now and again, but seems safe enough for the moment."
+    ],
+    "paths": [
+      "Obvious paths: out",
+      "Obvious paths: none"
+    ],
+    "location": "the Abandoned Mine",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1965": "/rooms/2260/wayto/stringproc-1965.rb",
+      "2261": "/rooms/2260/wayto/stringproc-2261.rb"
+    },
+    "timeto": {
+      "1965": 120,
+      "2261": 120
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3005013
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      867,
+      892,
+      883,
+      908
+    ]
+  }
+}

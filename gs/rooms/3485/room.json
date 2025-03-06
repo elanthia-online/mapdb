@@ -1,0 +1,44 @@
+{
+  "checksum": "505cc8916a3cf45b3fb8ce98ed0f69e1",
+  "room": {
+    "id": 3485,
+    "title": [
+      "[Ta'Vaalor, Amaranth Court]"
+    ],
+    "description": [
+      "A large inn marks the bustling corner of the court, its massive walls enlivened by deeply carved intertwining vines that creep up the stonework and meet in a mass of heavy stone foliage above each window embrasure and door lintel.  An engraved silver sign swings from a post beside the inn's ironwood front doors.",
+      "A large inn marks the bustling corner of the court, its massive walls enlivened by deeply carved intertwining vines that creep up the stonework and meet in a mass of heavy stone foliage above each window embrasure and door lintel.  An engraved silver sign, illuminated by the lanterns hanging from the inn's wide awning, swings from a post beside the inn's ironwood front doors."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3484": "southwest",
+      "3486": "east",
+      "5826": "go inn"
+    },
+    "timeto": {
+      "3484": 0.2,
+      "3486": 0.2,
+      "5826": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100011
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      850,
+      183,
+      884,
+      215
+    ]
+  }
+}

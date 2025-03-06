@@ -1,0 +1,41 @@
+{
+  "checksum": "ee4aa04c37069588855e1f9e77a158ce",
+  "room": {
+    "id": 18856,
+    "title": [
+      "[Twilight Hall, Founder's Hall]"
+    ],
+    "description": [
+      "The hallway is panelled in a rich, dark wood and illuminated at one end, drawing your eyes to an exquisite painting.  A spiral staircase leads both upstairs and downstairs."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18850": "down",
+      "18857": "go oak door",
+      "18858": "go rune-marked door",
+      "18875": "up"
+    },
+    "timeto": {
+      "18850": 0.2,
+      "18857": 0.2,
+      "18858": 0.2,
+      "18875": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108007
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      153,
+      253,
+      239,
+      303
+    ]
+  }
+}

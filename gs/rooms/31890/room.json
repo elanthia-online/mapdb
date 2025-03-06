@@ -1,0 +1,32 @@
+{
+  "checksum": "7e1c18f1845fc0dbd986f27a9ef0f573",
+  "room": {
+    "id": 31890,
+    "title": [
+      "[Tippy Toes, Living Quarters]"
+    ],
+    "description": [
+      "A pair of high-backed chairs separated by a low table huddle in front of a dark stone fireplace, the dying embers of a fire glowing within.  Along one grey-striped, papered wall sits a sturdy oaken sideboard with open drawers, its contents neat and orderly.  Tucked away beneath a narrow stairway, wooden bins full of colorful bits of fabric are nearly hidden from view."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31889": "south",
+      "32108": "go narrow stairway"
+    },
+    "timeto": {
+      "31889": 0.2,
+      "32108": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084142
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "checksum": "ebb082cf4eb0f9a9542844300b7c11c8",
+  "room": {
+    "id": 8443,
+    "title": [
+      "[Upper Trollfang, Sentoph]"
+    ],
+    "description": [
+      "Dust devils whirl about in the shrieking wind, whipping across the stones and through your clothing.  A treacherous path winds its way around the mountain and a steep trail heads up the mountainside, neither way looking particularly easy."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "cold, dry",
+    "terrain": "mountainous",
+    "wayto": {
+      "8440": "climb trail",
+      "8444": "southeast",
+      "8449": "northwest"
+    },
+    "timeto": {
+      "8440": 0.2,
+      "8444": 0.2,
+      "8449": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "cuctucae berry",
+      "sweetfern stalk",
+      "sprig of larkspur",
+      "wild pink geranium",
+      "marallis berry",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "dark shambler",
+      "wingstem root",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16061
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      518,
+      803,
+      528,
+      813
+    ]
+  }
+}

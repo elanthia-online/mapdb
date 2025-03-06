@@ -1,0 +1,30 @@
+{
+  "checksum": "dc3070e1aae82d0134545786e1af5ffc",
+  "room": {
+    "id": 23194,
+    "title": [
+      "[Paupers, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16132": "east",
+      "32849": "go curtain"
+    },
+    "timeto": {
+      "16132": 0.2,
+      "32849": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of Paupers"
+    ],
+    "uid": [
+      5001070
+    ]
+  }
+}

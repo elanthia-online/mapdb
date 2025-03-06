@@ -1,0 +1,33 @@
+{
+  "checksum": "25667e80f8ab3667ad74c63c5f5d1ed1",
+  "room": {
+    "id": 21965,
+    "title": [
+      "[Talador Mines, Cavern Ascent]"
+    ],
+    "description": [
+      "A small jagged outcropping juts from the wall, darkness all around.  Tiny, glowing white worms slowly inch up the sides of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21964": "down",
+      "21966": "/rooms/21965/wayto/stringproc-21966.rb",
+      "21967": "/rooms/21965/wayto/stringproc-21967.rb"
+    },
+    "timeto": {
+      "21964": 0.2,
+      "21966": 0.2,
+      "21967": 0.3
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      900,
+      361,
+      913,
+      374
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "checksum": "296aa8e79c0b19742e2e69c3b200ac93",
+  "room": {
+    "id": 22461,
+    "title": [
+      "[Lyra-Flyr Corral]"
+    ],
+    "description": [
+      "Set to one side of the bailey, near the hostelry, a small verdant corral is surrounded by a pale stone fence.  A beautiful maple stable sits towards the back of the enclosure.  High above the double sliding doors are a pair of morning doves perched on a stack of hay."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Cysaegir",
+    "climate": "cold, damp",
+    "terrain": "grassland",
+    "wayto": {
+      "4639": "out",
+      "30717": "/rooms/22461/wayto/stringproc-30717.rb",
+      "33261": "go maple stable"
+    },
+    "timeto": {
+      "4639": 0.2,
+      "30717": "/rooms/22461/timeto/stringproc-30717.rb",
+      "33261": 0.2
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide stable",
+      "stable",
+      "acantha leaf",
+      "wolifrew lichen",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "stalk of chicory",
+      "sprig of larkspur",
+      "small wild rose",
+      "wild chokecherry",
+      "bright red cranberry",
+      "golden aster",
+      "luckbloom blossom",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "sunburst blossom",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "rainbow chard",
+      "dwarf billberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      12010001
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      25,
+      377,
+      49,
+      401
+    ]
+  }
+}

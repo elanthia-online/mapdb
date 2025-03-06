@@ -1,0 +1,50 @@
+{
+  "checksum": "976e57c5c7f3d617e1469f900e9b897c",
+  "room": {
+    "id": 12204,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A huge cliff looms before you, stretching far into the sky above.  About halfway up the face an immense red-skinned man rides the air currents, flapping his leathery wings to hold his position.  On the wall next to him are crude columns made of bodies impaled to the wall, each column topped off with a different type of weapon resting on rough hooks."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest",
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12204/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12204/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12204/wayto/stringproc-12152.rb",
+      "12203": "northwest",
+      "12205": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12203": 0.2,
+      "12205": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4568036
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      321,
+      1086,
+      331,
+      1096
+    ]
+  }
+}

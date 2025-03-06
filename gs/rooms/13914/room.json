@@ -1,0 +1,41 @@
+{
+  "checksum": "c481666722e7343cd726e3a4e89d9cfa",
+  "room": {
+    "id": 13914,
+    "title": [
+      "[Warrior Guild, Courtyard S]"
+    ],
+    "description": [
+      "You find yourself at the south end of the Guild's massive courtyard.  A cobbled path leads from the portcullis on the southern wall, circumnavigates a gushing fountain to the north and leads up the steps to the Guild Hall.  A pair of foot-worn dirt paths leads northeast and northwest through the otherwise manicured lawn, paralleling the Guild walls."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "6951": "go portcullis",
+      "16929": "northwest",
+      "16976": "northeast",
+      "16977": "north"
+    },
+    "timeto": {
+      "6951": 0.2,
+      "16929": 0.2,
+      "16976": 0.2,
+      "16977": 0.2
+    },
+    "tags": [
+      "warrior guild leaves"
+    ],
+    "uid": [
+      251002
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      184,
+      1068,
+      204,
+      1088
+    ]
+  }
+}

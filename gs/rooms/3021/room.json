@@ -1,0 +1,41 @@
+{
+  "checksum": "9aa6bb83535ec9a2e8ac0d3a93de87f6",
+  "room": {
+    "id": 3021,
+    "title": [
+      "[Snow Fort, Battlement]"
+    ],
+    "description": [
+      "Crumbled piles of snow mark spots where the battlement walls have succumbed to the elements.  Through the broken sections the frozen tundra can be seen far below, swirling with powdery snow flurries."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the High Plains",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3020": "west",
+      "3022": "southeast"
+    },
+    "timeto": {
+      "3020": 0.2,
+      "3022": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129108
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      516,
+      793,
+      526,
+      803
+    ]
+  }
+}

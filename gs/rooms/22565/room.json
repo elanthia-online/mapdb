@@ -1,0 +1,25 @@
+{
+  "checksum": "0078818007c5214da6387661008b0aba",
+  "room": {
+    "id": 22565,
+    "title": [
+      "[Abandoned General Store, Closet]"
+    ],
+    "description": [
+      "The small, cramped room reeks of death and decay.  The skeletal remains of someone or something lie in a heap on the floor -- the right hand of the deceased is missing.  A number of iron shelves line the northern wall underneath a hole in the ceiling.  Leading to the storefront is a door, the frame of which is deeply scratched."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "22564": "go door",
+      "22669": "go shelves"
+    },
+    "timeto": {
+      "22564": 0.2,
+      "22669": 0.2
+    },
+    "check_location": false
+  }
+}

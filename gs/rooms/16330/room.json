@@ -1,0 +1,40 @@
+{
+  "checksum": "3333e0d7daa9fb46290a724610d0984b",
+  "room": {
+    "id": 16330,
+    "title": [
+      "[Mist Harbor Lockup, Yard]"
+    ],
+    "description": [
+      "Standing on the left side of the gilded gate is a sandstone pillar which is heavily scarred from years of weather and decorated with numerous hashmarks.  To the right of the gate is a crude, yet effective-looking oak guillotine.  A heavily barred steel door leads into the prison itself."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Mist Harbor",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3667": "go gate",
+      "16331": "go door"
+    },
+    "timeto": {
+      "3667": 0.2,
+      "16331": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      3205001
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2495,
+      2169,
+      2525,
+      2193
+    ]
+  }
+}

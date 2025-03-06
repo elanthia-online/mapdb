@@ -1,0 +1,29 @@
+{
+  "checksum": "1adcab9a791723b8410637dcf9dd3c96",
+  "room": {
+    "id": 34846,
+    "title": [
+      "[Tanglemist Mansion, Hallway]"
+    ],
+    "description": [
+      "A dull carpet of frayed wool and silk covers the expanse of the open hallway, the cobweb-ridden walls interspersed with cloth-covered portraits and unlit brass sconces.  Set against the periphery are narrow wooden tables cluttered with piles of paper and knickknacks coated in mottled layers of dirt, the surfaces placed between the arch and door at the end of the elongated room.  Draped along walls are heavy velvet curtains, the silken ropes left in tangles slithering across the floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "34843": "go door",
+      "34847": "go stairway",
+      "34849": "go arch"
+    },
+    "timeto": {
+      "34843": 0.2,
+      "34847": 0.2,
+      "34849": 0.2
+    },
+    "uid": [
+      8089048
+    ]
+  }
+}

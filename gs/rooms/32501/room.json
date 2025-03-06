@@ -1,0 +1,34 @@
+{
+  "checksum": "937e86751702445fe08e64afaa1ecdca",
+  "room": {
+    "id": 32501,
+    "title": [
+      "[Consortium, Atrium]"
+    ],
+    "description": [
+      "The area opens into a large spherical chamber, which is topped with a high dome glass ceiling.  Dark oak trees stretch up from the center of the atrium, their thick branches piercing through the sunlight gleaming down from above.  Rows of verdant green hedges run a border beneath walls of high glass windows, and a pair of mahogany doors sits between two greystone fountains."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32500": "go archway",
+      "32502": "go doors"
+    },
+    "timeto": {
+      "32500": 0.2,
+      "32502": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336187
+    ]
+  }
+}

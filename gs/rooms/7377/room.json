@@ -1,0 +1,45 @@
+{
+  "checksum": "f33090fbd1f418bcd7516190b0db3284",
+  "room": {
+    "id": 7377,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "Decaying barren trees sit atop a small windswept hill like hideous skeletons swaying in the breeze.  Eerie shadows dance across the hard rocky ground casting misshapen figures all around you."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7370": "northwest",
+      "7378": "northeast",
+      "7381": "south"
+    },
+    "timeto": {
+      "7370": 0.2,
+      "7378": 0.2,
+      "7381": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160019
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1226,
+      995,
+      1236,
+      1005
+    ]
+  }
+}

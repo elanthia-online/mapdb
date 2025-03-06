@@ -1,0 +1,48 @@
+{
+  "checksum": "12bd2cf6b7a48622f1dab0fab161e6dd",
+  "room": {
+    "id": 1464,
+    "title": [
+      "[Solhaven, Nerite and Cowrie]"
+    ],
+    "description": [
+      "The two-story facade of Solhaven's Town Hall looms above you.  Clad in elegantly carved limestone, the building stands out from other local architecture.  Townspeople scurry into and out of the structure at a fast clip."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1458": "north",
+      "1467": "west",
+      "1468": "east",
+      "1469": "south",
+      "12819": "go hall",
+      "28218": "go pavilion"
+    },
+    "timeto": {
+      "1458": 0.2,
+      "1467": 0.2,
+      "1468": 0.2,
+      "1469": 0.2,
+      "12819": 0.2,
+      "28218": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209054
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1247,
+      702,
+      1271,
+      726
+    ]
+  }
+}

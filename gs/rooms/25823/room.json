@@ -1,0 +1,39 @@
+{
+  "checksum": "9e92de99dedc9ca2fc27c3ea20538baf",
+  "room": {
+    "id": 25823,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Various shades of blue comprise the waters of the sprawling harbor, their hues slightly diminished by the lack of sunlight to illuminate their depths.  Here and there, tiny silver-backed minions swim beneath the surface in a complicated ballet designed to confuse and outmaneuver the large, shadowy fish that follows them."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25698": "/rooms/25823/wayto/stringproc-25698.rb",
+      "25822": "/rooms/25823/wayto/stringproc-25822.rb"
+    },
+    "timeto": {
+      "25698": 6,
+      "25822": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223835
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1200,
+      1359,
+      1218,
+      1376
+    ]
+  }
+}

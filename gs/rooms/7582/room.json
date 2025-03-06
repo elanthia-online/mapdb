@@ -1,0 +1,45 @@
+{
+  "checksum": "37dd11a0ab129da961db2d76375a6659",
+  "room": {
+    "id": 7582,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "A beam of light filters through a crack in the stone above, throwing a bright patch on the floor.  A breeze of fresh air helps to dissipate the unpleasant acrid smell that seems to come from a deep tunnel that winds down into the dirt floor.  Faint clicking noises echo on the rock walls, but you cannot tell their source."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7581": "southwest",
+      "7584": "go tunnel"
+    },
+    "timeto": {
+      "7581": 0.2,
+      "7584": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47016
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      198,
+      1048,
+      208,
+      1058
+    ]
+  }
+}

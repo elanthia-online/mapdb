@@ -1,0 +1,30 @@
+{
+  "checksum": "027afb61d1620e4cd348fba92e279672",
+  "room": {
+    "id": 33137,
+    "title": [
+      "[Brigatta Annex]"
+    ],
+    "description": [
+      "Two huge toadstools in large stone pots illuminate a large, comfortable room.  Dusky brown granite benches line two of the marble walls, facing each other across the sapphire carpet.  On one wall, a brass arch allows exit to the corridor outside, while on the other wall a curtain provides entrance to the locker area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "28672": "go brass arch",
+      "33138": "go curtain"
+    },
+    "timeto": {
+      "28672": 0.2,
+      "33138": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Brigatta"
+    ],
+    "uid": [
+      13010144
+    ]
+  }
+}

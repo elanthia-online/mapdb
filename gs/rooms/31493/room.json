@@ -1,0 +1,67 @@
+{
+  "checksum": "a76d4f5c12325851a53b190354e8f9da",
+  "room": {
+    "id": 31493,
+    "title": [
+      "[Mistwatch]"
+    ],
+    "description": [
+      "Tucked away from the more traveled areas, this small part of the dock juts out over the water, perpendicular to a white-veined vaalorn gate leading to a private pier.  The sturdy pilings are stained with layers of white salt.  A few warped wooden benches are secured to the floor planks, several rolls of fishing net piled to the side.",
+      "Tucked away from the more traveled areas, this small part of the dock juts out over the water.  The sturdy pilings are stained with layers of white salt.  A few warped wooden benches are secured to the floor planks, several rolls of fishing net piled to the side."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Elven Nations Port",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "250": "/rooms/31493/wayto/stringproc-250.rb",
+      "1870": "/rooms/31493/wayto/stringproc-1870.rb",
+      "10838": "/rooms/31493/wayto/stringproc-10838.rb",
+      "11756": "/rooms/31493/wayto/stringproc-11756.rb",
+      "29033": "/rooms/31493/wayto/stringproc-29033.rb",
+      "30713": "/rooms/31493/wayto/stringproc-30713.rb",
+      "31487": "north",
+      "32372": "/rooms/31493/wayto/stringproc-32372.rb",
+      "32928": "/rooms/31493/wayto/stringproc-32928.rb",
+      "33403": "go vaalorn gate"
+    },
+    "timeto": {
+      "250": "/rooms/31493/timeto/stringproc-250.rb",
+      "1870": "/rooms/31493/timeto/stringproc-1870.rb",
+      "10838": "/rooms/31493/timeto/stringproc-10838.rb",
+      "11756": "/rooms/31493/timeto/stringproc-11756.rb",
+      "29033": "/rooms/31493/timeto/stringproc-29033.rb",
+      "30713": "/rooms/31493/timeto/stringproc-30713.rb",
+      "31487": 0.2,
+      "32372": "/rooms/31493/timeto/stringproc-32372.rb",
+      "32928": "/rooms/31493/timeto/stringproc-32928.rb",
+      "33403": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "portmaster",
+      "urchin-access",
+      "urchin guide docks",
+      "silver-cost:250:35000",
+      "silver-cost:11756:12500",
+      "silver-cost:10838:35000",
+      "silver-cost:1870:35000",
+      "silver-cost:29033:35000",
+      "silver-cost:32372:25000",
+      "silver-cost:32928:25000",
+      "no forageables"
+    ],
+    "uid": [
+      7136032
+    ],
+    "image": "en-ta_vaalor_port-1662946910.png",
+    "image_coords": [
+      807,
+      373,
+      825,
+      389
+    ]
+  }
+}

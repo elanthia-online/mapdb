@@ -1,0 +1,34 @@
+{
+  "checksum": "f9d8613336d6ec97b67b2c4dc8ff6286",
+  "room": {
+    "id": 19448,
+    "title": [
+      "[Ashelyn's Magic Shoppe]",
+      "[Ashelyn's General Store]",
+      "[Ashelyn's Outfitting]",
+      "[Ashelyn's Weaponry]",
+      "[Ashelyn's Armory]",
+      "[Ashelyn's Combat Gear]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A lacquered wooden shelf and a plain wooden table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2372": "out",
+      "19477": "west",
+      "19478": "east"
+    },
+    "timeto": {
+      "2372": 0.2,
+      "19477": 0.2,
+      "19478": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

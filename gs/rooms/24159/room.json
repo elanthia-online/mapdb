@@ -1,0 +1,24 @@
+{
+  "checksum": "e0ddd77452b8bf9b552952ea49c06f0a",
+  "room": {
+    "id": 24159,
+    "title": [
+      "[Necropolis, Underground Lake]"
+    ],
+    "description": [
+      "Jutting out to the north is a rotted wooden dock, surrounded by marooned gondolas.  A dim green glow can be seen under the surface of the water."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24152": "/rooms/24159/wayto/stringproc-24152.rb",
+      "24160": "/rooms/24159/wayto/stringproc-24160.rb"
+    },
+    "timeto": {
+      "24152": 0.2,
+      "24160": 0.2
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "44535b56258eabbe1a5ce658263e5f78",
+  "room": {
+    "id": 15049,
+    "title": [
+      "[Tanara's Weaponry]"
+    ],
+    "description": [
+      "A portrait hangs on one of the glossy mistwood walls, and a vaulted ceiling rises overhead.  A bronzed drake sculpture sits in one corner of an enameled hardwood floor.  There is a gilded maple cabinet on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "369": "out",
+      "15079": "southeast",
+      "15080": "northeast"
+    },
+    "timeto": {
+      "369": 0.2,
+      "15079": 0.2,
+      "15080": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "552fd3c64a12987dcd2fdd4c1950462f",
+  "room": {
+    "id": 3542,
+    "title": [
+      "[Ta'Vaalor, Victory Court]",
+      "[Ta'Vaalor, Tyrnian Court]",
+      "[Ta'Vaalor, King's Court]"
+    ],
+    "description": [
+      "An immense white marble fountain occupies the center of the court.  Perched in its center, a towering statue of Kai stands, holding his sword aloft.  His features have been painted onto the marble surface with pigments and artistry so lifelike, he appears ready to step from the fountain."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3519": "north",
+      "3541": "east",
+      "3543": "west",
+      "3544": "south",
+      "30713": "/rooms/3542/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3519": 0.6,
+      "3541": 0.2,
+      "3543": 0.2,
+      "3544": 0.2,
+      "30713": "/rooms/3542/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100046
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      925,
+      929,
+      960,
+      963
+    ]
+  }
+}

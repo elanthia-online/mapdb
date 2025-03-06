@@ -1,0 +1,33 @@
+{
+  "checksum": "098389f82f19d095650f9cbc730923a2",
+  "room": {
+    "id": 34429,
+    "title": [
+      "[The TownCrier, Newsroom]"
+    ],
+    "description": [
+      "Numerous desks in various states of disarray are scattered around the room, covered in stacks of books and papers, the odd bottle of ink perched precariously atop the piles.  Scraps of parchment are clipped to strategically placed contraptions hanging from beams.  A large blackboard is mounted on the west wall between an office and the conference room.  Open wood-framed cubbyholes line the south wall beneath glass-fronted news clippings, some empty, some bursting at the seams with unopened wax-sealed scrolls."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "34425": "down",
+      "34430": "go door",
+      "34431": "go office",
+      "34432": "go room",
+      "34433": "go staircase"
+    },
+    "timeto": {
+      "34425": 0.2,
+      "34430": 0.2,
+      "34431": 0.2,
+      "34432": 0.2,
+      "34433": 0.2
+    },
+    "uid": [
+      18077005
+    ]
+  }
+}

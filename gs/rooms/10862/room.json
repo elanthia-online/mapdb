@@ -1,0 +1,53 @@
+{
+  "checksum": "7c4664c491716689cf4c6ecdbff9adfd",
+  "room": {
+    "id": 10862,
+    "title": [
+      "[River's Rest, Commons Circle]"
+    ],
+    "description": [
+      "Curving gently from the southeast to the southwest, the roadway flows with a river of small stones in varying hues of grey.  As a creek feeds a river, a riverstone walkway merges with the road, snaking smoothly from between two evergreen hedges which border the main roads to the south.  A narrow, moss-covered trail is just visible in the heavily wooded area opposite the hedges and channels the faint sound of a song to the ears of those that walk here."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3668": "/rooms/10862/wayto/stringproc-3668.rb",
+      "10853": "southwest",
+      "10859": "southeast",
+      "10861": "go walkway",
+      "10863": "go trail",
+      "26905": "/rooms/10862/wayto/stringproc-26905.rb",
+      "31558": "/rooms/10862/wayto/stringproc-31558.rb"
+    },
+    "timeto": {
+      "3668": "/rooms/10862/timeto/stringproc-3668.rb",
+      "10853": 0.2,
+      "10859": 0.2,
+      "10861": 0.2,
+      "10863": 0.2,
+      "26905": 2400,
+      "31558": "/rooms/10862/timeto/stringproc-31558.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:teleport",
+      "meta:fwi:teleport"
+    ],
+    "uid": [
+      2101006
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2288,
+      846,
+      2327,
+      883
+    ]
+  }
+}

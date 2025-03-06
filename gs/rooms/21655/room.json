@@ -1,0 +1,44 @@
+{
+  "checksum": "49f26853c29b05d092f607f7864a4bd0",
+  "room": {
+    "id": 21655,
+    "title": [
+      "[The Keep Rooftop, Southwest]"
+    ],
+    "description": [
+      "Fearling Pass, silvered in the moonlight, is easily visible through the key-shaped openings in the tall parapet.  The outer wall of the keep is only visible where torches atop the walls cast golden pools on the stone.  A rope rests on a hook pounded into the parapet."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east"
+    ],
+    "location": "near Fearling Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21651": "northeast",
+      "21654": "north",
+      "21656": "east"
+    },
+    "timeto": {
+      "21651": 0.2,
+      "21654": 0.2,
+      "21656": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      14116061
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      741,
+      178,
+      755,
+      191
+    ]
+  }
+}

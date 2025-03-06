@@ -1,0 +1,24 @@
+{
+  "checksum": "db1a100e9003d64d730b53c08cc79e07",
+  "room": {
+    "id": 20577,
+    "title": [
+      "[Stone Keep, Hall]"
+    ],
+    "description": [
+      "In a lattice design along the walls, large veins spread out and glow with a unnatural crimson light.  The glowing veins lead to the center of the hall, which has been completely engulfed by a massive blood red tunnel leading down."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20576": "south",
+      "20578": "go tunnel"
+    },
+    "timeto": {
+      "20576": 0.2,
+      "20578": 0.2
+    }
+  }
+}

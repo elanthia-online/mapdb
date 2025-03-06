@@ -1,0 +1,32 @@
+{
+  "checksum": "0ac61b3a3729f9f4714cecda13997693",
+  "room": {
+    "id": 8820,
+    "title": [
+      "[Beldrin's Game Hall, Office]"
+    ],
+    "description": [
+      "This is Beldrin's office.  Though alone, the uneasy feeling that your movements do not go undetected persists.  A portrait of Beldrin hangs over a desk, depicting him flatteringly in the style of the Elanith masters.  A decanter of traesharm berry liqueur and two accounting ledgers, both labeled with identical dates, are atop the desk."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8817": "go door",
+      "16393": "go panel"
+    },
+    "timeto": {
+      "8817": 0.2,
+      "16393": "/rooms/8820/timeto/stringproc-16393.rb"
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      5059
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "d96aabf12d377a14a8246beac5ce8101",
+  "room": {
+    "id": 18823,
+    "title": [
+      "[Mistydeep, Sorcerer's Isle]"
+    ],
+    "description": [
+      "An unruly flock of birds circles the center of this island where a soaring keep protrudes from the tree line.  Seemingly chiseled from a columnar rock formation, the solitary tower is actually formed of precisely-cut stone blocks set by masterful hands.  Half a dozen windowed turrets and several open landings emerge from the tower's smooth walls below an onion-domed peak.  Heedless of the obelisk, the river continues its inexorable journey south and east, swirling lazily round the island's graveled shore."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "18822": "/rooms/18823/wayto/stringproc-18822.rb",
+      "18841": "/rooms/18823/wayto/stringproc-18841.rb",
+      "23528": "/rooms/18823/wayto/stringproc-23528.rb",
+      "25543": "/rooms/18823/wayto/stringproc-25543.rb",
+      "25615": "/rooms/18823/wayto/stringproc-25615.rb",
+      "30510": "swim down"
+    },
+    "timeto": {
+      "18822": "/rooms/18823/timeto/stringproc-18822.rb",
+      "18841": "/rooms/18823/timeto/stringproc-18841.rb",
+      "23528": "/rooms/18823/timeto/stringproc-23528.rb",
+      "25543": "/rooms/18823/timeto/stringproc-25543.rb",
+      "25615": "/rooms/18823/timeto/stringproc-25615.rb",
+      "30510": "/rooms/18823/timeto/stringproc-30510.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117017
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1240,
+      806,
+      1266,
+      833
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "adffdf7846b371dae5d966e5be70b37e",
+  "room": {
+    "id": 17816,
+    "title": [
+      "[Warehouse]"
+    ],
+    "description": [
+      "Most of the windows are boarded up, shrouding the interior in darkness and shadow.  Empty crates and discarded sacks have been pushed out of the way and piled in one corner of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17815": "climb rope",
+      "17817": "west",
+      "17818": "south",
+      "17820": "north"
+    },
+    "timeto": {
+      "17815": 0.2,
+      "17817": 0.2,
+      "17818": 0.2,
+      "17820": 0.2
+    },
+    "tags": [
+      "rogue guild dirt"
+    ],
+    "uid": [
+      267118
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      387,
+      633,
+      428,
+      673
+    ]
+  }
+}

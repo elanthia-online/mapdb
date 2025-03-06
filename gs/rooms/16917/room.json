@@ -1,0 +1,50 @@
+{
+  "checksum": "b3495cbac415f7b2460d5b988810a024",
+  "room": {
+    "id": 16917,
+    "title": [
+      "[Zul Logoth, Iron Walkway]"
+    ],
+    "description": [
+      "Flanked by thick columns of polished, black iron is a slightly raised walkway that leads to the end of the cavern.  The natural rock has been smoothed away, leaving behind a flat surface upon which a heavily detailed bas-relief has been carved.  A pair of immense, double doors wrought of pure white marble accented in mithril have been set deeply into the wall, surrounded by the ornate etchings.  Standing guard beside the entrance to the Zul Logoth Warrior Guild is a large, armored dwarf."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9430": "west",
+      "20646": "go doors",
+      "30712": "/rooms/16917/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "9430": 0.2,
+      "20646": "/rooms/16917/timeto/stringproc-20646.rb",
+      "30712": "/rooms/16917/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      258001
+    ]
+  }
+}

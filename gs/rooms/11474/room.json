@@ -1,0 +1,48 @@
+{
+  "checksum": "f34a074d5ce8871007b75541fb57f682",
+  "room": {
+    "id": 11474,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "A strong current prevents swimming to the west.  The current makes the long strands of broad-leafed kelp undulate like underwater belly-dancers.  Crabs and lobsters have scuttled along the sandy floor of the bay, leaving tiny dimple-like tracks."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, south, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11470": "/rooms/11474/wayto/stringproc-11470.rb",
+      "11471": "/rooms/11474/wayto/stringproc-11471.rb",
+      "11473": "/rooms/11474/wayto/stringproc-11473.rb",
+      "11475": "/rooms/11474/wayto/stringproc-11475.rb",
+      "11477": "/rooms/11474/wayto/stringproc-11477.rb",
+      "11478": "/rooms/11474/wayto/stringproc-11478.rb"
+    },
+    "timeto": {
+      "11470": 2,
+      "11471": 2,
+      "11473": 2,
+      "11475": 3,
+      "11477": 2,
+      "11478": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304232
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      922,
+      1180,
+      932,
+      1190
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "03c63fe343b427dc721ffce8fd0c5894",
+  "room": {
+    "id": 28355,
+    "title": [
+      "[Moonstone Abbey, Great Hall]"
+    ],
+    "description": [
+      "A set of stairs leads down into darkness, the silver and onyx elegance of the main hall giving way to rougher stone as they descend, curving with the outer wall.  A dark marble arch on the inner wall faces a narrow spiral staircase leading up to the balcony above.  A single black doomstone adorns the end of each polished rail of the staircase."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the dark woods",
+    "wayto": {
+      "28353": "southeast",
+      "28356": "northeast",
+      "28361": "go arch",
+      "28362": "go staircase",
+      "28366": "go stairs",
+      "28369": "go hall"
+    },
+    "timeto": {
+      "28353": 0.2,
+      "28356": 0.2,
+      "28361": 0.2,
+      "28362": 0.2,
+      "28366": 0.2,
+      "28369": 0.2
+    },
+    "tags": [
+      "meta:che:Moonstone Abbey"
+    ]
+  }
+}

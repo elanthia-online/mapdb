@@ -1,0 +1,28 @@
+{
+  "checksum": "9d97f66430384c8ffcb944fbde312478",
+  "room": {
+    "id": 4349,
+    "title": [
+      "[Emerald Level, Northwest Shaft]"
+    ],
+    "description": [
+      "This portion of the passage is considerably wider than most, and seems to be under repair.  Thick planks of wood are piled up on one side, while crates filled with wire and tools are lined up against the other.  Two carpenters are looking over a parchment, both with looks of confusion etched on their faces."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4348": "southeast",
+      "4350": "northwest"
+    },
+    "timeto": {
+      "4348": 0.2,
+      "4350": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "35b97fc0051d034675f0bb8d65ed0c65",
+  "room": {
+    "id": 2289,
+    "title": [
+      "[Mausoleum, Catacombs]"
+    ],
+    "description": [
+      "The cloying, sweet smell of ancient decay curls your nostrils.  Piles of refuse litter the floor.  A squirming, pale mass of maggots covers one wall, and faint gibberings echo through the gloom."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2288": "northeast",
+      "2290": "south"
+    },
+    "timeto": {
+      "2288": 0.2,
+      "2290": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030258
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      65,
+      999,
+      75,
+      1009
+    ]
+  }
+}

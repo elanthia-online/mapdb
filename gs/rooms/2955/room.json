@@ -1,0 +1,44 @@
+{
+  "checksum": "991981c505a198a4a70842fc40fcea3f",
+  "room": {
+    "id": 2955,
+    "title": [
+      "[Abbey, High Gallery]",
+      "[Abbey Gallery]"
+    ],
+    "description": [
+      "Silvery moonlight glints off the diamond-shaped panes in the windows running along the southern wall of the long gallery.  Bright-pigmented paintings depicting the surrounding lands in different seasons are spaced along the opposite wall.  One depicts the environs in high summer, the greenery verdant and the fields blossoming, with nary a hint of snow to be seen.",
+      "Pale sunlight glints off the diamond-shaped panes in the windows running along the southern wall of the long gallery.  Bright-pigmented paintings depicting the surrounding lands in different seasons are spaced along the opposite wall.  One depicts the environs in high summer, the greenery verdant and the fields blossoming, with nary a hint of snow to be seen.",
+      "Silver light glints off the diamond-shaped panes in the windows running along the southern wall of the long gallery.  Fading paintings, which depict the surrounding lands in the days before the permafrost, cover the opposite wall.",
+      "Silver moonlight glints off the diamond-shaped panes in the windows running along the southern wall of the long gallery.  Fading paintings, which depict the surrounding lands in the days before the permafrost, cover the opposite wall."
+    ],
+    "paths": [
+      "Obvious exits: east",
+      "Obvious exits: north, east, down"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2954": "go stone stairs",
+      "2956": "east"
+    },
+    "timeto": {
+      "2954": 0.2,
+      "2956": 0.2
+    },
+    "tags": [
+      "nedum vereri",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132030
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      267,
+      418,
+      321,
+      470
+    ]
+  }
+}

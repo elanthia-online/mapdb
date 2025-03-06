@@ -1,0 +1,41 @@
+{
+  "checksum": "6b017826378fcf1e680021ddcafefe6b",
+  "room": {
+    "id": 30464,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Up against Charl's Teeth and beyond sight of land, the water's expanse is a majestic and frightening sight.  The sound of the waves against the rocks is nearly deafening, yet limpets and mussels cling valiantly to the rocks at the waterline, along with a coating of bright green sea moss."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30461": "pedal southeast",
+      "30466": "pedal east",
+      "30469": "pedal northeast"
+    },
+    "timeto": {
+      "30461": 6,
+      "30466": 6,
+      "30469": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216124
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      221,
+      1020,
+      239,
+      1038
+    ]
+  }
+}

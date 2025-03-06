@@ -1,0 +1,84 @@
+{
+  "checksum": "a22645590b6968e1cd70a41f0014b4e9",
+  "room": {
+    "id": 11653,
+    "title": [
+      "[Miasmal Forest, Ghostly Trees]"
+    ],
+    "description": [
+      "Rotting reeds and marsh grasses mix with the turbid water to befoul the air with a noxious stench.  The sickly trees rising from the miasma look like skeletal figures reaching into the befouled mist.  The trails disappear into the thick chalky mist."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "moist",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11620": "/rooms/11653/wayto/stringproc-11620.rb",
+      "11622": "/rooms/11653/wayto/stringproc-11622.rb",
+      "11661": "north",
+      "16124": "southwest",
+      "22219": "/rooms/11653/wayto/stringproc-22219.rb"
+    },
+    "timeto": {
+      "11620": 0.8,
+      "11622": 0.8,
+      "11661": 0.2,
+      "16124": 0.2,
+      "22219": 0.4
+    },
+    "tags": [
+      "peer north =~ /^Obvious paths: northeast, south, northwest/",
+      "calamia fruit",
+      "aloeas stem",
+      "trollfear mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "water chestnut",
+      "stalk of cattail",
+      "spider lily",
+      "alligator lily",
+      "kylan berry",
+      "yellow heliconia",
+      "orange heliconia",
+      "pink heliconia",
+      "red heliconia",
+      "purple passionflower",
+      "pink passionflower",
+      "red passionflower",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5004017
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      801,
+      447,
+      812,
+      457
+    ],
+    "check_location": false
+  }
+}

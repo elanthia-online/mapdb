@@ -1,0 +1,42 @@
+{
+  "checksum": "6aa6d5cfe5b59a775d54cbc0719788c8",
+  "room": {
+    "id": 30050,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "Framed by a pair of majestic runestones heavily inlaid with still-bright copper, some cracked red stone stairs ascend unevenly toward the zenith of the mausoleum.  The steps are each as tall as a man and are spiderwebbed with cracks, as if the center of the stairway was impacted with great force.  Save where they have been washed away with corrosion or erosion, the composite stones are heavily decorated with strange writing."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30049": "southeast",
+      "30051": "go stairs"
+    },
+    "timeto": {
+      "30049": 0.2,
+      "30051": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503476
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      902,
+      67,
+      916,
+      81
+    ]
+  }
+}

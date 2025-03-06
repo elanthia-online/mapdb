@@ -1,0 +1,47 @@
+{
+  "checksum": "c59292823323d56f3b955ddaa08d4efa",
+  "room": {
+    "id": 7384,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "Smooth black sand swallows the few remaining patches of longgrass.  The sand is flecked grey with small bits of bone that have been trampled into a fine grit.  In the distance, dark barren hills shrouded in mist spring from the gloom."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7364": "southeast",
+      "7368": "northeast",
+      "7380": "northwest",
+      "7383": "southwest"
+    },
+    "timeto": {
+      "7364": 0.2,
+      "7368": 0.2,
+      "7380": 0.2,
+      "7383": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160023
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1278,
+      1048,
+      1288,
+      1058
+    ]
+  }
+}

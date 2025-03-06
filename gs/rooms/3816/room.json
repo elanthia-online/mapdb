@@ -1,0 +1,60 @@
+{
+  "checksum": "c0d3e1952143be859a549b793f75055b",
+  "room": {
+    "id": 3816,
+    "title": [
+      "[A Dark Cavern]"
+    ],
+    "description": [
+      "The immense open space of the cavern narrows a bit here to the point that you can barely make out the walls to the west and the southeast.  It appears that you might be in the southwest corner of the large space, yet there remains a large dark opening that leads further to the south and southwest.  A deep mist rolls out of the opening, making further inspection on that direction impossible without moving there."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south, southwest, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3723": "northeast",
+      "3810": "north",
+      "3811": "east",
+      "3813": "northwest",
+      "3817": "south"
+    },
+    "timeto": {
+      "3723": 0.2,
+      "3810": 0.2,
+      "3811": 0.2,
+      "3813": 0.2,
+      "3817": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "red trafel mushroom",
+      "nightmare steed",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "Sheruvian harbringer",
+      "white hook mushroom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388015
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      542,
+      1296,
+      552,
+      1306
+    ]
+  }
+}

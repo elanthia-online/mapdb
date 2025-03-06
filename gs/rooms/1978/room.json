@@ -1,0 +1,46 @@
+{
+  "checksum": "26c59bc2aa684d2b0c174f1c5d44a674",
+  "room": {
+    "id": 1978,
+    "title": [
+      "[Vaalin Street, Temple District]"
+    ],
+    "description": [
+      "This quiet street ends at a gate set into the canyon wall.  The gate is carved of white marble, polished and gleaming with reflected moonlight.  Dwarves in clerical garb wander in and out, and the low, rhythmic sounds of chanting carry to you from inside.",
+      "This quiet street ends at a gate set into the canyon wall.  The gate is carved of white marble, polished and gleaming with reflected light.  Dwarves in clerical garb wander in and out, and the low, rhythmic sounds of chanting carry to you from inside."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1962": "west",
+      "1979": "go marble gate",
+      "30715": "/rooms/1978/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1962": 0.2,
+      "1979": 0.2,
+      "30715": "/rooms/1978/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "urchin guide weddinghall",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001011
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1122,
+      875,
+      1152,
+      905
+    ]
+  }
+}

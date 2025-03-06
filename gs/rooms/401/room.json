@@ -1,0 +1,42 @@
+{
+  "checksum": "f1b2fed58b153831757610705663ef23",
+  "room": {
+    "id": 401,
+    "title": [
+      "[Aznell's Armory, Forge]"
+    ],
+    "description": [
+      "Bits and pieces of armor adorn the walls, leather on one, and metal on the facing wall.  Scraps of leather and metal are littered across the floor, thickest near the iron anvil where apprentices are working on a misshapen lump of metal.  The heat and the closeness of the forge press in around you."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "289": "out",
+      "23831": "go sturdy ladder",
+      "30708": "/rooms/401/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "289": 0.2,
+      "23831": 0.2,
+      "30708": "/rooms/401/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "armorshop",
+      "urchin-access",
+      "urchin guide armor",
+      "armor"
+    ],
+    "uid": [
+      2050
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      122,
+      879,
+      152,
+      909
+    ]
+  }
+}

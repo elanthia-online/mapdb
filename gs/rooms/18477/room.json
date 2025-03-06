@@ -1,0 +1,30 @@
+{
+  "checksum": "01c90bf628264f3a9d56b1432435ba7d",
+  "room": {
+    "id": 18477,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "A small oak-hafted steel sickle gleams wickedly from its position discarded on the ground in the vermillion corn husks beside a pyramid of stacked crates and a wooden ladder.  It is obviously a well cared for farm implement, but someone seems to have left it lying here for someone to possibly injure themselves on."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18468": "go crates",
+      "18476": "go ladder",
+      "18478": "southwest"
+    },
+    "timeto": {
+      "18468": 0.2,
+      "18476": 0.2,
+      "18478": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

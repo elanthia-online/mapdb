@@ -1,0 +1,41 @@
+{
+  "checksum": "473003d15f97abb29e2adc6eed66beed",
+  "room": {
+    "id": 25731,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Verdant foliage pigments the eastern horizon as a small island stands out against the bright blue of the rolling waves.  Stretching outward from its purchase upon the fertile land, a long wooden dock supported by tall pylons is surrounded by dozens of boats and offers space for a ferry to deposit its passengers."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25730": "/rooms/25731/wayto/stringproc-25730.rb",
+      "25732": "/rooms/25731/wayto/stringproc-25732.rb",
+      "25742": "/rooms/25731/wayto/stringproc-25742.rb"
+    },
+    "timeto": {
+      "25730": 6,
+      "25732": 6,
+      "25742": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223863
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2000,
+      1679,
+      2020,
+      1699
+    ]
+  }
+}

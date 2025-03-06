@@ -1,0 +1,41 @@
+{
+  "checksum": "7972fe0721f6c33bc16d9272b198fd11",
+  "room": {
+    "id": 11052,
+    "title": [
+      "[Port Valley, Vineyards]"
+    ],
+    "description": [
+      "Great red strawberries grow here, big as the nose on a dwarf.  Moonlight shines down on the field, illuminating the area in its soft glow, while a pleasant breeze cools the night air.",
+      "Great red strawberries grow here, big as the nose on a dwarf.  The sun shines down on the field, bright and hot, but a pleasant breeze from the west keeps things comfortable."
+    ],
+    "paths": [
+      "Obvious paths: west, northwest"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11051": "west",
+      "11062": "northwest"
+    },
+    "timeto": {
+      "11051": 0.2,
+      "11062": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      706110
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      1045,
+      1162,
+      1065,
+      1182
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "a19d36e838304a16424ad715baa204ee",
+  "room": {
+    "id": 24116,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "Smoke from burning torches lingers in the air, mixing with dust and causing the narrowing passage to feel more constricting.  Long curtains of cobwebs hang from the ceiling and walls, stirring slightly."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24115": "south",
+      "24118": "north"
+    },
+    "timeto": {
+      "24115": 0.2,
+      "24118": 0.2
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "5db9b966fb8c48062cb32a2a1f45c9b4",
+  "room": {
+    "id": 24752,
+    "title": [
+      "[Krolvin Warship, Crew Quarters]"
+    ],
+    "description": [
+      "Several hammocks hang from rusted hooks in the overhead beams, their sides collasped to allow for free movement between the large framing posts.  Each post bears marks of mistreatment, from deep cuts that have taken out sections of wood to ragged claw slashes down the sides.  Deep marks also mar the aft bulkhead where a series of charcoal hashmarks decorate the tar-caulked surface."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "somewhere on the Great Western Sea",
+    "wayto": {
+      "18709": "north",
+      "18710": "northwest",
+      "20423": "/rooms/24752/wayto/stringproc-20423.rb",
+      "24462": "west"
+    },
+    "timeto": {
+      "18709": 0.2,
+      "18710": 0.2,
+      "20423": 1.6,
+      "24462": 0.2
+    },
+    "uid": [
+      4031023
+    ],
+    "image": "quest-troubled_waters.png",
+    "image_coords": [
+      586,
+      268,
+      604,
+      283
+    ]
+  }
+}

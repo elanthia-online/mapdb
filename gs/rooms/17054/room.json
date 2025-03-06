@@ -1,0 +1,38 @@
+{
+  "checksum": "1c2be8fb00ea7af3766e13c63c01f71e",
+  "room": {
+    "id": 17054,
+    "title": [
+      "[Temple of Ronan, Courtyard]"
+    ],
+    "description": [
+      "Huge trees loom over silver-trimmed ebonwood benches that are placed here and there in pairs, with their thick foliage blocking all but faint slivers of moonlight from touching the ground.  A peaked obsidian arch flanked by two guards gives entrance to the temple itself, and a stone-walled koi pond sits in one corner."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17049": "north",
+      "17053": "east",
+      "17055": "go arch",
+      "17056": "south"
+    },
+    "timeto": {
+      "17049": 0.2,
+      "17053": 0.2,
+      "17055": 0.2,
+      "17056": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749002
+    ]
+  }
+}

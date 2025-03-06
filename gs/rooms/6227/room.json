@@ -1,0 +1,51 @@
+{
+  "checksum": "56603aae42cd2e37bf332509c7eff97b",
+  "room": {
+    "id": 6227,
+    "title": [
+      "[Labyrinth]"
+    ],
+    "description": [
+      "The hallway continues onward with no visible end.  A gentle stream of moonlight breaks through the darkness as it shines down on a small path that rises steeply to the west, bringing with it the smell of fresh air.",
+      "The hallway continues onward with no visible end.  A gentle stream of sunlight breaks through the darkness as it shines down on a small path that rises steeply to the west, bringing with it the smell of fresh air."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6226": "east",
+      "6228": "/rooms/6227/wayto/stringproc-6228.rb"
+    },
+    "timeto": {
+      "6226": 0.2,
+      "6228": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167109
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      843,
+      226,
+      879,
+      262
+    ]
+  }
+}

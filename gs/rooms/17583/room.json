@@ -1,0 +1,47 @@
+{
+  "checksum": "27bbff3f4d2043529a73c6416017749c",
+  "room": {
+    "id": 17583,
+    "title": [
+      "[Western Harbor, Seathrak Way]"
+    ],
+    "description": [
+      "Bejeweled and blinking fireflies drift amongst the various cottages that line the cobblestone street.  Tidy picket fences, each sporting a wrought iron lantern at their gates, separate each home's yard from the other, which causes them to look identical to each other.  The only exception in uniformity is a small store that is built nearest the arch crafted of a seathrak's jawbone."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17582": "southeast",
+      "17584": "go store",
+      "17586": "go gate",
+      "17587": "northwest",
+      "30718": "/rooms/17583/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "17582": 0.2,
+      "17584": 0.2,
+      "17586": 0.2,
+      "17587": 0.2,
+      "30718": "/rooms/17583/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      3216004
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1650,
+      1319,
+      1691,
+      1360
+    ]
+  }
+}

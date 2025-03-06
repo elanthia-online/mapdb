@@ -1,0 +1,26 @@
+{
+  "checksum": "68debd25ce41007883fa3ef5f9a84dc7",
+  "room": {
+    "id": 25997,
+    "title": [
+      "[Annex, Booth]"
+    ],
+    "description": [
+      "You are standing in a secluded alcove facing a wall of small, locked doors.  One of the lockers has been removed for you and placed on a marble counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "25901": "go curtain"
+    },
+    "timeto": {
+      "25901": 0.2
+    },
+    "tags": [
+      "peer curtain =~ /^\\[Annex, Rone Academy Lobby\\]$/",
+      "meta:locker"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "f19f9f85c0a65f8bc99725d996e7a8ff",
+  "room": {
+    "id": 19366,
+    "title": [
+      "[Eastern Harbor, Alley]"
+    ],
+    "description": [
+      "Short and wide, the cobblestoned alley rests between several large buildings and stretches between Pelican and Cormorant Lane.  Doors leading to the backrooms of shops pockmark the structures to either side and have tightly lidded barrels next to them.  Painted in bright colors, a nearby brick wall depicts blocks of cheese, fresh breads, wine bottles, and glasses, while a pair of brass lanterns illuminates a low gate that leads into a small cafe."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "19364": "north",
+      "19367": "go gate",
+      "19370": "south",
+      "21152": "go door"
+    },
+    "timeto": {
+      "19364": 0.2,
+      "19367": 0.2,
+      "19370": 0.2,
+      "21152": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223022
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      3893,
+      1882,
+      3917,
+      1912
+    ]
+  }
+}

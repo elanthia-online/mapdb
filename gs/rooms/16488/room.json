@@ -1,0 +1,30 @@
+{
+  "checksum": "693ff5194af295dbd54cacb05c69ef70",
+  "room": {
+    "id": 16488,
+    "title": [
+      "[Oravia's Magic Shoppe]",
+      "[Oravia's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by white silk-paneled walls, the shop features some woven linen pillows in the center of its bamboo floor.  A tattered merchant permit hangs under the silk ceiling.  Right near the front is an aqua-hued seaglass display and a wide knotted oak counter."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12266": "out",
+      "16635": "south",
+      "16636": "north"
+    },
+    "timeto": {
+      "12266": 0.2,
+      "16635": 0.2,
+      "16636": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

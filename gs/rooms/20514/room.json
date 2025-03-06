@@ -1,0 +1,24 @@
+{
+  "checksum": "dcd25b71cd3ec1cf611b34e6f471ecc5",
+  "room": {
+    "id": 20514,
+    "title": [
+      "[Erythro Island, Blood Tunnel]"
+    ],
+    "description": [
+      "Tiny blood red spiders crawl along the walls, skittering about in a hurry.  Drops of blood drip from the ceiling, soaking into the ground."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20513": "northeast",
+      "20515": "northwest"
+    },
+    "timeto": {
+      "20513": 0.2,
+      "20515": 0.2
+    }
+  }
+}

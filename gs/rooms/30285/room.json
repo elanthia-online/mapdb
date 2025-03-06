@@ -1,0 +1,34 @@
+{
+  "checksum": "6cce09849955a976a99a71d57a5de05c",
+  "room": {
+    "id": 30285,
+    "title": [
+      "[Imperial Courier Office, 'Haven]"
+    ],
+    "description": [
+      "Faint light from the street outside filters into the room through the a large oak-framed window, providing scant illumination for a pair of paintings hanging upon one wall.  Numerous large sacks, packages, and crates are stacked and organized behind a long wooden counter that dominates the back and side walls.  A pair of glass hurricane lanterns hang from the ceiling, casting soft light across the room.",
+      "Sunlight fills the room as it pours in through a large oak-framed window and illuminates a pair of paintings hanging on one wall.  Numerous large sacks, packages, and crates are stacked and organized behind a long wooden counter that dominates the back and one side wall.  A pair of glass hurricane lanterns hang from the ceiling, casting additional light across the room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "1443": "out",
+      "30710": "/rooms/30285/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1443": 0.2,
+      "30710": "/rooms/30285/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      4747090
+    ]
+  }
+}

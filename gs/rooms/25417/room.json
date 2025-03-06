@@ -1,0 +1,46 @@
+{
+  "checksum": "131a4543b71cad1247149a10eb430da0",
+  "room": {
+    "id": 25417,
+    "title": [
+      "[Outpost, Inner Courtyard]"
+    ],
+    "description": [
+      "An imposing stone tower stands at the center of the inner courtyard, taking up the majority of the space.  Similar to the build of the rest of the outpost, the windows of the tower are narrow and better designed for arrows and defense than to offer light and a scenic view.  A wing extends from the tower's north side and soldiers continually file northward back and forth from it."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25416": "go tower",
+      "25418": "west",
+      "25420": "south",
+      "25421": "north"
+    },
+    "timeto": {
+      "25416": 0.2,
+      "25418": 0.2,
+      "25420": 0.2,
+      "25421": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      336328
+    ],
+    "image": "wl-hendoran_outpost-1669182273.png",
+    "image_coords": [
+      689,
+      198,
+      722,
+      231
+    ]
+  }
+}

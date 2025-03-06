@@ -1,0 +1,40 @@
+{
+  "checksum": "5ef5af6a4bbfd1c8514ca02f0ffd8047",
+  "room": {
+    "id": 9206,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "A granite walkway both surrounds and bisects a huge square pit filled with cages and contraptions.  The only way down appears to be two rope ladders on the opposite side of these sunken rooms."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9207": "west",
+      "9218": "east",
+      "9220": "north"
+    },
+    "timeto": {
+      "9207": 0.2,
+      "9218": 0.2,
+      "9220": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532011
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1198,
+      785,
+      1208,
+      795
+    ]
+  }
+}

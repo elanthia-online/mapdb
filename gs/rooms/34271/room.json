@@ -1,0 +1,31 @@
+{
+  "checksum": "b30f6d705ef5b54b06f3bf4e4a1798f7",
+  "room": {
+    "id": 34271,
+    "title": [
+      "[Schoolhouse, Hallway]"
+    ],
+    "description": [
+      "Brightly burning lanterns are suspended from hooks in the ceiling along the length of the hallways, their steady glow reflected in the polished linden wood floor.  Various hooks and shelves line the walls around both a windowed cobalt blue door and a windowed hunter green door, providing storage space for outer garments while classes are in session.  Fitted with stained glass, the western wall has an enormous blue window displaying a variety of scallop shells over a durable exterior mahogany door."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14088": "east",
+      "34272": "go cobalt door",
+      "34273": "go hunter door",
+      "34274": "go mahogany door"
+    },
+    "timeto": {
+      "14088": 0.2,
+      "34272": 0.2,
+      "34273": 0.2,
+      "34274": 0.2
+    },
+    "uid": [
+      4747013
+    ]
+  }
+}

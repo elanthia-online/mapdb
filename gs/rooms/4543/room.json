@@ -1,0 +1,47 @@
+{
+  "checksum": "59dcddd8b81cadab73e3c896fb17d52b",
+  "room": {
+    "id": 4543,
+    "title": [
+      "[Dark Tunnel]"
+    ],
+    "description": [
+      "The tunnels open up into three paths, two leading deeper into the mine.  Deep hoof marks cover the ground, a sign of many beasts of burden which must have once labored within these walls."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4542": "east",
+      "4544": "northwest",
+      "4550": "southwest"
+    },
+    "timeto": {
+      "4542": 0.2,
+      "4544": 0.2,
+      "4550": 0.2
+    },
+    "tags": [
+      "blackgrove root",
+      "ghostly pooka",
+      "cave moss",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1198,
+      538,
+      1208,
+      548
+    ]
+  }
+}

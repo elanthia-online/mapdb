@@ -1,0 +1,31 @@
+{
+  "checksum": "448a26d3b47ff3f2eb8fe5c57e38475d",
+  "room": {
+    "id": 27932,
+    "title": [
+      "[Khylynnia's Magic Shoppe]"
+    ],
+    "description": [
+      "Enclosed by celadon marble walls, the shop features a bathing maiden statue in the center of its celadon marble floor.  A pearl-handled filigreed mandolin hangs under the vaulted ceiling.  Right near the front is an iron-banded wooden chest and an oval-shaped speckled marble counter."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "351": "out",
+      "27933": "east",
+      "27934": "north"
+    },
+    "timeto": {
+      "351": 0.2,
+      "27933": 0.2,
+      "27934": 0.2
+    },
+    "tags": [
+      "khy",
+      "khylynnia",
+      "meta:playershop"
+    ]
+  }
+}

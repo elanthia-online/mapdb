@@ -1,0 +1,30 @@
+{
+  "checksum": "d20f22454a014a1509fda94280cad59c",
+  "room": {
+    "id": 4476,
+    "title": [
+      "[Topaz Level, Elbow]"
+    ],
+    "description": [
+      "Mining efforts are in full bore on the northern wall, but don't impede progress through the passage.  Several dwarves are busy working the stone, carefully searching for new veins or traces of mineral deposits.  Of the three miners, it appears the woman is working the hardest."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4431": "south",
+      "4473": "east",
+      "4477": "go gate"
+    },
+    "timeto": {
+      "4431": 0.2,
+      "4473": 0.2,
+      "4477": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

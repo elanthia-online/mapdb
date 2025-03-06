@@ -1,0 +1,27 @@
+{
+  "checksum": "aefdd7ec2cc746c5c274229672569cf9",
+  "room": {
+    "id": 15312,
+    "title": [
+      "[Olliver's General Store]",
+      "[Olliver's Weaponry]",
+      "[Olliver's Armory]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A bamboo rack and a plain wooden table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15114": "northwest"
+    },
+    "timeto": {
+      "15114": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

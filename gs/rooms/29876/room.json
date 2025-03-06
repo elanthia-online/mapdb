@@ -1,0 +1,43 @@
+{
+  "checksum": "f0d71b911eef30470f0094c849f0f18c",
+  "room": {
+    "id": 29876,
+    "title": [
+      "[Sparkfinger's Alchemy, Workroom]"
+    ],
+    "description": [
+      "Uneven light from the aurora wavers through windows of brown glass, glinting off of bubbles in the panes.  Several glowing lamps supplement the weak lighting, awakening glints and gleams from multicolored bottles on lopsided shelves lining the walls.  Behind a steel-topped counter, bubbles froth feverishly within a collection of beakers and flasks filled with multifarious fluids."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29871": "out",
+      "34399": "/rooms/29876/wayto/stringproc-34399.rb"
+    },
+    "timeto": {
+      "29871": 0.2,
+      "34399": "/rooms/29876/timeto/stringproc-34399.rb"
+    },
+    "tags": [
+      "healer",
+      "alchemist",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "urchin-access",
+      "urchin guide alchemy"
+    ],
+    "uid": [
+      7503253
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      460,
+      1025,
+      475,
+      1041
+    ]
+  }
+}

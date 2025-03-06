@@ -1,0 +1,37 @@
+{
+  "checksum": "220a7c0ef6d23e278cbdf0207b39f43e",
+  "room": {
+    "id": 30213,
+    "title": [
+      "[North 'Haven Quay, Catwalk]"
+    ],
+    "description": [
+      "Water-darkened oak and fel have been intentionally scuffed to provide purchase on the perpetually slippery catwalk.  Set side by side along it are a polished oak shop and a glass-paneled oak building, both held up with several support posts of saltstained ironwood.  A wide ramp heads away from the catwalk and its large docking structure."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1484": "go ramp",
+      "30192": "northwest",
+      "30214": "go shop",
+      "30215": "go building"
+    },
+    "timeto": {
+      "1484": 0.2,
+      "30192": 0.2,
+      "30214": 0.2,
+      "30215": 0.2
+    },
+    "tags": [
+      "handler",
+      "no forageables"
+    ],
+    "uid": [
+      7124101
+    ]
+  }
+}

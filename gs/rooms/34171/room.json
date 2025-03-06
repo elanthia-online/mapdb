@@ -1,0 +1,62 @@
+{
+  "checksum": "ba1ebb7a9809ed968e1997ca4c970061",
+  "room": {
+    "id": 34171,
+    "title": [
+      "[Kresh Warrens, Breached Hollow]"
+    ],
+    "description": [
+      "Broad and vaguely ovoid, an unnatural hollow opens within the mottled stone to form a chamber.  Spiraling furrows, deep and sharp-edged, adorn the curved walls and unevenly sloping floor, though the topmost curve of the ceiling appears relatively smooth by comparison.  Tunnel mouths gape at irregularly spaced intervals, their recesses cast in shadow by the pulsing emanations of an amber-hued barrier stretched taut like a membrane of light across a ragged crevice in the chamber's wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, southwest"
+    ],
+    "location": "The Hive",
+    "wayto": {
+      "34170": "go barrier",
+      "34180": "southwest",
+      "34201": "north",
+      "34206": "east",
+      "34210": "southeast"
+    },
+    "timeto": {
+      "34170": 0.2,
+      "34180": 0.2,
+      "34201": 0.2,
+      "34206": 0.2,
+      "34210": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "black trafel mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "Stormpeak mushroom",
+      "silversaph mushroom",
+      "gilded mushroom",
+      "Titan Crown mushroom",
+      "fizzlefire mushroom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-12",
+      "blueglow mushroom",
+      "ebon nightspark mushroom",
+      "mountainglow mushroom",
+      "meta:forage-sensed:night:2025-02"
+    ],
+    "uid": [
+      13041101
+    ],
+    "image": "en-zul_logoth_the_hive-1702229165.png",
+    "image_coords": [
+      1145,
+      419,
+      1164,
+      437
+    ]
+  }
+}

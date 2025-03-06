@@ -1,0 +1,41 @@
+{
+  "checksum": "15d41f1187d59eab0ffb6dffda800cd6",
+  "room": {
+    "id": 11843,
+    "title": [
+      "[Asylum, Central Hall]"
+    ],
+    "description": [
+      "Paired off marble pillars line each side of a long central hall that runs down the entire length of the building.  Here and there, a pillar has toppled, joining the bits and pieces of beams that are all that remain of a tile roof long collapsed and ground into dust on the ground.  Hardy vines of ivy coil up every pillar and creep like a green carpet across the stone slab floor.  A particularly heavy curtain of vines extends across the southern wall of the hall."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11840": "out",
+      "11842": "go vines"
+    },
+    "timeto": {
+      "11840": 0.2,
+      "11842": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004170
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      887,
+      784,
+      897,
+      794
+    ]
+  }
+}

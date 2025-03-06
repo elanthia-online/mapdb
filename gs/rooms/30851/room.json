@@ -1,0 +1,43 @@
+{
+  "checksum": "790b8b73b9515dabd6f3254d161c1fcb",
+  "room": {
+    "id": 30851,
+    "title": [
+      "[Ruins, Barrier Dais]"
+    ],
+    "description": [
+      "Seemingly floating just above the water, this circular dais contains assorted altars positioned around a yellow barrier, each with an offering placed on top.  A profusion of massive stone platforms covered in ruins spread out above the inner lagoon, while the yellow barrier shimmers with light, providing a way back to the atoll.",
+      "Massive floating stone platforms are connected by obsidian walkways.  Assorted altars are positioned around the barrier, each with an offering placed on top.  The yellow barrier shimmers with light offering a way back to the atoll."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Atoll",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30850": "go barrier",
+      "30852": "south"
+    },
+    "timeto": {
+      "30850": 0.2,
+      "30852": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "tiny white elderflowers",
+      "meta:forage-sensed:day:2023-11",
+      "wild sage"
+    ],
+    "uid": [
+      7138201
+    ],
+    "image": "kf-atoll-1652294074.jpg",
+    "image_coords": [
+      666,
+      333,
+      696,
+      361
+    ]
+  }
+}

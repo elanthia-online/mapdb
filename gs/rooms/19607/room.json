@@ -1,0 +1,32 @@
+{
+  "checksum": "bd459d4ff42f698e308aec0d14c94b6e",
+  "room": {
+    "id": 19607,
+    "title": [
+      "[Great Hall, White Chapel]"
+    ],
+    "description": [
+      "Deep cobalt blue tiles stretch across the floor, their glossy expanses decorated with white trilliums that provide a delicate accent to the white walls and high ceiling.  Twin alcoves flank the altar, one trimmed in carved wildlife and the other in verdant ivy bands.  An enormous stained glass window in the shape of an inverted diamond occupies the back wall, its image that of a young couple gazing up at the sun as they kneel in prayer."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "19591": "southeast",
+      "19608": "go staircase",
+      "19611": "south"
+    },
+    "timeto": {
+      "19591": 0.2,
+      "19608": 0.2,
+      "19611": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3206014
+    ]
+  }
+}

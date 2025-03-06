@@ -1,0 +1,43 @@
+{
+  "checksum": "e9d37c643d1e19a10bb5d38b76475ad6",
+  "room": {
+    "id": 34353,
+    "title": [
+      "[Titan's Crown, Tempest Isle]"
+    ],
+    "description": [
+      "Choppy waves of the turbulent lake assail the shore, but the way back to the lake shore is the shortest here.  Glowing softly, a hemisphere of dark blue zorchar rests on the ground, perfectly aligned with one of the zorchar-veined obsidian spires of the large ring at the center of the island."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Stormpeak",
+    "climate": "freshwater",
+    "terrain": "mountainous",
+    "wayto": {
+      "34345": "/rooms/34353/wayto/stringproc-34345.rb",
+      "34354": "go ring",
+      "34355": "south",
+      "34358": "east"
+    },
+    "timeto": {
+      "34345": 0.2,
+      "34354": 0.2,
+      "34355": 0.2,
+      "34358": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13150412
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      1043,
+      410,
+      1063,
+      430
+    ]
+  }
+}

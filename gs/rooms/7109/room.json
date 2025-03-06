@@ -1,0 +1,42 @@
+{
+  "checksum": "a40aad7296a4062a88638efd2257670d",
+  "room": {
+    "id": 7109,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The corridor dead ends here at the blank south wall.  The walls and floor show signs of age and stress, with cracks and crumbled spots here and there."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7107": "north",
+      "7110": "go crack"
+    },
+    "timeto": {
+      "7107": 0.2,
+      "7110": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44045
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1002,
+      1150,
+      1012,
+      1160
+    ]
+  }
+}

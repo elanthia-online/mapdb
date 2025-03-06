@@ -1,0 +1,40 @@
+{
+  "checksum": "b6a16473dcf0cf91963c6c85a61498b3",
+  "room": {
+    "id": 20009,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "This passage has a pronounced downward slope to it as it runs from the northwest to the east.  Marks on the floor seem to indicate that something (or someone) has been lugged through this area."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20008": "northwest",
+      "20012": "east"
+    },
+    "timeto": {
+      "20008": 0.2,
+      "20012": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11215
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1077,
+      1070,
+      1088,
+      1080
+    ]
+  }
+}

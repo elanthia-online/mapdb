@@ -1,0 +1,31 @@
+{
+  "checksum": "d2523474e2674f544944ee145f98d50b",
+  "room": {
+    "id": 10392,
+    "title": [
+      "[Malwith Inn, Hallway]"
+    ],
+    "description": [
+      "The hallway ends before a pair of large double doors.  The doors are elegantly carved from wondrous haon.  A brass door handle adorns each door.  A gold plaque is attached to the wall just above the doors."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Vaalor Inns",
+    "wayto": {
+      "10391": "west",
+      "13704": "go doors",
+      "13705": "go haon door",
+      "17325": "go mahogany door"
+    },
+    "timeto": {
+      "10391": 0.2,
+      "13704": 0.2,
+      "13705": 0.2,
+      "17325": 0.2
+    },
+    "uid": [
+      14102052
+    ]
+  }
+}

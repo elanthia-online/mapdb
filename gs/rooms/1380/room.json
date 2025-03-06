@@ -1,0 +1,41 @@
+{
+  "checksum": "e6f146c37df83ee8458869c403730df1",
+  "room": {
+    "id": 1380,
+    "title": [
+      "[Cairnfang Falls, Top]"
+    ],
+    "description": [
+      "The river disappears over the brink of the cliff here, the dull roar of its fall rising through the mist and the pinetops below.  The caravan trail follows a narrow ledge of angled rock as it begins its descent to the cliff's base."
+    ],
+    "paths": [
+      "Obvious paths: northwest, down"
+    ],
+    "location": "the Cairnfang",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1379": "northwest",
+      "1381": "down"
+    },
+    "timeto": {
+      "1379": 0.2,
+      "1381": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4745040
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      1009,
+      535,
+      1019,
+      545
+    ]
+  }
+}

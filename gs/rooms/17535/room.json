@@ -1,0 +1,28 @@
+{
+  "checksum": "ad2e25f722982efb3b6f7c7b0bcf93af",
+  "room": {
+    "id": 17535,
+    "title": [
+      "[Alyssea's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by thick slate walls, the shop features an intricate sea creatures display in the center of its slate floor.  A Four Winds Isle map hangs under the skylight-set ceiling.  Right near the front is a heavy ale barrel and a salt-crusted sandstone case."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "12267": "out",
+      "17544": "northwest",
+      "17545": "northeast"
+    },
+    "timeto": {
+      "12267": 0.2,
+      "17544": 0.2,
+      "17545": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

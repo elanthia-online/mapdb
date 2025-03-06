@@ -1,0 +1,29 @@
+{
+  "checksum": "462257243385edbbe999efcf66f3ad0c",
+  "room": {
+    "id": 8672,
+    "title": [
+      "[Raging Thrak Inn, Hallway]"
+    ],
+    "description": [
+      "You can look down this hallway to the other end of the building.  Doorways lead right and left off it."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8671": "go staircase",
+      "8673": "go door",
+      "8675": "north"
+    },
+    "timeto": {
+      "8671": 0.2,
+      "8673": 0.2,
+      "8675": 0.2
+    },
+    "uid": [
+      1032
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "aba57e846828b0918616341a24ad8f19",
+  "room": {
+    "id": 32845,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Hanging from a platinum chain, a pair of crystal lamps sway above, the faceted panes sending motes of fragmented light over the gold and green carpeting.  Set into the wall is a silver door adorned with the Sylvanfair coat-of-arms, opposite an ice blue snowflake lace curtain.  A mosaic crafted from sea glass hangs from the wall; light shimmers off of each piece as it illuminates the work of art."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32842": "south",
+      "32844": "east",
+      "32846": "west",
+      "33029": "go silver door",
+      "33153": "go snowflake curtain"
+    },
+    "timeto": {
+      "32842": 0.2,
+      "32844": 0.2,
+      "32846": 0.2,
+      "33029": 0.2,
+      "33153": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053306
+    ]
+  }
+}

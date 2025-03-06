@@ -1,0 +1,40 @@
+{
+  "checksum": "ca1fd254c1f00a1366216b7fd3a80e7a",
+  "room": {
+    "id": 5564,
+    "title": [
+      "[Outlands Manor, Tower]"
+    ],
+    "description": [
+      "Trampled ashes, scattered pieces of charred cot frames and burnt shreds of mattress ticking cover most of the floor in this chamber.  The layer of soot that covers the ceiling suggests that the contents of the room were piled in the center of it and then set ablaze.  A narrow stone stairway climbs to the second level of the tower along the room's east wall."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5562": "west",
+      "5566": "go stairway"
+    },
+    "timeto": {
+      "5562": 0.2,
+      "5566": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4215167
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1003,
+      326,
+      1013,
+      336
+    ]
+  }
+}

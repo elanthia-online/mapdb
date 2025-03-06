@@ -1,0 +1,43 @@
+{
+  "checksum": "6ec307ddd31a5d439e41a5c378bdcaeb",
+  "room": {
+    "id": 2069,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "The singed planks and rotted pilings of this small dock barely support your weight as you look out over the cove.  A fishing boat is moored at the far end and even from here you can tell that its decrepit remains have outlived any usefulness -- even if the aft end was not fully submerged."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "",
+    "wayto": {
+      "2068": "northeast",
+      "2070": "southwest",
+      "2075": "northwest"
+    },
+    "timeto": {
+      "2068": 0.2,
+      "2070": 0.2,
+      "2075": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3030202
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      678,
+      1116,
+      688,
+      1126
+    ]
+  }
+}

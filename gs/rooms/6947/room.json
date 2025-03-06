@@ -1,0 +1,27 @@
+{
+  "checksum": "d36b83518b336d43b2404fb7b00de213",
+  "room": {
+    "id": 6947,
+    "title": [
+      "[Militia Barracks, Guardpost]"
+    ],
+    "description": [
+      "This small, often cramped bare room is the barracks guardpost.  A guard is on duty here most of the time."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6946": "north",
+      "6948": "east"
+    },
+    "timeto": {
+      "6946": 0.2,
+      "6948": 0.2
+    },
+    "tags": [
+      "meta:game:GSPlat"
+    ]
+  }
+}

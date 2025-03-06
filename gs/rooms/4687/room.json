@@ -1,0 +1,49 @@
+{
+  "checksum": "a7328d8e1c920a2355253f5441926650",
+  "room": {
+    "id": 4687,
+    "title": [
+      "[Naerine Hostelry, Lobby]"
+    ],
+    "description": [
+      "Beautifully rendered watercolor and oil paintings adorn the silver-speckled marble walls.  Cushioned benches offer a grand view of the heavily trafficked foyer while a banistered oak stairway leads off to other attractions of the Naerine Hostelry.  Faint sounds of rushing water can be heard through a set of glaes-paned doors leading out to the bailey."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, southwest"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4639": "go doors",
+      "4688": "southeast",
+      "4689": "south",
+      "4690": "southwest",
+      "4691": "climb stairway",
+      "30717": "/rooms/4687/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4639": 0.2,
+      "4688": 0.2,
+      "4689": 0.2,
+      "4690": 0.2,
+      "4691": 0.2,
+      "30717": "/rooms/4687/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide inn",
+      "inn"
+    ],
+    "uid": [
+      14051028
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      85,
+      305,
+      108,
+      328
+    ]
+  }
+}

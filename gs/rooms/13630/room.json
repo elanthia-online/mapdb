@@ -1,0 +1,29 @@
+{
+  "checksum": "88cc719206c414142b389d590828fac7",
+  "room": {
+    "id": 13630,
+    "title": [
+      "[Lilokia's Armory]",
+      "[Lilokia's General Store]"
+    ],
+    "description": [
+      "An intricate knot-worked wall-hanging hangs on one of the blue watered silk walls, and a modwir beam ceiling rises overhead.  A large potted fern sits in one corner of a sanded pine floor.  There is a carved oak table on one side of the shop and an elegantly carved oak armoire on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "10448": "out",
+      "13631": "east",
+      "13632": "north"
+    },
+    "timeto": {
+      "10448": 0.2,
+      "13631": 0.2,
+      "13632": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

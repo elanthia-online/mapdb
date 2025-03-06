@@ -1,0 +1,41 @@
+{
+  "checksum": "2ce9c69470aa8a34a209607e54af5f46",
+  "room": {
+    "id": 10858,
+    "title": [
+      "[Fletcher Shop, Porch]"
+    ],
+    "description": [
+      "A swift breeze gently rustles the leaves of this large haon tree, partially obscuring your view of the town to the west.  The thick branches provide a natural support for the frame of the shop, while smaller branches form a railing which surrounds the porch.  Hanging off the edge of the porch is a spidersilk ladder which leads to the ground far below."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10857": "climb ladder",
+      "10990": "go door"
+    },
+    "timeto": {
+      "10857": 0.2,
+      "10990": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101016
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1696,
+      925,
+      1733,
+      963
+    ]
+  }
+}

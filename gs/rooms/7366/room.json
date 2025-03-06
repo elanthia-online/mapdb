@@ -1,0 +1,47 @@
+{
+  "checksum": "faca7922c258a128335f67b1542557d6",
+  "room": {
+    "id": 7366,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "A rotting stench wafts up from the dark surface of a decaying pond surrounded by dead pastureland.  Piles of large bleached bones dot the landscape, causing you to wonder what may have happened here."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7362": "east",
+      "7364": "northwest",
+      "7365": "north",
+      "7367": "northeast"
+    },
+    "timeto": {
+      "7362": 0.2,
+      "7364": 0.2,
+      "7365": 0.2,
+      "7367": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160027
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1333,
+      1100,
+      1341,
+      1108
+    ]
+  }
+}

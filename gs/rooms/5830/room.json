@@ -1,0 +1,42 @@
+{
+  "checksum": "c493723e4d6188e344be31cd7193a013",
+  "room": {
+    "id": 5830,
+    "title": [
+      "[Timmorain Road]"
+    ],
+    "description": [
+      "A vibrant deciduous forest presses toward the waters of the Mistydeep River, leaving scant room for passage between the trees and the riverbank.  Cutting into the forest to the northeast, a well-maintained cobblestone road provides sure footing for travelers wishing to venture that direction, while a massive limestone bridge leads southwest, out over the river's waters toward an impressive city."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Timmorain Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5829": "go bridge",
+      "5831": "northeast",
+      "23525": "/rooms/5830/wayto/stringproc-23525.rb"
+    },
+    "timeto": {
+      "5829": 0.2,
+      "5831": 0.2,
+      "23525": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14003001
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      385,
+      1001,
+      397,
+      1013
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "454bb7a035ad9292da09e6dae8348908",
+  "room": {
+    "id": 8675,
+    "title": [
+      "[Raging Thrak Inn, Hallway]"
+    ],
+    "description": [
+      "You can see more doors in either direction down the length of the hallway, but are prevented from continuing further north by a rope firmly tied across the hall."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8672": "south",
+      "8676": "go passage",
+      "8677": "go maoral door",
+      "18247": "climb ladder"
+    },
+    "timeto": {
+      "8672": 0.2,
+      "8676": 0.2,
+      "8677": 0.2,
+      "18247": 0.2
+    },
+    "uid": [
+      1025
+    ]
+  }
+}

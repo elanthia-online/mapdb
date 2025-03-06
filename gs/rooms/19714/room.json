@@ -1,0 +1,40 @@
+{
+  "checksum": "bd3664129b3d2f99614de49df09b59cd",
+  "room": {
+    "id": 19714,
+    "title": [
+      "[Cavernhold, Dining Room]"
+    ],
+    "description": [
+      "This large chamber is apparently used to feed the gnolls who inhabit these caverns.  Seven ridges of level stone run the length of the room and serve as tables, stone benches and chairs flanking each."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19659": "south",
+      "19705": "northwest"
+    },
+    "timeto": {
+      "19659": 0.2,
+      "19705": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10052
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      516,
+      904,
+      526,
+      915
+    ]
+  }
+}

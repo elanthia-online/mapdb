@@ -1,0 +1,41 @@
+{
+  "checksum": "32fd657dc30ad348e14408a4b0652a60",
+  "room": {
+    "id": 3093,
+    "title": [
+      "[Abandoned Farm, Hall]"
+    ],
+    "description": [
+      "The narrow window at the end of the hall is barred--from the inside.  Logs and broken bits of furniture are piled against the window and scattered across the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Abandoned Farm",
+    "wayto": {
+      "3092": "north",
+      "3094": "east",
+      "3099": "south"
+    },
+    "timeto": {
+      "3092": 0.2,
+      "3094": 0.2,
+      "3099": 0.2
+    },
+    "tags": [
+      "zombie",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4124016
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      834,
+      591,
+      844,
+      601
+    ]
+  }
+}

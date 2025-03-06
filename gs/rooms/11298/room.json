@@ -1,0 +1,43 @@
+{
+  "checksum": "2dc952f6e2a5855f84a176640a810005",
+  "room": {
+    "id": 11298,
+    "title": [
+      "[Alchemist, Hallway]"
+    ],
+    "description": [
+      "Massive chunks of stone and fallen timbers force anyone who would traverse the hallway to duck and weave through the hazardous ruin, a labyrinth made more disorienting by the light dusting of broken glass sparkling from every surface.  Although shadows dominate the wreckage, a single shaft of moonlight lances down through a gaping hole in the ceiling, illuminating a round spot on the dusty, threadbare hall rug.",
+      "Massive chunks of stone and fallen timbers force anyone who would traverse the hallway to duck and weave through the hazardous ruin, a labyrinth made more disorienting by the light dusting of broken glass sparkling from every surface.  Although shadows dominate the wreckage, a single shaft of sunlight lances down through a gaping hole in the ceiling, illuminating a round spot on the dusty, threadbare hall rug."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11297": "north",
+      "11299": "south",
+      "11301": "east",
+      "11319": "go hole"
+    },
+    "timeto": {
+      "11297": 0.2,
+      "11299": 0.2,
+      "11301": 0.2,
+      "11319": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377102
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      833,
+      893,
+      843,
+      903
+    ]
+  }
+}

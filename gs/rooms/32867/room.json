@@ -1,0 +1,32 @@
+{
+  "checksum": "a12bf9d4b80e0a8dd11eed0ef58a35f3",
+  "room": {
+    "id": 32867,
+    "title": [
+      "[Kishnar's Hearth, Shop]"
+    ],
+    "description": [
+      "Raw hoarbeam timbers, glinting with cold veins of glacial blue and shining silver, line the lower half of the shop's dark stone walls.  They curve to frame a wide stone hearth, within which a roaring fire crackles invitingly.  Opposite the hearth, a burled pine countertop with scrimshawed ivory inlay separates a cozy nook from the rest of the shop.  Shelves line the walls behind the counter, holding various staples in neat glass jars."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2451": "out",
+      "30709": "/rooms/32867/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2451": 0.2,
+      "30709": "/rooms/32867/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "grocer",
+      "urchin-access",
+      "urchin guide grocer"
+    ],
+    "uid": [
+      4049201
+    ]
+  }
+}

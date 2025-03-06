@@ -1,0 +1,34 @@
+{
+  "checksum": "16d28fcb0b4d2542015fccee64cf09cd",
+  "room": {
+    "id": 13593,
+    "title": [
+      "[Requiell's Magic Shoppe]",
+      "[Requiell's General Store]",
+      "[Requiell's Outfitting]"
+    ],
+    "description": [
+      "A bundle of dried flowers hangs on one of the refined oak-paneled walls, and a viridian Vornavian silk ceiling rises overhead.  A plush black bear fur rug sits in one corner of a varnished dark oak floor.  There is a heavy white granite counter on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9011": "out",
+      "13733": "east",
+      "13734": "north"
+    },
+    "timeto": {
+      "9011": 0.2,
+      "13733": 0.2,
+      "13734": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      639193
+    ]
+  }
+}

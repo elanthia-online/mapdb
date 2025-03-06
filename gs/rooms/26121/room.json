@@ -1,0 +1,47 @@
+{
+  "checksum": "13dd4247e7cf83743009924257aaabac",
+  "room": {
+    "id": 26121,
+    "title": [
+      "[Empyrean Tower, Antechamber]"
+    ],
+    "description": [
+      "A thin black cat with a long, singed tail reclines on an overturned metal bucket amidst a spreading puddle of murky black water, an abandoned mop lying nearby.  Vibrant light pouring from alcoves carved into the curving stone wall reflects off of the wet floor creating a wavy rainbow."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Reim Fortress Defense",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26120": "east",
+      "26122": "west",
+      "26129": "go ebon chamber",
+      "26130": "go blue chamber",
+      "26131": "go ivory chamber",
+      "26132": "go indigo chamber"
+    },
+    "timeto": {
+      "26120": 0.2,
+      "26122": 0.2,
+      "26129": 0.2,
+      "26130": 0.2,
+      "26131": 0.2,
+      "26132": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7107003
+    ],
+    "image": "imt-reim-town_and_fortress-1676820399.png",
+    "image_coords": [
+      1210,
+      335,
+      1245,
+      369
+    ]
+  }
+}

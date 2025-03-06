@@ -1,0 +1,38 @@
+{
+  "checksum": "4f25f6b1de9124fbadfcceff21bf33af",
+  "room": {
+    "id": 3291,
+    "title": [
+      "[Ice Plains, Worker Burrows]"
+    ],
+    "description": [
+      "The passage narrows here as you work your way deep into the cavern.  Timbers line the walls and ceiling to reinforce them against a possible cave-in.  One of the timbers has a large hook nailed to it with several lengths of thick chain dangling from it."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3281": "go open",
+      "3292": "north"
+    },
+    "timeto": {
+      "3281": 0.2,
+      "3292": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4127027
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      472,
+      353,
+      482,
+      363
+    ]
+  }
+}

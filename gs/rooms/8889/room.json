@@ -1,0 +1,41 @@
+{
+  "checksum": "59895834c4c2bcbe26561bce29068b79",
+  "room": {
+    "id": 8889,
+    "title": [
+      "[Wehnimer's, Middle Dock]"
+    ],
+    "description": [
+      "Laboring dockworkers and strolling seamen mingle here on the weathered planks of the dock, between the hulls of large seafaring merchantmen.  The groan of ships pulling at hawsers, the clatter of feet upon gangplanks, and the swearing of the dockworkers mix with the cries of seabirds and the cadence of waves against the pilings."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "moist",
+    "terrain": "hard, flat",
+    "wayto": {
+      "247": "west",
+      "19045": "go gangplank"
+    },
+    "timeto": {
+      "247": 0.2,
+      "19045": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "no forageables"
+    ],
+    "uid": [
+      7112
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1133,
+      446,
+      1169,
+      482
+    ]
+  }
+}

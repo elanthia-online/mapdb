@@ -1,0 +1,38 @@
+{
+  "checksum": "a57e526751be852cdcda543b99d8f570",
+  "room": {
+    "id": 29586,
+    "title": [
+      "[Fire Tower, Second Floor]"
+    ],
+    "description": [
+      "Tapestries in the colors of an autumn forest line the walls, their bottom edges fringed and beaded with amber beads that clink against the red marble floor whenever the air is stirred.  A large copper brazier sits between the doors to other rooms, and copper foil covers the stairway leading up the tower.  Built catty-corner to each other, the eastern bridge and the southern bridge lead to the nearby towers."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "29581": "down",
+      "29587": "go southern bridge",
+      "29588": "go eastern bridge",
+      "29614": "up"
+    },
+    "timeto": {
+      "29581": 0.2,
+      "29587": 0.2,
+      "29588": 0.2,
+      "29614": 0.2
+    },
+    "uid": [
+      686037
+    ],
+    "image": "ifw-wizard_guild-1619773727.png",
+    "image_coords": [
+      187,
+      685,
+      217,
+      715
+    ]
+  }
+}

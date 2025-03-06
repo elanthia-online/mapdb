@@ -1,0 +1,46 @@
+{
+  "checksum": "46f7df9195dd05cb5224305dadfc2903",
+  "room": {
+    "id": 728,
+    "title": [
+      "[Ta'Illistim, Glamesine Var]"
+    ],
+    "description": [
+      "Opposite the city's theatre, a small garden has been planted to provide a respite from the crowded var.  Beds thick with hostas, lady's slipper, dragonstalk, and a myriad of other nameless blooming flora carpet the ground beneath thick shady monir trees.  Stone benches surround the small clearing.  A few glaesine lamps mounted on slender iron stakes gently illuminate the area.",
+      "Opposite the city's theatre, a small garden has been planted to provide a respite from the crowded var.  Beds thick with hostas, lady's slipper, dragonstalk, and a myriad of other nameless blooming flora carpet the ground beneath thick shady monir trees.  Stone benches surround the small clearing.",
+      "Opposite the city's theatre, a small garden has been planted to provide a respite from the urban landscape.  Carefully manicured beds of trillium, white jasmine and roses are sectioned into a symmetrically organized design, each of the beds separated from the next with a narrow walkway of silver paving stones.  Centrally set amidst the flowers is a broken blue granite column, while around the edges of the garden are several benches."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "22": "west",
+      "30714": "/rooms/728/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "22": 0.2,
+      "30714": "/rooms/728/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "supernode",
+      "node",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100049
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1006,
+      677,
+      1029,
+      699
+    ]
+  }
+}

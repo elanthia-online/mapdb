@@ -1,0 +1,60 @@
+{
+  "checksum": "f1b2240e64c5aad5b9de3cf99f54fc4d",
+  "room": {
+    "id": 6207,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "A carved stone archway opens into a small, closet-like room.  Thick stone slabs form a makeshift stairway that spirals both up and down into the darkness."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6202": "/rooms/6207/wayto/stringproc-6202.rb",
+      "6203": "/rooms/6207/wayto/stringproc-6203.rb",
+      "6204": "/rooms/6207/wayto/stringproc-6204.rb",
+      "6205": "/rooms/6207/wayto/stringproc-6205.rb",
+      "6206": "/rooms/6207/wayto/stringproc-6206.rb",
+      "6208": "/rooms/6207/wayto/stringproc-6208.rb",
+      "6209": "/rooms/6207/wayto/stringproc-6209.rb",
+      "6210": "/rooms/6207/wayto/stringproc-6210.rb"
+    },
+    "timeto": {
+      "6202": 0.5,
+      "6203": 0.5,
+      "6204": 0.5,
+      "6205": 0.5,
+      "6206": 0.5,
+      "6208": 0.5,
+      "6209": 0.5,
+      "6210": 0.5
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      2167076
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      761,
+      177,
+      779,
+      195
+    ]
+  }
+}

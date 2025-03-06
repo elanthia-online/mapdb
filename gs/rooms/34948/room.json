@@ -1,0 +1,32 @@
+{
+  "checksum": "d0034ca87b460953a9b2a62a5da194fc",
+  "room": {
+    "id": 34948,
+    "title": [
+      "[The Peaceful Porpoise, Grotto]"
+    ],
+    "description": [
+      "Damp and dilapidated rugs, their scent cloying and dank, conceal cracks along the surface of a granite mezzanine overlooking a honeycombed grotto.  The sound of water dripping from crystalline stalactites echoes as it falls into a subterranean lagoon, causing ripples that glow and fade as they expand."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "30716": "/rooms/34948/wayto/stringproc-30716.rb",
+      "34947": "out"
+    },
+    "timeto": {
+      "30716": "/rooms/34948/timeto/stringproc-30716.rb",
+      "34947": 0.2
+    },
+    "tags": [
+      "npccleric",
+      "urchin-access",
+      "urchin guide temple"
+    ],
+    "uid": [
+      7118392
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "8c6badd3077ba6f1e9f15b26a0e7244c",
+  "room": {
+    "id": 7105,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A breeze wafts down the passage, carrying with it the odor of something in a state of advanced decay.  The shadows seem deeper and more ominous, and you look over your shoulder nervously."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7104": "north",
+      "7106": "go door",
+      "7107": "south"
+    },
+    "timeto": {
+      "7104": 0.2,
+      "7106": 0.2,
+      "7107": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44041
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1001,
+      1077,
+      1011,
+      1087
+    ]
+  }
+}

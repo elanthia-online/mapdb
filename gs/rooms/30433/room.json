@@ -1,0 +1,47 @@
+{
+  "checksum": "96118b98f7fb9ce3f74c91b3e9bc7a99",
+  "room": {
+    "id": 30433,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Funneled between the Teeth and the cliffs, the water here is more turbulent than to the north.  Several species of fish have taken advantage of this, feeding voraciously on the churned up debris and plankton the agitation provides."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "rough",
+    "wayto": {
+      "30432": "pedal south",
+      "30434": "pedal north",
+      "30445": "pedal southeast",
+      "30446": "pedal west",
+      "30447": "pedal east",
+      "30448": "pedal northwest"
+    },
+    "timeto": {
+      "30432": 6,
+      "30434": 6,
+      "30445": 6,
+      "30446": 6,
+      "30447": 6,
+      "30448": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216144
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      524,
+      1622,
+      539,
+      1638
+    ]
+  }
+}

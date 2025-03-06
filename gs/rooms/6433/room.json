@@ -1,0 +1,43 @@
+{
+  "checksum": "9de862224aba1a5f67945849bc3b2b17",
+  "room": {
+    "id": 6433,
+    "title": [
+      "[Lysierian Hills, Store]"
+    ],
+    "description": [
+      "A potbellied stove occupies the center of the room, its squat black body now covered with dust and cobwebs.  Some shelves still hang on the walls, but most have fallen down from the brackets that held them."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, out"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6432": "out",
+      "6434": "east",
+      "6435": "northeast",
+      "6436": "north"
+    },
+    "timeto": {
+      "6432": 0.2,
+      "6434": 0.2,
+      "6435": 0.2,
+      "6436": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      93067
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1099,
+      65,
+      1109,
+      75
+    ]
+  }
+}

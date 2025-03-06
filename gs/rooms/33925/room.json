@@ -1,0 +1,49 @@
+{
+  "checksum": "40be14d99639577c69da0d778157791d",
+  "room": {
+    "id": 33925,
+    "title": [
+      "[Stonetomb, Southwest Vestibule]"
+    ],
+    "description": [
+      "A grid of brass plates, each bearing a single dwarven rune, fills the granite walls and continue down dark corridors to the north and east.  Standing in the southwestern corner is the statue of a dwarven sculptor midway through a project.  Pots sprouting bioluminescent toadstools light the chamber from below with a cool, light blue glow."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "33924": "north",
+      "33926": "east"
+    },
+    "timeto": {
+      "33924": 0.2,
+      "33926": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09"
+    ],
+    "uid": [
+      13010209
+    ],
+    "image": "en-onyx-tunnel-1696878156.png",
+    "image_coords": [
+      23,
+      229,
+      51,
+      256
+    ]
+  }
+}

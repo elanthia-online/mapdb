@@ -1,0 +1,43 @@
+{
+  "checksum": "a935f40bbfb98020e5ba0171d103e9b7",
+  "room": {
+    "id": 5804,
+    "title": [
+      "[Zaerthu Tunnels, Abandoned Mine]"
+    ],
+    "description": [
+      "An old mining cart, its sides so eaten with rust that faint light from the phosphorescent lichen on the rough rock wall behind it shows through the holes.  Tools scattered near the cart and scraps of dry-rotted cloth tell a story of a hasty, possibly violent exit."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Zaerthu Tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5803": "southwest",
+      "5805": "northeast"
+    },
+    "timeto": {
+      "5803": 0.2,
+      "5805": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13009020
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      179,
+      848,
+      189,
+      858
+    ]
+  }
+}

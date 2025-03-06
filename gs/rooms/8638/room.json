@@ -1,0 +1,33 @@
+{
+  "checksum": "2d6b21c332cb6254f08926527de063fa",
+  "room": {
+    "id": 8638,
+    "title": [
+      "[Courtyard North]"
+    ],
+    "description": [
+      "This corner of the courtyard lies within the shadows of the surrounding buildings, creating a cool haven.  A large wooden bench painted with a vibrant mural sits before the six-tiered fountain that squats in the middle of the courtyard.  A flock of pigeons scavenge about for crumbs and seeds, their dun colored heads bobbing as they walk."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8637": "southeast",
+      "8639": "southwest",
+      "8649": "go ornate door",
+      "8650": "go felwood door",
+      "8652": "go arch"
+    },
+    "timeto": {
+      "8637": 0.2,
+      "8639": 0.2,
+      "8649": 0.2,
+      "8650": 0.2,
+      "8652": 0.2
+    },
+    "uid": [
+      32129
+    ]
+  }
+}

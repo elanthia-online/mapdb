@@ -1,0 +1,48 @@
+{
+  "checksum": "d39aa5ea3825049f10e8fa107414d91c",
+  "room": {
+    "id": 1852,
+    "title": [
+      "[Empath Guild, Entrance]"
+    ],
+    "description": [
+      "A perfectly level pathway of smoothed white marble stones runs between the exit to the north and the polished silver gates to the south.  On either side of the path crushed and tinted limestone creates a pebbly carpet of green.  A thick white limestone wall extending east and west supports the gates as well as a host of lit torches.  Two statues poised atop the walls, one on each side of the gate, stretch a banner between them, and a polished silver sign on the gate announces ownership of this area.",
+      "A perfectly level pathway of smoothed white marble stones runs between the exit to the north and the polished silver gates to the south.  On either side of the path crushed and tinted limestone creates a pebbly carpet of green.  A thick white limestone wall extending east and west supports the gates as well as a host of unlit torches.  Two statues poised atop the walls, one on each side of the gate, stretch a banner between them, and a polished silver sign on the gate announces ownership of this area."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1850": "north",
+      "30552": "go silver gates",
+      "30715": "/rooms/1852/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1850": 0.2,
+      "30552": "/rooms/1852/timeto/stringproc-30552.rb",
+      "30715": "/rooms/1852/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "empathguild",
+      "urchin-access",
+      "urchin guide empathguild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "empath guild"
+    ],
+    "uid": [
+      652001
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      467,
+      569,
+      503,
+      605
+    ]
+  }
+}

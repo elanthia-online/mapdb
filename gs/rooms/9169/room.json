@@ -1,0 +1,38 @@
+{
+  "checksum": "811e89fe3703e0700069d5812a734abd",
+  "room": {
+    "id": 9169,
+    "title": [
+      "[Thurfel's Keep]"
+    ],
+    "description": [
+      "One of the floor tiles clearly stands out from the rest, as it is both a different size and color than the others.  Directly above this tile, a long narrow slot has been cut into the ceiling with symmetrical precision.  Something deep within the opening glints from the flickering light of the wall sconces."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9168": "west",
+      "9170": "east"
+    },
+    "timeto": {
+      "9168": 0.2,
+      "9170": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7531006
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      795,
+      571,
+      805,
+      581
+    ]
+  }
+}

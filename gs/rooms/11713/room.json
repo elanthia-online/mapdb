@@ -1,0 +1,40 @@
+{
+  "checksum": "d2a1d6b48e5b3da1a8750c73cc181bfe",
+  "room": {
+    "id": 11713,
+    "title": [
+      "[Marsh Keep, Courtyard]"
+    ],
+    "description": [
+      "The western side of the courtyard is empty but for the rotting remains of a ladder extended down from the parapet of the outer wall.  Set near the same wall is a stone hitching post constructed by the laying of a rusting metal bar between two large blocks.  Across the faded red paving stones are scattered pieces of broken white bones, dry leaves, and small twigs."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11712": "east",
+      "11714": "northeast"
+    },
+    "timeto": {
+      "11712": 0.2,
+      "11714": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      376043
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      831,
+      1049,
+      841,
+      1059
+    ]
+  }
+}

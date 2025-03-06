@@ -1,0 +1,42 @@
+{
+  "checksum": "770ebe3249c5b3193321c427d502e858",
+  "room": {
+    "id": 19688,
+    "title": [
+      "[Cavernhold, Long Passage]"
+    ],
+    "description": [
+      "You strain your eyes to take in every bit of the dim light cast by the strange glowing fungus as you move along this confining passage.  You can make out the intersection of three tunnels, but no light seems to be coming from any of them."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19687": "east",
+      "19689": "southwest",
+      "19716": "north"
+    },
+    "timeto": {
+      "19687": 0.2,
+      "19689": 0.2,
+      "19716": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10045
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      611,
+      804,
+      625,
+      817
+    ]
+  }
+}

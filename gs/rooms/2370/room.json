@@ -1,0 +1,45 @@
+{
+  "checksum": "1269346eec97ec4f0be519edd9d42366",
+  "room": {
+    "id": 2370,
+    "title": [
+      "[Magical Burrow, Demons Run]",
+      "[Magical Burrow, Demons Lane]"
+    ],
+    "description": [
+      "Behind a tall mithril gate, a flagstone path winds toward a rushing stream, threading in the direction of a stately fieldstone building mostly obscured by intervening drifts of snow.  Figures in colorful robes wander through the entry, some supported by ornate staves of pine or even silvery hoarbeam.  Houses and storefronts give the estate a wide berth, mostly cleaving to the opposite side of the road.",
+      "Behind a tall, mithril gate lies a flagstone path that winds past a small stream as it moves in the direction of a stately fieldstone building at the opposite end of the estate.  Dark robed figures move purposefully in and out of the building, or wander the grounds in silent contemplation, at all hours of the day and night."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2361": "northwest",
+      "2368": "southwest",
+      "3352": "go gate"
+    },
+    "timeto": {
+      "2361": 0.2,
+      "2368": 0.2,
+      "3352": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042113
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      495,
+      519,
+      531,
+      555
+    ]
+  }
+}

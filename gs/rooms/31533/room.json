@@ -1,0 +1,34 @@
+{
+  "checksum": "c6658b03015adf8262cd1acc2bea319a",
+  "room": {
+    "id": 31533,
+    "title": [
+      "[The Retreat, Lounge]"
+    ],
+    "description": [
+      "The ceiling in this room is pitched at a high angle, with the exposed rafters forming the barest framework of a conventional space.  Nestled amongst the shadowy eaves are a series of chandeliers, each one providing enough ambient light by which to see, but not enough to completely dispel the dimness.  The hardwood floors have been polished to a glossy finish, and a massive overstuffed leather chair sits in front of a stacked stone fireplace."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "The Retreat, inside the island town of Mist Harbor",
+    "wayto": {
+      "31532": "south",
+      "31534": "west",
+      "31535": "go driftwood door",
+      "31536": "go stone steps"
+    },
+    "timeto": {
+      "31532": 0.2,
+      "31534": 0.2,
+      "31535": 0.2,
+      "31536": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730202
+    ]
+  }
+}

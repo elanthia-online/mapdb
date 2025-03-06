@@ -1,0 +1,32 @@
+{
+  "checksum": "1f2bf4982652a7fa03c47338d1dc1745",
+  "room": {
+    "id": 8633,
+    "title": [
+      "[Wehnimer's Travel Office]"
+    ],
+    "description": [
+      "The small back room is painted bright white and three wrought iron candelabras provide ample light.  Travelers converse and mingle, discussing geography and history in hushed tones.  On either side of a red curtain leading north is a red-cushioned bench and a small cart containing refreshments."
+    ],
+    "paths": [
+      "Obvious exits: north, down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8632": "north",
+      "8634": "down"
+    },
+    "timeto": {
+      "8632": 0.2,
+      "8634": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      112012
+    ]
+  }
+}

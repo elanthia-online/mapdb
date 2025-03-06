@@ -1,0 +1,43 @@
+{
+  "checksum": "cb8eff28e47666caf2bcf8d63cc07a6f",
+  "room": {
+    "id": 712,
+    "title": [
+      "[Ta'Illistim, Vaeshean Wey]"
+    ],
+    "description": [
+      "A lone stonework building rests against the high city wall, its blue tile roof barely visible for the trees surrounding the structure.  A double track indicating frequent wagon traffic leads from the cobblestoned wey towards a pair of wide double doors in the building's left side wall.  A small metal grate is set into the bottom of the thick city wall behind the building."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "711": "north",
+      "713": "south",
+      "13244": "go grate"
+    },
+    "timeto": {
+      "711": 0.2,
+      "713": 0.2,
+      "13244": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101059
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      206,
+      796,
+      228,
+      817
+    ]
+  }
+}

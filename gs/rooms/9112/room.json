@@ -1,0 +1,38 @@
+{
+  "checksum": "cec76457c6ae81f3604729cacd21f7c4",
+  "room": {
+    "id": 9112,
+    "title": [
+      "[Great Cavern, Stalagmite Forest]"
+    ],
+    "description": [
+      "To the east the floor of the cavern rises to meet the ceiling.  A dark vent may lead into another chamber beyond, but there is too much rubble to get near.  A small spring bubbles between the rocks and trickles off to the southwest."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9109": "west",
+      "9113": "southwest"
+    },
+    "timeto": {
+      "9109": 0.2,
+      "9113": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045222
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      305,
+      625,
+      315,
+      635
+    ]
+  }
+}

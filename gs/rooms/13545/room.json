@@ -1,0 +1,28 @@
+{
+  "checksum": "feaca6994e8edafb2501b5a348aa994e",
+  "room": {
+    "id": 13545,
+    "title": [
+      "[Dannyia's General Store]"
+    ],
+    "description": [
+      "Beneath a domed white stucco ceiling, a multihued Vornavian silk tapestry hangs on one of the refined oak-paneled walls.  A Vornavian silk-lined display case sits in one corner while a leaping dolphin statuette rests on the slate floor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, out"
+    ],
+    "wayto": {
+      "9010": "out",
+      "13550": "southwest",
+      "13551": "northeast"
+    },
+    "timeto": {
+      "9010": 0.2,
+      "13550": 0.2,
+      "13551": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

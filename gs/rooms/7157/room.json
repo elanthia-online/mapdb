@@ -1,0 +1,97 @@
+{
+  "checksum": "0d2697b84ab00d9e84cbc695be4ae3ec",
+  "room": {
+    "id": 7157,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The stream disappears into a deep sink hole here.  The sound of rushing water and the cloud of fine spray is invigorating and relaxing.  You pause for a moment to look at the sink hole more closely.  It seems wider and deeper than you recall it being.  There are signs of fresh excavations around the opening."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "humid",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "7156": "southwest",
+      "7161": "northwest",
+      "8575": "go hole"
+    },
+    "timeto": {
+      "7156": 0.2,
+      "7161": 0.2,
+      "8575": "/rooms/7157/timeto/stringproc-8575.rb"
+    },
+    "tags": [
+      "wild chokecherry",
+      "blue whortleberry",
+      "daggerstalk mushroom",
+      "striped heart mushroom",
+      "bloodwood twig",
+      "white passionflower",
+      "blue trafel mushroom",
+      "small wild rose",
+      "fiddlehead fern",
+      "blue passionflower",
+      "acantha leaf",
+      "woth flower",
+      "calamia fruit",
+      "haphip root",
+      "pothinir grass",
+      "sticks",
+      "soft white mushroom",
+      "withered black mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "wild gooseberry",
+      "broken twig",
+      "stalk of bluebells",
+      "stalk of goldenrod",
+      "sprig of wild lilac",
+      "wild orchid",
+      "tree bark",
+      "murkweed",
+      "yellow passionflower",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "ebony twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "trollfear mushroom",
+      "nightbloom blossom",
+      "brostheras grass",
+      "blackberries",
+      "cinnamon bark",
+      "meta:forage-sensed:night:2023-02",
+      "brown-skinned kiwi",
+      "dwarf billberry",
+      "yellow lemon",
+      "small watermelon",
+      "cherry peppers",
+      "fresh catnip",
+      "peppermint leaves",
+      "sun-wilted tea leaves",
+      "round yuzu",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      15017
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      1060,
+      402,
+      1070,
+      412
+    ]
+  }
+}

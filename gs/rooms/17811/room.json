@@ -1,0 +1,36 @@
+{
+  "checksum": "289042b41a710922a3e84e76e54dede9",
+  "room": {
+    "id": 17811,
+    "title": [
+      "[Alley]"
+    ],
+    "description": [
+      "The alley ends in a T intersection, a boarded up warehouse to the north.  What sounds like footsteps can be heard above, but a glance up reveals nothing."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17809": "south",
+      "17812": "west",
+      "17825": "east"
+    },
+    "timeto": {
+      "17809": 0.2,
+      "17812": 0.2,
+      "17825": 0.2
+    },
+    "uid": [
+      267110
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      911,
+      632,
+      949,
+      673
+    ]
+  }
+}

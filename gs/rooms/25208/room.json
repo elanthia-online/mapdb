@@ -1,0 +1,44 @@
+{
+  "checksum": "303394478f4a5ba0c652b5818633fd8f",
+  "room": {
+    "id": 25208,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "A single row of stalactites line the ceiling, each large formation dripping water upon the corresponding arrangement of stalagmites at random intervals.  Curiously, the tips of each rocky growth are curved slightly, giving the pale objects the look of a fang rather than something of cavernous origins.  A faint scent of decay permeates the area, the smell wafting through the damp air."
+    ],
+    "paths": [
+      "Obvious exits: east, south, northwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25207": "south",
+      "25209": "northwest",
+      "25212": "east"
+    },
+    "timeto": {
+      "25207": 0.2,
+      "25209": 0.2,
+      "25212": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900305
+    ]
+  }
+}

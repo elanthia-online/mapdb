@@ -1,0 +1,63 @@
+{
+  "checksum": "1ffc664e7a3fd227c8ce62f6e99ffdec",
+  "room": {
+    "id": 30778,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "Across some debris, the main deck stretches out in both directions, from the bow to the stern of this massive warship, the wide oak planks gleaming in the moonlight a sail billows from a mast above the entrance to the cargo hold below, while a crows nest can be spotted high above.  The bulkheads are lined with cannons facing ports fitted with wooden hatches.",
+      "Across some debris, the main deck stretches out in both directions, from the bow to the stern of this massive warship, the wide oak planks gleaming in the sunlight a sail billows from a mast above the entrance to the cargo hold below, while a crows nest can be spotted high above.  The bulkheads are lined with cannons facing ports fitted with wooden hatches."
+    ],
+    "paths": [
+      "Obvious paths: east, west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "go gangplank",
+      "30119": "go gangplank",
+      "30130": "go gangplank",
+      "30142": "go gangplank",
+      "30166": "go gangplank",
+      "30176": "go gangplank",
+      "30779": "west",
+      "30781": "down",
+      "30782": "up",
+      "30783": "east"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30779": 0.2,
+      "30781": 0.2,
+      "30782": 0.2,
+      "30783": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy man o' war",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      828,
+      1031,
+      843,
+      1044
+    ]
+  }
+}

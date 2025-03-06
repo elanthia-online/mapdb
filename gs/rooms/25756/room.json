@@ -1,0 +1,41 @@
+{
+  "checksum": "d3d342f07057eae392c28ce761cd33bd",
+  "room": {
+    "id": 25756,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Following the angular arch of Charl's Teeth, the tenebrous nature of the ocean's waters allows it to slip past the ragged edges, into the great blue beyond.  The crushed hull of a small pedal boat sits wedged between the obsidian edges of the giant, volcanic-made structure, its bent and broken pieces testament to the danger of straying too close to the teeth."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25754": "/rooms/25756/wayto/stringproc-25754.rb",
+      "25757": "/rooms/25756/wayto/stringproc-25757.rb",
+      "25760": "/rooms/25756/wayto/stringproc-25760.rb"
+    },
+    "timeto": {
+      "25754": 6,
+      "25757": 6,
+      "25760": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223823
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2081,
+      1119,
+      2101,
+      1139
+    ]
+  }
+}

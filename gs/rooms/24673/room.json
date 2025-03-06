@@ -1,0 +1,37 @@
+{
+  "checksum": "b32216af0e4f95a0825e8f5cd335a176",
+  "room": {
+    "id": 24673,
+    "title": [
+      "[Duskruin Arena, Countinghouse]"
+    ],
+    "description": [
+      "Shadows dart in and out of this corner nook, and hushed whispers mix with the distinctive sound of clinking coins.  Raucous cheers from the arena make it nearly impossible to understand the mutterings.  A pair of black-gloved hands poke out from beneath a stone ledge, ready to accept your coins."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23785": "north",
+      "33578": "/rooms/24673/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "23785": 0.2,
+      "33578": "/rooms/24673/timeto/stringproc-33578.rb"
+    },
+    "tags": [
+      "bank"
+    ],
+    "uid": [
+      8213023
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1484,
+      752,
+      1514,
+      781
+    ]
+  }
+}

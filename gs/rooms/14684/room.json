@@ -1,0 +1,39 @@
+{
+  "checksum": "e7b57df7eb3e4d7dcf779068325ff8e7",
+  "room": {
+    "id": 14684,
+    "title": [
+      "[Hearthstone, Game Room]"
+    ],
+    "description": [
+      "In vivid contrast to the rest of the manor, this room shows definite signs of wear, though the effect is not at all unpleasant.  Battered tables, some covered with green felt, have been dragged about the room to suit various purposes -- from a lively game of cards in one corner, to an odd game involving dice and shots of whiskey in another.  An old style dart board hangs upon the wall."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "13500": "out",
+      "13897": "east"
+    },
+    "timeto": {
+      "13500": 0.2,
+      "13897": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      397007
+    ],
+    "image": "wl-Hearthstone_Manor-1439662135.png",
+    "image_coords": [
+      285,
+      476,
+      352,
+      526
+    ]
+  }
+}

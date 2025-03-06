@@ -1,0 +1,25 @@
+{
+  "checksum": "18730bf911b06d5e1dcb6c5d3a9cdbb0",
+  "room": {
+    "id": 22513,
+    "title": [
+      "[Come To Heel, Showroom]"
+    ],
+    "description": [
+      "Candlelit globes flicker above ivory-hued silks draped from the top of the wagon, creating softly illuminated panels that gleam across the polished hardwood floors.  Silk slippers, velvet-lined fel chopines, and spike-heeled leather shoes are showcased on top of a silvered glass display case in the center of the room across from a spindly ivory-inlaid table, some woven reed baskets filled with vendible items stacked underneath.  A large window fixed with a plush velvet-cushioned seat is stationed next to a brass-handled door."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20307": "out",
+      "22514": "go door"
+    },
+    "timeto": {
+      "20307": 0.2,
+      "22514": 0.2
+    },
+    "check_location": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "c2d2044cf9f1899de5de579ee5647128",
+  "room": {
+    "id": 4177,
+    "title": [
+      "[Minion Quarters]"
+    ],
+    "description": [
+      "Magma bubbles from the ground here.  The heat is so intense that you start to sweat almost immediately upon entering the room.  There is a chain hanging from the ceiling that holds a pot boiling over the intense heat.  Sacks of carrots, potatoes, and onions are next to the wall."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4176": "east",
+      "4178": "south"
+    },
+    "timeto": {
+      "4176": 0.2,
+      "4178": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138138
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      695,
+      997,
+      705,
+      1007
+    ]
+  }
+}

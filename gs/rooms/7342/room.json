@@ -1,0 +1,43 @@
+{
+  "checksum": "a18d7100217e1b9e9289637c22459f9a",
+  "room": {
+    "id": 7342,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "Rotted through, this area is a twisted dark image of the once beautiful pasture that thrived here.  The few spots that aren't decaying are overgrown by a thorny underbrush."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7335": "northwest",
+      "7341": "southeast"
+    },
+    "timeto": {
+      "7335": 0.2,
+      "7341": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161009
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1120,
+      784,
+      1130,
+      794
+    ]
+  }
+}

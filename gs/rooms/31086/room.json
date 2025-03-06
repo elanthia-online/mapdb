@@ -1,0 +1,50 @@
+{
+  "checksum": "da9d9f48a3835216fc393c6cc42aa004",
+  "room": {
+    "id": 31086,
+    "title": [
+      "[Dusty Tunnel]"
+    ],
+    "description": [
+      "A faint breeze drifts in from the tunnel mouth, bringing with it a fresh scent and helping to dispel any lingering must in the air.  What began as a few patches on the rocky ground slowly turns into a packed dirt fully covering it.  A large opening stands at the far end of the tunnel leading to the outside."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "the Forgotten Vineyard",
+    "wayto": {
+      "31085": "west",
+      "31087": "out"
+    },
+    "timeto": {
+      "31085": 0.2,
+      "31087": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "red vornalite mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-10"
+    ],
+    "uid": [
+      4225003
+    ],
+    "image": "vo-forgotten_vineyard-1653511567.png",
+    "image_coords": [
+      402,
+      1501,
+      452,
+      1548
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "67a9bc524f8635ce87cf63280e413870",
+  "room": {
+    "id": 31126,
+    "title": [
+      "[House Aspis, 2nd Floor Balcony]"
+    ],
+    "description": [
+      "This balcony overlooks the main entry hall of the house.  It runs along two sides of the building and several doors open off of it.  Twin stairways descend to the main floor and a smaller staircase leads up to the next landing"
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31121": "go stairway",
+      "31127": "east",
+      "31128": "west",
+      "31132": "go door",
+      "31134": "go staircase"
+    },
+    "timeto": {
+      "31121": 0.2,
+      "31127": 0.2,
+      "31128": 0.2,
+      "31132": 0.2,
+      "31134": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102200
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      443,
+      384,
+      576,
+      453
+    ]
+  }
+}

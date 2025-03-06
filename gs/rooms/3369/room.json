@@ -1,0 +1,51 @@
+{
+  "checksum": "c66d6a3ccb571bd0d8134b4446b9051c",
+  "room": {
+    "id": 3369,
+    "title": [
+      "[Ice Garden, Altar]"
+    ],
+    "description": [
+      "Benches of carved ice with seats of wood surround the central altar, bowered with beardtongue shrubs.  The glitter of the fallen snow reflects light in a myriad of rainbows, creating a hypnotic effect ideal for settling into a meditative state.  Carved into the base of the glacier is a dark crevice leading into the mountain of ice."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "glacial",
+    "terrain": "cultivated",
+    "wayto": {
+      "3365": "south",
+      "3561": "go dark crevice"
+    },
+    "timeto": {
+      "3365": 0.2,
+      "3561": "/rooms/3369/timeto/stringproc-3561.rb"
+    },
+    "tags": [
+      "ice tulip",
+      "moonflower",
+      "sweetfern stalk",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "snow pansy",
+      "winter rose",
+      "frostflower",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4043801
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      759,
+      610,
+      795,
+      646
+    ]
+  }
+}

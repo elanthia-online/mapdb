@@ -1,0 +1,31 @@
+{
+  "checksum": "fe05535bcc81d0b24458469fb48c1def",
+  "room": {
+    "id": 13215,
+    "title": [
+      "[Shimmarglin Inn, West Hall]"
+    ],
+    "description": [
+      "The crimson carpet bends here, forming a sharp elbow in the hall.  The sickly-sweet scent of dying flowers is strong, its odor mixing with the vague smell of burnt incense."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "13213": "east",
+      "13216": "go dark door",
+      "13217": "go light door",
+      "13223": "north"
+    },
+    "timeto": {
+      "13213": 0.2,
+      "13216": 0.2,
+      "13217": 0.2,
+      "13223": 0.2
+    },
+    "uid": [
+      13108012
+    ]
+  }
+}

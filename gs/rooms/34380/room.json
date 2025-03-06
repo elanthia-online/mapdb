@@ -1,0 +1,49 @@
+{
+  "checksum": "107b491f83ac6a56526abd1b7d438ee5",
+  "room": {
+    "id": 34380,
+    "title": [
+      "[Raining Caves, Platform]"
+    ],
+    "description": [
+      "Deep scrapes and gashes surrounding a deep pit suggest that a clawed creature has either buried a treasure or wants to dig something up.  Given the harsh aromas ascending from the center of the cavern, the likelihood that dead things are buried throughout is increasing.  From this ledge, it's difficult to see any detail given the lack of lighting, but there is definite movement at the bottom of the chasm."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Stormpeak",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "34362": "south",
+      "34381": "go bridge"
+    },
+    "timeto": {
+      "34362": 0.2,
+      "34381": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13150102
+    ],
+    "image": "en-zul_logoth-storm_peaks-1703220375.png",
+    "image_coords": [
+      598,
+      673,
+      620,
+      694
+    ]
+  }
+}

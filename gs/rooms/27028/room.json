@@ -1,0 +1,27 @@
+{
+  "checksum": "26a9b9eb2ec32da5d727cdaf55e9b57f",
+  "room": {
+    "id": 27028,
+    "title": [
+      "[Lake of Fear, Northern Expanse]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  Several shore birds wheel overhead, searching the barren landscape for food."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27027": "/rooms/27028/wayto/stringproc-27027.rb",
+      "27029": "/rooms/27028/wayto/stringproc-27029.rb"
+    },
+    "timeto": {
+      "27027": 0.2,
+      "27029": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

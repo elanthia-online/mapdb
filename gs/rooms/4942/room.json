@@ -1,0 +1,38 @@
+{
+  "checksum": "9ce250097a176633b4bfc6ee775851e5",
+  "room": {
+    "id": 4942,
+    "title": [
+      "[Gyldemar Forest, Ruined Hall]"
+    ],
+    "description": [
+      "The archway opens onto a hall that must once have held hundreds, but now contains only animal droppings and dead leaves.  Every available surface on the otherwise bare walls is covered with detailed carvings of mythical creatures, vermilion and ultramarine paint still clinging to the deeper recesses of the bas-reliefs.  There is no history to be read in the mute stone, though, and it is impossible to tell if the owners of the hall fled or died here."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Gyldemar Forest",
+    "wayto": {
+      "4941": "south",
+      "4943": "north"
+    },
+    "timeto": {
+      "4941": 0.2,
+      "4943": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030075
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      900,
+      517,
+      910,
+      527
+    ]
+  }
+}

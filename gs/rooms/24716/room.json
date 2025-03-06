@@ -1,0 +1,81 @@
+{
+  "checksum": "1b6ddc008a920d707f48a4c349fe3c87",
+  "room": {
+    "id": 24716,
+    "title": [
+      "[Red Forest, Derelict Village]"
+    ],
+    "description": [
+      "A compact half-sphere of thick trees circles outward to eventually peel away and reveal the broken and scattered remnants of what appears to have once been a village.  Some wooden buildings remain intact with little overgrowth, while others have been left in useless piles of rubble, smashed or scorched.   Intermittent flecks of silver or golden light can be seen within the hazy mist that saturates the edge of the woods."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Red Forest",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "24715": "/rooms/24716/wayto/stringproc-24715.rb",
+      "24717": "southeast",
+      "24718": "northeast"
+    },
+    "timeto": {
+      "24715": 0.2,
+      "24717": 0.2,
+      "24718": 0.2
+    },
+    "tags": [
+      "wintergreen leaf",
+      "blue whortleberry",
+      "sweetfern stalk",
+      "wild gooseberry",
+      "bright red cranberry",
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "stalk of bluebells",
+      "tkaro root",
+      "sprig of wild lilac",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "soft white mushroom",
+      "white hook mushroom",
+      "bright red teaberry",
+      "blueberries",
+      "fiddlehead fern",
+      "broken twig",
+      "wild pink geranium",
+      "small wild rose",
+      "wild chokecherry",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "dwarf billberry",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      480231
+    ],
+    "image": "red_forest-1260914757.png",
+    "image_coords": [
+      104,
+      472,
+      118,
+      486
+    ]
+  }
+}

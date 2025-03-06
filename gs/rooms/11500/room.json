@@ -1,0 +1,38 @@
+{
+  "checksum": "2dd3647e3d60c2637316b675498474d3",
+  "room": {
+    "id": 11500,
+    "title": [
+      "[Ruined Tower, Entry Hall]"
+    ],
+    "description": [
+      "Murals line both sides of the spacious entry hall.  A pair of tall, arched windows face east, the glass long ago shattered and replaced by a fine network of silvery cobwebs.  A gentle breeze, laden with the scent of the bay, billows the web."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11499": "east",
+      "11501": "west"
+    },
+    "timeto": {
+      "11499": 0.2,
+      "11501": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305024
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      791,
+      955,
+      801,
+      965
+    ]
+  }
+}

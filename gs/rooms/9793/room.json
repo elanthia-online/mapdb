@@ -1,0 +1,38 @@
+{
+  "checksum": "4ab276abd065614e2eee26084c9431fe",
+  "room": {
+    "id": 9793,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "The rounded, almost circular corridor continues its winding journey, the walls around you slick and heavy with moisture.  A few large spiderwebs spread across the low ceiling, adding to the cramped feeling within the chamber.  The ghostly white shrouds of silk sway slightly as light currents of air drift past.  Shattered stones lie across the floor, some stained with dark splotches."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9792": "south",
+      "9794": "northwest"
+    },
+    "timeto": {
+      "9792": 0.2,
+      "9794": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022051
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1256,
+      732,
+      1266,
+      742
+    ]
+  }
+}

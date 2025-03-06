@@ -1,0 +1,30 @@
+{
+  "checksum": "9d4468616ac2c72a1d4d60e31976e820",
+  "room": {
+    "id": 27894,
+    "title": [
+      "[Xilona's Weaponry]"
+    ],
+    "description": [
+      "Mahogany paneled walls rise from a dark-stained oak floor.  Just above a brass flowerpot hangs a tattered merchant permit, and an ebonwood beam ceiling completes the picture.  A vine-carved mahogany table and a jewel-inlaid caddy stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "356": "out",
+      "27895": "east",
+      "27896": "north"
+    },
+    "timeto": {
+      "356": 0.2,
+      "27895": 0.2,
+      "27896": 0.2
+    },
+    "tags": [
+      "xilona",
+      "meta:playershop"
+    ]
+  }
+}

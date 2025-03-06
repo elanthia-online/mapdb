@@ -1,0 +1,24 @@
+{
+  "checksum": "5e0ec1ff632cee9fe0a2475a0f6bce7a",
+  "room": {
+    "id": 24074,
+    "title": [
+      "[Darkness, Tunnel]"
+    ],
+    "description": [
+      "A large snake skin has taken up most of the walkway, causing you to hug close to the walls.  Jagged stones jut out at every turn threatening to rip open anything they come in contact with.  The faint sounds of something slithering can be heard in the distance."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24073": "west",
+      "24075": "east"
+    },
+    "timeto": {
+      "24073": 0.2,
+      "24075": 0.2
+    }
+  }
+}

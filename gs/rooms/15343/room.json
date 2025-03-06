@@ -1,0 +1,27 @@
+{
+  "checksum": "24edd1af7d79c7c4d745e636c89b9d05",
+  "room": {
+    "id": 15343,
+    "title": [
+      "[Arahbella's Outfitting]",
+      "[Arahbella's General Store]",
+      "[Arahbella's Magic Shoppe]"
+    ],
+    "description": [
+      "A simple floral tapestry hangs on one of the brilliant cut-glass walls, and a modwir beam ceiling rises overhead.  An ornate archer statue sits in one corner of a dark-stained oak floor.  There is a gilded maple table on one side of the shop and a gilded maple cabinet on the other."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15105": "east"
+    },
+    "timeto": {
+      "15105": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

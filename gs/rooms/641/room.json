@@ -1,0 +1,55 @@
+{
+  "checksum": "fa9d512beafb3b48e6069ff5ac85d781",
+  "room": {
+    "id": 641,
+    "title": [
+      "[Ta'Illistim, Mzaarine Bazaar]"
+    ],
+    "description": [
+      "A wide stonework archway separates the bazaar from the main wey, though the Sapphire Gate and its crowds are clearly visible beyond the granite structure.  Along the cobblestone route, fragrant honeysuckle vines cling to ornamental trellises, attracting florid butterflies and pollinating bees.",
+      "A wide stonework archway separates the bazaar from the main wey, though the Sapphire Gate and its crowds are clearly visible beyond the granite structure in the moonlight.  Along the cobblestone route, the closed buds of honeysuckle vines cling to ornamental trellises, while moths flit towards several lanterns."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "33": "south",
+      "642": "northwest",
+      "730": "northeast",
+      "3866": "go cottage",
+      "3875": "go maple building",
+      "24260": "go pale store",
+      "24261": "go storefront",
+      "30714": "/rooms/641/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "33": 0.2,
+      "642": 0.2,
+      "730": 0.2,
+      "3866": 0.2,
+      "3875": 0.2,
+      "24260": 0.2,
+      "24261": 0.2,
+      "30714": "/rooms/641/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      737001
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1464,
+      698,
+      1481,
+      714
+    ]
+  }
+}

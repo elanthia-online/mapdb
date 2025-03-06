@@ -1,0 +1,35 @@
+{
+  "checksum": "ef4508beb5c520061f60c50c605296e9",
+  "room": {
+    "id": 13181,
+    "title": [
+      "[Ta'Illistim Gaol, Entry Hall]"
+    ],
+    "description": [
+      "A long vaulted passageway leads to the keep's interior through a long hallway lit by flickering torchlight.  Glass cases filled with wanted posters line the walls of the passage, while a finely woven rug of blue and gold covers the cobbles.  The center of the rug has been worn threadbare by years of tromping feet, and the trail of worn and raveled cloth leads straight to a black basalt archway covered with a blue silk tapestry."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13179": "go passageway",
+      "13182": "go archway"
+    },
+    "timeto": {
+      "13179": 0.2,
+      "13182": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13118003
+    ]
+  }
+}

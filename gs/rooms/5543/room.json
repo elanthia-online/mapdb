@@ -1,0 +1,41 @@
+{
+  "checksum": "ba38f3c09b6c34984c6c0cd6204e2f33",
+  "room": {
+    "id": 5543,
+    "title": [
+      "[Temple Courtyard]"
+    ],
+    "description": [
+      "The temple is the only building left intact in town, although not by much.  From the courtyard, you can see that all four walls and the ceiling still stand, though the door is long gone.  It seems safe enough to enter, but the smell drifting from the doorway leaves you gagging and choking."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Outlands",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5542": "go gate",
+      "5544": "go temple"
+    },
+    "timeto": {
+      "5542": 0.2,
+      "5544": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2152028
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      807,
+      575,
+      817,
+      585
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "c8cde5c6dea64f1fd47bbc971840f5ba",
+  "room": {
+    "id": 23527,
+    "title": [
+      "[Mistydeep, Northern Strand]"
+    ],
+    "description": [
+      "While wider and slower to the north, here the Mistydeep River gathers itself to squeeze between steep, narrowing banks.  Gaining speed in its southward passage, the water surges over hundreds of rocky cascades.  Small pools eddy deceptively before overflowing into churning rapids.  Safe on the trunk of a fallen tree, a pudgy raccoon grasps some unknown morsel in its paws, dunking it daintily in the water between bites."
+    ],
+    "paths": [
+      "Obvious paths: north, south, southwest, west, northwest, down"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "23526": "/rooms/23527/wayto/stringproc-23526.rb",
+      "23528": "/rooms/23527/wayto/stringproc-23528.rb",
+      "25543": "/rooms/23527/wayto/stringproc-25543.rb",
+      "25544": "/rooms/23527/wayto/stringproc-25544.rb",
+      "25614": "/rooms/23527/wayto/stringproc-25614.rb",
+      "30513": "swim down"
+    },
+    "timeto": {
+      "23526": "/rooms/23527/timeto/stringproc-23526.rb",
+      "23528": "/rooms/23527/timeto/stringproc-23528.rb",
+      "25543": "/rooms/23527/timeto/stringproc-25543.rb",
+      "25544": "/rooms/23527/timeto/stringproc-25544.rb",
+      "25614": "/rooms/23527/timeto/stringproc-25614.rb",
+      "30513": "/rooms/23527/timeto/stringproc-30513.rb"
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "water chestnut",
+      "stalk of cattail",
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "orchil lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      14117022
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1279,
+      888,
+      1306,
+      914
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "bfa10bf897756553c966a335f64fbc5a",
+  "room": {
+    "id": 7527,
+    "title": [
+      "[Catacombs, Underground Lake]"
+    ],
+    "description": [
+      "Ripples from a small underground lake gently lap at the black, muddy shore in this cavernous chamber.  Occasionally, soft splashes and gurgles resound, seeming to originate to the northwest.  The shore curves north and west from here, punctuated by tracks of humans and animals and by a slimy trail whose maker you would rather not come face to face with."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7508": "go roots",
+      "7528": "north",
+      "7529": "west"
+    },
+    "timeto": {
+      "7508": 0.2,
+      "7528": 0.2,
+      "7529": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46012
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      527,
+      1288,
+      537,
+      1298
+    ]
+  }
+}

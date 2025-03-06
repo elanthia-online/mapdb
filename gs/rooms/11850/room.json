@@ -1,0 +1,43 @@
+{
+  "checksum": "cf57ce7508ff02a616363b5024574092",
+  "room": {
+    "id": 11850,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "The road to the north opens out into a wide plaza that encircles a huge tower of cut granite blocks.  Down a few steps to the south can be seen the collapsing remains of a residential section of the city.  The cracked pieces of what may have once been a green marble pedestal lie in a jumbled heap at the southwestern corner of the plaza."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11846": "go steps",
+      "11936": "north",
+      "12012": "east"
+    },
+    "timeto": {
+      "11846": 0.2,
+      "11936": 0.2,
+      "12012": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004061
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      596,
+      638,
+      606,
+      648
+    ]
+  }
+}

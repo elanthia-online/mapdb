@@ -1,0 +1,42 @@
+{
+  "checksum": "e81f2ca46463bc7db3f18672208bdb22",
+  "room": {
+    "id": 21637,
+    "title": [
+      "[The Keep, Entrance Hall North]"
+    ],
+    "description": [
+      "Alternating squares of onyx and white marble cover the floor.  Tapestries march along the gallery on both sides, ending at a grand staircase at the north end of the hall that leads to an upper floor.  To the west a set of double doors, adorned with gracefully shaped brass handles, mark the entrance to the library.  The low, soothing sound of meditation chimes drifts through the hall from the chamber to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "near Fearling Pass",
+    "wayto": {
+      "21585": "south",
+      "21638": "go doors",
+      "21639": "go staircase",
+      "21643": "east"
+    },
+    "timeto": {
+      "21585": 0.2,
+      "21638": 0.2,
+      "21639": 0.2,
+      "21643": 0.2
+    },
+    "tags": [
+      "meta:society:Order of Voln",
+      "no forageables"
+    ],
+    "uid": [
+      14116041
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      676,
+      276,
+      689,
+      289
+    ]
+  }
+}

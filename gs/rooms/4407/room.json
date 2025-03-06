@@ -1,0 +1,28 @@
+{
+  "checksum": "7e2e476cc821944e13f6315c7b041034",
+  "room": {
+    "id": 4407,
+    "title": [
+      "[Hammer it Out, Morningstars]"
+    ],
+    "description": [
+      "The area opens up into a large stone cavern.  A hard packed pathway leads off to the southeast and a much smaller passageway angles off to the southwest.  A trio of torches has been bracketed along the natural curve of the north wall."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4405": "southwest",
+      "4406": "southeast"
+    },
+    "timeto": {
+      "4405": 0.2,
+      "4406": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

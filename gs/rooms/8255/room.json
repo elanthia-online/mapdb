@@ -1,0 +1,38 @@
+{
+  "checksum": "d700d5fd5e31016edb96fdc005ce2cfb",
+  "room": {
+    "id": 8255,
+    "title": [
+      "[Wolves' Den, Barracks]"
+    ],
+    "description": [
+      "Long rows of narrow bunks lie tumbled on the floor.  Water drips from a narrow crack along the ceiling, landing with a \"plop\" in a puddle of brine and rust.  The doorway to the north has rotted away altogether, leaving nothing but wooden scraps hanging from the frame."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8230": "go door",
+      "8256": "north"
+    },
+    "timeto": {
+      "8230": 0.2,
+      "8256": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390013
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      265,
+      284,
+      275,
+      294
+    ]
+  }
+}

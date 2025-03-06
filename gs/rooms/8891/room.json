@@ -1,0 +1,34 @@
+{
+  "checksum": "aaddecd1fcedf81961159f62ff9c03e3",
+  "room": {
+    "id": 8891,
+    "title": [
+      "[Lanai's Warehouse, Cargo Room]"
+    ],
+    "description": [
+      "Coming upon a cavernous space, you see bags, crates, and barrels filled with items worth being shipped on the great merchantmen that ply their trade to and from the port of Wehnimer's Landing."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "247": "out",
+      "8892": "north",
+      "8894": "west"
+    },
+    "timeto": {
+      "247": 0.2,
+      "8892": 0.2,
+      "8894": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5043
+    ]
+  }
+}

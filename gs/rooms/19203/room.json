@@ -1,0 +1,28 @@
+{
+  "checksum": "cd13047724c4ec98a7ac2ac713a31bd4",
+  "room": {
+    "id": 19203,
+    "title": [
+      "[Baker's Good Baked Goods]"
+    ],
+    "description": [
+      "The scents of oven-baked bread and fresh chocolate fill the air inside this large shop.  A low, brick stove, located directly in the room's center, lights the area with a ruddy crimson glow.  Opposite the stove, a large table displays a fine selection of recently."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19083": "go opening",
+      "19205": "south",
+      "19206": "southeast",
+      "19207": "east"
+    },
+    "timeto": {
+      "19083": 0.2,
+      "19205": 0.2,
+      "19206": 0.2,
+      "19207": 0.2
+    }
+  }
+}

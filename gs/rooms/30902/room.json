@@ -1,0 +1,29 @@
+{
+  "checksum": "5f192f4d8dae73ffb52eec1687baf958",
+  "room": {
+    "id": 30902,
+    "title": [
+      "[Bard Guild, Hall of Melodies]"
+    ],
+    "description": [
+      "The Hall of Melodies is aptly named, as strains of music float in periodically on the breezes playing through the tall, open windows of the chamber.  These windows line the entire western wall, and through them, one can see an expansive panorama of Kharam Dzu and the moonlit ocean beyond.  Overstuffed chairs covered in tawny leather are positioned in comfortable groupings here and there, and accompanying them are a few music stands and some small tables crafted of teak."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "30901": "go arch",
+      "30903": "southwest",
+      "30908": "southeast"
+    },
+    "timeto": {
+      "30901": 0.2,
+      "30903": 0.2,
+      "30908": 0.2
+    },
+    "uid": [
+      282002
+    ]
+  }
+}

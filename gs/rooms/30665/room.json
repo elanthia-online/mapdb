@@ -1,0 +1,27 @@
+{
+  "checksum": "4799a75dbc8ceb6311672be7e1022c44",
+  "room": {
+    "id": 30665,
+    "title": [
+      "[Zul Logoth, Brew 'n' Chew]"
+    ],
+    "description": [
+      "The smooth stone bar stretches across the length of the room.  Stools and chairs of various shapes and sizes line the bar, offering the perfect view of the rack holding the liquor selection.  A dark kitchen is just barely visible through a low doorway."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "30660": "southwest",
+      "30666": "go doorway"
+    },
+    "timeto": {
+      "30660": 0.2,
+      "30666": 0.2
+    },
+    "uid": [
+      856013
+    ]
+  }
+}

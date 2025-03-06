@@ -1,0 +1,33 @@
+{
+  "checksum": "ed7ed73868f3c3a60e2f5eec9a8e9072",
+  "room": {
+    "id": 32111,
+    "title": [
+      "[The Sorrowwood Crypt, Entry]"
+    ],
+    "description": [
+      "A few guttering candles valiantly battle the subterranean gloom, their wan illumination casting peculiar shadows on the walls that appear to lurch drunkenly at the slightest hint of a draft.  Flanking a darkened passageway, a tatterdemalion statue of a one-winged fairy presents an outstretched tray for perusal, and a cracked marble sculpture of a kneeling sea nymph offers a peek into a lidless coffret on her lap."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31727": "out",
+      "32112": "go darkened passageway"
+    },
+    "timeto": {
+      "31727": 0.2,
+      "32112": 0.2
+    },
+    "tags": [
+      "ghoul",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083364
+    ]
+  }
+}

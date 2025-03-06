@@ -1,0 +1,44 @@
+{
+  "checksum": "495798e71a70479215924b4f7ad46666",
+  "room": {
+    "id": 669,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "The farmhouses and fields are closer together here as the road nears the village of Sylvarraend.  One of the farmers has left a plow nearby, apparently in preparation to till one of the fields for a new crop."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "668": "northwest",
+      "670": "southeast",
+      "10063": "northeast",
+      "21538": "climb spidersilk"
+    },
+    "timeto": {
+      "668": 0.2,
+      "670": 0.2,
+      "10063": 0.2,
+      "21538": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049025
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      626,
+      753,
+      636,
+      763
+    ]
+  }
+}

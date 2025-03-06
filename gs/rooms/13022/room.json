@@ -1,0 +1,42 @@
+{
+  "checksum": "cb7d65fb67dd8f67cbe9e18e31dfae15",
+  "room": {
+    "id": 13022,
+    "title": [
+      "[Bonespear Tower, Secret Passage]"
+    ],
+    "description": [
+      "The quiet in this narrow tunnel is eerie and unnatural.  Even footsteps are muffled, and in an area where one would suspect considerable echo, there is nothing but dead silence.  A huge steel door is wide open, and there is a small hole in it where the lock or latch should be."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "13021": "south",
+      "13023": "north"
+    },
+    "timeto": {
+      "13021": 0.2,
+      "13023": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319115
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1101,
+      1043,
+      1111,
+      1053
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "20454fe7a1f2e4aae514069a0fd85a02",
+  "room": {
+    "id": 8937,
+    "title": [
+      "[Wizard Guild, Balcony]"
+    ],
+    "description": [
+      "Clusters of scorch marks dot the stonework on this part of the walkway, as if this stretch is a favorite target of the constant lightstorm roiling through the tower.  The air itself roils uneasily, the naturally cool air of the tower surging against the superheated air caused by the storm's continuous lightning strikes."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8936": "northeast",
+      "8938": "west",
+      "15910": "go arch"
+    },
+    "timeto": {
+      "8936": 0.2,
+      "8938": 0.2,
+      "15910": 0.2
+    },
+    "uid": [
+      680054
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      315,
+      318,
+      368,
+      366
+    ]
+  }
+}

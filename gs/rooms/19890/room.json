@@ -1,0 +1,41 @@
+{
+  "checksum": "c68239efed4c02f054657777c6d4373c",
+  "room": {
+    "id": 19890,
+    "title": [
+      "[Cleric Guild, Training Foyer]"
+    ],
+    "description": [
+      "Intricate marquetry of naturally hued woods, incorporating palest pine, purple-grey haon, vivid red cedar, and dusky ebonwood, forms the walls of this grandly proportioned foyer.  Assorted training rooms and their attendant equipment can be glimpsed further inside the training annex.  The dry, herbal scents of cedar and sandalwood fill the air, the aroma more intense near the lamps set along each wall."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "19889": "out",
+      "19891": "go door",
+      "19892": "west"
+    },
+    "timeto": {
+      "19889": 0.2,
+      "19891": 0.2,
+      "19892": 0.2
+    },
+    "tags": [
+      "cleric alchemy administrator",
+      "cleric guild administrator"
+    ],
+    "uid": [
+      673018
+    ],
+    "image": "rr-cleric_guild.png",
+    "image_coords": [
+      329,
+      510,
+      390,
+      566
+    ],
+    "check_location": true
+  }
+}

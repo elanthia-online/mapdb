@@ -1,0 +1,37 @@
+{
+  "checksum": "73f2d17714879037158f3ee4b00cab3c",
+  "room": {
+    "id": 12705,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "Two large pillars still offer sturdy support to the ceiling above, and mark the end of the hallway directly to the north, as the floor beyond them has collapsed and fallen into the sea below.  A thin portion of the floor forms a bridge to the northeast, where the hallway continues on."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12704": "northeast",
+      "12706": "south"
+    },
+    "timeto": {
+      "12704": 0.2,
+      "12706": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031082
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      405,
+      573,
+      441,
+      609
+    ]
+  }
+}

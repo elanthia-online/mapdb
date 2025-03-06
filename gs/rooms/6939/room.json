@@ -1,0 +1,32 @@
+{
+  "checksum": "519d236d8658ee2715d0eb1bb5f88157",
+  "room": {
+    "id": 6939,
+    "title": [
+      "[The New Look, Eye Enhancements]"
+    ],
+    "description": [
+      "Lancets, needles, razors, and scalpels have been laid out in tidy arrays atop a narrow chest of drawers.  A solid oak chair fitted with many leather straps is pushed up against the flimsy wooden screen.  The sole nod to cleanliness appears to be a bowl of wine used to soak the instruments between uses."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6938": "east",
+      "6940": "west"
+    },
+    "timeto": {
+      "6938": 0.2,
+      "6940": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      9006306
+    ]
+  }
+}

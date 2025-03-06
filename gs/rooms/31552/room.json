@@ -1,0 +1,37 @@
+{
+  "checksum": "1e2c1cca43cdad854efcc6189e4e5c89",
+  "room": {
+    "id": 31552,
+    "title": [
+      "[The Lighthouse, Stairwell]"
+    ],
+    "description": [
+      "A platform fashioned from iron and timbers marks the halfway point of the stairwell.  Muffled sounds of conversation seem to come from behind a modwir door and echo around the stairwell chamber.  A small window opposite a brass-framed alcove provides a vantage point that overlooks the bay.",
+      "A platform fashioned from iron and timbers marks the halfway point of the stairwell.  Muffled sounds of conversation seem to come from behind a modwir door and echo around the stairwell chamber.  A small window provides a vantage point that overlooks the bay."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "31551": "down",
+      "31553": "go door",
+      "31554": "up",
+      "34424": "go alcove"
+    },
+    "timeto": {
+      "31551": 0.2,
+      "31553": 0.2,
+      "31554": 0.2,
+      "34424": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201208
+    ]
+  }
+}

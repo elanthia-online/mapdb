@@ -1,0 +1,39 @@
+{
+  "checksum": "9493069d1b42d0807c9aacc814f8ab97",
+  "room": {
+    "id": 25773,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Moonlight illuminates the the pale sands of the distant beach where the roaring surf crashes with ferocity.  Separated from the main boating area, a small section of the harbor is roped off by a series of blown glass globes."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25701": "/rooms/25773/wayto/stringproc-25701.rb",
+      "25772": "/rooms/25773/wayto/stringproc-25772.rb"
+    },
+    "timeto": {
+      "25701": 6,
+      "25772": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223844
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1601,
+      1440,
+      1620,
+      1458
+    ]
+  }
+}

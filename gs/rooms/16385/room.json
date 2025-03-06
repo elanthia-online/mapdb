@@ -1,0 +1,27 @@
+{
+  "checksum": "f9e9ae5278bc5d360fe1639bad83e15d",
+  "room": {
+    "id": 16385,
+    "title": [
+      "[Crisostomo's Armory]",
+      "[Crisostomo's Magic Shoppe]",
+      "[Crisostomo's General Store]"
+    ],
+    "description": [
+      "The broad sweep of the wooden floor is interrupted by a worn rug.  Halfway to the wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A long mistwood counter and a splintered cargo crate are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16537": "southwest"
+    },
+    "timeto": {
+      "16537": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "e77c193935f95910121f50a77410283b",
+  "room": {
+    "id": 4683,
+    "title": [
+      "[Urgaen's Pawnshop]"
+    ],
+    "description": [
+      "Melodic chimes dangle above the ash door, signaling the arrivals and departures from this cozy pawnshop.  Dangling above a polished white oak counter, a crooked plank has been decorated with a child's colorful beadwork that reads, \"Pawnshop.\"  A fringed curtain obscures an archway that leads to the rear of the shop."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4682": "out",
+      "17162": "go archway",
+      "30717": "/rooms/4683/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4682": 0.2,
+      "17162": 0.2,
+      "30717": "/rooms/4683/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide pawn",
+      "pawn"
+    ],
+    "uid": [
+      14051005
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      361,
+      821,
+      386,
+      845
+    ]
+  }
+}

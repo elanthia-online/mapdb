@@ -1,0 +1,35 @@
+{
+  "checksum": "e23876b3f3ab86d4232d6df563053530",
+  "room": {
+    "id": 30590,
+    "title": [
+      "[Yander's Farm, Barn]"
+    ],
+    "description": [
+      "Dust motes float lazily in the air amid the redolent aroma of fresh hay in the barn's interior.  Heavy oak rafters high overhead span this large open area suitable for several gnomish threshing machines.  A newly painted baker's door stands open along the western wall, providing egress to the attached stables."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "6021": "out",
+      "30713": "/rooms/30590/wayto/stringproc-30713.rb",
+      "32367": "go baker's door"
+    },
+    "timeto": {
+      "6021": 0.2,
+      "30713": "/rooms/30590/timeto/stringproc-30713.rb",
+      "32367": 0.2
+    },
+    "tags": [
+      "urchin guide stable",
+      "urchin-access",
+      "stable"
+    ],
+    "uid": [
+      12009001
+    ]
+  }
+}

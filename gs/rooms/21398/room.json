@@ -1,0 +1,27 @@
+{
+  "checksum": "90305bcc7542c9fdf38bdb73ec04fc54",
+  "room": {
+    "id": 21398,
+    "title": [
+      "[The Evening's Heiress, Barroom]"
+    ],
+    "description": [
+      "Brass lanterns line the stone walls casting a dim light through the barroom.  Stale cigar smoke lingers in the air, mixing with the scent of strong spirits.  A polished oak bar runs the length of the room, offering a few refreshments to weary travelers.  Behind the bar hangs a thick burgundy velvet curtain that covers the doorway to a backroom."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20317": "out",
+      "21399": "go curtain",
+      "21400": "go stairs"
+    },
+    "timeto": {
+      "20317": 0.2,
+      "21399": 0.2,
+      "21400": 0.2
+    },
+    "check_location": true
+  }
+}

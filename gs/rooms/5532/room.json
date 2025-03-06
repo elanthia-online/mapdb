@@ -1,0 +1,45 @@
+{
+  "checksum": "0b23ff594ed5e10aca1e695de9803885",
+  "room": {
+    "id": 5532,
+    "title": [
+      "[Outlands Manor, Exterior]"
+    ],
+    "description": [
+      "The eastern porch of the manor house was built of stone blocks long ago.  Over time, the individual blocks have settled unevenly and weeds have grown up through the cracks, right in front of the maoral door that opens from the house onto the porch.  Just a bit north along the face of the house, a small tiled courtyard is littered with a broken table and chairs, and a short distance to the east stands a weathered stable."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "the Outlands",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5531": "south",
+      "5533": "east",
+      "5534": "north",
+      "5535": "go door"
+    },
+    "timeto": {
+      "5531": 0.2,
+      "5533": 0.2,
+      "5534": 0.2,
+      "5535": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215108
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1292,
+      629,
+      1302,
+      639
+    ]
+  }
+}

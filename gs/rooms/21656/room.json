@@ -1,0 +1,44 @@
+{
+  "checksum": "c1dc1a93fdee60feffdd89dd4dce0bb5",
+  "room": {
+    "id": 21656,
+    "title": [
+      "[The Keep Rooftop, Southeast]"
+    ],
+    "description": [
+      "Key-shaped openings in the parapet allow a moonlit view of the lands to the southeast.  The fortress' polished basalt ramparts are visible only where lit torches cast pools of light on them far below.  A small stack of boulders sits in the corner, ready for use."
+    ],
+    "paths": [
+      "Obvious paths: north, west, northwest"
+    ],
+    "location": "near Fearling Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21651": "north",
+      "21654": "northwest",
+      "21655": "west"
+    },
+    "timeto": {
+      "21651": 0.2,
+      "21654": 0.2,
+      "21655": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      14116060
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      775,
+      179,
+      788,
+      189
+    ]
+  }
+}

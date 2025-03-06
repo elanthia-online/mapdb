@@ -1,0 +1,46 @@
+{
+  "checksum": "e4dbcf294429216f80952fc3f6dad1b0",
+  "room": {
+    "id": 6176,
+    "title": [
+      "[Hidden Plateau, Ruins]"
+    ],
+    "description": [
+      "Tattered purple and gold tapestries dot the walls of the lengthy hall, their colors now stained and faded.  A torn red carpet runs along the floor, soggy and covered with patches of mold.  A pair of solid marble pillars forms an arched doorway to the north, their surface carved with images of spiraling grape vines."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, southwest"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6175": "southwest",
+      "6177": "north",
+      "6178": "east",
+      "6183": "south"
+    },
+    "timeto": {
+      "6175": 0.2,
+      "6177": 0.2,
+      "6178": 0.2,
+      "6183": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "agave heart",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2167024
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      209,
+      392,
+      245,
+      428
+    ]
+  }
+}

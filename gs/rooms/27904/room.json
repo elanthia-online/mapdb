@@ -1,0 +1,30 @@
+{
+  "checksum": "5c4c8c517d23933662e1d1b03381e1d3",
+  "room": {
+    "id": 27904,
+    "title": [
+      "[Silvergate Inn, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "27903": "east",
+      "27905": "go curtain"
+    },
+    "timeto": {
+      "27903": 0.2,
+      "27905": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Silvergate Inn"
+    ],
+    "uid": [
+      5001254
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "7fb9f72e2a5ee0840bc2cf83997e23ab",
+  "room": {
+    "id": 17978,
+    "title": [
+      "[Rogue Guild, Workshop]"
+    ],
+    "description": [
+      "The crates and boxes stacked at this end of the modest warehouse appear to hold mainly metal parts and hardware, judging by their labels.  Rows of lockpicking and metalworking tools hang from racks along the west wall, where a row of workbenches has been set up in a cleared area."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of Icemule Trace",
+    "wayto": {
+      "17968": "east",
+      "30758": "go toolbenches"
+    },
+    "timeto": {
+      "17968": 0.2,
+      "30758": 0.2
+    },
+    "tags": [
+      "rogue guild workshop"
+    ],
+    "uid": [
+      260010
+    ],
+    "image": "imt-rogue_guild-1305438533.png",
+    "image_coords": [
+      288,
+      232,
+      316,
+      256
+    ]
+  }
+}

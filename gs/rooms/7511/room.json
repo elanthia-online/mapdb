@@ -1,0 +1,37 @@
+{
+  "checksum": "d9d4a3849dfb7c77a5caa36d9929ec9c",
+  "room": {
+    "id": 7511,
+    "title": [
+      "[Catacombs, High Ledge]"
+    ],
+    "description": [
+      "You are somewhat out of breath, and stand atop the ledge looking down.  As you glance north, you are disappointed to discover that the recessed tunnel, which looked clear from below, has actually been blocked by a cave-in.  You must halt your northern explorations here for now."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "3936": "down"
+    },
+    "timeto": {
+      "3936": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      46045
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      928,
+      1047,
+      938,
+      1057
+    ]
+  }
+}

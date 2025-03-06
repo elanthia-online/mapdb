@@ -1,0 +1,47 @@
+{
+  "checksum": "47e96e871326115e03fd88c52335d9dd",
+  "room": {
+    "id": 30064,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "Laying in a corroded depression within the floor of the burrow, an immense wormsilk cocoon casts waves of luminescence that outshines the surrounding gunk's phosphorescent light.  Filling the pit are the fused remnants of a small fortune in golden coins, joined into a heavy mass studded here and there with trapped gemstones.  Holes worn in the ceiling reveal winking threads of the aurora in the sky above the mausoleum."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, south, west, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30048": "east",
+      "30060": "north",
+      "30061": "northwest",
+      "30062": "west",
+      "30063": "south",
+      "30068": "southeast"
+    },
+    "timeto": {
+      "30048": 0.2,
+      "30060": 0.2,
+      "30061": 0.2,
+      "30062": 0.2,
+      "30063": 0.2,
+      "30068": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503484
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      781,
+      227,
+      797,
+      241
+    ]
+  }
+}

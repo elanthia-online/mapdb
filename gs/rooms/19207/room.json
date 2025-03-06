@@ -1,0 +1,26 @@
+{
+  "checksum": "b402495629cd0ae7b754f77c5860fc30",
+  "room": {
+    "id": 19207,
+    "title": [
+      "[Baker's Good Baked Goods]"
+    ],
+    "description": [
+      "Dozens of pots, pans, trays, and cooling racks hang from the paneled oak walls, and the scent of freshly baked pastries becomes even stronger.  A wide jam-stained counter rests against the far wall."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19203": "west",
+      "19205": "southwest",
+      "19206": "south"
+    },
+    "timeto": {
+      "19203": 0.2,
+      "19205": 0.2,
+      "19206": 0.2
+    }
+  }
+}

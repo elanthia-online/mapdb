@@ -1,0 +1,31 @@
+{
+  "checksum": "3c1ffe3b1d93e834b8e9da10a43cefbb",
+  "room": {
+    "id": 33748,
+    "title": [
+      "[Imperial Counting House, Entry]"
+    ],
+    "description": [
+      "Crowded but tidy, the customs house is home to many official services within the Comyner's Ward.  Stacks of crates and boxes waiting to be inspected have labels of lading attached to their faces, the inked markings nothing more than chicken scratch and patterns of repeating numbers.  A small accounting booth occupies one wall, a bored teller sitting behind its protective bars."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Seareach",
+    "wayto": {
+      "32881": "out",
+      "33749": "east"
+    },
+    "timeto": {
+      "32881": 0.2,
+      "33749": 0.2
+    },
+    "tags": [
+      "bank",
+      "no forageables"
+    ],
+    "uid": [
+      7140512
+    ]
+  }
+}

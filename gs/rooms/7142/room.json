@@ -1,0 +1,44 @@
+{
+  "checksum": "2a5af00d77bd307999d7809d0eacf53d",
+  "room": {
+    "id": 7142,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Your footsteps echo off of the bare walls, floor and ceiling.  Some trick of acoustics seems to send sounds to this corridor from all over the area.  The faint sounds of water dripping and rats chittering breeze by your awareness, along with the more ominous sound of shuffling footsteps."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7141": "north",
+      "7143": "south"
+    },
+    "timeto": {
+      "7141": 0.2,
+      "7143": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41028
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      976,
+      527,
+      986,
+      537
+    ]
+  }
+}

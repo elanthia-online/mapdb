@@ -1,0 +1,44 @@
+{
+  "checksum": "14091b677774d814a128397b06259558",
+  "room": {
+    "id": 19586,
+    "title": [
+      "[Ebonstone Manor, Foyer]"
+    ],
+    "description": [
+      "Full-length windows fill the spaces between the pairs of stately pale white marble columns deeply veined with ebon that flank the oversized cherrywood double doors.  Across from the entry, an elaborately carved door sits off to one side of a wide staircase leading to a carpeted landing above, then further up and out of sight.  The sound of splashing water in a small marble fountain echoes across the foyer."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19584": "out",
+      "24557": "go staircase",
+      "24558": "go hallway",
+      "25652": "go door",
+      "25865": "east"
+    },
+    "timeto": {
+      "19584": 0.2,
+      "24557": 0.2,
+      "24558": 0.2,
+      "25652": 0.2,
+      "25865": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi"
+    ],
+    "uid": [
+      201022
+    ],
+    "image": "ebonstone_manor-1485361515.png",
+    "image_coords": [
+      188,
+      259,
+      256,
+      304
+    ]
+  }
+}

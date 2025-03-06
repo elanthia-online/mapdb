@@ -1,0 +1,33 @@
+{
+  "checksum": "e810c729105c1643beb3a5bf85f4ee78",
+  "room": {
+    "id": 406,
+    "title": [
+      "[Dakris's Furs, Rugs and Bedding]"
+    ],
+    "description": [
+      "Several varieties of animal skin rugs compete for floor space with piles of hides, mats and pillows.  The overall effect gives the room a rugged, yet cozy, feel.  With floor space so limited, some of the finer rugs have been mounted on the walls for ease of display and to add room for more samples."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "405": "go arch",
+      "407": "east"
+    },
+    "timeto": {
+      "405": 0.2,
+      "407": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      32101
+    ]
+  }
+}

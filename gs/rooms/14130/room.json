@@ -1,0 +1,35 @@
+{
+  "checksum": "56d1aae2ddfa755000490acc2904a684",
+  "room": {
+    "id": 14130,
+    "title": [
+      "[Prelate's Quarters, Antechamber]"
+    ],
+    "description": [
+      "Framed by seamless walls of gold-veined white marble, the antechamber is well-appointed but modest.  Sunlight filters in from a mullioned glass window in the northern wall, forming golden puddles on a woven spidersilk rug.  An oaken coatrack stands beside a white illthorn door leading out to the temple.",
+      "Framed by seamless walls of gold-veined white marble, the antechamber is well-appointed but modest.  Moonlight filters in from a mullioned glass window in the northern wall, forming golden puddles on a woven spidersilk rug.  An oaken coatrack stands beside a white illthorn door leading out to the temple."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the town of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14251": "go door",
+      "14253": "southwest",
+      "14254": "southeast"
+    },
+    "timeto": {
+      "14251": 0.2,
+      "14253": 0.2,
+      "14254": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4749512
+    ]
+  }
+}

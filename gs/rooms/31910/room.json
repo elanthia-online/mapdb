@@ -1,0 +1,33 @@
+{
+  "checksum": "3760f81f5c0120dda355f47ecca120c0",
+  "room": {
+    "id": 31910,
+    "title": [
+      "[The Gouged Heart, Entrance]"
+    ],
+    "description": [
+      "Small flecks of sawdust float in the air, catching in the ambient light of the smithy.  Cobbled walls, lined with small iron bins full of forging glyphs, form a domed lid atop the cramped space.  Next to an umber velvet curtain, a scarred wooden table hold a small set of woodworking tools, with a small set of discarded wooden blocks piled to one side.",
+      "Small flecks of sawdust float in the air, catching in the ambient light of the smithy.  Cobbled walls, lined with small iron bins full of forging gylphs, form a domed lid atop the cramped space.  Next to an umber velvet curtain, a scarred wooden table hold a small set of woodworking tools, with a small set of discarded wooden blocks piled to one side."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31868": "out",
+      "31911": "go curtain"
+    },
+    "timeto": {
+      "31868": 0.2,
+      "31911": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084101
+    ]
+  }
+}

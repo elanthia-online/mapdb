@@ -1,0 +1,36 @@
+{
+  "checksum": "50a4c25d19a13169921374a6a7ad54b4",
+  "room": {
+    "id": 11174,
+    "title": [
+      "[Garrison, Storeroom]"
+    ],
+    "description": [
+      "The shelves lining the walls are filled with supplies, now rendered useless by time and insects.  A beetle scuttles over a pile of firelogs in the corner of the room."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11171": "east"
+    },
+    "timeto": {
+      "11171": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100006
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      543,
+      465,
+      553,
+      475
+    ]
+  }
+}

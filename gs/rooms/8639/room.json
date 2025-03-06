@@ -1,0 +1,31 @@
+{
+  "checksum": "7ba8f14eff7c936b39f615d010a7664e",
+  "room": {
+    "id": 8639,
+    "title": [
+      "[Courtyard West]"
+    ],
+    "description": [
+      "Sunlight filters through the mass of ivy upon the white-painted arbor above you, tinting everything with a cheery, slightly green light.  A six-tiered fountain sits in the middle of the courtyard with a cobblestone path skirting it.  Sweet floral scents drift from the water lillies in the fountain."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8636": "southeast",
+      "8638": "northeast",
+      "8656": "go door",
+      "8658": "go arch"
+    },
+    "timeto": {
+      "8636": 0.2,
+      "8638": 0.2,
+      "8656": 0.2,
+      "8658": 0.2
+    },
+    "uid": [
+      32126
+    ]
+  }
+}

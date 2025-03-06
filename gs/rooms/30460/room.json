@@ -1,0 +1,49 @@
+{
+  "checksum": "052ffe4957431fa92537fd2367d27f19",
+  "room": {
+    "id": 30460,
+    "title": [
+      "[Western Waterway, Harbor]"
+    ],
+    "description": [
+      "On a smaller scale, the manmade limestone jetty to the east reflects the great obsidian and basalt rocks far to the west.  Mirrored shades of black and white reflect off of one another and remain trapped in reflection across the expanse between the two barriers."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30455": "pedal south",
+      "30456": "pedal southwest",
+      "30458": "pedal southeast",
+      "30459": "pedal west",
+      "30462": "pedal north",
+      "30463": "pedal northwest"
+    },
+    "timeto": {
+      "30455": 6,
+      "30456": 6,
+      "30458": 6,
+      "30459": 6,
+      "30462": 6,
+      "30463": 6
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3216129
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      520,
+      1219,
+      539,
+      1238
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "8eb2f351b86c1d6aac61f8a371ea382e",
+  "room": {
+    "id": 24650,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Two lone torches light the way, casting little illumination in the hallway to dispel the darkness.  Rubble from the crumbling ruin walls scatters across the ground, some of it half-buried and tromped into the muck formed by water trickling down upon the piles of dirt.  The air is chilled and dank with the added moisture."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southwest"
+    ],
+    "location": false,
+    "wayto": {
+      "24648": "north",
+      "24651": "southwest",
+      "24652": "east",
+      "24653": "northeast"
+    },
+    "timeto": {
+      "24648": 0.2,
+      "24651": 0.2,
+      "24652": 0.2,
+      "24653": 0.2
+    },
+    "check_location": true
+  }
+}

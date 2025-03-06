@@ -1,0 +1,31 @@
+{
+  "checksum": "1eaf9b49b115425e2baf6a3bb121cb8d",
+  "room": {
+    "id": 21855,
+    "title": [
+      "[Talador, Woodlands]"
+    ],
+    "description": [
+      "A wall of dense trees blocks further travel into the forest, but a faint set of narrow footprints seems to disappear beyond the woodland barrier.  A strange wooden symbol hangs from a branch high above."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21854": "north",
+      "21987": "go opening"
+    },
+    "timeto": {
+      "21854": 0.2,
+      "21987": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      388,
+      601,
+      401,
+      614
+    ]
+  }
+}

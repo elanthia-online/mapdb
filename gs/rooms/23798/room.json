@@ -1,0 +1,34 @@
+{
+  "checksum": "3f7f5c69f0c196c4bc05715c16950a69",
+  "room": {
+    "id": 23798,
+    "title": [
+      "[Duskruin Arena, Stygian Annex]"
+    ],
+    "description": [
+      "Long rows of shelves covered in various wares, weapons and equipment, line the entirety of the back wall behind a long polished granite countertop.  A large chandelier hangs from a coiled chain at the center of the room, its tongs holding glass orbs that glow with a white arcane light."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23782": "out",
+      "33578": "/rooms/23798/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "23782": 0.2,
+      "33578": "/rooms/23798/timeto/stringproc-33578.rb"
+    },
+    "uid": [
+      8213021
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1284,
+      319,
+      1304,
+      338
+    ]
+  }
+}

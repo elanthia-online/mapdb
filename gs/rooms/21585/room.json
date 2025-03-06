@@ -1,0 +1,42 @@
+{
+  "checksum": "fa5bbdefb39853469a6077563c8c6fe4",
+  "room": {
+    "id": 21585,
+    "title": [
+      "[The Keep, Entrance Hall South]"
+    ],
+    "description": [
+      "Sweeping to the top of the keep, the walls are covered in long, thin tapestries that end approximately six feet from the onyx and white marble floor.  The simplicity of the design coupled with the craftsmanship and choice of the materials lend the hall an ambiance of understated luxury.  The hall runs the length of the keep, ending in a grand staircase to the north."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "near Fearling Pass",
+    "wayto": {
+      "21583": "go doors",
+      "21587": "east",
+      "21637": "north",
+      "23244": "go archway"
+    },
+    "timeto": {
+      "21583": 0.2,
+      "21587": 0.2,
+      "21637": 0.2,
+      "23244": 0.2
+    },
+    "tags": [
+      "meta:society:Order of Voln",
+      "no forageables"
+    ],
+    "uid": [
+      14116036
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      675,
+      310,
+      688,
+      322
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "5f0b5e0437e71733269cac8b18475f06",
+  "room": {
+    "id": 29917,
+    "title": [
+      "[Ojandhaart, Henge]"
+    ],
+    "description": [
+      "The gigantic longhouses thin toward the northern verges of the village, where an ancient stone henge is comprised of vast standing stones in a rough semicircle.  Granite braziers the size of boulders are positioned along the ring, and their leaping flames envelop the boulders in a dance of dark shadows and golden light.  A path of crushed rock marches toward a breach in the henge."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29905": "southwest",
+      "29916": "southeast",
+      "29918": "go henge"
+    },
+    "timeto": {
+      "29905": 0.2,
+      "29916": 0.2,
+      "29918": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503303
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1223,
+      1027,
+      1239,
+      1039
+    ]
+  }
+}

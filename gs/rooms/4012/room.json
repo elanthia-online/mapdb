@@ -1,0 +1,38 @@
+{
+  "checksum": "7262670da67190c137ba1923be3f5734",
+  "room": {
+    "id": 4012,
+    "title": [
+      "[Ta'Illistim Armory]"
+    ],
+    "description": [
+      "Torchlight glimmers on the armory's marcasite-flecked granite walls and across the dull sheen of the smooth black slate floor.  Stacks of leather and heavy cloth are piled atop a bench near the back of the shop, ready to be fashioned into tunics and robes.  A clerk sits behind a massive sales counter just inside the door."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "184": "out",
+      "30714": "/rooms/4012/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "184": 0.2,
+      "30714": "/rooms/4012/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "armorshop",
+      "urchin-access",
+      "urchin guide armor",
+      "armor",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13104050
+    ]
+  }
+}

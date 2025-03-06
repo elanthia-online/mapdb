@@ -1,0 +1,64 @@
+{
+  "checksum": "63b6686231e31fb03cc5f2f979d0a4d3",
+  "room": {
+    "id": 6269,
+    "title": [
+      "[Kobold Village]"
+    ],
+    "description": [
+      "The huts at this far end of the little valley are in slightly better shape and somewhat larger than elsewhere in the village.  The slothful kobolds must prize the extra hour of morning shade the rubbish mound to the east provides, or maybe they just like the smell.  One hut stands out from the others for its size and relatively sturdy construction.  The architect was surely the only one of his brethren ever to have heard of right angles."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "6268": "northeast",
+      "6270": "east",
+      "6271": "go hut",
+      "6282": "southeast"
+    },
+    "timeto": {
+      "6268": 0.2,
+      "6270": 0.2,
+      "6271": 0.2,
+      "6282": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "bright red cranberry",
+      "sweetfern stalk",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "withered black mushroom",
+      "stalk of chicory",
+      "small wild rose",
+      "wild chokecherry",
+      "blue whortleberry",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "kobold",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      373008
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      149,
+      428,
+      159,
+      438
+    ]
+  }
+}

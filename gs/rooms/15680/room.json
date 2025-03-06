@@ -1,0 +1,36 @@
+{
+  "checksum": "6da96e445825141d02ab9ae529ac12cc",
+  "room": {
+    "id": 15680,
+    "title": [
+      "[Helden Hall, Stables]"
+    ],
+    "description": [
+      "Slanting beams of sunlight create pools of golden light upon hay-strewn floors, and every sound seems to echo within the cavernous stables.  Rows of stalls sturdy enough to hold even the most ambitious warhorse line either side of the stables.  Small motes of hay seem to turn to gold as they float through the sunbeams on their way down from the loft above."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3881": "out",
+      "15814": "go arch",
+      "15815": "go ladder"
+    },
+    "timeto": {
+      "3881": 0.2,
+      "15814": 0.2,
+      "15815": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      549,
+      1181,
+      588,
+      1216
+    ]
+  }
+}

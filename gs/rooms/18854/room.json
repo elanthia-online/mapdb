@@ -1,0 +1,37 @@
+{
+  "checksum": "e30d522dc4268a002826a1ae12b85cee",
+  "room": {
+    "id": 18854,
+    "title": [
+      "[Twilight Hall, Manny's Kitchen]"
+    ],
+    "description": [
+      "Warm and inviting, the fragrance of freshly baked bread lingers in the air of this spacious kitchen.  A small boy sits near the fire slowly turning a series of steel spits, while the Head Cook and her assistants bustle with the activity required to feed the membership.  Pots and kettles line the walls, and canisters of pungent spices stand atop the long counters.  An ebonwood pantry nestles amid the counters and various kitchen accoutrements."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18852": "go doors",
+      "18883": "go oven"
+    },
+    "timeto": {
+      "18852": 0.2,
+      "18883": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108404
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      35,
+      658,
+      120,
+      709
+    ]
+  }
+}

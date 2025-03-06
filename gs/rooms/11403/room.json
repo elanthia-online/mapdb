@@ -1,0 +1,42 @@
+{
+  "checksum": "abefdf1afeb0004cb9ad57cf2de735cf",
+  "room": {
+    "id": 11403,
+    "title": [
+      "[Cavern]"
+    ],
+    "description": [
+      "The boulders which comprise the floor of this irregular cavern have been worn smooth by repeated floodings.  The air is very damp and you can hear the trickle of water farther down the passage."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11349": "out",
+      "11404": "north"
+    },
+    "timeto": {
+      "11349": 0.2,
+      "11404": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      36001
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      747,
+      1444,
+      757,
+      1454
+    ]
+  }
+}

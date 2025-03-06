@@ -1,0 +1,36 @@
+{
+  "checksum": "f0f8b4df6006faa6d0f2ac9a4ca08779",
+  "room": {
+    "id": 28226,
+    "title": [
+      "[Town Barracks, Second Floor]"
+    ],
+    "description": [
+      "A wide wooden stairwell begins at the end of the second floor hall, an open banister overlooking the entranceway below.  To the south, a bookcase can be glimpsed through an archway, which stands opposite of a plain wooden door.  A narrow window provides an angled view of the city streets beyond."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, south"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "28225": "go stairwell",
+      "28229": "north",
+      "28235": "south",
+      "28236": "southeast"
+    },
+    "timeto": {
+      "28225": 0.2,
+      "28229": 0.2,
+      "28235": 0.2,
+      "28236": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336221
+    ]
+  }
+}

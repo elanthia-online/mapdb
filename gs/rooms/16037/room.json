@@ -1,0 +1,28 @@
+{
+  "checksum": "b39152bcf104d8e6fa5ffa8d4f3aa67e",
+  "room": {
+    "id": 16037,
+    "title": [
+      "[Jezria's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by oak paneled walls, the shop features a plush black bear fur rug in the center of its polished oak floor.  An ancient River's Rest map hangs under the oak-beamed ceiling.  Right near the front is a wide knotted oak counter and some carved haon pegs."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "wayto": {
+      "10874": "out",
+      "16086": "southwest",
+      "16087": "southeast"
+    },
+    "timeto": {
+      "10874": 0.2,
+      "16086": 0.2,
+      "16087": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

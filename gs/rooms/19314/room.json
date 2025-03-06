@@ -1,0 +1,40 @@
+{
+  "checksum": "3e0ff988ba2200c15b4f0001942d75a0",
+  "room": {
+    "id": 19314,
+    "title": [
+      "[Willow Hall, Willow Room]"
+    ],
+    "description": [
+      "The large windows in the Hall's office offer a view of the moonlit garden outside.  Three desks positioned beneath serve the Chairman, Secretary and Treasurer.  Papers are heaped and scattered on their surfaces, indicating a preference for spending time in the wilds to being confined to a dreary desk.  A long cherry wood table stands in the room's center, surrounded by willow chairs, and occupying the east wall is a curious-looking hammered ora door, crafted in the shape of a standing fish.",
+      "The large windows in the Hall's office offer a view of the sun-drenched garden outside.  Three desks positioned beneath serve the Chairman, Secretary and Treasurer.  Papers are heaped and scattered on their surfaces, indicating a preference for spending time in the wilds to being confined to a dreary desk.  A long cherry wood table stands in the room's center, surrounded by willow chairs, and occupying the east wall is a curious-looking hammered ora door, crafted in the shape of a standing fish."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Willow Hall",
+    "wayto": {
+      "19295": "east",
+      "19315": "go mistwood door",
+      "21314": "go blackthorn door"
+    },
+    "timeto": {
+      "19295": 0.2,
+      "19315": 0.2,
+      "21314": 0.2
+    },
+    "tags": [
+      "meta:che:Willow Hall"
+    ],
+    "uid": [
+      218009
+    ],
+    "image": "wl-willow_hall-1308424874.png",
+    "image_coords": [
+      904,
+      218,
+      949,
+      260
+    ]
+  }
+}

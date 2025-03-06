@@ -1,0 +1,46 @@
+{
+  "checksum": "3f46c271e2edd7533ecd4ef82ba0bb06",
+  "room": {
+    "id": 7148,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The floor in this passage is uneven and none too stable beneath your feet, but you probably don't want to examine the litter too closely.  A dim light dances in a pot set high on one wall, casting flickering shadows all around."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7147": "north",
+      "7150": "southwest"
+    },
+    "timeto": {
+      "7147": 0.2,
+      "7150": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01",
+      "meta:maze",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      41002,
+      41007,
+      41012
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      899,
+      528,
+      909,
+      538
+    ]
+  }
+}

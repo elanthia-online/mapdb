@@ -1,0 +1,36 @@
+{
+  "checksum": "3fc721e2041e33d90baabc623dcd9190",
+  "room": {
+    "id": 25176,
+    "title": [
+      "[Sanctum Tower, First Floor]"
+    ],
+    "description": [
+      "Zigzagging serpent etchings coil their way down a pair of solid alabaster columns that ominously loom over the lofty room.  A vast expanse of pale sandstone squares repeats across the floor, leaving the section of the hallway completely void of any other notable ornamentation."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "the shadow of the Sanctum",
+    "wayto": {
+      "25175": "out",
+      "25237": "northeast",
+      "25242": "northwest"
+    },
+    "timeto": {
+      "25175": 0.2,
+      "25237": 0.2,
+      "25242": 0.2
+    },
+    "uid": [
+      4216028
+    ],
+    "image": "SanctumMap-Eiadh-1643825243.png",
+    "image_coords": [
+      360,
+      383,
+      385,
+      408
+    ]
+  }
+}

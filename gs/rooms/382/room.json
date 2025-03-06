@@ -1,0 +1,47 @@
+{
+  "checksum": "57821b74dd716c5f4723d429c7f76f48",
+  "room": {
+    "id": 382,
+    "title": [
+      "[Empath Guild, Entrance]"
+    ],
+    "description": [
+      "Deep gravel crunches loudly underfoot.  A tall, well-constructed wall of yellow brick bends away to the east and west as if enclosing an area the size of a small house.  In the center the wall is interrupted by a pair of open gates flanked by wall mounted torches.  Ivy clambers out of two large red clay pots and up the gates, holding fast to them and preventing them from closing.  A silver plaque is mounted on the wall."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "377": "go path",
+      "19236": "go gates",
+      "30708": "/rooms/382/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "377": 0.2,
+      "19236": "/rooms/382/timeto/stringproc-19236.rb",
+      "30708": "/rooms/382/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "empathguild",
+      "urchin-access",
+      "urchin guide empathguild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "empath guild"
+    ],
+    "uid": [
+      651001
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1194,
+      788,
+      1230,
+      824
+    ]
+  }
+}

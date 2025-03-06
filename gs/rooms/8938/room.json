@@ -1,0 +1,36 @@
+{
+  "checksum": "eb22217c1bcc0b23e2639b5281f78f6f",
+  "room": {
+    "id": 8938,
+    "title": [
+      "[Wizard Guild, Balcony]"
+    ],
+    "description": [
+      "Curving gently to the east and west, the arms of the balcony surround the open column of air in the middle of the tower.  From here, the full length of the zorchar rod centering the tower is visible as it stretches up and through the domed quartz ceiling that supports the observatory on the top floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "8937": "east",
+      "8939": "west",
+      "15911": "go arch"
+    },
+    "timeto": {
+      "8937": 0.2,
+      "8939": 0.2,
+      "15911": 0.2
+    },
+    "uid": [
+      680055
+    ],
+    "image": "imt-wizard_guild.png",
+    "image_coords": [
+      213,
+      317,
+      264,
+      366
+    ]
+  }
+}

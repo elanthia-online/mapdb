@@ -1,0 +1,39 @@
+{
+  "checksum": "fcb263d5edd47433a4ea5b9140c4a009",
+  "room": {
+    "id": 3018,
+    "title": [
+      "[Snow Fort, Passage]"
+    ],
+    "description": [
+      "Torches line the walls of this passage, flaring with an eerie blue flame.  The smooth ice walls seem unaffected by the flames, in fact they glow with the same blue light.  The cold glow dances and flickers hypnotically, until it seems the tunnel walls and floor twist and writhe beneath you."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the High Plains",
+    "wayto": {
+      "3017": "northwest",
+      "3019": "south"
+    },
+    "timeto": {
+      "3017": 0.2,
+      "3019": 0.2
+    },
+    "tags": [
+      "snow spectre",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4129103
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      470,
+      791,
+      480,
+      801
+    ]
+  }
+}

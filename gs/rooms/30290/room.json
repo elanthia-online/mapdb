@@ -1,0 +1,33 @@
+{
+  "checksum": "7d7b85df35131edfa1fbe70c9ee97813",
+  "room": {
+    "id": 30290,
+    "title": [
+      "[Teras Postmaster]"
+    ],
+    "description": [
+      "The air is heavy with the scent of paper and dust.  A doddering dwarven postal clerk keeps watch from behind a sturdy counter, above which hangs a framed sign.  The portrait hung near a distressed leather curtain is the only thing resembling decoration in this small office."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "12538": "go leather curtain",
+      "30715": "/rooms/30290/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "12538": 0.2,
+      "30715": "/rooms/30290/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      3001053
+    ]
+  }
+}

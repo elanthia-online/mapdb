@@ -1,0 +1,32 @@
+{
+  "checksum": "6349e3ab41e6a684f0776765f42ad508",
+  "room": {
+    "id": 1248,
+    "title": [
+      "[River Tower East, Alcove]"
+    ],
+    "description": [
+      "Once in the alcove you are surprised to see a room of quite comfortable dimensions.  A window slit looks out on the log walls of the surrounding stockade and across the choppy waters of Darkstone Bay.  A hooded cloak and a floppy-brimmed felt hat are laid out on a dressing table, and beside them are scattered some notes in an unrecognizable cipher."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "1247": "south",
+      "7501": "go trapdoor"
+    },
+    "timeto": {
+      "1247": 0.2,
+      "7501": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5067
+    ]
+  }
+}

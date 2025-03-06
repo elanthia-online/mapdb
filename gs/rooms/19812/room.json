@@ -1,0 +1,41 @@
+{
+  "checksum": "89230fc0070bc53f9d92cf97213fc9ee",
+  "room": {
+    "id": 19812,
+    "title": [
+      "[Cleric Guild, Training Foyer]"
+    ],
+    "description": [
+      "Intricate marquetry of naturally hued woods, incorporating palest pine, purple-grey haon, vivid red cedar, and dusky ebonwood, forms the walls of this grandly proportioned foyer.  Assorted training rooms and their attendant equipment can be glimpsed further inside the training annex.  The dry, herbal scents of cedar and sandalwood fill the air, the aroma more intense near the lamps set along each wall."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "19811": "out",
+      "19813": "go passageway",
+      "19827": "west"
+    },
+    "timeto": {
+      "19811": 0.2,
+      "19813": 0.2,
+      "19827": 0.2
+    },
+    "tags": [
+      "cleric alchemy administrator",
+      "cleric guild administrator"
+    ],
+    "uid": [
+      675019
+    ],
+    "image": "en-ta_vaalor_cleric_guild.png",
+    "image_coords": [
+      209,
+      415,
+      261,
+      466
+    ],
+    "check_location": true
+  }
+}

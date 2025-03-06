@@ -1,0 +1,47 @@
+{
+  "checksum": "5638c02d58615d98f5dad3820ea0e5d3",
+  "room": {
+    "id": 20734,
+    "title": [
+      "[Zephyr Hall, Common Room]"
+    ],
+    "description": [
+      "Highly polished wood floors are covered with woven wool rugs, providing splashes of color in the large, chandelier-lit foyer.  A burled maple doorway resides in the eastern wall, and a sweeping grand staircase leads to the second floor.  In the opposite corner, a dimly lit hallway leads to the interior of the lodge.  Several burnished leather sofas and chairs, facing a low stone hearth, invite rest, while a a wide gold-chased table is placed between them.  Beside the entry doors a small golden depository sits against the darkly paneled wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20733": "go doors",
+      "20735": "go hallway",
+      "20739": "go staircase",
+      "20743": "go doorway",
+      "30708": "/rooms/20734/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "20733": 0.2,
+      "20735": 0.2,
+      "20739": 0.2,
+      "20743": 0.2,
+      "30708": "/rooms/20734/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "premium teleportation jewelry",
+      "premium supernode",
+      "supernode",
+      "urchin-access",
+      "meta:premium"
+    ],
+    "uid": [
+      4002113
+    ],
+    "image": "premium_halls-1489980086.png",
+    "image_coords": [
+      1692,
+      986,
+      1817,
+      1039
+    ]
+  }
+}

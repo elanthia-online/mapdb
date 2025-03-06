@@ -1,0 +1,39 @@
+{
+  "checksum": "e47af0391a84d37764426e1236fe4307",
+  "room": {
+    "id": 33434,
+    "title": [
+      "[House Aspis, Hidden Landing]"
+    ],
+    "description": [
+      "You are standing on a small landing tucked underneath the grand staircase.  There is a dust bunny in one corner, and steep steps lead downwards."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31121": "go door",
+      "33435": "down",
+      "33439": "go corner"
+    },
+    "timeto": {
+      "31121": 0.2,
+      "33435": 0.2,
+      "33439": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102510
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      893,
+      1027,
+      1027,
+      1095
+    ]
+  }
+}

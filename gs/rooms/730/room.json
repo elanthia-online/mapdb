@@ -1,0 +1,47 @@
+{
+  "checksum": "06ee99b30d9fad2b6bb14551803f4686",
+  "room": {
+    "id": 730,
+    "title": [
+      "[Ta'Illistim, Mzaarine Bazaar]"
+    ],
+    "description": [
+      "Blue-grey granite cottages neatly line the cobblestone lane, splashed with the vibrant hues of carefully tended beds of clematis, lady's slippers, and verbena.  The smaller stonework dwellings give way to somewhat larger buildings to the north, shaded by lush trees."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "641": "southwest",
+      "731": "east",
+      "18088": "go simple shop",
+      "18680": "go cottage",
+      "24259": "go store"
+    },
+    "timeto": {
+      "641": 0.2,
+      "731": 0.2,
+      "18088": 0.2,
+      "18680": 0.2,
+      "24259": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      737002
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1493,
+      667,
+      1510,
+      683
+    ]
+  }
+}

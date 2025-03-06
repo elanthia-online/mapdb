@@ -1,0 +1,38 @@
+{
+  "checksum": "d254e7320544e6da4d9016093d07b114",
+  "room": {
+    "id": 21640,
+    "title": [
+      "[The Keep, Refectory]"
+    ],
+    "description": [
+      "Looking large enough to house hundreds of people at a time, the room still feels crowded by the closely spaced benches.  Long oak tables line the length of the room with matching lines of benches beside them.  A small podium stands against the western wall with a thick leather-bound book atop it.  Judging by the savory smells drifting from the south, the swinging door set in the south wall leads to the kitchen."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "near Fearling Pass",
+    "wayto": {
+      "21639": "go arch",
+      "21641": "go door"
+    },
+    "timeto": {
+      "21639": 0.2,
+      "21641": 0.2
+    },
+    "tags": [
+      "meta:society:Order of Voln",
+      "no forageables"
+    ],
+    "uid": [
+      14116046
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      775,
+      243,
+      788,
+      257
+    ]
+  }
+}

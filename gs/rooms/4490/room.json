@@ -1,0 +1,30 @@
+{
+  "checksum": "9b56e3cc9af1dbe39d958e2741aac555",
+  "room": {
+    "id": 4490,
+    "title": [
+      "[Heavy Handed, Entry]"
+    ],
+    "description": [
+      "A broad oak counter has been set opposite the shop's heavy door.  Its surface is stacked with twine-tied ledgers and a scattering of dry straw, probably pulled from the many crates and boxes stacked around the display cases in the room.  A small note has been pinned to the front of the counter, at dwarven eye-level."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4489": "out",
+      "4491": "northwest",
+      "4492": "northeast"
+    },
+    "timeto": {
+      "4489": 0.2,
+      "4491": 0.2,
+      "4492": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

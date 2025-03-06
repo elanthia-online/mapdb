@@ -1,0 +1,52 @@
+{
+  "checksum": "a085829dc54562074af956e1d8591a56",
+  "room": {
+    "id": 20627,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "At the edge of this warren, only a single torch burns, its light barely pushing away any darkness.  The faint sound of rodents skittering about can be heard close by."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20626": "north",
+      "20641": "/rooms/20627/wayto/stringproc-20641.rb"
+    },
+    "timeto": {
+      "20626": 0.2,
+      "20641": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336719
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      844,
+      304,
+      880,
+      340
+    ]
+  }
+}

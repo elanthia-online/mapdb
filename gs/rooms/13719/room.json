@@ -1,0 +1,44 @@
+{
+  "checksum": "68bf1a581ecdd89c8792f6234875395a",
+  "room": {
+    "id": 13719,
+    "title": [
+      "[Empath Guild, Cloister]"
+    ],
+    "description": [
+      "Overhead and along the cloister's columns, night-dark green vines are laden with pale blossoms hungry for moonlight while pots and beds of herbs and flowers appear lackluster in the absence of sun.  Starlight trickles in from the garth, glinting off a subdued mosaic of men approaching the baths, which is in front of a gated pale limestone arch.",
+      "Flanking some stone steps leading to a garth, four large pots of carefully tended lavender, heather, and sage cast intense aromas upon the air, and raised marble beds of snapdragons, dragonstalks, and flamestalks reside opposite the steps at a gated pale limestone arch.  Along the walkway, a mosaic in strong, bold hues presents men, simply robed, approaching the baths.  Overhead and along the cloister's columns, variegated green vines twist and turn."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13716": "go steps",
+      "13722": "north",
+      "13723": "south"
+    },
+    "timeto": {
+      "13716": 0.2,
+      "13722": 0.2,
+      "13723": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      657008
+    ],
+    "image": "en-ta_vaalor_empath_guild.png",
+    "image_coords": [
+      1283,
+      454,
+      1345,
+      514
+    ]
+  }
+}

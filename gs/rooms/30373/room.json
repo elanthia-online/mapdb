@@ -1,0 +1,43 @@
+{
+  "checksum": "f58349233c59b5192c323aad04f61916",
+  "room": {
+    "id": 30373,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Darkness extends in all directions as far as the eye can see, moonlight glinting off the dark water.  Dark looming forms can be seen in the distance to the west, and further passage beyond them seems impossible.  The sound of crashing water on rocks echoes in the night."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30372": "pedal southeast",
+      "30374": "pedal northwest",
+      "30382": "pedal south",
+      "30385": "pedal north"
+    },
+    "timeto": {
+      "30372": 6,
+      "30374": 6,
+      "30382": 6,
+      "30385": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216203
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      822,
+      4123,
+      838,
+      4135
+    ]
+  }
+}

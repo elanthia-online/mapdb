@@ -1,0 +1,41 @@
+{
+  "checksum": "0c380cb1a93432c8842742121f285577",
+  "room": {
+    "id": 13532,
+    "title": [
+      "[Silverwood Manor, Vestibule]"
+    ],
+    "description": [
+      "The polished mahogany of the high, arching ceilings in this chamber is a stark contrast to the alabaster stone of the reinforcing ribbed vaults.  Dangling from the center vault is a gleaming chain of silver links, suspending a softly glowing globe of crackled glass.  A silver-threaded tapestry hangs next to a spindly black willow table that is pushed against the wall.  Opposite the entry door, the area widens considerably to allow space for a dramatic staircase of silver-flecked white marble."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8695": "/rooms/13532/wayto/stringproc-8695.rb",
+      "8696": "/rooms/13532/wayto/stringproc-8696.rb",
+      "13533": "climb staircase",
+      "14002": "west",
+      "14005": "east",
+      "14659": "/rooms/13532/wayto/stringproc-14659.rb",
+      "32873": "/rooms/13532/wayto/stringproc-32873.rb"
+    },
+    "timeto": {
+      "8695": "/rooms/13532/timeto/stringproc-8695.rb",
+      "8696": "/rooms/13532/timeto/stringproc-8696.rb",
+      "13533": 0.2,
+      "14002": 0.2,
+      "14005": 0.2,
+      "14659": "/rooms/13532/timeto/stringproc-14659.rb",
+      "32873": "/rooms/13532/timeto/stringproc-32873.rb"
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384004
+    ]
+  }
+}

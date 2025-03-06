@@ -1,0 +1,40 @@
+{
+  "checksum": "f1330275d7492081dd6ba9f11738c55b",
+  "room": {
+    "id": 30355,
+    "title": [
+      "[Duskruin Arena, The Cheap Seats]"
+    ],
+    "description": [
+      "Dimly illuminated, the cold stone benches are cheaply made and house none of the warmth found in the polished seats of the upper levels.  Dangerously close to the combatants, as evidenced by the gouges in the stone and the stained blood, this section houses warped barrels and a dusty board covered in food items.  The din of combat from the nearby stands fills the air."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23789": "northeast",
+      "23792": "northwest",
+      "33578": "/rooms/30355/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "23789": 0.2,
+      "23792": 0.2,
+      "33578": "/rooms/30355/timeto/stringproc-33578.rb"
+    },
+    "tags": [
+      "cheap seats",
+      "cheapseats"
+    ],
+    "uid": [
+      8213213
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1429,
+      32,
+      1450,
+      49
+    ]
+  }
+}

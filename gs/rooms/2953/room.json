@@ -1,0 +1,41 @@
+{
+  "checksum": "78db678ddf720d83afe52700086c7e1f",
+  "room": {
+    "id": 2953,
+    "title": [
+      "[Abbey, Grand Stair]",
+      "[Abbey Grand Stair]"
+    ],
+    "description": [
+      "Seven broad, stone steps lead upwards, bracketed by ornate wooden bannisters.  The balusters are carved into the spearheaded shapes of irises, while the newels are shaped like frogs upon lilypads."
+    ],
+    "paths": [
+      "Obvious exits: up",
+      "Obvious exits: up, down"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2952": "go stone stairs",
+      "2954": "up"
+    },
+    "timeto": {
+      "2952": 0.2,
+      "2954": 0.2
+    },
+    "tags": [
+      "nedum vereri",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132025
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      266,
+      641,
+      322,
+      698
+    ]
+  }
+}

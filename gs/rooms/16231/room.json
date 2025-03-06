@@ -1,0 +1,33 @@
+{
+  "checksum": "422e79b1f5eaa5953b0300451289308c",
+  "room": {
+    "id": 16231,
+    "title": [
+      "[River's Rest Hall, Galley]"
+    ],
+    "description": [
+      "An island built in the center of this kitchen supports a deep sink and a marble countertop.  Pots, pans, and utensils hang from hooks attached to the ceiling.  A large oven set into the wall releases its heat outside, keeping the room relatively cool."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "15298": "go door",
+      "16230": "west"
+    },
+    "timeto": {
+      "15298": 0.2,
+      "16230": 0.2
+    },
+    "tags": [
+      "mho cart rentals",
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      854012
+    ]
+  }
+}

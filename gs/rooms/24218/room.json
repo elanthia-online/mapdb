@@ -1,0 +1,24 @@
+{
+  "checksum": "108564fc7e1c8442b17fb73e9a08f3a8",
+  "room": {
+    "id": 24218,
+    "title": [
+      "[The Brazen Bull]"
+    ],
+    "description": [
+      "An oppressive heat fills the room, bearing down on everything within the walls even as it rises from a rectangular grate in the center of the floor.  Over the grate hangs a series of rusted iron hooks, upon which the shop's wares are displayed.  A large brass-framed painting has been mounted on the wall opposite the door."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20350": "go door",
+      "24353": "go grate"
+    },
+    "timeto": {
+      "20350": 0.2,
+      "24353": 0.2
+    }
+  }
+}

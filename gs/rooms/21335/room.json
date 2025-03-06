@@ -1,0 +1,43 @@
+{
+  "checksum": "a3c5483ad4f2d507e9c76804d815be84",
+  "room": {
+    "id": 21335,
+    "title": [
+      "[Sylvanfair, Trophy Hall]"
+    ],
+    "description": [
+      "Your eyes are drawn to a large display case that looks as if it was formed by natural growth of the great tree's wood.  A colorful tapestry adorns one of the walls in a place of honor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21330": "east",
+      "21336": "go oaken door",
+      "21337": "go modwir door",
+      "21338": "go fir door",
+      "21339": "west"
+    },
+    "timeto": {
+      "21330": 0.2,
+      "21336": 0.2,
+      "21337": 0.2,
+      "21338": 0.2,
+      "21339": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211006
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      228,
+      503,
+      270,
+      546
+    ]
+  }
+}

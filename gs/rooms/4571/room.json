@@ -1,0 +1,50 @@
+{
+  "checksum": "88afcdae81fb142e08d3447bab597769",
+  "room": {
+    "id": 4571,
+    "title": [
+      "[Griffin's Keen, Valley of Peace]"
+    ],
+    "description": [
+      "A worn track threads through piles of broken rock and snow-covered scree.  More suited to mountain rolton than the upright races, it winds up and around toward the north face of the mountainside."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4570": "up",
+      "4572": "/rooms/4571/wayto/stringproc-4572.rb"
+    },
+    "timeto": {
+      "4570": 0.2,
+      "4572": 4.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302145
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      610,
+      300,
+      620,
+      310
+    ]
+  }
+}

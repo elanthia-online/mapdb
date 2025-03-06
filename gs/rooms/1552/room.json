@@ -1,0 +1,47 @@
+{
+  "checksum": "55af6837840a33a012ceff6365127df5",
+  "room": {
+    "id": 1552,
+    "title": [
+      "[Solhaven, South Market North]"
+    ],
+    "description": [
+      "A narrow storefront with a blue-shingled bay window occupies the center of the row of shops along this side of the market.  A variety of gadgets and navigational instruments fill the velvet lined display behind the window's many panes.",
+      "A storefront with a blue-shingled bay window occupies the center of the row of shops along this side of the market, a narrow lane tucked between it and the yellow-awninged shop to its east.  A variety of gadgets and navigational instruments fill the velvet lined display behind the window's many panes."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1551": "west",
+      "1553": "north",
+      "1554": "east",
+      "1572": "south",
+      "10300": "go storefront"
+    },
+    "timeto": {
+      "1551": 0.2,
+      "1553": 0.2,
+      "1554": 0.2,
+      "1572": 0.2,
+      "10300": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902080
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      636,
+      1332,
+      660,
+      1356
+    ]
+  }
+}

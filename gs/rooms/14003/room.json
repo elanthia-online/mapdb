@@ -1,0 +1,29 @@
+{
+  "checksum": "bd2dcb766215055564b48f373d025c68",
+  "room": {
+    "id": 14003,
+    "title": [
+      "[Silverwood Manor, Arena Room]"
+    ],
+    "description": [
+      "A layer of sawdust covers the floor of this rather bare area.  A few long benches, sitting on risers against the wall, provide seating for spectators.  There are no windows, and the singular door is reinforced on the inside with heavy steel rivets.  At one end of the room is a large, plain oak cabinet."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "14002": "go door"
+    },
+    "timeto": {
+      "14002": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "meta:mentor"
+    ],
+    "uid": [
+      4384009
+    ]
+  }
+}

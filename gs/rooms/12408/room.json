@@ -1,0 +1,43 @@
+{
+  "checksum": "2fe6716aa66c9be814e5c194c824efee",
+  "room": {
+    "id": 12408,
+    "title": [
+      "[Pig Puddle Lane, Circle]"
+    ],
+    "description": [
+      "A mixed group of ragamuffins, elven, human and halfling, collect lumps of mud and small rocks.  Their leader, a red-headed, mud-caked elven girl perhaps nine years old, points to the southeast with excitement, urging her friends to hurry.  An old, piebald mule tied to a post regards the scene with disinterest."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12398": "east",
+      "12407": "southeast",
+      "12409": "northeast"
+    },
+    "timeto": {
+      "12398": 0.2,
+      "12407": 0.2,
+      "12409": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703303
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      497,
+      871,
+      515,
+      889
+    ]
+  }
+}

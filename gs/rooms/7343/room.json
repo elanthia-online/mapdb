@@ -1,0 +1,47 @@
+{
+  "checksum": "b76e172d0c7de4db68a4a817fed2c6c9",
+  "room": {
+    "id": 7343,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "The dull, grey sky contrasts with the dark deterioration of the pasture around you.  The trail meanders through the ruined pasture, bending to avoid the encroaching decay."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7341": "northeast",
+      "7344": "northwest",
+      "7348": "southeast",
+      "7372": "southwest"
+    },
+    "timeto": {
+      "7341": 0.2,
+      "7344": 0.2,
+      "7348": 0.2,
+      "7372": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161017
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1121,
+      837,
+      1129,
+      845
+    ]
+  }
+}

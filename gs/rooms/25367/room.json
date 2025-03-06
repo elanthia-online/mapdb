@@ -1,0 +1,34 @@
+{
+  "checksum": "56bc2ea6022080237b5ef2c3f4bbc0d5",
+  "room": {
+    "id": 25367,
+    "title": [
+      "[Delirium Manor, Workshop Entry]"
+    ],
+    "description": [
+      "Dimly lit and musty smelling, this area is evidently not intended for guests.  The wide-open space appears to be roughly the size of the manor, but visible areas are neatly sectioned-off, each serving different functional purposes.  A massive chalkboard contains scrawled notes and drawings, most of which are half-erased."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25366": "go stairwell",
+      "25368": "go hole",
+      "25369": "northwest",
+      "25370": "northeast"
+    },
+    "timeto": {
+      "25366": 0.2,
+      "25368": 0.2,
+      "25369": 0.2,
+      "25370": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100054
+    ]
+  }
+}

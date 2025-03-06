@@ -1,0 +1,42 @@
+{
+  "checksum": "521bb1aca389a67c995c405d0d4ab2db",
+  "room": {
+    "id": 19691,
+    "title": [
+      "[Cavernhold, Column Passage]"
+    ],
+    "description": [
+      "A large column of creamy stone, tinted with shades of red, stands in the center of this passage.  It is the result of a large stalagmite and stalactite slowly growing together."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19662": "south",
+      "19689": "north",
+      "19692": "northeast"
+    },
+    "timeto": {
+      "19662": 0.2,
+      "19689": 0.2,
+      "19692": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10041
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      579,
+      934,
+      592,
+      946
+    ]
+  }
+}

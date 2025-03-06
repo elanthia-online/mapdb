@@ -1,0 +1,41 @@
+{
+  "checksum": "869063111d6172ecbb4be8b01d9f2951",
+  "room": {
+    "id": 12288,
+    "title": [
+      "[Healer's House]"
+    ],
+    "description": [
+      "Filmy blue chiffon curtains blow gently in the breeze from the open windows, while a small calico cat snoozes beneath them in a patch of light on the floor.  Drying herbs hang from hooks upon the wall, waiting to be used in various medicines.  A small table covered with bandages and medicines sits next to a padded table covered with a sheet.  Next to an embroidered curtain rests a large basket filled with dried lilacs, giving the room a pleasant scent.",
+      "Filmy blue chiffon curtains blow gently in the breeze from the open windows, while a small calico cat bats lazily at them from a big blue cushion on the floor.  A large quantity of lamps hanging overhead keep the room well lit.  A small table covered with bandages and medicines sits next to a padded table covered with a sheet.  Next to an embroidered curtain rests a large basket filled with dried lilacs, giving the room a pleasant scent."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "the Isle of Four Winds",
+    "wayto": {
+      "3663": "out",
+      "12289": "north",
+      "16328": "go curtain",
+      "30718": "/rooms/12288/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "3663": 0.2,
+      "12289": 0.2,
+      "16328": 0.2,
+      "30718": "/rooms/12288/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "npchealer",
+      "urchin-access",
+      "urchin guide healer",
+      "healer",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201291
+    ]
+  }
+}

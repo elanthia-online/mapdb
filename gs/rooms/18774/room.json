@@ -1,0 +1,35 @@
+{
+  "checksum": "57e6c7bf95c9229bec46b312cbb48675",
+  "room": {
+    "id": 18774,
+    "title": [
+      "[Empath Guild, North Foyer]"
+    ],
+    "description": [
+      "A shuttered window at the terminal end of the northern portion of the foyer lets in traces of moonlight.  A potted valerian plant sits beneath the window, its pale pink petals translucent in the ambient light.  Carved with entwining cothinar and valerian blossoms, an oak door stands open, and frescoes of men and women practicing healing arts are painted on the slightly domed ceiling.",
+      "Bright and cheerful in the ambient daylight, the northern end of the foyer terminates with a potted valerian plant laid beneath an open-shuttered window, and an oak door carved with entwining cothinar and valerian blossoms stands open.  Frescoes of men and women practicing healing arts are painted on the slightly domed ceiling."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18757": "south",
+      "18775": "go door"
+    },
+    "timeto": {
+      "18757": 0.2,
+      "18775": 0.2
+    },
+    "uid": [
+      657012
+    ],
+    "image": "en-ta_vaalor_empath_guild.png",
+    "image_coords": [
+      871,
+      315,
+      940,
+      381
+    ]
+  }
+}

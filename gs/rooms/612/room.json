@@ -1,0 +1,44 @@
+{
+  "checksum": "278d954e7caf62e00a84ddcb975f7c98",
+  "room": {
+    "id": 612,
+    "title": [
+      "[Ta'Illistim, Aerie Wey]"
+    ],
+    "description": [
+      "Several large warehouses stand nearby, constructed of sturdy granite blocks and boasting the city's trademark blue tiled roofs.  The blue-painted doors of the buildings are thrown open and workers hurry about moving boxes and crates of goods.",
+      "Several large warehouses stand nearby, constructed of sturdy granite blocks and boasting the city's trademark blue tiled roofs.  The blue-painted doors of the buildings are thrown open, though their high clerestory windows are barred."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "611": "southwest",
+      "613": "east",
+      "4024": "go buildings"
+    },
+    "timeto": {
+      "611": 0.2,
+      "613": 0.2,
+      "4024": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101049
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1007,
+      203,
+      1029,
+      224
+    ]
+  }
+}

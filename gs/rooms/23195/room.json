@@ -1,0 +1,30 @@
+{
+  "checksum": "651abf816bc357eabb046662b2d4e303",
+  "room": {
+    "id": 23195,
+    "title": [
+      "[Twilight Hall Annex]"
+    ],
+    "description": [
+      "The floor, made of unglazed octagonal tiles, is partly covered with a thick carpet.  A window, screened with intricately carved wood, is set high on the wall.  Set beneath the window is a heavy terra cotta urn containing a flowering shrub."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23196": "west",
+      "23198": "go curtain"
+    },
+    "timeto": {
+      "23196": 0.2,
+      "23198": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Twilight Hall"
+    ],
+    "uid": [
+      5001250
+    ]
+  }
+}

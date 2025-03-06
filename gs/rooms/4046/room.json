@@ -1,0 +1,31 @@
+{
+  "checksum": "b0e88b7691fca67a5a30da8710b3c82c",
+  "room": {
+    "id": 4046,
+    "title": [
+      "[Temple, Cleric's Office]"
+    ],
+    "description": [
+      "The Lord High Cleric of the Landing has his study here, which houses priceless manuscripts and scrolls, the sum of the learning of the ancient Lords of Liabo and their Sages.  An impassive monk is stationed by the door.  Though unarmed, he inspires awe and respect.  On the Lord Cleric's writing table are an ora chalice and a finely carved, inlaid reliquary."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4041": "go door"
+    },
+    "timeto": {
+      "4041": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      2031
+    ]
+  }
+}

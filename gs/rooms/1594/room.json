@@ -1,0 +1,44 @@
+{
+  "checksum": "f23860844bd48bd6511689919be92980",
+  "room": {
+    "id": 1594,
+    "title": [
+      "[Solhaven, Lornon Avenue]"
+    ],
+    "description": [
+      "A high, red brick wall set with black mortar fills the lot on the avenue's south side, where Limpet Trail joins from the southeast.  Standing at the oblique corner, a pair of gateposts face the intersection, the gateway unobstructed by a gate of any kind.  Lit by torches set beneath them, black scimitars carved into the capitals of the gateposts proclaim the holding's owner.  On the north side of the avenue, the iron fence surrounding Eorgina's temple ends at the west wall of Andelas' temple.",
+      "A high, red brick wall set with black mortar fills the lot on the avenue's south side, where Limpet Trail joins from the southeast.  Standing at the oblique corner, a pair of gateposts face the intersection, the gateway unobstructed by a gate of any kind.  Carved into the brick red capitals of the gateposts, oversized black scimitars proclaim to whom this holding belongs.  On the north side of the avenue, the iron fence surrounding Eorgina's temple ends at the west wall of Andelas' temple."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1595": "east",
+      "1598": "west",
+      "13321": "go gateway"
+    },
+    "timeto": {
+      "1595": 0.2,
+      "1598": 0.2,
+      "13321": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902013
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      819,
+      1017,
+      843,
+      1041
+    ]
+  }
+}

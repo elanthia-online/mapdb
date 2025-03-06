@@ -1,0 +1,81 @@
+{
+  "checksum": "64bef38d4fca96582c9bb56b1bf87784",
+  "room": {
+    "id": 4109,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "Tumbling from a rock ledge several feet above the floor of the valley is a torrent of ice cold water.  As the cascade crashes on the rocks beneath it, a great plume of silver mist billows into the damp, and refreshingly cool, air of this shadowed glen."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "rough",
+    "wayto": {
+      "4108": "southwest",
+      "4110": "north",
+      "18694": "go gate"
+    },
+    "timeto": {
+      "4108": 0.2,
+      "4110": 0.2,
+      "18694": "/rooms/4109/timeto/stringproc-18694.rb"
+    },
+    "tags": [
+      "heath aster",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "blueberries",
+      "stalk of chicory",
+      "handful of currants",
+      "elderberries",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "wild grapes",
+      "broken twig",
+      "sprig of alyssum",
+      "golden buttercup",
+      "red clover blossom",
+      "pink clover blossom",
+      "white clover blossom",
+      "purple clover blossom",
+      "yellow clover blossom",
+      "stalk of goldenrod",
+      "sprig of larkspur",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "ironfern root",
+      "deep purple shockroot",
+      "banana leaf",
+      "rhubarb",
+      "stalk of celery",
+      "leek",
+      "shallot",
+      "leafy arugula",
+      "meta:forage-sensed:night:2023-02",
+      "ghost pepper",
+      "hot pepper",
+      "war troll",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      14025
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      375,
+      1140,
+      385,
+      1150
+    ]
+  }
+}

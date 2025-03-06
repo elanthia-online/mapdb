@@ -1,0 +1,54 @@
+{
+  "checksum": "487162a7c97e3133196a8ceef305785b",
+  "room": {
+    "id": 11407,
+    "title": [
+      "[Cavern, Ledge]"
+    ],
+    "description": [
+      "You find yourself standing in a very shallow stream which dribbles over the edge of this chamber and down into a deep cavern.  The water originates from outside and a dim light filters in with it.",
+      "You find yourself standing in a very shallow stream which dribbles over the edge of this chamber and down into a deep cavern.  The water originates from outside and a bright light filters in with it."
+    ],
+    "paths": [
+      "Obvious exits: down, out"
+    ],
+    "location": "the Hidden Vale",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11406": "down",
+      "11408": "out"
+    },
+    "timeto": {
+      "11406": 0.2,
+      "11408": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "wild strawberry",
+      "blueberries",
+      "stalk of chicory",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "broken twig",
+      "sprig of larkspur",
+      "small wild rose",
+      "wild chokecherry",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      36005
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      747,
+      1139,
+      757,
+      1149
+    ]
+  }
+}

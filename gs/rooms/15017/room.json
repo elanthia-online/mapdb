@@ -1,0 +1,30 @@
+{
+  "checksum": "2ef1f7f1e8acc8433e6eb10b31c5f473",
+  "room": {
+    "id": 15017,
+    "title": [
+      "[Semiera's General Store]",
+      "[Semiera's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by varnished ebonwood walls, the shop features an elegantly dressed maiden statue in the center of its plank floor.  A trio-bladed mounted vellum fan hangs under the beam ceiling.  Right near the front is a set of carved felwood shelves and some hammered copper display hooks."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "370": "out",
+      "15035": "east",
+      "15036": "north"
+    },
+    "timeto": {
+      "370": 0.2,
+      "15035": 0.2,
+      "15036": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

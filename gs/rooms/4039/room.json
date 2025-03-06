@@ -1,0 +1,30 @@
+{
+  "checksum": "43897194a67c4ce219dbe221477e867d",
+  "room": {
+    "id": 4039,
+    "title": [
+      "[Temple, Hall of Sacrifice]"
+    ],
+    "description": [
+      "This part of the hallway is decorated in tapestries which were hung methodically in rows.  Each of the handwoven marvels depicts various acts of self-sacrifice: a valiant warrior placing himself in front of a fallen friend, a noble-looking lady giving her cloak to an impoverished child and many other similar scenes."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4040": "south",
+      "26829": "go dais"
+    },
+    "timeto": {
+      "4040": 0.2,
+      "26829": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      2040
+    ]
+  }
+}

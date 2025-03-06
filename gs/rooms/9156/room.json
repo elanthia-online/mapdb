@@ -1,0 +1,43 @@
+{
+  "checksum": "e378976e3d0863e41f9c307c756c5b3f",
+  "room": {
+    "id": 9156,
+    "title": [
+      "[Thurfel's Island]"
+    ],
+    "description": [
+      "Huge seabirds circle overhead, their raucous squawking filling the air as they idly glide above the beach.  From time to time, one will swoop into the lake and come up with a wriggling fish trapped within its beak."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9155": "east",
+      "9157": "southwest",
+      "15824": "go cabana"
+    },
+    "timeto": {
+      "9155": 0.2,
+      "9157": 0.2,
+      "15824": 0.2
+    },
+    "tags": [
+      "some bur-clover root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      7530015
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      464,
+      775,
+      474,
+      785
+    ]
+  }
+}

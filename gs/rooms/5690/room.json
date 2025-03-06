@@ -1,0 +1,30 @@
+{
+  "checksum": "5bcaaf62bbf9806a17efdad327a3ff35",
+  "room": {
+    "id": 5690,
+    "title": [
+      "[Sulien's Outfitting]",
+      "[Sulien's General Store]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A worn rug sits in one corner of a scuffed pine floor.  There is a wide knotted oak counter on one side of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "735": "out",
+      "12795": "west",
+      "12796": "east"
+    },
+    "timeto": {
+      "735": 0.2,
+      "12795": 0.2,
+      "12796": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

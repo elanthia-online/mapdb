@@ -1,0 +1,31 @@
+{
+  "checksum": "abde43f29e3c8d49476f8a525b469662",
+  "room": {
+    "id": 33052,
+    "title": [
+      "[Crooked Docks, Maelstrom Pier]"
+    ],
+    "description": [
+      "Five crooked piers float haphazardly along the outer edge of the flotilla, a series of ropes and pulleys hanging at the ready to collapse the docking system at a moment's notice for rapid travel.  The uneven decks are comprised of dozens of types of wood, most resembling salvage from ships' hulls, and some ragged bits of cork serve as minimal padding at each docking slip.  A battered sign reads, \"Maelstrom Pier - Slips 1-5,\" and a whirlpool sucking a ship into its depths is carved into it."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, west, up"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33051": "up",
+      "33053": "west",
+      "33058": "southeast",
+      "33059": "southwest"
+    },
+    "timeto": {
+      "33051": 0.2,
+      "33053": 0.2,
+      "33058": 0.2,
+      "33059": 0.2
+    },
+    "uid": [
+      7134006
+    ]
+  }
+}

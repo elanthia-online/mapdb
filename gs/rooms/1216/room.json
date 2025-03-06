@@ -1,0 +1,69 @@
+{
+  "checksum": "b07f158b9e5966d208986d75f1b6d731",
+  "room": {
+    "id": 1216,
+    "title": [
+      "[Upper Trollfang, Winding Trees]"
+    ],
+    "description": [
+      "Winding again to the east, the path takes you back and forth through the trees making you wonder if there might be a better path hidden deeper within the foliage.  Somewhere far from the path, you can hear something moving quickly through the forest."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "cold, dry",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "1215": "northwest",
+      "1217": "/rooms/1216/wayto/stringproc-1217.rb",
+      "7890": "east"
+    },
+    "timeto": {
+      "1215": 0.2,
+      "1217": 20,
+      "7890": 0.2
+    },
+    "tags": [
+      "wild pink geranium",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "tkaro root",
+      "sticks",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "white hook mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "broken twig",
+      "stalk of bluebells",
+      "bright red cranberry",
+      "tree bark",
+      "willow twig",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "brostheras grass",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2123007
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      999,
+      980,
+      1009,
+      990
+    ]
+  }
+}

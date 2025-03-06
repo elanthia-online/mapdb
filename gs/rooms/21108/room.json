@@ -1,0 +1,28 @@
+{
+  "checksum": "af791d23d695b8b6832dbee101f4b166",
+  "room": {
+    "id": 21108,
+    "title": [
+      "[Monastery, Library]"
+    ],
+    "description": [
+      "This quiet space supports a number of well-oiled bookcases filled with thick volumes of both finished and unfinished works.  Lamplight illuminates the room, creating a soft glow perfect for intense study and concentration.  A large stained glass window dominates the west wall, its brilliant hues dulled by the lack of direct sunlight filtering through.  A solid stone archway stands open to the jungle.",
+      "This quiet space supports a number of well-oiled bookcases filled with thick volumes of both finished and unfinished works.  Lamplight illuminates the room, creating a soft glow perfect for intense study and concentration.  A large stained glass window dominates the west wall, its brilliant hues dulled by the lack of direct light filtering through.  A solid stone archway stands open to the jungle."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "21107": "go archway",
+      "21111": "south"
+    },
+    "timeto": {
+      "21107": 0.2,
+      "21111": 0.2
+    },
+    "uid": [
+      3214052
+    ]
+  }
+}

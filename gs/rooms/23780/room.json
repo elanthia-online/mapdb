@@ -1,0 +1,43 @@
+{
+  "checksum": "a97deb6884132d79336b5935eac5c918",
+  "room": {
+    "id": 23780,
+    "title": [
+      "[Duskruin Arena, Sands Approach]"
+    ],
+    "description": [
+      "Still visible beneath a thin layer of sand, dark stains mar the stone floor, the coloring that of dried blood creating a grisly pathway through the entrance to the arena itself, just visible ahead.  Bright torchlight illuminates the arena beyond, spilling through into the otherwise dark corridor.",
+      "Still visible beneath a thin layer of sand, dark stains mar the stone floor, the coloring that of dried blood creating a grisly pathway through the entrance to the arena itself, just visible ahead.  Bright torchlight illuminates the arena beyond, spilling through into the otherwise dark corridor.  A ramp leads slightly downward to another arena entrance."
+    ],
+    "paths": [
+      "Obvious exits: south, down"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23779": "south",
+      "26387": "down",
+      "33578": "/rooms/23780/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "23779": 0.2,
+      "26387": 0.2,
+      "33578": "/rooms/23780/timeto/stringproc-33578.rb"
+    },
+    "tags": [
+      "node",
+      "arena",
+      "meta:mapcategory:Events and Festivals",
+      "meta:mapname:Duskruin"
+    ],
+    "uid": [
+      8213015
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1423,
+      258,
+      1444,
+      277
+    ]
+  }
+}

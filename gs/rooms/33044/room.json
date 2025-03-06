@@ -1,0 +1,30 @@
+{
+  "checksum": "47aea727b9ce67ea36f0d0a8147cdd38",
+  "room": {
+    "id": 33044,
+    "title": [
+      "[Sovyn Annex]"
+    ],
+    "description": [
+      "Two huge toadstools in large stone pots illuminate a large, comfortable room.  Dusky brown granite benches line two of the marble walls, facing each other across the sapphire carpet.  On one wall, a brass arch allows exit to the corridor outside, while on the other wall a curtain provides entrance to the locker area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9499": "go brass arch",
+      "33045": "go curtain"
+    },
+    "timeto": {
+      "9499": 0.2,
+      "33045": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sovyn"
+    ],
+    "uid": [
+      13010147
+    ]
+  }
+}

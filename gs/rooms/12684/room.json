@@ -1,0 +1,39 @@
+{
+  "checksum": "87f524110869893fd1264a13a9f55a86",
+  "room": {
+    "id": 12684,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The sound of crashing waves reverberates loudly here, and a thin coating of moisture clings to every surface.  The air is thick with the smell of the sea, and natural light streams into the hallway from the north."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12683": "south",
+      "12685": "north",
+      "12690": "west"
+    },
+    "timeto": {
+      "12683": 0.2,
+      "12685": 0.2,
+      "12690": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031103
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      945,
+      438,
+      981,
+      474
+    ]
+  }
+}

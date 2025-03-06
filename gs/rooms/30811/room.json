@@ -1,0 +1,33 @@
+{
+  "checksum": "b4defd5282e6f80178d668f0736b6d31",
+  "room": {
+    "id": 30811,
+    "title": [
+      "[Widowmaker's Road, Rapids]"
+    ],
+    "description": [
+      "Freshly hewn logs speed down the waters as they splash against the edge.  A small slippery platform extends out over the waters offering a place to attempt to jump onto the speeding projectiles.  A large warning sign is set precariously next to the rapids."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Widowmaker's Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29050": "south",
+      "30812": "/rooms/30811/wayto/stringproc-30812.rb"
+    },
+    "timeto": {
+      "29050": 0.2,
+      "30812": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7119117
+    ]
+  }
+}

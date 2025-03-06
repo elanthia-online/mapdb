@@ -1,0 +1,35 @@
+{
+  "checksum": "152dee42dfdacc882504494bf5e07bf5",
+  "room": {
+    "id": 16470,
+    "title": [
+      "[Marble House, Consignment]"
+    ],
+    "description": [
+      "A large woven tapestry dominates the eastern wall, illustrating an elven mage clasping an intricately carved amulet.  Tucked into a corner is a sorting bin filled with sands of varying color and refinement."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16363": "west",
+      "16471": "south",
+      "30718": "/rooms/16470/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "16363": 0.2,
+      "16471": 0.2,
+      "30718": "/rooms/16470/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "consignment",
+      "urchin-access",
+      "urchin guide alchemy",
+      "alchemy"
+    ],
+    "uid": [
+      160010
+    ]
+  }
+}

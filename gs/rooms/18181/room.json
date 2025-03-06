@@ -1,0 +1,32 @@
+{
+  "checksum": "f9f5f50a0c2ed96966945adf7cd01bbb",
+  "room": {
+    "id": 18181,
+    "title": [
+      "[Melgorehn's Reach, Lift]"
+    ],
+    "description": [
+      "This is an open-air, wooden box which is suspended on a beam trellis that is precariously attached to the side of the mountain.  There are plenty of openings which afford a great view, but the cab itself is covered (probably to guard against falling rocks)."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "18180": "out",
+      "18182": "/rooms/18181/wayto/stringproc-18182.rb"
+    },
+    "timeto": {
+      "18180": 0.2,
+      "18182": 240
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      52013
+    ]
+  }
+}

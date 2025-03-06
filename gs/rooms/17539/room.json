@@ -1,0 +1,30 @@
+{
+  "checksum": "747745df0c03f3c8be214854ec540560",
+  "room": {
+    "id": 17539,
+    "title": [
+      "[Silverphenix's Magic Shoppe]",
+      "[Silverphenix's Armory]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A floral-etched ceramic case sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12263": "out",
+      "17540": "east",
+      "17541": "north"
+    },
+    "timeto": {
+      "12263": 0.2,
+      "17540": 0.2,
+      "17541": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

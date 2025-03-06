@@ -1,0 +1,31 @@
+{
+  "checksum": "07bb26335f10ee453de27bd1e73fc019",
+  "room": {
+    "id": 26292,
+    "title": [
+      "[Lich Citadel, Darkway]"
+    ],
+    "description": [
+      "The white lines running along the black walls pulsate with energy.  The lines emit a sharp hum, as their light casts an eerie glow throughout the area."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26291": "southeast",
+      "26317": "north"
+    },
+    "timeto": {
+      "26291": 0.2,
+      "26317": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1143,
+      772,
+      1168,
+      798
+    ]
+  }
+}

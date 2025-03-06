@@ -1,0 +1,42 @@
+{
+  "checksum": "5f3f95ccfdecad3de04370621770e8b1",
+  "room": {
+    "id": 7098,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The eastern and northern walls of this corner curve to meet each other smoothly, rather than forming a sharp angle as do the other walls in these passages.  Formed of flat, colored stones, a bright mosaic diagram covers the curve from floor to ceiling, and a double armspan wide.  Unfamiliar symbols radiate out from the diagram, looking rather like text but in no alphabet with which you are familiar."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7097": "west",
+      "7099": "south"
+    },
+    "timeto": {
+      "7097": 0.2,
+      "7099": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44035
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1001,
+      898,
+      1011,
+      908
+    ]
+  }
+}

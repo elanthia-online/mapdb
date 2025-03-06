@@ -1,0 +1,24 @@
+{
+  "checksum": "66b343477ada35f6b5a4d41e20290637",
+  "room": {
+    "id": 21453,
+    "title": [
+      "[Points to Death, Showroom]"
+    ],
+    "description": [
+      "A damp, musty smell seems to fill every corner of this little shack.  Dust motes drift and swirl in rays of moonlight that pierce the multitude of gaps between the warped wooden slats that comprise the walls and ceiling.  Floorboards creak and groan ominously, as if threatening to give way under the slightest strain.  With the exception of a deteriorating display case in one corner and a small door in the rear wall, the room is bare."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": false,
+    "wayto": {
+      "20109": "out",
+      "21454": "go door"
+    },
+    "timeto": {
+      "20109": 0.2,
+      "21454": 0.2
+    }
+  }
+}

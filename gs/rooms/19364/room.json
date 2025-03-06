@@ -1,0 +1,43 @@
+{
+  "checksum": "13d696c1d499940b23004532b6233231",
+  "room": {
+    "id": 19364,
+    "title": [
+      "[Eastern Harbor, Pelican Lane]"
+    ],
+    "description": [
+      "Flowing between two cottages, the entrance to a small alley is framed by tall lampposts dangling glass and brass lanterns.  Soft music and cheery laughter trickles into the street, which is lined with cobbled stones of brilliant white.  Standing opposite the alley, a small white-columned store has an elegant sign positioned above its entry that is painted with a bright blue pelican."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Mist Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "19352": "east",
+      "19361": "west",
+      "19365": "go store",
+      "19366": "go alley"
+    },
+    "timeto": {
+      "19352": 0.2,
+      "19361": 0.2,
+      "19365": 0.2,
+      "19366": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223009
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      3891,
+      1745,
+      3923,
+      1772
+    ]
+  }
+}

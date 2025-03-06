@@ -1,0 +1,41 @@
+{
+  "checksum": "6c616240a383cd59fc7c92e759aa68f2",
+  "room": {
+    "id": 25759,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Glistening in the ambient light, the tiny swells of the waterway roll in a rhythmic motion that is almost hypnotic.  Tiny white caps mark the waters that will grow into waves, while those lacking caps simply disappear into the dark blue depths."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25757": "/rooms/25759/wayto/stringproc-25757.rb",
+      "25760": "/rooms/25759/wayto/stringproc-25760.rb",
+      "25770": "/rooms/25759/wayto/stringproc-25770.rb"
+    },
+    "timeto": {
+      "25757": 6,
+      "25760": 6,
+      "25770": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223832
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2081,
+      1279,
+      2100,
+      1300
+    ]
+  }
+}

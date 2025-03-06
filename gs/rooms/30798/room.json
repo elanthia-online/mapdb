@@ -1,0 +1,62 @@
+{
+  "checksum": "71bb8e75281ba95ab3d7b2b1131f9f16",
+  "room": {
+    "id": 30798,
+    "title": [
+      "[Enemy Ship, Main Deck]"
+    ],
+    "description": [
+      "The main deck is outfitted with some cannons on either side.  Ratlines ascend upwards to the crows nest attached to a mast, a pennant fluttering above a sail.  An opening in the wide-planked deck leads to the cargo hold below, the faint aroma of mildew and livestock mingling with the sea breeze near the hatch."
+    ],
+    "paths": [
+      "Obvious paths: east, west, up, down"
+    ],
+    "location": "The Tenebrous Cauldron",
+    "wayto": {
+      "29038": "go gangplank",
+      "30119": "go gangplank",
+      "30130": "go gangplank",
+      "30142": "go gangplank",
+      "30166": "go gangplank",
+      "30176": "go gangplank",
+      "30799": "west",
+      "30801": "down",
+      "30802": "up",
+      "30803": "east"
+    },
+    "timeto": {
+      "29038": 0.2,
+      "30119": 0.2,
+      "30130": 0.2,
+      "30142": 0.2,
+      "30166": 0.2,
+      "30176": 0.2,
+      "30799": 0.2,
+      "30801": 0.2,
+      "30802": 0.2,
+      "30803": 0.2
+    },
+    "tags": [
+      "meta:exit:go gangplank:previous in:29038,30142,30119,30176,30166,30130",
+      "enemy galleon",
+      "meta:morphing",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      7120001,
+      7120013,
+      7120025,
+      7120037,
+      7120049,
+      7120061,
+      7120073
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      804,
+      724,
+      819,
+      737
+    ]
+  }
+}

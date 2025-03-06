@@ -1,0 +1,38 @@
+{
+  "checksum": "6cdce1433d5c1ca3e2f6a5fac9121b26",
+  "room": {
+    "id": 5722,
+    "title": [
+      "[Sargassa's, Front Room]"
+    ],
+    "description": [
+      "This bright, sunny room smells strongly of dried herbs and flowers.  Long shelves hold rows of glaes-blown bottles and small wooden herb boxes.  A young half-elven girl whistles to herself as she busily stocks the shelves."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1446": "out",
+      "5723": "go door",
+      "30710": "/rooms/5722/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1446": 0.2,
+      "5723": 0.2,
+      "30710": "/rooms/5722/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "herbalist",
+      "urchin-access",
+      "urchin guide herbalist",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740011
+    ]
+  }
+}

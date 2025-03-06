@@ -1,0 +1,26 @@
+{
+  "checksum": "43fb1c96f7ed9a1c023be9e39962167d",
+  "room": {
+    "id": 29400,
+    "title": [
+      "[Carry On, Entry]"
+    ],
+    "description": [
+      "A thick, crimson rug stretches across the rough-hewn plank floor.  Bolted into the back wall is a polished brass rod, its contents held safely off the ground.  A trio of tall gold-framed mirrors occupy one corner, positioned at precise angles to allow for optimal preening.  A pair of eahnor-caged lanterns frame a polished oak door carved with dragonstalks, and a lacquered oak rack serves as the centerpiece for the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29399": "go door",
+      "29401": "west",
+      "29402": "east"
+    },
+    "timeto": {
+      "29399": 0.2,
+      "29401": 0.2,
+      "29402": 0.2
+    }
+  }
+}

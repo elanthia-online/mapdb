@@ -1,0 +1,46 @@
+{
+  "checksum": "8866f7242023ac2bc97396991da730e9",
+  "room": {
+    "id": 3662,
+    "title": [
+      "[Cobblestone Path]"
+    ],
+    "description": [
+      "The silvery moonlight subdues the colorful tile capping the whitewashed cottages along the cobblestone path, casting them into soft tones of grey.  A light layer of dew covers the wildflowers, which pour over the painted windowboxes, reflecting the glow of the candlelight in the windows.  A low mist clings to the ground, interrupted only by the cool breeze that sends it into wispy swirls.",
+      "The sunlight reflects off the colorfully tiled roofs, covering the whitewashed cottages along the cobblestone street.  Brightly painted windowboxes, overflowing with wildflowers, add to the rustic warmth of this small town.  The fresh smell of baked bread from somewhere nearby wafts on the cool breeze.",
+      "The silvery moonlight subdues the colorful tile capping the stucco shop set along the cobblestone path, casting it into soft tones of grey.  A light layer of dew covers the wildflowers which pour over the painted windowboxes reflecting the glow of the candlelight in the windows.  A low mist clings to the ground, interrupted only by the cool breeze that sends it into wispy swirls.",
+      "The sunlight reflects off the colorfully tiled roof, covering the stucco shop set along the cobblestone street.  Brightly painted windowboxes overflowing with wildflowers add to the rustic warmth of this small town.  The fresh smell of baked bread from somewhere nearby wafts on the cool breeze."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3655": "north",
+      "3663": "south",
+      "16323": "go shop"
+    },
+    "timeto": {
+      "3655": 0.2,
+      "3663": 0.2,
+      "16323": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201016
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2772,
+      1745,
+      2805,
+      1772
+    ]
+  }
+}

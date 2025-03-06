@@ -1,0 +1,35 @@
+{
+  "checksum": "762ad28b9b7dc1a0fccd669cf4321f10",
+  "room": {
+    "id": 32843,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Sounds of trickling water dance out from a carved stone waterfall placed between a golden velvet curtain embroidered with a crimson phoenix and a jade-inlaid ebonwood arch.  Light from a trio of frosted crystal globes casts a pale blanket over the rich ramie silk carpet that runs the length of the hallway.  The lamps send bits of luminous motes across the walls as their pale beams dance upon the water."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32841": "south",
+      "32842": "west",
+      "32844": "north",
+      "33165": "go velvet curtain"
+    },
+    "timeto": {
+      "32841": 0.2,
+      "32842": 0.2,
+      "32844": 0.2,
+      "33165": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053304
+    ]
+  }
+}

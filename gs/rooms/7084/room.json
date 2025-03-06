@@ -1,0 +1,44 @@
+{
+  "checksum": "8c642238c497045a7581886e2c766e41",
+  "room": {
+    "id": 7084,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A section of ceiling is crumbled all over the floor, and the northern wall is definitely leaning toward you.  There's a rather largish crack in the southern wall, with rats scurrying in and out.  The floor, what isn't covered by pieces of ceiling, looks decidedly uneven."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7082": "west",
+      "7085": "go crack",
+      "7086": "east"
+    },
+    "timeto": {
+      "7082": 0.2,
+      "7085": 0.2,
+      "7086": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44020
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      867,
+      896,
+      877,
+      906
+    ]
+  }
+}

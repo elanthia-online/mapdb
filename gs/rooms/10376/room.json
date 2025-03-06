@@ -1,0 +1,80 @@
+{
+  "checksum": "f711dcb485fc112cc76c8cb29f67dc03",
+  "room": {
+    "id": 10376,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "Rows of neatly-trimmed hedges line the walkway leading toward an ivory-walled building to the east, while a smaller domed structure is visible to the north.  Oak trees stretch their gnarled limbs across the sky, their large boughs filled with a healthy collection of verdant leaves.  Carved wooden benches beneath the trees bear ornate, looping designs across their richly-stained surfaces, and the buzz of daily life filters in faintly from beyond the courtyard."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "3535": "go gate",
+      "10377": "north",
+      "19809": "go building",
+      "30713": "/rooms/10376/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3535": 0.2,
+      "10377": 0.2,
+      "19809": "/rooms/10376/timeto/stringproc-19809.rb",
+      "30713": "/rooms/10376/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "clericguild",
+      "small daisy",
+      "urchin guide clericguild",
+      "urchin-access",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "mistweed",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "cleric guild",
+      "rye grass",
+      "meta:forage-sensed:day:2023-05"
+    ],
+    "uid": [
+      675001
+    ],
+    "image": "en-ta_vaalor_cleric_guild.png",
+    "image_coords": [
+      208,
+      931,
+      260,
+      983
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "f0e6559881cf233134c693465e3fea9f",
+  "room": {
+    "id": 7562,
+    "title": [
+      "[Town Well]"
+    ],
+    "description": [
+      "The old well is made of flat stones built up around a circular opening.  A slate roof overhangs the opening, keeping the drinking water clear and refreshing.  Several skin water buckets, with long ropes attached, are scattered on the hard-packed earth surrounding the well."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "moist",
+    "terrain": "hard, flat",
+    "wayto": {
+      "228": "south",
+      "7544": "climb stout rope",
+      "8666": "northeast",
+      "8668": "northwest"
+    },
+    "timeto": {
+      "228": 0.2,
+      "7544": 0.2,
+      "8666": 0.2,
+      "8668": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:teleport:fwi",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "no forageables"
+    ],
+    "uid": [
+      7122
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      277,
+      464,
+      313,
+      500
+    ]
+  }
+}

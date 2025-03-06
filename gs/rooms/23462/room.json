@@ -1,0 +1,26 @@
+{
+  "checksum": "958f84f567faf47559a224ce5c652d4b",
+  "room": {
+    "id": 23462,
+    "title": [
+      "[Sea Dogs Of War, Troops]"
+    ],
+    "description": [
+      "The tall, but cramped, musty room smells faintly of seaweed, fruit tarts, and rum.  A rigging line dangles from above, leading to a small crow's nest suspended by chains near the top of the room.  In one corner, among discarded bottles and jugs, is an enruned mithril chest, and in the opposite corner is a battered wooden coffer.  A small hatch has been cut into the side of the wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19107": "/rooms/23462/wayto/stringproc-19107.rb",
+      "23460": "go small hatch",
+      "23463": "go line"
+    },
+    "timeto": {
+      "19107": 0.2,
+      "23460": "/rooms/23462/timeto/stringproc-23460.rb",
+      "23463": 0.2
+    }
+  }
+}

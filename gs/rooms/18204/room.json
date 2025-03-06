@@ -1,0 +1,41 @@
+{
+  "checksum": "6b5bc99219f3299a68a5ce0e36e4cf73",
+  "room": {
+    "id": 18204,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Brilliant light dances upon everything here, and yet the light does not wash out the colors, but rather enhances them in a magical way.  Every plant and flower seems to be a bit larger and a bit healthier than anything you've ever seen.  Indeed, the longer you stay here, the better you feel.",
+      "Brilliant torchlight dances upon everything here, and yet the light does not wash out the colors, but rather enhances them in a magical way.  Every plant and flower seems to be a bit larger and a bit healthier than anything you've ever seen.  Indeed, the longer you stay here, the better you feel."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18203": "northeast",
+      "18205": "south"
+    },
+    "timeto": {
+      "18203": 0.2,
+      "18205": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312009
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      39,
+      144,
+      54,
+      159
+    ]
+  }
+}

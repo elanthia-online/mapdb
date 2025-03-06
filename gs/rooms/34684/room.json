@@ -1,0 +1,35 @@
+{
+  "checksum": "258ee79412171fa94a830b44f911b6f7",
+  "room": {
+    "id": 34684,
+    "title": [
+      "[Seline's Teahouse, Tea Room]"
+    ],
+    "description": [
+      "Veil-like curtains of black silk adorned with blossoms in deep violet hang over the arched entrance to the tea room, nearly concealing a small private nook.  Round tables of fine-grained wenge occupy the close chamber, the unoccupied ones arrayed with fine bone cups and plates, golden teaspoons, and napkins of amethyst silk.  Cerulean roses hanging over the patio wall outside dapple the carpeted floor with their gently swaying shadows.  Their shapes are murky through the smoked glass windows."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Sablecross",
+    "wayto": {
+      "34677": "west",
+      "34685": "go jade table",
+      "34686": "go nook",
+      "34687": "east",
+      "34688": "go midnight table",
+      "34689": "go shining table"
+    },
+    "timeto": {
+      "34677": 0.2,
+      "34685": 0.2,
+      "34686": 0.2,
+      "34687": 0.2,
+      "34688": 0.2,
+      "34689": 0.2
+    },
+    "uid": [
+      4572235
+    ]
+  }
+}

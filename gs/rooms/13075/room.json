@@ -1,0 +1,42 @@
+{
+  "checksum": "c3cfa506d54205be093fd0e0cc5a7284",
+  "room": {
+    "id": 13075,
+    "title": [
+      "[Forest, Crystal Path]"
+    ],
+    "description": [
+      "Snow-covered pine branches grow close along the path, sending shimmers of falling frost to the ground as you pass.  A wind chime of crystal prisms has been hung high in a tree, twinkling merrily as it rings softly and reflects shards of colorful light on the snow."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13074": "northwest",
+      "13076": "northeast"
+    },
+    "timeto": {
+      "13074": 0.2,
+      "13076": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      704153
+    ],
+    "image": "imt-homes-1264234799.png",
+    "image_coords": [
+      271,
+      1264,
+      291,
+      1284
+    ]
+  }
+}

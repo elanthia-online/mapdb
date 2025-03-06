@@ -1,0 +1,38 @@
+{
+  "checksum": "5b5f55a9d15a11629ea8be6524e0422e",
+  "room": {
+    "id": 18894,
+    "title": [
+      "[Summoning Chamber]"
+    ],
+    "description": [
+      "Total darkness engulfs this deathly cold room, yet the air feels charged with electricity.  At random intervals blue electricity crawls from the four walls to meet in the floor's center before disappearing.  In those moments the room is eerily illuminated, presenting obsidian surfaces polished to a mirror-like finish and with no apparent seams.  The constant magnified thump of a slow heartbeat is the chamber's only sound."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "18117": "/rooms/18894/wayto/stringproc-18117.rb",
+      "18118": "go wall"
+    },
+    "timeto": {
+      "18117": 0.3,
+      "18118": 0.2
+    },
+    "tags": [
+      "summoning chamber"
+    ],
+    "uid": [
+      661012
+    ],
+    "image": "wl-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      64,
+      480,
+      103,
+      518
+    ],
+    "check_location": false
+  }
+}

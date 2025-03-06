@@ -1,0 +1,40 @@
+{
+  "checksum": "e69a457f7fdbd819fdcea40679609dcc",
+  "room": {
+    "id": 18206,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Resplendent with a variety of coral, this part of the garden resembles a calm beach.  Lapping up onto the beach is a sea-water pool in the middle of which is a statue of Charl carved out of a large chunk of coral.  He appears to rise out of the water on a wave and with his trident raised, he is acting as the fierce protector of the seas."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18205": "north",
+      "18207": "south"
+    },
+    "timeto": {
+      "18205": 0.2,
+      "18207": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312007
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      39,
+      211,
+      53,
+      224
+    ]
+  }
+}

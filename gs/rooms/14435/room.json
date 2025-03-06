@@ -1,0 +1,35 @@
+{
+  "checksum": "c01438b72b2891c3e55fd659ce35d1a0",
+  "room": {
+    "id": 14435,
+    "title": [
+      "[Niima's Temple, Stairwell]"
+    ],
+    "description": [
+      "Enclosed limestone spiral stairs lead upward along this corner towards the top of the temple, inlaid with a centered pattern of frolicking dolphins.  A haon-linteled archway leads out to the garden."
+    ],
+    "paths": [
+      "Obvious exits: southeast, up"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "14366": "go archway",
+      "14433": "southeast",
+      "14438": "up"
+    },
+    "timeto": {
+      "14366": 0.2,
+      "14433": 0.2,
+      "14438": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900406
+    ]
+  }
+}

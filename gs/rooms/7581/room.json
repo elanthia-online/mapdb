@@ -1,0 +1,45 @@
+{
+  "checksum": "2d01a74086ee6d85160a378182d54402",
+  "room": {
+    "id": 7581,
+    "title": [
+      "[Dark Cavern, Tunnels]"
+    ],
+    "description": [
+      "The stone walls sparkle with veins of mineral deposits, glinting in the glow of the lichen.  Small insects scurry among the fallen rocks, running for cover as you startle them."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7577": "southeast",
+      "7582": "northeast"
+    },
+    "timeto": {
+      "7577": 0.2,
+      "7582": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47015
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      170,
+      1074,
+      180,
+      1084
+    ]
+  }
+}

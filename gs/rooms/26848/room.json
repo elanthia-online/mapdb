@@ -1,0 +1,40 @@
+{
+  "checksum": "86c67e9a875d15a75381c39a4857b4d8",
+  "room": {
+    "id": 26848,
+    "title": [
+      "[Bloodriven Village, Exterior]"
+    ],
+    "description": [
+      "A tall black iron gate stands as a lone entry beyond an uneven cobblestone wall that marks the border of the town, with a darkened bronze plaque set into the uneven mortar.  Sharpened tree trunks jut out of the top of the wall, providing some defense along an otherwise underwhelming line of protection.  Visible beyond the gate are rows of tall buildings with a mix of stone and metallic roofing, while the road itself is made up of uneven cobblestones."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Bloodriven Village",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "26847": "go gate",
+      "26903": "south"
+    },
+    "timeto": {
+      "26847": 0.2,
+      "26903": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8214504
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      691,
+      892,
+      721,
+      920
+    ],
+    "check_location": false
+  }
+}

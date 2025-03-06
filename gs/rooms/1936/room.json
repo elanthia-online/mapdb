@@ -1,0 +1,41 @@
+{
+  "checksum": "c1b65cd2160f0fff5de90fe07a1703f3",
+  "room": {
+    "id": 1936,
+    "title": [
+      "[Adventurers' Rest, Long Hall]"
+    ],
+    "description": [
+      "The crystallized walls sparkle in the moonlight filtering into this part of the passage.",
+      "The crystallized walls sparkle in the light filtering into this part of the passage."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1935": "west",
+      "1937": "east",
+      "14730": "go crystal archway",
+      "26937": "go ruby archway",
+      "35211": "go pearl archway"
+    },
+    "timeto": {
+      "1935": 0.2,
+      "1937": 0.2,
+      "14730": 0.2,
+      "26937": 0.2,
+      "35211": 0.2
+    },
+    "uid": [
+      3003250
+    ],
+    "image": "ti-adventurers_rest-1486448911.png",
+    "image_coords": [
+      762,
+      668,
+      908,
+      736
+    ]
+  }
+}

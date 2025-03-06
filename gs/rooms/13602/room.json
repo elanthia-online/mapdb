@@ -1,0 +1,30 @@
+{
+  "checksum": "18459858fa913185b24a6dccd2261957",
+  "room": {
+    "id": 13602,
+    "title": [
+      "[Anferis' Outfitting]",
+      "[Anferis' Weaponry]"
+    ],
+    "description": [
+      "The broad sweep of the wooden floor is interrupted by a worn rug.  Halfway to the wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A twisted dark metal rack and a twisted dark metal rack are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10461": "out",
+      "13689": "west",
+      "13690": "east"
+    },
+    "timeto": {
+      "10461": 0.2,
+      "13689": 0.2,
+      "13690": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

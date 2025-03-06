@@ -1,0 +1,46 @@
+{
+  "checksum": "ecbd64ee4bad57a8694493fdc912ed8f",
+  "room": {
+    "id": 2636,
+    "title": [
+      "[Breach, Cavern of Ages]"
+    ],
+    "description": [
+      "The chamber's walls are modulated with the same large recesses that pocket the walls of the chamber to the north.  Inside each, the red stone is polished to an indulgent surface that highlights the striations in the rock.  On the cavern's eastern wall however, something went horribly wrong.  The undulating niches are blasted into shambles around a central oval just behind a golden pedestal with a nebulous sphere hovering above it.  There, the rock appears to have melted, running down the cavern wall in eddies of molten stone."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Koar's Shrine",
+    "wayto": {
+      "2579": "/rooms/2636/wayto/stringproc-2579.rb",
+      "2635": "north",
+      "12093": "/rooms/2636/wayto/stringproc-12093.rb",
+      "12099": "go sphere",
+      "12118": "/rooms/2636/wayto/stringproc-12118.rb"
+    },
+    "timeto": {
+      "2579": 30,
+      "2635": 0.2,
+      "12093": 30,
+      "12099": 120,
+      "12118": 30
+    },
+    "tags": [
+      "node",
+      "murdroot",
+      "bur-clover root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4562036
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      139,
+      173,
+      149,
+      183
+    ]
+  }
+}

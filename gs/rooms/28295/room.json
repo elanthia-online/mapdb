@@ -1,0 +1,33 @@
+{
+  "checksum": "66e464248f68cac7cea226c9b83558ee",
+  "room": {
+    "id": 28295,
+    "title": [
+      "[Ta'Vaalor Hall, East Hallway]"
+    ],
+    "description": [
+      "Painted along the entire length of one wall is a large mural.  Covering the floor is a deep gold carpet that continues along the hallway to the far corner.  Against the far wall is a long ebonwood bar with a silver candelabra on it.  A golden oak door with a bronze knob is set into the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "28289": "south",
+      "28292": "southwest",
+      "28296": "go door"
+    },
+    "timeto": {
+      "28289": 0.2,
+      "28292": 0.2,
+      "28296": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      857006
+    ]
+  }
+}

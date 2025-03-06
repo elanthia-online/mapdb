@@ -1,0 +1,42 @@
+{
+  "checksum": "dc5c905f96f4bab8ba6c390ee161b8c3",
+  "room": {
+    "id": 25207,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "Cool, moist drafts flow in from the north every few moments, the soft currents lending a deep chill to the air.  A single lit torch flickers above, the flame casting wavering shadows upon the encroaching walls of the chamber.  Large stalactites loom overhead, the craggy rock formations releasing tiny droplets of water to collect in shallow pools within the bare, lifeless earth."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25206": "southwest",
+      "25208": "north"
+    },
+    "timeto": {
+      "25206": 0.2,
+      "25208": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900303
+    ]
+  }
+}

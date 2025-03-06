@@ -1,0 +1,42 @@
+{
+  "checksum": "8b50f369d7644d751a0b9de005719ac2",
+  "room": {
+    "id": 5907,
+    "title": [
+      "[Ta'Vaalor, Victory Gate]"
+    ],
+    "description": [
+      "The towering limestone facade of the Victory Gate is heavily carved with scenes of battle.  Hordes of elves fight faceless wraithen shapes, as flames rise from the ground and jagged, ripped clouds hang above.  Several city guardsmen stand near the gate, inspecting all who pass."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3516": "/rooms/5907/wayto/stringproc-3516.rb",
+      "5948": "southwest"
+    },
+    "timeto": {
+      "3516": 0.2,
+      "5948": 0.2
+    },
+    "tags": [
+      "advguard",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14100052
+    ],
+    "image": "en-victory-1264234799.png",
+    "image_coords": [
+      1126,
+      370,
+      1136,
+      380
+    ]
+  }
+}

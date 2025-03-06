@@ -1,0 +1,46 @@
+{
+  "checksum": "7c231588c4117cf4b6de5e5ddbff2e5f",
+  "room": {
+    "id": 13489,
+    "title": [
+      "[Solhaven, Abalone Street]"
+    ],
+    "description": [
+      "The crowd bustles with activity, shoppers entering and leaving a modest storefront where a large wooden boot hangs above the door.  A set of stairs to the right of the building lead up to a landing where a bright blue canvas slipper adorns the open door.  You are struck by the incongruence of all these races living together peacefully.  You can barely hear the sounds of the Market Square, carried inland on the ocean breeze."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "149": "north",
+      "1455": "west",
+      "1456": "east",
+      "9065": "go storefront",
+      "13490": "go stairs"
+    },
+    "timeto": {
+      "149": 0.2,
+      "1455": 0.2,
+      "1456": 0.2,
+      "9065": 0.2,
+      "13490": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209034
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1185,
+      576,
+      1209,
+      600
+    ]
+  }
+}

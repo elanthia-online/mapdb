@@ -1,0 +1,38 @@
+{
+  "checksum": "49da640801e21cb428f55656cf6b3a9a",
+  "room": {
+    "id": 18713,
+    "title": [
+      "[Krolvin Warship]"
+    ],
+    "description": [
+      "Faded green paint peels from the wooden housing protecting the rough, square-shaped hatch that leads below deck, by way of some wooden stairs.  Tepid water forms a small puddle in the hatch cover, which lies discarded against the hemp stays of the main mast."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "somewhere on the Great Western Sea",
+    "wayto": {
+      "18712": "go stairs",
+      "18714": "west",
+      "23591": "north",
+      "24325": "south"
+    },
+    "timeto": {
+      "18712": 0.2,
+      "18714": 0.2,
+      "23591": 0.2,
+      "24325": 0.2
+    },
+    "uid": [
+      4031010
+    ],
+    "image": "quest-troubled_waters.png",
+    "image_coords": [
+      340,
+      48,
+      361,
+      65
+    ]
+  }
+}

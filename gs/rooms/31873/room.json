@@ -1,0 +1,47 @@
+{
+  "checksum": "23aba77f75eb57cd2b629f777a4f21ca",
+  "room": {
+    "id": 31873,
+    "title": [
+      "[Iceblossom Glade]"
+    ],
+    "description": [
+      "A ring of fragrant, snow-covered cedars holds the rest of the woods at bay, forming a large glade with a path leading deep into the southerly woods.  Iceblossoms, vibrant winterberries, and bright yellow aconite brighten the area, and snow blankets a merry-go-round in the middle of the glade.  A few buildings can be reached through neatly cleared paths in the snow."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "snowy, arctic",
+    "terrain": "coniferous",
+    "wayto": {
+      "31872": "east",
+      "31874": "west",
+      "32182": "go vine-twisted minaret",
+      "32286": "go sturdy shack"
+    },
+    "timeto": {
+      "31872": 0.2,
+      "31874": 0.2,
+      "32182": 0.2,
+      "32286": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083084
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1205,
+      243,
+      1228,
+      265
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "0af07efb54a945ad8a12328215769294",
+  "room": {
+    "id": 8453,
+    "title": [
+      "[Upper Trollfang, Sentoph]"
+    ],
+    "description": [
+      "Wind whips through your hair, raising chilblains on your face, and anywhere else that's exposed to the air.  Frost is forming in the shadows of the rocks, leaving the footing icy and treacherous."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "8452": "northwest",
+      "8454": "northeast"
+    },
+    "timeto": {
+      "8452": 0.2,
+      "8454": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "ironfern root",
+      "meta:forage-sensed",
+      "deep purple shockroot",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16068
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      536,
+      690,
+      546,
+      700
+    ]
+  }
+}

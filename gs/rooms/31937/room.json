@@ -1,0 +1,50 @@
+{
+  "checksum": "72e98100e8a46ae324434789c24ef6a4",
+  "room": {
+    "id": 31937,
+    "title": [
+      "[Vigil's End, Ruins]"
+    ],
+    "description": [
+      "Toppled, vine-choked columns, crumbling ogee arches, and shattered limestone tiles serve as the last vestiges of an expansive, derelict structure.  Stone steps, pulverized to resemble a ribbed ramp, descend off the northern edge to a shallowly flooded path.  The glassy surface reflects the image of bare-boned trees hazed green with emerging buds, their gnarled roots obstacles to the waterlogged door tucked into the cracked base of the ruins."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "moist",
+    "terrain": "deciduous",
+    "wayto": {
+      "31935": "southeast",
+      "31938": "go waterlogged door",
+      "31939": "northwest"
+    },
+    "timeto": {
+      "31935": 0.2,
+      "31938": 0.2,
+      "31939": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "jagged boneset leaf",
+      "yellow sorrel sprig",
+      "orange-yellow chamomile",
+      "evermore rosehip",
+      "green gingko leaf",
+      "downy skullcap",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083098
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1089,
+      373,
+      1112,
+      393
+    ]
+  }
+}

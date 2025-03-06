@@ -1,0 +1,31 @@
+{
+  "checksum": "acba3312ebebba0d007c4f3911506e4e",
+  "room": {
+    "id": 23482,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "The waters of Darkstone Bay are cold!  Splashing around here gives you a good look at the water line of the Spitfire, as the winds slowly push it toward the mouth of the bay.  Seagulls call and wheel overhead."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the bay",
+    "wayto": {
+      "250": "go dock",
+      "19067": "swim southeast"
+    },
+    "timeto": {
+      "250": 0.2,
+      "19067": 2
+    },
+    "image": "fest-spitfire-1302895531.jpg",
+    "image_coords": [
+      379,
+      457,
+      414,
+      492
+    ]
+  }
+}

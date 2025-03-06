@@ -1,0 +1,51 @@
+{
+  "checksum": "8d4e7596e145a3549a7ced3a3369e5f7",
+  "room": {
+    "id": 8203,
+    "title": [
+      "[Sea Caverns, Crawl Space]"
+    ],
+    "description": [
+      "The rough-hewn stone walls have narrowed, becoming nothing more than a crawl space.  The darkness here is almost a palpable thing, making the thought of fresh air and sunlight difficult to imagine."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8202": "northwest",
+      "8204": "south"
+    },
+    "timeto": {
+      "8202": 0.2,
+      "8204": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "white hook mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391014
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      553,
+      156,
+      563,
+      166
+    ]
+  }
+}

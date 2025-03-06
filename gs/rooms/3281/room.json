@@ -1,0 +1,61 @@
+{
+  "checksum": "4164be2713c4e8b5ab43c0699610dee4",
+  "room": {
+    "id": 3281,
+    "title": [
+      "[Ice Plains, Hill Side]"
+    ],
+    "description": [
+      "Making your way along the ledge you catch yourself on a small boulder as you misstep and almost fall to the ground below.  The wind is bitter along this section of the path causing you to shiver and wish for a warm drink to soothe your chilled bones.  Just ahead you spy a path leading north into a large cavern."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "hilly",
+    "wayto": {
+      "3280": "west",
+      "3282": "east",
+      "3291": "go path"
+    },
+    "timeto": {
+      "3280": 0.2,
+      "3282": 0.2,
+      "3291": 0.2
+    },
+    "tags": [
+      "pale thornberry",
+      "winter rose",
+      "red winterberry",
+      "some pennyroyal stem",
+      "calamintha blossom",
+      "handful of snowberries",
+      "small loganberry",
+      "some angelica root",
+      "sassafras leaf",
+      "some arctic moss",
+      "sticks",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "arctic moss",
+      "snowberries",
+      "frostflower",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127026
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      470,
+      410,
+      480,
+      420
+    ]
+  }
+}

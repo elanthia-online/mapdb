@@ -1,0 +1,24 @@
+{
+  "checksum": "c54568befce6411843bfcf0df5f90298",
+  "room": {
+    "id": 24120,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "The air is musty and stale, combining with close quarters and low light to give an oppressive feel.  Faint scratching noises come from all around, accompanied by the nearly imperceptible sound of unidentifiable breathing.  A narrow ledge can be seen along the western wall."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24119": "south",
+      "24121": "jump"
+    },
+    "timeto": {
+      "24119": 0.2,
+      "24121": 0.2
+    }
+  }
+}

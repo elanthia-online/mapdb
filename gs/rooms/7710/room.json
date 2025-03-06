@@ -1,0 +1,52 @@
+{
+  "checksum": "0991f3f3999334bdc3175b1cfc46fffc",
+  "room": {
+    "id": 7710,
+    "title": [
+      "[Underground Ruin, Sub-Basement]"
+    ],
+    "description": [
+      "A few scattered bits of broken lumber surround a small trapdoor in the south wall, its surface scarred with raking claw marks and dark stains.  The room is littered with fallen beams leaning awkwardly against the walls and various other broken remnants of the prior inhabitants."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7709": "east",
+      "7711": "go trapdoor"
+    },
+    "timeto": {
+      "7709": 0.2,
+      "7711": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2163605
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      353,
+      1232,
+      363,
+      1242
+    ]
+  }
+}

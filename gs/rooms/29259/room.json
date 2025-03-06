@@ -1,0 +1,24 @@
+{
+  "checksum": "b901b44dfbd501395d7142f5531d60bb",
+  "room": {
+    "id": 29259,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Partially corroded, a rusty bucket echoes loudly as water strikes its bottom before gushing out one of many holes.  Many of the area candles have been snuffed out, the hollows around their wicks immersed in accumulating saltwater."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29258": "north",
+      "29260": "south"
+    },
+    "timeto": {
+      "29258": 0.2,
+      "29260": 0.2
+    }
+  }
+}

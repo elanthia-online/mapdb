@@ -1,0 +1,46 @@
+{
+  "checksum": "be9a67b269358be4b98d200721f13e60",
+  "room": {
+    "id": 6592,
+    "title": [
+      "[Anwyn Castle Yard]"
+    ],
+    "description": [
+      "Wisps of cold fog drift across the yard in an eerie dance.  A sparse, wiry turf braves the frigid climes, covering the expansive area between the outer curtain wall and the castle itself.  Near the wall, stones lie jumbled on the ground, dislodged from the battlements above by time, wind and weather."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, west"
+    ],
+    "location": "Castle Anwyn",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6558": "southeast",
+      "6559": "east",
+      "6589": "west",
+      "6595": "go stable",
+      "6596": "northeast"
+    },
+    "timeto": {
+      "6558": 0.2,
+      "6559": 0.2,
+      "6589": 0.2,
+      "6595": 0.2,
+      "6596": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285005
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1212,
+      733,
+      1222,
+      743
+    ]
+  }
+}

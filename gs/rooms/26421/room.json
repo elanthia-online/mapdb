@@ -1,0 +1,38 @@
+{
+  "checksum": "bec65e139775c99c543ef29447fc42b3",
+  "room": {
+    "id": 26421,
+    "title": [
+      "[Caligos Island, Pier]",
+      "[Caligos Isle, Pier]"
+    ],
+    "description": [
+      "The sturdy pier stands ready to accomodate visitors arriving from, or embarking to, the mainland.  Resting on raised pillars anchored firmly in the substrate below, the terminal end stretches far enough off shore to reach deep water at low tide.  A small grey shanty with pristine white trim is affixed near the stairs, held fast with heavy linked chains."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Damsel of the Deep",
+    "wayto": {
+      "20359": "go schooner",
+      "26419": "south",
+      "26422": "go stairway",
+      "27486": "go rough stall",
+      "27487": "go ladder"
+    },
+    "timeto": {
+      "20359": 0.2,
+      "26419": 0.2,
+      "26422": 0.2,
+      "27486": 0.2,
+      "27487": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      297,
+      747,
+      310,
+      761
+    ]
+  }
+}

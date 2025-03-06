@@ -1,0 +1,60 @@
+{
+  "checksum": "4488a7c7f363a2dd7bcc4c74da6a943c",
+  "room": {
+    "id": 12169,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The fog parts revealing a pitch black area.  Blackness wraps around you like a velvety greatcloak as you step tenatively into the dark.  A slithering hiss surrounds you, circling you several times before retreating into the heavy silence and darkness."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast",
+      "Obvious exits: northeast, east, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12169/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12169/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12169/wayto/stringproc-12093.rb",
+      "12100": "east",
+      "12168": "northeast",
+      "12171": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12100": 0.2,
+      "12168": 0.2,
+      "12171": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567034
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1003,
+      699,
+      1011,
+      707
+    ]
+  }
+}

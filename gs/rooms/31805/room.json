@@ -1,0 +1,38 @@
+{
+  "checksum": "9b85b57cf0d4876d93aefc3edacbcf35",
+  "room": {
+    "id": 31805,
+    "title": [
+      "[Third Floor, East]"
+    ],
+    "description": [
+      "The emerald-colored walls peel across the scratch marks on either side of a pine-framed curving archway, the haphazard slashes continuing along the narrow wooden door blending into the lasimor framework of the enclosure.  Stone-hewn nests adorn the railings of the wrought iron staircase, the marble cradles filled with ivoried bones fused with dark cloisonne.  A spiral wrought iron ladder leans across a parchment-filled wall, the anatomical sketchings highlighted in vivid scarlet ink."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31646": "west",
+      "31806": "go ladder",
+      "31807": "go staircase",
+      "31808": "go door",
+      "31809": "go archway"
+    },
+    "timeto": {
+      "31646": 0.2,
+      "31806": 0.2,
+      "31807": 0.2,
+      "31808": 0.2,
+      "31809": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084040
+    ]
+  }
+}

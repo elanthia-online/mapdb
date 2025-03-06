@@ -1,0 +1,38 @@
+{
+  "checksum": "a2506e37bf90154688f9b982e0273a1a",
+  "room": {
+    "id": 19796,
+    "title": [
+      "[Cleric Guild, Annex]"
+    ],
+    "description": [
+      "An expansive mural rendered in bas-relief upon the limestone wall depicts scenes from the Ur-Daemon war.  The intermittent bell chimes echo throughout the annex, hardly muffled by the plush rug spanning the floor.  Fragrant incense wafts in from the adjoining alcoves."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southwest"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "19789": "southwest",
+      "19797": "east",
+      "19798": "northeast",
+      "19799": "north"
+    },
+    "timeto": {
+      "19789": 0.2,
+      "19797": 0.2,
+      "19798": 0.2,
+      "19799": 0.2
+    },
+    "uid": [
+      677004
+    ],
+    "image": "en-zul-logoth-cleric-guild.png",
+    "image_coords": [
+      224,
+      213,
+      272,
+      260
+    ]
+  }
+}

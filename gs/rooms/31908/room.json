@@ -1,0 +1,32 @@
+{
+  "checksum": "6b66abf9348e13340e5f5d990e5162c7",
+  "room": {
+    "id": 31908,
+    "title": [
+      "[The Gnome Depot, Entry]"
+    ],
+    "description": [
+      "Framed and hung from the dirt-packed walls are several elaborately drawn illustrations of various contraptions, their faded and smudged water-damaged lines reinforced with newer blue ink.  The wooden floor creaks with the slightest movement, tainting the hypnotic sound of the gears moving in perfect cadence within the large haon clock against the back wall.  Directly across from an elaborate system of roots stands a neatly stocked spacious cabinet."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31878": "go roots",
+      "31909": "north"
+    },
+    "timeto": {
+      "31878": 0.2,
+      "31909": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084561
+    ]
+  }
+}

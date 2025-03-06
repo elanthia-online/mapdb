@@ -1,0 +1,47 @@
+{
+  "checksum": "295ee8f6fca4212bebcbe34581bd593c",
+  "room": {
+    "id": 2363,
+    "title": [
+      "[Sorcerer Guild, Entrance]"
+    ],
+    "description": [
+      "Heavy fog swirls in this entrance area but does not seem to pass through the silver gate.  Sharp ivory mammoth tusks protrude outward from the top of a tall, rough-hewn ironwood fence enclosing the compound."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the town of Icemule Trace",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2362": "south",
+      "18958": "go gate",
+      "30709": "/rooms/2363/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2362": 0.2,
+      "18958": "/rooms/2363/timeto/stringproc-18958.rb",
+      "30709": "/rooms/2363/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "sorcererguild",
+      "sorcerer guild",
+      "calmintha flower",
+      "urchin-access",
+      "urchin guide sorcererguild",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      660001
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      316,
+      289,
+      352,
+      325
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "18903fb868778247e6036ee1ece7019b",
+  "room": {
+    "id": 12089,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The path is flanked on both sides by black water, thick and sluggish with salt.  A tiny boat is beached on the shore, but the waves and tide still reach beyond its bow.  As the waves break around it, the dinghy rocks slightly and shifts in the swirling, bubbling sand.  Two people relax in the boat, a young man and woman, talking and laughing. While they sit, however, the boat lurches sickeningly and begins to take on water.  They look sad, and stare into each other's eyes as the sea claims them."
+    ],
+    "paths": [
+      "Obvious paths: northwest",
+      "Obvious exits: northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12089/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12089/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12089/wayto/stringproc-12093.rb",
+      "12112": "northwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12112": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567023
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      895,
+      672,
+      905,
+      682
+    ]
+  }
+}

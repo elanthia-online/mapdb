@@ -1,0 +1,42 @@
+{
+  "checksum": "73d862328e268829dfcdb541bea28529",
+  "room": {
+    "id": 30025,
+    "title": [
+      "[Eldurhaart, Bridge]"
+    ],
+    "description": [
+      "A wide stone bridge spans a distributary of the Issenflow.  Curved wooden posts arc over the span from either side, and lanterns hang from them to hold back the oppressive twilight.  Below the bridge, the water's flow is sluggish and laden with chunks of glinting ice."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30018": "south",
+      "30027": "north"
+    },
+    "timeto": {
+      "30018": 0.2,
+      "30027": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503346
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1225,
+      600,
+      1240,
+      614
+    ]
+  }
+}

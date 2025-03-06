@@ -1,0 +1,64 @@
+{
+  "checksum": "e2276d0dd4bc3ea2db34d5b4dbe6c635",
+  "room": {
+    "id": 9992,
+    "title": [
+      "[Yegharren Valley, Ravine]"
+    ],
+    "description": [
+      "The floor of the ravine is soft and muddy here, the runoff of soil from the moors high above piled twenty feet deep under your feet.  Jagged shards of stone protrude from the dirt, along with a few shards of weatherworn bone.  A narrow ledge extends from the rock wall a few feet above the present level of the ground, and the ground descends a dangerously slippery slope to the west."
+    ],
+    "paths": [
+      "Obvious paths: southeast, up"
+    ],
+    "location": "the Yegharren Plains",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "9991": "climb slope",
+      "9993": "up",
+      "9996": "southeast"
+    },
+    "timeto": {
+      "9991": 0.2,
+      "9993": 0.2,
+      "9996": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13036106
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1208,
+      665,
+      1218,
+      675
+    ]
+  }
+}

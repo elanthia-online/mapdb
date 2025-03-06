@@ -1,0 +1,41 @@
+{
+  "checksum": "13de06727a676efd707cc9ddb151b1b2",
+  "room": {
+    "id": 7984,
+    "title": [
+      "[House of Paupers, Inner Grounds]",
+      "[Paupers, Inner Grounds]"
+    ],
+    "description": [
+      "To either side of the carpeted walkway, you see rows of neatly clipped hedges and shady trees.  Vibrant roses in every imaginable hue surround you with their delicate, pleasing scent.  Nestled within the shelter of proud modwirs and softly swaying willow trees, the massive double doors beckon you to enter the House of Paupers and forget the hustle and bustle of the Landing just outside the gate."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7983": "go gate",
+      "7985": "go doors",
+      "22080": "go trellis"
+    },
+    "timeto": {
+      "7983": 0.2,
+      "7985": 0.2,
+      "22080": 0.2
+    },
+    "tags": [
+      "small rose",
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104901
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      130,
+      336,
+      214,
+      394
+    ]
+  }
+}

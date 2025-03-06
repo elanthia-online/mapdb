@@ -1,0 +1,41 @@
+{
+  "checksum": "df18cd7a1727851e06d647d53823afee",
+  "room": {
+    "id": 12405,
+    "title": [
+      "[Pig Puddle Lane, Alley]"
+    ],
+    "description": [
+      "The doorways here are all barred, and the dark windows are shuttered.  On one hovel's front stoop, several young human toughs glare at all passers-by.  Opposite them, a skinny brown mutt roots through one of the many overturned trash barrels which decorate the street."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12404": "west",
+      "12406": "east"
+    },
+    "timeto": {
+      "12404": 0.2,
+      "12406": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703315
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      713,
+      905,
+      731,
+      923
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "d1da7b672fe6cb6df62ff69a900fb4a6",
+  "room": {
+    "id": 30246,
+    "title": [
+      "[West Docks, Sunstone Pier]"
+    ],
+    "description": [
+      "Dark glaes strengths the water-roughened dock structure and its five piers.  Tall support posts of saltstained teak rise from the waters below and are wrapped with thick coils of rope.  Each docking slip is equipped with several buoys and a thick cork bumper.  A glaes-edged sign strung between thick strands of hemp railing reads, \"West Docks, Sunstone Pier - Slips 6-10,\" and has been inlaid with a brightly colored volcano mosaic."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30245": "west",
+      "30263": "east"
+    },
+    "timeto": {
+      "30245": 0.2,
+      "30263": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7123022
+    ]
+  }
+}

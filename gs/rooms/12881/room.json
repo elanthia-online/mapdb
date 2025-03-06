@@ -1,0 +1,28 @@
+{
+  "checksum": "679c8f4977214c69d26e952796c80d06",
+  "room": {
+    "id": 12881,
+    "title": [
+      "[Apple Orchard, Pressing Shed]"
+    ],
+    "description": [
+      "A shed crafted from rotting boards sits alone in a small clearing under the shade of a large apple tree.  A trio of ravens caw noisily from their nest among the shed's exposed roof beams."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12882": "north",
+      "12899": "south"
+    },
+    "timeto": {
+      "12882": 0.2,
+      "12899": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "cea6b539bbd95dbbf3b844baf3c65a27",
+  "room": {
+    "id": 10733,
+    "title": [
+      "[Plains of Bone, Virktoth's Path]"
+    ],
+    "description": [
+      "The stair continues to curve as it ascends to the southwest.  Lengths of rusted chain dangle from the railing like a curtain of iron.  Flecks of rust swirl away from the chains with the night breeze.",
+      "The stair continues to curve as it ascends to the southwest.  Lengths of rusted chain dangle from the railing like a curtain of iron.  Flecks of rust swirl away from the chains with the breeze."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "the Plains of Bone",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10732": "northeast",
+      "10734": "southwest"
+    },
+    "timeto": {
+      "10732": 0.2,
+      "10734": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14011027
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      448,
+      144,
+      457,
+      154
+    ]
+  }
+}

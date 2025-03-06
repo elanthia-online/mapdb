@@ -1,0 +1,30 @@
+{
+  "checksum": "4fdc0e25fc73a76cf74a53d9278530f8",
+  "room": {
+    "id": 13770,
+    "title": [
+      "[Avarice]"
+    ],
+    "description": [
+      "Beneath a platinum patterned ceiling, an illuminated parchment hangs on one of the imposing marble walls.  An elaborate white marble desk and a white marble altar sit in opposite corners while a plush red velvet carpet rests on a lacqured red oak floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9018": "out",
+      "13877": "south",
+      "13879": "north"
+    },
+    "timeto": {
+      "9018": 0.2,
+      "13877": 0.2,
+      "13879": 0.2
+    },
+    "tags": [
+      "gone",
+      "meta:playershop"
+    ]
+  }
+}

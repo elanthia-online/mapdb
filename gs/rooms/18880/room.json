@@ -1,0 +1,39 @@
+{
+  "checksum": "91fbe84169742ef155530dedfc57dfc1",
+  "room": {
+    "id": 18880,
+    "title": [
+      "[Twilight, East Tapestry Room]"
+    ],
+    "description": [
+      "This is a small antechamber that leads to the House Lockers.  An ornate tapestry takes up one entire wall, and there are several chairs scattered about the room."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18853": "west",
+      "23184": "go curtain",
+      "23185": "go opening"
+    },
+    "timeto": {
+      "18853": 0.2,
+      "23184": 0.2,
+      "23185": 0.2
+    },
+    "tags": [
+      "meta:che:Twilight Hall"
+    ],
+    "uid": [
+      108018
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      470,
+      835,
+      555,
+      891
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "checksum": "662b313d1e7ad7762f794617b06f0b3c",
+  "room": {
+    "id": 28183,
+    "title": [
+      "[Valley of Gold, Bazaar]"
+    ],
+    "description": [
+      "Scattered about the clearing are colorfully painted urns filled with bright blossoms.  Several carved stone benches are nestled into small alcoves created by the thick greenery that encircles the area.  Hanging from one of the tree branches high above are a series of windchimes crafted from lengths of copper."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "between Wehnimer's Landing and Zul Logoth",
+    "wayto": {
+      "28182": "south",
+      "28184": "go grey pavilion",
+      "28185": "go structure",
+      "28187": "northwest",
+      "28208": "go blackthorn pavilion"
+    },
+    "timeto": {
+      "28182": 0.2,
+      "28184": 0.2,
+      "28185": 0.2,
+      "28187": 0.2,
+      "28208": 0.2
+    },
+    "image": "fest-valley_of_gold-1561138415.png",
+    "image_coords": [
+      390,
+      171,
+      408,
+      189
+    ]
+  }
+}

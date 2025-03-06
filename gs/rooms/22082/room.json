@@ -1,0 +1,39 @@
+{
+  "checksum": "c49c3a090aaf3569c581cccbb9f11372",
+  "room": {
+    "id": 22082,
+    "title": [
+      "[Paupers, Upstairs Hall]"
+    ],
+    "description": [
+      "Sunlight streams through a small dormer window, bathing the hallway in a soft, golden light.  An unlit brass lamp hangs above the winding stairs.  A small, ale-stained, sisal rug covers the floor.  The pleasant smell of ale and the sound of clinking glasses comes from the west."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "22078": "west",
+      "22081": "go stairs",
+      "22085": "go door"
+    },
+    "timeto": {
+      "22078": 0.2,
+      "22081": 0.2,
+      "22085": 0.2
+    },
+    "tags": [
+      "meta:che:House of Paupers"
+    ],
+    "uid": [
+      104520
+    ],
+    "image": "wl-house_paupers.jpg",
+    "image_coords": [
+      285,
+      561,
+      367,
+      612
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "ba6d44b729194d9d46c0807cb290bb31",
+  "room": {
+    "id": 25428,
+    "title": [
+      "[Irregulars Barracks, Offices]"
+    ],
+    "description": [
+      "Several mismatched desks with high leather-backed chairs sit in the center of this small room, arranged to face each other.  A large leaded glass window on the south wall affords a view of the courtyard.  A tall modwir cabinet containing several drawers stands to the side of a large brass door."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "25424": "south",
+      "30493": "go brass door"
+    },
+    "timeto": {
+      "25424": 0.2,
+      "30493": 0.2
+    },
+    "uid": [
+      18005004
+    ]
+  }
+}

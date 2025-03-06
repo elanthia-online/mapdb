@@ -1,0 +1,27 @@
+{
+  "checksum": "ae5d0075bcc3d5ec7487b829c277b761",
+  "room": {
+    "id": 16546,
+    "title": [
+      "[The Garnet Moth]"
+    ],
+    "description": [
+      "Enclosed by glazed bamboo walls, the shop features a potted palm tree in the center of its bamboo floor.  A painted native mask hangs under the skylight-set ceiling.  Right near the front is a long mistwood counter and an aqua-hued seaglass display."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16604": "south",
+      "16605": "north"
+    },
+    "timeto": {
+      "16604": 0.2,
+      "16605": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

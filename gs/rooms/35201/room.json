@@ -1,0 +1,32 @@
+{
+  "checksum": "fe7c4369d6b5089aec765024100ad000",
+  "room": {
+    "id": 35201,
+    "title": [
+      "[Argent Aspis Annex]"
+    ],
+    "description": [
+      "Two huge toadstools in large stone pots illuminate a large, comfortable room.  Dusky brown granite benches line two of the marble walls, facing each other across the sapphire carpet.  Above one of the benches hangs a magnificent silver dragon standard.  On one wall, a brass arch allows exit to the corridor outside, while on the other wall a curtain provides entrance to the locker area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9497": "go brass arch",
+      "35202": "go curtain"
+    },
+    "timeto": {
+      "9497": 0.2,
+      "35202": 0.2
+    },
+    "tags": [
+      "meta:locker",
+      "annex:Argent",
+      "Aspis"
+    ],
+    "uid": [
+      13010141
+    ]
+  }
+}

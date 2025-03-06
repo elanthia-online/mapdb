@@ -1,0 +1,40 @@
+{
+  "checksum": "7bc7679bef26f0a8a9487de7cc356b86",
+  "room": {
+    "id": 32329,
+    "title": [
+      "[Moonsedge, Old Road]"
+    ],
+    "description": [
+      "A forest of elm and birch and pine closes in upon the road as it climbs away from the strath below toward a walled city in the hills.  Carved wooden poles etched with fanciful briar motifs hoist lanterns aloft, but the lights are dark and cold despite the late hour.  Weeds and moss cling to the cobblestones of the roadway as if it has seen too few visitors to keep the encroaching vegetation at bay."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32328": "go road",
+      "32330": "southwest"
+    },
+    "timeto": {
+      "32328": 0.2,
+      "32330": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4577001
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      911,
+      1200,
+      959,
+      1245
+    ]
+  }
+}

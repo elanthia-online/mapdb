@@ -1,0 +1,43 @@
+{
+  "checksum": "169a359f5cd92d163e1577595c4e0a36",
+  "room": {
+    "id": 31949,
+    "title": [
+      "[Vigil's End, Armistice Avenue]"
+    ],
+    "description": [
+      "Multihued banners embellished with various crests are proudly displayed beneath the eaves on the architectural hodgepodge of houses.  Adding to the pops of color that enliven the grey-cast street, planter boxes teem with muted blue vinca, sweet alyssum, and sanguine-stained coleus.  Wooden crates, washed blue and stamped with a silver oak, sit stacked beside the smeared, many-paned window of a squat shop set between prickly, leafless hawthorn trees."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31945": "east",
+      "31950": "go shop",
+      "31951": "west"
+    },
+    "timeto": {
+      "31945": 0.2,
+      "31950": 0.2,
+      "31951": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083103
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1244,
+      411,
+      1266,
+      433
+    ]
+  }
+}

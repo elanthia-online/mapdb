@@ -1,0 +1,29 @@
+{
+  "checksum": "21e18ec8ce455805666e0f357d824537",
+  "room": {
+    "id": 20447,
+    "title": [
+      "[Silversleeve's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12270": "out",
+      "20480": "northeast",
+      "20481": "north"
+    },
+    "timeto": {
+      "12270": 0.2,
+      "20480": 0.2,
+      "20481": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

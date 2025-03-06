@@ -1,0 +1,48 @@
+{
+  "checksum": "6f8e91e642568d02d28c8344fcaedbd0",
+  "room": {
+    "id": 2206,
+    "title": [
+      "[Eye of V'Tull, Inner Circle]"
+    ],
+    "description": [
+      "A sudden burst of steam blows from a nearby fissure, and you take a few cautious steps around it to avoid the scorching heat."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2205": "southeast",
+      "2207": "northwest"
+    },
+    "timeto": {
+      "2205": 0.2,
+      "2207": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "flathead mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3061012
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      742,
+      789,
+      750,
+      797
+    ]
+  }
+}

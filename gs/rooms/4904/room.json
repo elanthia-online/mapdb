@@ -1,0 +1,40 @@
+{
+  "checksum": "98d7b673a5b254316e7c051f6032476a",
+  "room": {
+    "id": 4904,
+    "title": [
+      "[Gyldemar Forest, Chute]"
+    ],
+    "description": [
+      "The stone chute veers slightly to the east as it descends.  A low-hanging rock waits to ambush the unwary traveller.  Spiders continuously attempt to build webs across the chute, but are forced to begin anew with each traveller's passing."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Gyldemar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4903": "up",
+      "4905": "down"
+    },
+    "timeto": {
+      "4903": 0.2,
+      "4905": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030037
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      953,
+      64,
+      963,
+      74
+    ]
+  }
+}

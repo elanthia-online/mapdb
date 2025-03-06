@@ -1,0 +1,40 @@
+{
+  "checksum": "1459b7025f1c656d9523f561de346adf",
+  "room": {
+    "id": 19720,
+    "title": [
+      "[Cavernhold, Smelly Passage]"
+    ],
+    "description": [
+      "This passage carries the definite odor of animal dung."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19719": "north",
+      "19721": "south"
+    },
+    "timeto": {
+      "19719": 0.2,
+      "19721": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10056
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      406,
+      940,
+      419,
+      950
+    ]
+  }
+}

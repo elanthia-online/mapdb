@@ -1,0 +1,41 @@
+{
+  "checksum": "66d740b1600524abdacf1d004d988cc6",
+  "room": {
+    "id": 22212,
+    "title": [
+      "[Guardian Keep, East Hallway]"
+    ],
+    "description": [
+      "Sword aloft, a hulking Vaalor elf is remembered in statue at the end of the low-ceiling chamber.  Runners of golden and crimson velvet soften the tiled floors below, the hues reflecting in the burnished marble of the ceiling.  A lustrous mosaic-tiled arch gleams from the southern wall at the hallway's midpoint.  Near the corridor's end, the simple entrance to the armory and a swinging oak door heading into the kitchens stand opposite one another."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "22207": "west",
+      "22213": "go door",
+      "22214": "go arch",
+      "22215": "go armory"
+    },
+    "timeto": {
+      "22207": 0.2,
+      "22213": 0.2,
+      "22214": 0.2,
+      "22215": 0.2
+    },
+    "tags": [
+      "meta:citizenship:Ta'Vaalor"
+    ],
+    "uid": [
+      14119022
+    ],
+    "image": "en-ta_vaalor-1260914757.png",
+    "image_coords": [
+      1577,
+      673,
+      1617,
+      709
+    ]
+  }
+}

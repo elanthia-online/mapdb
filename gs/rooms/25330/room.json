@@ -1,0 +1,31 @@
+{
+  "checksum": "03a40aa659279dc6de79e4835b8fbb7e",
+  "room": {
+    "id": 25330,
+    "title": [
+      "[Lich's Landing, Specter Lane]"
+    ],
+    "description": [
+      "Rows and rows of dingy hovels and homes line the sides of the lane and a strong putrid scent weighs heavily in the air.  Zombies, ghouls and skeletons of all sizes move about the area, eternally locked in their master's undead theater."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25312": "west",
+      "26242": "go shop"
+    },
+    "timeto": {
+      "25312": 0.2,
+      "26242": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      930,
+      596,
+      957,
+      623
+    ]
+  }
+}

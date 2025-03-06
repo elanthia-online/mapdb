@@ -1,0 +1,41 @@
+{
+  "checksum": "f7b237d0e96091b8d08dc71ff971301d",
+  "room": {
+    "id": 7471,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The tunnel twists and turns, undulating through the surrounding rock.  The floor, walls and low ceiling are irregular but smooth, as if something had passed this way many times to wear away any jagged edges.  The dim green light given off by patches of glowing lichen shrouds the tunnel in odd shadows that dance and waver before your eyes."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7470": "/rooms/7471/wayto/stringproc-7470.rb",
+      "7472": "/rooms/7471/wayto/stringproc-7472.rb",
+      "7474": "/rooms/7471/wayto/stringproc-7474.rb"
+    },
+    "timeto": {
+      "7470": 0.2,
+      "7472": 0.2,
+      "7474": 0.2
+    },
+    "tags": [
+      "some blackened moss",
+      "some glowing green lichen",
+      "magru"
+    ],
+    "uid": [
+      94014
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      914,
+      959,
+      926,
+      971
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "63670020000decb7116797fcfe22a3fd",
+  "room": {
+    "id": 34442,
+    "title": [
+      "[Oleander House, Scullery]"
+    ],
+    "description": [
+      "Small and compact, the scullery is surrounded by tidy shelves and marble counters with birdseye maple cupboards beneath.  Forested globes are housed beneath the lowest of the shelves, illuminating a cutting board, soapstone basin, and a series of stove-topped ovens.  A bright white door in the northern wall leads outside."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Oleander House, inside the city of Vornavis Proper",
+    "wayto": {
+      "34441": "south",
+      "34443": "go white door"
+    },
+    "timeto": {
+      "34441": 0.2,
+      "34443": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022028
+    ]
+  }
+}

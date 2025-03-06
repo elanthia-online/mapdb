@@ -1,0 +1,32 @@
+{
+  "checksum": "e4e79338415d66b18082de2183e03ac6",
+  "room": {
+    "id": 16404,
+    "title": [
+      "[Lighthouse, Gift Shop]"
+    ],
+    "description": [
+      "Delicate curtains frame the large windows, allowing only small rays of light into the store.  Vibrantly colored hand-sewn quilts adorn the white walls giving the room warmth while the plush blue carpet keeps the sound of clattering footsteps down to a minimum.  A wooden toy chest is pushed under an ivory table which has a wicker basket perched on it.  A velvet-lined box is carelessly propped against the open door."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16403": "go door",
+      "30718": "/rooms/16404/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "16403": 0.2,
+      "30718": "/rooms/16404/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide lighthouse",
+      "lighthouse"
+    ],
+    "uid": [
+      3204011
+    ]
+  }
+}

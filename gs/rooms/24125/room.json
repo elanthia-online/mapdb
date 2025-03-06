@@ -1,0 +1,24 @@
+{
+  "checksum": "3c566a2977fa11d4924c147e0d032820",
+  "room": {
+    "id": 24125,
+    "title": [
+      "[Necropolis, Dark Passages]"
+    ],
+    "description": [
+      "Wet, mashed bits of entrails glisten in the torchlight along the corridor's stone floor.  Congealing trails of blood lead southward.  A narrow ledge can be seen along the western wall."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24122": "south",
+      "24126": "jump"
+    },
+    "timeto": {
+      "24122": 0.2,
+      "24126": 0.2
+    }
+  }
+}

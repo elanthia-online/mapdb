@@ -1,0 +1,50 @@
+{
+  "checksum": "e6e85df7eb043f56299ef10c499cc501",
+  "room": {
+    "id": 10137,
+    "title": [
+      "[Fethayl Bog, Caretaker's Hovel]"
+    ],
+    "description": [
+      "A gnarled, dead oak tree looms to the east, overshadowing a small dilapidated hovel.  Sitting lopsided amongst the marshy swamp, the hovel is overgrown with moss clinging tightly to the walls.  A small, marble bench sits on a lone patch of dry ground, just in front of the hovel."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Fethayl Bog",
+    "climate": "saltwater",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "10136": "west",
+      "10155": "go hovel"
+    },
+    "timeto": {
+      "10136": 0.2,
+      "10155": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "saltmeadow cordgrass",
+      "blades of cordgrass",
+      "blue-green marshgrass",
+      "feathery mannagrass",
+      "yellowed salt reedgrass",
+      "meta:forage-sensed:day:2023-11",
+      "broken twig",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13038011
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      1257,
+      350,
+      1267,
+      360
+    ]
+  }
+}

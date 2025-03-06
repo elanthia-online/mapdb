@@ -1,0 +1,70 @@
+{
+  "checksum": "0b675960ce89b3b5fbcdadbc30222740",
+  "room": {
+    "id": 12308,
+    "title": [
+      "[Boreas Meadows, Levantera Road]"
+    ],
+    "description": [
+      "A lone wildflower pokes its head up through the cobbles, surviving despite the traffic along the street, while the long grass lining the street sways gently in the breeze.  A dusty dirt road leads away from the cobblestone street off into another part of the meadow.",
+      "A lone wildflower pokes its head up through the cobbles, its normally bright color washed out by the moonlight.  The sound of crickets can be heard from the long grass lining the street.  A dusty dirt road leads away from the cobblestone street off into another part of the meadow."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Mist Harbor",
+    "climate": "temperate",
+    "terrain": "grassland",
+    "wayto": {
+      "12307": "east",
+      "12339": "north",
+      "12340": "west",
+      "16153": "/rooms/12308/wayto/stringproc-16153.rb"
+    },
+    "timeto": {
+      "12307": 0.2,
+      "12339": 0.2,
+      "12340": 0.2,
+      "16153": 3.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "luckbloom blossom",
+      "acantha leaf",
+      "rose-marrow root",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "sunburst blossom",
+      "brostheras grass",
+      "dill",
+      "tobacco leaves",
+      "zucchini",
+      "fresh broccoli",
+      "yellow squash",
+      "purple cabbage",
+      "green cabbage",
+      "garlic",
+      "fresh lemongrass",
+      "stalk of celery",
+      "meta:forage-sensed",
+      "sweet potato",
+      "red onion",
+      "sweet onion",
+      "curly garlic scapes",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      711002
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      3303,
+      633,
+      3316,
+      645
+    ]
+  }
+}

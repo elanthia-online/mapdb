@@ -1,0 +1,41 @@
+{
+  "checksum": "c118e1753b8bd4993167d39428155586",
+  "room": {
+    "id": 11937,
+    "title": [
+      "[Old Ta'Faendryl, Colossus Arm]"
+    ],
+    "description": [
+      "Widely ridged trenches form the draped folds of the sleeve that covers the arm of the colossus up to the elbow.  The arm stretches out, slightly above the head of the gargantuan warrior, coming to an end at a mighty stone hand.  The fingers of the hand are wrapped in a tight grip around the width of a spear that runs along the length of the statues' body and out over the water.  The very tip of the spear rests on the eastern bank of the river."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11936": "go spear",
+      "11938": "west"
+    },
+    "timeto": {
+      "11936": 0.2,
+      "11938": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004143
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      554,
+      598,
+      564,
+      608
+    ]
+  }
+}

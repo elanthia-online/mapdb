@@ -1,0 +1,43 @@
+{
+  "checksum": "2d6295c6332010b46f181903bd7f1746",
+  "room": {
+    "id": 25704,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Hugging the curving lines of the verdant island, the foam-capped waves vie with one another as they attempt to claim the glittering beaches.  High above, puffy clouds are gently pushed through the star-spangled sky by the light zephyr that moves through the area."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25703": "/rooms/25704/wayto/stringproc-25703.rb",
+      "25705": "/rooms/25704/wayto/stringproc-25705.rb",
+      "25785": "/rooms/25704/wayto/stringproc-25785.rb",
+      "25810": "/rooms/25704/wayto/stringproc-25810.rb"
+    },
+    "timeto": {
+      "25703": 6,
+      "25705": 6,
+      "25785": 6,
+      "25810": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223868
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1761,
+      1760,
+      1781,
+      1778
+    ]
+  }
+}

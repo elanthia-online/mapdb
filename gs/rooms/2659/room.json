@@ -1,0 +1,42 @@
+{
+  "checksum": "42974eb5cfd1772dfea0be22a8d814c4",
+  "room": {
+    "id": 2659,
+    "title": [
+      "[Platform of Ice]"
+    ],
+    "description": [
+      "To the northwest, a flight of steps leads up, so icy that climbing their hazardous incline seems an impossible feat.  Above the course of steps, a dais is visible below a ridge.  Strange flickers of reflected light bounce off the icy walls above and around the dais, as if the low light were rebounding off water.  To the south, the huge, sculpted mountain of ice exudes a constant wave of brutal cold, as if it was exhaling the wilderness of rime encasing the ancient edifice."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "Koar's Shrine",
+    "wayto": {
+      "2658": "climb steps",
+      "2660": "west",
+      "2668": "south",
+      "2669": "northeast"
+    },
+    "timeto": {
+      "2658": 0.2,
+      "2660": 0.2,
+      "2668": 0.2,
+      "2669": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4562015
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      390,
+      513,
+      400,
+      523
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "8361aea6db4013e0c272e0c2e276a3c6",
+  "room": {
+    "id": 25765,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Jutting out from the main body of the island, the peninsula is surrounded by round rocks worn smooth by the constant attention of the tide.  Fierce and demanding, the surf hammers the thin arm of land, and in some cases, rushes over it to the other side."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25764": "/rooms/25765/wayto/stringproc-25764.rb",
+      "25766": "/rooms/25765/wayto/stringproc-25766.rb"
+    },
+    "timeto": {
+      "25764": 6,
+      "25766": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223826
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1680,
+      1200,
+      1701,
+      1219
+    ]
+  }
+}

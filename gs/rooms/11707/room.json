@@ -1,0 +1,62 @@
+{
+  "checksum": "e68f5145671760014674c27119057c64",
+  "room": {
+    "id": 11707,
+    "title": [
+      "[Marsh Keep, East Wall]"
+    ],
+    "description": [
+      "Ending abruptly to the south, the wall continues to the north toward the end of the eastern side of the fortification.  The narrow pathway continues along the same basic direction, skirting away from the wall where the earth has given way to a gaping hole in the ground.  Footprints, none of them from the civilized races, lead in and out of the hole and down into the nearby fens."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Marsh Keep",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11706": "north",
+      "11708": "south",
+      "11743": "go hole"
+    },
+    "timeto": {
+      "11706": 0.2,
+      "11708": 0.2,
+      "11743": 0.2
+    },
+    "tags": [
+      "cuctucae berry",
+      "wild chokecherry",
+      "sassafras leaf",
+      "bright red cranberry",
+      "sweetfern stalk",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "withered black mushroom",
+      "stalk of chicory",
+      "small wild rose",
+      "mistweed",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      376023
+    ],
+    "image": "rr-marsh_keep-1266356986.png",
+    "image_coords": [
+      1135,
+      586,
+      1145,
+      596
+    ]
+  }
+}

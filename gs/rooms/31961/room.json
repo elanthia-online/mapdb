@@ -1,0 +1,45 @@
+{
+  "checksum": "c8844aab4c3bf9c0dd6a7b6b1e607a09",
+  "room": {
+    "id": 31961,
+    "title": [
+      "[Vigil's End, Legion Lane]"
+    ],
+    "description": [
+      "Smoke lingers in the air, thinly veiling clusters of charred homes with a grey haze.  Splintered wood boards up the windows, pale yellow light escaping from the cracks.  Threadbare banners adorn the eaves of a long slate-roofed house with a stone facade peaked by stepped gables.  Laden with decomposing burlap sacks, a toppled rickety cart sprawls before the porch, scattering rotten apricots across the mud-swept cobblestones."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31960": "east",
+      "31962": "west",
+      "33951": "go slate-roofed house",
+      "34860": "go rickety cart"
+    },
+    "timeto": {
+      "31960": 0.2,
+      "31962": 0.2,
+      "33951": 0.2,
+      "34860": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083092
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1166,
+      334,
+      1189,
+      357
+    ]
+  }
+}

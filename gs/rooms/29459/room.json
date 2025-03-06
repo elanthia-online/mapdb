@@ -1,0 +1,33 @@
+{
+  "checksum": "d0b636609a348d8c1236c417b49504ad",
+  "room": {
+    "id": 29459,
+    "title": [
+      "[Chamorr's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by ribbed black willow walls, the shop features a claw-footed brazier in the center of its marble floor.  A painted silk wall panel hangs under the vaulted ceiling.  Right near the front is a narrow glass-topped table."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "365": "out",
+      "29462": "east",
+      "29463": "north"
+    },
+    "timeto": {
+      "365": 0.2,
+      "29462": 0.2,
+      "29463": 0.2
+    },
+    "tags": [
+      "private property",
+      "meta:playershop"
+    ],
+    "uid": [
+      638281
+    ]
+  }
+}

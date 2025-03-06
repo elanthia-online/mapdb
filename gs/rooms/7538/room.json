@@ -1,0 +1,51 @@
+{
+  "checksum": "c6e1b59f7420621c5d5eba73f197b633",
+  "room": {
+    "id": 7538,
+    "title": [
+      "[Catacombs, Upward Tunnel]"
+    ],
+    "description": [
+      "This chamber seems artificial in some way you can't quite place.  The walls are still smooth, but the whole room is shaped like a teardrop laid sideways, narrowing to a small opening at its eastern end.  In the middle of the western wall is a very small, gothic-style wooden plank door with a brass sign on it."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7537": "east",
+      "7563": "go wooden door"
+    },
+    "timeto": {
+      "7537": 0.2,
+      "7563": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46033
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      394,
+      1341,
+      404,
+      1351
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "60922ff5aae02af207f0d0794ef89b3c",
+  "room": {
+    "id": 11471,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "The sandy bay floor is crisscrossed with the tracks of marine life...crabs, lobsters, sea slugs, bay roaches.  A hazy spray of silt is suspended in the water, carried slowly eastward by the gentle current.  A pair of sea fans, like the ears of an elephant, grows out of the golden sand of the bay floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, south, southwest, west, northwest, up"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11464": "/rooms/11471/wayto/stringproc-11464.rb",
+      "11467": "/rooms/11471/wayto/stringproc-11467.rb",
+      "11468": "/rooms/11471/wayto/stringproc-11468.rb",
+      "11470": "/rooms/11471/wayto/stringproc-11470.rb",
+      "11472": "/rooms/11471/wayto/stringproc-11472.rb",
+      "11473": "/rooms/11471/wayto/stringproc-11473.rb",
+      "11474": "/rooms/11471/wayto/stringproc-11474.rb",
+      "11477": "/rooms/11471/wayto/stringproc-11477.rb"
+    },
+    "timeto": {
+      "11464": 2,
+      "11467": 2,
+      "11468": 2,
+      "11470": 2,
+      "11472": 3,
+      "11473": 2,
+      "11474": 2,
+      "11477": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304227
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      949,
+      1207,
+      959,
+      1217
+    ]
+  }
+}

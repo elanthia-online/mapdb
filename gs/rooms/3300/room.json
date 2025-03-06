@@ -1,0 +1,42 @@
+{
+  "checksum": "3ba707025229ab91f302abc6f8a4b717",
+  "room": {
+    "id": 3300,
+    "title": [
+      "[Ice Plains, Master Quarters]"
+    ],
+    "description": [
+      "A crackling fire greets you as you wander into a large room filled with crates of dried meats and kegs of some unknown liquid.  A small table is set just on the far side of the fire with a cloth covering and several chair around it.  A second table on this side of the fire has no chairs but has an odd knife and small bowls of oregano and dillweed arranged on it."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3299": "north",
+      "3301": "northeast",
+      "3302": "go arch",
+      "3303": "south"
+    },
+    "timeto": {
+      "3299": 0.2,
+      "3301": 0.2,
+      "3302": 0.2,
+      "3303": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4127043
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      603,
+      326,
+      613,
+      336
+    ]
+  }
+}

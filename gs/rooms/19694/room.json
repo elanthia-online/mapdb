@@ -1,0 +1,40 @@
+{
+  "checksum": "58bff2181ace96eee2738668e4a27768",
+  "room": {
+    "id": 19694,
+    "title": [
+      "[Cavernhold, Jewelworks]"
+    ],
+    "description": [
+      "Seven large workbenches nearly fill this chamber.  Attached to each bench is a small forge and on every work surface can be seen the tools necessary for the creation of jewelry."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19668": "south",
+      "19677": "northeast"
+    },
+    "timeto": {
+      "19668": 0.2,
+      "19677": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10036
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      872,
+      773,
+      882,
+      784
+    ]
+  }
+}

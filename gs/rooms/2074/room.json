@@ -1,0 +1,68 @@
+{
+  "checksum": "b96e164174f4daf4505299e66e1af493",
+  "room": {
+    "id": 2074,
+    "title": [
+      "[Teras Isle, Fhorian Village]"
+    ],
+    "description": [
+      "As you wander through the ruins of what was once a thriving village, you are suddenly stricken by the overpowering silence.  There are no crickets singing, no squirrels chittering, not even any mice scurrying into the darkness.  Even though enough time has passed since the fire to allow vines and small bushes to choke the paths between the burned out buildings, all other life appears to have vanished without a trace.",
+      "As you wander through the ruins of what was once a thriving village, you are suddenly stricken by the overpowering silence.  There are no birds singing, no squirrels chittering, not even any mice scurrying into the shadows.  Even though enough time has passed since the fire to allow vines and small bushes to choke the paths between the burned out buildings, all other life appears to have vanished without a trace."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2072": "southeast",
+      "2073": "east",
+      "12652": "northeast",
+      "12656": "go shed"
+    },
+    "timeto": {
+      "2072": 0.2,
+      "2073": 0.2,
+      "12652": 0.2,
+      "12656": 0.2
+    },
+    "tags": [
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "pothinir grass",
+      "withered black mushroom",
+      "stalk of chicory",
+      "stalk of goldenrod",
+      "small wild rose",
+      "motherwort",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "green guava",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3030207
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      365,
+      1153,
+      375,
+      1163
+    ]
+  }
+}

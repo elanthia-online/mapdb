@@ -1,0 +1,29 @@
+{
+  "checksum": "300a20b101868a33d6cccda438d514e5",
+  "room": {
+    "id": 17524,
+    "title": [
+      "[Agec's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  An oversized sea chest sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12266": "out",
+      "17562": "west",
+      "17563": "east"
+    },
+    "timeto": {
+      "12266": 0.2,
+      "17562": 0.2,
+      "17563": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

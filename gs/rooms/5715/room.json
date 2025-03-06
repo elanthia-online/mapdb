@@ -1,0 +1,33 @@
+{
+  "checksum": "2ad4700e69bb3e8db401d9e0131a6061",
+  "room": {
+    "id": 5715,
+    "title": [
+      "[Solhaven Inn, Taproom]"
+    ],
+    "description": [
+      "A highly polished modwir bar runs the length of the room with several stools in front of it.  Brass and crystal wall sconces lend some light to the otherwise dim room.  The wall behind the bar is mirrored, which reflects the myriad bottles of every shape, size, and color that are on the shelf in front of it."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5713": "northeast",
+      "5716": "north"
+    },
+    "timeto": {
+      "5713": 0.2,
+      "5716": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740022
+    ]
+  }
+}

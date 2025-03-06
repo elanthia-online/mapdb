@@ -1,0 +1,39 @@
+{
+  "checksum": "03942c9f61da790f1fea06c3451e814a",
+  "room": {
+    "id": 2989,
+    "title": [
+      "[Abbey, Kitchen]"
+    ],
+    "description": [
+      "A large granite fireplace occupies most of the northern wall.  Suspended within on a spit is a roasted deer that has been roasted to perfection.  Clinging to the carved granite inner wall, three broad stone steps lead downward towards the buttery, while an archway to the south leads into the abbey's pantry.  Laden heavily with fresh herbs, a great stone table stands squarely in the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: south, up, out",
+      "Obvious exits: south, down"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2988": "south",
+      "2990": "down"
+    },
+    "timeto": {
+      "2988": 0.2,
+      "2990": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132022
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      491,
+      194,
+      543,
+      248
+    ]
+  }
+}

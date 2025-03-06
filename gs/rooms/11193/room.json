@@ -1,0 +1,42 @@
+{
+  "checksum": "5400b4327aa35391405618dca89f3a55",
+  "room": {
+    "id": 11193,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "A glass display case lies overturned, and broken glass covers the floor, along with several dark stains and skeletons.  A porcupine comes to mind as you glance at one troll skeleton, filled with more arrows than most quivers would ever see."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11192": "south",
+      "11194": "west",
+      "16065": "north",
+      "32683": "east"
+    },
+    "timeto": {
+      "11192": 0.2,
+      "11194": 0.2,
+      "16065": 0.2,
+      "32683": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100037
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      571,
+      192,
+      581,
+      202
+    ]
+  }
+}

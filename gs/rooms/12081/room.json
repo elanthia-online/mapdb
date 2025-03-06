@@ -1,0 +1,49 @@
+{
+  "checksum": "ea7b4cc5da7e086e88a283ca891169a1",
+  "room": {
+    "id": 12081,
+    "title": [
+      "[Old Ta'Faendryl, Northeast]"
+    ],
+    "description": [
+      "Washed by overflow from the river to the south, this area is a mire of mud.  A few spindly trees sprout from the muck, looking as wilted as a child caught in a rainstorm."
+    ],
+    "paths": [
+      "Obvious paths: east, south, southwest, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "freshwater",
+    "terrain": "grassland",
+    "wayto": {
+      "12077": "west",
+      "12078": "southwest",
+      "12080": "south",
+      "12082": "east"
+    },
+    "timeto": {
+      "12077": 0.2,
+      "12078": 0.2,
+      "12080": 0.2,
+      "12082": 0.2
+    },
+    "tags": [
+      "wood violet",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004106
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      886,
+      257,
+      896,
+      267
+    ]
+  }
+}

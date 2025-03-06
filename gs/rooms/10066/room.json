@@ -1,0 +1,40 @@
+{
+  "checksum": "1deff48cea7b26874f624df250d84823",
+  "room": {
+    "id": 10066,
+    "title": [
+      "[Sylvarraend Pawn and Thrift]"
+    ],
+    "description": [
+      "Baskets and trunks full of arcane items are stacked high against the walls of this tiny cottage.  However full it may be, there does appear to be order to the madness, as the shop proprietor scurries about adding pawned goods to various tables and marking them for sale."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "679": "out",
+      "10067": "go doorway"
+    },
+    "timeto": {
+      "679": 0.2,
+      "10067": 0.2
+    },
+    "tags": [
+      "pawnshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "pawn"
+    ],
+    "uid": [
+      13051002
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      313,
+      799,
+      349,
+      835
+    ]
+  }
+}

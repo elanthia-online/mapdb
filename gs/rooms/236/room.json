@@ -1,0 +1,43 @@
+{
+  "checksum": "37be3d1601d950f181767ea5b2423fd4",
+  "room": {
+    "id": 236,
+    "title": [
+      "[Wehnimer's, Erebor Square]"
+    ],
+    "description": [
+      "Ancient grey flagstones pave this quiet corner of the square, set around small gardens of herbs and flowers that provide splashes of faint color in the filtered moonlight.   Polished wood benches arranged under the branches of a variety of overhanging trees offer a place for scholars and travelers to study and rest.",
+      "Ancient grey flagstones pave this quiet corner of the square, set around small gardens of herbs and flowers that provide splashes of color in the filtered light.   Polished wood benches arranged under the branches of a variety of shade trees offer a place for scholars and travelers to study and rest."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "235": "north",
+      "8772": "go path"
+    },
+    "timeto": {
+      "235": 0.2,
+      "8772": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7301
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      659,
+      966,
+      695,
+      1002
+    ]
+  }
+}

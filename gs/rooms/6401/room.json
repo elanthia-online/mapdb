@@ -1,0 +1,49 @@
+{
+  "checksum": "d2581a35853dd7f4f53e314c0a7e97a5",
+  "room": {
+    "id": 6401,
+    "title": [
+      "[Blackened Cave, Cavern]"
+    ],
+    "description": [
+      "A large stalagmite juts up near the dark cavern walls.  You might be able to squeeze by it, if you suck in your tummy.  The ground is covered with black, gritty sand."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Lysierian Hills",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6399": "go stalagmite",
+      "6402": "northwest",
+      "6403": "south"
+    },
+    "timeto": {
+      "6399": 0.2,
+      "6402": 0.2,
+      "6403": 0.2
+    },
+    "tags": [
+      "fire rat",
+      "fire cat",
+      "striped warcat",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      92126
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      356,
+      407,
+      366,
+      417
+    ]
+  }
+}

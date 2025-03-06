@@ -1,0 +1,26 @@
+{
+  "checksum": "de2807d04bc080dbb37dbf59f06cd8f2",
+  "room": {
+    "id": 15435,
+    "title": [
+      "[Gardeth's Outfitting]",
+      "[Gardeth's General Store]"
+    ],
+    "description": [
+      "Beneath a glossy modwir plank ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A gilded maple cabinet and a bamboo rack sit in opposite corners while a worn rug rests on a mistwood plank floor."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15025": "east"
+    },
+    "timeto": {
+      "15025": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

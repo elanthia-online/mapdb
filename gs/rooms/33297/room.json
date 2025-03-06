@@ -1,0 +1,32 @@
+{
+  "checksum": "ceafd50891c9124dbbb1804c48a9b8f7",
+  "room": {
+    "id": 33297,
+    "title": [
+      "[Vornavis, Gallery]"
+    ],
+    "description": [
+      "Surrounded by tapestry covered walls, the gallery's landing is comprised of a clean, polished wood floor and sparse furnishings.  Emerald green runners line the way, each spreading from the wall-hugging stairs and disappearing into the wings in the northeast and southeast.  An aerial view of the vestibule is beyond a set of fel railings, while ornate pillars and a short wall provide a stone-framed view of the Great Hall below."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Vornavis Proper",
+    "wayto": {
+      "33296": "go wall-hugging stairs",
+      "33298": "southeast",
+      "33299": "northeast"
+    },
+    "timeto": {
+      "33296": 0.2,
+      "33298": 0.2,
+      "33299": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ],
+    "uid": [
+      4201020
+    ]
+  }
+}

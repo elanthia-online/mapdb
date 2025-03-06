@@ -1,0 +1,41 @@
+{
+  "checksum": "c66a639a8ce9b342f915fc0fef86587c",
+  "room": {
+    "id": 5539,
+    "title": [
+      "[Manor House, North Parlor]"
+    ],
+    "description": [
+      "Devoid of the door that once filled it, a modwir-framed doorway in the east wall lets out onto a small tiled courtyard.  A pile of refuse lies in the room's southwest corner, partially obscuring the outline of a trapdoor set into the floor, but otherwise the room is bare.  A tanik door leads to the corridor at the west end of the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5534": "go doorway",
+      "5553": "go tanik door",
+      "5559": "go trapdoor"
+    },
+    "timeto": {
+      "5534": 0.2,
+      "5553": 0.2,
+      "5559": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4215137
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      1114,
+      486,
+      1124,
+      496
+    ]
+  }
+}

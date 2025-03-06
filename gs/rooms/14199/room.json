@@ -1,0 +1,29 @@
+{
+  "checksum": "0b3b59d7b934258a0ae5c19036cdd46e",
+  "room": {
+    "id": 14199,
+    "title": [
+      "[Temple of Lorminstra, Hallway]"
+    ],
+    "description": [
+      "The hallway makes a 90 degree bend here.  A small brass lamp hanging from a chain illuminates the corridor's turning and a small door in the southwest wall."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14185": "northwest",
+      "14200": "go door",
+      "14201": "northeast"
+    },
+    "timeto": {
+      "14185": 0.2,
+      "14200": 0.2,
+      "14201": 0.2
+    },
+    "uid": [
+      4742025
+    ]
+  }
+}

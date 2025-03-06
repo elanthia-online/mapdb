@@ -1,0 +1,52 @@
+{
+  "checksum": "16bf25bd3b098da4703342cfa9f88a77",
+  "room": {
+    "id": 12100,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A line of women walks through here, moaning and weeping softly to themselves as they dip the jugs they carry into the waters of the river to the east.  As they walk back to the well south of you their jars begin to leak, water streaming onto the ground until there is none left in the containers.  Still the women trudge on, going through the motions of pouring the liquid into the well before returning to the river for a refill."
+    ],
+    "paths": [
+      "Obvious paths: west",
+      "Obvious exits: west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12100/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12100/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12100/wayto/stringproc-12093.rb",
+      "12169": "west"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12169": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567035
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1030,
+      699,
+      1040,
+      709
+    ]
+  }
+}

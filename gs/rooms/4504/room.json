@@ -1,0 +1,28 @@
+{
+  "checksum": "07c70d3ded26f8a3ce848cb27fde5dc6",
+  "room": {
+    "id": 4504,
+    "title": [
+      "[The Locksmith's Helper]"
+    ],
+    "description": [
+      "Descending deep into the mountain, a narrow walkway winds steeply through a curtain of liquid-sheened rock.  The colors vary as the rock reaches deeper into the abyss, starting with a yellow-lit dun colored rock near the entranceway that deepens with streaks of coppery orange as it works its way down.  Mellow illumination seeps in from the passageway, keeping this part of the cavern in permanent twilight."
+    ],
+    "paths": [
+      "Obvious exits: southeast, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4503": "out",
+      "4505": "southeast"
+    },
+    "timeto": {
+      "4503": 0.2,
+      "4505": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

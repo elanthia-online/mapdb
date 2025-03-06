@@ -1,0 +1,31 @@
+{
+  "checksum": "fff4fd001614329f470821366349b942",
+  "room": {
+    "id": 25598,
+    "title": [
+      "[Bard Guild, Backstage]"
+    ],
+    "description": [
+      "The confined backstage area for the Jastev Amphitheater is fitted with the usual jungle-like tangle of ropes, pulleys and flats.  It offers access to the green room and a dressing room, as well as passage back to the Guild Hall via a covered walkway.  The ceiling is high overhead, cloaked with catwalks, scrims and drops, and other miscellany.  A collection of heavy ropes is controlled with a wooden frame mounted on the front wall, allowing the stage curtains to be easily opened and closed."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "25597": "west",
+      "25599": "go large door",
+      "25600": "go teak door",
+      "30889": "go left"
+    },
+    "timeto": {
+      "25597": 0.2,
+      "25599": 0.2,
+      "25600": 0.2,
+      "30889": 0.2
+    },
+    "uid": [
+      283051
+    ]
+  }
+}

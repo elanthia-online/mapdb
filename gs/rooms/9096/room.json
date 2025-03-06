@@ -1,0 +1,38 @@
+{
+  "checksum": "bb6e25b21fb81d73bbca6101dd224669",
+  "room": {
+    "id": 9096,
+    "title": [
+      "[Great Cavern, Limestone Stairs]"
+    ],
+    "description": [
+      "The stone of the stairs and walls is pitted and flakes off easily.  Even so, the stairs are sturdy and seem to have stood for ages.  Glowing moss grows in occasional patches, illuminating the steps with a dull shine."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9095": "up",
+      "9097": "down"
+    },
+    "timeto": {
+      "9095": 0.2,
+      "9097": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045205
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      202,
+      358,
+      212,
+      368
+    ]
+  }
+}

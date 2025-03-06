@@ -1,0 +1,38 @@
+{
+  "checksum": "f13918c99d068aee20e66198d44414c5",
+  "room": {
+    "id": 16769,
+    "title": [
+      "[Temple Wyneb, Effluentorium]"
+    ],
+    "description": [
+      "A fountain of water cascades from a carved spout in the western wall.  It pools in a shallow depression in the floor, then flows away to the south."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "16768": "south",
+      "16770": "east"
+    },
+    "timeto": {
+      "16768": 0.2,
+      "16770": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300045
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      662,
+      572,
+      672,
+      582
+    ]
+  }
+}

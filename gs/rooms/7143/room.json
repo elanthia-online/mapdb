@@ -1,0 +1,44 @@
+{
+  "checksum": "aeaf5f398450e17d8fb19ddcc06c643f",
+  "room": {
+    "id": 7143,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "This corner is blanketed with shadows.  Dust puffs up in clouds with your every step."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7142": "north",
+      "7144": "east"
+    },
+    "timeto": {
+      "7142": 0.2,
+      "7144": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41027
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      974,
+      553,
+      984,
+      563
+    ]
+  }
+}

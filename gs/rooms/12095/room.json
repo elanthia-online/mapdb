@@ -1,0 +1,53 @@
+{
+  "checksum": "63c73b78bc3fb53f4ce1f4025a72189b",
+  "room": {
+    "id": 12095,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Mountains surround you, stretching high into the bright green sky.  Before you, towering at least thirty feet into the air, is a giant snake.  It has been impaled on a pike, blood trickling down the pole and seeping into the grain of the wood.  The tip of its tail still twitches, as if its death were a recent happening."
+    ],
+    "paths": [
+      "Obvious paths: southwest",
+      "Obvious exits: southwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12096": "southwest",
+      "12207": "/rooms/12095/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12095/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12096": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "slime-covered grave blossom",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569023
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      703,
+      1208,
+      713,
+      1218
+    ]
+  }
+}

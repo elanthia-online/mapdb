@@ -1,0 +1,30 @@
+{
+  "checksum": "f1aec93bbc9f785d1febebbc9c80e7d1",
+  "room": {
+    "id": 18460,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "A fence borders the road that stretches from the meadow and deeper into town, separating the hard-packed dirt rutted with wagon trails from the verdant fields that lie beyond.  With little regard for the wildflowers or the picturesque quality of the landscape, a roan cow plucks clump after clump of grass from the ground, chewing with a slow, purposeful disregard."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18459": "go gate",
+      "18523": "southwest",
+      "18524": "northwest"
+    },
+    "timeto": {
+      "18459": 0.2,
+      "18523": 0.2,
+      "18524": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

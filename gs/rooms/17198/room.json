@@ -1,0 +1,34 @@
+{
+  "checksum": "01c1ff9142d75b0c3a556731b40ab199",
+  "room": {
+    "id": 17198,
+    "title": [
+      "[Temple of Ronan, Antechamber]"
+    ],
+    "description": [
+      "Black lambswool carpet covers the floor, cushioning every footfall and muting most sounds, creating a sense of suspended time and reality.  Incense permeates the air with its fragrance of night-blooming jasmine and musk, while its small wisps of smoke dance in sensual abandon."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "17197": "go passageway",
+      "17200": "east",
+      "17201": "go curtain"
+    },
+    "timeto": {
+      "17197": 0.2,
+      "17200": 0.2,
+      "17201": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749013
+    ]
+  }
+}

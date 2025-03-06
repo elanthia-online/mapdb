@@ -1,0 +1,47 @@
+{
+  "checksum": "a568cae8f2e6eabc2be40924e0212c70",
+  "room": {
+    "id": 7308,
+    "title": [
+      "[Graveyard, Burial Mound]"
+    ],
+    "description": [
+      "This is the burial chamber of a great warrior-king.  There are empty chests made of precious woods, now mildewed and rotten with fittings of beaten gold and silver.  Rusted weapons are scattered about.  A wooden coffin, carved in the shape of a proud warship with a dragon prow, lies at the far side of the circular room."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7307": "west",
+      "7309": "southeast"
+    },
+    "timeto": {
+      "7307": 0.2,
+      "7309": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18031
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      724,
+      332,
+      734,
+      342
+    ]
+  }
+}

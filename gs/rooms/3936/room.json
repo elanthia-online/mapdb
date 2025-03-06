@@ -1,0 +1,53 @@
+{
+  "checksum": "a7f922513b26dd1f80ee0fc566ff975e",
+  "room": {
+    "id": 3936,
+    "title": [
+      "[Catacombs, Mossy Climb]"
+    ],
+    "description": [
+      "Thick moss covers every available surface here.  Where you can see through the growth, you notice that the walls seem fairly recent and are made of red brick.  Openings in the ceiling at seemingly random intervals provide some faint light and occasionally you hear footsteps and murmurings overhead.  The tunnel continues on to the north, up along a high ledge."
+    ],
+    "paths": [
+      "Obvious exits: south, up"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3935": "south",
+      "3937": "go grate",
+      "7511": "up"
+    },
+    "timeto": {
+      "3935": 0.2,
+      "3937": 0.2,
+      "7511": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46042
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      928,
+      1074,
+      938,
+      1084
+    ]
+  }
+}

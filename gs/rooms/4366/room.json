@@ -1,0 +1,30 @@
+{
+  "checksum": "c6a9842f7710796b95e0dc07cca7924f",
+  "room": {
+    "id": 4366,
+    "title": [
+      "[Luxury Leathers, Entrance]"
+    ],
+    "description": [
+      "The raw stone floor is scoured smooth to keep dust and debris to a minimum in this high-ceilinged cave.  Glaes-enclosed lanterns line the walls, which are painted with numerous colorful murals."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4365": "out",
+      "4367": "northwest",
+      "4368": "north"
+    },
+    "timeto": {
+      "4365": 0.2,
+      "4367": 0.2,
+      "4368": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

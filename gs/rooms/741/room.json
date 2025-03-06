@@ -1,0 +1,44 @@
+{
+  "checksum": "28a36d01d9789a6180220c58397e4278",
+  "room": {
+    "id": 741,
+    "title": [
+      "[Ta'Illistim, Caear Var]"
+    ],
+    "description": [
+      "Profusely blooming cascades of miniature roses trail from the windowboxes of a nearby shop.  A small basket of flowers rests on the doorstep, and an engraved silver sign is mounted upon the cottage's pale blue painted door.",
+      "Profusely blooming cascades of miniature roses trail from the window boxes of a nearby shop.  A small basket of flowers rests on the doorstep, and an engraved silver sign is mounted upon the building's pale blue painted door."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "740": "northeast",
+      "742": "southwest",
+      "4017": "go shop"
+    },
+    "timeto": {
+      "740": 0.2,
+      "742": 0.2,
+      "4017": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101052
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      838,
+      249,
+      861,
+      271
+    ]
+  }
+}

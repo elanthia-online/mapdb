@@ -1,0 +1,41 @@
+{
+  "checksum": "22c2d658b6ad6b28abc0464a75f27664",
+  "room": {
+    "id": 32465,
+    "title": [
+      "[Moonsedge Castle, Passage]"
+    ],
+    "description": [
+      "The smoky, torchlit passage splits to either side of a grand staircase of grey stone and deep crimson bloodwood that ascends grandiosely to the second story of the keep.  There, upper banisters fly banners in scarlet and grey.  A framed archway to the northwest reveals glimpses of long shelves crowded with old tomes, while a mirroring path to the northeast dovetails into a spectacular gallery hung with a dazzling selection of artworks."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, northwest"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32455": "south",
+      "32466": "go stair",
+      "32467": "northwest",
+      "32470": "northeast"
+    },
+    "timeto": {
+      "32455": 0.2,
+      "32466": 0.2,
+      "32467": 0.2,
+      "32470": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577234
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1105,
+      525,
+      1129,
+      548
+    ]
+  }
+}

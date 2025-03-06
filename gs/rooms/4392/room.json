@@ -1,0 +1,32 @@
+{
+  "checksum": "281bbb91092d522c0a0e0866260e0337",
+  "room": {
+    "id": 4392,
+    "title": [
+      "[Ruby Level, Topaz Access]"
+    ],
+    "description": [
+      "Two stout dwarves are chatting with each other, not terribly interested in anything but their conversation.  They look up briefly as folks pass, but continue their heated debate.  A ladder leading down is visible just behind the pair."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4391": "east",
+      "4393": "go tunnel",
+      "4395": "north",
+      "4431": "clim ladd"
+    },
+    "timeto": {
+      "4391": 0.2,
+      "4393": 0.2,
+      "4395": 0.2,
+      "4431": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "e688165b95c4ddccd242144528664d44",
+  "room": {
+    "id": 10843,
+    "title": [
+      "[River's Rest, Dilapidated Pier]"
+    ],
+    "description": [
+      "Not as worn as it first appears to be, this pier is actually a sturdy and pleasant platform.  From this vantage, the river is clearly visible to the north, the comings and goings at the drawbridge seen but not heard.  Visible in the deep waters are the reflections of thousands of stars from the evening sky, occasionally obscured by a passing cloud.  Rustling reeds and the sudden splash of a fish leaping from the water do little to disturb the peace.",
+      "Not as worn as it first appears to be, this pier is actually a sturdy and pleasant platform.  From this vantage, the river is clearly visible to the north, the comings and goings at the drawbridge seen but not heard.  Visible in the deep waters are the shadowy shapes of what one hopes are large fish and tiny crabs cling to the pilings, scurrying from view when the shadows of water fowl fall over them.  Rustling reeds and the sudden splash of a fish leaping from the water do little to disturb the peace."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10842": "out",
+      "27604": "go ladder",
+      "29502": "go wide ramp"
+    },
+    "timeto": {
+      "10842": 0.2,
+      "27604": 0.2,
+      "29502": 0.2
+    },
+    "tags": [
+      "npccleric",
+      "no forageables"
+    ],
+    "uid": [
+      2101106
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1886,
+      1161,
+      1923,
+      1197
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "754c0d154cb3522ea456cb3e30d10b38",
+  "room": {
+    "id": 32608,
+    "title": [
+      "[Landing Bazaar, Walkar Avenue]"
+    ],
+    "description": [
+      "Each side of the lane is fringed with several sturdy shops, their smooth slate roofs capturing some of the glint from the moonlight above.  A pennant stitched with the image of a waraxe flaps about, tethered to a long wooden post that stretches above a carved sandstone statue.  A cluster of wrought-iron chairs and tables litter the outside, allowing customers a place to rest and watch the crowds."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32602": "northwest",
+      "32605": "west",
+      "32607": "northeast",
+      "32614": "go modwir shop"
+    },
+    "timeto": {
+      "32602": 0.2,
+      "32605": 0.2,
+      "32607": 0.2,
+      "32614": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      336415
+    ],
+    "image": "wl-bazaar-1671674653.png",
+    "image_coords": [
+      481,
+      370,
+      530,
+      421
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "9a64c252e8dc0035078009749fdad865",
+  "room": {
+    "id": 23767,
+    "title": [
+      "[Duskruin Arena, Foyer]"
+    ],
+    "description": [
+      "Branching in either direction, the long stone corridor arches outward in a slow curve about the area that is visible up a set of stone steps, a large steel suit of armor standing to either side.  Carved into the stone overhead is the word, \"DUSKRUIN\".  Another smaller dark passageway angles downward toward the bowels of the arena."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west, down"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23766": "south",
+      "23768": "east",
+      "23778": "west",
+      "23779": "down",
+      "23785": "go steps"
+    },
+    "timeto": {
+      "23766": 0.2,
+      "23768": 0.2,
+      "23778": 0.2,
+      "23779": 0.2,
+      "23785": 0.2
+    },
+    "uid": [
+      8213002
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1418,
+      591,
+      1447,
+      620
+    ]
+  }
+}

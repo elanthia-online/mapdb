@@ -1,0 +1,69 @@
+{
+  "checksum": "388c2ff341008e631b36b7b429f85579",
+  "room": {
+    "id": 10817,
+    "title": [
+      "[Gyldemar Road]"
+    ],
+    "description": [
+      "Although the forest is visible on the horizon to the south, there is no way of getting there across the treacherous swamp in between.  Slowly the swamp seems to be reclaiming the cobblestone road, leaving less than half the cobblestones even visible in this area.  To the west the black water has completely covered the roadway, and to the east the roadway dips and jogs, fighting to stay above the sinking terrain."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Gyldemar Road",
+    "climate": "humid",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "10818": "east",
+      "10821": "/rooms/10817/wayto/stringproc-10821.rb"
+    },
+    "timeto": {
+      "10818": 0.2,
+      "10821": 0.2
+    },
+    "tags": [
+      "daggerstalk mushroom",
+      "calamia fruit",
+      "haphip root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "wild gooseberry",
+      "stalk of cattail",
+      "small wild rose",
+      "lady slipper blossom",
+      "blue whortleberry",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:day:2023-11",
+      "trollear mushroom",
+      "broken twig",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13032043
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      861,
+      658,
+      871,
+      668
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "88dc5d82bc2b51154d65345d9cc25391",
+  "room": {
+    "id": 20022,
+    "title": [
+      "[Sewage Drain]"
+    ],
+    "description": [
+      "The gloom begins to lose its battle to the west.  Unfortunately, the odor of decay and rot is still very prevalent.  A few small rodents dart about the refuse, skittering off whenever threatened."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "20021": "south",
+      "20023": "north"
+    },
+    "timeto": {
+      "20021": 0.2,
+      "20023": 0.2
+    },
+    "uid": [
+      267104
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      1015,
+      947,
+      1055,
+      985
+    ]
+  }
+}

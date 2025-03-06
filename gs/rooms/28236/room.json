@@ -1,0 +1,34 @@
+{
+  "checksum": "b69871b940853268e9099d528836dd15",
+  "room": {
+    "id": 28236,
+    "title": [
+      "[Barracks, Sleeping Quarters]"
+    ],
+    "description": [
+      "Stout oak cabinets and shelves run a border around the chamber, many of them cluttered with boots, uniforms, small weapons, and linens.  Modest cots are setup in rows throughout the center of the room, some neatly tended and clean, others a disheveled mess, or occupied by a slumbering member of the militia."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "28226": "northwest",
+      "33331": "go archway"
+    },
+    "timeto": {
+      "28226": 0.2,
+      "33331": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336223
+    ]
+  }
+}

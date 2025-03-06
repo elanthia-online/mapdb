@@ -1,0 +1,43 @@
+{
+  "checksum": "e8c22d1120c052e515ac3b7db0f87470",
+  "room": {
+    "id": 30061,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "The expansive hallway has been turned into a twisting warren of tunnelways by fallen rock and hanging wormsilk.  Its denizens seem to have little trouble moving through the debris, as the pitted tunnels they have left behind are everywhere, marked by liquid-smooth and undulating edges eaten out of the stone itself.  Strangely, a single untouched tapestry hangs from the far wall, depicting a luminous humanoid figure with long limbs and a dragon's wings."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, south"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30060": "east",
+      "30062": "south",
+      "30064": "southeast",
+      "30069": "northeast"
+    },
+    "timeto": {
+      "30060": 0.2,
+      "30062": 0.2,
+      "30064": 0.2,
+      "30069": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503482
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      740,
+      187,
+      755,
+      203
+    ]
+  }
+}

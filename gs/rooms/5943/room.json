@@ -1,0 +1,47 @@
+{
+  "checksum": "63835021023df6326feeb251c5fcf5a1",
+  "room": {
+    "id": 5943,
+    "title": [
+      "[Catacombs, Passageway]"
+    ],
+    "description": [
+      "This huge cavern has cart tracks going in several different directions.  Great cyclopean doors stand at the end of each track.  Only two of them remain open.  One door is covered with moss, and allows easy access to the outside of these tunnels, while the warped door leads to yet another section of the sewers.  Only the tops of the other doors are visible, their bottom halves have been blocked by an earlier avalanche of rock and debris, forever shutting off the section of tunnels that lie behind them."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5941": "go warped door",
+      "5942": "east"
+    },
+    "timeto": {
+      "5941": 0.2,
+      "5942": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009023
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      92,
+      902,
+      101,
+      915
+    ]
+  }
+}

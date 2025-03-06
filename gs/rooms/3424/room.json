@@ -1,0 +1,62 @@
+{
+  "checksum": "0b894d86b73fd72e0052e34e4cf1165c",
+  "room": {
+    "id": 3424,
+    "title": [
+      "[The Nightowl Pub, Lounge]"
+    ],
+    "description": [
+      "Waitresses wearing feathered headdresses fashioned like the heads of owls work the room swiftly and quietly, trying not to interrupt the guests or the stage act.  Although the tables are set relatively close together, the darkness creates a feeling of intimacy.  After their number, the chorus glides off the stage and all but disappears behind a dark curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2389": "go staircase",
+      "3609": "/rooms/3424/wayto/stringproc-3609.rb",
+      "3627": "/rooms/3424/wayto/stringproc-3627.rb",
+      "3631": "/rooms/3424/wayto/stringproc-3631.rb",
+      "3632": "/rooms/3424/wayto/stringproc-3632.rb",
+      "3821": "/rooms/3424/wayto/stringproc-3821.rb",
+      "3822": "/rooms/3424/wayto/stringproc-3822.rb",
+      "9006": "go curtain",
+      "17088": "/rooms/3424/wayto/stringproc-17088.rb",
+      "17089": "/rooms/3424/wayto/stringproc-17089.rb",
+      "17090": "/rooms/3424/wayto/stringproc-17090.rb",
+      "30709": "/rooms/3424/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2389": 0.2,
+      "3609": 0.2,
+      "3627": 0.2,
+      "3631": 0.2,
+      "3632": 0.2,
+      "3821": 0.2,
+      "3822": 0.2,
+      "9006": 0.2,
+      "17088": 0.2,
+      "17089": 0.2,
+      "17090": 0.2,
+      "30709": "/rooms/3424/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "table",
+      "pub",
+      "urchin-access",
+      "urchin guide tables",
+      "guard",
+      "tables"
+    ],
+    "uid": [
+      4043215
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      139,
+      877,
+      175,
+      913
+    ]
+  }
+}

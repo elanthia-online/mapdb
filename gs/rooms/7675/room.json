@@ -1,0 +1,41 @@
+{
+  "checksum": "8fca703a2a1b20f06b0ba791e46e4192",
+  "room": {
+    "id": 7675,
+    "title": [
+      "[Coastal Cliffs, Cemetery]"
+    ],
+    "description": [
+      "A plain and dreary little mausoleum of grime-streaked stone, pockmarked by erosion and damaged by looters, stands empty and abandoned in a small clearing by itself."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7674": "northeast",
+      "7676": "go mausoleum"
+    },
+    "timeto": {
+      "7674": 0.2,
+      "7676": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      67052
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      196,
+      979,
+      206,
+      989
+    ]
+  }
+}

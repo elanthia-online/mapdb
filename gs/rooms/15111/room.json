@@ -1,0 +1,28 @@
+{
+  "checksum": "f2d17060aa16f25269e0a5e26b8f7749",
+  "room": {
+    "id": 15111,
+    "title": [
+      "[Cawen's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "364": "out",
+      "15381": "west",
+      "15382": "east"
+    },
+    "timeto": {
+      "364": 0.2,
+      "15381": 0.2,
+      "15382": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

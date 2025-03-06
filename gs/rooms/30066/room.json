@@ -1,0 +1,39 @@
+{
+  "checksum": "079f4eb44dfe1abf376e6d8b4e22b90d",
+  "room": {
+    "id": 30066,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "Strings of slimy silk twine down pillars that are so pitted with corrosion that they struggle to support the weight of the stone blocks above.  Icy wind whistles through chinks in the walls, making the silken threads whip and dance.  There is a musky, alien odor in the air that the constant onslaught of gelid air cannot entirely dispel."
+    ],
+    "paths": [
+      "Obvious exits: north, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30065": "northwest",
+      "30067": "north"
+    },
+    "timeto": {
+      "30065": 0.2,
+      "30067": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503489
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      821,
+      347,
+      836,
+      362
+    ]
+  }
+}

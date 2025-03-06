@@ -1,0 +1,44 @@
+{
+  "checksum": "7838049502fbd6e8499be3f07a8af13f",
+  "room": {
+    "id": 7118,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "An axe blade is embedded in the stone floor, its shaft rotted away long ago.  Parallel scratches on the wall next to the blade are evidence of a rather largish creature, or at least a creature with larger than average claws."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7111": "east",
+      "7117": "north",
+      "7119": "west"
+    },
+    "timeto": {
+      "7111": 0.2,
+      "7117": 0.2,
+      "7119": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44007
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      868,
+      1149,
+      878,
+      1159
+    ]
+  }
+}

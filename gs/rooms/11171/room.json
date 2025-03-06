@@ -1,0 +1,40 @@
+{
+  "checksum": "5f8c026f6641bc55a2eb5db27d5e1f7d",
+  "room": {
+    "id": 11171,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "On the north wall is an intricate design depicting a proud warrior in gleaming armor.  He sits astride a heavily armored war-horse, wielding a large menacing blade on a field of battle.  His foes litter the ground about him.  The design has been splashed with paint, which disfigures the image, but does not detract from its dignity."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11170": "south",
+      "11172": "northeast",
+      "11174": "west"
+    },
+    "timeto": {
+      "11170": 0.2,
+      "11172": 0.2,
+      "11174": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100005
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      571,
+      465,
+      581,
+      475
+    ]
+  }
+}

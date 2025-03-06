@@ -1,0 +1,53 @@
+{
+  "checksum": "e7ba9aec9ee1846c4daf508ad86e847c",
+  "room": {
+    "id": 12140,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Crystalline blocks of some unknown substance float in the air, providing passage to the northwest and southeast.  They ring like bells of flawless glass when stepped upon, filling the air with a light, musical sound.  In the center of the area sits a small field of them, gleaming strangely in the light."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12119": "southeast",
+      "12141": "northwest",
+      "12207": "/rooms/12140/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12140/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12119": 0.2,
+      "12141": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569019
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      513,
+      1100,
+      523,
+      1110
+    ]
+  }
+}

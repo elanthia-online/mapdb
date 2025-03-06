@@ -1,0 +1,50 @@
+{
+  "checksum": "c32803bdeee3722dc2bef798aaa5212a",
+  "room": {
+    "id": 12154,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A herd of horses plays in the dead grass of the meadow.  They frolic in the thin light that filters through the clouds, bending their heads to graze or simply standing with their herdmates.  Upon the back of the leader sits a small child whose giggles seem to brighten the day.  With a second look, the skin melts from the horses to leave nothing more than equine skeletons playing in the sun."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast",
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12154/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12154/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12154/wayto/stringproc-12093.rb",
+      "12120": "southeast",
+      "12155": "northeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12120": 0.2,
+      "12155": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "mass of congealed slime"
+    ],
+    "uid": [
+      4567045
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      922,
+      753,
+      932,
+      763
+    ]
+  }
+}

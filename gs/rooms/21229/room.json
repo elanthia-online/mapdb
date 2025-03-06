@@ -1,0 +1,29 @@
+{
+  "checksum": "3ae29da89ede19d5fd9db47d6874dfdd",
+  "room": {
+    "id": 21229,
+    "title": [
+      "[Munthir's Outfitting]"
+    ],
+    "description": [
+      "A trio-bladed mounted vellum fan hangs on one of the rough white stucco walls, and a domed white stucco ceiling rises overhead.  A miniature Solhaven Bay model sits in one corner of a varnished dark oak floor.  There is a brass treasure chest on one side of the shop and a glass-covered box case on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9013": "out",
+      "21234": "east",
+      "21235": "north"
+    },
+    "timeto": {
+      "9013": 0.2,
+      "21234": 0.2,
+      "21235": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

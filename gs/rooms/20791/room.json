@@ -1,0 +1,41 @@
+{
+  "checksum": "8bf87f598e90afd3015cfc7d5a55a2a3",
+  "room": {
+    "id": 20791,
+    "title": [
+      "[House Sovyn, 1st Floor Hallway]"
+    ],
+    "description": [
+      "A plush, sea blue carpet runs the length of this hallway.  The walls are done in a patterned paper that reminds you of sea foam.  Two giant seashells flank the staircases."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20788": "go stone staircase",
+      "20796": "go marble staircase",
+      "20797": "west",
+      "20801": "north"
+    },
+    "timeto": {
+      "20788": 0.2,
+      "20796": 0.2,
+      "20797": 0.2,
+      "20801": 0.2
+    },
+    "tags": [
+      "meta:che:House Sovyn"
+    ],
+    "uid": [
+      210101
+    ],
+    "image": "wl-house_sovyn-11481362649.png",
+    "image_coords": [
+      621,
+      224,
+      788,
+      339
+    ]
+  }
+}

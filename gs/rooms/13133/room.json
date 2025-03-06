@@ -1,0 +1,67 @@
+{
+  "checksum": "6a2bd15f77172a82809a236e6167c7bd",
+  "room": {
+    "id": 13133,
+    "title": [
+      "[Sunfist Outpost, Parade Grounds]"
+    ],
+    "description": [
+      "Sturdy palisades enclose a square of neatly packed dirt, perhaps twenty yards on a side.  Each corner is guarded by a stout tower, providing both a secure room at the base and a defensive platform above."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "13132": "go door",
+      "13134": "southwest",
+      "13135": "northwest",
+      "28481": "southeast",
+      "28482": "northeast"
+    },
+    "timeto": {
+      "13132": 0.2,
+      "13134": 0.2,
+      "13135": 0.2,
+      "28481": 0.2,
+      "28482": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "mistweed",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      567010
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      675,
+      344,
+      683,
+      352
+    ]
+  }
+}

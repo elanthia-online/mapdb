@@ -1,0 +1,31 @@
+{
+  "checksum": "a2cae4b1b0f3375571ee9ad02c366d9b",
+  "room": {
+    "id": 26245,
+    "title": [
+      "[Lich's Landing, Corpse Row]"
+    ],
+    "description": [
+      "A small zombie goblin stands near a row of gnarled corpses, gnawing absentmindedly on some entrails hanging down from the bodies.  Disembodied eyes, all having red pupils, float through the area, scanning the surroundings as blood drips from their fleshy veins."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26244": "south",
+      "26246": "north"
+    },
+    "timeto": {
+      "26244": 0.2,
+      "26246": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      282,
+      487,
+      308,
+      512
+    ]
+  }
+}

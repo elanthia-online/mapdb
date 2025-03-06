@@ -1,0 +1,53 @@
+{
+  "checksum": "8d40697d7db027eefc70e17eff520a03",
+  "room": {
+    "id": 23281,
+    "title": [
+      "[Talondown Arena, Entry]"
+    ],
+    "description": [
+      "Despite its humble entrance between two stacks of crates, the arena's antechamber thrives with frenetic activity.  Champions push and shove each other for a glimpse of the latest information on a painted wooden leaderboard while seedy lenders prey on those recently divorced from their hard-earned marks.  All of this occurs beneath the low roof formed by the deck above, in an atmosphere tainted by the smoke of cigars and pleasure herbs."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": false,
+    "wayto": {
+      "417": "/rooms/23281/wayto/stringproc-417.rb",
+      "682": "/rooms/23281/wayto/stringproc-682.rb",
+      "1005": "/rooms/23281/wayto/stringproc-1005.rb",
+      "1955": "/rooms/23281/wayto/stringproc-1955.rb",
+      "3158": "/rooms/23281/wayto/stringproc-3158.rb",
+      "3660": "/rooms/23281/wayto/stringproc-3660.rb",
+      "10883": "/rooms/23281/wayto/stringproc-10883.rb",
+      "13920": "/rooms/23281/wayto/stringproc-13920.rb",
+      "17425": "/rooms/23281/wayto/stringproc-17425.rb",
+      "28800": "northeast",
+      "28801": "northwest",
+      "28802": "north"
+    },
+    "timeto": {
+      "417": "/rooms/23281/timeto/stringproc-417.rb",
+      "682": "/rooms/23281/timeto/stringproc-682.rb",
+      "1005": "/rooms/23281/timeto/stringproc-1005.rb",
+      "1955": "/rooms/23281/timeto/stringproc-1955.rb",
+      "3158": "/rooms/23281/timeto/stringproc-3158.rb",
+      "3660": "/rooms/23281/timeto/stringproc-3660.rb",
+      "10883": "/rooms/23281/timeto/stringproc-10883.rb",
+      "13920": "/rooms/23281/timeto/stringproc-13920.rb",
+      "17425": "/rooms/23281/timeto/stringproc-17425.rb",
+      "28800": 0.2,
+      "28801": 0.2,
+      "28802": 0.2
+    },
+    "tags": [
+      "talondown",
+      "exit",
+      "talondown exit",
+      "no-auto-map"
+    ],
+    "uid": [
+      4903601
+    ]
+  }
+}

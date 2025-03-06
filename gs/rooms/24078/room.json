@@ -1,0 +1,24 @@
+{
+  "checksum": "b07f8c6f4560cde7f1ada22a786d0b05",
+  "room": {
+    "id": 24078,
+    "title": [
+      "[Necropolis, Crossing]"
+    ],
+    "description": [
+      "Two large statues stand guard over the northern entrance into the necropolis, facing the remains of a stone bridge that overlooks a vast abyss of darkness.  Each statue holds a rusted iron pike, which cross over each other like an archway."
+    ],
+    "paths": [
+      "Obvious exits: north, down"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24077": "down",
+      "24079": "north"
+    },
+    "timeto": {
+      "24077": 0.2,
+      "24079": 0.2
+    }
+  }
+}

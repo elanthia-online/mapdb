@@ -1,0 +1,45 @@
+{
+  "checksum": "d954e3ec646b1d0691509fb3d9eb2bc6",
+  "room": {
+    "id": 32427,
+    "title": [
+      "[Moonsedge, Ash and Dirge]"
+    ],
+    "description": [
+      "A retaining wall along the intersection holds back the earthen beds of several overgrown mountain ash trees that loom over the road.  The trees' branches are denuded of leaves but heavy with snow and clusters of berries, each as rich a red as a droplet of freshly spilled blood.  Graven into the retaining wall is a bas-relief of robed figures leading a procession.  The sign of a nearby inn creaks in the breeze."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32405": "west",
+      "32426": "south",
+      "32428": "go inn",
+      "32432": "east"
+    },
+    "timeto": {
+      "32405": 0.2,
+      "32426": 0.2,
+      "32428": 0.2,
+      "32432": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577008
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      441,
+      162,
+      464,
+      187
+    ]
+  }
+}

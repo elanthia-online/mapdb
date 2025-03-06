@@ -1,0 +1,24 @@
+{
+  "checksum": "a12f92d77c3406e98e19a47000adf664",
+  "room": {
+    "id": 20471,
+    "title": [
+      "[Arctic Waters]"
+    ],
+    "description": [
+      "The water's surface darkens now as you move further away from land.  Cold winds continue to rush along the waves."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20470": "/rooms/20471/wayto/stringproc-20470.rb",
+      "20473": "/rooms/20471/wayto/stringproc-20473.rb"
+    },
+    "timeto": {
+      "20470": 2,
+      "20473": 2
+    }
+  }
+}

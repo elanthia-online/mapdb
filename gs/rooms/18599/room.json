@@ -1,0 +1,34 @@
+{
+  "checksum": "185e478e1ff33d4f8e006b315296120a",
+  "room": {
+    "id": 18599,
+    "title": [
+      "[Cleric Guild, Prayer Room]"
+    ],
+    "description": [
+      "Delicate arched niches have been carved out of the walls.  In each sits a small, beautiful statue of one of the Lords and Ladies of Liabo, looking out over those who have come to pray.  A number of kneeling pillows and padded benches have been placed strategically around the room, and a censer of soft incense hangs from the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18598": "southeast",
+      "18600": "northwest"
+    },
+    "timeto": {
+      "18598": 0.2,
+      "18600": 0.2
+    },
+    "uid": [
+      671006
+    ],
+    "image": "wl-cleric_guild-1275417297.png",
+    "image_coords": [
+      453,
+      70,
+      499,
+      116
+    ]
+  }
+}

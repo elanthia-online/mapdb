@@ -1,0 +1,44 @@
+{
+  "checksum": "a7734901f3992e3b90088ca769f7013d",
+  "room": {
+    "id": 2461,
+    "title": [
+      "[Commerce Burrow, Dwarven Circle]"
+    ],
+    "description": [
+      "Most of the shops along the way are prosperous two-story storefronts with clear glass windows and stately porches.   Fine furnishings glint in the candlelight from within a long wooden building near the end of the row.  Near the end of its freshly plowed front walk, a young trapper toils at the side of the road, pulling on a heavy sack of fresh skins.",
+      "A brisk wind blows along the path here, carrying with it the sounds of heated shouts and cheers from the northwest.  A young halfling warrior toils at the side of the road, pulling on a heavy sack of skins."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2460": "north",
+      "2462": "west",
+      "3381": "go building"
+    },
+    "timeto": {
+      "2460": 0.2,
+      "2462": 0.2,
+      "3381": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042320
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      1026,
+      1142,
+      1062,
+      1178
+    ]
+  }
+}

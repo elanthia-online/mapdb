@@ -1,0 +1,24 @@
+{
+  "checksum": "c73b52f49090390a743da6921fca050a",
+  "room": {
+    "id": 28519,
+    "title": [
+      "[Underground, Tunnel]"
+    ],
+    "description": [
+      "Though it cannot be seen beyond the slanted crevice that leads through the tunnel wall, the sea makes itself known in the salt scenting the air and the crashing sound of waves that reverberates through the stone.  The air that wafts in is fresh and cool, though heavy with humidity, a bright promise of what lies beyond the stone."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26437": "go crevice",
+      "28518": "west"
+    },
+    "timeto": {
+      "26437": 0.2,
+      "28518": 0.2
+    }
+  }
+}

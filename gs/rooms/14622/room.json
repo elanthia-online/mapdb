@@ -1,0 +1,34 @@
+{
+  "checksum": "ce581dd0ae8354d0c34632257053f3d9",
+  "room": {
+    "id": 14622,
+    "title": [
+      "[Moonshine Manor, Foyer]"
+    ],
+    "description": [
+      "Stained oak walls rise from the edges of a mirror-finished black marble floor up to the vaulted ceiling, their smooth expanses decorated with intricate tapestries.  Chandeliers dangle from above to accent the lighting offered by the deep bay windows, while the garbled sounds of revelry trickle into the foyer from a candlelit hallway.  A cheerful halfling host greets everyone that enters the polished ebony double doors, and servants scurry past on their way to the kitchen hidden under a spiral staircase."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Moonshine Manor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "526": "go doors",
+      "14623": "go staircase",
+      "16001": "go hallway"
+    },
+    "timeto": {
+      "526": 0.2,
+      "14623": 0.2,
+      "16001": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      18006002
+    ]
+  }
+}

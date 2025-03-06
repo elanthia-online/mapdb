@@ -1,0 +1,29 @@
+{
+  "checksum": "4304b4200c8ba39d71d4235d4825c84f",
+  "room": {
+    "id": 15053,
+    "title": [
+      "[Miliardo's Weaponry]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A glass-topped mistwood counter and a plain wooden table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "374": "out",
+      "15445": "northwest",
+      "15446": "northeast"
+    },
+    "timeto": {
+      "374": 0.2,
+      "15445": 0.2,
+      "15446": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

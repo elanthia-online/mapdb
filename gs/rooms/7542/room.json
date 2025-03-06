@@ -1,0 +1,40 @@
+{
+  "checksum": "1728fb5cf4d0f534fc6aac24a3f6e4f0",
+  "room": {
+    "id": 7542,
+    "title": [
+      "[Catacombs, Secret Workshop]"
+    ],
+    "description": [
+      "This seems to be a secret workshop of some sort.  Weapons in various states of completion are held in locked vises atop a large wooden workbench.  Shelves filled with finely made tools line the walls.  Against one corner leans a huge broadsword, the hugest you have ever seen."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "404": "/rooms/7542/wayto/stringproc-404.rb",
+      "7540": "pull cresset"
+    },
+    "timeto": {
+      "404": 0.4,
+      "7540": 0.2
+    },
+    "tags": [
+      "node",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      46027
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      421,
+      1208,
+      431,
+      1218
+    ]
+  }
+}

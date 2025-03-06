@@ -1,0 +1,60 @@
+{
+  "checksum": "bf852bdfd6fdece146469bce13086fa6",
+  "room": {
+    "id": 11357,
+    "title": [
+      "[Ravine Bottom]"
+    ],
+    "description": [
+      "You are at the very bottom of a ravine.  Above you looms an odd structure with ropes and pulleys and lots of things that do complex stuff.  It looks as if the only way out of here is up the southern wall."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Citadel",
+    "climate": "arid",
+    "terrain": "rough",
+    "wayto": {
+      "11355": "/rooms/11357/wayto/stringproc-11355.rb",
+      "11358": "/rooms/11357/wayto/stringproc-11358.rb"
+    },
+    "timeto": {
+      "11355": 0.2,
+      "11358": 3
+    },
+    "tags": [
+      "yellow primrose",
+      "broken twig",
+      "cactus flower",
+      "stalk of chicory",
+      "white poppy",
+      "moonlight cactus-bloom",
+      "pink poppy",
+      "heath aster",
+      "purple poppy",
+      "blue poppy",
+      "red poppy",
+      "yellow poppy",
+      "golden poppy",
+      "small wild rose",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "banana leaf",
+      "meta:forage-sensed:night:2023-02",
+      "horseradish root",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      377017
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      236,
+      1338,
+      248,
+      1350
+    ]
+  }
+}

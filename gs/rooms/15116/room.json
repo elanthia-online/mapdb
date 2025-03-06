@@ -1,0 +1,29 @@
+{
+  "checksum": "73055d7c578997945f3fe32cf7fe4a21",
+  "room": {
+    "id": 15116,
+    "title": [
+      "[Orzel's Magic Shoppe]"
+    ],
+    "description": [
+      "Celadon marble walls rise from a dark-stained oak floor.  Just above a thin gold-edge black runner hangs a tattered merchant permit, and a vaulted ceiling completes the picture.  A vine-carved mahogany table and a Vornavian silk-lined display case stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "357": "out",
+      "15309": "southwest",
+      "15310": "southeast"
+    },
+    "timeto": {
+      "357": 0.2,
+      "15309": 0.2,
+      "15310": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

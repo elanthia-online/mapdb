@@ -1,0 +1,43 @@
+{
+  "checksum": "d4b511ad5588b4e6c7e7d973832f6949",
+  "room": {
+    "id": 7379,
+    "title": [
+      "[Shadow Plain]"
+    ],
+    "description": [
+      "The dried out and barren remains of this once beautiful plain are peppered by small mounds of black sand.  Dark clouds overhead cast haunting shadows that ooze over the barren ground.  Stretched out to the southeast lie long stretches of shattered and dead land."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7378": "northwest",
+      "7380": "southwest"
+    },
+    "timeto": {
+      "7378": 0.2,
+      "7380": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2160021
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1279,
+      996,
+      1289,
+      1006
+    ]
+  }
+}

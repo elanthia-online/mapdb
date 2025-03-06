@@ -1,0 +1,33 @@
+{
+  "checksum": "35144a4704fdd9d8d2fde6b94bac41d1",
+  "room": {
+    "id": 5603,
+    "title": [
+      "[Storage Warehouse, Hallway]"
+    ],
+    "description": [
+      "A guttering lantern provides enough light to avoid tripping on the uneven flooring, but the musty odor of mildew and the black-stained boards of the walls give the hallway a close, malevolent feel.  A curtained opening is visible in the west wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5600": "north",
+      "5604": "south"
+    },
+    "timeto": {
+      "5600": 0.2,
+      "5604": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120204
+    ]
+  }
+}

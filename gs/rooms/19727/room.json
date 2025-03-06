@@ -1,0 +1,41 @@
+{
+  "checksum": "cda47b541bafa42c2cd7612689f2bcaa",
+  "room": {
+    "id": 19727,
+    "title": [
+      "[In a Tiny Boat]"
+    ],
+    "description": [
+      "You are bobbing along in one of the tiny fishing boats used by the Gnolls."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19726": "go shore",
+      "19990": "/rooms/19727/wayto/stringproc-19990.rb"
+    },
+    "timeto": {
+      "19726": 0.2,
+      "19990": 2.2
+    },
+    "tags": [
+      "no-auto-map",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11100
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      341,
+      603,
+      359,
+      619
+    ]
+  }
+}

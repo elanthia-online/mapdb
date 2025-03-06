@@ -1,0 +1,46 @@
+{
+  "checksum": "1ae02361225da02f2a2ae06b288b6891",
+  "room": {
+    "id": 21651,
+    "title": [
+      "[The Keep Rooftop, Northeast]"
+    ],
+    "description": [
+      "A sturdy wooden ladder emerges from the rock floor, allowing access back into the keep.  The tall parapet is reinforced here to ensure that access is not blocked by a lucky strike from a besieger's trebuchet, although the thick ramparts below make it unlikely that the precaution will ever be tested.  On the corner of the parapet, a thick pole holds aloft a black flag with a brilliant white shield emblazoned on it."
+    ],
+    "paths": [
+      "Obvious paths: south, southwest, west"
+    ],
+    "location": "near Fearling Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "21650": "go ladder",
+      "21654": "west",
+      "21655": "southwest",
+      "21656": "south"
+    },
+    "timeto": {
+      "21650": 0.2,
+      "21654": 0.2,
+      "21655": 0.2,
+      "21656": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      14116059
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      775,
+      145,
+      788,
+      158
+    ]
+  }
+}

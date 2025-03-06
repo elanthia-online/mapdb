@@ -1,0 +1,37 @@
+{
+  "checksum": "322b32d899734a29c931afb7fb66c8db",
+  "room": {
+    "id": 25943,
+    "title": [
+      "[Shade Square, Southwest]"
+    ],
+    "description": [
+      "The corner of the square is filled with the wrenching cries of the living, as bone golems stomp down the lane, dragging a number of humans, kicking and screaming behind them.  The air is heavy with the overwhelming scent of decomposition."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "25942": "south",
+      "25945": "east",
+      "25968": "north",
+      "25969": "northeast",
+      "25989": "go shop"
+    },
+    "timeto": {
+      "25942": 0.2,
+      "25945": 0.2,
+      "25968": 0.2,
+      "25969": 0.2,
+      "25989": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      755,
+      509,
+      781,
+      535
+    ]
+  }
+}

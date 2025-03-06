@@ -1,0 +1,46 @@
+{
+  "checksum": "6a20aa4435a7a01809e624ee4f00c6df",
+  "room": {
+    "id": 617,
+    "title": [
+      "[Ta'Illistim, Moonglae Var]",
+      "[Ta'Illistim, Weyr Var]"
+    ],
+    "description": [
+      "The var is nearly deserted as it passes beneath the shelter of the high city wall to the north.  A gentle breeze coursing over the top of the wall sets some windchimes to ringing in the doorway of a darkened cottage.  A tiny kitten, roused from its nap on a bench in the yard, mews in protest at the disturbance.",
+      "Several elves in traveling cloaks burdened with satchels and portmanteaux lumber in the direction of the airship docks visible to the east.  An elderly couple relaxing on a bench in their front yard looks on the travelers with an expression of mild pity as they nestle against each other in comfortable contentment.  A light wind courses over the top of the city wall to the north, setting the windchime hanging in the cottage doorway to ringing.",
+      "The high city wall overlooks the var, restricting any viewshed to down the road in one direction or the other.  Near this barricade, several small houses are clustered together, making a modest neighborhood.  The road is wide and well-worn, residential neighborhood or not, here in proximity to the Ta'Illistim airship docks."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "616": "southeast",
+      "618": "west",
+      "23817": "go building"
+    },
+    "timeto": {
+      "616": 0.2,
+      "618": 0.2,
+      "23817": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101044
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      911,
+      84,
+      932,
+      105
+    ]
+  }
+}

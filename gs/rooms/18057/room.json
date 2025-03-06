@@ -1,0 +1,30 @@
+{
+  "checksum": "8ccb18c82220993d3292530026d45840",
+  "room": {
+    "id": 18057,
+    "title": [
+      "[Wynterr's General Store]",
+      "[Wynterr's Outfitting]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  An elegantly carved oak armoire sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10453": "out",
+      "18077": "east",
+      "18078": "north"
+    },
+    "timeto": {
+      "10453": 0.2,
+      "18077": 0.2,
+      "18078": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

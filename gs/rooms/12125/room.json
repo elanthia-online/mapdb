@@ -1,0 +1,45 @@
+{
+  "checksum": "42e3dc1a7a5a4e39f9835de9935fc300",
+  "room": {
+    "id": 12125,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The chapel walls are lined with statues, one for each of the Lords of Liabo and Lornon.  The statues seem to have been carved from wax, detailed to the long eyelashes of Ivas and the polished claws of Andelas.  It is impossible to see the detail of the Gods of Light, for the wax has melted, turning them into misshapen and twisted replicas of what they once were."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest",
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12141": "southwest",
+      "12145": "northwest",
+      "12207": "/rooms/12125/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12125/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12141": 0.2,
+      "12145": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "withered deathblossom",
+      "mass of congealed slime"
+    ],
+    "uid": [
+      4569012
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      596,
+      1208,
+      604,
+      1216
+    ]
+  }
+}

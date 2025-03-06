@@ -1,0 +1,44 @@
+{
+  "checksum": "38adae99d1df2e12a1ada06484b1fe16",
+  "room": {
+    "id": 9540,
+    "title": [
+      "[Troll Burial Grounds]"
+    ],
+    "description": [
+      "The sea of bones filters into this room from the large chamber to the east, the narrowness of the walls forcing the bones into sloping piles.  The unstable surface makes walking difficult, the bones shifting with each step, exposing potentially dangerous broken points of bone or bits of rusted metal."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Troll Burial Grounds",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9539": "east",
+      "9541": "west"
+    },
+    "timeto": {
+      "9539": 0.2,
+      "9541": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13011033
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      606,
+      1131,
+      616,
+      1141
+    ]
+  }
+}

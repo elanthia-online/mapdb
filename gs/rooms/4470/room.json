@@ -1,0 +1,30 @@
+{
+  "checksum": "6e27e3917c4b22b7634d8146992eb914",
+  "room": {
+    "id": 4470,
+    "title": [
+      "[Zigiluk's Helms, Helms & Coifs]"
+    ],
+    "description": [
+      "The cavern widens out again as you enter the northernmost room.  An invar-banded polished steel table rests against the north wall, and a long ironwood shelf is suspended immediately above it."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4469": "southwest",
+      "4471": "southeast",
+      "4472": "go arch"
+    },
+    "timeto": {
+      "4469": 0.2,
+      "4471": 0.2,
+      "4472": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

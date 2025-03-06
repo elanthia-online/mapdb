@@ -1,0 +1,44 @@
+{
+  "checksum": "047065356906ce0af74727ae78cff801",
+  "room": {
+    "id": 5574,
+    "title": [
+      "[Outlands Manor, Tower]"
+    ],
+    "description": [
+      "An empty water barrel, the tin dipper still hanging by its chain, stands in the middle of the floor.  Empty weapon racks and short barrels that must once have held either arrows or quarrels form short lines that radiate from the water barrel.  The arrangement appears to have been constructed to provide ready access to the necessities of defense to defenders from the adjacent rooms."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Outlands",
+    "wayto": {
+      "5571": "north",
+      "5572": "west",
+      "5573": "east",
+      "5575": "south"
+    },
+    "timeto": {
+      "5571": 0.2,
+      "5572": 0.2,
+      "5573": 0.2,
+      "5575": 0.2
+    },
+    "tags": [
+      "dobrem",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4215181
+    ],
+    "image": "vo-outlands-1264234799.png",
+    "image_coords": [
+      976,
+      157,
+      986,
+      167
+    ]
+  }
+}

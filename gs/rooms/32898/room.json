@@ -1,0 +1,42 @@
+{
+  "checksum": "e145c9712e94d1be89b4b82b61f3f131",
+  "room": {
+    "id": 32898,
+    "title": [
+      "[Brisker's Cove, Comyner's Docks]"
+    ],
+    "description": [
+      "One of three visible dock systems, the Commoner's Pier is situated between the Fisherman's Pier to the west and the Pier of the Desert Eagle to the east.  Steeply inclined to depart from the cobblestone streets, the ramp drops almost two stories before connecting to a wide pier surrounded by thick pilings.  A thin curl of smoke departs from the chimney of the Harbormaster's office, the tenebrous substance barely visible."
+    ],
+    "paths": [
+      "Obvious paths: east, west, down"
+    ],
+    "location": "Seareach",
+    "climate": "arid, temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32882": "west",
+      "32897": "east",
+      "32899": "down"
+    },
+    "timeto": {
+      "32882": 0.2,
+      "32897": 0.2,
+      "32899": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7140001
+    ],
+    "image": "osa-briskers_cove-1693936381.png",
+    "image_coords": [
+      375,
+      496,
+      389,
+      509
+    ]
+  }
+}

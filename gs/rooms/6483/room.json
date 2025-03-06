@@ -1,0 +1,41 @@
+{
+  "checksum": "8c858043e9eb415eca7278ebf6d0cceb",
+  "room": {
+    "id": 6483,
+    "title": [
+      "[Underground Lake, In The Water]"
+    ],
+    "description": [
+      "The water is calm and shallow.  You can hear the dim rumble of the nearby waterfall."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6480": "west",
+      "6481": "southwest",
+      "6482": "south"
+    },
+    "timeto": {
+      "6480": 0.2,
+      "6481": 0.2,
+      "6482": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      92104
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      667,
+      979,
+      677,
+      989
+    ]
+  }
+}

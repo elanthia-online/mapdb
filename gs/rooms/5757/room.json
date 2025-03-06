@@ -1,0 +1,52 @@
+{
+  "checksum": "a05c5e104e8d74babf420dea593b819e",
+  "room": {
+    "id": 5757,
+    "title": [
+      "[Mraent Cavern, Granite Tunnel]"
+    ],
+    "description": [
+      "A long tunnel runs straight and level through the heart of the mountain.  Steel pins and brackets are scattered on the floor, the only evidence that the quarry's rail system once ran though here.  Directional signals are scratched into the marble walls at regular intervals to prevent the workers from becoming disoriented in the darkness."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5756": "west",
+      "5758": "east",
+      "5763": "south"
+    },
+    "timeto": {
+      "5756": 0.2,
+      "5758": 0.2,
+      "5763": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "black hook mushroom",
+      "withered black mushroom",
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008012
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      357,
+      97,
+      367,
+      107
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "977ddffc6372481e9973a4bb15629547",
+  "room": {
+    "id": 6924,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Two lanterns flank the tunnel to the southeast, providing a bright light by which to see.  A keg of slightly fusty water sits in one corner, and a deep ladle hangs off the side of the barrel for ease of drinking.  Some thoughtful soul has left a tattered woolen blanket next to the water, in case someone needed a quick nap while on their smuggling run."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, west"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6916": "west",
+      "6925": "north",
+      "6927": "southeast"
+    },
+    "timeto": {
+      "6916": 0.2,
+      "6925": 0.2,
+      "6927": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37011
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      989,
+      1355,
+      999,
+      1365
+    ]
+  }
+}

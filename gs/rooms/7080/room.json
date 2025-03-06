@@ -1,0 +1,40 @@
+{
+  "checksum": "cf5e8a5f007aff32afefc285cf1d992f",
+  "room": {
+    "id": 7080,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The floor of this room is covered with a thick layer of mouldy straw, the thickest and most-compacted layer lying directly beneath a dark hole in the ceiling.  Rustles and scratches alert you to the fact that not all of the inhabitants of this room are two-legged."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7079": "go door"
+    },
+    "timeto": {
+      "7079": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44016
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      760,
+      1049,
+      770,
+      1059
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "f97f3af33d6ab1e461dfcfa62e7340f7",
+  "room": {
+    "id": 18324,
+    "title": [
+      "[Saewehna Lagoon]"
+    ],
+    "description": [
+      "Lines of ivory foam cling to the edge of the shoreline, collecting against the soil and reflecting the muted light of the moons.  The trees framing the lagoon enhance the darkness of night as the branches of a few extend enough to cast shadows over the glistening black surface of the water.  Occupying the majority of the shore, a decorated bamboo hut appears to be closed for the evening, but the flickering light of torches illuminate a pathway leading around the lagoon.",
+      "Lines of ivory foam cling to the edge of the shoreline, intermingling with the strands of flora that flourish on the shore of the lagoon.  The trees framing the lagoon provide some respite from the heat of the sun as the branches of a few extend out over the water to cast shadows over the surface.  A decorated bamboo hut occupying the majority of the shore can be seen as well as a pathway providing a means to travel around the lagoon."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west, northwest"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "saltwater",
+    "terrain": "sandy",
+    "wayto": {
+      "18322": "swim north",
+      "18323": "go shoreline",
+      "18326": "swim southwest",
+      "18330": "swim northwest",
+      "18333": "swim west"
+    },
+    "timeto": {
+      "18322": 5,
+      "18323": 0.2,
+      "18326": 5,
+      "18330": 5,
+      "18333": 5
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3210477
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      2041,
+      900,
+      2070,
+      929
+    ]
+  }
+}

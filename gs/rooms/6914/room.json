@@ -1,0 +1,50 @@
+{
+  "checksum": "e10fb59623132f8f6da63651abdc3f6d",
+  "room": {
+    "id": 6914,
+    "title": [
+      "[Smuggling Tunnels, Passage]"
+    ],
+    "description": [
+      "Dirt sifts down onto your head, leaving doubts as to the stability of this corridor.  Large chunks of wall have fallen away, but the tunnel remains clear for the passage of people or goods."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest"
+    ],
+    "location": "the smuggling tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "6909": "east",
+      "6910": "south",
+      "6911": "southwest"
+    },
+    "timeto": {
+      "6909": 0.2,
+      "6910": 0.2,
+      "6911": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "meta:forage-sensed:day:2024-01"
+    ],
+    "uid": [
+      37003
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      986,
+      1249,
+      996,
+      1259
+    ]
+  }
+}

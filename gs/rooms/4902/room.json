@@ -1,0 +1,41 @@
+{
+  "checksum": "59c0c9b61484051dca18d30f8a6fc73d",
+  "room": {
+    "id": 4902,
+    "title": [
+      "[Gyldemar Forest, Plateau]"
+    ],
+    "description": [
+      "Few trees cover the plateau due to the amount of rock that fills the base.  Patches of grass have pushed up between some of the larger rocks.",
+      "Few trees cover the plateau due to the amount of rock that fills the base.  Patches of grass have pushed up through the darkness between some of the larger rocks."
+    ],
+    "paths": [
+      "Obvious paths: east, down"
+    ],
+    "location": "Gyldemar Forest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4901": "down",
+      "4903": "east"
+    },
+    "timeto": {
+      "4901": 0.2,
+      "4903": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13030035
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      705,
+      37,
+      715,
+      47
+    ]
+  }
+}

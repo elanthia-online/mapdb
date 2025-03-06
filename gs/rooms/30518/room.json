@@ -1,0 +1,43 @@
+{
+  "checksum": "05d19e31c16169615074e90bc42e1ca1",
+  "room": {
+    "id": 30518,
+    "title": [
+      "[Glatoph, Glacier]"
+    ],
+    "description": [
+      "Reflections off of the ice dazzle your eyes.  Shivering with the cold, you can barely make out four passages leading out in different directions.  Nothing stands out to distinguish this chamber from dozens just like it."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "7872": "southwest",
+      "30516": "northwest",
+      "30517": "northeast",
+      "30519": "southeast"
+    },
+    "timeto": {
+      "7872": 0.2,
+      "30516": 0.2,
+      "30517": 0.2,
+      "30519": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35036
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      914,
+      303,
+      923,
+      313
+    ]
+  }
+}

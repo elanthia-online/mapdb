@@ -1,0 +1,47 @@
+{
+  "checksum": "d48bf1d5f5bf38325803837b9776546c",
+  "room": {
+    "id": 7244,
+    "title": [
+      "[Under Barrow, Sloping Passage]"
+    ],
+    "description": [
+      "This narrow, cramped passage slopes at a steep angle.  Years of accumulated muck makes the footing very treacherous.  As you proceed along it, you come to the disturbing conclusion that the tunnel seems to have been dug upwards from deep underground, by constant clawing and scraping, as though something were desperately trying to burrow its way out."
+    ],
+    "paths": [
+      "Obvious exits: up, down"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7243": "down",
+      "7245": "up"
+    },
+    "timeto": {
+      "7243": 0.2,
+      "7245": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18101
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      618,
+      506,
+      628,
+      516
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "checksum": "79113a4bbc92a8c32de4577f0e5ba73c",
+  "room": {
+    "id": 8533,
+    "title": [
+      "[Upper Trollfang]"
+    ],
+    "description": [
+      "The ground is quite soft here and you notice that your footprints are quickly filling with water as you pass.  Swarms of bloodsucking flying insects, similar to mosquitoes but much larger, seem to sense that you are having trouble moving through this area.  They land on every inch of exposed flesh and the resulting pain is enough to cause you to cry out in frustration."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "temperate",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "8532": "/rooms/8533/wayto/stringproc-8532.rb",
+      "8534": "/rooms/8533/wayto/stringproc-8534.rb"
+    },
+    "timeto": {
+      "8532": 5,
+      "8534": 5
+    },
+    "tags": [
+      "water chestnut",
+      "daggerstalk mushroom",
+      "stalk of cattail",
+      "withered black mushroom",
+      "flathead mushroom",
+      "soft white mushroom",
+      "genkew mushroom",
+      "trollfear mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "calamia fruit",
+      "haphip root",
+      "wild gooseberry",
+      "small wild rose",
+      "kylan berry",
+      "blue whortleberry",
+      "pepperthorn root",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "sunburst blossom",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "broken twig",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16019
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      980,
+      651,
+      990,
+      661
+    ]
+  }
+}

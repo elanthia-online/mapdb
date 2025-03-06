@@ -1,0 +1,80 @@
+{
+  "checksum": "e177832239b35abd7878480705bb02ff",
+  "room": {
+    "id": 345,
+    "title": [
+      "[East Row, Pine Point]"
+    ],
+    "description": [
+      "The road dips down here, following the natural curvature of the land.  As a result, the pines growing in the area are tilted somewhat askew."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "344": "west",
+      "346": "east",
+      "15212": "go simple shop",
+      "19497": "go wood-trimmed building",
+      "24859": "go fieldstone shop"
+    },
+    "timeto": {
+      "344": 0.2,
+      "346": 0.2,
+      "15212": 0.2,
+      "19497": 0.2,
+      "24859": 0.2
+    },
+    "tags": [
+      "some acantha leaf",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild carrot",
+      "ginger root",
+      "wild chokecherry",
+      "motherwort",
+      "murkweed",
+      "blue whortleberry",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      731037
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      1371,
+      39,
+      1381,
+      49
+    ]
+  }
+}

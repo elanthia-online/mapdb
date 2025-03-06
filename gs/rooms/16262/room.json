@@ -1,0 +1,29 @@
+{
+  "checksum": "c94eae60003c98e11e46892eae520ef4",
+  "room": {
+    "id": 16262,
+    "title": [
+      "[Karazja Jungle, Overgrown Path]"
+    ],
+    "description": [
+      "A heavy thicket of blackberry briars crowds out the other undergrowth.  Bits of fur and crude cloth are snagged on the briar thorns.  Overhead, the thick jungle foliage looms menacingly.  Vines, thin as spiderwebs, hang down from the branches."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, west"
+    ],
+    "location": "the Karazja Jungle",
+    "wayto": {
+      "16246": "northeast",
+      "16260": "southwest",
+      "16261": "west"
+    },
+    "timeto": {
+      "16246": 0.2,
+      "16260": 0.2,
+      "16261": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ]
+  }
+}

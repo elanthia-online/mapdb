@@ -1,0 +1,32 @@
+{
+  "checksum": "e07a75a6dc83e1e882c303b8816e142f",
+  "room": {
+    "id": 4515,
+    "title": [
+      "[Big Things, Combination Room]"
+    ],
+    "description": [
+      "Many mediums come together along the walls here, including stone, metal, and wood.  From one medium to the next, the junctures are smooth.  In the center of the floor, a large table covered with a plush red cloth holds stacks of weapons.  The table, too tall for the shorter races, has several stepstools surrounding it to allow them to peer at the displayed wares here.  A large wooden door, banded with iron, is set in the north wall."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4514": "south",
+      "4516": "west",
+      "4517": "east",
+      "4518": "go door"
+    },
+    "timeto": {
+      "4514": 0.2,
+      "4516": 0.2,
+      "4517": 0.2,
+      "4518": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

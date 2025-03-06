@@ -1,0 +1,41 @@
+{
+  "checksum": "70035ed654da4e738332810602ed50ae",
+  "room": {
+    "id": 3109,
+    "title": [
+      "[Abandoned Farm, Yard]"
+    ],
+    "description": [
+      "Lengths of rotting fencing sag beneath the weight of brambles climbing over them, struggling to reclaim this stretch of open land.  The snow lingers in thick clumps on the brambles."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "the Abandoned Farm",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3108": "west",
+      "3110": "north"
+    },
+    "timeto": {
+      "3108": 0.2,
+      "3110": 0.2
+    },
+    "tags": [
+      "wraith",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4124029
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      785,
+      462,
+      795,
+      472
+    ]
+  }
+}

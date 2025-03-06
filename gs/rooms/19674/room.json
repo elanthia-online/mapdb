@@ -1,0 +1,42 @@
+{
+  "checksum": "ee27eaf96edc2743d675af55d19a9f85",
+  "room": {
+    "id": 19674,
+    "title": [
+      "[Cavernhold, Rutted Intersection]"
+    ],
+    "description": [
+      "The floor of this intersection has been rutted by traffic that apparently is coming from the north and moving along the southwest passage.  The smell of sawdust comes from the room to the south."
+    ],
+    "paths": [
+      "Obvious exits: north, south, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19673": "south",
+      "19675": "southwest",
+      "19695": "north"
+    },
+    "timeto": {
+      "19673": 0.2,
+      "19675": 0.2,
+      "19695": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11033
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1000,
+      676,
+      1012,
+      687
+    ]
+  }
+}

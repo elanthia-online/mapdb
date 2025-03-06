@@ -1,0 +1,22 @@
+{
+  "checksum": "ceceed7b0eaeae7b8baf58de906f9161",
+  "room": {
+    "id": 23122,
+    "title": [
+      "[Sunken Mausoleum, Catacombs]"
+    ],
+    "description": [
+      "The entry to the catacombs is a narrow chamber, which is poorly lit by an oil lamp hanging from an ironwood rafter.  Imbedded into the granite walls are countless numbers of skulls, some with no jawbones, while others are cracked and destroyed.  A makeshift archway offers entrance into the necropolis, while a passageway leads into the crypt."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feymist Cemetery",
+    "wayto": {
+      "23121": "go passageway"
+    },
+    "timeto": {
+      "23121": 0.2
+    }
+  }
+}

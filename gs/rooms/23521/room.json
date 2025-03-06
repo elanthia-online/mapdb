@@ -1,0 +1,39 @@
+{
+  "checksum": "5d1959e265af69f45460ebf6795fdc9e",
+  "room": {
+    "id": 23521,
+    "title": [
+      "[Alabaster Spire, Foyer]"
+    ],
+    "description": [
+      "Alabaster slabs thrust upward in the form of a lotus flower, presenting a series of concave walls and hidden conversation nooks.  Reaching twice the height of a pure elf, the tips of the carved stone petals intertwine to form a complex vaulted ceiling.  A despanal-veined pedestal casts a dull scarlet glow from the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "23520": "out",
+      "23522": "go arch",
+      "24046": "climb stairway"
+    },
+    "timeto": {
+      "23520": 0.2,
+      "23522": 0.2,
+      "24046": 0.2
+    },
+    "tags": [
+      "meta:mho:Faendryl Enclave"
+    ],
+    "uid": [
+      18048004
+    ],
+    "image": "wl-faendrylenclave.png",
+    "image_coords": [
+      175,
+      384,
+      213,
+      421
+    ]
+  }
+}

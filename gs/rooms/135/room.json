@@ -1,0 +1,38 @@
+{
+  "checksum": "68563798a6c565a01fe136c2f18d8e95",
+  "room": {
+    "id": 135,
+    "title": [
+      "[Temple Wyneb, Calvaria]"
+    ],
+    "description": [
+      "Although no bats are visible in this chamber, evidence of their habitation coats the floor.  There must be some way for them to travel in and out of this cave and to a nearby lake, bog, or swamp."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Temple Wyneb",
+    "wayto": {
+      "134": "southeast",
+      "136": "northwest"
+    },
+    "timeto": {
+      "134": 0.2,
+      "136": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13300007
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      798,
+      493,
+      808,
+      503
+    ]
+  }
+}

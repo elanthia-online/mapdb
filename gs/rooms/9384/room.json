@@ -1,0 +1,37 @@
+{
+  "checksum": "3fefc61e46ceb6acd2c65f9ce66f2f7e",
+  "room": {
+    "id": 9384,
+    "title": [
+      "[Trading Post, Upstairs Hallway]"
+    ],
+    "description": [
+      "Several of the oil lamps here have either burnt out or have been extinguished.  The hallway is quite dark, and a small table sits against the wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9381": "south",
+      "9385": "go tanik door",
+      "9386": "go maoral door",
+      "9387": "north"
+    },
+    "timeto": {
+      "9381": 0.2,
+      "9385": 0.2,
+      "9386": 0.2,
+      "9387": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120107
+    ]
+  }
+}

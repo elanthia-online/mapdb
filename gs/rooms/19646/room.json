@@ -1,0 +1,40 @@
+{
+  "checksum": "0b2a755bb782fa3101f04fa773b6fdc1",
+  "room": {
+    "id": 19646,
+    "title": [
+      "[Cavernhold, Deep Canyon Room]"
+    ],
+    "description": [
+      "The thundering roar of crashing water pounds through the blackness of a deep canyon that cuts through this room.  Spanning the chasm and the unseen river below is a narrow natural bridge of grey and red rock."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19645": "northeast",
+      "19647": "go bridge"
+    },
+    "timeto": {
+      "19645": 0.2,
+      "19647": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10015
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      450,
+      1189,
+      462,
+      1200
+    ]
+  }
+}

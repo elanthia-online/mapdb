@@ -1,0 +1,50 @@
+{
+  "checksum": "4db4ab166d25e5039863be354ea6869d",
+  "room": {
+    "id": 7735,
+    "title": [
+      "[Mossy Caverns, Tunnel]"
+    ],
+    "description": [
+      "The tunnel descends gently downwards and to the south.  The walls are covered in a strange green moss, which glows with an eerie luminescence.  Just ahead, the tunnel opens into a brightly-lit cavern."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7734": "go opening",
+      "7736": "south"
+    },
+    "timeto": {
+      "7734": 0.2,
+      "7736": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "pothinir grass",
+      "withered black mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4381002
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      947,
+      1074,
+      957,
+      1084
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "6b62551a20263cbec948c2c1792290f0",
+  "room": {
+    "id": 18767,
+    "title": [
+      "[Empath Guild, Training Hall]"
+    ],
+    "description": [
+      "Indoor roses and pots of healing herbs line the apple wood-molded walls.  Expansive blue-washed sandstone floors are covered with light acantha green carpets, and five doors lead out of the main training hall.  Apart from all the doors, a dimly lit alcove is inset into one corner."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "18758": "east",
+      "18769": "go alcove",
+      "30543": "ask curunor about train alchemy"
+    },
+    "timeto": {
+      "18758": 0.2,
+      "18769": 0.2,
+      "30543": 0.2
+    },
+    "tags": [
+      "empath alchemy masters",
+      "empath guild masters"
+    ],
+    "uid": [
+      657016
+    ],
+    "image": "en-ta_vaalor_empath_guild.png",
+    "image_coords": [
+      600,
+      455,
+      663,
+      515
+    ]
+  }
+}

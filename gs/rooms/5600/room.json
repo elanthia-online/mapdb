@@ -1,0 +1,33 @@
+{
+  "checksum": "e100abaa370cc290e91e7311de5d5bc3",
+  "room": {
+    "id": 5600,
+    "title": [
+      "[Storage Warehouse, Hallway]"
+    ],
+    "description": [
+      "Dimly lit, this hallway runs west to a larger chamber and also turns to the south.  In the north wall is a curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5599": "west",
+      "5603": "south"
+    },
+    "timeto": {
+      "5599": 0.2,
+      "5603": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120203
+    ]
+  }
+}

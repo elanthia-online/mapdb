@@ -1,0 +1,36 @@
+{
+  "checksum": "41f089f608578d77215598b0a06fbc80",
+  "room": {
+    "id": 10434,
+    "title": [
+      "[Locksmith]",
+      "[Ta'Vaalor, Locksmith]"
+    ],
+    "description": [
+      "The wooden walls are bare except for unfinished shelves adorned with locks and lockpicks.  A frayed red carpet covers the center of the room, leaving the bare wooden slats exposed around the border of the floor.  The walls and floor of the building creak and groan as patrons move about the store.",
+      "The wall behind the counter is lined with an extensive array of meticulously labeled cubbyholes, each organized to hold specific types of locks, lock components, and lockpicks.  The locksmith, Shind, works behind counter, his spectacles perched on the tip of his nose.  To the left of the counter, a small sign has been tacked to the wall, under which is a stained oak barrel that serves as a trash bin.",
+      "The wall behind the counter is lined with an extensive array of meticulously labeled cubbyholes, each organized to hold specific types of locks, lock components, and lockpicks.  The locksmith, Shind, works behind the counter, his spectacles perched on the tip of his nose.  To the left of the counter, a small sign has been tacked to the wall, under which is a stained oak barrel that serves as a trash bin."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "3502": "out",
+      "30713": "/rooms/10434/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3502": 0.2,
+      "30713": "/rooms/10434/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "locksmith",
+      "urchin-access",
+      "urchin guide locksmith",
+      "locksmith shop"
+    ],
+    "uid": [
+      14103325
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "494637b4f02504000f0d6b0c3e8eac95",
+  "room": {
+    "id": 12301,
+    "title": [
+      "[Cobblestone Path]"
+    ],
+    "description": [
+      "Nary a home lines the cobblestones here, instead blossoming hydrangea bushes in a plethora of blue, pink, and purple shades line the path as it winds lazily up a small hill.  Beyond the tall bushes is a sea of grass, its deep green color peppered with flowers in bright hues.  A pair of robins sing their lilting song to one another, the gentle sound carried upon the breeze.",
+      "The path meanders along, lit only by the pale moonlight, as neither lantern nor home flank the cobblestone path here.  The sweet scent of wildflowers wafts across the cool evening breeze.  In the distance, the calming lull of crickets can be heard, the sound mingled with the intermittent hoot of a lone owl."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12300": "southeast",
+      "12304": "northwest"
+    },
+    "timeto": {
+      "12300": 0.2,
+      "12304": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201053
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2352,
+      905,
+      2388,
+      935
+    ]
+  }
+}

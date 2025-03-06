@@ -1,0 +1,66 @@
+{
+  "checksum": "cb8b26b16280247d0846b1f9c9e282ec",
+  "room": {
+    "id": 10010,
+    "title": [
+      "[High Plains, Moorgate]"
+    ],
+    "description": [
+      "The road rises to the north, the ground piled into a sloping ramp that ends in a massive, ancient stone gate.  No barrier stands to either side of the gate but the sheer ledge that forms the edge of the higher ground, and the heavy mist that covers the dark plateau beyond seeps down around its sides to swirl and dissipate in the damp air.",
+      "The road rises to the north, the ground piled into a sloping ramp that ends in a massive, ancient stone gate.  No barrier stands to either side of the gate but the sheer ledge that forms the edge of the higher ground, and the heavy mist that covers the dark plateau beyond seeps down around its sides to swirl and dissipate in the cold night air."
+    ],
+    "paths": [
+      "Obvious paths: east, south, southwest, northwest"
+    ],
+    "location": "the Yegharren Plains",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10009": "south",
+      "10011": "east",
+      "10016": "southwest",
+      "10020": "northwest",
+      "10043": "go gate"
+    },
+    "timeto": {
+      "10009": 0.2,
+      "10011": 0.2,
+      "10016": 0.2,
+      "10020": 0.2,
+      "10043": 0.2
+    },
+    "tags": [
+      "sweetfern stalk",
+      "bright red cranberry",
+      "cuctucae berry",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "withered black mushroom",
+      "stalk of chicory",
+      "small wild rose",
+      "wild chokecherry",
+      "blue whortleberry",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-11",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13036211
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      1349,
+      488,
+      1359,
+      498
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "575e2af1c67f41952cfc26d7213bbaa4",
+  "room": {
+    "id": 14951,
+    "title": [
+      "[Meadowlands, Village]"
+    ],
+    "description": [
+      "A cluster of houses is surrounded by lush fields, their patchwork perimeters bounded by borders of dark green trees.  The buildings are charming, thatched roofs and bright colored shutters characterizing them.  Rock chimneys spout wispy clouds of smoke, the masonry of the flues well-wrought and the rock obviously quarried from nearby."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14947": "south",
+      "14948": "north",
+      "14950": "east"
+    },
+    "timeto": {
+      "14947": 0.2,
+      "14948": 0.2,
+      "14950": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      702109
+    ]
+  }
+}

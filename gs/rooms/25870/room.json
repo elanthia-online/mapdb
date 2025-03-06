@@ -1,0 +1,39 @@
+{
+  "checksum": "361da4a5cfd1975c11da277368a10047",
+  "room": {
+    "id": 25870,
+    "title": [
+      "[Pemberley, Great Hall]"
+    ],
+    "description": [
+      "Polished villswood flooring stretches the length of this enormous room.  Soft golden teak paneling above pristine white wainscoting adds a warmth to the room.  Numerous paintings, depicting momentous events throughout history line the walls, lending their color to the grandeur of the hall.  A stately lor grandfather clock with beveled glass panels dominates the north wall next to a grand staircase that leads upwards towards a wide landing and the upper floors."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25869": "go doors",
+      "25872": "west",
+      "25873": "east",
+      "25875": "go staircase"
+    },
+    "timeto": {
+      "25869": 0.2,
+      "25872": 0.2,
+      "25873": 0.2,
+      "25875": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "private property"
+    ],
+    "uid": [
+      2016102
+    ]
+  }
+}

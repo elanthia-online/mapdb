@@ -1,0 +1,44 @@
+{
+  "checksum": "eaf5ed59129f4993971b97e18c399eea",
+  "room": {
+    "id": 3433,
+    "title": [
+      "[Silvermule, Corridor]"
+    ],
+    "description": [
+      "A long corridor stretches before you, lit by mining lamps hung on the walls.  Boxes are stacked along the walls with peculiar runes scratched onto them."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3431": "go door",
+      "3434": "north",
+      "19258": "go blackberry arch",
+      "28313": "go raspberry arch"
+    },
+    "timeto": {
+      "3431": 0.2,
+      "3434": 0.2,
+      "19258": 0.2,
+      "28313": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "houselockers"
+    ],
+    "uid": [
+      4043240
+    ],
+    "image": "imt-silvermule_gaming_hall-1484821104.png",
+    "image_coords": [
+      911,
+      1068,
+      1055,
+      1129
+    ]
+  }
+}

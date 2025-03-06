@@ -1,0 +1,27 @@
+{
+  "checksum": "8b5279142e4f0cffc7e4d683dc1fd467",
+  "room": {
+    "id": 21660,
+    "title": [
+      "[DeArchon Home, Upstairs]"
+    ],
+    "description": [
+      "The stairwell leads up to a wide upstairs hall.  A window is set into the wall at the further end of the hallway, draped over by a heavy blue curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21659": "go stairwell",
+      "21663": "go wooden door"
+    },
+    "timeto": {
+      "21659": 0.2,
+      "21663": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "6472c29a3485502f10e11a1cda44d3b6",
+  "room": {
+    "id": 11529,
+    "title": [
+      "[Reef, Submerged Passageway]"
+    ],
+    "description": [
+      "Several inches of water cover the floor of this tall, narrow grotto formed in the coral reef.  The moon filters through cracks overhead and reflects off the water, casting strange shadows that dance on the water as it ebbs and flows.  Small fish flash among the pink and orange coral like living darts.  The grotto extends north.",
+      "Several inches of water cover the floor of this tall, narrow grotto formed in the coral reef.  The sun filters through cracks overhead and reflects off the water, casting strange shadows that dance on the water as it ebbs and flows.  Small fish flash among the pink and orange coral like living darts.  The grotto extends north."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Ruined Tower",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "11477": "/rooms/11529/wayto/stringproc-11477.rb",
+      "11528": "north"
+    },
+    "timeto": {
+      "11477": 0.2,
+      "11528": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "meta:forage-sensed",
+      "strand of seaweed",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      305001
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      900,
+      1090,
+      910,
+      1100
+    ]
+  }
+}

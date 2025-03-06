@@ -1,0 +1,43 @@
+{
+  "checksum": "2313c81865c5c4294814fcd6fc01e29c",
+  "room": {
+    "id": 30512,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "Massive boulders of dusky granite lie scattered like children's blocks along the bottom.  Deeply buried in the sand to the south, the boulders rise successively higher to the northwest, finally breaking the water's surface overhead."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25543": "swim up",
+      "30510": "swim north",
+      "30511": "swim west",
+      "30513": "swim south"
+    },
+    "timeto": {
+      "25543": 0.2,
+      "30510": 0.2,
+      "30511": 0.2,
+      "30513": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117119
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1242,
+      1091,
+      1261,
+      1109
+    ]
+  }
+}

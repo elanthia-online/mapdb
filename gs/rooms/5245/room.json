@@ -1,0 +1,41 @@
+{
+  "checksum": "b8843af995863f4c9ad31b0dafc8976e",
+  "room": {
+    "id": 5245,
+    "title": [
+      "[Vornavian Coast, Beached Hulk]"
+    ],
+    "description": [
+      "A plank crosses the mast here, providing lookouts and dockhands a place to rest while working.  Rusted metal rings provide tie-offs for ropes that once hoisted sails up this mast.  The ladder continues up and down from this point."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "5243": "down",
+      "5246": "up"
+    },
+    "timeto": {
+      "5243": 0.2,
+      "5246": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4202155
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      91,
+      544,
+      101,
+      554
+    ]
+  }
+}

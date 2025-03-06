@@ -1,0 +1,35 @@
+{
+  "checksum": "55e5f56017364c85758f10b29921fbb1",
+  "room": {
+    "id": 13043,
+    "title": [
+      "[Dralen's Magic Shoppe]",
+      "[Dralen's General Store]",
+      "[Dralen's Outfitting]",
+      "[Dralen's Weaponry]",
+      "[Dralen's Armory]",
+      "[Dralen's Combat Gear]",
+      "[Dralen's Trinkets]",
+      "[Dralen's Lockpicks]"
+    ],
+    "description": [
+      "Enclosed by plain wooden walls, the shop features a worn rug in the center of its wooden floor.  A tattered merchant permit hangs under the wooden ceiling.  Right near the front is a large oak table and a small brown box."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "9300": "south"
+    },
+    "timeto": {
+      "9300": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ],
+    "uid": [
+      641363
+    ]
+  }
+}

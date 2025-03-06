@@ -1,0 +1,33 @@
+{
+  "checksum": "71ddbc8cc06c281ce67ec3dd2ca386b2",
+  "room": {
+    "id": 27751,
+    "title": [
+      "[Teclys's Magic Shoppe]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the tattered canvas walls, and a vaulted ceiling rises overhead.  An open-mawed greater vruul statue sits in one corner of an enameled hardwood floor.  There is a vine-carved mahogany table on one side of the shop and a bamboo rack on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "364": "out",
+      "27752": "west",
+      "27753": "east"
+    },
+    "timeto": {
+      "364": 0.2,
+      "27752": 0.2,
+      "27753": 0.2
+    },
+    "tags": [
+      "ps:teclys",
+      "meta:playershop"
+    ],
+    "uid": [
+      633289
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "1326a734b9b95c5c4effe8eeb38e66ae",
+  "room": {
+    "id": 25209,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "The monotony of the dusty dirt floor is unbroken save for a few patches of the same dark rock that comprise the walls of the cramped chamber peeking up through some of the more worn sections.  The angle of the tunnel turns sharply here, only a single torch upon the wall lighting the way.  A foul stench rides on the drafts flowing in from the north, saturating the moist air with the smell of rot."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25208": "southeast",
+      "25210": "north"
+    },
+    "timeto": {
+      "25208": 0.2,
+      "25210": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900306
+    ]
+  }
+}

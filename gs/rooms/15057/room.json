@@ -1,0 +1,30 @@
+{
+  "checksum": "24c1b3f6294d2730624df0ef2fe3fc95",
+  "room": {
+    "id": 15057,
+    "title": [
+      "[Veilorb's Magic Shoppe]",
+      "[Veilorb's General Store]"
+    ],
+    "description": [
+      "Enclosed by varnished ebonwood walls, the shop features a potted palm tree in the center of its black marble floor.  A mounted sea monster head hangs under the tiled ceiling.  Right near the front is a spacious grey slate counter and a brass treasure chest."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "372": "out",
+      "15453": "southwest",
+      "15454": "northeast"
+    },
+    "timeto": {
+      "372": 0.2,
+      "15453": 0.2,
+      "15454": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

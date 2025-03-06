@@ -1,0 +1,29 @@
+{
+  "checksum": "3a9d1f3ef9367bcaca00b7ecb38d0ad7",
+  "room": {
+    "id": 28711,
+    "title": [
+      "[The Sable Quietus, Passage]"
+    ],
+    "description": [
+      "Dimly lit by tallows placed in wrought iron sconces, the small passage has rough wooden walls and a packed dirt floor.  Rickety wooden stairs ascend to the floor above along the western edge, while white-washed oak planks form a descending staircase that disappears below.  A faded curtain outlined in light is the only other means of exiting the space."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Bloodriven Village",
+    "wayto": {
+      "23735": "go curtain",
+      "28712": "go staircase",
+      "29839": "go stairs"
+    },
+    "timeto": {
+      "23735": 0.2,
+      "28712": 0.2,
+      "29839": 0.2
+    },
+    "uid": [
+      8212653
+    ]
+  }
+}

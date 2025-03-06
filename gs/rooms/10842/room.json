@@ -1,0 +1,67 @@
+{
+  "checksum": "a93067c348800cb08dca8428277b46a2",
+  "room": {
+    "id": 10842,
+    "title": [
+      "[River's Rest, River Road]"
+    ],
+    "description": [
+      "River Road ends at the shore of a mighty bay and the sight of the river spilling into it is awe inspiring.  Dancing over a bed of small stones and almost lost in thick clumps of reeds, a small creek meanders from the north and turns to empty into the bay east of this sandy point.  A dilapidated pier juts into the river, its pilings standing strong against the river current, but its planking now hazardous.  Drifting on the breeze is the lonely cry of a waterbird hunting its dinner."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "sandy",
+    "wayto": {
+      "10841": "east",
+      "10843": "go pier",
+      "10844": "go path",
+      "10856": "go footbridge",
+      "10897": "go cottage",
+      "27348": "go warehouse"
+    },
+    "timeto": {
+      "10841": 0.2,
+      "10843": 0.2,
+      "10844": 0.2,
+      "10856": 0.2,
+      "10897": 0.2,
+      "27348": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "acantha leaf",
+      "cactacae spine",
+      "angelica root",
+      "yellow primrose",
+      "sagebrush root",
+      "tiger lily",
+      "wingstem root",
+      "bur-clover root",
+      "small coconut",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "banana leaf",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101003
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1980,
+      1162,
+      2016,
+      1198
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "f897c72a42eac44785455ef806bed03b",
+  "room": {
+    "id": 9114,
+    "title": [
+      "[Great Cavern, Bog]"
+    ],
+    "description": [
+      "There must be a stone floor beneath the mist here, but it is covered by thick, oozing mud.  You might step down into it to find out how deep it goes, but a little voice tells you that you are better off keeping to the firmer spots.  Odd sounds reverberate through the dark mist, continuing too long to be echos."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west, up"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9110": "up",
+      "9115": "south",
+      "9117": "west",
+      "9119": "east"
+    },
+    "timeto": {
+      "9110": 0.2,
+      "9115": 0.2,
+      "9117": 0.2,
+      "9119": 0.2
+    },
+    "tags": [
+      "some orchil lichen",
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045225
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      198,
+      729,
+      208,
+      739
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "fac9a47f822daf4c1e4ade69f8f66384",
+  "room": {
+    "id": 11823,
+    "title": [
+      "[Old Ta'Faendryl, West Market]"
+    ],
+    "description": [
+      "A recessed alcove in the city wall shelters a large thorny bush within its darkened depths.  Sharply tipped branches jut out away from the wall and clutch at the clothes of passing travelers like the fingers of an inept cutpurse reaching brazenly from the shadows.",
+      "A recessed alcove built into a jog in the city walls shelters a bush that is covered with what appears to be an equal abundance of small, cup-shaped red blossoms and vicious looking thorns.  The bush clings limpet-like to the wall, its prickly defenses amply sufficient protection against would be intruders to its private space."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11822": "southeast",
+      "11824": "northwest"
+    },
+    "timeto": {
+      "11822": 0.2,
+      "11824": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004009
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      624,
+      892,
+      634,
+      902
+    ]
+  }
+}

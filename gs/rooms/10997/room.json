@@ -1,0 +1,45 @@
+{
+  "checksum": "7c2da349bda32645352ba648184548e1",
+  "room": {
+    "id": 10997,
+    "title": [
+      "[Museum, Entrance Hall]"
+    ],
+    "description": [
+      "A gigantic mosaic forms the floor of the entrance hall.  Exhibit rooms branch off in the cardinal directions.  The circular stairway at the back of the hall is blocked off by a velvet rope barrier.  A small sign stands beside the graceful arched doorway leading out."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10870": "/rooms/10997/wayto/stringproc-10870.rb",
+      "10998": "north",
+      "10999": "east",
+      "11000": "south",
+      "11001": "west"
+    },
+    "timeto": {
+      "10870": 0.2,
+      "10998": 0.2,
+      "10999": 0.2,
+      "11000": 0.2,
+      "11001": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2101706
+    ],
+    "image_coords": [
+      605,
+      500,
+      631,
+      526
+    ]
+  }
+}

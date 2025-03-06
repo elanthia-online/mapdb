@@ -1,0 +1,32 @@
+{
+  "checksum": "0b8219b397251f642de8542fb83ce6e8",
+  "room": {
+    "id": 16390,
+    "title": [
+      "[Tiervah's Outfitting]",
+      "[Tiervah's Magic Shoppe]",
+      "[Tiervah's Armory]",
+      "[Tiervah's General Store]"
+    ],
+    "description": [
+      "Blue-speckled sea glass walls rise from a woven seagrass floor.  Just above a tropical floral arrangement hangs a tattered merchant permit, and a low skylight-set ceiling completes the picture.  A floral-etched ceramic case stands in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12265": "out",
+      "16682": "northwest",
+      "16683": "northeast"
+    },
+    "timeto": {
+      "12265": 0.2,
+      "16682": 0.2,
+      "16683": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checksum": "c7728b194f384d1acca66744ce82e34f",
+  "room": {
+    "id": 9128,
+    "title": [
+      "[Cavern, Lichen Bridge]"
+    ],
+    "description": [
+      "Incredible as it seems, the lichen is almost impervious to tearing.  Where a bit has been ripped away, you can make out another layer beneath.  For all you can tell, it may extend down to the bottom of the lake.  The bridge stretches away to the north and twists slightly as it heads south."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9127": "north",
+      "9129": "southwest"
+    },
+    "timeto": {
+      "9127": 0.2,
+      "9129": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045235
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      225,
+      924,
+      235,
+      934
+    ]
+  }
+}

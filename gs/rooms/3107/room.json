@@ -1,0 +1,43 @@
+{
+  "checksum": "e32962d2bb498f6435b53833dbe4f639",
+  "room": {
+    "id": 3107,
+    "title": [
+      "[Abandoned Farm, Yard]"
+    ],
+    "description": [
+      "The hard-packed earth of the yard is cluttered with heaps of broken equipment and rusty tools.  Ramshackle wooden buildings lean into each other, as though a sudden gust of wind might come through and demolish them all.  A broken plank leads into the barn."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Abandoned Farm",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3106": "go plank",
+      "3108": "east",
+      "3116": "go build"
+    },
+    "timeto": {
+      "3106": 0.2,
+      "3108": 0.2,
+      "3116": 0.2
+    },
+    "tags": [
+      "wraith",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4124027
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      731,
+      461,
+      741,
+      471
+    ]
+  }
+}

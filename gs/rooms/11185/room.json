@@ -1,0 +1,38 @@
+{
+  "checksum": "7b0db0067aa5ebebfe54d91a63e33023",
+  "room": {
+    "id": 11185,
+    "title": [
+      "[Garrison, Common Room]"
+    ],
+    "description": [
+      "This room, long and wide, was apparently the lounge or meeting room for the soldiers housed here.  Broken furniture and weapons litter the floor.  A rat scuttles across the floor, its claws rasping against the stones."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11183": "south",
+      "11186": "west"
+    },
+    "timeto": {
+      "11183": 0.2,
+      "11186": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100028
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      571,
+      301,
+      581,
+      311
+    ]
+  }
+}

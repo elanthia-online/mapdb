@@ -1,0 +1,54 @@
+{
+  "checksum": "25820739d025d6300f3d7d471f69a179",
+  "room": {
+    "id": 20631,
+    "title": [
+      "[Wehnimer's, Burrow Way]"
+    ],
+    "description": [
+      "Half-formed cobwebs cling to the far corners of the tunnel ceiling, collecting more dust than bugs.  Nearby, a crude wooden ladder leads up to a hinged trapdoor."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20630": "southwest",
+      "20632": "north",
+      "20639": "go ladder"
+    },
+    "timeto": {
+      "20630": 0.2,
+      "20632": 0.2,
+      "20639": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336723
+    ],
+    "image": "wl-burrow_way-1616121316.png",
+    "image_coords": [
+      1143,
+      184,
+      1180,
+      221
+    ]
+  }
+}

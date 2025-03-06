@@ -1,0 +1,32 @@
+{
+  "checksum": "ce48685fa3d6dbdadc785e5354fbad19",
+  "room": {
+    "id": 601,
+    "title": [
+      "[Shimmarglin Inn, Fountain Room]"
+    ],
+    "description": [
+      "A cool, slightly dank air pervades this round room, its source a gently gurgling fountain surrounded by a curving border of black oak benches.  Crafted in the form of a dancing wood sprite, the dark rock of the fountain provides a tiered descent for the flowing water as it winds its way to a circular pool at the base of the sculpture.  An arched, stained glass window stands behind the fountain, shedding pale light across the softly undulating surface of the pool."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "598": "west",
+      "30714": "/rooms/601/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "598": 0.2,
+      "30714": "/rooms/601/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access"
+    ],
+    "uid": [
+      13108005
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "8b16236bf48209f15413d0b8210cee6e",
+  "room": {
+    "id": 8215,
+    "title": [
+      "[Sea Caverns, Garbage Chamber]"
+    ],
+    "description": [
+      "Massive piles of garbage reach nearly to the ceiling.  Bones, scraps and unrecognizables mix together in a rotten morass of greys, browns and black.  Much of it is piled about a fissure in the floor.  The stench is so bad it's almost visible."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8214": "north",
+      "8216": "go fissure"
+    },
+    "timeto": {
+      "8214": 0.2,
+      "8216": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "white hook mushroom",
+      "murdroot",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391010
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      434,
+      157,
+      444,
+      167
+    ]
+  }
+}

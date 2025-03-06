@@ -1,0 +1,39 @@
+{
+  "checksum": "2b5efeeb07b7937504aa9bb251026077",
+  "room": {
+    "id": 2646,
+    "title": [
+      "[Pool]"
+    ],
+    "description": [
+      "The water is a startling shade of cerulean blue, edged with deeper blue shadows.  It moves vigorously, tossing itself over and under, and throwing sprays of drops high into the air at the command of hidden currents.  Above the pool, a large finger of stone extends over the pool, casting a shadow on the waves below it.  Standing behind the pool's rim, a throne can be seen, sitting silently as if meditating on the movement of the water."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Koar's Shrine",
+    "wayto": {
+      "2645": "/rooms/2646/wayto/stringproc-2645.rb",
+      "2647": "go rim"
+    },
+    "timeto": {
+      "2645": 5,
+      "2647": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4562043
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      296,
+      355,
+      306,
+      365
+    ]
+  }
+}

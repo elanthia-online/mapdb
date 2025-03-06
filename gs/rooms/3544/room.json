@@ -1,0 +1,57 @@
+{
+  "checksum": "933b16b02d0d0c155c900a10ff225ed3",
+  "room": {
+    "id": 3544,
+    "title": [
+      "[Ta'Vaalor, Victory Court]",
+      "[Ta'Vaalor, Tyrnian Court]",
+      "[Ta'vaalor, King's Court]",
+      "[Ta'Vaalor, King's Court]"
+    ],
+    "description": [
+      "Through an opening in the city's fortifying walls, a large dock extends out over the Mistydeep.  Although the boats anchored at the docks appear to be primarily pleasure crafts, there are a few cargo barges floating further out in the river.  A few elven sailors wander the docks seeing to various maintenance tasks.",
+      "Through an opening in the city's fortifying walls, a large dock extends out over the Mistydeep.  The lights from the city shimmer across the dark water of the river as it undulates gently on its course.",
+      "Through an opening in the city's fortifying walls, a large dock extends out over the Mistydeep.  Although the boats anchored at the docks appear to be primarily pleasure crafts, there are a few cargo barges floating further out in the river.  A few elven sailors wander the docks seeing to various maintenance tasks.  Tucked to one side is a crude table where trades are constantly being made."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3542": "north",
+      "10381": "go dock",
+      "30713": "/rooms/3544/wayto/stringproc-30713.rb"
+    },
+    "timeto": {
+      "3542": 0.2,
+      "10381": 0.2,
+      "30713": "/rooms/3544/timeto/stringproc-30713.rb"
+    },
+    "tags": [
+      "node",
+      "locksmith pool",
+      "meta:boxpool:npc:well-dressed elven merchant",
+      "meta:boxpool:table:crude table",
+      "supernode",
+      "urchin guide locksmithpool",
+      "urchin-access",
+      "locksmithpool",
+      "meta:trashcan:wooden barrel",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100045
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      926,
+      1001,
+      961,
+      1040
+    ]
+  }
+}

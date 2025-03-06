@@ -1,0 +1,62 @@
+{
+  "checksum": "1ded5bca05c3dfe16284a3aa1788609c",
+  "room": {
+    "id": 16402,
+    "title": [
+      "[The Lighthouse]"
+    ],
+    "description": [
+      "Standing before you is the newly renovated lighthouse.  The lighthouse has been fashioned from the timbers of several large ships that have met their fate by either grounding on sand bars or even worse, meeting the dreaded reef.  The smell of salted air flows inland from the mouth of the bay as a few pelicans glide slowly out to sea.  A heavy polished door with the Mist Harbor emblem carved into it serves as the entrance."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "16401": "southeast",
+      "16403": "go door",
+      "28496": "go bridge"
+    },
+    "timeto": {
+      "16401": 0.2,
+      "16403": 0.2,
+      "28496": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "blackened moss",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "agave heart",
+      "green guava",
+      "curly garlic scapes",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3201204
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2352,
+      345,
+      2385,
+      375
+    ]
+  }
+}

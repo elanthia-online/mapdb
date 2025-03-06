@@ -1,0 +1,41 @@
+{
+  "checksum": "973b88f4cacf59f3cb1aec007932df02",
+  "room": {
+    "id": 1484,
+    "title": [
+      "[Solhaven, North 'Haven Quay]"
+    ],
+    "description": [
+      "Stacks of barrels, crates, and bales leave little room to even walk, as a purser and his crew unload a caravel that is docked along the west end of the quay.",
+      "The stretch of grass tufts and jutting stone is littered with stacks of barrels, crates, and bales that leave little room to move, but that seems to little impede the flow of merchants and sailors swarming over the quay like garish ants.  A dark-painted cutter with crimson eyes on its prow is roped opposite a caravel with a shallow draft and swan-patterned green sails."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1483": "southeast",
+      "30213": "go ramp"
+    },
+    "timeto": {
+      "1483": 0.2,
+      "30213": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209095
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      637,
+      576,
+      661,
+      600
+    ]
+  }
+}

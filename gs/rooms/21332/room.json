@@ -1,0 +1,39 @@
+{
+  "checksum": "a3a9a86345b9007f215f9b4ea80d2154",
+  "room": {
+    "id": 21332,
+    "title": [
+      "[Sylvanfair, Lilac Garden]"
+    ],
+    "description": [
+      "The air of this walled garden is filled with the heady scent of lilacs from hundreds of bushes.  Several lilac bushes near the main Sylvanfair tree twine together underneath a stairway leading up to a lilac door.  A large ironwood tree stands in the center of the garden, with a door in its side."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21333": "go pathway",
+      "21334": "go door",
+      "26063": "go ironwood door"
+    },
+    "timeto": {
+      "21333": 0.2,
+      "21334": 0.2,
+      "26063": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211019
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      314,
+      339,
+      350,
+      376
+    ]
+  }
+}

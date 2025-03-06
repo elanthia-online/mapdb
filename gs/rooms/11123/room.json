@@ -1,0 +1,65 @@
+{
+  "checksum": "57586143263da9494ffbeaa65092881c",
+  "room": {
+    "id": 11123,
+    "title": [
+      "[River Tunnels, Boulder Cave]"
+    ],
+    "description": [
+      "The rushing water of the river outside can be clearly heard in this odd little cave, in fact it seems to ricochet and magnify itself through the strange shape of the cavern.  Some small amount of moonlight makes its way past the boulder providing a bit of illumination here.  Concentrating through the deafening noise, you notice that leading from this cavern are two tunnels, both leading steeply down underneath the town.",
+      "The rushing water of the river outside can be clearly heard in this odd little cave, in fact it seems to ricochet and magnify itself through the strange shape of the cavern.  Some small amount of light makes its way past the boulder providing a bit of illumination here.  Concentrating through the deafening noise, you notice that leading from this cavern are two tunnels, both leading steeply down underneath the town."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Citadel",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10884": "go boulder",
+      "11124": "south",
+      "11134": "east"
+    },
+    "timeto": {
+      "10884": 0.2,
+      "11124": 0.2,
+      "11134": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "aloeas stem",
+      "withered black mushroom",
+      "wild chokecherry",
+      "bright red cranberry",
+      "motherwort",
+      "murkweed",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "bur-clover root",
+      "cinnamon bark",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02",
+      "golden flax fronds",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2103023
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3324,
+      613,
+      3362,
+      649
+    ]
+  }
+}

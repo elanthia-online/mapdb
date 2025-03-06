@@ -1,0 +1,30 @@
+{
+  "checksum": "30c37f1165d89d08345d026f3c1ca8fe",
+  "room": {
+    "id": 13744,
+    "title": [
+      "[Sleevina's Magic Shoppe]",
+      "[Sleevina's General Store]"
+    ],
+    "description": [
+      "Enclosed by refined oak-paneled walls, the shop features a woven Vornavian silk rug in the center of its dark oak floor.  A gold and crimson wyvern tapestry hangs under the Vornavian silk ceiling.  Right near the front is a beveled glass-covered case and a gold-leafed mistwood cabinet."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9016": "out",
+      "13786": "northwest",
+      "13787": "northeast"
+    },
+    "timeto": {
+      "9016": 0.2,
+      "13786": 0.2,
+      "13787": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

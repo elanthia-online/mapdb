@@ -1,0 +1,24 @@
+{
+  "checksum": "9b6677e0ed94c8dd19d43d758e588eb9",
+  "room": {
+    "id": 20582,
+    "title": [
+      "[Erythro Island, Blood Cavern]"
+    ],
+    "description": [
+      "The blood tunnel winds down further before finally stopping and opening up into an enormous cavern.  Along the last portion of the passageway are rows of razor-sharp teeth, protruding out from the walls."
+    ],
+    "paths": [
+      "Obvious paths: north, up"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20581": "up",
+      "20583": "north"
+    },
+    "timeto": {
+      "20581": 0.2,
+      "20583": 0.2
+    }
+  }
+}

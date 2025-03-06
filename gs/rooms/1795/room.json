@@ -1,0 +1,42 @@
+{
+  "checksum": "8e9d279b35c184f2809102920d4b5859",
+  "room": {
+    "id": 1795,
+    "title": [
+      "[Wraithenmist, Ghost Town]"
+    ],
+    "description": [
+      "The remains of a dock jut over the lake to the north, most of the boards long since gone.  Bits of broken pottery dot the landscape, some lying flat and others protruding from the sodden ground at odd angles."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Wraithenmist",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1794": "east",
+      "1796": "south",
+      "1798": "north"
+    },
+    "timeto": {
+      "1794": 0.2,
+      "1796": 0.2,
+      "1798": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13027049
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      385,
+      106,
+      393,
+      114
+    ]
+  }
+}

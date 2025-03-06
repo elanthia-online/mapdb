@@ -1,0 +1,94 @@
+{
+  "checksum": "ac3f0da611f67dfb2ac4312c72560ccb",
+  "room": {
+    "id": 10840,
+    "title": [
+      "[River's Rest, River Road]"
+    ],
+    "description": [
+      "As safe as a gate, the river runs swiftly east to west, secure against intrusion when the well-built drawbridge to the mainland is raised.  Along the riverfront, comfortable benches are interspersed with odd three sided structures, large enough to hold a giant man comfortably, but their use not readily apparent.  A fresh breeze carries the sounds of a nearby marketplace from the east, and an occasional hint of roasting meat from somewhere to the north."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "the town of River's Rest",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10838": "go weeds",
+      "10841": "west",
+      "10846": "east",
+      "10852": "north",
+      "11006": "go drawbridge",
+      "30711": "/rooms/10840/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10838": 0.2,
+      "10841": 0.2,
+      "10846": 0.2,
+      "10852": 0.2,
+      "11006": 0.2,
+      "30711": "/rooms/10840/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "heath aster",
+      "ironfern root",
+      "murdroot",
+      "handful of oats",
+      "pepperthorn root",
+      "stalk of chicory",
+      "sprig of thanot",
+      "sprig of alyssum",
+      "small daisy",
+      "yellow primrose",
+      "stalk of goldenrod",
+      "small rose",
+      "wild chokecherry",
+      "withered black mushroom",
+      "alchemy sea water",
+      "urchin guide drawbridge",
+      "urchin-access",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "angelica root",
+      "small wild rose",
+      "motherwort",
+      "sagebrush root",
+      "murkweed",
+      "mistweed",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "sweet potato",
+      "agave heart",
+      "bright red beet",
+      "green guava",
+      "meta:forage-sensed:night:2023-02",
+      "juniper berry",
+      "curly garlic scapes",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      2101001
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      2288,
+      1160,
+      2328,
+      1200
+    ]
+  }
+}

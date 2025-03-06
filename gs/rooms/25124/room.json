@@ -1,0 +1,34 @@
+{
+  "checksum": "3dec0664fa758ff60de0ab28e34380fe",
+  "room": {
+    "id": 25124,
+    "title": [
+      "[Reim Castle, East Wing]"
+    ],
+    "description": [
+      "On either side of a wide corridor are a series of pale driftwood doors spaced evenly apart.  Embroidered on the carpet below is an intricate representation of a merchant vessel sailing across the sea of silken fabric.  At the end of the hallway, an arched double-wide door sits open, its carved hardwood adorned with golden, flora-filled scrollwork."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Settlement of Reim",
+    "wayto": {
+      "25123": "northwest",
+      "25125": "go door"
+    },
+    "timeto": {
+      "25123": 0.2,
+      "25125": 0.2
+    },
+    "uid": [
+      -7105170
+    ],
+    "image": "imt-Reim-1260914759.png",
+    "image_coords": [
+      440,
+      410,
+      452,
+      420
+    ]
+  }
+}

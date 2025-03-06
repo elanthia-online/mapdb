@@ -1,0 +1,46 @@
+{
+  "checksum": "6c1a6eac925c6d48e566906f10bbe799",
+  "room": {
+    "id": 7141,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The corridor widens a bit here at the corner.  The walls are uneven, as though hewn roughly from the bedrock.  A dark niche and many rocky extrusions twist the shadows into eerie forms.  In a couple of places, it looks like someone meant to dig a tunnel, then changed his mind."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7139": "east",
+      "7142": "south",
+      "7147": "go passage"
+    },
+    "timeto": {
+      "7139": 0.2,
+      "7142": 0.2,
+      "7147": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41019
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      976,
+      501,
+      986,
+      511
+    ]
+  }
+}

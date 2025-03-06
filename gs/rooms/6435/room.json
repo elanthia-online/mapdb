@@ -1,0 +1,39 @@
+{
+  "checksum": "23a3944b72e697c6373a24ab7f215c86",
+  "room": {
+    "id": 6435,
+    "title": [
+      "[Lysierian Hills, Store Bedroom]"
+    ],
+    "description": [
+      "The windows of this small room have been shuttered closed.  The glass panes, however, have been shattered and their shards scattered across the worn wood floor."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6433": "southwest",
+      "6434": "south"
+    },
+    "timeto": {
+      "6433": 0.2,
+      "6434": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      93069
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1129,
+      38,
+      1139,
+      48
+    ]
+  }
+}

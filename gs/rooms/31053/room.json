@@ -1,0 +1,33 @@
+{
+  "checksum": "4b8c187f3088feb339b7b8f9d37e28ba",
+  "room": {
+    "id": 31053,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "30744": "go arch",
+      "31054": "north",
+      "31055": "go curtained opening"
+    },
+    "timeto": {
+      "30744": 0.2,
+      "31054": 0.2,
+      "31055": 0.2
+    },
+    "tags": [
+      "lockerentrance:twilighthall",
+      "meta:locker annex:Twilight Hall"
+    ],
+    "uid": [
+      4219397
+    ]
+  }
+}

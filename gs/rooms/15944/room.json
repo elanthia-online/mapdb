@@ -1,0 +1,41 @@
+{
+  "checksum": "d433e07816f5f52c0dce20ed1ea2a2ad",
+  "room": {
+    "id": 15944,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "A low moaning reverberates off the hard stone surfaces of the ossuary, interspersed with quiet shuffling noises.  The darkness and shadows engulfing the area only serve to emphasize these dread sounds."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2978": "east",
+      "2979": "south",
+      "15943": "north"
+    },
+    "timeto": {
+      "2978": 0.2,
+      "2979": 0.2,
+      "15943": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132113
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1618,
+      420,
+      1669,
+      470
+    ]
+  }
+}

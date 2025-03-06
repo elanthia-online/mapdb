@@ -1,0 +1,30 @@
+{
+  "checksum": "00c294fcc6541046aac4f70bdb0ff9f7",
+  "room": {
+    "id": 32863,
+    "title": [
+      "[Darkened Chamber]"
+    ],
+    "description": [
+      "A single glaesine sconce attached to the wall illuminates the small chamber, casting a fitfully flickering light across the room's few features.  Smooth, dark-veined granite walls rise into the shadowed darkness.  Dangling from a chain at one side of the room is a small mithglin ring.  At the far end of the chamber is a simple curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "32862": "pull ring",
+      "32864": "go opening"
+    },
+    "timeto": {
+      "32862": 0.2,
+      "32864": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Silvergate Inn"
+    ],
+    "uid": [
+      14109206
+    ]
+  }
+}

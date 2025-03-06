@@ -1,0 +1,29 @@
+{
+  "checksum": "59865f6cb6e4cd63dbc49a6a0af5162e",
+  "room": {
+    "id": 22093,
+    "title": [
+      "[Bard Guild, The Troubadour Pub]"
+    ],
+    "description": [
+      "The pub is a dark, cozy place redolent with the interwoven odors of ale, wine and stronger brews.  The mellow oak tones of floor, walls and ceiling are accented by rich oxblood-colored leather, which covers all the chairs occupying the room.  A long, low bar stretches across the back wall, and hanging just over it is a huge trophy, the snarling head of a massive black bear."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "22094": "/rooms/22093/wayto/stringproc-22094.rb",
+      "22095": "/rooms/22093/wayto/stringproc-22095.rb",
+      "22096": "out"
+    },
+    "timeto": {
+      "22094": 0.2,
+      "22095": 0.2,
+      "22096": 0.2
+    },
+    "uid": [
+      280006
+    ]
+  }
+}

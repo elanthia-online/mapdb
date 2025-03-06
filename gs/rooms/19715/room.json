@@ -1,0 +1,40 @@
+{
+  "checksum": "8921bbf006f59953221564f40f17e746",
+  "room": {
+    "id": 19715,
+    "title": [
+      "[Cavernhold, Musterhall]"
+    ],
+    "description": [
+      "This is the south end of a large chamber.  Further to the north, you can see a raised platform of rock which apparently is used as a dais.  Little else can be seen here."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19703": "north",
+      "19716": "east"
+    },
+    "timeto": {
+      "19703": 0.2,
+      "19716": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11017
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      580,
+      772,
+      592,
+      785
+    ]
+  }
+}

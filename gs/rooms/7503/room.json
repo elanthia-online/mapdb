@@ -1,0 +1,51 @@
+{
+  "checksum": "e7d1409e7d9499455f5b7bdcd1c06315",
+  "room": {
+    "id": 7503,
+    "title": [
+      "[Catacombs, Filthy Pool]"
+    ],
+    "description": [
+      "The path dips into a trough here, creating a stagnant, filthy pool that fills the room from wall to wall.  As you wade through the miasma, you notice the water has flooded some of the low-set tombs.  Black water rolls in from the southeast, draining to the northwest.  Clumps and strands of flotsam and jetsam swirl around you, and you cringe each time some of the debris brushes your legs."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3935": "northwest",
+      "7504": "southeast"
+    },
+    "timeto": {
+      "3935": 0.2,
+      "7504": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46039
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      955,
+      1128,
+      965,
+      1138
+    ]
+  }
+}

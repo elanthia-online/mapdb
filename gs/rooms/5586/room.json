@@ -1,0 +1,46 @@
+{
+  "checksum": "aa2458af641cd8ac78117283f7c6a5d1",
+  "room": {
+    "id": 5586,
+    "title": [
+      "[Vornavis Caravansary, The Row]"
+    ],
+    "description": [
+      "Before you stands the only building in the entire caravansary that appears to have been built to last.  The grey slate roof and half-timber construction give this two-story hall a look of permanence.  Hanging above the door, a brightly painted sign of a fully laden wagon indicates that the Mercantylers' Guild is housed here."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, west, northwest"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5583": "northwest",
+      "5585": "west",
+      "5589": "east",
+      "5590": "go building",
+      "5591": "northeast"
+    },
+    "timeto": {
+      "5583": 0.2,
+      "5585": 0.2,
+      "5589": 0.2,
+      "5590": 0.2,
+      "5591": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2120054
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      398,
+      1052,
+      408,
+      1062
+    ]
+  }
+}

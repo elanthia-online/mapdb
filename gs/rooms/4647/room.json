@@ -1,0 +1,45 @@
+{
+  "checksum": "32ddd61d61bcb1fddd765b4cdfab0914",
+  "room": {
+    "id": 4647,
+    "title": [
+      "[Gaertira's Herbs]"
+    ],
+    "description": [
+      "Colorfully-painted planters brimming with fresh herbs and flowers are supported by wooden poles that are evenly spaced around this open-air platform.  The numerous fragrances of this tiny treetop garden mingle together into a delightful harmony of aroma.  A modwir counter has been topped off with a granite slab, serving as a worktable for creating tinctures, tonics, and other healing concoctions."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "4645": "north",
+      "4648": "east",
+      "4649": "south",
+      "30717": "/rooms/4647/wayto/stringproc-30717.rb"
+    },
+    "timeto": {
+      "4645": 0.2,
+      "4648": 0.2,
+      "4649": 0.2,
+      "30717": "/rooms/4647/timeto/stringproc-30717.rb"
+    },
+    "tags": [
+      "herbalist",
+      "no forageables",
+      "meta:forage-sensed",
+      "urchin-access",
+      "urchin guide herbalist"
+    ],
+    "uid": [
+      14051034
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      469,
+      425,
+      494,
+      448
+    ]
+  }
+}

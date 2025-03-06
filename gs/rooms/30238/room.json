@@ -1,0 +1,39 @@
+{
+  "checksum": "ce54858092be72d5652994f80ce7a47c",
+  "room": {
+    "id": 30238,
+    "title": [
+      "[West Docks, Firestone Catwalk]"
+    ],
+    "description": [
+      "Alternating glaes-banded planks stretch from one end of the catwalk to the other.  An oak and glaes shop and a saltstained teak building rest on stilts above the ocean water below, and marking the top of a wide ramp, a single sun-bleached flag rests atop a nearby wooden pillar, flapping in the ever-present ocean breeze."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1870": "go ramp",
+      "30239": "go building",
+      "30240": "go shop",
+      "30241": "south"
+    },
+    "timeto": {
+      "1870": 0.2,
+      "30239": 0.2,
+      "30240": 0.2,
+      "30241": 0.2
+    },
+    "tags": [
+      "handler",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7123101
+    ]
+  }
+}

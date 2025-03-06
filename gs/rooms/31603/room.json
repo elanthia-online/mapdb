@@ -1,0 +1,47 @@
+{
+  "checksum": "7381446d8c9f8532a441d404b9afa1da",
+  "room": {
+    "id": 31603,
+    "title": [
+      "[Evermore Hollow, Noble Guardian]"
+    ],
+    "description": [
+      "Transitioning from a well-trodden cobblestone pathway to a boardwalk that culminates in an elaborate iron gate, the small courtyard is part stone and part roughly hewn wood.  At its center is an ancient leafless tree strung with thousands of frosted glass bottles that sway and clink against one another, offering a counterpoint to its protesting groans as a gentle breeze moves through its limbs.  Encircling the arboreal colossus are worn circular benches connected by copper bands."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31562": "go arch",
+      "31592": "go pathway",
+      "31604": "go gate",
+      "31607": "northwest",
+      "31613": "southeast"
+    },
+    "timeto": {
+      "31562": 0.2,
+      "31592": 0.2,
+      "31604": 0.2,
+      "31607": 0.2,
+      "31613": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083009
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      663,
+      435,
+      686,
+      454
+    ]
+  }
+}

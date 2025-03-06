@@ -1,0 +1,58 @@
+{
+  "checksum": "992a9d94092f93615d140c222e97621d",
+  "room": {
+    "id": 11756,
+    "title": [
+      "[Marshtown, Fewr's Pier]"
+    ],
+    "description": [
+      "This pier is secured to pilings as thick as tall trees that are sunk deep into the mud of Solhaven Bay.  The thickly-tarred barrel raft extends under the pier, but is not used for support.  Caravels and large carracks dock at this pier, some bringing in wares and others docked for shore leave.  The pier is bustling with sailors."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "250": "/rooms/11756/wayto/stringproc-250.rb",
+      "1870": "/rooms/11756/wayto/stringproc-1870.rb",
+      "5734": "north",
+      "10838": "/rooms/11756/wayto/stringproc-10838.rb",
+      "29033": "/rooms/11756/wayto/stringproc-29033.rb",
+      "30710": "/rooms/11756/wayto/stringproc-30710.rb",
+      "31493": "/rooms/11756/wayto/stringproc-31493.rb",
+      "32372": "/rooms/11756/wayto/stringproc-32372.rb",
+      "32928": "/rooms/11756/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "250": "/rooms/11756/timeto/stringproc-250.rb",
+      "1870": "/rooms/11756/timeto/stringproc-1870.rb",
+      "5734": 0.2,
+      "10838": "/rooms/11756/timeto/stringproc-10838.rb",
+      "29033": "/rooms/11756/timeto/stringproc-29033.rb",
+      "30710": "/rooms/11756/timeto/stringproc-30710.rb",
+      "31493": "/rooms/11756/timeto/stringproc-31493.rb",
+      "32372": "/rooms/11756/timeto/stringproc-32372.rb",
+      "32928": "/rooms/11756/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "portmaster",
+      "silver-cost:10838:25000",
+      "silver-cost:1870:25000",
+      "silver-cost:29033:25000",
+      "silver-cost:31493:35000",
+      "urchin-access",
+      "urchin guide docks",
+      "silver-cost:250:12500",
+      "silver-cost:32372:25000",
+      "silver-cost:32928:25000",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4744014
+    ]
+  }
+}

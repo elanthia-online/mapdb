@@ -1,0 +1,39 @@
+{
+  "checksum": "a727e8d560fa7a31f92aef9b20da522b",
+  "room": {
+    "id": 7565,
+    "title": [
+      "[Catacombs, Narrow Passage]"
+    ],
+    "description": [
+      "There is barely room to walk between the walls of solid stone that narrow to a crack at the east end of the passage.  Shining veins of mineral deposits in the rock glitter in the light from the southwest, where the passage widens into a cavern."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the dark caverns",
+    "wayto": {
+      "7534": "go deep crack",
+      "7566": "southwest"
+    },
+    "timeto": {
+      "7534": 0.2,
+      "7566": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      47036
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      251,
+      1369,
+      261,
+      1379
+    ]
+  }
+}

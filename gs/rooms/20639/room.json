@@ -1,0 +1,37 @@
+{
+  "checksum": "7af78312541057b4d4a0bc37369e977d",
+  "room": {
+    "id": 20639,
+    "title": [
+      "[Guttin' Goods, Stock Room]"
+    ],
+    "description": [
+      "A number of featureless and weathered mannequins clutter two corners of the backroom, their bodies sporting an array of fishing attire and accessories.  A few empty ale mugs and some grimy dice rest on top of a stack of unmarked crates."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "20631": "go trapdoor",
+      "20640": "southwest"
+    },
+    "timeto": {
+      "20631": 0.2,
+      "20640": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      336101
+    ],
+    "check_location": false
+  }
+}

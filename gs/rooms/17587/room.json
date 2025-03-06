@@ -1,0 +1,49 @@
+{
+  "checksum": "61d67b4bd3600995fd622e34dc5adf0a",
+  "room": {
+    "id": 17587,
+    "title": [
+      "[Western Harbor, Seathrak Way]"
+    ],
+    "description": [
+      "Cobblestones laid in concentric bands spread across the plaza from the four avenues that meet here and wrap around an enormous sandstone fountain.  Glass-sided lanterns hang from wrought iron posts at each intersection, their glaesine panes sparkling in the ambient light.",
+      "Cobblestones laid in concentric bands spread across the plaza from the four avenues that meet here and wrap around an enormous sandstone fountain.  Glass-sided lanterns burn brightly from their position on wrought iron posts set at each intersection, their pleasant glow cheerily illuminating the area."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "16061": "southwest",
+      "17583": "southeast",
+      "17588": "northwest",
+      "17602": "northeast",
+      "30718": "/rooms/17587/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "16061": 0.2,
+      "17583": 0.2,
+      "17588": 0.2,
+      "17602": 0.2,
+      "30718": "/rooms/17587/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "supernode",
+      "node",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      3216007
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1511,
+      1180,
+      1550,
+      1220
+    ]
+  }
+}

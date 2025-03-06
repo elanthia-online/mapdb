@@ -1,0 +1,29 @@
+{
+  "checksum": "6421efd9626feb01a43cb1f9bb002f67",
+  "room": {
+    "id": 30872,
+    "title": [
+      "[Ranger's Guild, Entryway]"
+    ],
+    "description": [
+      "Round and spacious, the wide spiral staircase ends at a large wooden landing high inside the tree.  Below, the faint glow of a lantern can be seen only as a small point of light.  Roughly cut openings to the northwest and southwest lead to rope bridges and further into the guild."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "30871": "go staircase",
+      "30873": "go southwest bridge",
+      "30879": "go northwest bridge"
+    },
+    "timeto": {
+      "30871": 0.2,
+      "30873": 0.2,
+      "30879": 0.2
+    },
+    "uid": [
+      279006
+    ]
+  }
+}

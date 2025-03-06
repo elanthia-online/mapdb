@@ -1,0 +1,31 @@
+{
+  "checksum": "37113f742c325c964c164abbcbaae520",
+  "room": {
+    "id": 21723,
+    "title": [
+      "[ShadowGuard, West Wing]"
+    ],
+    "description": [
+      "Dust, seemingly undisturbed for centuries, covers everything here.  Bits of plaster, fallen from the ceiling overhead, and numerous small stones litter the floor.  Tattered remnants of cloth droop forlornly from a rusted rod on the north wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "21722": "east",
+      "21724": "west",
+      "21726": "south",
+      "21733": "north"
+    },
+    "timeto": {
+      "21722": 0.2,
+      "21724": 0.2,
+      "21726": 0.2,
+      "21733": 0.2
+    },
+    "tags": [
+      "closed"
+    ]
+  }
+}

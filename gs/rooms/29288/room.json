@@ -1,0 +1,24 @@
+{
+  "checksum": "b1f6c25141d6df6e4e2b051a1bc98e5b",
+  "room": {
+    "id": 29288,
+    "title": [
+      "[Warped Wavedancer, Coral Alcove]"
+    ],
+    "description": [
+      "Terminating in an alcove of splintered and rotted wood, the hallway sports coral structures and moldy velvet.  Two paintings depicting faded scenes in the jungle, one of a ruined temple and the other a raging waterfall, hang at tilted angles along the wall."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29287": "west",
+      "29293": "go ladder"
+    },
+    "timeto": {
+      "29287": 0.2,
+      "29293": 0.2
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "9849d8019685cb9e49609ad6e39f3b37",
+  "room": {
+    "id": 18618,
+    "title": [
+      "[Cleric Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "18666": "south",
+      "18727": "go cauldrons"
+    },
+    "timeto": {
+      "18666": 0.2,
+      "18727": 0.2
+    },
+    "uid": [
+      670021
+    ],
+    "check_location": true
+  }
+}

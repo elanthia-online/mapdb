@@ -1,0 +1,38 @@
+{
+  "checksum": "80c8b35553aba238931e5430a1ac8609",
+  "room": {
+    "id": 6595,
+    "title": [
+      "[Anwyn Castle, Stables]"
+    ],
+    "description": [
+      "The doorway in this section of the old building is generous enough to allow a wagon passage through.  Hooks are prevalent on the walls, with old tack hanging from some of them.  Most of the leather has long ago rotted away, but the metal pieces remaining exhibit fine workmanship.  A rank of empty stalls extends away to the west."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6592": "go door",
+      "6594": "west"
+    },
+    "timeto": {
+      "6592": 0.2,
+      "6594": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285018
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1213,
+      811,
+      1223,
+      821
+    ]
+  }
+}

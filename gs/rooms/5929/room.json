@@ -1,0 +1,50 @@
+{
+  "checksum": "5246e0eca7e901cd666e411c46446352",
+  "room": {
+    "id": 5929,
+    "title": [
+      "[Catacombs, Sewers]"
+    ],
+    "description": [
+      "Faint scratching emanates from behind the walls as rats forage for a snack.",
+      "Faint scratching emanates from behind the walls as rats forage for a snack.  A large spider web is constructed perfectly in front of one of the recesses in the wall.  A grey spider nestles inconspicuously at the top corner watching for prey."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5928": "west",
+      "5930": "east",
+      "5931": "north"
+    },
+    "timeto": {
+      "5928": 0.2,
+      "5930": 0.2,
+      "5931": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009036
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      401,
+      905,
+      407,
+      912
+    ]
+  }
+}

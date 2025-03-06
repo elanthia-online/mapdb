@@ -1,0 +1,42 @@
+{
+  "checksum": "6a5edc0eb1a198641165d6ae0a1e9995",
+  "room": {
+    "id": 405,
+    "title": [
+      "[Dakris's Furs, Front Room]"
+    ],
+    "description": [
+      "This is the large front room of the furrier's shop.  Roughly hewn planks, supported by wooden barrels, span the space and serve as a counter.  Behind it presides Dakris the Furrier, purveyor of rare furs and hides.  A few simple chairs are randomly scattered along the dirt floor.  Across the room, to the southeast, you see a doorway covered only by a draped velnalin hide.",
+      "This is the large front room of the furrier's shop.  Roughly hewn planks, supported by wooden barrels, span the space and serve as a counter.  A few simple chairs are randomly scattered along the dirt floor.  Across the room, to the southeast, you see a doorway covered only by a draped velnalin hide."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "224": "out",
+      "406": "go arch",
+      "13896": "go doorway",
+      "30708": "/rooms/405/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "224": 0.2,
+      "406": 0.2,
+      "13896": 0.2,
+      "30708": "/rooms/405/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "furrier",
+      "meta:teleport:fwi",
+      "urchin-access",
+      "urchin guide furrier",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5036
+    ]
+  }
+}

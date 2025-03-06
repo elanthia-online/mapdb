@@ -1,0 +1,54 @@
+{
+  "checksum": "ff3266b0257edeb5613c0a27e5dd77bf",
+  "room": {
+    "id": 5738,
+    "title": [
+      "[Glarstim Cavern]"
+    ],
+    "description": [
+      "A cool dampness lingers in throughout the massive cavern around the calm brine lake.  Crossing over a slender canal cutting through the northern bank is a glistening salt bridge.  Stalagmites lining the waterway have been skillfully carved into sparkling grey trees, strung with silver garlands."
+    ],
+    "paths": [
+      "Obvious exits: north, south, northwest"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5735": "north",
+      "5736": "northwest",
+      "5737": "go bridge",
+      "5739": "south"
+    },
+    "timeto": {
+      "5735": 0.2,
+      "5736": 0.2,
+      "5737": 0.2,
+      "5739": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "black hook mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      7060007
+    ],
+    "image": "en-vo-homes-1264234799.png",
+    "image_coords": [
+      974,
+      1252,
+      994,
+      1272
+    ]
+  }
+}

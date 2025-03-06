@@ -1,0 +1,37 @@
+{
+  "checksum": "b4c6d70867c0dc5b5077dade03d318a2",
+  "room": {
+    "id": 17783,
+    "title": [
+      "[Warrior Guild, Thermal Springs]"
+    ],
+    "description": [
+      "The grotto is humid and foggy from intermittent bursts of steam that erupt from small cratered geysers scattered throughout the chamber.  A solid rocky platform on one side provides safe passage and a repose to bathe in the sultry atmosphere.  Several curtained recesses among the geysers act as saunas, providing a place for quiet meditation and intense, soothing heat."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17769": "west",
+      "17784": "go sauna"
+    },
+    "timeto": {
+      "17769": 0.2,
+      "17784": 0.2
+    },
+    "tags": [
+      "warrior guild sauna"
+    ],
+    "uid": [
+      250030
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      698,
+      225,
+      718,
+      246
+    ]
+  }
+}

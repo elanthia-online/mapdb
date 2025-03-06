@@ -1,0 +1,40 @@
+{
+  "checksum": "d87404f64e3f0d19a8ec7c583979df97",
+  "room": {
+    "id": 9805,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Permanently fixed as if supporting the wall, a molding skeleton of some unfortunate animal lies entangled by roots.  The twisting tentacles of gnarled roots rise up from the floor and along the walls, creating warped patterns across the ceiling.  The unpleasant smell of mildew hangs heavy in the air."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, west"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9801": "east",
+      "9808": "west",
+      "9821": "northeast"
+    },
+    "timeto": {
+      "9801": 0.2,
+      "9808": 0.2,
+      "9821": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022021
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1043,
+      544,
+      1053,
+      554
+    ]
+  }
+}

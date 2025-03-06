@@ -1,0 +1,55 @@
+{
+  "checksum": "03a39e3817525a9fb7a8de3951797949",
+  "room": {
+    "id": 7004,
+    "title": [
+      "[Castle Darkstone, Outer Ward]"
+    ],
+    "description": [
+      "A stunted tree struggles to survive inside the keep here, perhaps started from a seed borne by a bird from the forests near here.  Had the castle's owners discovered it, it would surely have been removed.  The outer keep continues between the walls to the east and west."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "plain dirt",
+    "wayto": {
+      "7003": "west",
+      "7005": "east"
+    },
+    "timeto": {
+      "7003": 0.2,
+      "7005": 0.2
+    },
+    "tags": [
+      "bright red cranberry",
+      "cuctucae berry",
+      "heath aster",
+      "stalk of chicory",
+      "acantha leaf",
+      "wolifrew lichen",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "moonlight cactus-bloom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45110
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      542,
+      375,
+      552,
+      385
+    ]
+  }
+}

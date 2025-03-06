@@ -1,0 +1,40 @@
+{
+  "checksum": "3de1748674822a58105990716764fe3a",
+  "room": {
+    "id": 19673,
+    "title": [
+      "[Cavernhold, Woodworks]"
+    ],
+    "description": [
+      "This room is obviously the woodworks.  Workbenches, lathes, saws, planes and other woodworking tools are scattered about the area.  Furniture, barrels and other wood items in different states of repair rest on the benches."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19672": "southwest",
+      "19674": "north"
+    },
+    "timeto": {
+      "19672": 0.2,
+      "19674": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10034
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1002,
+      774,
+      1012,
+      784
+    ]
+  }
+}

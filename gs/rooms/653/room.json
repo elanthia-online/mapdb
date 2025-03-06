@@ -1,0 +1,42 @@
+{
+  "checksum": "925998c95efa1bd544aa01fb3daf6fa0",
+  "room": {
+    "id": 653,
+    "title": [
+      "[Sylvarraend Road]"
+    ],
+    "description": [
+      "This section of the roadway has fallen into a bit of disrepair.  The stones are cracked and worn, with some of them missing entirely, and the wagon grooves are deeper than what you've seen in other sections, as if their drivers tried to pass through this part of the road as quickly as possible.  The brush has grown tall along the northeast side of the road, but not enough to entirely conceal a narrow path leading northward.  The pathway is barely visible and doesn't seem to have been used much."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Sylvarraend Road",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "652": "northwest",
+      "654": "southeast",
+      "1835": "go path"
+    },
+    "timeto": {
+      "652": 0.2,
+      "654": 0.2,
+      "1835": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13049009
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      346,
+      577,
+      356,
+      587
+    ]
+  }
+}

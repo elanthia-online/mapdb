@@ -1,0 +1,44 @@
+{
+  "checksum": "c8705a763724cd61384c9e8ff74b8420",
+  "room": {
+    "id": 21065,
+    "title": [
+      "[Alhan'aht River, Southern Pass]"
+    ],
+    "description": [
+      "Swiftly moving, the river cascades through the landscape, creating a soft musical sound as it passes by several tall river reeds.  The melodic sound of their hollow interiors clacking against each other echoes through the area and is punctuated by the soft sound of bird song and the delicate chirp of birds.  Curving slightly, the water smoothly circles around an enormous banyan tree that has taken root in the western banks."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast"
+    ],
+    "location": "Mist Harbor",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "21064": "/rooms/21065/wayto/stringproc-21064.rb",
+      "21066": "/rooms/21065/wayto/stringproc-21066.rb"
+    },
+    "timeto": {
+      "21064": 2,
+      "21066": 2
+    },
+    "tags": [
+      "stalk of cattail",
+      "murdroot",
+      "meta:forage-sensed",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3217003
+    ],
+    "image": "ifw-wilds-1368242816.png",
+    "image_coords": [
+      1201,
+      1620,
+      1219,
+      1638
+    ]
+  }
+}

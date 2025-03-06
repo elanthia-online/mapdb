@@ -1,0 +1,57 @@
+{
+  "checksum": "be635984a767d8b0a45331bfd0141ed7",
+  "room": {
+    "id": 7589,
+    "title": [
+      "[The Ant Nest, Central Chamber]"
+    ],
+    "description": [
+      "The tunnels lead out in all directions from this rounded chamber.  The huge mound in the center of the room seems to be built of dirt, minerals, and various other assorted debris, packed together so hard it is almost indistinguishable from the rock.  The clicking sound that resonates throughout the tunnels emanates from a series of holes that lead into the base of the mound, and the acidic stench is nearly unbearable here."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7585": "northeast",
+      "7587": "southeast",
+      "7588": "east",
+      "7590": "north",
+      "7593": "south",
+      "7594": "southwest",
+      "7595": "west",
+      "7596": "northwest"
+    },
+    "timeto": {
+      "7585": 0.2,
+      "7587": 0.2,
+      "7588": 0.2,
+      "7590": 0.2,
+      "7593": 0.2,
+      "7594": 0.2,
+      "7595": 0.2,
+      "7596": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47025
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      81,
+      1101,
+      91,
+      1111
+    ]
+  }
+}

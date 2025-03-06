@@ -1,0 +1,24 @@
+{
+  "checksum": "bc88e569e3c6e4f3bc0ce30f2459cfb7",
+  "room": {
+    "id": 21869,
+    "title": [
+      "[All that Glitters]"
+    ],
+    "description": [
+      "The thick black walls of the tent are covered in an assortment of large mirrors, their reflective surfaces capturing the plethora of gem-decorated inventory around the shop, causing the entire room to glitter.  In one corner of the tent resides a mirror-finished counter where a tall amethyst-eyed human paces anxiously behind it."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": false,
+    "wayto": {
+      "21867": "out",
+      "21930": "north"
+    },
+    "timeto": {
+      "21867": 0.2,
+      "21930": 0.2
+    }
+  }
+}

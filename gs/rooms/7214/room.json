@@ -1,0 +1,49 @@
+{
+  "checksum": "066ce5e203eb478fe17af0feaefeae4c",
+  "room": {
+    "id": 7214,
+    "title": [
+      "[Graveyard, Barrow Tunnel]"
+    ],
+    "description": [
+      "A chill breeze bearing a faint odor of decay wafts through the huge stone arch that dominates the eastern end of the tunnel.  The arch is worn by dark rivulets of water dripping from somewhere above, the acidic liquid etching deep streaks in the ancient grey stone and nearly obliterating the many symbols of dark gods carved into its pockmarked surface."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7213": "west",
+      "7215": "go arch",
+      "7246": "south"
+    },
+    "timeto": {
+      "7213": 0.2,
+      "7215": 0.2,
+      "7246": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2162112
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      531,
+      185,
+      541,
+      195
+    ]
+  }
+}

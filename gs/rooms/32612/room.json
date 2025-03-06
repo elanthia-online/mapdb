@@ -1,0 +1,33 @@
+{
+  "checksum": "d9ae26d5ba27e31e2ad684e35b9928a5",
+  "room": {
+    "id": 32612,
+    "title": [
+      "[Blended Brew, Sitting Room]"
+    ],
+    "description": [
+      "Cushioned loveseats and decorative chairs in a color spectrum of green hues litter the open, airy floor plan.  Hand-painted silk walls depict abstract herbs and flowers cascading from ceiling to floor in a repetitive pattern.  Beams of moonlight stream through an arched window, the gossamer curtains lightly moving with the slightest hint of air as patrons walk by.  A white ash sideboard curves around an antique pewter stove topped with a gilt-foiled white ceramic kettle."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32611": "west",
+      "32617": "/rooms/32612/wayto/stringproc-32617.rb"
+    },
+    "timeto": {
+      "32611": 0.2,
+      "32617": 2.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      336432
+    ]
+  }
+}

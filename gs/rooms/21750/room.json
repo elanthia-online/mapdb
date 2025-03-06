@@ -1,0 +1,45 @@
+{
+  "checksum": "a37bdeaa9469f43b87c4777b1c89a811",
+  "room": {
+    "id": 21750,
+    "title": [
+      "[House Phoenix, Second Floor]"
+    ],
+    "description": [
+      "A series of paintings hung along the walls here celebrate the founding officers of the House.  Two doors, one painted red, the other gold, lead to guest bedrooms.  To the south is a brightly painted door and eastwards, a solid oak door bars entrance to the Planning Room."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21749": "go stair",
+      "21751": "go solid door",
+      "21752": "go painted door",
+      "21753": "go gold door",
+      "21754": "go red door",
+      "21764": "/rooms/21750/wayto/stringproc-21764.rb"
+    },
+    "timeto": {
+      "21749": 0.2,
+      "21751": 0.2,
+      "21752": 0.2,
+      "21753": 0.2,
+      "21754": 0.2,
+      "21764": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Rising Phoenix"
+    ],
+    "uid": [
+      103100
+    ],
+    "image": "wl-house_phoenix-1485115199.png",
+    "image_coords": [
+      1676,
+      862,
+      1795,
+      939
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "1d134e3ee2fd95d89c03e0e37544138c",
+  "room": {
+    "id": 8204,
+    "title": [
+      "[Sea Caverns, Tunnel]"
+    ],
+    "description": [
+      "The dank rock walls are close, but it's not as claustrophobic here as in other parts of these caverns.  The garbage, however, seems to be uniformly deep.  A curious 'whisper' of sound can be heard coming from the southeast direction.  To the southwest, a visible trail has been forged through the muck on the tunnel floor."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8203": "north",
+      "8205": "southeast",
+      "8207": "southwest"
+    },
+    "timeto": {
+      "8203": 0.2,
+      "8205": 0.2,
+      "8207": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "white hook mushroom",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391015
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      552,
+      184,
+      562,
+      194
+    ]
+  }
+}

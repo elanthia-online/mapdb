@@ -1,0 +1,39 @@
+{
+  "checksum": "5361f3254a2fbb32313c24fa0c801129",
+  "room": {
+    "id": 20011,
+    "title": [
+      "[Cavernhold, Dungeon]"
+    ],
+    "description": [
+      "This chamber appears to be a dungeon of some sort.  There is not much to see here save for a rather large stone door in the north wall, a pile of straw heaped near the center of the room and a few chipped stoneware dishes."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20008": "go door"
+    },
+    "timeto": {
+      "20008": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11200
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1044,
+      1102,
+      1056,
+      1113
+    ]
+  }
+}

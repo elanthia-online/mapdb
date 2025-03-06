@@ -1,0 +1,43 @@
+{
+  "checksum": "5965ed5ab80c311f1b53d859361d6beb",
+  "room": {
+    "id": 14051,
+    "title": [
+      "[Castle Varunar, Inner Ward]"
+    ],
+    "description": [
+      "On the ground you see thousands of sparkling glass bits.  Inside a wood framed building you see an odd-looking chair with long steel rails where the arms would be.  A rack with a dozen six-foot long blowpipes lies next to it.  You also see two large brick ovens that have fallen into disrepair.  To the southeast, you see a stout wooden door leading into a castle tower."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14037": "north",
+      "14052": "go door",
+      "14053": "west"
+    },
+    "timeto": {
+      "14037": 0.2,
+      "14052": 0.2,
+      "14053": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      4750050
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      761,
+      286,
+      769,
+      294
+    ]
+  }
+}

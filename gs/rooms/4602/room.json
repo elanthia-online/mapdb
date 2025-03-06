@@ -1,0 +1,52 @@
+{
+  "checksum": "f0b96e2d53ad039327d36af02e76a255",
+  "room": {
+    "id": 4602,
+    "title": [
+      "[Griffin's Keen, Inner Trail]"
+    ],
+    "description": [
+      "Water gushes out of a large vertical crack in the rock face, cutting a gash in the trail and falling over the side into the valley below.  Thick, black ice has accumulated high up along the edges of the crack showing just how deep the water can get."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4601": "/rooms/4602/wayto/stringproc-4601.rb",
+      "4603": "up",
+      "17008": "climb crack"
+    },
+    "timeto": {
+      "4601": 4.2,
+      "4603": 0.2,
+      "17008": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302146
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      691,
+      291,
+      701,
+      301
+    ]
+  }
+}

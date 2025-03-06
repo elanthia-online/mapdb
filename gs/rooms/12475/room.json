@@ -1,0 +1,41 @@
+{
+  "checksum": "f2178cf57b35df048e5495a994005e86",
+  "room": {
+    "id": 12475,
+    "title": [
+      "[Pebble Court, Firestone Lane]"
+    ],
+    "description": [
+      "From somewhere down the street, you hear the clatter of mule hooves on cobblestones, followed by muffled dwarven cursing.  Sitting on the front porch of a nearby stone home, an ancient dwarf stares into the distance, a vacant smile on her face."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12472": "north",
+      "12491": "south"
+    },
+    "timeto": {
+      "12472": 0.2,
+      "12491": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703056
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      298,
+      861,
+      318,
+      881
+    ]
+  }
+}

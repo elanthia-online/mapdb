@@ -1,0 +1,30 @@
+{
+  "checksum": "dc7e5d81d3ab009da7c0eb26ae0efd92",
+  "room": {
+    "id": 15063,
+    "title": [
+      "[The Gnome Garden]"
+    ],
+    "description": [
+      "A set of wooden shelves hangs on one of the tool-lined mistwood walls, and a herb-strung beam ceiling rises overhead.  A collection of plant-filled flowerpots sits in one corner of a green-carpeted floor.  There is a glass-encased terrarium on one side of the shop and an overflowing flower basket on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "365": "out",
+      "15107": "west",
+      "15108": "east"
+    },
+    "timeto": {
+      "365": 0.2,
+      "15107": 0.2,
+      "15108": 0.2
+    },
+    "tags": [
+      "gone",
+      "meta:playershop"
+    ]
+  }
+}

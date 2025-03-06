@@ -1,0 +1,32 @@
+{
+  "checksum": "d59646c2df5d585fe3765325cc70a293",
+  "room": {
+    "id": 20060,
+    "title": [
+      "[Wehnimer's Museum, Planetarium]"
+    ],
+    "description": [
+      "The black walls are circular, creating a dark cylindrical space.  Domed, the ceiling is riddled with tiny holes and lit from behind.  The light shining through the holes mimics the starlight on a cloudless night.  All the constellations well-known to the local area can be seen among the stars.  A narrow stone staircase leading up and a set of spiral stone stairs leading down rest against one curved wall, while four constellation tapestries hang an equidistance from each other on the rounded walls, their contents illuminated by the starlight from above."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19966": "climb stairs",
+      "20062": "climb staircase"
+    },
+    "timeto": {
+      "19966": 0.2,
+      "20062": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28145
+    ]
+  }
+}

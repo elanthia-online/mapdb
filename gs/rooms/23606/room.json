@@ -1,0 +1,30 @@
+{
+  "checksum": "22c09a4acc8e8d268e429be530b8ca06",
+  "room": {
+    "id": 23606,
+    "title": [
+      "[Catacombs, Fetid Alcove]"
+    ],
+    "description": [
+      "Bits of moldering cloth and broken bones litter the floor of this tiny cavern.  A small patch of phosphorescent moss, casting a dim and eerie light across the room, grows on the upper portion of one wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5924": "/rooms/23606/wayto/stringproc-5924.rb"
+    },
+    "timeto": {
+      "5924": 0.2
+    },
+    "tags": [
+      "meta:society:Council of Light",
+      "no forageables"
+    ],
+    "uid": [
+      14009041
+    ],
+    "check_location": true
+  }
+}

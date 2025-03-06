@@ -1,0 +1,37 @@
+{
+  "checksum": "2419dddb0f7c058734b4bce1192b2487",
+  "room": {
+    "id": 32844,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Running the length of the hall is a woven carpet of ramie silk patterned in shades of pale gold and green.  A redwood door is set into one wall while a dark purple velvet curtain edged in silver and a pale jade ramie silk curtain embroidered with the Silvergate Inn crest face each other on opposite sides of the hallway.  Several paintings hang about the portals, their subjects varying from country scenes to baskets of flowers."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32843": "south",
+      "32845": "west",
+      "32858": "go ramie curtain",
+      "33176": "go redwood door",
+      "33208": "go purple curtain"
+    },
+    "timeto": {
+      "32843": 0.2,
+      "32845": 0.2,
+      "32858": 0.2,
+      "33176": 0.2,
+      "33208": 0.2
+    },
+    "tags": [
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053305
+    ]
+  }
+}

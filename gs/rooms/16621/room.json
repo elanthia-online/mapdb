@@ -1,0 +1,34 @@
+{
+  "checksum": "a49e0b8c48309fb467ea97a1b25ebc66",
+  "room": {
+    "id": 16621,
+    "title": [
+      "[Underground Tunnel]"
+    ],
+    "description": [
+      "The passage rises and narrows in the pitch darkness into a small, hollowed-out dead end.  Feeling around in the niche, you can make out the outlines of a small wooden trapdoor in the roof of the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "409": "go trapdoor",
+      "16620": "southeast"
+    },
+    "timeto": {
+      "409": 0.2,
+      "16620": 0.2
+    },
+    "uid": [
+      261059
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      181,
+      415,
+      209,
+      443
+    ]
+  }
+}

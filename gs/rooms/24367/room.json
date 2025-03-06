@@ -1,0 +1,34 @@
+{
+  "checksum": "2bc4593d5e28dfaa48870ada00046ee4",
+  "room": {
+    "id": 24367,
+    "title": [
+      "[Zul Logoth, Ranger Guild]"
+    ],
+    "description": [
+      "A distinct path cuts across the small cavern, leading to a massive iron gate framed by banners.  Every stalagmite in the area has been carved into an animal form, creating a menagerie of Elanthian fauna.  Towering, luminescent toadstools line the outer wall of the guild in alternating hues of white and blue."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "24366": "southeast",
+      "24368": "go gate"
+    },
+    "timeto": {
+      "24366": 0.2,
+      "24368": 0.2
+    },
+    "uid": [
+      278001
+    ],
+    "image": "en-zul_logoth-rangerguild-v2.png",
+    "image_coords": [
+      108,
+      279,
+      126,
+      295
+    ]
+  }
+}

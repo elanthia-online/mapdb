@@ -1,0 +1,43 @@
+{
+  "checksum": "3c4aeedbb68f9b301285eece7e5f7658",
+  "room": {
+    "id": 30511,
+    "title": [
+      "[Mistydeep, Underwater]"
+    ],
+    "description": [
+      "Shimmering light passing through the turbulent water overhead casts a dappled light and shadows over the sand.  The fat stems of a thicket of bulrushes stand like ranks of spears to the east, serving as home to countless small fish that dart about the safe haven."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, northwest, up"
+    ],
+    "location": "the northern reaches of the Mistydeep River",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25615": "swim up",
+      "30509": "swim northwest",
+      "30512": "swim east",
+      "30513": "swim southeast"
+    },
+    "timeto": {
+      "25615": 0.2,
+      "30509": 0.2,
+      "30512": 0.2,
+      "30513": 0.2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      14117118
+    ],
+    "image": "en-ravelin.png",
+    "image_coords": [
+      1204,
+      1091,
+      1221,
+      1109
+    ]
+  }
+}

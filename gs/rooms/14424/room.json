@@ -1,0 +1,36 @@
+{
+  "checksum": "c97df8d8ee43fa429d83a4f8fe81cfec",
+  "room": {
+    "id": 14424,
+    "title": [
+      "[Solindago Anox]"
+    ],
+    "description": [
+      "The plaintive noises of animals begging for food is punctuated by the shrill, delighted squeals of the youngsters playing with them in the petting zoo just beyond the gate.  Sunlight sparkles off an immense glaes dome that lies to the north.",
+      "Occasionally a sleepy animal call can be heard from the simple petting zoo enclosure that lies just beyond the gate.  Moonlight gleams off an immense glaes dome that lies to the north."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "14415": "east",
+      "14474": "go gate",
+      "14475": "northwest"
+    },
+    "timeto": {
+      "14415": 0.2,
+      "14474": 0.2,
+      "14475": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      411107
+    ]
+  }
+}

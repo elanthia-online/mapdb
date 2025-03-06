@@ -1,0 +1,72 @@
+{
+  "checksum": "aef28b10934a4a1e9b0f674b57f50c78",
+  "room": {
+    "id": 1438,
+    "title": [
+      "[Solhaven, North Market]"
+    ],
+    "description": [
+      "The crush of the crowd is almost overwhelming here in the center of the market.  Peddlers wheeling small carts push their way through, shouting loudly.  Nearby, a group of dwarves argue heatedly with a local merchant.",
+      "The crush of the crowd is almost overwhelming here in the center of the market.  Peddlers wheeling small carts push their way through, shouting loudly.  Nearby, a group of dwarves argue heatedly with a local merchant.  Cracks splinter many of the cobblestones of the square.",
+      "The press of the crowd is little diminished by the late hour.  Peddlers wheel small carts, pushing their way through and splitting the air with their shouts.  Delectable scents of baked goods grace the air, drifting from the wrought iron oven of the Muffinsmith's stall at the corner of the market.  Before it, a blond thanot bench embellished with bas-relief pelican feathers glistens in the starlight thanks to a coat of varnish.  On the opposite end of the market, the Belts booth and the Small Blades stand laze beneath the night sky, still open for custom.",
+      "The crush of the crowd is almost overwhelming in the center of the sprawling marketplace.  Peddlers wheel small carts, pushing their way through and splitting the air with their shouts.  Delectable scents of baked goods grace the air, drifting from the wrought iron oven of the Muffinsmith's stall at the corner of the market.  Before it, a blond thanot bench embellished with bas-relief pelican feathers glistens in the sunlight thanks to a coat of varnish.  On the opposite end of the market, the Belts booth and the Small Blades stand battle for the throng's attention."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south, southwest, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1437": "north",
+      "1448": "northeast",
+      "1453": "east",
+      "1460": "southeast",
+      "1472": "south",
+      "1473": "southwest",
+      "1474": "west",
+      "3749": "go booth",
+      "3782": "go stand",
+      "3903": "go stall",
+      "30710": "/rooms/1438/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1437": 3,
+      "1448": 3,
+      "1453": 3,
+      "1460": 3,
+      "1472": 3,
+      "1473": 3,
+      "1474": 3,
+      "3749": 3,
+      "3782": 3,
+      "3903": 3,
+      "30710": "/rooms/1438/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "node",
+      "town",
+      "supernode",
+      "meta:mapname:Vornavis - Solhaven",
+      "meta:mapshortname:Solhaven",
+      "meta:mapcategory:Vornavis",
+      "meta:mapcategory:Towns",
+      "meta:trashcan:copper-banded green oak barrel",
+      "urchin-access",
+      "urchin guide northmarket",
+      "northmarket",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209030
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      941,
+      575,
+      965,
+      599
+    ]
+  }
+}

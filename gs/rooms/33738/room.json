@@ -1,0 +1,27 @@
+{
+  "checksum": "35f5d4285ab21e71e2007712f23041f4",
+  "room": {
+    "id": 33738,
+    "title": [
+      "[Aquamarine Lounge, Cubbyhole]"
+    ],
+    "description": [
+      "Dark grey stone lines the floor of this narrow, cramped space which ends abruptly at a curtain.  A small brass lever is set inside a small, recessed space in the wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "33737": "pull brass lever",
+      "33739": "go curtain"
+    },
+    "timeto": {
+      "33737": 0.2,
+      "33739": 0.2
+    },
+    "uid": [
+      3003129
+    ]
+  }
+}

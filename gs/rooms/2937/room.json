@@ -1,0 +1,47 @@
+{
+  "checksum": "632d4f8ed0f6c1a5952973e7da39a2cc",
+  "room": {
+    "id": 2937,
+    "title": [
+      "[The Abbey]",
+      "[Abbey, Entry Hall]"
+    ],
+    "description": [
+      "A rose-veined white marble arch stands at the entryway to a resplendent chamber with a high, dome-shaped ceiling.  Though the wide, tall entrance allows in daylight and a spectacular vista of snow-swept mountains and shining sky, the cold does not come with it.  The walls slant to the northeast, following the curve of the mountain face outside.  Glowing golden in the light of a hundred-candle chandelier hanging high above, a pair of honey maple double doors opens onto a lush courtyard."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, out",
+      "Obvious exits: northeast, east"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2936": "go arch",
+      "2938": "east",
+      "2939": "northeast",
+      "2940": "go doors"
+    },
+    "timeto": {
+      "2936": 0.2,
+      "2938": 0.2,
+      "2939": 0.2,
+      "2940": 0.2
+    },
+    "tags": [
+      "meta:mapname:Abbey",
+      "meta:mapcategory:Icemule Trace",
+      "meta:mapshortname:Abbey",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132011
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      715,
+      1076,
+      768,
+      1129
+    ]
+  }
+}

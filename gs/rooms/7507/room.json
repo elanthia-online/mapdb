@@ -1,0 +1,53 @@
+{
+  "checksum": "7f947f1e27e212dd061898539d79c275",
+  "room": {
+    "id": 7507,
+    "title": [
+      "[Catacombs, East-West Tunnel]"
+    ],
+    "description": [
+      "The tunnel continues here with little noticeable change.  Streaks of yellow and orange deposits smear the walls in places where the aquiferous stone has been cut through.  Droplets from that stone layer trickle down the walls to join the small flow in the center of the room.  Most of the crypts in this section have been picked clean by grave robbers long ago."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7506": "east",
+      "7508": "west",
+      "7513": "go crypt"
+    },
+    "timeto": {
+      "7506": 0.2,
+      "7508": 0.2,
+      "7513": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46009
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      758,
+      1101,
+      768,
+      1111
+    ]
+  }
+}

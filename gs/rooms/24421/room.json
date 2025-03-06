@@ -1,0 +1,96 @@
+{
+  "checksum": "a2147494d360f256b6dd4883538e0240",
+  "room": {
+    "id": 24421,
+    "title": [
+      "[Ranger Guild, Lodge]"
+    ],
+    "description": [
+      "The path winds up to the lodge, which is built wide and low beneath a copper roof.  Unstained oak walls have been planed to display the natural grain of the wood, and darker modwir frames the entrance.  A single apple tree by the stone steps provides welcome shade."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "River's Rest",
+    "climate": "temperate",
+    "terrain": "deciduous",
+    "wayto": {
+      "24417": "south",
+      "24422": "go steps",
+      "24423": "northwest"
+    },
+    "timeto": {
+      "24417": 0.2,
+      "24422": 0.2,
+      "24423": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "torban leaf",
+      "calamia fruit",
+      "basal moss",
+      "tkaro root",
+      "sticks",
+      "angelica root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "blueberries",
+      "elderberries",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "wild grapes",
+      "broken twig",
+      "stalk of bluebells",
+      "golden buttercup",
+      "wild pink geranium",
+      "stalk of goldenrod",
+      "small wild rose",
+      "sprig of wild lilac",
+      "wild chokecherry",
+      "sprig of mistletoe",
+      "tree bark",
+      "murkweed",
+      "mistweed",
+      "white lily",
+      "pink rain lily",
+      "coppery rain lily",
+      "kylan berry",
+      "bloodwood twig",
+      "yew twig",
+      "oak twig",
+      "luckbloom blossom",
+      "murdroot",
+      "twisted twig",
+      "slender twig",
+      "ebony twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "walnuts",
+      "alder bark",
+      "fuzzy peach",
+      "green pear",
+      "small lime",
+      "yellow lemon",
+      "pecans",
+      "raw almonds",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      273009
+    ],
+    "image": "rr_rangerguild.png",
+    "image_coords": [
+      221,
+      120,
+      238,
+      136
+    ]
+  }
+}

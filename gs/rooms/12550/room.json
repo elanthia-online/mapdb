@@ -1,0 +1,43 @@
+{
+  "checksum": "3fadc9f5b9d6c61f1f1bd644e7b3679e",
+  "room": {
+    "id": 12550,
+    "title": [
+      "[Canyon, Gecko Ledge]"
+    ],
+    "description": [
+      "A narrow trail climbs northeast, angling precariously up the canyon wall.  Several small cactus plants grow in the dry soil, their blooms a brilliant red in the sunlight.  The sounds of loggers and adventurers passing on the road below occasionally break the silence."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12549": "south",
+      "12551": "north",
+      "12552": "northeast"
+    },
+    "timeto": {
+      "12549": 0.2,
+      "12551": 0.2,
+      "12552": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703254
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      875,
+      795,
+      893,
+      813
+    ]
+  }
+}

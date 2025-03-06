@@ -1,0 +1,42 @@
+{
+  "checksum": "c2ef972ffa755402e4f332a2375bcc45",
+  "room": {
+    "id": 7117,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "A burned out torch lies cast aside against one wall, where it landed after skidding across the floor for several feet.  The floor is streaked black with dried pitch and soot, which mark the trail of the torch when it was discarded."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7116": "north",
+      "7118": "south"
+    },
+    "timeto": {
+      "7116": 0.2,
+      "7118": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44010
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      868,
+      1119,
+      878,
+      1129
+    ]
+  }
+}

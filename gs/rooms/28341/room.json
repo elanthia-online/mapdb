@@ -1,0 +1,36 @@
+{
+  "checksum": "31a712c02c69089c9d5423d0a3fa1f4d",
+  "room": {
+    "id": 28341,
+    "title": [
+      "[Bard Guild, Member's Bar]"
+    ],
+    "description": [
+      "Dim streetlight filters through this cozy room's thick curtains of loosely woven silk, casting a maroon-tinged glow over the scattered groups seated at the tables and private booths.  A magnificently carved mahogany bar runs the length of the west wall, its polished onyx surface reflecting the gleaming barware, bottles and brass of the trade.  An occasional raucous laugh or snippet of heated conversation filters through a heavy green velvet curtain on the north side of the room.",
+      "Dim sunlight filters through this cozy room's thick curtains of loosely woven silk, casting a maroon-tinged glow over the scattered groups seated at the tables and private booths.  A magnificently carved mahogany bar runs the length of the west wall, its polished onyx surface reflecting the gleaming barware, bottles and brass of the trade.  An occasional raucous laugh or snippet of heated conversation filters through a heavy green velvet curtain on the north side of the room."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Ta'Vaalor Bard Guild",
+    "wayto": {
+      "10436": "go green curtain",
+      "28338": "west",
+      "28342": "/rooms/28341/wayto/stringproc-28342.rb",
+      "28343": "/rooms/28341/wayto/stringproc-28343.rb",
+      "28344": "/rooms/28341/wayto/stringproc-28344.rb",
+      "28345": "/rooms/28341/wayto/stringproc-28345.rb"
+    },
+    "timeto": {
+      "10436": 0.2,
+      "28338": 0.2,
+      "28342": 0.2,
+      "28343": 0.2,
+      "28344": 0.2,
+      "28345": 0.2
+    },
+    "uid": [
+      287006
+    ]
+  }
+}

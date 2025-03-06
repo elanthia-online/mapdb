@@ -1,0 +1,29 @@
+{
+  "checksum": "389b222dae56b83d3932e032b2342e1a",
+  "room": {
+    "id": 12956,
+    "title": [
+      "[Tower Hill, Path]"
+    ],
+    "description": [
+      "A hint of wan light silvers the many large stones that litter the grassy hillside.  A narrow track winds around the hill, spiraling downhill to the northwest and more steeply uphill to the east, where it disappears amongst a stand of nearly leafless hawthorn trees.  Dark, regular shadows mark the outlines of rooftops in the town below.",
+      "Sunlight dapples the many large stones that litter the grassy hillside.  A narrow track winds around the hill, spiraling downhill to the northwest and more steeply uphill to the east, where it disappears amongst a stand of nearly leafless hawthorn trees.  From this slight elevation, the dark rooftops of the town laid out below are easily visible."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Village of Velathae",
+    "wayto": {
+      "12955": "northwest",
+      "12957": "east"
+    },
+    "timeto": {
+      "12955": 0.2,
+      "12957": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:velathae"
+    ]
+  }
+}

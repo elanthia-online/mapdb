@@ -1,0 +1,40 @@
+{
+  "checksum": "5242422efced010a009b10a7d6307994",
+  "room": {
+    "id": 19700,
+    "title": [
+      "[Cavernhold, Long Passage]"
+    ],
+    "description": [
+      "The echo of your footsteps is a sure indication that this is indeed a long tunnel.  The dim light cast by the glowing fungus is quickly swallowed by a thick curtain of darkness to the south.  To the northwest, however, can be seen a brighter room."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19682": "south",
+      "19701": "northwest"
+    },
+    "timeto": {
+      "19682": 0.2,
+      "19701": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11023
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      740,
+      707,
+      754,
+      720
+    ]
+  }
+}

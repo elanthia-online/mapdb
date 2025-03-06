@@ -1,0 +1,41 @@
+{
+  "checksum": "7cb1322e92764b5faaab22802d8a3cdd",
+  "room": {
+    "id": 30403,
+    "title": [
+      "[Western Waterway, Charl's Teeth]"
+    ],
+    "description": [
+      "Jagged spires of obsidian stand tall against the sky, their uneven peaks a resting place for a variety of seabirds.  Waves crash against them as the sea makes its way towards shore.  White spray propels towards the sky only to come showering back down."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30402": "pedal east",
+      "30404": "pedal southeast",
+      "30405": "pedal northeast"
+    },
+    "timeto": {
+      "30402": 6,
+      "30404": 6,
+      "30405": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216180
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      323,
+      2927,
+      338,
+      2940
+    ]
+  }
+}

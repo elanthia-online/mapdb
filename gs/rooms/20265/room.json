@@ -1,0 +1,24 @@
+{
+  "checksum": "5b1f2dc6eb7b7e6606f3f9adfe38ad84",
+  "room": {
+    "id": 20265,
+    "title": [
+      "[The Bearded Dome]"
+    ],
+    "description": [
+      "Various exotic flora in pots and planters have been arranged to mimic the natural environment beneath an expansive domed canopy.  Lined with smooth river stones, a winding path spirals inward from a verdant vine-patterned flap to the tent's center."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20264": "go flap",
+      "20383": "southwest"
+    },
+    "timeto": {
+      "20264": 0.2,
+      "20383": 0.2
+    }
+  }
+}

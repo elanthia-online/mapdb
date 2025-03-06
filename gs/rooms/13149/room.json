@@ -1,0 +1,40 @@
+{
+  "checksum": "50e36c58a965a981d8cebe39d84c35f2",
+  "room": {
+    "id": 13149,
+    "title": [
+      "[Stone Edifice, Hallway]"
+    ],
+    "description": [
+      "A white, eostone-inlaid door occupies the western wall, flanked by a pair of small, potted luminescent toadstools.  The hall curves slightly in this area, and the normally pale grey walls have taken on a faint greenish tint from the glowing fungi."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "wayto": {
+      "13148": "southeast",
+      "13150": "north",
+      "13156": "go door"
+    },
+    "timeto": {
+      "13148": 0.2,
+      "13150": 0.2,
+      "13156": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      565009
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      1107,
+      492,
+      1127,
+      512
+    ]
+  }
+}

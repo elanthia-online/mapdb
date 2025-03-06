@@ -1,0 +1,42 @@
+{
+  "checksum": "136242f5c85574984473193a3dea7e79",
+  "room": {
+    "id": 12694,
+    "title": [
+      "[Ruined Temple, Third Floor]"
+    ],
+    "description": [
+      "From the submerged floor below, water laps gently, echoing through this roofless chamber.  An armless statue of a woman gazes upon a collapsed section of wall, soot marring her otherwise flawless ivory visage.  Bleached bones lay in the shadow of the statue."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12693": "go staircase",
+      "12695": "northeast",
+      "12696": "northwest"
+    },
+    "timeto": {
+      "12693": 0.2,
+      "12695": 0.2,
+      "12696": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3031056
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      1097,
+      370,
+      1133,
+      406
+    ]
+  }
+}

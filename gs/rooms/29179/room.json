@@ -1,0 +1,45 @@
+{
+  "checksum": "f672817ca984e0970d63e1c3ed8a5b2f",
+  "room": {
+    "id": 29179,
+    "title": [
+      "[The F'Eyrie, Crater Rim]"
+    ],
+    "description": [
+      "This flat path along the crater rim runs northeast to west.  Down the east side of the volcano's slope, ragged rocks of cooled lava coated with fine ash stand vertically like some great claws piercing through soil.  A rocky ledge can be accessed with a short climb south, while the ashy path continues to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, west"
+    ],
+    "location": "the volcanic flats",
+    "climate": "arid",
+    "terrain": "mountainous",
+    "wayto": {
+      "29177": "west",
+      "29178": "south",
+      "29180": "northeast"
+    },
+    "timeto": {
+      "29177": 0.2,
+      "29178": 0.2,
+      "29180": 0.2
+    },
+    "tags": [
+      "yellow primrose",
+      "stalk of drakefern",
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3023119
+    ],
+    "image": "ti-feyrie-1599500894.png",
+    "image_coords": [
+      492,
+      255,
+      515,
+      276
+    ]
+  }
+}

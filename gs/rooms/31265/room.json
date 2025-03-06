@@ -1,0 +1,30 @@
+{
+  "checksum": "18cfcb787186c3bba9dd0cc847ccc425",
+  "room": {
+    "id": 31265,
+    "title": [
+      "[Asylum, Solitary Wing]"
+    ],
+    "description": [
+      "Dust and haze fill the air, making it difficult to see either the thick steel door or the adjacent metal barred door.  Draperies of cobwebs hang from the low ceiling and brush against anything that moves through the hall.  A slimy puddle lies in the center of the hall, giving off a tangy stink."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "31251": "west",
+      "31264": "go thick door"
+    },
+    "timeto": {
+      "31251": 0.2,
+      "31264": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      3027019
+    ]
+  }
+}

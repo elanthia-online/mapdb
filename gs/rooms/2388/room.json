@@ -1,0 +1,57 @@
+{
+  "checksum": "28832381dc38a71b4b3e04e02b7baf1f",
+  "room": {
+    "id": 2388,
+    "title": [
+      "[Lager Street, Cul-de-sac]",
+      "[Lager Road, Cul-de-Sac]"
+    ],
+    "description": [
+      "A stone wall abuts the cobblestone street and looms overhead.  On top of the wall are stone lion sculptures, spaced at equal intervals, standing like guardians facing outward.  Framed within the middle of the stonework is a gate wrought of steel and gilded with silver filigrees.  The regal escutcheon of the Warrior Guild hangs prominently upon the center of the gate."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "2387": "east",
+      "17749": "go gate",
+      "30709": "/rooms/2388/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2387": 0.2,
+      "17749": "/rooms/2388/timeto/stringproc-17749.rb",
+      "30709": "/rooms/2388/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "some valerian root",
+      "some arctic moss",
+      "some tundra grass",
+      "some wingstem root",
+      "orange rowanberry",
+      "winter rose",
+      "some pennyroyal stem",
+      "ironfern root",
+      "some angelica root",
+      "sweetfern stalk",
+      "sassafras leaf",
+      "frostweed",
+      "frostflower",
+      "murdroot",
+      "urchin guide warriorguild",
+      "urchin-access",
+      "warrior guild"
+    ],
+    "uid": [
+      250001
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      50,
+      877,
+      86,
+      913
+    ]
+  }
+}

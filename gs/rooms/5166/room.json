@@ -1,0 +1,53 @@
+{
+  "checksum": "f571cf7a2dadbb8ad3a4377a1caeaa23",
+  "room": {
+    "id": 5166,
+    "title": [
+      "[Vornavian Coast, Coastal Cliffs]"
+    ],
+    "description": [
+      "The rocks of the cliff face make further progress to the west or north impossible.  A rough path, strewn with sharp, protruding rocks from the cliff face, continues to the southeast."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "hot, damp",
+    "terrain": "rough",
+    "wayto": {
+      "5165": "southeast",
+      "5167": "climb path"
+    },
+    "timeto": {
+      "5165": 0.2,
+      "5167": 0.2
+    },
+    "tags": [
+      "yellow passionflower",
+      "white passionflower",
+      "golden hook mushroom",
+      "blue passionflower",
+      "stalk of chicory",
+      "wild gooseberry",
+      "fiddlehead fern",
+      "broken twig",
+      "yellow primrose",
+      "small wild rose",
+      "cactus flower",
+      "wild chokecherry",
+      "meta:forage-sensed",
+      "pepperthorn root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202199
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      891,
+      344,
+      901,
+      354
+    ]
+  }
+}

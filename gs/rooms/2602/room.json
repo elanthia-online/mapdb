@@ -1,0 +1,50 @@
+{
+  "checksum": "f837b1a40abc8e61015e91ed49d75938",
+  "room": {
+    "id": 2602,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Four banks of mist flow together, a distant scene forming within them.  A bustling town comes together in the square.  Halflings dressed in old style clothing stand about, some yelling angrily, others slain as they lay on their cloaks on the ground.  One ancient dark elf leans against the base of the large frozen statue of a pack animal, smirking arrogantly."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2601": "east",
+      "2603": "west",
+      "2635": "/rooms/2602/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2602/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2602/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2601": 0.2,
+      "2603": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "withered deathblossom"
+    ],
+    "uid": [
+      4566026
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      212,
+      751,
+      222,
+      761
+    ]
+  }
+}

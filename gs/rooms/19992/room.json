@@ -1,0 +1,38 @@
+{
+  "checksum": "84f4453ec5ca240f68b7f4818403acb1",
+  "room": {
+    "id": 19992,
+    "title": [
+      "[Cavernhold, Treasure Vault]"
+    ],
+    "description": [
+      "This is the fabled Treasure Vault of the Gnolls of Cavernhold.  In here are kept the exquisite works of art created by the master craftsmen that inhabit this cave system.  Stone shelves occupy every available inch of wall space."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19728": "/rooms/19992/wayto/stringproc-19728.rb"
+    },
+    "timeto": {
+      "19728": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11500
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      467,
+      551,
+      476,
+      561
+    ]
+  }
+}

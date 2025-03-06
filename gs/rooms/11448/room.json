@@ -1,0 +1,44 @@
+{
+  "checksum": "a6e27f328fac9fe34169a09c227398dc",
+  "room": {
+    "id": 11448,
+    "title": [
+      "[Tempest River, Bay Mouth]"
+    ],
+    "description": [
+      "The slow-moving swells of the bay disguise the swift currents that make it impossible to move to the west.  A tall, sheer cliff rises from the water, forming a steep wall to the east and northeast.  Clumps of scrub brush cling tenaciously to the sides of the cliff.  The water is deep, but clear enough that the sandy bottom is visible below."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, northwest"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11437": "/rooms/11448/wayto/stringproc-11437.rb",
+      "11438": "/rooms/11448/wayto/stringproc-11438.rb",
+      "11447": "/rooms/11448/wayto/stringproc-11447.rb",
+      "11449": "/rooms/11448/wayto/stringproc-11449.rb"
+    },
+    "timeto": {
+      "11437": 2,
+      "11438": 2,
+      "11447": 2,
+      "11449": 2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304015
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      729,
+      1314,
+      739,
+      1324
+    ]
+  }
+}

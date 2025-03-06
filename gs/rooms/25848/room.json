@@ -1,0 +1,43 @@
+{
+  "checksum": "d0b2ad625f425ab302d12e5674ce116b",
+  "room": {
+    "id": 25848,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Surrounded by bright tropical blossoms, a long wooden dock stretches out into the cool waters of the harbor and provides access to a small island.  Tall pylons surround the wooden structure, while bright white buoys line its edges and lightly bounce beneath the insistent push of the rolling waves."
+    ],
+    "paths": [
+      "Obvious paths: east, south, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25805": "/rooms/25848/wayto/stringproc-25805.rb",
+      "25833": "/rooms/25848/wayto/stringproc-25833.rb",
+      "25844": "/rooms/25848/wayto/stringproc-25844.rb",
+      "25849": "/rooms/25848/wayto/stringproc-25849.rb"
+    },
+    "timeto": {
+      "25805": 6,
+      "25833": 6,
+      "25844": 6,
+      "25849": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223859
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1200,
+      1679,
+      1221,
+      1699
+    ]
+  }
+}

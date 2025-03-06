@@ -1,0 +1,32 @@
+{
+  "checksum": "b22a8267313aadec4efb0b5f305ccb3a",
+  "room": {
+    "id": 25550,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Squat but wide, echoes ring out loudly in this mostly ruin rock hallway.  What little ambient light illuminates the way reflects off thin rivulets of trickle coming from the roots breaking through the earthen ceiling.  The crimson glow of vermin eyes flash every now and again, as the creatures meander from end to end of the passage."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25549": "south",
+      "25551": "west",
+      "25553": "east",
+      "25568": "north"
+    },
+    "timeto": {
+      "25549": 0.2,
+      "25551": 0.2,
+      "25553": 0.2,
+      "25568": 0.2
+    },
+    "uid": [
+      8213714
+    ],
+    "check_location": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "1dfea3ff6fe8c8dfaffab7749601fbdc",
+  "room": {
+    "id": 20448,
+    "title": [
+      "[Briannae's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by white silk-paneled walls, the shop features a tropical floral arrangement in the center of its bamboo floor.  A painted silk wall panel hangs under the seaglass ceiling.  Right near the front is an elegant silver jewelry rack and a long mistwood counter."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12270": "out",
+      "20478": "south",
+      "20479": "north"
+    },
+    "timeto": {
+      "12270": 0.2,
+      "20478": 0.2,
+      "20479": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

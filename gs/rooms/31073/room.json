@@ -1,0 +1,37 @@
+{
+  "checksum": "1ae29690fd7b70a7bad6715db26a1e7a",
+  "room": {
+    "id": 31073,
+    "title": [
+      "[Seethe Naedal, Transportation]"
+    ],
+    "description": [
+      "Rough wooden paneling lines the walls of the cabin, the tight knots in the slabs creating natural patterns.  Several wrought iron lanterns hang from the ceiling, shedding a soft light across the room.  Centered on the floor is a thick, wool carpet with a large padded chair resting behind a wide maple desk.  A pair of maps are hung by the door with details of various trails and tracks."
+    ],
+    "paths": [
+      "Obvious paths: east, out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "29860": "/rooms/31073/wayto/stringproc-29860.rb",
+      "31071": "out",
+      "31074": "east"
+    },
+    "timeto": {
+      "29860": 3600,
+      "31071": 0.2,
+      "31074": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "silver-cost:29860:3000"
+    ],
+    "uid": [
+      13205201
+    ]
+  }
+}

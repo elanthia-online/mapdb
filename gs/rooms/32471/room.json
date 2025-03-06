@@ -1,0 +1,37 @@
+{
+  "checksum": "8cdddeb0e3c81c9ed76926e35ac8dbec",
+  "room": {
+    "id": 32471,
+    "title": [
+      "[Moonsedge Castle, Upper Hallway]"
+    ],
+    "description": [
+      "Comical grotesques cavort in every other arched nook along the walls, each holding a burning candle aloft.  Combined, the flames lend a honeyed, inconstant glow to the hallway, which comes to an end in a dark-stained pine door carved with falling sweetbriar petals and tangled thorns.  A trio of jagged gouges defaces one of the empty nooks and has dislodged a few of the stones used in their construction."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32466": "southeast",
+      "32472": "go door"
+    },
+    "timeto": {
+      "32466": 0.2,
+      "32472": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577243
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1047,
+      348,
+      1066,
+      363
+    ]
+  }
+}

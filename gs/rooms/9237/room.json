@@ -1,0 +1,40 @@
+{
+  "checksum": "4f7bc44e9ac3cc94612c52fb7b4ee7ea",
+  "room": {
+    "id": 9237,
+    "title": [
+      "[Thurfel's Cellar]"
+    ],
+    "description": [
+      "Several large vats have been overturned and whatever was contained within them is now nothing more than a few stains on the floor.  One cauldron remains upright, however, and is issuing forth huge gouts of black smoke from its madly bubbling brew."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Thurfel's Island",
+    "wayto": {
+      "9232": "go stairway",
+      "9238": "east",
+      "9240": "north"
+    },
+    "timeto": {
+      "9232": 0.2,
+      "9238": 0.2,
+      "9240": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7532036
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1086,
+      1057,
+      1096,
+      1067
+    ]
+  }
+}

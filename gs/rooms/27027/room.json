@@ -1,0 +1,27 @@
+{
+  "checksum": "2470087c6c41d1eaf04f10808d313130",
+  "room": {
+    "id": 27027,
+    "title": [
+      "[Lake of Fear, Northern Expanse]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  A large crack in the ice several inches deep gives silent testament to the thickness of the frozen lake's surface."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27026": "/rooms/27027/wayto/stringproc-27026.rb",
+      "27028": "/rooms/27027/wayto/stringproc-27028.rb"
+    },
+    "timeto": {
+      "27026": 0.2,
+      "27028": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

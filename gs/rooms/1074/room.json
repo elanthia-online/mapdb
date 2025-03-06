@@ -1,0 +1,51 @@
+{
+  "checksum": "3f3b53ebeb4edc6ca858f83bd0f0701d",
+  "room": {
+    "id": 1074,
+    "title": [
+      "[Dead Plateau, Rope Ladder]"
+    ],
+    "description": [
+      "The Dead Plateau stretches out as far as the eye can see to the west, southwest, south and southeast in a long, cold, perfectly level expanse of solid rock.  It would be easy to navigate by the moons and strike out in one of the directions except for the presence of yawning, jagged crevices running as untamed lightning across the plateau's interior.  One crevice extends to the plateau's edge, cutting off travel to the west and leaving the only passable direction along the edge to the southeast.",
+      "The Dead Plateau stretches out as far as the eye can see to the west, southwest, south and southeast in a long, cold, perfectly level expanse of solid rock.  It would be easy to navigate by the sun and strike out in one of the directions except for the presence of yawning, jagged crevices running as untamed lightning across the plateau's interior.  One crevice extends to the plateau's edge, cutting off travel to the west and leaving the only passable direction along the edge to the southeast."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the Locksmehr Trail",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "1073": "/rooms/1074/wayto/stringproc-1073.rb",
+      "1075": "southeast"
+    },
+    "timeto": {
+      "1073": 30,
+      "1075": 0.2
+    },
+    "tags": [
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "cothinar flower",
+      "wintergreen leaf",
+      "bright red teaberry",
+      "stalk of chicory",
+      "broken twig",
+      "moonlight cactus-bloom",
+      "sprig of larkspur",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13001038
+    ],
+    "image": "en-trail-1264234799.png",
+    "image_coords": [
+      1247,
+      720,
+      1257,
+      730
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "55ae566cfb82af31639dacbc6acb96cd",
+  "room": {
+    "id": 15571,
+    "title": [
+      "[Wizard Guild, Nexus of Elements]"
+    ],
+    "description": [
+      "The half-translucent surroundings of crystal are marked with a variety of flowing runes, their wavy forms casting four distinct hues of light across the wide, cavernous surroundings.  A single black tome sits atop a dark onyx podium, its pages rustling ever so slightly with brief drafts of air flowing in from the east.  A small marble staircase leads into the upper sections of the tower, the faint hums of power from above reverberating around the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west, down"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "15569": "down",
+      "16962": "north",
+      "16963": "west",
+      "16965": "east",
+      "16968": "south",
+      "17721": "/rooms/15571/wayto/stringproc-17721.rb"
+    },
+    "timeto": {
+      "15569": 0.2,
+      "16962": 0.2,
+      "16963": 0.2,
+      "16965": 0.2,
+      "16968": 0.2,
+      "17721": 10.4
+    },
+    "uid": [
+      685008
+    ],
+    "image": "en-ta_illistim-Wizard_Guild-1264234799.gif",
+    "image_coords": [
+      457,
+      186,
+      509,
+      238
+    ]
+  }
+}

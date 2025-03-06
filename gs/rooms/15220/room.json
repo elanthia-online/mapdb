@@ -1,0 +1,29 @@
+{
+  "checksum": "72d012205cbf5f7bb6d661bf86979661",
+  "room": {
+    "id": 15220,
+    "title": [
+      "[Ceranelo's Weaponry]"
+    ],
+    "description": [
+      "Enclosed by varnished ebonwood walls, the shop features a bronzed drake sculpture in the center of its oak floor.  A ruby-eyed grinning skull hangs under the beam ceiling.  Right near the front is a gilded maple cabinet and a gilded maple table."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "348": "out",
+      "15291": "northwest",
+      "15292": "northeast"
+    },
+    "timeto": {
+      "348": 0.2,
+      "15291": 0.2,
+      "15292": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

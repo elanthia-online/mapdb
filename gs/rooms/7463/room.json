@@ -1,0 +1,41 @@
+{
+  "checksum": "ab32d0b6aefb0848e3965f7b9f40da40",
+  "room": {
+    "id": 7463,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The irregular walls of the tunnel have been worn smooth, as if they had been polished with abrasive cloths.  There are no jagged edges, no scratches or other marks in the stone, no signs that the tunnel is anything but a natural formation."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7462": "/rooms/7463/wayto/stringproc-7462.rb",
+      "7464": "/rooms/7463/wayto/stringproc-7464.rb"
+    },
+    "timeto": {
+      "7462": 0.2,
+      "7464": 0.2
+    },
+    "tags": [
+      "some cave moss",
+      "sponge mushroom",
+      "some blackened moss",
+      "some glowing green lichen",
+      "magru"
+    ],
+    "uid": [
+      94006
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      834,
+      907,
+      844,
+      917
+    ]
+  }
+}

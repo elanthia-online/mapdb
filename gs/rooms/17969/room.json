@@ -1,0 +1,41 @@
+{
+  "checksum": "2d5d8fa3a6c1831772db375b76b21fcb",
+  "room": {
+    "id": 17969,
+    "title": [
+      "[Rogue Guild, Storage Cellar]"
+    ],
+    "description": [
+      "The low roof and winding tunnels of the cellar give the impression that it was probably an ancient halfling residence, burrowed long ago.  The curved walls are stacked with crates of glassware and foodstuffs, and a mouthwatering aroma of stewing meat, spices and garlic emanates from the wooden arch to the east."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the town of Icemule Trace",
+    "wayto": {
+      "17968": "go stairs",
+      "17979": "south",
+      "17980": "north"
+    },
+    "timeto": {
+      "17968": 0.2,
+      "17979": 0.2,
+      "17980": 0.2
+    },
+    "tags": [
+      "rogue guild tools",
+      "rogue guild kitchen",
+      "rogue guild cleaning supplies"
+    ],
+    "uid": [
+      260013
+    ],
+    "image": "imt-rogue_guild-1305438533.png",
+    "image_coords": [
+      412,
+      231,
+      440,
+      256
+    ]
+  }
+}

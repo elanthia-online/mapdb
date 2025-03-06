@@ -1,0 +1,37 @@
+{
+  "checksum": "acff72cda1221e451e1326cc4b07f250",
+  "room": {
+    "id": 7974,
+    "title": [
+      "[Ceraleth's Cartage]"
+    ],
+    "description": [
+      "Tall wooden crates, reinforced with crossed planks and sealed with heavy hinged locks, stand in rows in this large room.  Workmen stuggle in pairs, or groups of four, handling the big crates with care as they move them in or out.  The stone floors are meticulously kept and there is not a speck of dust to be seen."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7973": "west",
+      "7975": "east"
+    },
+    "timeto": {
+      "7973": 0.2,
+      "7975": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi"
+    ],
+    "uid": [
+      32162
+    ],
+    "image": "wl-moot_hall-1486755929.png",
+    "image_coords": [
+      595,
+      208,
+      738,
+      265
+    ]
+  }
+}

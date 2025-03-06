@@ -1,0 +1,24 @@
+{
+  "checksum": "c74dd54029fe541ad46a83e66f1ecc81",
+  "room": {
+    "id": 24149,
+    "title": [
+      "[Necropolis, Underground Lake]"
+    ],
+    "description": [
+      "A graveyard of modwir gondolas has washed up on the shore of the underground lake.  The poor lighting offers no hint at how expansive the body of water could be, and the depth becomes too much to continue to wade through."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24148": "south",
+      "24151": "/rooms/24149/wayto/stringproc-24151.rb"
+    },
+    "timeto": {
+      "24148": 0.2,
+      "24151": 0.2
+    }
+  }
+}

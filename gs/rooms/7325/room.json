@@ -1,0 +1,46 @@
+{
+  "checksum": "8bc0a13e33569fd41f0c99c97c78e855",
+  "room": {
+    "id": 7325,
+    "title": [
+      "[Shadow Valley]"
+    ],
+    "description": [
+      "A thousand tiny particles of shattered wood cover a mottled clay ramp which descends into the ground before you.  Torn and broken earth indicates that the opening may have been caused by an explosive force.  Strangely, odd black mists twist and flow around the entryway, as if trying to conceal it."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "4535": "climb ramp",
+      "7326": "northeast",
+      "7330": "southeast"
+    },
+    "timeto": {
+      "4535": 0.2,
+      "7326": 0.2,
+      "7330": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02",
+      "shadow mare"
+    ],
+    "uid": [
+      389030
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1327,
+      616,
+      1337,
+      626
+    ]
+  }
+}

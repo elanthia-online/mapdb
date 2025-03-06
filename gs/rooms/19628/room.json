@@ -1,0 +1,33 @@
+{
+  "checksum": "b1f60bd01d0df87fc0624c9b5bab42be",
+  "room": {
+    "id": 19628,
+    "title": [
+      "[Albatross, Patrons' Hallway]"
+    ],
+    "description": [
+      "Elegant beeswax candles hang from the ceiling in hunter green glass holders, their light dappling the richly carpeted hallway and casting shadows along the rosewood walls.  Solid gold frames a heavy door at the end of the hallway, and silver filigree outlines another on the port side.  A heavy, richly appointed tapestry muffles the sounds from the bar down the hall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19619": "east",
+      "19629": "go rosewood door",
+      "19630": "go silver-traced door"
+    },
+    "timeto": {
+      "19619": 0.2,
+      "19629": 0.2,
+      "19630": 0.2
+    },
+    "image": "fest-albatross-1310186668.png",
+    "image_coords": [
+      167,
+      313,
+      200,
+      347
+    ]
+  }
+}

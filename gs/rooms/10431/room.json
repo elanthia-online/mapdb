@@ -1,0 +1,28 @@
+{
+  "checksum": "a0aa8b2f2d30012c9fc508a31b148cf9",
+  "room": {
+    "id": 10431,
+    "title": [
+      "[Samyrle's Salon, Outer Wear]"
+    ],
+    "description": [
+      "Mirrors line the ebonwood wall, giving the room a multi-dimensional effect, perfect for examining all angles of the various wares for sale here.  A narrow double door lies open and leads out onto a small balcony."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10430": "east",
+      "10432": "southeast"
+    },
+    "timeto": {
+      "10430": 0.2,
+      "10432": 0.2
+    },
+    "tags": [
+      "meta:game:GSPlat",
+      "meta:game:GSX"
+    ]
+  }
+}

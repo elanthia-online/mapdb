@@ -1,0 +1,46 @@
+{
+  "checksum": "5999737c62e52693be644b0e395ea9ab",
+  "room": {
+    "id": 206,
+    "title": [
+      "[Ta'Illistim, Weyr Var]"
+    ],
+    "description": [
+      "Rosebushes line the var, their brilliant red and yellow blossoms adding both color and scent to a small neighborhood of sturdy greystone houses.  A small cart moves along the wey, its wooden wheels clattering against the rounded cobblestones as its driver struggles to keep his draw animals under control.  The open cart is filled with boxes marked FRAGILE, which helps to account for the driver's worried looks.",
+      "Rosebushes line the var, their velvety white blossoms contributing a clean look and sweet scent to a small neighborhood of sturdy marble villas.  One house is set back farther than its neighbors, cut down to half their size to accommodate a second building, connected to the first with a loggia.  Though the first building is residential, the second is hung with a placard that marks it as a shop."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10": "southwest",
+      "205": "southeast",
+      "690": "north",
+      "18679": "go shop"
+    },
+    "timeto": {
+      "10": 0.2,
+      "205": 0.2,
+      "690": 0.2,
+      "18679": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101031
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      529,
+      250,
+      551,
+      271
+    ]
+  }
+}

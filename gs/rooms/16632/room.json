@@ -1,0 +1,27 @@
+{
+  "checksum": "6294717440d3ecbe7a3d497e5e5f908d",
+  "room": {
+    "id": 16632,
+    "title": [
+      "[Exttior's Outfitting]",
+      "[Exttior's General Store]",
+      "[Exttior's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16482": "south"
+    },
+    "timeto": {
+      "16482": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "70d19378f020a79700ee411118d83233",
+  "room": {
+    "id": 7695,
+    "title": [
+      "[Underground Ruin, Excavation]"
+    ],
+    "description": [
+      "You look upon a hideous sight.  Scores of twisted, broken skeletons are pressed against the rough hewn walls and floor.  It's as if they were swept in here by a great wind or wall of water."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Coastal Cliffs",
+    "wayto": {
+      "7689": "northeast",
+      "7706": "go passage"
+    },
+    "timeto": {
+      "7689": 0.2,
+      "7706": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      68015
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      443,
+      1204,
+      453,
+      1214
+    ]
+  }
+}

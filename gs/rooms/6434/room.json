@@ -1,0 +1,39 @@
+{
+  "checksum": "a00aaae83dcc200223529a5f1d704f68",
+  "room": {
+    "id": 6434,
+    "title": [
+      "[Lysierian Hills, Great Room]"
+    ],
+    "description": [
+      "A small fireplace occupies the east wall of this otherwise empty room.  The wood floor creaks loudly as you walk across it."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6433": "west",
+      "6435": "north"
+    },
+    "timeto": {
+      "6433": 0.2,
+      "6435": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      93068
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1125,
+      64,
+      1135,
+      74
+    ]
+  }
+}

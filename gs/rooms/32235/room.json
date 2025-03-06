@@ -1,0 +1,27 @@
+{
+  "checksum": "6517f1dd3b6b0eca94f7f613bfa5f53e",
+  "room": {
+    "id": 32235,
+    "title": [
+      "[Sonreeva, Dark Passageway]"
+    ],
+    "description": [
+      "The deeply shadowed corridor leads off to the north and south, with little distinction between the two.  A multitude of scuff marks on the dusty ground bear witness to recent travel through this area."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "32234": "south",
+      "32236": "north"
+    },
+    "timeto": {
+      "32234": 0.2,
+      "32236": 0.2
+    },
+    "uid": [
+      8088027
+    ]
+  }
+}

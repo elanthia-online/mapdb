@@ -1,0 +1,58 @@
+{
+  "checksum": "ef3d0fc2bc666e64296b09843f99b686",
+  "room": {
+    "id": 12175,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Your wandering brings you to a small clearing.  The ground is dry and parched, and there are large lines scratched into the surface and coated in a red, sticky substance.  Following the lines a moment, you realize they make a rune covered circle, and that you are standing in the center of it.  A cold wind whips around you at that point, and you hear howls in the distance."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12175/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12175/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12175/wayto/stringproc-12152.rb",
+      "12174": "west",
+      "12176": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12174": 0.2,
+      "12176": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568003
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      184,
+      1004,
+      196,
+      1016
+    ]
+  }
+}

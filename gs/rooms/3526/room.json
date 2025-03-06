@@ -1,0 +1,44 @@
+{
+  "checksum": "b714fc566b3e3abf2a10c4170a340355",
+  "room": {
+    "id": 3526,
+    "title": [
+      "[Ta'Vaalor, Jacinthea Wey]"
+    ],
+    "description": [
+      "The amber-colored limestone walls of the city's weaponry glow slightly in the daylight, the warm hue of the stone belying the strength and hardness of its surface.  The windows are thrown open, and the sound of hammer ringing upon anvil drifts across the wey at regular intervals.  A mithglin sign hangs upon the building's doorpost.",
+      "The amber-colored limestone walls of the city's weaponry glow slightly in the moonlight, the warm hue of the stone belying the strength and hardness of its surface.  The windows are thrown open, and the sound of hammer ringing upon anvil drifts across the wey at regular intervals.  A mithglin sign hangs upon the building's doorpost."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3525": "south",
+      "3527": "north",
+      "10367": "go shop"
+    },
+    "timeto": {
+      "3525": 0.2,
+      "3527": 0.2,
+      "10367": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100034
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1224,
+      705,
+      1259,
+      741
+    ]
+  }
+}

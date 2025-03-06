@@ -1,0 +1,25 @@
+{
+  "checksum": "5fde4b24566ac359514a36638723e086",
+  "room": {
+    "id": 19050,
+    "title": [
+      "[Stars of the Sea]"
+    ],
+    "description": [
+      "Sunlight streams through several port holes and the elongated aquarium placed before them, casting watery waves upon the plank floor.  Squat glass cases have been festooned with brightly colored shells, augmenting the ambience of an underwater cove.",
+      "An elongated aquarium runs along the entire length of the eastern wall, its dark waters highlighted by flitting phosphorescent flecks.  Above squat glass cases, flickering nacreous sconces illuminate the displays."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "19084": "north",
+      "19140": "go glaes-studded hatch"
+    },
+    "timeto": {
+      "19084": 0.2,
+      "19140": 0.2
+    }
+  }
+}

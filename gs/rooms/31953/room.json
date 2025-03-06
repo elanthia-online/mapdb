@@ -1,0 +1,32 @@
+{
+  "checksum": "b35c5e3115e8c4b75472653f71ead84d",
+  "room": {
+    "id": 31953,
+    "title": [
+      "[Fiendish Phantomes, Athenaeum]"
+    ],
+    "description": [
+      "Massive open space has been hollowed out into the core of this tree, creating an interior pavilion with multiple arched outlets that peer deeper, through the tree's branches.  Carved into the oak walls of this dome are floor-to-ceiling bookshelves trimmed with faenor metalwork, each one depicting different vegetation.  The worn floor is covered in omnifarious parchments and half-torn books that are blanketed with dust and webbing."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31952": "out",
+      "31954": "go ladder"
+    },
+    "timeto": {
+      "31952": 0.2,
+      "31954": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084626
+    ]
+  }
+}

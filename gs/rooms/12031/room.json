@@ -1,0 +1,44 @@
+{
+  "checksum": "06530907d03de8980627b5ba59b7921a",
+  "room": {
+    "id": 12031,
+    "title": [
+      "[Old Ta'Faendryl, Basilica Plaza]"
+    ],
+    "description": [
+      "A tower rises up in the center of the city.  Perched atop its massive height is an octogonal shaped building.  Wide stone steps lead up the side of the pyramid.",
+      "A tower in the form of a terraced pyramid of successively receding stories rises up in the center of the city.  Perched atop its massive height is an octogonal shaped building constructed of gleaming white marble.  Wide stone steps lead up the side of the pyramid."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11936": "south",
+      "12030": "north",
+      "12032": "climb steps"
+    },
+    "timeto": {
+      "11936": 0.2,
+      "12030": 0.2,
+      "12032": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      17004047
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      596,
+      501,
+      606,
+      511
+    ]
+  }
+}

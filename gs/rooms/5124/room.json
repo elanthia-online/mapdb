@@ -1,0 +1,55 @@
+{
+  "checksum": "97d3e524bf76bb82bd6026cab1b8b979",
+  "room": {
+    "id": 5124,
+    "title": [
+      "[Vornavis, Sandy Path]"
+    ],
+    "description": [
+      "To the northeast, the path flattens out a bit, running between low, rolling sand dunes.  To the southwest, the path slopes up sharply before descending down onto the beach below.  Gulls circle the path, landing on the dunes to watch travelers make their way on the path."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "the plains of Vornavis",
+    "climate": "temperate",
+    "terrain": "sandy",
+    "wayto": {
+      "5123": "northeast",
+      "5125": "go beach"
+    },
+    "timeto": {
+      "5123": 0.2,
+      "5125": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "cactacae spine",
+      "angelica root",
+      "yellow primrose",
+      "tiger lily",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4213138
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      199,
+      1076,
+      209,
+      1086
+    ]
+  }
+}

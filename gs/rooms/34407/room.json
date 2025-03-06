@@ -1,0 +1,29 @@
+{
+  "checksum": "adb303df04f03729b7da1012bafbef22",
+  "room": {
+    "id": 34407,
+    "title": [
+      "[Bard Guild, Upstairs Hallway]"
+    ],
+    "description": [
+      "Looking out over the inner garden, a tall arcing window allows the sounds and scents of the jungle to float into the hall.  A golden stand rests next to a carved teak door, displaying a colorful parrot perched on a swing inside a large filigree cage suspended from a golden stand.  A pair of mahogany chairs is placed to either side of a small matching table adorned with a sea glass vase filled with bright exotic flowers.  Draped with azure blue silk, a carved pale mistwood archway capped with a sea glass keystone is recessed at the end of the corridor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "34406": "west",
+      "34409": "go door",
+      "34417": "go archway"
+    },
+    "timeto": {
+      "34406": 0.2,
+      "34409": 0.2,
+      "34417": 0.2
+    },
+    "uid": [
+      289117
+    ]
+  }
+}

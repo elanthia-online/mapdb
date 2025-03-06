@@ -1,0 +1,42 @@
+{
+  "checksum": "a478ae27228d734045bcb1eb86505e42",
+  "room": {
+    "id": 7097,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Deeply carved symbols cover the walls in this stretch of passage, row upon row, speaking in a language you can't comprehend, however hard you try. The characters are vaguely pictographic, but interpreting them literally, those that are recognizable as objects, results in no coherent meaning for any group of them.  The carvings continue on down the corridor to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7087": "west",
+      "7098": "east"
+    },
+    "timeto": {
+      "7087": 0.2,
+      "7098": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      44036
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      961,
+      901,
+      971,
+      911
+    ]
+  }
+}

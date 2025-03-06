@@ -1,0 +1,37 @@
+{
+  "checksum": "53a95dce45c2d7d513b4aced3004140e",
+  "room": {
+    "id": 25695,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Crashing waves send a salty mist into the air as they spend their fury upon the wall that rings the harbor.  Beyond the thick, brick barrier, the shopping district bustles with activity as people move in and out of a large warehouse.  In contrast to the busy streets beyond, the waterway calmly spreads outward towards the distant islands."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25693": "/rooms/25695/wayto/stringproc-25693.rb"
+    },
+    "timeto": {
+      "25693": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223812
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      961,
+      960,
+      980,
+      979
+    ]
+  }
+}

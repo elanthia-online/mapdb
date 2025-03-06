@@ -1,0 +1,43 @@
+{
+  "checksum": "5d47aa01dbe166be5955ef397bf7a96d",
+  "room": {
+    "id": 32440,
+    "title": [
+      "[Moonsedge, Castle Approach]"
+    ],
+    "description": [
+      "Winding down from the castle's high hilltop, a pale stone bridge stretches, long and serpentine, over a treacherous ravine.  Spread-winged grotesques stand on parapets along the bridge, guarding its length.  The bridge is carved from exquisite white stone aglitter with countless flecks of prismatic mica."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32439": "go bridge",
+      "32441": "west",
+      "32442": "southeast"
+    },
+    "timeto": {
+      "32439": 0.2,
+      "32441": 0.2,
+      "32442": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577104
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      440,
+      708,
+      461,
+      727
+    ]
+  }
+}

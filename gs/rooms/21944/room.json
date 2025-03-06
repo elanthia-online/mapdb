@@ -1,0 +1,31 @@
+{
+  "checksum": "9a8631e3398e8a8e756b67fc3de4419e",
+  "room": {
+    "id": 21944,
+    "title": [
+      "[Talador Mines, Dark Tunnel]"
+    ],
+    "description": [
+      "The entire area is engulfed in darkness.  You cannot see a thing!"
+    ],
+    "paths": [
+      "Obvious exits: southeast, up"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21943": "up",
+      "21953": "southeast"
+    },
+    "timeto": {
+      "21943": 0.2,
+      "21953": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      735,
+      625,
+      748,
+      639
+    ]
+  }
+}

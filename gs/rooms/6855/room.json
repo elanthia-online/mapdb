@@ -1,0 +1,44 @@
+{
+  "checksum": "b438a505420fb849016cb15ec6c46c77",
+  "room": {
+    "id": 6855,
+    "title": [
+      "[Abandoned Inn, Upstairs Hall]"
+    ],
+    "description": [
+      "Bright brass candle holders line the walls.  They are filled with sweet-smelling beeswax candles, shedding light and a comforting warmth down the corridor.  A runner of forest green carpet covers the length of the hall's floor, leading the way to the guest room doors and a good night's sleep."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Abandoned Inn",
+    "wayto": {
+      "6854": "go stair",
+      "6856": "west",
+      "6864": "go modwir door",
+      "6865": "go blue door",
+      "6866": "east"
+    },
+    "timeto": {
+      "6854": 0.2,
+      "6856": 0.2,
+      "6864": 0.2,
+      "6865": 0.2,
+      "6866": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      21116
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      844,
+      1205,
+      854,
+      1215
+    ]
+  }
+}

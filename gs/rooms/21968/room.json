@@ -1,0 +1,33 @@
+{
+  "checksum": "bb56e2caec931ff711b8896233483700",
+  "room": {
+    "id": 21968,
+    "title": [
+      "[Talador Mines, Dwarven Den]"
+    ],
+    "description": [
+      "The walls are broken and uneven, complete segments of earth and stone missing or having crumbled inward.  Ancient metal tools lie about, some caked in layers of dust or rust."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west, northwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21959": "west",
+      "21969": "northwest",
+      "21971": "southeast"
+    },
+    "timeto": {
+      "21959": 0.2,
+      "21969": 0.2,
+      "21971": 0.2
+    },
+    "image": "wl-talador-east-1392305660.png",
+    "image_coords": [
+      768,
+      163,
+      781,
+      177
+    ]
+  }
+}

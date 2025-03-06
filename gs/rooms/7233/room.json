@@ -1,0 +1,51 @@
+{
+  "checksum": "dbc50bb0778dc105024fecd995a4a606",
+  "room": {
+    "id": 7233,
+    "title": [
+      "[Under Crypt, Tunnels]"
+    ],
+    "description": [
+      "There is a decided chill here; a cold wind finds its way down your neck despite your efforts to keep it out.  Condensation runs down the walls to form chill rivulets underfoot.  Closer examination of the east wall reveals a small crevice you hadn't noticed before."
+    ],
+    "paths": [
+      "Obvious exits: north, west, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7231": "northwest",
+      "7232": "west",
+      "7234": "north",
+      "7312": "go crevice"
+    },
+    "timeto": {
+      "7231": 0.2,
+      "7232": 0.2,
+      "7234": 0.2,
+      "7312": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      18207
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      797,
+      559,
+      807,
+      569
+    ]
+  }
+}

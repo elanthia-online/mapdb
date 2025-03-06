@@ -1,0 +1,55 @@
+{
+  "checksum": "4214e82c97ca2186644c20072238fcf1",
+  "room": {
+    "id": 2386,
+    "title": [
+      "[Icemule Trace, West Road]"
+    ],
+    "description": [
+      "Between a pair of barbican towers, a constant stream of halfling farmers from the Olbin Strath and richly dressed human traders from Briarmoon Cove flows through the West Gate, with the occasional krolvin crew scattered among them.  Town guards inspect cargo, sharply dressed in dark blue and brown leathers emblazoned with the rampant mule that is the town's sigil.  Outside of the gates, the land is spotted with scraggly grasses and snows, and there is little tree cover.",
+      "The cobblestone road ends at the large western gate here.  Through the gate you see vast plains of grass about as tall as a halfling, with very few trees for cover."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2380": "north",
+      "2387": "south",
+      "3229": "go west gate",
+      "3230": "east",
+      "27730": "go north tower",
+      "27737": "go south tower",
+      "30709": "/rooms/2386/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2380": 0.2,
+      "2387": 0.2,
+      "3229": 0.2,
+      "3230": 0.2,
+      "27730": 0.2,
+      "27737": 0.2,
+      "30709": "/rooms/2386/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "calmintha flower",
+      "urchin guide westgate",
+      "urchin-access",
+      "westgate",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4042101
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      138,
+      786,
+      174,
+      822
+    ]
+  }
+}

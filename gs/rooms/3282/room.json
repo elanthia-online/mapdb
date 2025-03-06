@@ -1,0 +1,61 @@
+{
+  "checksum": "77ef3ed1295502a15f5eb2e73bffe136",
+  "room": {
+    "id": 3282,
+    "title": [
+      "[Ice Plains, Hill Side]"
+    ],
+    "description": [
+      "The ledge tapers off and once again becomes part of the hill leaving no way for you to continue around the east side of the hill.  A smooth ramp continues upward to another ledge that looks to head back in the direction you came from.  The ramp has two iron railings along each side and is completely covered with ice, making it difficult to climb.  Just underneath the ramp is the entrance to a tunnel heading north."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "hilly",
+    "wayto": {
+      "3281": "west",
+      "3283": "go tunnel",
+      "3294": "go ramp"
+    },
+    "timeto": {
+      "3281": 0.2,
+      "3283": 0.2,
+      "3294": 0.2
+    },
+    "tags": [
+      "some pennyroyal stem",
+      "small loganberry",
+      "red winterberry",
+      "winter rose",
+      "pale thornberry",
+      "calamintha blossom",
+      "handful of snowberries",
+      "some angelica root",
+      "some arctic moss",
+      "sticks",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "arctic moss",
+      "snowberries",
+      "frostflower",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127030
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      496,
+      410,
+      506,
+      420
+    ]
+  }
+}

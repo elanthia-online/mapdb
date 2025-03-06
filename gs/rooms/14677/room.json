@@ -1,0 +1,30 @@
+{
+  "checksum": "e8ed2455f244ed704225095723b66cb3",
+  "room": {
+    "id": 14677,
+    "title": [
+      "[Iashara's General Store]",
+      "[Iashara's Weaponry]"
+    ],
+    "description": [
+      "Beneath an ebonwood beam ceiling, a tattered merchant permit hangs on one of the varnished ebonwood walls.  A glass-topped mistwood counter and a bamboo rack sit in opposite corners while a worn rug rests on a polished oak floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "362": "out",
+      "15397": "west",
+      "15398": "east"
+    },
+    "timeto": {
+      "362": 0.2,
+      "15397": 0.2,
+      "15398": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

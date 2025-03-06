@@ -1,0 +1,50 @@
+{
+  "checksum": "fa6bf44b9f7c2ec596687935052ff3a6",
+  "room": {
+    "id": 2393,
+    "title": [
+      "[Tavern Burrow, Bitters Bend]",
+      "[Tavern Burrow, Pilsner Avenue]",
+      "[Tavern Burrow, Bend]"
+    ],
+    "description": [
+      "Near the shadow of the town walls, a stone-walled mill marks the southwestern corner of Icemule Trace.  Pilsner Avenue heads northward along the western wall, while Honeybeer Road leads eastward toward the South Gate, passing by a quaint neighborhood down a neat cobblestone path.  Bakers' apprentices pushing wheelbarrows full of grain or flour hustle to and from the mill tower.",
+      "A stone windmill marks the southwest corner of Icemule Trace.  From here, Pilsner Avenue heads northward along the western wall.  Honeybeer Road leads eastward towards the South Gate.  Bakers' apprentices pushing wheelbarrows full of grain or flour hustle to and from the mill tower.",
+      "A stone windmill marks the southwest corner of Icemule Trace.  From here, Pilsner Avenue heads northward along the western wall.  Honeybeer Road leads eastward towards the South Gate.",
+      "Near the night-blackened shadow of the town walls, a stone windmill marks the southwestern corner of Icemule Trace.  Pilsner Avenue heads northward along the western wall, while Honeybeer Road leads eastward toward the South Gate.  The mill tower is quiet and dark, a silhouette against the starlight."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2392": "north",
+      "2394": "east",
+      "3452": "go path",
+      "9001": "go stone-walled mill"
+    },
+    "timeto": {
+      "2392": 0.2,
+      "2394": 0.2,
+      "3452": 0.2,
+      "9001": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042203
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      139,
+      1230,
+      175,
+      1266
+    ]
+  }
+}

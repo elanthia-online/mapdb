@@ -1,0 +1,57 @@
+{
+  "checksum": "45a00283793e182e78bd9dda72fcceb0",
+  "room": {
+    "id": 33860,
+    "title": [
+      "[Nielira Harbor, Boardwalk]"
+    ],
+    "description": [
+      "An ebony-planked stand has been nestled beneath a canopy of leather and waxed linen, its lacquered surface covered in half-rolled maps and parchment, each weighted by an aged gold astrolabe.  Iron-riveted barrels sit beside the map-covered stand, the cylindrical containers encircled by braided coils of hempen rope.  A faenor-framed board board of black slate sits beneath the reinforced canopy, nearly engulfed in corkscrews of heartleaf that wends down across its riveted legs and across the boardwalk."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, west, northwest"
+    ],
+    "location": "Ta'Nalfein",
+    "wayto": {
+      "33859": "west",
+      "33861": "east",
+      "33866": "northwest",
+      "33867": "north",
+      "33868": "northeast",
+      "34423": "/rooms/33860/wayto/stringproc-34423.rb"
+    },
+    "timeto": {
+      "33859": 0.2,
+      "33861": 0.2,
+      "33866": 0.2,
+      "33867": 0.2,
+      "33868": 0.2,
+      "34423": "/rooms/33860/timeto/stringproc-34423.rb"
+    },
+    "tags": [
+      "handler",
+      "tiny white elderflowers",
+      "snake's head fritillary",
+      "vert and orange frog-cup",
+      "green acistira leaves",
+      "acistira stem",
+      "pinkish green rosegrass",
+      "yellowish green twisted-fan",
+      "blackish green twisted-fan",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-09",
+      "urchin-access",
+      "urchin guide docks"
+    ],
+    "uid": [
+      14150054
+    ],
+    "image": "en-nalfein-1695787165.png",
+    "image_coords": [
+      840,
+      514,
+      867,
+      540
+    ]
+  }
+}

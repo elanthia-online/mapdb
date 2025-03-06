@@ -1,0 +1,37 @@
+{
+  "checksum": "320bfd9a48b5976b1699b42c9fb11bee",
+  "room": {
+    "id": 10935,
+    "title": [
+      "[Diamante's Gemshop]"
+    ],
+    "description": [
+      "With a smile that sparkles as does her wares, Diamante dusts a sturdy display case, inspecting the assorted gems within as she does.  Her shop is neat and tidy, with comfortable chairs and tables scattered about for her customers to enjoy as they examine particularly interesting items - such as the rings a young couple examine in one corner.  A small bell sounds as the shop door opens, bringing yet another group into this cheerfully warm establishment."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10846": "out",
+      "10936": "east",
+      "30711": "/rooms/10935/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10846": 0.2,
+      "10936": 0.2,
+      "30711": "/rooms/10935/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin-access",
+      "urchin guide gemshop",
+      "agave heart",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2101902
+    ]
+  }
+}

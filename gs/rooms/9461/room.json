@@ -1,0 +1,50 @@
+{
+  "checksum": "48dfa1e3fbb46e644024e38042271637",
+  "room": {
+    "id": 9461,
+    "title": [
+      "[Mraent Cavern, Zircon Mine]"
+    ],
+    "description": [
+      "The gneiss in this area has been mined for gem-quality zircons, several of which are still visible in the walls.  Hammers and chisels lie broken on the floor, and a smashed iron pail has apparently been emptied of its contents."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9460": "west",
+      "9462": "southeast"
+    },
+    "timeto": {
+      "9460": 0.2,
+      "9462": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008030
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      357,
+      225,
+      367,
+      235
+    ]
+  }
+}

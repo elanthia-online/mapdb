@@ -1,0 +1,42 @@
+{
+  "checksum": "bd7fe0017476ea15f583bb47ad3b605b",
+  "room": {
+    "id": 2183,
+    "title": [
+      "[Eye of V'Tull, Chamber of Wind]"
+    ],
+    "description": [
+      "Hot air, rushing in from the northwest, forms a violent vortex that ascends a smooth walled, circular chimney.  Laden with ash, the vortex limits visibility while creating a roaring growl that could drown out all but the loudest of sounds."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2182": "northwest",
+      "12768": "climb chimney"
+    },
+    "timeto": {
+      "2182": 0.2,
+      "12768": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "daggerstalk mushroom",
+      "black trafel mushroom",
+      "cave moss",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060006
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      841,
+      467,
+      851,
+      477
+    ]
+  }
+}

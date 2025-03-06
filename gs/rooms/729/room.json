@@ -1,0 +1,36 @@
+{
+  "checksum": "1c83955a8e841afbc8e729cfe204b380",
+  "room": {
+    "id": 729,
+    "title": [
+      "[Marshtown, Green Ell]"
+    ],
+    "description": [
+      "The planks that make up the walkway are completely supported by barrels at this point.  The boardwalk is flanked by rows of ramshackle sheds and houses, all of them also supported by massive rafts of barrels.  The whole town creaks and sways in the waters of the marsh.  A stretch of newer planking joins the walkway to a high-fenced platform to the northeast."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "630": "north",
+      "3904": "south",
+      "5037": "northeast"
+    },
+    "timeto": {
+      "630": 0.2,
+      "3904": 0.2,
+      "5037": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4744004
+    ]
+  }
+}

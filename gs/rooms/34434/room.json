@@ -1,0 +1,30 @@
+{
+  "checksum": "ea26a82635fc9e4674a5142d8f42dfa6",
+  "room": {
+    "id": 34434,
+    "title": [
+      "[Northern Caravansary, Cuddfan]"
+    ],
+    "description": [
+      "Departing through the surrounding tents and wagons, a sinuous gravel-lined track connects a gaily painted bright yellow wagon to the wider world.  Laying forgotten in the nearby grass, a long oak tongue hangs off the front of the wagon, while large round stones are wedged around the high wheels.  Red-eyed colorful gaillardias and blue-hued asters grow in clusters throughout the shaggy lawn, though they stay clear of the shadows of a small alley that disappears between the back of the wagon and nearby tents."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Cuddfan Hollow, inside the Northern Caravansary on the outskirts of Wehnimer's Landing",
+    "wayto": {
+      "9249": "go track",
+      "34435": "/rooms/34434/wayto/stringproc-34435.rb"
+    },
+    "timeto": {
+      "9249": 0.2,
+      "34435": "/rooms/34434/timeto/stringproc-34435.rb"
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2022476
+    ]
+  }
+}

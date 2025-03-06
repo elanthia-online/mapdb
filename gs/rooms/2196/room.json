@@ -1,0 +1,42 @@
+{
+  "checksum": "f5ffa746e84dcd7d39b25c9d5ca051ba",
+  "room": {
+    "id": 2196,
+    "title": [
+      "[Eye of V'Tull, Lava River]"
+    ],
+    "description": [
+      "Glowing nearly white hot, a river of molten rock splashes lava upon its shores.  A natural bridge of black igneous rock stretches to the far side where a pair of carved arches can be seen cut into the wall.  Tremors cause crystal stalactites to break free and splash into the river only to sink in the lava's eternal grip."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2195": "northeast",
+      "2197": "go bridge"
+    },
+    "timeto": {
+      "2195": 0.2,
+      "2197": 0.2
+    },
+    "tags": [
+      "black trafel mushroom",
+      "daggerstalk mushroom",
+      "pepperthorn root",
+      "cave moss",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3060018
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      842,
+      601,
+      850,
+      609
+    ]
+  }
+}

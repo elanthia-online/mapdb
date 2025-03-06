@@ -1,0 +1,40 @@
+{
+  "checksum": "7b66a7dc977855af2ff273a22eab0d95",
+  "room": {
+    "id": 20005,
+    "title": [
+      "[Cavernhold, Lower Passage]"
+    ],
+    "description": [
+      "The quiet peeping of tiny bats echoes through this high ceilinged part of the passage.  Several bats flit northward as you enter the room and disappear in the veil of darkness that silently envelops them."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "20004": "north",
+      "20006": "southwest"
+    },
+    "timeto": {
+      "20004": 0.2,
+      "20006": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11204
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1077,
+      941,
+      1087,
+      951
+    ]
+  }
+}

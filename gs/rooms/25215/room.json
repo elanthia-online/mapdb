@@ -1,0 +1,42 @@
+{
+  "checksum": "75f2208147991489acbbf8153f8ac4d9",
+  "room": {
+    "id": 25215,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "Faint light filters in from the north, illuminating several dark green emeralds inset into the cavern walls.  The gems sparkle as the flickering rays play across their form, their color a sharp contrast to the mute tones of the surroundings.  A few stalactites cast shadows upon the floor, most short and unobtrusive to the cramped chamber.  The tunnel leads further north, the dust on the ground seeming quite well trodden."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25214": "southwest",
+      "25216": "north"
+    },
+    "timeto": {
+      "25214": 0.2,
+      "25216": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900313
+    ]
+  }
+}

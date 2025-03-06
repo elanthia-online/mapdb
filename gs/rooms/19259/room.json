@@ -1,0 +1,34 @@
+{
+  "checksum": "d18d96c943b7eabfd0e28812887c823d",
+  "room": {
+    "id": 19259,
+    "title": [
+      "[Blackberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "19258": "/rooms/19259/wayto/stringproc-19258.rb",
+      "19260": "go curtain"
+    },
+    "timeto": {
+      "19258": 0.2,
+      "19260": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      494,
+      1054,
+      526,
+      1090
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "checksum": "199f17188b08805d28c99dce1d8af0a0",
+  "room": {
+    "id": 12589,
+    "title": [
+      "[Dark Palisade, Lovers' Leap]"
+    ],
+    "description": [
+      "The desolate moor gives up life to a jagged cliff of jet black volcanic rock and the grey sea beyond.  Cold wind carries the spray of the waves below against the rocks and howls up the face of the cliff below.  It draws a mournful wail from the dark stone as it hurtles onto the moor, blowing the tenacious shrubs into drawn and flat shadows of their normal shapes."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the Dark Palisade",
+    "climate": "humid",
+    "terrain": "rough",
+    "wayto": {
+      "12588": "west",
+      "12590": "north",
+      "12591": "south",
+      "12593": "/rooms/12589/wayto/stringproc-12593.rb"
+    },
+    "timeto": {
+      "12588": 0.2,
+      "12590": 0.2,
+      "12591": 0.2,
+      "12593": 20
+    },
+    "tags": [
+      "wild chokecherry",
+      "white clover blossom",
+      "red clover blossom",
+      "stalk of chicory",
+      "yellow passionflower",
+      "wintergreen leaf",
+      "wild gooseberry",
+      "stalk of goldenrod",
+      "pink clover blossom",
+      "white passionflower",
+      "fiddlehead fern",
+      "bright red teaberry",
+      "blue passionflower",
+      "yellow clover blossom",
+      "sprig of larkspur",
+      "handful of currants",
+      "purple clover blossom",
+      "golden hook mushroom",
+      "broken twig",
+      "small wild rose",
+      "motherwort",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3040002
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      777,
+      377,
+      787,
+      387
+    ]
+  }
+}

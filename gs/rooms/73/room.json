@@ -1,0 +1,41 @@
+{
+  "checksum": "4446d0fa29510d129b96d1fa6ef3e846",
+  "room": {
+    "id": 73,
+    "title": [
+      "[Whistler's Pass, Bridge]"
+    ],
+    "description": [
+      "A short cobblestone bridge arches northeast from this hill to the next.  Two stone posts flank the bridge.  Near the top of each post is a place for a fire, which burns softly, covered by an iron grate.",
+      "A short cobblestone bridge arches northeast from this hill to the next.  Two stone posts flank the bridge.  Near the top of each post is a place where a fire can be lit and covered by an iron grate."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Whistler's Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "72": "go bridge",
+      "74": "southwest"
+    },
+    "timeto": {
+      "72": 0.2,
+      "74": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      13017065
+    ],
+    "image": "en-sapphire-1658723758.png",
+    "image_coords": [
+      823,
+      237,
+      833,
+      247
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "eb624fa423922824e9e44c3444dcae7a",
+  "room": {
+    "id": 25920,
+    "title": [
+      "[Groundskeeper's Yard]"
+    ],
+    "description": [
+      "Seated atop a wooded knoll is a modest stone and daub cottage.  To the north, the moon reflects off icy Lake Sasalis, its luminous glow shining between the trees.  A winding path leads back toward the openness of the commons."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25919": "go path",
+      "25930": "go cottage",
+      "25931": "north"
+    },
+    "timeto": {
+      "25919": 0.2,
+      "25930": 0.2,
+      "25931": 0.2
+    },
+    "uid": [
+      8211329
+    ],
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      673,
+      544,
+      723,
+      596
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "checksum": "b464d8a070f433a483b49ca02b08a398",
+  "room": {
+    "id": 6715,
+    "title": [
+      "[Crevice Floor]"
+    ],
+    "description": [
+      "The confined space here gives you a sense of claustrophobia.  The wind blowing across the top of the crevice creates a haunting melody throughout this area.  A dark hole lies in the southern wall, and it seems that you can just make out the sound of shuffling footsteps coming from it.  The crevice narrows to the east and a narrow path leads out of the crevice."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Upper Dragonsclaw",
+    "climate": "cold, dry",
+    "terrain": "mountainous",
+    "wayto": {
+      "6703": "go hole",
+      "6714": "go path",
+      "6716": "east"
+    },
+    "timeto": {
+      "6703": 0.2,
+      "6714": 0.2,
+      "6716": 0.2
+    },
+    "tags": [
+      "marallis berry",
+      "cuctucae berry",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2121009
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      228,
+      1212,
+      238,
+      1222
+    ]
+  }
+}

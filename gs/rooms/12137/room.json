@@ -1,0 +1,51 @@
+{
+  "checksum": "6031d6c6865c42ac4a74d1051b12a4d0",
+  "room": {
+    "id": 12137,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "You stand at the base of an immense tower.  The spire seeks to pierce the heart of the heavens, reaching into the center of a horrible lightning storm.  Bolts play over the black stone surface, illuminating it with a blinding blue light.  Winds howl about the structure, and the screams of those it throws from the top of the tower barely rise above the sound of the tempest.  Rain pours from the sky, as if the world wept at the wound created by the stabbing spire."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, northwest",
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12137/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12137/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12137/wayto/stringproc-12093.rb",
+      "12115": "northwest",
+      "12136": "northeast",
+      "12142": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12115": 0.2,
+      "12136": 0.2,
+      "12142": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4567030
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      894,
+      699,
+      904,
+      709
+    ]
+  }
+}

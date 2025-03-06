@@ -1,0 +1,42 @@
+{
+  "checksum": "afdd08b18b91f53ef2c40ff7b2d1a7d4",
+  "room": {
+    "id": 13021,
+    "title": [
+      "[Bonespear Tower, Secret Passage]"
+    ],
+    "description": [
+      "Several sconces remain intact on the walls, but they no longer illuminate this hallway.  The passage is so well preserved however, it would take very little to make this area usable again.  The question does remain however as to what this hall might have been used for in the past."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "13020": "south",
+      "13022": "north"
+    },
+    "timeto": {
+      "13020": 0.2,
+      "13022": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319114
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1100,
+      1069,
+      1110,
+      1079
+    ]
+  }
+}

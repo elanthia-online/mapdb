@@ -1,0 +1,35 @@
+{
+  "checksum": "4b5420cce78691652917ff6238b06977",
+  "room": {
+    "id": 13954,
+    "title": [
+      "[Kreldor's Locksmithy, Workroom]"
+    ],
+    "description": [
+      "Candle fixtures wrought of faenor hang from the high fel beamed ceiling illuminating a long birchwood counter.  Placed against the back wall is a worktable scattered with various tools, vials, and wedges for opening locked containers.  Two large windows flank a narrow ladder that leads up to a loft area.  A lush verdant fern in a large ceramic pot is placed in the far corner, its leaves falling over onto the patterned floor."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the hamlet of Ravelin",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13940": "west",
+      "13955": "climb ladder"
+    },
+    "timeto": {
+      "13940": 0.2,
+      "13955": 0.2
+    },
+    "tags": [
+      "locksmith",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      14201041
+    ]
+  }
+}

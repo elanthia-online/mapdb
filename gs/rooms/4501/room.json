@@ -1,0 +1,28 @@
+{
+  "checksum": "ff4d3d202a8f9260496961ca375f17ad",
+  "room": {
+    "id": 4501,
+    "title": [
+      "[Crystal Level, Hall]"
+    ],
+    "description": [
+      "The tunnel curves slightly, although not smoothly.  The reason for the bend is quite evident: a solid wall of hard stone amidst the softer earth of the passage.  Tool marks mar the surface of the stone, but it clearly was too much work to try to continue clearing the rock."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4500": "southeast",
+      "4502": "west"
+    },
+    "timeto": {
+      "4500": 0.2,
+      "4502": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

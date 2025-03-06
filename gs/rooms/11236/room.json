@@ -1,0 +1,40 @@
+{
+  "checksum": "e4323c1c6093e2844ceea524d57959fe",
+  "room": {
+    "id": 11236,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "The walls of this hallway are covered with grey and heather-colored molds.  Dust, grit and mold spore gather along the walls.  A dented brass lantern hangs from the ceiling.  The wide-planked floor is slightly warped and tiny fungi grow in the cracks."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11235": "south",
+      "11237": "east",
+      "11246": "west"
+    },
+    "timeto": {
+      "11235": 0.2,
+      "11237": 0.2,
+      "11246": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377203
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      137,
+      520,
+      147,
+      530
+    ]
+  }
+}

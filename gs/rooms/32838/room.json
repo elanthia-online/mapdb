@@ -1,0 +1,38 @@
+{
+  "checksum": "f27ef1fcd99f84a4f3ba615f6014e6f1",
+  "room": {
+    "id": 32838,
+    "title": [
+      "[Rhyaesdid Hall, Hallway]"
+    ],
+    "description": [
+      "Woven with strands of muted golds and greens, a beautiful ramie silk carpet leads down the hallway from a carved tanik archway.  A bright, potted geranium rests next to a gold-banded lapis velvet curtain that hangs opposite a green and silver chevron-patterned curtain.  A small, stained glass skylight showers the room with patterns in brilliant hues as sunlight shines through the colored panes."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "17132": "go archway",
+      "32839": "east",
+      "32840": "north",
+      "32847": "go lapis curtain",
+      "35207": "go silver curtain"
+    },
+    "timeto": {
+      "17132": 0.2,
+      "32839": 0.2,
+      "32840": 0.2,
+      "32847": 0.2,
+      "35207": 0.2
+    },
+    "tags": [
+      "houselockers",
+      "meta:nomagic",
+      "no forageables"
+    ],
+    "uid": [
+      14053301
+    ]
+  }
+}

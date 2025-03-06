@@ -1,0 +1,33 @@
+{
+  "checksum": "691b7ab2d253a420cebb28005408bc4a",
+  "room": {
+    "id": 21829,
+    "title": [
+      "[Doggoroth Keep, Courtyard]"
+    ],
+    "description": [
+      "Thick stone walls wrap around the massive circular courtyard of the keep.  Knights in gleaming armor and tabards marked with Talador's crest dutifully march along the heavy ramparts above."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, out"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21828": "out",
+      "21830": "southeast",
+      "21831": "northeast"
+    },
+    "timeto": {
+      "21828": 0.2,
+      "21830": 0.2,
+      "21831": 0.2
+    },
+    "image": "wl-talador-west-1392305660.png",
+    "image_coords": [
+      751,
+      271,
+      765,
+      284
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "2302e06ebdc5cee1065d5e23367694ef",
+  "room": {
+    "id": 1933,
+    "title": [
+      "[Krodera and Dragonseye]"
+    ],
+    "description": [
+      "A pleasant breeze rustles the modwir trees which line this cobblestone street.  A magnificent establishment of pearl-grey granite inlaid with gold and crimson glaes dwarfs the other structures here.  This is Bentock's Adventurers' Rest, a second home for travellers in search of fortune and fame.  Just beyond the elegant structure, the River Muagh courses northward on its long journey to the sea."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1932": "east",
+      "1934": "go rest",
+      "1943": "north"
+    },
+    "timeto": {
+      "1932": 0.2,
+      "1934": 0.2,
+      "1943": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001024
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      946,
+      521,
+      976,
+      551
+    ]
+  }
+}

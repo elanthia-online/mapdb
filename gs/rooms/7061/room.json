@@ -1,0 +1,50 @@
+{
+  "checksum": "2163193a9ef235199934bf2c74500583",
+  "room": {
+    "id": 7061,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Massive piles of musty dirt and rubble make squeezing through narrow openings in this roughly hewn passage quite difficult.  The tunnel branches in three directions here."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7060": "northeast",
+      "7062": "southwest",
+      "7069": "north"
+    },
+    "timeto": {
+      "7060": 0.2,
+      "7062": 0.2,
+      "7069": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "roa'ter",
+      "wolifrew lichen",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      42513
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      296,
+      872,
+      306,
+      882
+    ]
+  }
+}

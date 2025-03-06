@@ -1,0 +1,33 @@
+{
+  "checksum": "d5fdfd8fd3cf2744263eb90c879a6f85",
+  "room": {
+    "id": 31030,
+    "title": [
+      "[Concourse, South]"
+    ],
+    "description": [
+      "Rows of planters line the concourse, each brimming with brightly colored plants surrounded by broad leaves, while elegant brass sconces cast a soothing light upon the smooth, onyx-swirled white marble floors and walls.  A golden arch rests next to a frosted window proclaiming \"Two of a Kind\" opposite a rounded arch next to a plaque that ascribes its entry to \"Calm, Cool, Scented, I'm Yours.\""
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31027": "north",
+      "31031": "go rounded arch",
+      "31032": "go golden arch",
+      "31033": "southwest",
+      "31035": "southeast"
+    },
+    "timeto": {
+      "31027": 0.2,
+      "31031": 0.2,
+      "31032": 0.2,
+      "31033": 0.2,
+      "31035": 0.2
+    },
+    "uid": [
+      409907
+    ]
+  }
+}

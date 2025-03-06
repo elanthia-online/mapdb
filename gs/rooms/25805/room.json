@@ -1,0 +1,41 @@
+{
+  "checksum": "3ae8c245a60fbd05a5d7b206965dfd26",
+  "room": {
+    "id": 25805,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "High cliffs separate the island to the south from the lapping waves of the ocean, their verdant tops riddled with flower-laden vines.  At the summit a bright orange bonfire creates a smear of color that illuminates the dark horizon."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25796": "/rooms/25805/wayto/stringproc-25796.rb",
+      "25806": "/rooms/25805/wayto/stringproc-25806.rb",
+      "25848": "/rooms/25805/wayto/stringproc-25848.rb"
+    },
+    "timeto": {
+      "25796": 6,
+      "25806": 6,
+      "25848": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223860
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1361,
+      1679,
+      1381,
+      1698
+    ]
+  }
+}

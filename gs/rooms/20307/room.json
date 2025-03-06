@@ -1,0 +1,37 @@
+{
+  "checksum": "4d624230ef3082c2be831398b35ce3cd",
+  "room": {
+    "id": 20307,
+    "title": [
+      "[Feywrot Mire, Highland]"
+    ],
+    "description": [
+      "A dense ground cover of saw palmetto makes for difficult navigation of the faint pathway leading east to west.  Sharp spines protrude from elongated petioles that support the silvery green, fan-shaped leaves.  A brave soul has attempted to make the site more welcoming by staking brightly colored posts, each topped with a grinning gargoyle finial, among the shrubs."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20175": "west",
+      "20305": "east",
+      "22513": "go fel wagon",
+      "24153": "go rickety wagon",
+      "25460": "go cabin"
+    },
+    "timeto": {
+      "20175": 0.2,
+      "20305": 0.2,
+      "22513": 0.2,
+      "24153": 0.2,
+      "25460": 0.2
+    },
+    "image": "fest-ebon_gate-1445214445.png",
+    "image_coords": [
+      685,
+      194,
+      700,
+      207
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "25d75cc5fccb564a48cbf0f766146fd0",
+  "room": {
+    "id": 4365,
+    "title": [
+      "[Emerald Level, Southeast Shaft]"
+    ],
+    "description": [
+      "A giant cobweb inhabited by a large spider with dull teal markings stretches across the ceiling beams.  A few cocooned prey are its only guests at the moment.  Fortunately, the arachnid isn't quite large enough to be worrisome."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4348": "northwest",
+      "4366": "go open",
+      "4370": "southeast"
+    },
+    "timeto": {
+      "4348": 0.2,
+      "4366": 0.2,
+      "4370": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

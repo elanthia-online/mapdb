@@ -1,0 +1,42 @@
+{
+  "checksum": "30f53129078e75b6b82e45a7ebdadc41",
+  "room": {
+    "id": 11237,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "A dark stain coming from the room to the north mars the wide-planked floor.  The lower third of the walls are lined with pale green ceramic tiles.  A brass lantern hangs from the ceiling.  The air smells of dust and mold."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11236": "west",
+      "11245": "north",
+      "16056": "east",
+      "17720": "south"
+    },
+    "timeto": {
+      "11236": 0.2,
+      "11245": 0.2,
+      "16056": 0.2,
+      "17720": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377204
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      164,
+      520,
+      174,
+      530
+    ]
+  }
+}

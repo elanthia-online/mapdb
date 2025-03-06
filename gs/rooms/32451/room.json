@@ -1,0 +1,41 @@
+{
+  "checksum": "02871778de6244e463094e648066b7f9",
+  "room": {
+    "id": 32451,
+    "title": [
+      "[Moonsedge Castle, Entrance]"
+    ],
+    "description": [
+      "Vaulting grey stone doors mark the entrance of the castle.  Panels on each depict a briar sprig and rising moon, though the images are difficult to pick out on the dark surfaces.  Two colossal grotesques stand on plinths to either side of the entryway, their horned heads bent as if in reverence and their wings folded.  One's mouth is carved in an unsavory smirk."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32452": "go door",
+      "32453": "southwest"
+    },
+    "timeto": {
+      "32452": 0.2,
+      "32453": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577123
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1045,
+      767,
+      1070,
+      788
+    ]
+  }
+}

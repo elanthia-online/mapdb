@@ -1,0 +1,45 @@
+{
+  "checksum": "d7e6d891710df26ac454a9e5718fc38a",
+  "room": {
+    "id": 12482,
+    "title": [
+      "[Pebble Court, Agate Way]"
+    ],
+    "description": [
+      "The street curves around an enormous fel tree growing right in the middle.  Bright ribbons, yellow, red and green, hang from its branches, stirring with every breeze.  To the east is the park entrance."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12481": "northwest",
+      "12483": "north",
+      "12484": "east",
+      "12487": "southeast"
+    },
+    "timeto": {
+      "12481": 0.2,
+      "12483": 0.2,
+      "12484": 0.2,
+      "12487": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703063
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      83,
+      934,
+      101,
+      952
+    ]
+  }
+}

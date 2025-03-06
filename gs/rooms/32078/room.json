@@ -1,0 +1,41 @@
+{
+  "checksum": "5ea67dc1392c4854070b93582b8802af",
+  "room": {
+    "id": 32078,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "Thick moss clings to the trees along the riverbanks, the gnarled trunks and twisted branches obscuring visibility to what lies beyond.  A crude stick figure dressed in burlap swings from a low-hanging willow branch, a black raven perched on its wooden shoulder.  The soothing sounds of flowing water fill the quiet air above the wooded lowland."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31701": "/rooms/32078/wayto/stringproc-31701.rb",
+      "32079": "/rooms/32078/wayto/stringproc-32079.rb"
+    },
+    "timeto": {
+      "31701": 0.2,
+      "32079": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083385
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      943,
+      415,
+      965,
+      435
+    ]
+  }
+}

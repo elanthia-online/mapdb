@@ -1,0 +1,30 @@
+{
+  "checksum": "3623e87ff65c1ad4735483fb96182187",
+  "room": {
+    "id": 15743,
+    "title": [
+      "[Venrath's Magic Shoppe]",
+      "[Venrath's Outfitting]"
+    ],
+    "description": [
+      "A painted leather mask hangs on one of the dark oak walls, and a varnished oak ceiling rises overhead.  A plush black bear fur rug sits in one corner of a honey gold oak floor.  There is a white marble shelf on one side of the shop and a narrow glass-topped table on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2317": "out",
+      "15778": "northwest",
+      "15779": "northeast"
+    },
+    "timeto": {
+      "2317": 0.2,
+      "15778": 0.2,
+      "15779": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

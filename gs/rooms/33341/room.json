@@ -1,0 +1,34 @@
+{
+  "checksum": "4f6aa0ee0082099bb279820adb3f8d83",
+  "room": {
+    "id": 33341,
+    "title": [
+      "[Reticent Repose, Sitting Room]"
+    ],
+    "description": [
+      "Subtle moonlight casts an eerie glow through some frosted windows surrounding wide alder doors, while golvern sconces illuminate a gold-framed portrait suspended above a marble fireplace.  Shadows waver over an elaborate rug centered upon dark mahogany floors between two plush couches.  Twisted silk ivy garlands woven with dried grapevines hang across ivory walls, their lengths strung with clusters of ceramic berries.  In a darkened corner of a bare wall, a beveled mirror hangs opposite a set of mahogany double doors inlaid with gilded eahnor wire."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "33340": "go wide doors",
+      "33342": "go mirror",
+      "33343": "west",
+      "33344": "go mahogany doors"
+    },
+    "timeto": {
+      "33340": 0.2,
+      "33342": 0.2,
+      "33343": 0.2,
+      "33344": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1304202
+    ]
+  }
+}

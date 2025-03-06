@@ -1,0 +1,49 @@
+{
+  "checksum": "2f60c56cb3d4d6fd385926882d189432",
+  "room": {
+    "id": 1474,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "Bayside Road borders the North Market, bustling with noise and activity.  The North Market Pier juts northwestward into the bay.  A street peddler has set up her cart nearby, doing a brisk trade with thirsty shoppers."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south, southwest, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1437": "northeast",
+      "1438": "east",
+      "1473": "south",
+      "1476": "southwest",
+      "1604": "northwest",
+      "30710": "/rooms/1474/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1437": 0.2,
+      "1438": 0.2,
+      "1473": 0.2,
+      "1476": 0.2,
+      "1604": 0.2,
+      "30710": "/rooms/1474/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209029
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      880,
+      576,
+      904,
+      600
+    ]
+  }
+}

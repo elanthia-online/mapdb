@@ -1,0 +1,73 @@
+{
+  "checksum": "97715557f62f2f04a8eb3c8d1aa2ad77",
+  "room": {
+    "id": 30593,
+    "title": [
+      "[Vornavis Caravansary, Corral]"
+    ],
+    "description": [
+      "Thick oak posts are securely anchored into the ground and linked with wooden rails to form a sturdy perimeter.  Hard packed dirt and gravel makes up the surface of the inner yard.  A wooden stable stands at the eastern end of the corral, where a pair of doors stand open to allow easy access."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "5578": "out",
+      "30594": "go wooden stable",
+      "30710": "/rooms/30593/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "5578": 0.2,
+      "30594": 0.2,
+      "30710": "/rooms/30593/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide stable",
+      "stable",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-01",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "sweet potato",
+      "agave heart",
+      "brown-skinned kiwi",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      12003001
+    ]
+  }
+}

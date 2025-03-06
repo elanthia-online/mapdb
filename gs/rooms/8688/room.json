@@ -1,0 +1,32 @@
+{
+  "checksum": "e27f6ac9166f5f112a95d56d59b2497f",
+  "room": {
+    "id": 8688,
+    "title": [
+      "[Temple, Storeroom]"
+    ],
+    "description": [
+      "This seemingly abandoned storeroom is dusty and filled with cobwebs.  There appears to be nothing of material value here, yet a sense of power and otherworldliness fills the room.  Although there are no windows, all is suffused with a shimmering, shifting light.  A stairway leads down."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8687": "go stairway"
+    },
+    "timeto": {
+      "8687": 0.2
+    },
+    "tags": [
+      "node",
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      2032
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "16c8d578238cf94c8776b3aafca44f02",
+  "room": {
+    "id": 10741,
+    "title": [
+      "[Plains of Bone, Virktoth's Path]"
+    ],
+    "description": [
+      "A pair of kobold skulls stare blankly out from the hillside into the surrounding night.  The skulls are oddly similar, since they both share a missing socket.  A skeletal, long-fingered hand lies between the skulls.",
+      "A pair of kobold skulls stare blankly out from the hillside.  The skulls are oddly similar, since they both share a missing socket.  A skeletal, long-fingered hand lies between the skulls."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Plains of Bone",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10740": "southwest",
+      "10742": "northwest"
+    },
+    "timeto": {
+      "10740": 0.2,
+      "10742": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14011035
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      569,
+      205,
+      580,
+      215
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "35ea609a1449327cd22c0a42f74b7963",
+  "room": {
+    "id": 638,
+    "title": [
+      "[Ta'Illistim, BriarStone Court]"
+    ],
+    "description": [
+      "The court is relatively quiet save for the patrons entering and exiting the shop on the corner.  Blue slate tiles cladding the low stone building's roof glimmer dully, seeming to nearly absorb the daylight.  A silver sign is posted on the shop's door.",
+      "Along this stretch of the courtyard's circular boundary, several shops specializing in gems, gemcutting and jewelry have clustered together.  One building, with a freshly tiled blue roof, has a larger silver sign than the others.  Its marble facade is illuminated brightly with several jewel-tone lanterns, turning the stone from white to blue, green, and red.",
+      "Along this stretch of the courtyard's circular boundary, several shops specializing in gems, gemcutting and jewelry have clustered together.  One building, with a freshly tiled blue roof, has a larger silver sign than the others."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "208": "east",
+      "637": "southwest",
+      "639": "go building",
+      "30714": "/rooms/638/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "208": 0.2,
+      "637": 0.2,
+      "639": 0.2,
+      "30714": "/rooms/638/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101025
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      350,
+      404,
+      372,
+      426
+    ]
+  }
+}

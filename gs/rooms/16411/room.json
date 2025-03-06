@@ -1,0 +1,43 @@
+{
+  "checksum": "6079189fd813287f4ad836fdc3d0f8d7",
+  "room": {
+    "id": 16411,
+    "title": [
+      "[Firefly Villa, Front Desk]"
+    ],
+    "description": [
+      "Polished paneling reflects the light the candles that are housed within wrought iron wall scones, their warm glow providing ample illumination throughout the small lobby.  Tall and wide, an alcove recessed into the northern wall housing a plethora of cubbies is guarded by a circular teak and cedar desk, while a set of spiraling stairs leads to the second level."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12316": "west",
+      "12320": "climb stairs",
+      "16420": "north",
+      "30718": "/rooms/16411/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "12316": 0.2,
+      "12320": 0.2,
+      "16420": 0.2,
+      "30718": "/rooms/16411/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide inn",
+      "inn"
+    ],
+    "uid": [
+      3209318
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1400,
+      2400,
+      1421,
+      2421
+    ]
+  }
+}

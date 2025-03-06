@@ -1,0 +1,38 @@
+{
+  "checksum": "1096ab454d817793fddd6fa0b98ca06d",
+  "room": {
+    "id": 8144,
+    "title": [
+      "[Marble Hallway]"
+    ],
+    "description": [
+      "The bright rectangle at the hallway's end fades into the gloom of the dark marble walls.  At the opposite end of the hall, a soft, greenish light glows from the building's interior.  The air smells damp, but it's more the fresh, clean scent of woodland shade than an odor of decay, as one might expect of such a place as this old edifice."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the distant forest",
+    "wayto": {
+      "8143": "go portal",
+      "8145": "northwest"
+    },
+    "timeto": {
+      "8143": 0.2,
+      "8145": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      386066
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      1168,
+      149,
+      1178,
+      159
+    ]
+  }
+}

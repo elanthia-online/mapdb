@@ -1,0 +1,34 @@
+{
+  "checksum": "2fa40b2fea064efb43e2378709811bdf",
+  "room": {
+    "id": 26089,
+    "title": [
+      "[Zul Logoth, Ancient Passage]"
+    ],
+    "description": [
+      "Created at the apex of two sets of stairs, one traveling downward and one upward, the corridor is carved out of the very stone of the mountain.  Potted toadstools follow the curve of each wall to create a circle of illumination for travelers and acts as a showcase for the tiled murals that are imbedded into the floor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26088": "/rooms/26089/wayto/stringproc-26088.rb",
+      "26090": "/rooms/26089/wayto/stringproc-26090.rb",
+      "30658": "go fracture"
+    },
+    "timeto": {
+      "26088": 24,
+      "26090": 12,
+      "30658": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      679002
+    ]
+  }
+}

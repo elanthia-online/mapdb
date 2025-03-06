@@ -1,0 +1,44 @@
+{
+  "checksum": "7576177092a4185c4cba0fa2858e5480",
+  "room": {
+    "id": 8762,
+    "title": [
+      "[Liabo Circle, Phoen's Way]"
+    ],
+    "description": [
+      "In the center of this three-way intersection is a black marble fountain, water spouting up from the middle and splashing merrily down.  A fat, white pigeon glares out from the bowl, daring any to disturb her bath. To the west, you see the beginnings of a wide wooden bridge."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "8761": "southeast",
+      "8763": "west",
+      "8768": "northwest"
+    },
+    "timeto": {
+      "8761": 0.2,
+      "8763": 0.2,
+      "8768": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      701056
+    ],
+    "image": "wl-homes-1-1264234799.png",
+    "image_coords": [
+      595,
+      1154,
+      615,
+      1174
+    ]
+  }
+}

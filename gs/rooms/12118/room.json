@@ -1,0 +1,58 @@
+{
+  "checksum": "d84da6172d9d7db67e1d920869a3f8f9",
+  "room": {
+    "id": 12118,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A cold, grey mist swirls around you, making it difficult to gain any sense of what is here.  Through the haze a huge, gnarled hand stretches upward reaching grimly for something past your vision.  As you move closer, it turns out to be only a dead tree, the bent and gnarled limbs twisting toward a blood eagle hovering just out of reach."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast",
+      "Obvious exits: east, southeast"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12118/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12118/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12118/wayto/stringproc-12093.rb",
+      "12102": "east",
+      "12135": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12102": 0.2,
+      "12135": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567001
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      867,
+      591,
+      877,
+      601
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "3a09a8eadece2778340004be16e7e5f8",
+  "room": {
+    "id": 11074,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "Extremely hard rock forms the floor and the ceiling of the cave here, as the cave narrows to nearly a crawl space.  The cave opens wider to the north and east, and an opening leads southwest.  A slight breeze blows in from the north and the east."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11073": "go opening",
+      "11075": "north",
+      "11082": "east"
+    },
+    "timeto": {
+      "11073": 0.2,
+      "11075": 0.2,
+      "11082": 0.2
+    },
+    "tags": [
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      26112
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4447,
+      933,
+      4470,
+      954
+    ]
+  }
+}

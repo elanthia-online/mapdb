@@ -1,0 +1,36 @@
+{
+  "checksum": "a453c3d84256e43820c756c9b445347a",
+  "room": {
+    "id": 31570,
+    "title": [
+      "[Evermore Hotel, Foyer]"
+    ],
+    "description": [
+      "A brass bell gleams atop a polished ebony desk across from a set of paned-glass doors, the streaming sunlight illuminating the dust motes dancing above merlot-hued carpets running the length of the dark-stained wooden floors.  Behind the desk, numerous keys hang in a wooden rack labeled with numbered brass plates above slots filled with addressed envelopes.  An arrangement of velvet-tufted sofas in assorted jewel tones fill the space in front of a walk-in fireplace of grey riverstone."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31569": "go doors",
+      "31746": "go mahogany door",
+      "31747": "go archway",
+      "31748": "north"
+    },
+    "timeto": {
+      "31569": 0.2,
+      "31746": 0.2,
+      "31747": 0.2,
+      "31748": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8087101
+    ]
+  }
+}

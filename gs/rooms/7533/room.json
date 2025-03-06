@@ -1,0 +1,55 @@
+{
+  "checksum": "fe442f80953b3c64c1dba0ff3b7e9f25",
+  "room": {
+    "id": 7533,
+    "title": [
+      "[Catacombs, Twisting Tunnels]"
+    ],
+    "description": [
+      "You try and make sense out of the twisting and turning mess of tunnels here, but more openings only add to your dilemma.  Gaps in the walls everywhere confound you, including one in the floor that serves to drain off some of the running water.  Two of the largest tunnels branch off from the main passage at this juncture.  One leads sharply upward and southwest."
+    ],
+    "paths": [
+      "Obvious exits: east, south, southwest, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7532": "east",
+      "7534": "south",
+      "7535": "southwest",
+      "7536": "west"
+    },
+    "timeto": {
+      "7532": 0.2,
+      "7534": 0.2,
+      "7535": 0.2,
+      "7536": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "white hook mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46029
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      447,
+      1288,
+      457,
+      1298
+    ]
+  }
+}

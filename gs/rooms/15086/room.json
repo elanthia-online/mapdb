@@ -1,0 +1,29 @@
+{
+  "checksum": "6861c4eda21f5d2de39dea4e03ae7f9b",
+  "room": {
+    "id": 15086,
+    "title": [
+      "[Lyberty's Outfitting]"
+    ],
+    "description": [
+      "A noble elf maiden portrait hangs on one of the varnished ebonwood walls, and a vaulted ceiling rises overhead.  An iron candelabra sits in one corner of an enameled hardwood floor.  There is an elegant silver jewelry rack on one side of the shop and a gilded maple table on the other."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "368": "out",
+      "15461": "west",
+      "15462": "east"
+    },
+    "timeto": {
+      "368": 0.2,
+      "15461": 0.2,
+      "15462": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

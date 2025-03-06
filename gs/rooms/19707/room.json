@@ -1,0 +1,44 @@
+{
+  "checksum": "55fab2fed0303e91cb7d62a22a351d93",
+  "room": {
+    "id": 19707,
+    "title": [
+      "[Cavernhold, Bubbling Room]"
+    ],
+    "description": [
+      "A small stream bubbles out of the rock here and flows down the corridor to the southeast."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19706": "northeast",
+      "19708": "northwest",
+      "19710": "southwest",
+      "19713": "southeast"
+    },
+    "timeto": {
+      "19706": 0.2,
+      "19708": 0.2,
+      "19710": 0.2,
+      "19713": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10061
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      369,
+      822,
+      380,
+      832
+    ]
+  }
+}

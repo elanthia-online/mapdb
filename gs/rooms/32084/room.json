@@ -1,0 +1,32 @@
+{
+  "checksum": "20d8c0680b732226a4c985c5bd342364",
+  "room": {
+    "id": 32084,
+    "title": [
+      "[A. B. Witching, Undercroft]"
+    ],
+    "description": [
+      "Muted by the massive stone blocks of the walls, miniature explosions seem to be occurring somewhere nearby, sending minute tremors through the floor underfoot.  The scents of loam and smoke grow stronger as the passage continues on, and soot stains the stone above a stately black marble arch."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "32083": "east",
+      "32085": "go black arch"
+    },
+    "timeto": {
+      "32083": 0.2,
+      "32085": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084612
+    ]
+  }
+}

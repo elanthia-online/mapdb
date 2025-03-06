@@ -1,0 +1,45 @@
+{
+  "checksum": "2bc363e09e68c1b3251438cafac152c3",
+  "room": {
+    "id": 3437,
+    "title": [
+      "[Tavern Burrow, Stout Street]"
+    ],
+    "description": [
+      "An unofficial moneychanger does brisk business at the corner, moving from streetcorner to streetcorner to avoid contact with town officials.  Brightly colored banners in silver and blue fly from surrounding windows, proclaiming the way to various local establishments.  Across the way, a low-roofed stone guard post is surrounded by a spade-tipped fence with a heavy wrought iron gate.",
+      "An unofficial moneychanger does brisk business at the corner, moving from side to side of the road to avoid any contact with town officials.  Brightly colored banners in silver and blue fly from surrounding windows, proclaiming the way to various local establishments.  Across the way, a low-roofed stone guard post is surrounded by a spade-tipped fence with a heavy wrought iron gate.",
+      "An unofficial moneychanger appears to be doing a brisk business at the corner, moving from side to side of the road as he avoids any contact with town officials.  Brightly colored banners in silver and blue are hung from several windows, proclaiming the way to the Silvermule Gaming Hall and other nearby establishments."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3436": "north",
+      "3438": "south",
+      "33227": "go gate"
+    },
+    "timeto": {
+      "3436": 0.2,
+      "3438": 0.2,
+      "33227": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042211
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      492,
+      1142,
+      528,
+      1178
+    ]
+  }
+}

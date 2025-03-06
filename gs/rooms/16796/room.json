@@ -1,0 +1,49 @@
+{
+  "checksum": "d09cbe70050025259001628104c10252",
+  "room": {
+    "id": 16796,
+    "title": [
+      "[Hall of the Dead, Debtors Vault]"
+    ],
+    "description": [
+      "Even as decomposed as the bodies are, you again see evidence of the atrocities of this crypt.  Mutilated corpses, hacked to pieces, have been stuffed into the wall pockets.  Even then, some would not fit.  Overstuffed as the holes were, arms and legs have fallen from the notches to land on the floor to decay."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16795": "west",
+      "16797": "north",
+      "16799": "east"
+    },
+    "timeto": {
+      "16795": 0.2,
+      "16797": 0.2,
+      "16799": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138111
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      913,
+      888,
+      923,
+      898
+    ]
+  }
+}

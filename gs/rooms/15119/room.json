@@ -1,0 +1,29 @@
+{
+  "checksum": "cb0fed6f7b539e8023ab2640fbccc5ec",
+  "room": {
+    "id": 15119,
+    "title": [
+      "[Gerbill's Magic Shoppe]"
+    ],
+    "description": [
+      "Ribbed black willow walls rise from a glossy mahogany floor.  Just above a sharp wooden guilotine hangs a pearl-handled filigreed mandolin, and a vaulted ceiling completes the picture.  A vine-carved mahogany table and a bloodstained marble urn stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "359": "out",
+      "15313": "west",
+      "15314": "east"
+    },
+    "timeto": {
+      "359": 0.2,
+      "15313": 0.2,
+      "15314": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

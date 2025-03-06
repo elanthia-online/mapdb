@@ -1,0 +1,40 @@
+{
+  "checksum": "ee3be0ce10746d1b308debaffc261c5b",
+  "room": {
+    "id": 9818,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Thick curls of mist rise up from small fissures in the floor, the wavering wisps enshrouding the area in a light haze.  The blurred forms of slimy mold can be seen upon the walls, each casting their malodorous scent to the musty air of the room.  As the mist swirls about the area lazily, the slime upon the wall glistens faintly, resembling a cascading waterfall of green ooze."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9734": "/rooms/9818/wayto/stringproc-9734.rb",
+      "9817": "west",
+      "9819": "east"
+    },
+    "timeto": {
+      "9734": 100,
+      "9817": 0.2,
+      "9819": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022015
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1175,
+      493,
+      1185,
+      503
+    ]
+  }
+}

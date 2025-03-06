@@ -1,0 +1,37 @@
+{
+  "checksum": "2928f76f57be62e611b507f091f1fccd",
+  "room": {
+    "id": 17759,
+    "title": [
+      "[Guild Hall, North Hall]"
+    ],
+    "description": [
+      "The floor levels out at this narrow point and terminates at a low opening in the rock face.  A blinding light floods through the orifice, obscuring the view of the area beyond.  Curiously enough, a slight warm breeze seems to be issuing from the opening as well."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17758": "southeast",
+      "17760": "go opening"
+    },
+    "timeto": {
+      "17758": 0.2,
+      "17760": 0.2
+    },
+    "tags": [
+      "warrior guild floor"
+    ],
+    "uid": [
+      250010
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      615,
+      348,
+      634,
+      370
+    ]
+  }
+}

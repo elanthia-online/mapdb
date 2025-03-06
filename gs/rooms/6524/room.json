@@ -1,0 +1,44 @@
+{
+  "checksum": "dc848038d937343cfd8ec5ed373b2a59",
+  "room": {
+    "id": 6524,
+    "title": [
+      "[Old Noralgar Road, Prairie]"
+    ],
+    "description": [
+      "The road bends here, breaking through the imprisoning grasses to the northeast. Only the top-most towers of Castle Anwyn, on the northwest horizon, are visible above the swaying, tufted tops of the vigorous prairie grass.  A nearly impassable trail leads south into deeper vegetation."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, west, northwest"
+    ],
+    "location": "Noralgar Forest",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6523": "west",
+      "6525": "south",
+      "6526": "northwest",
+      "6527": "northeast"
+    },
+    "timeto": {
+      "6523": 0.2,
+      "6525": 0.2,
+      "6526": 0.2,
+      "6527": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4286048
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1292,
+      1107,
+      1302,
+      1117
+    ]
+  }
+}

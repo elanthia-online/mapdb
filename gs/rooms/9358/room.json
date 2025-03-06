@@ -1,0 +1,43 @@
+{
+  "checksum": "c8b29412d5e0c103ea53628facce5c2c",
+  "room": {
+    "id": 9358,
+    "title": [
+      "[Caves]"
+    ],
+    "description": [
+      "Faint skittering sounds come from just beyond the edge of the torchlight, heading off further into the shadows.  You wonder for a moment what lives back here, and how long it has been since it might have seen light."
+    ],
+    "paths": [
+      "Obvious exits: south, west, northwest"
+    ],
+    "location": "the Cairnfang",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9357": "south",
+      "9359": "northwest",
+      "9360": "west"
+    },
+    "timeto": {
+      "9357": 0.2,
+      "9359": 0.2,
+      "9360": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      630023
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      982,
+      63,
+      994,
+      75
+    ]
+  }
+}

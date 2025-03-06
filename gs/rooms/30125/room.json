@@ -1,0 +1,36 @@
+{
+  "checksum": "2ec1df9b4e9f6c190cb9488d5d5ef33e",
+  "room": {
+    "id": 30125,
+    "title": [
+      "[Carrack, Cargo Hold]"
+    ],
+    "description": [
+      "Below deck, the cargo hold is fully stocked with supplies needed for a long journey at sea.  Oaken barrels and burlap sacks line the walls, while baskets swing from the ceiling teeming with dry goods and herbs.  Crates stamped with exotic ports of call sit under the stairs leading up to a hatch above."
+    ],
+    "paths": [
+      "Obvious exits: east, west, up"
+    ],
+    "location": "Ships",
+    "wayto": {
+      "30119": "up",
+      "30126": "west",
+      "30127": "east"
+    },
+    "timeto": {
+      "30119": 0.2,
+      "30126": 0.2,
+      "30127": 0.2
+    },
+    "uid": [
+      -7117032
+    ],
+    "image": "osa-ships-1649101574.jpg",
+    "image_coords": [
+      356,
+      639,
+      370,
+      654
+    ]
+  }
+}

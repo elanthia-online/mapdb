@@ -1,0 +1,43 @@
+{
+  "checksum": "1b8f28b43d454d7ae6895381ad9bfecf",
+  "room": {
+    "id": 3924,
+    "title": [
+      "[Stronghold, Eastern Skew]"
+    ],
+    "description": [
+      "Large boulders litter the passageway, making progress difficult.  The walls, however, show no evidence that the debris originated there, and the ceiling high above is likewise unmarred.  Yet the stone floor is a hazardous tumble, the huge slabs broken and thrust up in places like broken teeth."
+    ],
+    "paths": [
+      "Obvious exits: east, down"
+    ],
+    "location": "Stone Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3584": "/rooms/3924/wayto/stringproc-3584.rb",
+      "3923": "down",
+      "3925": "east"
+    },
+    "timeto": {
+      "3584": 0.2,
+      "3923": 0.2,
+      "3925": 0.2
+    },
+    "tags": [
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      4292027
+    ],
+    "image": "wl-stronghold-1264234799.png",
+    "image_coords": [
+      615,
+      436,
+      625,
+      446
+    ]
+  }
+}

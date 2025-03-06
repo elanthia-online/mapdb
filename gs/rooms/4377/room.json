@@ -1,0 +1,30 @@
+{
+  "checksum": "13d9c7d4ae58e7fe48558379b661ca70",
+  "room": {
+    "id": 4377,
+    "title": [
+      "[Blademistress, Entry]"
+    ],
+    "description": [
+      "Entering the hushed calm of this cavern, the mild scent of oiled leather wafts on the breeze.  A round oak table with delicate gold scrollwork covering the top is set in the center of the room, upon which rests a beige vellum placard.  Underfoot is a soft brown bearhide rug, while two distinctly female suits of armor stand sentry at the back corners."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4373": "out",
+      "4378": "west",
+      "4379": "east"
+    },
+    "timeto": {
+      "4373": 0.2,
+      "4378": 0.2,
+      "4379": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

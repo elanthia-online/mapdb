@@ -1,0 +1,43 @@
+{
+  "checksum": "c8bf1236f90f6c013b3a9c405a81bb99",
+  "room": {
+    "id": 30067,
+    "title": [
+      "[Angargreft, Burrow]"
+    ],
+    "description": [
+      "A stunted, shriveled worm corpse lies in a pool of partially frozen muck amidst the wreckage of a fallen stone wall.  The creature is mostly buried in the rubble.  Heavy blankets of sticky, glowing silk drape over the fallen corpse and the surrounding stones like a funeral shroud, rippling in the cold air currents."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west, northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30063": "northwest",
+      "30065": "west",
+      "30066": "south",
+      "30068": "north"
+    },
+    "timeto": {
+      "30063": 0.2,
+      "30065": 0.2,
+      "30066": 0.2,
+      "30068": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503488
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      821,
+      307,
+      838,
+      322
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "89bb4509bb9a3820d3823233800fb896",
+  "room": {
+    "id": 4443,
+    "title": [
+      "[Topaz Level, Chute]"
+    ],
+    "description": [
+      "Loose dirt and silt make footing treacherous, but the dwarves traveling through the area don't seem to notice.  A dumbwaiter in one wall might have worked at one time, but looks disabled and unusable for the moment."
+    ],
+    "paths": [
+      "Obvious exits: west, up"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4441": "west",
+      "4444": "up"
+    },
+    "timeto": {
+      "4441": 0.2,
+      "4444": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "1e4244999125df2800f8f84b395596bb",
+  "room": {
+    "id": 30621,
+    "title": [
+      "[Kraken's Fall Hall, Corridor]"
+    ],
+    "description": [
+      "Wooden panels generously covered in whitewash line the walls of the curved hallway.  Protecting the corridor is a railing of thick cast iron chain links that thread through carved oak supports.  A smooth driftwood door carved with a leaping dolphin is set into the wall near a spiral ascending staircase.  Imbedded with bits of sea glass, a stone archway leads into a shadowed chamber."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "30620": "go staircase",
+      "30622": "go archway",
+      "30623": "go door",
+      "30624": "northwest",
+      "30630": "southwest"
+    },
+    "timeto": {
+      "30620": 0.2,
+      "30622": 0.2,
+      "30623": 0.2,
+      "30624": 0.2,
+      "30630": 0.2
+    },
+    "uid": [
+      850003
+    ]
+  }
+}

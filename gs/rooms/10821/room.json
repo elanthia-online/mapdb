@@ -1,0 +1,40 @@
+{
+  "checksum": "f46af0eb19099ebff77bc56265ac6d57",
+  "room": {
+    "id": 10821,
+    "title": [
+      "[Under The Black Water]"
+    ],
+    "description": [
+      "Wet blackness envelops everything, and the mud grasps powerfully at feet and legs.  The lack of vision and the unsure footing in the muck below combine to confuse the senses, making direction a meaningless idea.  Even \"up\" is in question at times.  One can only swim and hope."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Gyldemar Road",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "10815": "/rooms/10821/wayto/stringproc-10815.rb",
+      "10817": "/rooms/10821/wayto/stringproc-10817.rb"
+    },
+    "timeto": {
+      "10815": 5,
+      "10817": 5
+    },
+    "tags": [
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13032042
+    ],
+    "image": "en-gyldemar-1264234799.png",
+    "image_coords": [
+      782,
+      660,
+      790,
+      668
+    ]
+  }
+}

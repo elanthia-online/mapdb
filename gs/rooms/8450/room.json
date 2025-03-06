@@ -1,0 +1,55 @@
+{
+  "checksum": "2e6252b82f3a1b24078f4403946faaa3",
+  "room": {
+    "id": 8450,
+    "title": [
+      "[Upper Trollfang, Sentoph]"
+    ],
+    "description": [
+      "Up here on the peak of Sentoph, the crags soar like teeth into the sky.  A narrow, rocky ridge winds its way down the mountainside where it soon gets lost in the fog that covers the lower slopes.  Footing is uneven here, and you see no plant life anywhere."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest"
+    ],
+    "location": "the Upper Trollfang",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "8447": "climb ridge",
+      "8451": "southwest",
+      "8455": "southeast",
+      "8456": "south"
+    },
+    "timeto": {
+      "8447": 0.2,
+      "8451": 0.2,
+      "8455": 0.2,
+      "8456": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "wintergreen leaf",
+      "moonlight cactus-bloom",
+      "cothinar flower",
+      "bright red teaberry",
+      "broken twig",
+      "sprig of larkspur",
+      "ironfern root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      16065
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      536,
+      611,
+      546,
+      621
+    ]
+  }
+}

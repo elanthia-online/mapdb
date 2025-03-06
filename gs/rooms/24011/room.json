@@ -1,0 +1,24 @@
+{
+  "checksum": "d5523e3af05e4959518a2b4f200fb7d0",
+  "room": {
+    "id": 24011,
+    "title": [
+      "[The Gilded Longsword, Taproom]"
+    ],
+    "description": [
+      "Smoky oil lamps feebly attempt to light the interior of this windowless tavern.  Long shadows twist and turn across the floor, leaving one to question how clean the establishment really is.  Several tapped wooden kegs rest on permanent stands behind a well-oiled cedar bar that is remarkably clean."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "24010": "out",
+      "24022": "east"
+    },
+    "timeto": {
+      "24010": 0.2,
+      "24022": 0.2
+    }
+  }
+}

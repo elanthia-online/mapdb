@@ -1,0 +1,53 @@
+{
+  "checksum": "910aee0609142684dc576a82b8f9f0d4",
+  "room": {
+    "id": 17588,
+    "title": [
+      "[Western Harbor, Seathrak Way]"
+    ],
+    "description": [
+      "Prismatic swirls spiral across the pale cobblestones, their source the glass-sided lanterns that are hung in even intervals amongst the cottages and shops that line the street.  Loud and distinct, the thunderous crash of the surf upon the nearby jetty floods the area and carries with it the acrid scent of the sea, while nearer at hand is the sound of women laughing.",
+      "Golden light bathes the pale cobblestones, their source the glass-sided lanterns that are hung in even intervals amongst the cottages and shops that line the street.  Loud and distinct, the thunderous sound of the tide crashing upon the nearby jetty fills the air."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17587": "southeast",
+      "17589": "northwest",
+      "17595": "southwest",
+      "17603": "northeast",
+      "18252": "go bright store",
+      "18258": "go brown-shingled store",
+      "18259": "go yellow-roofed store",
+      "30718": "/rooms/17588/wayto/stringproc-30718.rb"
+    },
+    "timeto": {
+      "17587": 0.2,
+      "17589": 0.2,
+      "17595": 0.2,
+      "17603": 0.2,
+      "18252": 0.2,
+      "18258": 0.2,
+      "18259": 0.2,
+      "30718": "/rooms/17588/timeto/stringproc-30718.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      3216008
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1234,
+      906,
+      1264,
+      933
+    ]
+  }
+}

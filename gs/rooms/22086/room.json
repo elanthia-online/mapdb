@@ -1,0 +1,32 @@
+{
+  "checksum": "1ed85d51662bc7533deb4c809d2feb65",
+  "room": {
+    "id": 22086,
+    "title": [
+      "[Storage Hall]"
+    ],
+    "description": [
+      "The hall is dark, lit only by a guttering torch over each of the two doors and a beam of light pouring through a small hole in the wall.  The obsidian walls are unbroken by decorations, and any noises echo loudly off the stone."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "20866": "look hole",
+      "22087": "go #-4908",
+      "33021": "go #-5965"
+    },
+    "timeto": {
+      "20866": 0.2,
+      "22087": 0.2,
+      "33021": 0.2
+    },
+    "tags": [
+      "meta:che:Obsidian Tower"
+    ],
+    "uid": [
+      214029
+    ]
+  }
+}

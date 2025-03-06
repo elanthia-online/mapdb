@@ -1,0 +1,37 @@
+{
+  "checksum": "a608e3be2cfb79fd1104174c1b473c70",
+  "room": {
+    "id": 2094,
+    "title": [
+      "[Fish Plant, Sorting Room]"
+    ],
+    "description": [
+      "This plant was once a large fish processing plant.  You can see a number of large vats designed to hold the catch.  This room is where the fresh fish would be brought for sorting and processing.  A chute in the north wall would have allowed the fish to slide into this room from a ship moored just outside the building."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Fhorian Village",
+    "wayto": {
+      "2093": "go door",
+      "2095": "south"
+    },
+    "timeto": {
+      "2093": 0.2,
+      "2095": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3030250
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      727,
+      1398,
+      737,
+      1408
+    ]
+  }
+}

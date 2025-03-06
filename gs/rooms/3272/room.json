@@ -1,0 +1,41 @@
+{
+  "checksum": "63d6d794250a3e0d30954eb306a6efc6",
+  "room": {
+    "id": 3272,
+    "title": [
+      "[Ice Plains, Dark Cavern]"
+    ],
+    "description": [
+      "You have wandered into what appears to be a supply room with many different items stacked to one side of the room.  More timbers are evident in this room underneath a large fissure an arms length in width that runs down the center of the room.  Rope, spikes, and unused timbers are stacked neatly against the west wall."
+    ],
+    "paths": [
+      "Obvious exits: south, northwest"
+    ],
+    "location": "the Ice Plains",
+    "wayto": {
+      "3271": "south",
+      "3273": "northwest"
+    },
+    "timeto": {
+      "3271": 0.2,
+      "3273": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed",
+      "ironfern root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      4127015
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      342,
+      327,
+      352,
+      337
+    ]
+  }
+}

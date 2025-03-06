@@ -1,0 +1,44 @@
+{
+  "checksum": "84ea84d10335a94067c8b7abd616cd1c",
+  "room": {
+    "id": 1482,
+    "title": [
+      "[Solhaven, Bayside Road]"
+    ],
+    "description": [
+      "Tarred pilings and a stone block wall shore up Bayside Road and stand against the constant action of the waves.  This section of Bayside is windier than most, since nothing slows the winds from the west and the expanse of Liabo Plaza to the east provides no obstructions.  An old sailor sits on a wooden bench facing the bay, oblivious to the wind and to passersby."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southwest"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1477": "northeast",
+      "1481": "east",
+      "1485": "southwest",
+      "12798": "go tent"
+    },
+    "timeto": {
+      "1477": 0.2,
+      "1481": 0.2,
+      "1485": 0.2,
+      "12798": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209056
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      697,
+      765,
+      721,
+      789
+    ]
+  }
+}

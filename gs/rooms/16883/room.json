@@ -1,0 +1,29 @@
+{
+  "checksum": "bf6f58d612bb2196f3023f5b0032a60b",
+  "room": {
+    "id": 16883,
+    "title": [
+      "[Dergan's Weaponry]"
+    ],
+    "description": [
+      "Beneath a simple stone ceiling, a tattered merchant permit hangs on one of the rough grey stone walls.  A massive granite chest sits in one corner while a worn rug rests on the grey stone floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9427": "out",
+      "16889": "east",
+      "16890": "north"
+    },
+    "timeto": {
+      "9427": 0.2,
+      "16889": 0.2,
+      "16890": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

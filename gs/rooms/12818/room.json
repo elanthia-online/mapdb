@@ -1,0 +1,35 @@
+{
+  "checksum": "04020ff74490676d5993797fe5635b01",
+  "room": {
+    "id": 12818,
+    "title": [
+      "[Galnuir's Archery]"
+    ],
+    "description": [
+      "Finely crafted bows of all shapes and sizes hang upon the walls of this sparsely furnished shop.  A simple wooden counter stands in one corner, with a rack behind.  A small table and chair sit in front of the fireplace."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1466": "out",
+      "30710": "/rooms/12818/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1466": 0.2,
+      "30710": "/rooms/12818/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "fletcher",
+      "urchin guide fletcher",
+      "urchin-access",
+      "no forageables"
+    ],
+    "uid": [
+      4740016
+    ]
+  }
+}

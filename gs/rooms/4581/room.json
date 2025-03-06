@@ -1,0 +1,50 @@
+{
+  "checksum": "55d51ac476474a63ed5478481c5c6b13",
+  "room": {
+    "id": 4581,
+    "title": [
+      "[Griffin's Keen, Snow Scramble]"
+    ],
+    "description": [
+      "The thin trail crawls up the mountain face, making upright travel impossible.  The wind stirs up the blanket of snow that covers everything, muffling the shapes of the rock and making a careless step a potential disaster."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4580": "/rooms/4581/wayto/stringproc-4580.rb",
+      "4582": "/rooms/4581/wayto/stringproc-4582.rb"
+    },
+    "timeto": {
+      "4580": 4.2,
+      "4582": 4.2
+    },
+    "tags": [
+      "sprig of holly",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302132
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      528,
+      250,
+      538,
+      260
+    ]
+  }
+}

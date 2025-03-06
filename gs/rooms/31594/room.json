@@ -1,0 +1,38 @@
+{
+  "checksum": "157829f81aed493275e0372c32b2436e",
+  "room": {
+    "id": 31594,
+    "title": [
+      "[Quinton Manse, Vestibule]"
+    ],
+    "description": [
+      "Suspended from a golden chain, an enormous crystal and votive-filled chandelier hangs over a central hug and table, providing ample illumination for the circular vestibule.  Golden linden planks mix with ebonwood to create a striped paneling along the lower half of the surrounding walls, while the tops are covered in painted silk to create a colorful mural.  A flight of mahogany stairs leads to the level above, while a heavy golden linden door is open in the eastern wall and a narrow hallway provides access to a sprawling kitchen."
+    ],
+    "paths": [
+      "Obvious exits: west, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31572": "out",
+      "31595": "go hallway",
+      "31596": "go door",
+      "31597": "go stairs",
+      "31772": "west"
+    },
+    "timeto": {
+      "31572": 0.2,
+      "31595": 0.2,
+      "31596": 0.2,
+      "31597": 0.2,
+      "31772": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084681
+    ]
+  }
+}

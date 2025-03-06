@@ -1,0 +1,42 @@
+{
+  "checksum": "6625bab141ecf743fbee255589471bcf",
+  "room": {
+    "id": 12635,
+    "title": [
+      "[Blacksmithy, Forge]"
+    ],
+    "description": [
+      "Designed to handle the heat of fires that would melt even the hardest of metals, the forge is mostly intact.  The rest of the room is not.  The giant bellows was mostly wood and leather, and is charred and unusable.  Even the balanced chainfall used to operate the bellows will no longer perform its function.  Ages of rain falling through the roof have rusted it and frozen it in place."
+    ],
+    "paths": [
+      "Obvious paths: south, west, out"
+    ],
+    "location": "the Fhorian Village",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2081": "out",
+      "12634": "west",
+      "12636": "south"
+    },
+    "timeto": {
+      "2081": 0.2,
+      "12634": 0.2,
+      "12636": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      3030022
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      410,
+      839,
+      418,
+      847
+    ]
+  }
+}

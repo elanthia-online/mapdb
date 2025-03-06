@@ -1,0 +1,46 @@
+{
+  "checksum": "ff290434263a0052d5abc852fd21173e",
+  "room": {
+    "id": 30850,
+    "title": [
+      "[Atoll, Inner Edge]"
+    ],
+    "description": [
+      "Ivory and obsidian stones alternate along a path leading up to a yellow barrier.  The air surrounding the barrier ripples and wavers, distorting the ruins just visible on the other side.  Hollowed out stones stained crimson line the barrier, each holding a humanoid skull as a warning to those who enter.",
+      "Ivory and obsidian stones alternate along a path leading up to a yellow barrier.  The air surrounding the barrier ripples and wavers, some type of ruins visible on the other side.  A line of humanoid skulls is nailed into the stones beneath them, a warning to those who enter."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the Atoll",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30845": "north",
+      "30851": "/rooms/30850/wayto/stringproc-30851.rb"
+    },
+    "timeto": {
+      "30845": 0.2,
+      "30851": 10
+    },
+    "tags": [
+      "atoll barrier",
+      "yabathilium fruit",
+      "strand of seaweed",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      7138115
+    ],
+    "image": "kf-atoll-1652294074.jpg",
+    "image_coords": [
+      287,
+      160,
+      318,
+      189
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "67eb8907a2bc6d15f3f0023c11ad5d1a",
+  "room": {
+    "id": 9074,
+    "title": [
+      "[Underground Tunnel]"
+    ],
+    "description": [
+      "Water has seeped down from above and run down the walls and floor only to freeze in the frigid air of the tunnel.  A thin sheet of ice covers everything, making the footing treacherous.  A cold draft blows from some unseen vent."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9072": "west",
+      "9075": "go boulder"
+    },
+    "timeto": {
+      "9072": 0.2,
+      "9075": 0.2
+    },
+    "tags": [
+      "some arctic moss",
+      "arctic moss",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045102
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1171,
+      171,
+      1181,
+      181
+    ]
+  }
+}

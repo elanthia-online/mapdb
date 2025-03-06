@@ -1,0 +1,64 @@
+{
+  "checksum": "d3e6b37fae2ad836e249317001e6b2d0",
+  "room": {
+    "id": 3723,
+    "title": [
+      "[A Dark Cavern]"
+    ],
+    "description": [
+      "Though you feel the immense open space of this cavern, the darkness succeeds in hiding its boundaries.  Somewhere in the distance, a steady dripping joins the chorus of your echoing footsteps."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, south, southwest, west, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3722": "northeast",
+      "3810": "west",
+      "3811": "south",
+      "3812": "east",
+      "3814": "northwest",
+      "3815": "north",
+      "3816": "southwest"
+    },
+    "timeto": {
+      "3722": 0.2,
+      "3810": 0.2,
+      "3811": 0.2,
+      "3812": 0.2,
+      "3814": 0.2,
+      "3815": 0.2,
+      "3816": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "nightmare steed",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "Sheruvian harbringer",
+      "white hook mushroom",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388014
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      569,
+      1268,
+      579,
+      1278
+    ]
+  }
+}

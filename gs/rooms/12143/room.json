@@ -1,0 +1,52 @@
+{
+  "checksum": "5fa4ea74654e73a7e46687fea354b963",
+  "room": {
+    "id": 12143,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Even for a giant, the body laying on the ground before you is huge.  It lies face down, a pool of blood widening slowly around it.  The giant's outstretched arms clutch a battle axe in one hand and a thin veil iron circlet in the other, as if to keep hold of them even in death.  Fortunately, the pack of wild dogs ripping at the body doesn't seem to care about them, only about their dinner."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, northwest",
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12143/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12143/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12143/wayto/stringproc-12093.rb",
+      "12142": "northeast",
+      "12147": "northwest",
+      "12148": "southeast"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12142": 0.2,
+      "12147": 0.2,
+      "12148": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "mass of congealed slime",
+      "twisted black mawflower"
+    ],
+    "uid": [
+      4567044
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      894,
+      753,
+      904,
+      763
+    ]
+  }
+}

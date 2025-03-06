@@ -1,0 +1,44 @@
+{
+  "checksum": "f26132af604027baecfa69eb08571e13",
+  "room": {
+    "id": 7130,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Everything's damp in this stretch of corridor, and various colored molds streak the walls.  The air smells wet and musty.  Tiny rivulets of greenish water run across the floor, making it slick and slippery."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7128": "west",
+      "7131": "east"
+    },
+    "timeto": {
+      "7128": 0.2,
+      "7131": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41035
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1109,
+      361,
+      1119,
+      371
+    ]
+  }
+}

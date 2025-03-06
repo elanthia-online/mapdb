@@ -1,0 +1,43 @@
+{
+  "checksum": "22011c3ffcc2258376110c1534832af2",
+  "room": {
+    "id": 12516,
+    "title": [
+      "[Rock Garden, Circle]"
+    ],
+    "description": [
+      "A wide, three-way wooden bridge arches over a small pond.  Huge, white water lilies float on the clear waters, and a school of golden fish cavorts below.  On a tiny bench, a young dwarven priest ignores the scene, nose buried in a leather-bound tome."
+    ],
+    "paths": [
+      "Obvious paths: southwest, west, northwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12515": "southwest",
+      "12519": "northwest",
+      "12520": "west"
+    },
+    "timeto": {
+      "12515": 0.2,
+      "12519": 0.2,
+      "12520": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703204
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      254,
+      373,
+      272,
+      391
+    ]
+  }
+}

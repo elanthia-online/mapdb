@@ -1,0 +1,36 @@
+{
+  "checksum": "c0f690d78d748bb12f95f84d0deca201",
+  "room": {
+    "id": 31605,
+    "title": [
+      "[Antiquarian Manor, Entry]"
+    ],
+    "description": [
+      "Stretching both to the east and west, the wide entry has a museum-like feel to it.  Cold marble glimmers in the light of dozens of candles housed in polished scones along the walls, while grey marble pillars veined with ebon and gold hold the distant ceiling aloft.  Several display cases line the walls, each offering a view of a different treasure.  Opposite the entry, and across the broad expanse of glisten tiles, a set of glass-paned double doors leads to a garden."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31592": "out",
+      "31606": "go doors",
+      "31754": "west",
+      "31756": "east"
+    },
+    "timeto": {
+      "31592": 0.2,
+      "31606": 0.2,
+      "31754": 0.2,
+      "31756": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084691
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "1067c046e86021ce405c6328595f8c3e",
+  "room": {
+    "id": 4453,
+    "title": [
+      "[Topaz Level, Alcove]"
+    ],
+    "description": [
+      "A pair of stout wooden cases fronted by glass doors take up one corner of the chamber, while a smaller more delicate curio atop a pedestal sits in another.  The locks on all the cases look quite intricate.  The insignia of the Grenroa Clan, a pair of crossed golden shovels, adorns one wall."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4444": "east",
+      "4454": "go passage",
+      "4455": "go entrance"
+    },
+    "timeto": {
+      "4444": 0.2,
+      "4454": 0.2,
+      "4455": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

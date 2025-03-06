@@ -1,0 +1,33 @@
+{
+  "checksum": "a2f70431e74ac5c6d28aec33dd5f131a",
+  "room": {
+    "id": 5598,
+    "title": [
+      "[Mercantylers' Storage Warehouse]"
+    ],
+    "description": [
+      "This dimly lit room appears to be an entryway which opens out and leads to the south."
+    ],
+    "paths": [
+      "Obvious exits: south, out"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5580": "out",
+      "5599": "south"
+    },
+    "timeto": {
+      "5580": 0.2,
+      "5599": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120201
+    ]
+  }
+}

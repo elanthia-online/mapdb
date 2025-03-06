@@ -1,0 +1,40 @@
+{
+  "checksum": "14ba9e6128b9673d20a63f56ff095130",
+  "room": {
+    "id": 9823,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "A small pool of water has collected in a depression upon the ground, a thick root hanging from the ceiling dripping water into it constantly.  The narrow walls descend to meet the floor in a sharp angle, their surfaces smooth and featureless except for the occasional small rock or root breaking the monotony of packed earth."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9734": "/rooms/9823/wayto/stringproc-9734.rb",
+      "9822": "southeast",
+      "9824": "southwest"
+    },
+    "timeto": {
+      "9734": 100,
+      "9822": 0.2,
+      "9824": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022005
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1070,
+      465,
+      1080,
+      475
+    ]
+  }
+}

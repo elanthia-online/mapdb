@@ -1,0 +1,24 @@
+{
+  "checksum": "24b4399de888431f4d47d0255e42ecc2",
+  "room": {
+    "id": 29418,
+    "title": [
+      "[Sister Olba's Wandering Wagon]"
+    ],
+    "description": [
+      "Affixed to the glossy, stained walls are blue shelves on one side, with green shelves on the other, all bracketed above large, sealed barrels.  The pathway connecting the rear of the wagon to the front door has been lined with a number of vibrant square rugs in greens and blues."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "29417": "go door",
+      "29419": "north"
+    },
+    "timeto": {
+      "29417": 0.2,
+      "29419": 0.2
+    }
+  }
+}

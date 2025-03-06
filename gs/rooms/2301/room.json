@@ -1,0 +1,49 @@
+{
+  "checksum": "83b20b48410f16bc2f83aad99771c744",
+  "room": {
+    "id": 2301,
+    "title": [
+      "[Icemule Trace, North Road]"
+    ],
+    "description": [
+      "Crowds bustle along the cobblestone road, swirling past the entrance of an ornate stone edifice with stained glass windows, where several half-krolvin and giantkin loiter to await a merchant's arrival.  Several mages in colorful robes, all of them wearing scarves and mufflers, make their way westward, while a few priests in more muted cassocks congregate on their way to the temple, making signs of blessing at expectant women and small children.  Tall lamp posts, unlit during the day, proceed down the roadside in an alternating pattern.",
+      "Crowds of people bustle up this road, on their way to one place or another.  Several groups of warriors stride to the north, clad in warm furs and mufflers, while others in cassocks and robes walk more slowly, making signs of blessing at expectant women and small children."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2300": "south",
+      "2303": "east",
+      "2369": "west",
+      "3305": "north",
+      "31426": "go edifice"
+    },
+    "timeto": {
+      "2300": 0.2,
+      "2303": 0.2,
+      "2369": 0.2,
+      "3305": 0.2,
+      "31426": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042022
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      582,
+      698,
+      618,
+      734
+    ]
+  }
+}

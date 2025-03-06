@@ -1,0 +1,37 @@
+{
+  "checksum": "e7b14386944b52511feb46244b547674",
+  "room": {
+    "id": 32479,
+    "title": [
+      "[Moonsedge Castle, Gallery]"
+    ],
+    "description": [
+      "Among the various portraits and landscapes occupying the northern wall of the gallery, a tastefully framed artwork is given pride of place.  The hoarbeam-framed portrait depicts a man with raven locks charging into the fray on horseback, his sturdy mount bloodied from battle.  Candlelight makes the flames of warfare in the background seem to flicker and lick at the night sky beyond."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "Moonsedge",
+    "wayto": {
+      "32470": "west",
+      "32480": "southeast"
+    },
+    "timeto": {
+      "32470": 0.2,
+      "32480": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      4577239
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      1228,
+      466,
+      1251,
+      487
+    ]
+  }
+}

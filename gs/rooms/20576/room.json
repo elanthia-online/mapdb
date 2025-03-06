@@ -1,0 +1,24 @@
+{
+  "checksum": "e0caf39791ab1c5abb37668a6f43a7cc",
+  "room": {
+    "id": 20576,
+    "title": [
+      "[Stone Keep, Hall]"
+    ],
+    "description": [
+      "In stark contrast to the rest of the keep, the temperature here is warm and comfortable.  The very walls are bathed in a crimson light, originating from a source further down the hall."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Pinefar Trading Post",
+    "wayto": {
+      "20575": "south",
+      "20577": "north"
+    },
+    "timeto": {
+      "20575": 0.2,
+      "20577": 0.2
+    }
+  }
+}

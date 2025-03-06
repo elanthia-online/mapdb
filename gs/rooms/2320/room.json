@@ -1,0 +1,46 @@
+{
+  "checksum": "e016fe8afbe440fcf9971d1e64cafffe",
+  "room": {
+    "id": 2320,
+    "title": [
+      "[Temple Burrow, Koar Street]"
+    ],
+    "description": [
+      "The well-traveled road is flanked by an orderly procession of street lamps, their bases carved with thunderbolts and bearded figures with severe countenances.  Priests in blue robes wander up and down a staircase carved from the side of the glacier.  It and the ice of the road are rough enough to easily traverse without falling.  A few small burrows are carved into the ice, round doors facing the street and painted with all of the hues of the dawn.",
+      "This area seems well-travelled.  Priests in blue robes wander up and down a staircase carved from the glacier, and the ice you walk on is rough enough to stand on without falling.  A few small cottages have been built from the ice, and one seems to have been encased in it, with holes drilled out for the door and windows."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2319": "east",
+      "2321": "south",
+      "2322": "northeast",
+      "2332": "go staircase"
+    },
+    "timeto": {
+      "2319": 0.2,
+      "2321": 0.2,
+      "2322": 0.2,
+      "2332": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042013
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      847,
+      520,
+      883,
+      556
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "1fc4c12158352df54c7e0e5a0148283b",
+  "room": {
+    "id": 1513,
+    "title": [
+      "[Solhaven, Lornon and Shadow]"
+    ],
+    "description": [
+      "Set between two large gated residences, a low dark building is visible to the north, its dirtied windows and peeling coat of paint imparting a very dilapidated, abandoned look to the structure.  Faint shadows of movement shift within its dark interior, lending an ominous feeling that's supplemented by the silence pervading the area."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1511": "west",
+      "1514": "east",
+      "1515": "south",
+      "12846": "go building",
+      "25202": "go hole under crate"
+    },
+    "timeto": {
+      "1511": 0.2,
+      "1514": 0.2,
+      "1515": 0.2,
+      "12846": 0.2,
+      "25202": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902020
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1247,
+      1018,
+      1269,
+      1040
+    ]
+  }
+}

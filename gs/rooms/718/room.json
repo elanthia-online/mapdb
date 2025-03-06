@@ -1,0 +1,46 @@
+{
+  "checksum": "5e2641963b1e2c6d26b2a81cd3e0e814",
+  "room": {
+    "id": 718,
+    "title": [
+      "[Ta'Illistim, Aaendarein Var]"
+    ],
+    "description": [
+      "The bustle of the court diminishes somewhat as the var meanders off to the northeast.  Eastward, the belltower rises above, its beautiful lapis-tiled spire shimmering slightly in the moonlight.",
+      "The bustle of the court diminishes somewhat as the var meanders off to the northeast.  Eastward, the belltower rises above, its beautiful lapis-tiled spire glittering in the day's brightness.",
+      "The var, with its silvery blue cobblestones and frame of blue-lit silver torches, makes a straight shot out of Shimmarglin Court after following a curvy detour around the back of the Shimmarglin Inn.  The back of the building is tall and nearly as wide as the street, but ornately set with stained glass lancet windows, which break up its bulk.  A marble-clad shop sits nearby, dwarfed by the immense Inn.",
+      "The var, with its silvery blue cobblestones and frame of unlit silver torches, makes a straight shot out of Shimmarglin Court after following a curvy detour around the back of the Shimmarglin Inn.  The back of the building is tall and nearly as wide as the street, but ornately set with stained glass lancet windows, which break up its bulk.  A marble-clad shop sits nearby, dwarfed by the immense Inn."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "529": "southwest",
+      "719": "northeast",
+      "1771": "go shop"
+    },
+    "timeto": {
+      "529": 0.2,
+      "719": 0.2,
+      "1771": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100033
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1383,
+      540,
+      1406,
+      562
+    ]
+  }
+}

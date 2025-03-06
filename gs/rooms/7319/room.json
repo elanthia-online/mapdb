@@ -1,0 +1,58 @@
+{
+  "checksum": "0c2171f2658f156cc2a49928b64e81f7",
+  "room": {
+    "id": 7319,
+    "title": [
+      "[Secluded Valley]"
+    ],
+    "description": [
+      "The walls open wide and high forming a small valley forgotten by the waking world.  Covering the entire range is a low layer of thick white mist, lending the land an eerie glow.  Near the base of the wall, you see a crevice leading down into darkness."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7318": "go crevice",
+      "7320": "southwest",
+      "7321": "northwest"
+    },
+    "timeto": {
+      "7318": 0.2,
+      "7320": 0.2,
+      "7321": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "wild chokecherry",
+      "wild strawberry",
+      "bright red teaberry",
+      "sprig of wild lilac",
+      "blue whortleberry",
+      "sprig of larkspur",
+      "small wild rose",
+      "cothinar flower",
+      "wintergreen leaf",
+      "blueberries",
+      "broken twig",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2150002
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      985,
+      333,
+      995,
+      343
+    ]
+  }
+}

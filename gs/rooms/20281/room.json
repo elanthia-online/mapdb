@@ -1,0 +1,26 @@
+{
+  "checksum": "2a50c22bed1014931d0ce852f63fc967",
+  "room": {
+    "id": 20281,
+    "title": [
+      "[Holly, Wood, And Vine]"
+    ],
+    "description": [
+      "Beams of white and red oak arch overhead forming the roof of this octahedral pavilion.  Large panels of gold and silver cotton are hung from the wooden framework, enclosing the space within the structure.  Garlands of holly and liana vine dangle from the oaken beams above and drape over a birch arch.  A carpet of pale green moss covers the floor of the pavilion."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20275": "out",
+      "20282": "go arch",
+      "23151": "/rooms/20281/wayto/stringproc-23151.rb"
+    },
+    "timeto": {
+      "20275": 0.2,
+      "20282": 0.2,
+      "23151": 0.2
+    }
+  }
+}

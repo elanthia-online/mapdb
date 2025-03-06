@@ -1,0 +1,43 @@
+{
+  "checksum": "b8bad3fa98c80ff30762a8adf63ef281",
+  "room": {
+    "id": 5129,
+    "title": [
+      "[Vornavian Coast, Caverns]"
+    ],
+    "description": [
+      "The cavern turns sharply here, the sounds of the ocean fading away to the south.  Echoes of dripping water grow steadily louder to the west.  The floor of the cavern dips low here, and a shallow pool of salt water gathers in the corner."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west, out"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5128": "out",
+      "5130": "west",
+      "5131": "northeast"
+    },
+    "timeto": {
+      "5128": 0.2,
+      "5130": 0.2,
+      "5131": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "murdroot",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202162
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      237,
+      897,
+      247,
+      907
+    ]
+  }
+}

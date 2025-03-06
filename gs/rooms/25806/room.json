@@ -1,0 +1,39 @@
+{
+  "checksum": "2acf02c1d75a6099ba9931dfa6d3ce46",
+  "room": {
+    "id": 25806,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Tropical blossoms litter the channel that stretches between the two islands in the harbor, their fragrant petals perfuming the air.  Bouncing up and down, the petals glide on the gentle waves as they are carried between the cliffs of one isle to the beaches of the other."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25805": "/rooms/25806/wayto/stringproc-25805.rb",
+      "25807": "/rooms/25806/wayto/stringproc-25807.rb"
+    },
+    "timeto": {
+      "25805": 6,
+      "25807": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223867
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1440,
+      1759,
+      1461,
+      1779
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "checksum": "30719e089bc341b2bacd1134b2a97f10",
+  "room": {
+    "id": 31791,
+    "title": [
+      "[Evermore Hotel, Lounge]"
+    ],
+    "description": [
+      "A haze of cigar smoke lingers above tuft-backed leather sofas that invite lounging in front of a stone fireplace with a silver-framed oil painting hanging above its blackened mantel.  Scattered along the dark wood-paneled walls, panes of stained glass separate tables into cozy booths.  A nacre-tiled clockface mosaic set into the polished floor seems to indicate that the time is perpetually midnight."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, northwest"
+    ],
+    "location": "Naidem",
+    "wayto": {
+      "31746": "southeast",
+      "31748": "northwest",
+      "31792": "go door",
+      "31798": "northeast",
+      "32115": "/rooms/31791/wayto/stringproc-32115.rb",
+      "32167": "/rooms/31791/wayto/stringproc-32167.rb",
+      "32168": "/rooms/31791/wayto/stringproc-32168.rb",
+      "32169": "/rooms/31791/wayto/stringproc-32169.rb",
+      "32170": "/rooms/31791/wayto/stringproc-32170.rb",
+      "32171": "/rooms/31791/wayto/stringproc-32171.rb",
+      "32172": "/rooms/31791/wayto/stringproc-32172.rb",
+      "32173": "/rooms/31791/wayto/stringproc-32173.rb",
+      "32174": "/rooms/31791/wayto/stringproc-32174.rb",
+      "32175": "/rooms/31791/wayto/stringproc-32175.rb"
+    },
+    "timeto": {
+      "31746": 0.2,
+      "31748": 0.2,
+      "31792": 0.2,
+      "31798": 0.2,
+      "32115": 0.2,
+      "32167": 0.2,
+      "32168": 0.2,
+      "32169": 0.2,
+      "32170": 0.2,
+      "32171": 0.2,
+      "32172": 0.2,
+      "32173": 0.2,
+      "32174": 0.2,
+      "32175": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "tables",
+      "tables3",
+      "table"
+    ],
+    "uid": [
+      8087149
+    ]
+  }
+}

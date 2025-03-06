@@ -1,0 +1,24 @@
+{
+  "checksum": "1386536eaf288f5cef5d2d6829ce7fb4",
+  "room": {
+    "id": 23844,
+    "title": [
+      "[Felthrop's Tent, Sand and Storm]"
+    ],
+    "description": [
+      "Amethyst silk walls mark the circumference of this circular room.  Dotted along the edge, a series of display containers offer up wares for perusal.  In between these, torches rest on twisted wire stands, the flames glittering off the items for sale, and a hanging wooden sign resides in a prominent location.  A silver-beaded curtain leads deeper into the tent, and the scent of flowers lingers in the air."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23845": "go curtain",
+      "23866": "out"
+    },
+    "timeto": {
+      "23845": 0.2,
+      "23866": 0.2
+    }
+  }
+}

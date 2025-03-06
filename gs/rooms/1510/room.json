@@ -1,0 +1,42 @@
+{
+  "checksum": "92da1b2177b8f0042ab88b43bbcbd78c",
+  "room": {
+    "id": 1510,
+    "title": [
+      "[Solhaven, Lornon Avenue]"
+    ],
+    "description": [
+      "A scattering of terra-cotta bricks break up the black and dark grey ones that predominate along this stretch of the Avenue, augmenting the sense of harshness and gloom that the black wall of volcanic stone on the street's south side evokes.  Opposite it, close-planted red cedars form a living wall of greenery that is just as solid, but much less imposing on the street's north side.  Polished, black steel six-tentacled stars surmount the stylized piles of rubble that flank a gap in the black wall."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1501": "west",
+      "1511": "east",
+      "4620": "go piles"
+    },
+    "timeto": {
+      "1501": 0.2,
+      "1511": 0.2,
+      "4620": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4902018
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1124,
+      1017,
+      1148,
+      1041
+    ]
+  }
+}

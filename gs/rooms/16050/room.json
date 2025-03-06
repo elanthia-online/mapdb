@@ -1,0 +1,28 @@
+{
+  "checksum": "bf92db66ff2e1cc311f0b0111e12ee79",
+  "room": {
+    "id": 16050,
+    "title": [
+      "[Musiac's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a glass-tiled vaulted ceiling, an ancient River's Rest map hangs on one of the smooth mistwood walls.  An antique sailor's trunk and a badly scarred oak counter sit in opposite corners while a worn rug rests on a swirled sea glass floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "wayto": {
+      "10877": "out",
+      "16078": "west",
+      "16079": "east"
+    },
+    "timeto": {
+      "10877": 0.2,
+      "16078": 0.2,
+      "16079": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

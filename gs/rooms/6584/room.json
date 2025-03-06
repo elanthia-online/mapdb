@@ -1,0 +1,40 @@
+{
+  "checksum": "32869dad14acd58a5669c59de712ddda",
+  "room": {
+    "id": 6584,
+    "title": [
+      "[Castle Crypt]"
+    ],
+    "description": [
+      "Just inside the doorway of the crypt, a stone altar stands alone, vestiges of old candle wax clinging to its cold surface.  The wall just above the altar boasts a handsome frieze, framing a panel with worn inscriptions -- probably a list of the dead who rest here.  The room's boundaries stretch away into darkness."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest, out"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6583": "out",
+      "6585": "northwest",
+      "6587": "southwest"
+    },
+    "timeto": {
+      "6583": 0.2,
+      "6585": 0.2,
+      "6587": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285023
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      815,
+      515,
+      825,
+      525
+    ]
+  }
+}

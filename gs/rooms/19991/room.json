@@ -1,0 +1,40 @@
+{
+  "checksum": "a594aad9562d32393b5b89daa09b88df",
+  "room": {
+    "id": 19991,
+    "title": [
+      "[Cavernhold, Outside Pavilion]"
+    ],
+    "description": [
+      "This is the highest point on the tiny island.  From here you can see a large expanse of water, but none of the surrounding shore that you trust is still out there somewhere."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19990": "go trail",
+      "19993": "go pavilion"
+    },
+    "timeto": {
+      "19990": 0.2,
+      "19993": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11102
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      1007,
+      455,
+      1016,
+      464
+    ]
+  }
+}

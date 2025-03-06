@@ -1,0 +1,45 @@
+{
+  "checksum": "3db93d3f891033da087706bc2e97cfa0",
+  "room": {
+    "id": 28915,
+    "title": [
+      "[Kraken's Fall, North Arm Lane]"
+    ],
+    "description": [
+      "Thatch-roofed buildings cluster together along the edges of the cobblestone road, which follows the eastern edge of a high cliff towards the sea.  Squatting amid smaller structures, a large inn painted with decorative seaweed along its balcony supports and front porch stands open for business.  Somewhere nearby, someone plays a quiet tune on a shawm."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28908": "southwest",
+      "28914": "east",
+      "28995": "go inn",
+      "30716": "/rooms/28915/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28908": 0.2,
+      "28914": 0.2,
+      "28995": 0.2,
+      "30716": "/rooms/28915/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118203
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      538,
+      243,
+      551,
+      256
+    ]
+  }
+}

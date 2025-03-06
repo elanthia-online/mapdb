@@ -1,0 +1,41 @@
+{
+  "checksum": "0535e4f67070846ee5e1f98a8ed69b93",
+  "room": {
+    "id": 31819,
+    "title": [
+      "[Gleyminn Anni River, Dam]"
+    ],
+    "description": [
+      "Now abandoned, a partially constructed dam of logs and mud narrows the water passage considerably.  A great swathe of trees have been felled on the eastern bank, most left to rot in soft, wet dirt.  To the south, a massive, purplish cloud bank appears to hover over the river."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31818": "/rooms/31819/wayto/stringproc-31818.rb",
+      "31820": "/rooms/31819/wayto/stringproc-31820.rb"
+    },
+    "timeto": {
+      "31818": 3.2,
+      "31820": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083399
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1060,
+      683,
+      1082,
+      706
+    ]
+  }
+}

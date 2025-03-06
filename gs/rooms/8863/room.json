@@ -1,0 +1,32 @@
+{
+  "checksum": "4cbf8c92c9bfbfcfb8f3a09e08124f42",
+  "room": {
+    "id": 8863,
+    "title": [
+      "[Local Warehouse, Stowage]"
+    ],
+    "description": [
+      "This chamber's high ceilings accommodate an array of equipment designed for loading merchandise between ships and the dock."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8862": "south",
+      "8865": "go door"
+    },
+    "timeto": {
+      "8862": 0.2,
+      "8865": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4048
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "484e121149ff160d420bde8fd5428b24",
+  "room": {
+    "id": 7337,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "Dry brittle grass clumps remain as little islands amidst this sea of desolation.  Dried flowers, their seeds wasted on the barren ground, lie long forgotten by the passage of time."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7336": "northwest",
+      "7338": "southeast"
+    },
+    "timeto": {
+      "7336": 0.2,
+      "7338": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161006
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1148,
+      758,
+      1156,
+      766
+    ]
+  }
+}

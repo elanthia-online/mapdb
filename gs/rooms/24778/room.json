@@ -1,0 +1,29 @@
+{
+  "checksum": "7fae0650c278a9677f65c7abb3282aa6",
+  "room": {
+    "id": 24778,
+    "title": [
+      "[Dannyia's Combat Gear]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A cedar and oak footlocker sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9014": "out",
+      "24802": "east",
+      "24803": "north"
+    },
+    "timeto": {
+      "9014": 0.2,
+      "24802": 0.2,
+      "24803": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

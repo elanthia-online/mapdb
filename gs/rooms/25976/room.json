@@ -1,0 +1,39 @@
+{
+  "checksum": "a332b504cac6c8da6858526fc9d8c6e5",
+  "room": {
+    "id": 25976,
+    "title": [
+      "[Siren Suite, Hot Bath]"
+    ],
+    "description": [
+      "The room is almost entirely comprised of a large pool of steaming water, set into the warm stone floor.  Slate steps lead down from all four sides of the pool, while benches under the water's surface serve as comfortable places to relax.  Several glass-paneled oil lanterns hang from the stone walls, releasing a mild soothing fragrance.  Near an engraved wooden door, robes and clothes hang upon some metal hooks."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "wayto": {
+      "25975": "southwest",
+      "25977": "go door"
+    },
+    "timeto": {
+      "25975": 0.2,
+      "25977": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      336008
+    ],
+    "image": "wl-stone_baths-1487292814.png",
+    "image_coords": [
+      1456,
+      659,
+      1597,
+      718
+    ]
+  }
+}

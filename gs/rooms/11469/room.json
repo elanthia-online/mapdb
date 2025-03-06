@@ -1,0 +1,45 @@
+{
+  "checksum": "03d086b82dfe5375e988081c937b1617",
+  "room": {
+    "id": 11469,
+    "title": [
+      "[Maelstrom Bay, Underwater]"
+    ],
+    "description": [
+      "Light green water above, deep green water below, green water all around.  Bladder rockweed grows in crowded clumps on the rocky wall to the east.  The shimmering surface of the bay rolls sinuously overhead."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west, northwest, up, down"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "11452": "/rooms/11469/wayto/stringproc-11452.rb",
+      "11466": "/rooms/11469/wayto/stringproc-11466.rb",
+      "11470": "/rooms/11469/wayto/stringproc-11470.rb",
+      "11472": "/rooms/11469/wayto/stringproc-11472.rb",
+      "11476": "/rooms/11469/wayto/stringproc-11476.rb",
+      "16060": "/rooms/11469/wayto/stringproc-16060.rb"
+    },
+    "timeto": {
+      "11452": 3,
+      "11466": 2,
+      "11470": 3,
+      "11472": 2,
+      "11476": 2,
+      "16060": 2
+    },
+    "tags": [
+      "meta:underwater"
+    ],
+    "uid": [
+      304126
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      815,
+      1207,
+      825,
+      1217
+    ]
+  }
+}

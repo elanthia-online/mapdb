@@ -1,0 +1,37 @@
+{
+  "checksum": "dc340067523ea6dc6d52e1581f6f2c5e",
+  "room": {
+    "id": 3966,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "The openings of small pipes are visible through the muck on the walls.  To judge from the smell, they used to deliver raw sewage into this main tunnel.  The tunnel continues to descend, as the darkness and humidity seem to close in around you."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "3967": "west",
+      "3968": "east"
+    },
+    "timeto": {
+      "3967": 0.2,
+      "3968": 0.2
+    },
+    "tags": [
+      "no-auto-map"
+    ],
+    "uid": [
+      2135102
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      664,
+      486,
+      674,
+      493
+    ]
+  }
+}

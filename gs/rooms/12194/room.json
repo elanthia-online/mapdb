@@ -1,0 +1,50 @@
+{
+  "checksum": "4c9bfd63f91adac545086b0f1db6e845",
+  "room": {
+    "id": 12194,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A set of stairs carved from the purest white marble spirals up...into nothingness.  No landing, no floor, simply a darkness so deep it seems to consume the light around it.  The stairs rest on a floor of dark black onyx, making the twisting white column the only spot of light in the area."
+    ],
+    "paths": [
+      "Obvious exits: north, south",
+      "Obvious paths: north, south"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12194/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12194/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12194/wayto/stringproc-12152.rb",
+      "12193": "south",
+      "12195": "north"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12193": 0.2,
+      "12195": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4568025
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      77,
+      1149,
+      87,
+      1159
+    ]
+  }
+}

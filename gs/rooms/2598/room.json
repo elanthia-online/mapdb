@@ -1,0 +1,54 @@
+{
+  "checksum": "f94dd5981cbe987c5f9ed483724ce375",
+  "room": {
+    "id": 2598,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A throne sits in the middle of an open field.  Dead and dried flower bushes grow over it, lacing thistles through the hair and bones of the half-rotted woman sitting within it.  Enough flesh remains to identify her gender, but the rest is gone, devoured by the plants and elements."
+    ],
+    "paths": [
+      "Obvious paths: east, west",
+      "Obvious exits: east, west"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2597": "west",
+      "2599": "east",
+      "2635": "/rooms/2598/wayto/stringproc-2635.rb",
+      "12101": "/rooms/2598/wayto/stringproc-12101.rb",
+      "12208": "/rooms/2598/wayto/stringproc-12208.rb"
+    },
+    "timeto": {
+      "2597": 0.2,
+      "2599": 0.2,
+      "2635": 22,
+      "12101": 26,
+      "12208": 22
+    },
+    "tags": [
+      "discolored fleshbinder bud",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4566020
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      226,
+      723,
+      236,
+      733
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "869a5a8aecc1b9437cad911f73d69d90",
+  "room": {
+    "id": 4079,
+    "title": [
+      "[Warehouse, East Wing]"
+    ],
+    "description": [
+      "The quiet hallway is warmly lit by a string of torches evenly spaced along the length of the corridor.  Surprisingly, one of the torches has been allowed to burn out, creating odd shadows that reach towards you, one moment beckoning you forward, the next pushing you away."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "4078": "west",
+      "4080": "east"
+    },
+    "timeto": {
+      "4078": 0.2,
+      "4080": 0.2
+    },
+    "uid": [
+      4051009
+    ]
+  }
+}

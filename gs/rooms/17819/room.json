@@ -1,0 +1,38 @@
+{
+  "checksum": "a71f54dfe6b9c874598af4e7970c8aaf",
+  "room": {
+    "id": 17819,
+    "title": [
+      "[Warehouse]"
+    ],
+    "description": [
+      "Doors have been removed from the smaller rooms surrounding the perimeter of this floor.  Training dummies peer out from several of the rooms, odd expressions painted upon their faces."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17818": "go staircase",
+      "17822": "north"
+    },
+    "timeto": {
+      "17818": 0.2,
+      "17822": 0.2
+    },
+    "tags": [
+      "rogue guild dirt",
+      "rogue guild dummies"
+    ],
+    "uid": [
+      267122
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      179,
+      739,
+      216,
+      779
+    ]
+  }
+}

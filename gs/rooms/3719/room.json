@@ -1,0 +1,53 @@
+{
+  "checksum": "98c326db885d1cbeda18401b93f31e12",
+  "room": {
+    "id": 3719,
+    "title": [
+      "[Darkstone, Winding Tunnel]"
+    ],
+    "description": [
+      "A cold damp breeze blows across your face, carrying the scent of decay.  You notice the walls are riddled with notches serving as ducts for the foul aroma."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3718": "northwest",
+      "3720": "southwest"
+    },
+    "timeto": {
+      "3718": 0.2,
+      "3720": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "massive troll king",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      388010
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      675,
+      1240,
+      687,
+      1252
+    ]
+  }
+}

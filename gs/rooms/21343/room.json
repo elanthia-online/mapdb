@@ -1,0 +1,37 @@
+{
+  "checksum": "5d687c84ea9c7c52c3ea8ac66992c7f8",
+  "room": {
+    "id": 21343,
+    "title": [
+      "[Sylvanfair, Hot Spring]"
+    ],
+    "description": [
+      "A natural spring bubbles up from the ground here, captured by living wood to form an inviting pool.  It is shallow for several paces on the end nearest the doorway -- then the water deepens quickly.  Several vines hang down over the deeper end of the pool."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21341": "go archway",
+      "21344": "go pool"
+    },
+    "timeto": {
+      "21341": 0.2,
+      "21344": 0.2
+    },
+    "tags": [
+      "meta:che:House Sylvanfair"
+    ],
+    "uid": [
+      211011
+    ],
+    "image": "wl-sylvanfair.jpg",
+    "image_coords": [
+      727,
+      419,
+      766,
+      458
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "0b6174c013e671422063e9ba5746e0b6",
+  "room": {
+    "id": 29496,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Dotting the walls, blooms of crimson crystals become more frequent as the tunnel travels east.  The low ceiling threatens egress with sharp, tooth-like formations.  A fetid stench lingers in the oppressive confines of this rocky passage under the weight of an entire mountain range."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29495": "northwest",
+      "29498": "northeast"
+    },
+    "timeto": {
+      "29495": 0.2,
+      "29498": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007225
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      888,
+      380,
+      912,
+      400
+    ]
+  }
+}

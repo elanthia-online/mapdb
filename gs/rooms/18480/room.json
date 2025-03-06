@@ -1,0 +1,30 @@
+{
+  "checksum": "49bd31c806c56fe443d78594195a545e",
+  "room": {
+    "id": 18480,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "The cornfields stretch out in several directions with no discernible end in sight.  The ground has been trampled heavily so that it provides absolutely no clues as to which direction would be the best to travel in."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18468": "north",
+      "18479": "northwest",
+      "18481": "northeast"
+    },
+    "timeto": {
+      "18468": 0.2,
+      "18479": 0.2,
+      "18481": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

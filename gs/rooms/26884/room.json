@@ -1,0 +1,49 @@
+{
+  "checksum": "2a407e878867e1377c4a8c5192815a9b",
+  "room": {
+    "id": 26884,
+    "title": [
+      "[Bloodriven Village, Pell Square]"
+    ],
+    "description": [
+      "Unlike the village's typically narrow thoroughfares, the streets in either direction widen and join to form this comfortably spacious plaza.  The plaster-covered walls of the buildings are in better repair than in other neighborhoods, and the gates around a heavily wooded path leading toward Duskruin Arena are free of rust.",
+      "Unlike the village's typically narrow thoroughfares, the streets in either direction widen and join to form this comfortably spacious plaza, the space filled with colorful decorations and lights strung from side to side.  The plaster-covered walls of the buildings are in better repair than in other neighborhoods, and the gates around a heavily wooded path leading toward Duskruin Arena are free of rust, each one adorned with a large wreath."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Bloodriven Village",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "23760": "go house",
+      "26868": "northwest",
+      "26885": "go path",
+      "26886": "southeast",
+      "29836": "go metal-plated wagon",
+      "29837": "go veniom-plated airship"
+    },
+    "timeto": {
+      "23760": 0.2,
+      "26868": 0.2,
+      "26885": 0.2,
+      "26886": 0.2,
+      "29836": 0.2,
+      "29837": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8214514
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      982,
+      602,
+      1013,
+      632
+    ],
+    "check_location": false
+  }
+}

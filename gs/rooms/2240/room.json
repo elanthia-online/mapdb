@@ -1,0 +1,41 @@
+{
+  "checksum": "de0b0f81a1952dc774c53f6483b5e5a2",
+  "room": {
+    "id": 2240,
+    "title": [
+      "[Glaes Vein]"
+    ],
+    "description": [
+      "The tunnel splits into a trio of passages, their progress hidden by convolutions and gloom.  A stark plunge down marks the southern finger, while a red glow bathes the southwestern one.  To the southeast, the route turns down, but does so in a gentle decline."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, down"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2239": "southwest",
+      "2241": "southeast",
+      "2242": "down"
+    },
+    "timeto": {
+      "2239": 0.2,
+      "2241": 0.2,
+      "2242": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051010
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      117,
+      760,
+      127,
+      770
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checksum": "e30d3e2ffa8abefb0769607882d250d2",
+  "room": {
+    "id": 21857,
+    "title": [
+      "[Talador, Inside Gate]"
+    ],
+    "description": [
+      "Set into a thick stone wall is a huge steel-bound wooden gate that leads outside of town.  Crossbowmen make their rounds along the fortified walls, keeping a watchful eye on travelers outside and inside the city."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21856": "go gate",
+      "21858": "north"
+    },
+    "timeto": {
+      "21856": 0.2,
+      "21858": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - Talador Festival Grounds",
+      "meta:mapshortname:Talador Festival Grounds",
+      "meta:mapcategory:Wehnimer's Landing"
+    ],
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      253,
+      385,
+      280,
+      412
+    ]
+  }
+}

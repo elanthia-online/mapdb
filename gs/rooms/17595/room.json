@@ -1,0 +1,44 @@
+{
+  "checksum": "d429303a213d88d3b37b5c5e5c120173",
+  "room": {
+    "id": 17595,
+    "title": [
+      "[Western Harbor, Waterbug Way]"
+    ],
+    "description": [
+      "Prismatic light swirls off of the lanterns that occupy each corner, their interiors illuminated by the reflections of the bright sunlight that trickles across them.  Verdant tropical plants tumble across the white picket fences that line the cobblestone street in an effort to reclaim this portion of the harbor for their own, their blossom laden ends perfuming the air.  Tucked in amongst the folliage is a thatch-roof whitewashed cafe.",
+      "Moonlight illuminates the area with a hazy, silver glow that is augmented by the gentle glow of their nearby lanterns that occupy each corner.  Verdant tropical plants tumble across the white picket fences, their vibrant colors turned to shadow.  Tucked in amongst the dark foliage is a thatch-roof whitewashed cafe, its windows spilling bright candlelight into the street."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "17588": "northeast",
+      "17596": "go cafe",
+      "17597": "northwest",
+      "17598": "southeast"
+    },
+    "timeto": {
+      "17588": 0.2,
+      "17596": 0.2,
+      "17597": 0.2,
+      "17598": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216025
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      1093,
+      1044,
+      1123,
+      1072
+    ]
+  }
+}

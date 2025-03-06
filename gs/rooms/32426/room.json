@@ -1,0 +1,45 @@
+{
+  "checksum": "157ac53321d3069f4db6cff561761f6d",
+  "room": {
+    "id": 32426,
+    "title": [
+      "[Moonsedge, Ash Row]"
+    ],
+    "description": [
+      "Dried leaves whisper a dry susurrus as they skitter trepidatiously past shuttered businesses and boarded homes to either side of the street.  The shadows of the ash trees planted in loamy beds along the center of the row stretch long and strange in the sunlight.  Their leaves have almost filled the bed of a wagon that sits unattended in the middle of the roadway, forlornly dangling broken leather straps that ought to be attached to horses or mules."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32414": "west",
+      "32425": "south",
+      "32427": "north",
+      "32430": "southeast"
+    },
+    "timeto": {
+      "32414": 0.2,
+      "32425": 0.2,
+      "32427": 0.2,
+      "32430": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577013
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      437,
+      220,
+      457,
+      244
+    ]
+  }
+}

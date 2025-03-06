@@ -1,0 +1,29 @@
+{
+  "checksum": "aae7c8d1d2a4d2ba8edcf2c66d70fa16",
+  "room": {
+    "id": 16044,
+    "title": [
+      "[Chimesea's Magic Shoppe]"
+    ],
+    "description": [
+      "A pair of cast iron sconces hangs on one of the whitewashed stucco walls, and a mosiac-tiled ceiling rises overhead.  A glass-fronted bookcase sits in one corner of an ornate ceramic tile floor.  There is a tall oak and ivory cabinet on one side of the shop and a clawfooted cherrywood table on the other."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10876": "out",
+      "16109": "east",
+      "16110": "northeast"
+    },
+    "timeto": {
+      "10876": 0.2,
+      "16109": 0.2,
+      "16110": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

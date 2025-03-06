@@ -1,0 +1,44 @@
+{
+  "checksum": "c7c9ef22d5e110f6d0f90e7cd747bc16",
+  "room": {
+    "id": 25822,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Rocks rising on either side of the landmass form an impenetrable barrier that makes landfall on its dark, black sands impossible without the assistance of the dock that stretches out into the cresting waves.  Though no vegetation rises from the strange isle, a smear of purple on one of its hills appears to offer a bit of shade from the sun's insistent attention.",
+      "Rocks rising on either side of the landmass form an impenetrable barrier that makes landfall on its dark, black sands impossible without the assistance of the dock that stretches out into the cresting waves.  Small, glowing orbs create distant pools of light upon the hills of the strange island."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25821": "/rooms/25822/wayto/stringproc-25821.rb",
+      "25823": "/rooms/25822/wayto/stringproc-25823.rb",
+      "25824": "/rooms/25822/wayto/stringproc-25824.rb",
+      "25832": "/rooms/25822/wayto/stringproc-25832.rb"
+    },
+    "timeto": {
+      "25821": 6,
+      "25823": 6,
+      "25824": 6,
+      "25832": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223842
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1120,
+      1439,
+      1141,
+      1459
+    ]
+  }
+}

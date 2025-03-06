@@ -1,0 +1,30 @@
+{
+  "checksum": "63dd796ad963582d901ddc9930ac186b",
+  "room": {
+    "id": 31352,
+    "title": [
+      "[Sunset Cabin, Foyer]"
+    ],
+    "description": [
+      "This room is alive with the near-constant happy warbling emanating from a large polished brass gilded cage containing a pair of bluebirds.  Formed from unfinished logs, the walls of the cabin are crafted and fitted so perfectly that none of the frigid air from outside can be felt.  A series of polished silver hooks are imbedded in the wood at eye height directly adjacent to the oak door, and a small stool sits just beneath them."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "3091": "go oak door",
+      "31353": "north"
+    },
+    "timeto": {
+      "3091": 0.2,
+      "31353": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      2019100
+    ]
+  }
+}

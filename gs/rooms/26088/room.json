@@ -1,0 +1,32 @@
+{
+  "checksum": "ebd48506387e72b941012f192be520fa",
+  "room": {
+    "id": 26088,
+    "title": [
+      "[Ancient Passage, Niche]"
+    ],
+    "description": [
+      "Thin and wide, the corridor is a straight line that leads from a set of upward spiraling stairs to a set of downward ones.  Carved into the eastern wall is a mural of an enormous forge that is illuminated by crimson toadstools set before it, while the western wall houses a large niche.  Candles litter the floor beneath the alcove, many of which show eminent signs of expiring."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "26087": "/rooms/26088/wayto/stringproc-26087.rb",
+      "26089": "/rooms/26088/wayto/stringproc-26089.rb"
+    },
+    "timeto": {
+      "26087": 24,
+      "26089": 12
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      679020
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "b58e4e80d80879591c50f5016e05df73",
+  "room": {
+    "id": 3243,
+    "title": [
+      "[A Frozen Battlefield]"
+    ],
+    "description": [
+      "The hills dissolve into a barren plain of frost, the thick white carpet having buried anything in its path.  Barricades, trenches and crumbling walls dot the ancient battlefield, now mere markers of the past wars."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, west, northwest"
+    ],
+    "location": "the Ice Plains",
+    "climate": "glacial",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3242": "go snow-covered path",
+      "3244": "northwest",
+      "3250": "northeast"
+    },
+    "timeto": {
+      "3242": 0.2,
+      "3244": 0.2,
+      "3250": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7502002
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      96,
+      483,
+      106,
+      493
+    ]
+  }
+}

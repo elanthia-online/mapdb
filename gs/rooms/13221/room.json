@@ -1,0 +1,29 @@
+{
+  "checksum": "44d6b95b4c183814f38031cd22cee679",
+  "room": {
+    "id": 13221,
+    "title": [
+      "[Shimmarglin Inn, East Hall]"
+    ],
+    "description": [
+      "The hallway ends here before a large stained glass window.  A pale glow filters through the heavily tinted glass, sending weak shafts of light across the red carpeting.  Miniscule flakes of dust twirl slowly in the dim rays of light."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "13219": "south",
+      "13222": "go oak door",
+      "15669": "go gold-inlaid door"
+    },
+    "timeto": {
+      "13219": 0.2,
+      "13222": 0.2,
+      "15669": 0.2
+    },
+    "uid": [
+      13108010
+    ]
+  }
+}

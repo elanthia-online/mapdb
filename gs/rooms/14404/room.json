@@ -1,0 +1,32 @@
+{
+  "checksum": "768abc8108f053113de5a4723bb50459",
+  "room": {
+    "id": 14404,
+    "title": [
+      "[Venquinor House, Upper Hall]"
+    ],
+    "description": [
+      "Situated at the top of some rounded riverstone steps, the hallway is long and lushly carpeted.  Its northern wall is dominated by a muraled alcove, the vivid greens and shadowy blues of which provide a contrasting backdrop to a wide-mouthed dark jade jug.  At the hallway's end stands a pair of stained glass doors, the semi-translucent crystal panes adequately concealing the chamber beyond."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "14403": "go steps",
+      "32712": "/rooms/14404/wayto/stringproc-32712.rb"
+    },
+    "timeto": {
+      "14403": 0.2,
+      "32712": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749804
+    ]
+  }
+}

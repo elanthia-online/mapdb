@@ -1,0 +1,51 @@
+{
+  "checksum": "a82de2e30c60ef76043b524ab1ac9cf9",
+  "room": {
+    "id": 8199,
+    "title": [
+      "[Sea Caverns, Sleeping Quarters]"
+    ],
+    "description": [
+      "The walls of this chamber are lined with piles of filthy rags.  A banged-up wooden rack against the eastern wall holds various sorts of weapons, none in very good shape.  Scraps of leather, metal and various shiny objects are strewn about the floor."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8198": "south",
+      "8200": "east"
+    },
+    "timeto": {
+      "8198": 0.2,
+      "8200": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "murdroot",
+      "soft white mushroom",
+      "blue trafel mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391006
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      526,
+      69,
+      536,
+      79
+    ]
+  }
+}

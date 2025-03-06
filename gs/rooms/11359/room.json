@@ -1,0 +1,42 @@
+{
+  "checksum": "dc004abc1465a1d42c4eb0f27a6277a7",
+  "room": {
+    "id": 11359,
+    "title": [
+      "[Entrance Hall]"
+    ],
+    "description": [
+      "Made of shining bronze and adorned with glistening obsidian, two doors rise high and wide above the fine tiled floors, now faded and covered with dust.  A shriveled corpse sits with its back against the wall, its leather armor brittle and cracked and a rusty shortsword still encased in its bony grip."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast, out"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11358": "out",
+      "11360": "southeast",
+      "11361": "northeast",
+      "11362": "north"
+    },
+    "timeto": {
+      "11358": 0.2,
+      "11360": 0.2,
+      "11361": 0.2,
+      "11362": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377002
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      219,
+      1207,
+      229,
+      1217
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "2488ccda21c854cb87aca4de5e0f6f0a",
+  "room": {
+    "id": 13604,
+    "title": [
+      "[Ahrairah's Weaponry]",
+      "[Ahrairah's Outfitting]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  An elegantly carved oak armoire and a gold-veined black marble counter sit in opposite corners while a worn rug rests on an unfinished wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10461": "out",
+      "13685": "east",
+      "13686": "north"
+    },
+    "timeto": {
+      "10461": 0.2,
+      "13685": 0.2,
+      "13686": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

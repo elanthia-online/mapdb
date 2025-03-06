@@ -1,0 +1,36 @@
+{
+  "checksum": "74de099b6599ebd674680a76a7c1efac",
+  "room": {
+    "id": 33693,
+    "title": [
+      "[Keep Tower, Research]"
+    ],
+    "description": [
+      "Collapsed shelves draped in blankets of dust lean against their casings, the moldy remains of their once esteemed passengers lay in tattered shreds at their clawed feet.  Chair stuffing is scattered about the room in old clumps that resemble matted nests, while the splintered remains of a table has been pushed firmly against one wall.  Watermarks upon the southern wall glisten with new moisture and lend the small space a fetid, mildewed scent."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Vornavis",
+    "wayto": {
+      "33651": "go door",
+      "33694": "east",
+      "33695": "west"
+    },
+    "timeto": {
+      "33651": 0.2,
+      "33694": 0.2,
+      "33695": 0.2
+    },
+    "uid": [
+      7101236
+    ],
+    "image": "quest-night_at_the_academy.png",
+    "image_coords": [
+      1257,
+      1326,
+      1305,
+      1374
+    ]
+  }
+}

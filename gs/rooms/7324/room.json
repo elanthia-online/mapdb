@@ -1,0 +1,58 @@
+{
+  "checksum": "8546014d2e4157ec3f2531c839c50b65",
+  "room": {
+    "id": 7324,
+    "title": [
+      "[Secluded Valley]"
+    ],
+    "description": [
+      "A rough granite gravestone stands against the west wall of the valley.  The torn and broken ground beneath the marker leads you to believe that whatever was buried here chose to leave.  Strangely, the thick mists circle the area, carefully avoiding the gravesite."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "barren scrub",
+    "wayto": {
+      "4541": "/rooms/7324/wayto/stringproc-4541.rb",
+      "7322": "southeast",
+      "7323": "northeast"
+    },
+    "timeto": {
+      "4541": 15,
+      "7322": 0.2,
+      "7323": 0.2
+    },
+    "tags": [
+      "bright red teaberry",
+      "blue whortleberry",
+      "sprig of larkspur",
+      "wild strawberry",
+      "cothinar flower",
+      "wintergreen leaf",
+      "blueberries",
+      "stalk of chicory",
+      "broken twig",
+      "small wild rose",
+      "sprig of wild lilac",
+      "wild chokecherry",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2150007
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      922,
+      334,
+      932,
+      344
+    ]
+  }
+}

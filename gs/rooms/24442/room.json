@@ -1,0 +1,35 @@
+{
+  "checksum": "afbafac17cd820872c83ae2ee5a9abe3",
+  "room": {
+    "id": 24442,
+    "title": [
+      "[Warehouse, Nexus]"
+    ],
+    "description": [
+      "Flashes of color and the whiffs of tanned leather rush through the area as various workers and tradesmen jostle through the crowd to their destinations.   Set above the bustling area is a large wooden platform, framed by a number of crates, barrels, and piles of exotic fur."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, south, west, northwest"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "24441": "south",
+      "24443": "go wooden platform",
+      "24444": "west",
+      "24445": "northwest",
+      "24448": "north",
+      "24449": "northeast"
+    },
+    "timeto": {
+      "24441": 0.2,
+      "24443": 0.2,
+      "24444": 0.2,
+      "24445": 0.2,
+      "24448": 0.2,
+      "24449": 0.2
+    },
+    "uid": [
+      4052003
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+move "swim southwest"
+waitrt?

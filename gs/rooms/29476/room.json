@@ -1,0 +1,41 @@
+{
+  "checksum": "98a306e800772ec05ba5361b81b0932e",
+  "room": {
+    "id": 29476,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Bare granite walls show signs of aggressive excavation with a narrow crevice offering access to a lower level of this subterranean matrix.  Putrid air accompanies the thick inky darkness that obscures the surroundings.  Jagged rock juts out from odd angles from all directions, making progress difficult and dangerous."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest, down"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29474": "northeast",
+      "29475": "down",
+      "29486": "southwest"
+    },
+    "timeto": {
+      "29474": 0.2,
+      "29475": 0.2,
+      "29486": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007217
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      548,
+      277,
+      573,
+      298
+    ]
+  }
+}

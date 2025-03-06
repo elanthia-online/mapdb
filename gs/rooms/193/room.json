@@ -1,0 +1,47 @@
+{
+  "checksum": "d4bf7046c0d97b94cee7dbb9c8a28fc2",
+  "room": {
+    "id": 193,
+    "title": [
+      "[Ta'Illistim, Fraendel Court]"
+    ],
+    "description": [
+      "The entire southeast corner of the Court is occupied by a large stone structure featuring an intricately worked iron door that contains a remarkably large bolt.  The door is flanked on either side by capable looking guardsmen who scan the crowd with a steady gaze.",
+      "The entire southeast corner of the Court is occupied by a large stone structure featuring an intricately worked iron door that contains a remarkably large bolt.  The door is flanked on either side by capable looking guardsmen who scan the court with a steady gaze."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "192": "southeast",
+      "194": "northwest",
+      "13255": "go door",
+      "30714": "/rooms/193/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "192": 0.2,
+      "194": 0.2,
+      "13255": 0.2,
+      "30714": "/rooms/193/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100079
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      791,
+      736,
+      814,
+      758
+    ]
+  }
+}

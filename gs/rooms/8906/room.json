@@ -1,0 +1,30 @@
+{
+  "checksum": "97c60a234e12112f110f092044885a24",
+  "room": {
+    "id": 8906,
+    "title": [
+      "[Wineshop Salesroom]"
+    ],
+    "description": [
+      "A wide variety of wine is on display within the hand-carved case, many of the vintages appearing to be quite rare.  A tall, well-dressed clerk attends to the bottles, quite busy as he moves about the room checking inventory.  He seems to be paying far more attention to the wine than to the customers."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "330": "out",
+      "8907": "east"
+    },
+    "timeto": {
+      "330": 0.2,
+      "8907": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      5028
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "df882dff495835d8c5d42481bf2906dc",
+  "room": {
+    "id": 2252,
+    "title": [
+      "[Glaes Caverns]"
+    ],
+    "description": [
+      "A vast chamber, full of steam and smoke, is rendered hazardous with pools of molten glaes dotting the floor.  Noxious clouds drift across the hellish vista, floating across the bubbling puddles like ships sailing a blood-red sea.  Other caverns are visible through circular exits, the passages half-blocked with long, black protrusions of crystalline glaes."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2251": "southeast",
+      "2253": "northeast",
+      "2259": "west"
+    },
+    "timeto": {
+      "2251": 0.2,
+      "2253": 0.2,
+      "2259": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051023
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      224,
+      645,
+      232,
+      653
+    ]
+  }
+}

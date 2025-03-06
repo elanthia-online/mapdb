@@ -1,0 +1,38 @@
+{
+  "checksum": "7a2613dbafca0b4e2e88f0dd0dea9f47",
+  "room": {
+    "id": 8265,
+    "title": [
+      "[Wolves' Den, Guard Room]"
+    ],
+    "description": [
+      "Four metal chairs sit around a block of stone which must once have served as a table.  The weapons rack that once stood against the northern wall has collapsed, sprawling into the center of the room.  Red lines of rust are all that remain of its contents.  To the south, a steep spiral staircase leads down.  The steel portcullis before it is rusted open."
+    ],
+    "paths": [
+      "Obvious exits: down, out"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8240": "out",
+      "8266": "down"
+    },
+    "timeto": {
+      "8240": 0.2,
+      "8266": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390040
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      186,
+      537,
+      196,
+      547
+    ]
+  }
+}

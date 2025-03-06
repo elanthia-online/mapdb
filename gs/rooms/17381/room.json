@@ -1,0 +1,27 @@
+{
+  "checksum": "f9cb10beffe54e14e2f163f1685e5241",
+  "room": {
+    "id": 17381,
+    "title": [
+      "[Narcis Hold, Foyer]"
+    ],
+    "description": [
+      "Looming overhead is a dome of ebonwood and carmine crystal, reminiscent of a whelk's spiral shell.  Shards of ruby light filter through the smooth expanse of glass, gathering in nebulous pools about a central fountain fashioned into the conjoined forms of a bevy of nymphs.  Myriad white candles encircle the basin.  A rainbow glaes arch breaks the wall to the northeast, while double modwir doors to the south mute the bustle from the street beyond."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "17380": "go doors",
+      "17428": "northeast"
+    },
+    "timeto": {
+      "17380": 0.2,
+      "17428": 0.2
+    },
+    "tags": [
+      "private property"
+    ]
+  }
+}

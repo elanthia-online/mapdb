@@ -1,0 +1,39 @@
+{
+  "checksum": "d55c84b555423ddaabc97bb36f4c0edf",
+  "room": {
+    "id": 33441,
+    "title": [
+      "[Underground, Narrow Tunnel]"
+    ],
+    "description": [
+      "Black shadows dance on the periphery of your vision, but you can never seem to focus on anything long enough to identify it.  The floor of the tunnel is slick from a constant trickle of water that runs down the walls and your footing doesn't seem very secure."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "33440": "east",
+      "33442": "go narrow stair",
+      "33446": "west"
+    },
+    "timeto": {
+      "33440": 0.2,
+      "33442": 0.2,
+      "33446": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102502
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      404,
+      1027,
+      541,
+      1095
+    ]
+  }
+}

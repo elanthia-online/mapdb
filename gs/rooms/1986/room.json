@@ -1,0 +1,48 @@
+{
+  "checksum": "0cf24b66a683e15ef32d7f7ec25efee7",
+  "room": {
+    "id": 1986,
+    "title": [
+      "[Warrior Guild, Main Entrance]"
+    ],
+    "description": [
+      "The tall granite walls frame large, ornately carved doors bound with krodera and mithril.  Upon their center is a large seal bearing the regal emblem of the Warrior Guild.  Beyond the walls, the domed roof of the white marbled guild complex can be seen looming over the guild proper.  In the soft light of the moon, the surface of the dome glows dimly as if it were made of solid gold.",
+      "The tall granite walls frame large, ornately carved doors bound with krodera and mithril.  Upon their center is a large seal bearing the regal emblem of the Warrior Guild.  Beyond the walls, the domed roof of the white marbled guild complex can be seen looming over the guild proper.  In the light of day, the surface of the dome glints as if it were made of solid gold."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1985": "south",
+      "17253": "go doors",
+      "30715": "/rooms/1986/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1985": 0.2,
+      "17253": "/rooms/1986/timeto/stringproc-17253.rb",
+      "30715": "/rooms/1986/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "warriorguild",
+      "urchin-access",
+      "urchin guide warriorguild",
+      "warrior guild",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      252001
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      468,
+      39,
+      504,
+      75
+    ]
+  }
+}

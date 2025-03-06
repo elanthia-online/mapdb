@@ -1,0 +1,42 @@
+{
+  "checksum": "8e035522c593374dc13a5b61994b35c4",
+  "room": {
+    "id": 5045,
+    "title": [
+      "[Marshtown, Jag Hill]"
+    ],
+    "description": [
+      "The walkway widens considerably for a stretch into an oval bulge.  No buildings can be found this far along, and the boardwalk opens to the surrounding marsh.  Railings border the walkway, and benches and tables line the edges of the planks, providing a place to rest and perhaps have a meal.  To the northeast, a muddy path rises out of the marsh and climbs a tall hill."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the lowlands of Marshtown",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5044": "southeast",
+      "5046": "climb path",
+      "11757": "go gate"
+    },
+    "timeto": {
+      "5044": 0.2,
+      "5046": 0.2,
+      "11757": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4744021
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      737,
+      622,
+      767,
+      652
+    ]
+  }
+}

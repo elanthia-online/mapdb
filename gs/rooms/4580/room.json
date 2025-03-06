@@ -1,0 +1,52 @@
+{
+  "checksum": "c188933e75e9dcab404bf0fb42a282ef",
+  "room": {
+    "id": 4580,
+    "title": [
+      "[Griffin's Keen, Snow Scramble]"
+    ],
+    "description": [
+      "Lack of handholds on the ice covered rock and piles of shifting snow on the trail make progress slow and painful.  A loud, shrill sound echoes down the wall of the mountainside.  One can only hope that it is the shriek of the wind."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4579": "/rooms/4580/wayto/stringproc-4579.rb",
+      "4581": "/rooms/4580/wayto/stringproc-4581.rb",
+      "4600": "go entrance"
+    },
+    "timeto": {
+      "4579": 4.2,
+      "4581": 4.2,
+      "4600": 0.2
+    },
+    "tags": [
+      "sprig of holly",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302121
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      529,
+      210,
+      539,
+      220
+    ]
+  }
+}

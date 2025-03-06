@@ -1,0 +1,43 @@
+{
+  "checksum": "264d5a2474caf7f54e23a016986b3718",
+  "room": {
+    "id": 618,
+    "title": [
+      "[Ta'Illistim, Moonglae Var]"
+    ],
+    "description": [
+      "An imposing grey building huddles in the shelter of the city wall.  An engraved mithglin sign has been set into the dark granite beside a rounded archway that leads inside.  Above the archway, a large panel of granite has been embedded with an enormous mosaic formed of various gemstones.  Four round towers, each topped with a sapphire blue and silver pennant, mark the corners of the square building."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "617": "east",
+      "619": "west",
+      "4026": "go archway"
+    },
+    "timeto": {
+      "617": 0.2,
+      "619": 0.2,
+      "4026": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101043
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      876,
+      84,
+      897,
+      107
+    ]
+  }
+}

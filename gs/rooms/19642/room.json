@@ -1,0 +1,44 @@
+{
+  "checksum": "a352e41a9eea02a931f4f572812d068d",
+  "room": {
+    "id": 19642,
+    "title": [
+      "[Cavernhold, Main Hall]"
+    ],
+    "description": [
+      "This side of the large Main Hall is quite unremarkable.  The Gnolls tend to leave much of their home in a natural state and this part of the chamber appears to have been untouched by hand or tool."
+    ],
+    "paths": [
+      "Obvious exits: northeast, east, southeast, west"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19640": "northeast",
+      "19643": "west",
+      "19649": "southeast",
+      "19650": "east"
+    },
+    "timeto": {
+      "19640": 0.2,
+      "19643": 0.2,
+      "19649": 0.2,
+      "19650": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10013
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      547,
+      1127,
+      559,
+      1134
+    ]
+  }
+}

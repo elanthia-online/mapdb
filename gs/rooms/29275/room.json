@@ -1,0 +1,24 @@
+{
+  "checksum": "126573b19cc3ab5f0f3ab38c454f89bc",
+  "room": {
+    "id": 29275,
+    "title": [
+      "[Crew Quarters, Corridor]"
+    ],
+    "description": [
+      "Squelching sounds echo through the corridor as water-sodden carpets are traversed, the noise oddly punctuated by dripping from somewhere nearby.  Half-imbedded into a wall is the skeletal form of a swordfish that is perfectly showcased by flickering candles beneath."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "29274": "south",
+      "29276": "north"
+    },
+    "timeto": {
+      "29274": 0.2,
+      "29276": 0.2
+    }
+  }
+}

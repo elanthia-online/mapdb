@@ -1,0 +1,41 @@
+{
+  "checksum": "edf569ef94089a36c5d7eb622cedc5ae",
+  "room": {
+    "id": 12758,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "More intense waves of water crash loudly against the walls, and the sea can be seen stretching for miles to the east.  The entire eastern wall, as well as a small portion of the floor, have long since collapsed and fallen into the watery depths below.  Despite the missing wall, the ceiling above is firmly supported by several wide pillars."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the Ruined Temple",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12757": "west",
+      "12759": "south"
+    },
+    "timeto": {
+      "12757": 0.2,
+      "12759": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3031098
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      945,
+      235,
+      981,
+      271
+    ]
+  }
+}

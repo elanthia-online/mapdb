@@ -1,0 +1,50 @@
+{
+  "checksum": "3726fc86c20f2139e4d8251ad998db13",
+  "room": {
+    "id": 12136,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The fog you wander through parts to reveal thousands of stairways surrounding you.  Sets of stairs lead to unknown destinations around you, up and down, horizontal and vertical.  The bizarre monument fills your vision as far as you can see, none of the stairs really appear to be going anywhere except to other stairs."
+    ],
+    "paths": [
+      "Obvious exits: southwest, northwest",
+      "Obvious paths: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2605": "/rooms/12136/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12136/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12136/wayto/stringproc-12093.rb",
+      "12134": "northwest",
+      "12137": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12134": 0.2,
+      "12137": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb"
+    ],
+    "uid": [
+      4567024
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      923,
+      673,
+      931,
+      681
+    ]
+  }
+}

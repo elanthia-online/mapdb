@@ -1,0 +1,42 @@
+{
+  "checksum": "e02d182598f8b0e98b4e828a42cafb9a",
+  "room": {
+    "id": 11240,
+    "title": [
+      "[Infirmary, Hallway]"
+    ],
+    "description": [
+      "Grey and heather-colored molds have grown on the walls, making patterns that eerily resemble some ancient language. The warped, wide-planked pine floor is worn and scuffed in the middle.  Tiny fungi grow in the cracks of the floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11241": "south",
+      "11244": "north",
+      "16056": "west",
+      "16059": "east"
+    },
+    "timeto": {
+      "11241": 0.2,
+      "11244": 0.2,
+      "16056": 0.2,
+      "16059": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377206
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      219,
+      519,
+      229,
+      529
+    ]
+  }
+}

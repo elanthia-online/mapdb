@@ -1,0 +1,34 @@
+{
+  "checksum": "43836783f219ef8879e916d052cc6386",
+  "room": {
+    "id": 24332,
+    "title": [
+      "[Ranger Guild, Hallway]"
+    ],
+    "description": [
+      "A short hallway leads to a pair of carved doors.  The walls are covered with several paintings of famous or notable Rangers.  A plush carpet of coyote fur absorbs the sound of footsteps and pleasantly offsets the forest green walls.  The way to the doors is clearly lit by bright candles that line the walls."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "24308": "south",
+      "24348": "go doors"
+    },
+    "timeto": {
+      "24308": 0.2,
+      "24348": 0.2
+    },
+    "uid": [
+      274012
+    ],
+    "image": "vo-rangerguild-1649447217.png",
+    "image_coords": [
+      262,
+      303,
+      279,
+      317
+    ]
+  }
+}

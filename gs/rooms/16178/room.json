@@ -1,0 +1,38 @@
+{
+  "checksum": "707770c2f95dfc01c4dab871a3cbac09",
+  "room": {
+    "id": 16178,
+    "title": [
+      "[Bamboo Cottage, Attic]"
+    ],
+    "description": [
+      "A stiff breeze rattles the bamboo walls of this cramped room, creating a slight whistling noise as the room sways.  There isn't much decoration in this room except for a centrally located table and a long shelf that has many vials sitting atop it."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "16176": "climb stairs",
+      "16281": "west",
+      "16282": "east",
+      "16284": "north"
+    },
+    "timeto": {
+      "16176": 0.2,
+      "16281": 0.2,
+      "16282": 0.2,
+      "16284": 0.2
+    },
+    "uid": [
+      34228
+    ],
+    "image": "rr-dyers_tent-1512165849.png",
+    "image_coords": [
+      1702,
+      426,
+      1835,
+      483
+    ]
+  }
+}

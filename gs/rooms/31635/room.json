@@ -1,0 +1,45 @@
+{
+  "checksum": "eb9e4a785b2b012401697d59468f3dbb",
+  "room": {
+    "id": 31635,
+    "title": [
+      "[Evermore Hollow, Outer Circle]"
+    ],
+    "description": [
+      "Inclining slightly to the northwest as it narrows towards a bridge, the cobbled street is lined with uneven pavers to create a cramped thoroughfare.  Stores clustered together along the southern side of the road rise and fall at varying heights, their windowed faces turned to the wrought iron fence that overlooks the Gleyminn Anni River.  Perched in a row in descending dimensions, winged wrought iron serpents stretch their mouths wide to hold glowing orbs aloft."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31563": "southeast",
+      "31636": "northwest",
+      "31968": "go blue shop",
+      "31969": "go moss-ridden shop"
+    },
+    "timeto": {
+      "31563": 0.2,
+      "31636": 0.2,
+      "31968": 0.2,
+      "31969": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083026
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      602,
+      194,
+      625,
+      215
+    ]
+  }
+}

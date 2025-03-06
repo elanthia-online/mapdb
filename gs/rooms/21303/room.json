@@ -1,0 +1,26 @@
+{
+  "checksum": "82dee5f57fe023012d639b12888737e8",
+  "room": {
+    "id": 21303,
+    "title": [
+      "[Officers' Prize Closet]"
+    ],
+    "description": [
+      "The closet is well-lit, but so small that it leaves barely enough space to turn around.  An oversized trunk rests at the base of one wall, while shelves rise to the ceiling lining two more walls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Willow Hall",
+    "wayto": {
+      "21302": "out"
+    },
+    "timeto": {
+      "21302": 0.2
+    },
+    "tags": [
+      "meta:che:Willow Hall"
+    ],
+    "check_location": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "f68dfad4e294740287b7a3fda26b30d2",
+  "room": {
+    "id": 33724,
+    "title": [
+      "[Strawberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "Small and cramped, this room ends with a dark curtain which is drawn shut.  Remants of old advertising slogans are painted onto the surface.  A small metal lever is imbedded into the wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "33723": "pull lever",
+      "33725": "go curtain"
+    },
+    "timeto": {
+      "33723": 0.2,
+      "33725": 0.2
+    },
+    "uid": [
+      4043938
+    ]
+  }
+}

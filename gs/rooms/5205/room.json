@@ -1,0 +1,45 @@
+{
+  "checksum": "6f90bd983c289971ffe41474ae092bce",
+  "room": {
+    "id": 5205,
+    "title": [
+      "[Vornavian Coast, North Beach]"
+    ],
+    "description": [
+      "This quiet cove is a haven from the wind and rough surf.  Some distance out at sea, waves break against a line of coral reefs.  Tall dunes of dark sand surround the cove like the eroded walls of an ancient fortress.  The cries of sea birds seem all the more plaintive in the tranquility of the cove."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "saltwater",
+    "terrain": "riparian",
+    "wayto": {
+      "5126": "up",
+      "24431": "go wrought gates"
+    },
+    "timeto": {
+      "5126": 0.2,
+      "24431": "/rooms/5205/timeto/stringproc-24431.rb"
+    },
+    "tags": [
+      "yabathilium fruit",
+      "strand of seaweed",
+      "BRS",
+      "murdroot",
+      "meta:forage-sensed",
+      "wavepetal blossom",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202321
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      150,
+      502,
+      160,
+      512
+    ]
+  }
+}

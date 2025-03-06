@@ -1,0 +1,40 @@
+{
+  "checksum": "59dacab8293168e8a914d88e1a217218",
+  "room": {
+    "id": 10077,
+    "title": [
+      "[Sylvarraend, Foehn Var]"
+    ],
+    "description": [
+      "The small wooden bridge spans a cheerfully bubbling brook, its water tumbling over various rocks and fallen limbs in its giddy haste to arrive at its destination.  A small bench is set beneath the bridge's railing, providing a peaceful spot for a few minutes' contemplation."
+    ],
+    "paths": [
+      "Obvious paths: southeast"
+    ],
+    "location": "the town of Sylvarraend",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10075": "southeast",
+      "10078": "go bridge"
+    },
+    "timeto": {
+      "10075": 0.2,
+      "10078": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13050019
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      31,
+      868,
+      67,
+      904
+    ]
+  }
+}

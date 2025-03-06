@@ -1,0 +1,36 @@
+{
+  "checksum": "68a7e8e052964d86268493787d1b52cb",
+  "room": {
+    "id": 20641,
+    "title": [
+      "[Begetting Besiegers, Basement]"
+    ],
+    "description": [
+      "Narrow wooden steps lead down from the trapdoor in the ceiling, ending in a wide underground chamber.  Old rusty sconces cast a dim glow along the earthen walls, creating thick pockets of shadows that partially conceal a flimsy wooden door."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "19937": "go steps",
+      "20627": "/rooms/20641/wayto/stringproc-20627.rb",
+      "20642": "go door"
+    },
+    "timeto": {
+      "19937": 0.2,
+      "20627": 0.2,
+      "20642": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336404
+    ]
+  }
+}

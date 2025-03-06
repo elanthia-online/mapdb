@@ -1,0 +1,37 @@
+{
+  "checksum": "71f3db331f43d45e460858f74f36444b",
+  "room": {
+    "id": 14410,
+    "title": [
+      "[Eorgina's Temple, West Turret]"
+    ],
+    "description": [
+      "An openwork iron staircase rises up in a sharp spiral, ascending the levels of this small turret.  The outer wall has been painted a dark hue that contains a mottled shading of black with touches of indigo, more like a violent storm than the pinnacle of midnight.  Towards the ceiling it fades to a dusky grey."
+    ],
+    "paths": [
+      "Obvious exits: east, up, out"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13348": "east",
+      "14411": "go door",
+      "14412": "out",
+      "14413": "up"
+    },
+    "timeto": {
+      "13348": 0.2,
+      "14411": 0.2,
+      "14412": 0.2,
+      "14413": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900013
+    ]
+  }
+}

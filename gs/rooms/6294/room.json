@@ -1,0 +1,41 @@
+{
+  "checksum": "1b4d246fea864f6012b10f2f3bd20184",
+  "room": {
+    "id": 6294,
+    "title": [
+      "[Dirt Mines, Archaeological Dig]"
+    ],
+    "description": [
+      "A vertical shaft serves as a transom of sorts, bringing down a square of moonlight into the center of the chamber.  A couple of rotting scrolls and broken tablets are gathered together in the dim light.  A fresh but crumpled parchment beside the others is covered with fine scribbles and a stylus lies nearby, as if some scholar had been studying and taking notes.",
+      "A vertical shaft serves as a transom of sorts, bringing down a square of light into the center of the chamber.  A couple of rotting scrolls and broken tablets are gathered together in the light.  A fresh but crumpled parchment beside the others is covered with fine scribbles and a stylus lies nearby, as if some scholar had been studying and taking notes."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "wayto": {
+      "6293": "west",
+      "6295": "northeast"
+    },
+    "timeto": {
+      "6293": 0.2,
+      "6295": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "cinnamon bark",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      372012
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      341,
+      191,
+      351,
+      201
+    ]
+  }
+}

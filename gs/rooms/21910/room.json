@@ -1,0 +1,37 @@
+{
+  "checksum": "d5e7ec65b8191ed8872ccd130aa6cdbf",
+  "room": {
+    "id": 21910,
+    "title": [
+      "[Talador, North Circle]"
+    ],
+    "description": [
+      "Throngs of townspeople move through the area, stopping to chat when not going about their business.  Bright, huge pavilions line the streets like a colorful border, drawing visitors to them."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21906": "northeast",
+      "21911": "go amber-hued tent",
+      "21912": "go yellow tent",
+      "21913": "go mist tent",
+      "21914": "southeast"
+    },
+    "timeto": {
+      "21906": 0.2,
+      "21911": 0.2,
+      "21912": 0.2,
+      "21913": 0.2,
+      "21914": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      82,
+      100,
+      110,
+      126
+    ]
+  }
+}

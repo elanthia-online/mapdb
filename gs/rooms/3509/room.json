@@ -1,0 +1,44 @@
+{
+  "checksum": "d199acab692fb1d83291d9faadb2b8ed",
+  "room": {
+    "id": 3509,
+    "title": [
+      "[Ta'Vaalor, Gaeld Var]"
+    ],
+    "description": [
+      "Several small homes border the var, each finely crafted from grey stone and trimmed with copper guttering.  Elaborate steps lead to the front doors, each seemingly carved from large blocks of wood.  Lanterns are set above some of the doors while simple candle sconces adorn others.",
+      "Several small homes border the var, each finely crafted from grey stone and trimmed with copper guttering.  Elaborate steps lead to the front doors, each seemingly carved from large blocks of wood.  Lanterns are set above some of the doors while simple candle sconces adorn others, all burning now as they attempt to carve away at the blackness of night."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3507": "north",
+      "3510": "east",
+      "17805": "/rooms/3509/wayto/stringproc-17805.rb"
+    },
+    "timeto": {
+      "3507": 0.2,
+      "3510": 0.2,
+      "17805": "/rooms/3509/timeto/stringproc-17805.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100071
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      478,
+      784,
+      509,
+      812
+    ]
+  }
+}

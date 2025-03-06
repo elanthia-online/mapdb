@@ -1,0 +1,34 @@
+{
+  "checksum": "0da3383622f615b83e3175a2ed7e0a3e",
+  "room": {
+    "id": 14240,
+    "title": [
+      "[Anodheles Plaza, West]"
+    ],
+    "description": [
+      "Large silk cushions in alternating shades of white and yellow are spaced evenly across the marble floor.  Overhead, the illuminated ceiling depicts the sinuous body of a golden drake, yearning jaws striving for its own tail.  Between a pair of marble pillars supporting a banistered balcony, a patterned velvet carpet proceeds toward an ora-bound honey oak door."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "13506": "southeast",
+      "14241": "go door",
+      "14245": "northeast"
+    },
+    "timeto": {
+      "13506": 0.2,
+      "14241": 0.2,
+      "14245": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749507
+    ]
+  }
+}

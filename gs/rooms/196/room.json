@@ -1,0 +1,47 @@
+{
+  "checksum": "7a904b8ab7dcc9d7c7cfe10457afbb08",
+  "room": {
+    "id": 196,
+    "title": [
+      "[Ta'Illistim, BriarStone Court]",
+      "[Ta'Illistim, Moonglae Var]"
+    ],
+    "description": [
+      "Several small shops surround the cobblestoned court.  From one of the smaller establishments, a low greystone building with colored glaes windows and pleasant yellow curtains, a rich, sugary smell wafts into the square.  A slight smile comes to the face of many elves as they pass by.",
+      "Several small shops surround the cobblestoned court.  From one of the smaller establishments, a low marble building with colored glass windows and pale blue curtains, a rich, sugary smell wafts into the square.  Above the shop's blue door hangs a polished oak signboard."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "7": "northeast",
+      "171": "south",
+      "208": "north",
+      "624": "go building"
+    },
+    "timeto": {
+      "7": 0.2,
+      "171": 0.2,
+      "208": 0.2,
+      "624": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101018
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      481,
+      500,
+      503,
+      520
+    ]
+  }
+}

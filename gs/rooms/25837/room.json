@@ -1,0 +1,40 @@
+{
+  "checksum": "ae0a168b06f5b70b1b010e7d64ab197b",
+  "room": {
+    "id": 25837,
+    "title": [
+      "[Stone Manor, Atrium]"
+    ],
+    "description": [
+      "The manor opens up into a large circular chamber with a high glass dome ceiling.  A dark ironwood tree rises up from the center of the room, its branches bathed in moonlight from above.  Finely dressed servants bustle between a mahogany archway and a long hallway, while a wide stairwell ascends to the second floor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Stone Manor, outside the island town of Mist Harbor",
+    "wayto": {
+      "25836": "go doors",
+      "25838": "go hallway",
+      "25839": "go archway",
+      "25840": "go patio door",
+      "25841": "go stair"
+    },
+    "timeto": {
+      "25836": 0.2,
+      "25838": 0.2,
+      "25839": 0.2,
+      "25840": 0.2,
+      "25841": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      440,
+      1580,
+      480,
+      1619
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "d90a2b172d4ad13ef130146ef76c91e3",
+  "room": {
+    "id": 19663,
+    "title": [
+      "[Cavernhold, Dark Intersection]"
+    ],
+    "description": [
+      "This intersection of three passages is quite dark.  One small patch of the strange glowing fungus grows on the ceiling in the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19660": "southwest",
+      "19664": "southeast",
+      "19665": "northeast"
+    },
+    "timeto": {
+      "19660": 0.2,
+      "19664": 0.2,
+      "19665": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10025
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      714,
+      969,
+      719,
+      978
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "checksum": "90d5f4f6e0e2147b8d69d2551af2067b",
+  "room": {
+    "id": 7284,
+    "title": [
+      "[Slither Creek, South Bank]"
+    ],
+    "description": [
+      "The banks of the creek are softer here than to the east, although access to the creek is still possible.  To the west, the ground seems more damp, and a humming sound can be heard from that direction."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "cold, damp",
+    "terrain": "riparian",
+    "wayto": {
+      "7283": "east",
+      "7285": "west",
+      "7291": "go creek"
+    },
+    "timeto": {
+      "7283": 0.2,
+      "7285": 0.2,
+      "7291": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "wild gooseberry",
+      "white hook mushroom",
+      "fiddlehead fern",
+      "blue trafel mushroom",
+      "bright red cranberry",
+      "stalk of bluebells",
+      "sprig of wild lilac",
+      "wintergreen leaf",
+      "acantha leaf",
+      "ephlox moss",
+      "aloeas stem",
+      "withered black mushroom",
+      "bright red teaberry",
+      "blueberries",
+      "stalk of cattail",
+      "small wild rose",
+      "wild chokecherry",
+      "murdroot",
+      "wavepetal blossom",
+      "ironfern root",
+      "talneo root",
+      "meta:forage-sensed",
+      "pearly green vine",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2156012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      142,
+      250,
+      152,
+      260
+    ]
+  }
+}

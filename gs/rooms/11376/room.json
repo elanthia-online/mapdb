@@ -1,0 +1,42 @@
+{
+  "checksum": "15714ee4aaf7e2abd7dd8e70a2fd06ed",
+  "room": {
+    "id": 11376,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "A cool draft blows down the spiral stone staircase in this corner of the hallway, sending the dust on the floor into intricate spirals in the air."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11375": "climb staircase",
+      "11377": "west",
+      "11381": "south",
+      "11383": "east"
+    },
+    "timeto": {
+      "11375": 0.2,
+      "11377": 0.2,
+      "11381": 0.2,
+      "11383": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377027
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      346,
+      1289,
+      356,
+      1299
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checksum": "efda3bf7f4e9e1c95cc8f2ce023988b7",
+  "room": {
+    "id": 18478,
+    "title": [
+      "[Grawood Farmstead, Maze]"
+    ],
+    "description": [
+      "The thick carpeting of corn husks crunch softly underfoot as you make your way through the winding maze.  Flowers have been strewn across the field, littering the ground with patches of color."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18477": "northeast",
+      "18479": "southeast"
+    },
+    "timeto": {
+      "18477": 0.2,
+      "18479": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

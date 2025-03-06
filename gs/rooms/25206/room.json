@@ -1,0 +1,42 @@
+{
+  "checksum": "5b22b42b5072ad7b9777c2b5cf5a783e",
+  "room": {
+    "id": 25206,
+    "title": [
+      "[Dark Cavern]"
+    ],
+    "description": [
+      "Large torches burn brightly on either side of the walls, illuminating the thin rivulets of water that trickle down silently from tiny cracks upon the ceiling.  Several twisting tunnels branch out in different directions from here, leading into the darkness.  The outlines of shallow footprints dot the earthen floor, trailing off into the winding corridors of stone."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "25202": "south",
+      "25207": "northeast"
+    },
+    "timeto": {
+      "25202": 0.2,
+      "25207": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4900302
+    ]
+  }
+}

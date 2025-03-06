@@ -1,0 +1,53 @@
+{
+  "checksum": "315571b293c73715af8aff01b72e2a3c",
+  "room": {
+    "id": 17682,
+    "title": [
+      "[Smuggler's Tunnels, Wide Tunnel]"
+    ],
+    "description": [
+      "Nearly a cavern unto itself, the tunnel widens considerably into a large chamber illuminated by four torches set along its length.  Two alcoves have been cut into either side of the tunnel, one with stone steps leading upwards, and another with a ladder disappearing into the ceiling.  Somewhere in the darkness, crickets chirp contently."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "17681": "west",
+      "17683": "southeast",
+      "17684": "climb steps",
+      "23208": "go ladder"
+    },
+    "timeto": {
+      "17681": 0.2,
+      "17683": 0.2,
+      "17684": 0.2,
+      "23208": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "genkew mushroom",
+      "black hook mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      5009013
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      954,
+      1084,
+      992,
+      1121
+    ]
+  }
+}

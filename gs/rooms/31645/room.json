@@ -1,0 +1,36 @@
+{
+  "checksum": "ede058c7c5da683fc448d14fb3d80d67",
+  "room": {
+    "id": 31645,
+    "title": [
+      "[Second Floor, Ascent]"
+    ],
+    "description": [
+      "A gold-framed painting adorns the top of a decorative golden linden entry, the cityscape painted in muted tones and obscured by thin cobwebs draped along the ceiling and railings of blackened iron like macabre lacework.  To the right of the entry stands a suit of wren-engraved armor forged from pale steel, its arm held aloft, longsword angled at a set of wide stairs covered in dark velvet.  Heavy gouges litter the geometrical floor, the scuff marks distinguished by curls of steel and scorched wood."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31610": "east",
+      "31646": "go stairs",
+      "31647": "go golden entry",
+      "31648": "west"
+    },
+    "timeto": {
+      "31610": 0.2,
+      "31646": 0.2,
+      "31647": 0.2,
+      "31648": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084043
+    ]
+  }
+}

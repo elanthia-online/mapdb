@@ -1,0 +1,42 @@
+{
+  "checksum": "d5d5319a7bfb177f1e47a9cd644bfd30",
+  "room": {
+    "id": 13987,
+    "title": [
+      "[Castle Varunar, Outer Gate]"
+    ],
+    "description": [
+      "This is the heart of the outer castle wall.  The stone blocks that surround you have been expertly hewn and fitted with dwarven craftsmanship.  You can almost feel the weight of the 40-foot tall walls that tower above you."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Castle Varunar",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "13986": "south",
+      "13988": "north"
+    },
+    "timeto": {
+      "13986": 0.2,
+      "13988": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "agave heart",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750005
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      658,
+      418,
+      668,
+      428
+    ]
+  }
+}

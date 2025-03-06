@@ -1,0 +1,44 @@
+{
+  "checksum": "084847f8f40ff135501b58a954ec7426",
+  "room": {
+    "id": 696,
+    "title": [
+      "[Ta'Illistim, Sylvar Wey]"
+    ],
+    "description": [
+      "To the northeast, the lights of the airship docks are clearly visible.  Airships waiting for a berth circle lazily in the air above, distinguishable only by the lantern light they carry aboard.",
+      "To the northeast, the airship docks are visible, the elves scrambling along the docks and ships appearing tiny in the distance.  Airships waiting for a berth circle lazily in the air above.",
+      "To the northeast, the raised platforms of the brightly lit airship docks are partially visible, along with the tethered ships themselves.  Buildings in-between block out a complete view, showing the docks in marble-punctuated sections.",
+      "To the northeast, the raised platforms of the airship docks are partially visible, along with the tethered ships themselves.  Buildings in-between block out a complete view, showing the docks in marble-punctuated sections."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "695": "southwest",
+      "697": "northeast"
+    },
+    "timeto": {
+      "695": 0.2,
+      "697": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100072
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1031,
+      369,
+      1053,
+      390
+    ]
+  }
+}

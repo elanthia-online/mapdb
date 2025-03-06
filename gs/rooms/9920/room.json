@@ -1,0 +1,42 @@
+{
+  "checksum": "fcb0f35d3b89f7379d19b3fdc2b024af",
+  "room": {
+    "id": 9920,
+    "title": [
+      "[The Feystone Inn, Entry]"
+    ],
+    "description": [
+      "The entry hall of the inn is small and stuffy, smelling as if the place hasn't been aired out in years.  A ratty tapestry covers the wall opposite the front entrance, its fabric too moth-eaten to discern what the scene upon it may have once depicted.  Raucous noise comes from behind a swinging door in the south wall."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "658": "out",
+      "9921": "north",
+      "9922": "go staircase",
+      "15608": "go door"
+    },
+    "timeto": {
+      "658": 0.2,
+      "9921": 0.2,
+      "9922": 0.2,
+      "15608": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13116001
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      433,
+      613,
+      443,
+      623
+    ]
+  }
+}

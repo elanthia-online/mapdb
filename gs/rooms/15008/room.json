@@ -1,0 +1,29 @@
+{
+  "checksum": "7ef82494df674696c047412bbb91e49c",
+  "room": {
+    "id": 15008,
+    "title": [
+      "[Cristalia's Collectibles]"
+    ],
+    "description": [
+      "Beneath a mistwood beam ceiling, a tattered merchant permit hangs on one of the glossy mistwood walls.  A series of low oak shelves and an etched brass bin sit in opposite corners while a thick off-white carpet rests on the plank floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "375": "out",
+      "15419": "east",
+      "15420": "north"
+    },
+    "timeto": {
+      "375": 0.2,
+      "15419": 0.2,
+      "15420": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

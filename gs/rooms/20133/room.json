@@ -1,0 +1,24 @@
+{
+  "checksum": "51995d21a2e89f06464535e57a6b9e5d",
+  "room": {
+    "id": 20133,
+    "title": [
+      "[Canvas Closet]"
+    ],
+    "description": [
+      "Two of the rough wooden walls of the shack lean slightly inward, braced to keep from collapsing entirely by a system of improvised levers and joists.  The canvas ceiling overhead dips downwards in the middle, burdened by what appears to be a sloshing liquid weight.  Set out of range of any potential drips are two roughly hewn crates.  A skewed opening leads out to the front of the shop and a canvas curtain leads out the back."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20132": "go opening",
+      "20134": "go curtain"
+    },
+    "timeto": {
+      "20132": 0.2,
+      "20134": 0.2
+    }
+  }
+}

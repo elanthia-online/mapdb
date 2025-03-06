@@ -1,0 +1,53 @@
+{
+  "checksum": "2a691f003e783930a4330f6a66d9fd06",
+  "room": {
+    "id": 12155,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "An immense tapestry hangs here in midair.  Thin magical threads create the shimmering cloth, almost seeming to move and adjust themselves as they hang.  Several long, shadowy outlines hover near the tapestry, attending to the minor knots and slips.  At this position you are too close to see the entire work of art, but it does seem somehow familiar."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest",
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12155/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12155/wayto/stringproc-2635.rb",
+      "2643": "northwest",
+      "12093": "/rooms/12155/wayto/stringproc-12093.rb",
+      "12154": "southwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "2643": 0.2,
+      "12093": 21.6,
+      "12154": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567039
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      948,
+      726,
+      958,
+      736
+    ]
+  }
+}

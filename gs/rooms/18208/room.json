@@ -1,0 +1,40 @@
+{
+  "checksum": "4f4bd25973ba0822fd9f1471b1755050",
+  "room": {
+    "id": 18208,
+    "title": [
+      "[Path to Enlightenment]"
+    ],
+    "description": [
+      "Serious and stately, this part of the garden is decorated with a number of fine statues, each of them depicting a scene from Elanthian history and mythology.  A black obsidian monolith catches your attention, as much for its striking beauty as for it being so different from the other elegant works here."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "18207": "northwest",
+      "18209": "southeast"
+    },
+    "timeto": {
+      "18207": 0.2,
+      "18209": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:society:Order of Voln"
+    ],
+    "uid": [
+      312005
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      75,
+      279,
+      86,
+      289
+    ]
+  }
+}

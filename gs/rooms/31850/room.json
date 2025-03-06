@@ -1,0 +1,36 @@
+{
+  "checksum": "45d8734c00c459625fbda6f7d5d91a0c",
+  "room": {
+    "id": 31850,
+    "title": [
+      "[The Art of the Drapery]"
+    ],
+    "description": [
+      "Metal-framed sketchings are artfully arranged along the haon-planked walls of the shop, each depicting a silhouette draped in a hand-drawn gown of charcoal and watercolors.  A velvet-padded rack wrought into a trellis of metal roses stands opposite of a vase-framed ebonwood counter, the displays both wrapped in tendrils of faenor-forged ivy.  A trio of wire-framed mannequins stand posed alongside each wall, each figure grasping a bouquet of dried flora."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31765": "out",
+      "31851": "northeast",
+      "31852": "northwest",
+      "32212": "go hazy circle"
+    },
+    "timeto": {
+      "31765": 0.2,
+      "31851": 0.2,
+      "31852": 0.2,
+      "32212": 200
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084161
+    ]
+  }
+}

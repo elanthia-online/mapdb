@@ -1,0 +1,44 @@
+{
+  "checksum": "92765ea58ea305325752ad1b43d1b25e",
+  "room": {
+    "id": 6175,
+    "title": [
+      "[Hidden Plateau, Ruins]"
+    ],
+    "description": [
+      "Dilapidated metal fire pits flank the massive, broken doors that form the entryway into the building.  Grime-covered shards of blue, white, and yellow stone form a detailed mosaic of the sun rising over some mountain peaks on the ceiling above.  Smooth marble floors stretch down the halls to the east, marred and scratched violently at random intervals."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, out"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6173": "out",
+      "6176": "northeast",
+      "6183": "southeast"
+    },
+    "timeto": {
+      "6173": 0.2,
+      "6176": 0.2,
+      "6183": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "agave heart",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2167023
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      143,
+      460,
+      177,
+      494
+    ]
+  }
+}

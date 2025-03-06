@@ -1,0 +1,51 @@
+{
+  "checksum": "83f48ccc736e2d2cc327208652a7c134",
+  "room": {
+    "id": 7493,
+    "title": [
+      "[Wehnimer's, Catacombs]"
+    ],
+    "description": [
+      "Thick, damp air makes it hard to breathe as you trudge along this narrow, winding tunnel.  Odd scratch marks cover the ceiling and walls here as if something has been burrowing recently, but left in a hurry."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the catacombs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7492": "northeast",
+      "7499": "west"
+    },
+    "timeto": {
+      "7492": 0.2,
+      "7499": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      46058
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      795,
+      994,
+      805,
+      1004
+    ]
+  }
+}

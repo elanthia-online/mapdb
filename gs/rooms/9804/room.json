@@ -1,0 +1,38 @@
+{
+  "checksum": "3e0ae20c4b748d0ea5ebe49dddd973a7",
+  "room": {
+    "id": 9804,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "The scent of moistened clay and dirt permeates the air and lingers, perhaps due to the high volume of condensation.  Water droplets hitting the dampened clay floor echo all around the tunnel."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9768": "southwest",
+      "9803": "north"
+    },
+    "timeto": {
+      "9768": 0.2,
+      "9803": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022027
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1150,
+      571,
+      1160,
+      581
+    ]
+  }
+}

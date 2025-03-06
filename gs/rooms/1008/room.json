@@ -1,0 +1,54 @@
+{
+  "checksum": "c4b2c4beeeb1ea4aa42eaf0913005ad8",
+  "room": {
+    "id": 1008,
+    "title": [
+      "[Zul Logoth, Ruby Tunnel]"
+    ],
+    "description": [
+      "Colorful depictions of outdoor homes have been painted upon the walls in realistic detail.  Only the doors are real, though.  A white marble mansion looms on the north wall, complete with black wrought ironwork along its curtained windows.  The south wall displays a cute pink bungalow nestled within a stand of birch trees.  In the split between the northeast tunnel and the southeast tunnel, the bottom floor of a circular stone tower looms with candle-lit windows."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1007": "northeast",
+      "1009": "west",
+      "9405": "southeast"
+    },
+    "timeto": {
+      "1007": 0.2,
+      "1009": 0.2,
+      "9405": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13006006
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      449,
+      626,
+      469,
+      646
+    ]
+  }
+}

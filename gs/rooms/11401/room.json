@@ -1,0 +1,40 @@
+{
+  "checksum": "9f1b697ee2f337322c09eb5964d238ac",
+  "room": {
+    "id": 11401,
+    "title": [
+      "[Citadel, Battlement]"
+    ],
+    "description": [
+      "Warm winds sweep over the battlement overlooking the northern half of the Citadel complex, offering a bird's eye view to the disrepair and destruction visited upon the fortress over the centuries.  A steel bucket sits by the wall, filled with rusted metal arrow heads interspersed with faded fletchings."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Citadel",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "11400": "west",
+      "11402": "east"
+    },
+    "timeto": {
+      "11400": 0.2,
+      "11402": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377334
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      496,
+      1302,
+      506,
+      1312
+    ]
+  }
+}

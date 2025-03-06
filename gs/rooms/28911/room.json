@@ -1,0 +1,47 @@
+{
+  "checksum": "293a97c61f3000b76d2ed01360d6d5be",
+  "room": {
+    "id": 28911,
+    "title": [
+      "[Kraken's Fall, Middle Arm Ave]"
+    ],
+    "description": [
+      "Large roasting pits and domed brick ovens encircle a round shack with a peaked thatch roof, the white smoke billowing from them fragrant with the scent of roasting meats and spices.  Smooth, loose stones are scattered about the cooking vessels to prevent fires, though here and there tufts of grass still manage to grow.  A sprawling coral-roofed villa is built against the very edges of the cobblestone avenue, its white face dimpled with shuttered windows."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28910": "west",
+      "28912": "east",
+      "28979": "go villa",
+      "29136": "go shack",
+      "30716": "/rooms/28911/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28910": 0.2,
+      "28912": 0.2,
+      "28979": "/rooms/28911/timeto/stringproc-28979.rb",
+      "29136": 0.2,
+      "30716": "/rooms/28911/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118216
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      669,
+      309,
+      684,
+      321
+    ]
+  }
+}

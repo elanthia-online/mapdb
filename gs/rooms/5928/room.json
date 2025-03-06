@@ -1,0 +1,49 @@
+{
+  "checksum": "94fb38d69785a737345c9ef65fa3bc3d",
+  "room": {
+    "id": 5928,
+    "title": [
+      "[Catacombs, Sewers]"
+    ],
+    "description": [
+      "To the west, the cavern narrows considerably as some of the walls have crumbled towards the middle of the passageway.  A clammy breeze stirs some dust into a whirlwind as it passes through the narrow openings in the crumbled stones.  A small river of water winds through the piles of refuse that litter the ground."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5927": "west",
+      "5929": "east"
+    },
+    "timeto": {
+      "5927": 0.2,
+      "5929": 0.2
+    },
+    "tags": [
+      "some bolmara lichen",
+      "some wingstem root",
+      "blue trafel mushroom",
+      "black hook mushroom",
+      "ironfern root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009037
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      375,
+      903,
+      381,
+      912
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "3a0e455eb167efa1850b655b802876a1",
+  "room": {
+    "id": 26605,
+    "title": [
+      "[Damsel of the Deep, Passageway]"
+    ],
+    "description": [
+      "Pale blue carpeting muffles extraneous noise between the staterooms lining the companionway, but sounds of dishes, glassware, and muted conversations drift in from a pair of heavy mahogany doors trimmed in brass which stand open at the aft end of the passage.  The swaying of brass lanterns suspended from the ceiling lends a rhythmic undulation of light back and forth across the teak panelled walls."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Damsel of the Deep",
+    "wayto": {
+      "26603": "north",
+      "26606": "go doors",
+      "26607": "go entrance",
+      "26608": "go black door"
+    },
+    "timeto": {
+      "26603": 0.2,
+      "26606": 0.2,
+      "26607": 0.2,
+      "26608": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      594,
+      748,
+      608,
+      761
+    ]
+  }
+}

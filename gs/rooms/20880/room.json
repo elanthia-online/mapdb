@@ -1,0 +1,41 @@
+{
+  "checksum": "e3cf0c59655920cea33878ba61744328",
+  "room": {
+    "id": 20880,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Climbing a small hill, you now look over a long valley filled with warriors.  A huge giantman in plate-mail stands at the front of the vanguard, holding a battle axe in each hand.  His skin is rotted and mildewed, and the hollow eye sockets drop bits of goo and small bugs.  The entire host of undead soldiers shifts anxiously behind him, as if waiting for a command from their chieftain."
+    ],
+    "paths": [
+      "Obvious exits: east, west",
+      "Obvious paths: east, west"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/20880/wayto/stringproc-2635.rb",
+      "12089": "/rooms/20880/wayto/stringproc-12089.rb",
+      "12152": "/rooms/20880/wayto/stringproc-12152.rb",
+      "12189": "west",
+      "20881": "east"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12189": 0.2,
+      "20881": 0.2
+    },
+    "uid": [
+      4568019
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      201,
+      1250,
+      210,
+      1260
+    ]
+  }
+}

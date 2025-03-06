@@ -1,0 +1,38 @@
+{
+  "checksum": "4167bf80b10f05bee7e2c04fec684287",
+  "room": {
+    "id": 1934,
+    "title": [
+      "[Adventurers' Rest, Foyer]"
+    ],
+    "description": [
+      "As the heavy doors close behind you, the bustle of the street fades away.  Banners from the various Wehnimer's Landing Houses are mixed with other, unfamiliar banners hanging along the walls."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1933": "out",
+      "1935": "east",
+      "1942": "west",
+      "14697": "go desk"
+    },
+    "timeto": {
+      "1933": 0.2,
+      "1935": 0.2,
+      "1942": 0.2,
+      "14697": 0.2
+    },
+    "uid": [
+      3003028
+    ],
+    "image": "ti-adventurers_rest-1486448911.png",
+    "image_coords": [
+      177,
+      670,
+      324,
+      733
+    ]
+  }
+}

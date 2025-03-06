@@ -1,0 +1,52 @@
+{
+  "checksum": "b6674c1a7ba51f39bc355c338ed710d2",
+  "room": {
+    "id": 34509,
+    "title": [
+      "[Bleaklands, Storm Plains]"
+    ],
+    "description": [
+      "A rumbling of fuliginous clouds billow in the distance, brief flashes of gold light illuminating their edges.   Momentarily, the ground seems to expand before returning to its lifeless state."
+    ],
+    "paths": [
+      "Obvious paths: north, west"
+    ],
+    "location": "Bleaklands",
+    "climate": "arid",
+    "terrain": "rough",
+    "wayto": {
+      "7927": "/rooms/34509/wayto/stringproc-7927.rb",
+      "34508": "west",
+      "34510": "north"
+    },
+    "timeto": {
+      "7927": 1,
+      "34508": 0.2,
+      "34510": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "broken twig",
+      "heath aster",
+      "yellow primrose",
+      "small wild rose",
+      "cactus flower",
+      "pepperthorn root",
+      "banana leaf",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      474204
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      185,
+      424,
+      196,
+      435
+    ]
+  }
+}

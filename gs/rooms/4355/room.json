@@ -1,0 +1,32 @@
+{
+  "checksum": "2b999e2dbb1f4f1ff827eaa2625b14fa",
+  "room": {
+    "id": 4355,
+    "title": [
+      "[Emerald Level, Southwest Shaft]"
+    ],
+    "description": [
+      "Miners crowd the tunnel, most looking over a jagged vein along one wall.  The ore doesn't look particularly impressive, but perhaps it is evidence of a richer deposit nearby.  Two of the dwarves, evidently supervisors, shout out orders and delegate work details."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4348": "northeast",
+      "4356": "go bore",
+      "4358": "go drift",
+      "4361": "southwest"
+    },
+    "timeto": {
+      "4348": 0.2,
+      "4356": 0.2,
+      "4358": 0.2,
+      "4361": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

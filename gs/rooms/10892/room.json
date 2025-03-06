@@ -1,0 +1,43 @@
+{
+  "checksum": "35054a18d81bfb79ac214726a93cd215",
+  "room": {
+    "id": 10892,
+    "title": [
+      "[River's Rest Hoosegow]"
+    ],
+    "description": [
+      "Tall, thick walls of orange-hued stucco surround a courtyard paved with grey riverstone slabs.  The hot, humid night air carries the fecund smell of a nearby salt creek.  In the center of the courtyard is a statue carved in milky-colored granite.  A studded iron portcullis guards the entrance to the hoosegow rotunda.  A keyhole arch leads out.",
+      "Tall, thick walls of orange-hued stucco surround a courtyard paved with grey riverstone slabs.  The hot, humid air carries the fecund smell of a nearby salt creek.  In the center of the courtyard is a statue carved in milky-colored granite.  A studded iron portcullis guards the entrance to the hoosegow rotunda.  A keyhole arch leads out."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "River's Rest",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10891": "go arch",
+      "16117": "go portcullis"
+    },
+    "timeto": {
+      "10891": 0.2,
+      "16117": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      5007001
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      1543,
+      799,
+      1566,
+      821
+    ]
+  }
+}

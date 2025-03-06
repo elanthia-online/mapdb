@@ -1,0 +1,44 @@
+{
+  "checksum": "bb8d7157d578a9b4c11457be8df44868",
+  "room": {
+    "id": 26903,
+    "title": [
+      "[Bloodriven Village, Exterior]"
+    ],
+    "description": [
+      "The cobblestones are crumbling on this stretch of the path.  Alongside the road, wagon wheel-sized ruts run deep in the dirt, and a broken wheel lays forgotten in the high weeds."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "Bloodriven Village",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "23732": "go studio",
+      "26848": "north",
+      "26904": "southwest",
+      "31411": "go ladder"
+    },
+    "timeto": {
+      "23732": 0.2,
+      "26848": 0.2,
+      "26904": 0.2,
+      "31411": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8214503
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      691,
+      983,
+      720,
+      1011
+    ],
+    "check_location": false
+  }
+}

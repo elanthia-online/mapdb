@@ -1,0 +1,32 @@
+{
+  "checksum": "39af00a3662f6a7202b0d3702714a491",
+  "room": {
+    "id": 8635,
+    "title": [
+      "[Wehnimer's Shop, Waiting Area]"
+    ],
+    "description": [
+      "Cushioned ladder-backed chairs surround a plush, snow white bear rug.  Affixed in the eye sockets are a pair of brilliant dragonsbreath sapphires and long, slightly yellowed pieces of ivory serve as the fangs.  Edged in gold braiding, the tapestry on the back wall depicts several males encircling a kneeling individual as they work together to wrestle an object from his grasp."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "8634": "south",
+      "8916": "/rooms/8635/wayto/stringproc-8916.rb",
+      "14360": "/rooms/8635/wayto/stringproc-14360.rb"
+    },
+    "timeto": {
+      "8634": 0.2,
+      "8916": "/rooms/8635/timeto/stringproc-8916.rb",
+      "14360": "/rooms/8635/timeto/stringproc-14360.rb"
+    },
+    "tags": [
+      "travel waiting room"
+    ],
+    "uid": [
+      112014
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "015fe451e5b2d8db24b370569d040568",
+  "room": {
+    "id": 9463,
+    "title": [
+      "[Mraent Cavern, Garnet Mine]"
+    ],
+    "description": [
+      "The walls of this small mine remain studded with almandine garnets, despite the pockmarks that show where gems have been pried from the black and grey gneiss.  A thin layer of flaky stone covers one corner of the floor like dust."
+    ],
+    "paths": [
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9462": "northeast",
+      "9464": "west",
+      "9465": "/rooms/9463/wayto/stringproc-9465.rb"
+    },
+    "timeto": {
+      "9462": 0.2,
+      "9464": 0.2,
+      "9465": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008032
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      357,
+      279,
+      367,
+      289
+    ]
+  }
+}

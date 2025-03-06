@@ -1,0 +1,32 @@
+{
+  "checksum": "97c374a6e42103d4594d17f3b004689f",
+  "room": {
+    "id": 18402,
+    "title": [
+      "[The Write Stop, Entry]"
+    ],
+    "description": [
+      "Dark oak walls enclose the brightly lit room, offering plenty of light to the cramped entryway.  A large mahogany counter stands before an iron-hinged oak door, which has a granite plaque hanging from the doorsill.  A gold-edged, scarlet rug barely covers the dusty floors of the wagon, which branch off to the east and west."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18401": "out",
+      "18403": "go door",
+      "18584": "northwest",
+      "18585": "northeast"
+    },
+    "timeto": {
+      "18401": 0.2,
+      "18403": 0.2,
+      "18584": 0.2,
+      "18585": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

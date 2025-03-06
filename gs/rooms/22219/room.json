@@ -1,0 +1,84 @@
+{
+  "checksum": "9d0cb0df77e18a72727d8bb30469f39a",
+  "room": {
+    "id": 22219,
+    "title": [
+      "[Miasmal Forest, Ghostly Trees]"
+    ],
+    "description": [
+      "Rotting reeds and marsh grasses mix with the turbid water to befoul the air with a noxious stench.  The sickly trees rising from the miasma look like skeletal figures reaching into the befouled mist.  The trails disappear into the thick chalky mist."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "moist",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11620": "/rooms/22219/wayto/stringproc-11620.rb",
+      "11622": "/rooms/22219/wayto/stringproc-11622.rb",
+      "11652": "north",
+      "11653": "/rooms/22219/wayto/stringproc-11653.rb",
+      "16124": "southwest"
+    },
+    "timeto": {
+      "11620": 0.8,
+      "11622": 0.8,
+      "11652": 0.2,
+      "11653": 0.4,
+      "16124": 0.2
+    },
+    "tags": [
+      "peer north =~ /^Obvious paths: north, northeast, east, south/",
+      "calamia fruit",
+      "aloeas stem",
+      "trollfear mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "water chestnut",
+      "stalk of cattail",
+      "spider lily",
+      "alligator lily",
+      "kylan berry",
+      "yellow heliconia",
+      "orange heliconia",
+      "pink heliconia",
+      "red heliconia",
+      "purple passionflower",
+      "pink passionflower",
+      "red passionflower",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5004016
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      707,
+      448,
+      717,
+      456
+    ],
+    "check_location": false
+  }
+}

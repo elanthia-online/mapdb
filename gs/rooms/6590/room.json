@@ -1,0 +1,38 @@
+{
+  "checksum": "cf91334c203494c4fb2de4c71d128d2a",
+  "room": {
+    "id": 6590,
+    "title": [
+      "[Curtain Wall Building]"
+    ],
+    "description": [
+      "The splintered remains of tables and benches are strewn about this large chamber.  Antiquated pikes are still mounted at intervals along the walls, suggesting this was the castle barracks.  Over in a dark corner, something scuttles about in the debris."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6589": "go door",
+      "6591": "north"
+    },
+    "timeto": {
+      "6589": 0.2,
+      "6591": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285021
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      783,
+      735,
+      793,
+      745
+    ]
+  }
+}

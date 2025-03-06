@@ -1,0 +1,43 @@
+{
+  "checksum": "838bcb4e93b65ffcd81e207c4195bed5",
+  "room": {
+    "id": 26923,
+    "title": [
+      "[Inking Den, Annex Hallway]"
+    ],
+    "description": [
+      "Frosted globes nestled within decorative wall sconces provide a steady glow of welcoming light down the long corridor.  The walls are hidden behind bright ivory white silk drapery, the soft ends of which pool upon the thick cerulean and azure carpet.  Built into opposing walls, a lacquered beige door and a lacquered white door part the drapery and have a trio of brightly glowing globes directly above their pointed, cinquefoil frames."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "7705": "southwest",
+      "27683": "northeast",
+      "33155": "go white door"
+    },
+    "timeto": {
+      "7705": 0.2,
+      "27683": 0.2,
+      "33155": 0.2
+    },
+    "tags": [
+      "peer door =~ /White Haven|Helden Hall/",
+      "golden hook mushroom",
+      "broken twig",
+      "wild chokecherry",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      7121206
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      715,
+      317,
+      743,
+      342
+    ]
+  }
+}

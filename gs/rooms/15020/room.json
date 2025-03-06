@@ -1,0 +1,29 @@
+{
+  "checksum": "955e4fe3bc76aa491a55303b25de8434",
+  "room": {
+    "id": 15020,
+    "title": [
+      "[Kelestra's Weaponry]",
+      "[Kelestra's Outfitting]"
+    ],
+    "description": [
+      "Mottled grey marble walls rise from a speckled black marble floor.  Just above a sphere-topped black marble fountain hangs a pair of crossed bones, and a pebble textured ceiling completes the picture.  A narrow glass-topped table and an oval-shaped speckled marble counter stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "370": "out",
+      "15033": "east",
+      "15034": "north"
+    },
+    "timeto": {
+      "370": 0.2,
+      "15033": 0.2,
+      "15034": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

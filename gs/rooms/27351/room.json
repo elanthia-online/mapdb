@@ -1,0 +1,32 @@
+{
+  "checksum": "6c6448f77595a0a1a514da5cffc499bb",
+  "room": {
+    "id": 27351,
+    "title": [
+      "[Irreplaceable Items on Ice]"
+    ],
+    "description": [
+      "The scent of pine is strong here, but works in concert with the decor of this efficient store.  A dusting of snow covers every flat surface, falling off the edges in a frozen tableau.  Wide green shelves line the walls, festooned with nooks and crannies of every imaginable shape and size.  Despite the amount of storage, not a single space is unoccupied.  Halfling attendants scurry about, assisting customers as needed, but remaining busy with any number of small tasks."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2471": "go out",
+      "30709": "/rooms/27351/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2471": 0.2,
+      "30709": "/rooms/27351/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "collectibles",
+      "urchin-access",
+      "urchin guide collectibles"
+    ],
+    "uid": [
+      4043410
+    ]
+  }
+}

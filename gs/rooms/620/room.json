@@ -1,0 +1,45 @@
+{
+  "checksum": "45c638b182b24ae8c3ed4b3597fcd235",
+  "room": {
+    "id": 620,
+    "title": [
+      "[Ta'Illistim, Moonglae Var]"
+    ],
+    "description": [
+      "A sleepy songbird chirps from within the safety of some thick holly bushes that obscure a greystone cottage alongside the var.  An elderly elf peers out of a lighted window, with a distinctly unwelcoming look on his face.  Noticing your attention, he scowls and pulls the dark curtains closed.",
+      "An elderly elf sweeps the cobblestones that pave the var in front of his home.  Muttering something about snoops and strangers, he glares at every passerby.  His humble greystone cottage is partially hidden by a hedge of thick holly bushes, whose sharp-edged needles threaten to tear the fabric of your clothing if you pass too near.",
+      "Two pieces of crumbly silvery blue stonework cross over the var, forming a near complete arch.  The broken gap in the masonry is jagged, but with edges gone soft with age and the elements.  A respectful space surrounds the base of the structure on both sides of the road, separating it from the houses that sit nearby."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "619": "northeast",
+      "621": "southwest",
+      "25984": "go walkway"
+    },
+    "timeto": {
+      "619": 0.2,
+      "621": 0.2,
+      "25984": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101041
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      779,
+      144,
+      803,
+      165
+    ]
+  }
+}

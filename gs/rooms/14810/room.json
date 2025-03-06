@@ -1,0 +1,34 @@
+{
+  "checksum": "574417722ade82cfc67f7c1193d80875",
+  "room": {
+    "id": 14810,
+    "title": [
+      "[Bridge of Tall Steps]"
+    ],
+    "description": [
+      "The stair passes over a yawning abyss, its floor occasionally obscured by low-flying wisps of cloud.  At the steps' conclusion stands an imposing arched door, offering entrance into a towering edifice with walls rising in ivory colored grace to a cantilevered roofline high overhead.  On the handrail, a small sign is mounted, announcing this to be The Aerie, a famous theater owned and maintained by the local Bardic Guild."
+    ],
+    "paths": [
+      "Obvious paths: down"
+    ],
+    "location": "Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12386": "down",
+      "14811": "go door"
+    },
+    "timeto": {
+      "12386": 0.2,
+      "14811": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      282203
+    ]
+  }
+}

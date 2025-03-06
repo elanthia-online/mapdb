@@ -1,0 +1,34 @@
+{
+  "checksum": "03fba5a00151d871453f0a7f6aa3bfcb",
+  "room": {
+    "id": 24769,
+    "title": [
+      "[Helden Hall, Eastern Passage]"
+    ],
+    "description": [
+      "This passage dead ends at a sturdy oaken door.  Looking closely at the door shows a handsome carving engraved upon it, featuring a longship with two fearsome conquerors standing at the helm."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "15474": "west",
+      "24773": "go door"
+    },
+    "timeto": {
+      "15474": 0.2,
+      "24773": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      831,
+      731,
+      868,
+      767
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "checksum": "c8a3efb33c6845ad54c5c5fa57f90de1",
+  "room": {
+    "id": 28464,
+    "title": [
+      "[Precious Stones, Entry]"
+    ],
+    "description": [
+      "The heavy wooden doors open into a large, austere room.  At regular intervals, elaborately carved sconces dot the walls.  Though plentiful, the wall-sconces' flickering lights provide poor illumination in the cool, dank room.  The macabre, chiseled designs of the candleholders cast frightful, looming shapes upon the smooth stone walls.  A large portrait of a rather small and unassuming man is the lone decoration adorning the walls of the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "28461": "go doors",
+      "28465": "go stone archway",
+      "28803": "go heavy doors"
+    },
+    "timeto": {
+      "28461": 0.2,
+      "28465": 0.2,
+      "28803": 0.2
+    }
+  }
+}

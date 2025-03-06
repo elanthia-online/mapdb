@@ -1,0 +1,34 @@
+{
+  "checksum": "0b08939fc063624361e27df6f5ca6862",
+  "room": {
+    "id": 12822,
+    "title": [
+      "[Solhaven Registrar's Office]"
+    ],
+    "description": [
+      "Thick ledgers in orderly rows fill bookshelves along all four walls.  Several chairs are set against one wall for those waiting to rest their bones.  A counter splits the office in two, separating the waiting area from the registration enclosure.  A large desk sits in the middle of the enclosure with an elderly clerk ensconced behind it.  A sign is posted on the counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12819": "go door",
+      "13503": "go enclosure"
+    },
+    "timeto": {
+      "12819": 0.2,
+      "13503": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4740500
+    ]
+  }
+}

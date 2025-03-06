@@ -1,0 +1,29 @@
+{
+  "checksum": "64fd6c5468424d57b3e2fbaddb04e829",
+  "room": {
+    "id": 15732,
+    "title": [
+      "[Armundia's Magic Shoppe]"
+    ],
+    "description": [
+      "A tattered merchant permit hangs on one of the plain wooden walls, and an uneven wooden ceiling rises overhead.  A knotted woolen rug sits in one corner of an unfinished wooden floor.  There is a heavy wooden desk on one side of the shop and a low wrought iron table on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2315": "out",
+      "15759": "east",
+      "15760": "north"
+    },
+    "timeto": {
+      "2315": 0.2,
+      "15759": 0.2,
+      "15760": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checksum": "1d3d532c757cbb4b5f8203e0f1cc2988",
+  "room": {
+    "id": 26530,
+    "title": [
+      "[Caligos Isle, Cavern Split]"
+    ],
+    "description": [
+      "Various sounds amplify within the expansive chamber, the flap of unseen wings drowned out by the screech of grinding rock against rock.  Thin steam vents create a curtain of vapor that obscures the offshoots along the grey-cast cavern, each vent exploding into a crescendo of hissing."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "26529": "up",
+      "26531": "go rope",
+      "26590": "northwest",
+      "26592": "northeast"
+    },
+    "timeto": {
+      "26529": 0.2,
+      "26531": 0.2,
+      "26590": 0.2,
+      "26592": 0.2
+    },
+    "image": "fest-ebon_gate-caligos_isle-1539222190.png",
+    "image_coords": [
+      659,
+      385,
+      674,
+      398
+    ]
+  }
+}

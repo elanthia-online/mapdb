@@ -1,0 +1,49 @@
+{
+  "checksum": "ac9d491b9a6cd19a987b747d433fcc4f",
+  "room": {
+    "id": 1504,
+    "title": [
+      "[Solhaven, Eastbridge Lane]",
+      "[Eastbridge, Disaster Area]"
+    ],
+    "description": [
+      "Paired temple gates stand on either side of the street, the gate to the east bearing the silver clenched fist of Kai and the gate to the west bearing the silver sword of Ronan.  Flanking Eastbridge Lane, the two temples guard the roadway from the bridge and the temples of Lornon south of the canal.",
+      "Paired temples stand to either side of the street.  The gate to the east bears the silver clenched fist of Kai, while to the west, a ruined opening leads in to the ransacked grounds of Ronan's Temple.  Flanking Eastbridge Lane, the two temples guard the roadway from the temples of Lornon south of the canal."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1470": "north",
+      "1503": "south",
+      "1600": "west",
+      "13314": "go crimson gate",
+      "17053": "go black gate"
+    },
+    "timeto": {
+      "1470": 0.2,
+      "1503": 0.2,
+      "1600": 0.2,
+      "13314": 0.2,
+      "17053": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209069
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      1063,
+      828,
+      1087,
+      852
+    ]
+  }
+}

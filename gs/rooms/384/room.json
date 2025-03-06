@@ -1,0 +1,32 @@
+{
+  "checksum": "dbb59317adc8886c7935764b12b679fe",
+  "room": {
+    "id": 384,
+    "title": [
+      "[Cooper's Shop, Workshop]"
+    ],
+    "description": [
+      "The crunch of wood shavings underfoot and the tangy scent of newly cut lumber indicate barrels are fitted and joined in this open workshop.  Mallets, chisels and hammers are neatly arranged in a tool chest on the floor.  Kegs in various states of completion surround you."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "383": "northwest",
+      "23976": "/rooms/384/wayto/stringproc-23976.rb"
+    },
+    "timeto": {
+      "383": 0.2,
+      "23976": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5023
+    ]
+  }
+}

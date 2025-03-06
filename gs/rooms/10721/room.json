@@ -1,0 +1,42 @@
+{
+  "checksum": "545e7337e753e6174d400d708276f0db",
+  "room": {
+    "id": 10721,
+    "title": [
+      "[Plains of Bone, Boneyard]"
+    ],
+    "description": [
+      "Large chitinous plates, possibly from kiramon, cover this stretch of the boneyard.  The plates interlock to form a patchwork of armor.  A few cracks have spread from larger holes which appear to be severe puncture wounds.  Night winds, cool and crisp, flow across the holes, creating a low whistle.",
+      "Large chitinous plates, possibly from kiramon, cover this stretch of the boneyard.  The plates interlock to form a patchwork of armor.  A few cracks have spread from larger holes which appear to be severe puncture wounds."
+    ],
+    "paths": [
+      "Obvious paths: south, northwest"
+    ],
+    "location": "the Plains of Bone",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10720": "northwest",
+      "10722": "south"
+    },
+    "timeto": {
+      "10720": 0.2,
+      "10722": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14011053
+    ],
+    "image": "en-cemetery-1617615116.png",
+    "image_coords": [
+      729,
+      128,
+      739,
+      139
+    ]
+  }
+}

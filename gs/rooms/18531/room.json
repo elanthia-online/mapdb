@@ -1,0 +1,32 @@
+{
+  "checksum": "f0f12c83cbee92462ec0443705ccb7e8",
+  "room": {
+    "id": 18531,
+    "title": [
+      "[Grawood Farmstead, Town]"
+    ],
+    "description": [
+      "Square wooden planters filled to overflowing with pansies in a variety of colors stand beside a set of thick modwir steps leading to the general store.  A pair of rocking chairs sit on the store's porch, while garlands of greenery and flowers are draped from the edge of the roof."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18528": "northeast",
+      "18532": "go steps",
+      "18534": "southwest",
+      "18552": "southeast"
+    },
+    "timeto": {
+      "18528": 0.2,
+      "18532": 0.2,
+      "18534": 0.2,
+      "18552": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

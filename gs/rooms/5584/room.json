@@ -1,0 +1,46 @@
+{
+  "checksum": "0bbb650e12eda670107e820d4a042b7b",
+  "room": {
+    "id": 5584,
+    "title": [
+      "[Ancient Shrine, Entry]"
+    ],
+    "description": [
+      "Built of stacked flagstones, it is clear that this  was constructed to symbolically house a place of reverence and not to provide real shelter.  The arched tunnel of the entry is separated from the tiny, domed altar chamber by a burlap curtain, and from the outside by nothing at all."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5583": "out",
+      "5587": "go curtain"
+    },
+    "timeto": {
+      "5583": 0.2,
+      "5587": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2120075
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      284,
+      999,
+      294,
+      1009
+    ]
+  }
+}

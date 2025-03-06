@@ -1,0 +1,44 @@
+{
+  "checksum": "d497b2e916760c80f8cbca6c3c1fc934",
+  "room": {
+    "id": 32341,
+    "title": [
+      "[Frostmain Docks, Crawling Pier]",
+      "[Frostmain, Main Pier]"
+    ],
+    "description": [
+      "Barnacles, black and unlovely, cling thick to the pilings near the water line and hold there miraculously despite the constant pounding of the frothing main.  Bright blue crabs dwell amidst the tenacious life, skittering and crawling here and there.  They are like jewels against the tenebrous grey of the sun-battered wood.",
+      "The thoroughfare of the main pier is wide and largely clear of debris.  Rotting barrels crowd to the sides of the dock, sprouting from heaps of netting, lines, and twine that have been similarly abandoned.  The cold has glazed all surfaces with a glistening coat of rime."
+    ],
+    "paths": [
+      "Obvious paths: north, south",
+      "Obvious paths: south"
+    ],
+    "location": "Frostmain Docks",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32342": "south",
+      "32354": "north"
+    },
+    "timeto": {
+      "32342": 0.2,
+      "32354": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      7133009
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      1200,
+      168,
+      1245,
+      215
+    ]
+  }
+}

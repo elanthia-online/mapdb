@@ -1,0 +1,30 @@
+{
+  "checksum": "800cc08e4770c18e6c592b11ee31f4c9",
+  "room": {
+    "id": 16381,
+    "title": [
+      "[Kylsie's General Store]",
+      "[Kylsie's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a sturdy bamboo-rafter ceiling, a Four Winds Isle map hangs on one of the gold-veined marble walls.  An ora-bound large walnut trunk and a wide faenor-trimmed table sit in opposite corners while a potted palm tree rests on an intricate patterned floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12269": "out",
+      "17533": "west",
+      "17534": "east"
+    },
+    "timeto": {
+      "12269": 0.2,
+      "17533": 0.2,
+      "17534": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

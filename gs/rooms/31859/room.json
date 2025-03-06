@@ -1,0 +1,49 @@
+{
+  "checksum": "2fd06694297a7b539c6bc4b735c00007",
+  "room": {
+    "id": 31859,
+    "title": [
+      "[Winterbriar Orchard]"
+    ],
+    "description": [
+      "Dark green hedges with rime-touched briars grow tall and thick, separating the area from the town beyond, and dozens of fruit trees grow in perfectly neat rows along one side of a wide cobblestone path.  Across the path, several cozy homes are scattered across a tree-strewn meadow and tucked amidst the edge of the hedges.  Several smaller walkways lead off the main path to more distant structures, and the main path forks widely, offering a choice between southeasterly and southwesterly."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "glacial",
+    "terrain": "grassland",
+    "wayto": {
+      "31571": "go lilac tunnel",
+      "31860": "southeast",
+      "31879": "southwest",
+      "31880": "go riverstone cabin",
+      "33935": "go roof cottage"
+    },
+    "timeto": {
+      "31571": 0.2,
+      "31860": 0.2,
+      "31879": 0.2,
+      "31880": 0.2,
+      "33935": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083070
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1205,
+      87,
+      1228,
+      109
+    ]
+  }
+}

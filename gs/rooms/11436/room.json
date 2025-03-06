@@ -1,0 +1,45 @@
+{
+  "checksum": "99e0b858e5774f002e689a52f014d684",
+  "room": {
+    "id": 11436,
+    "title": [
+      "[Tempest River, North Fork]"
+    ],
+    "description": [
+      "The wide Tempest River and the great Maelstrom Bay converge, creating choppy water that makes it difficult to see the sand floor of the river.  The cliff that forms the northern bank curves to the northeast.  On the south bank, barely visible from the water, is a sandy point stretching into the river.  The bay opens to the west.  The river runs to the east.",
+      "The wide Tempest River and the great Maelstrom Bay converge, creating choppy water that makes it difficult to see the sandy floor of the river.  The cliff that forms the northern bank curves to the northeast.  On the south bank, barely visible from the water, is a sandy point stretching into the river.  The bay opens to the west.  The river runs to the east."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11435": "/rooms/11436/wayto/stringproc-11435.rb",
+      "11437": "/rooms/11436/wayto/stringproc-11437.rb",
+      "11449": "/rooms/11436/wayto/stringproc-11449.rb",
+      "32874": "go steep trail"
+    },
+    "timeto": {
+      "11435": 2,
+      "11437": 2,
+      "11449": 2,
+      "32874": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304012
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      783,
+      1342,
+      793,
+      1352
+    ]
+  }
+}

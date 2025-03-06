@@ -1,0 +1,33 @@
+{
+  "checksum": "abc0ce0b07813eb6d4f554cfe9f6eed3",
+  "room": {
+    "id": 22292,
+    "title": [
+      "[The Demonwall]"
+    ],
+    "description": [
+      "A dry warm breeze moves over the wall's edge, bringing with it the faint stench of rotting flesh.  A flight of flat stone stairs descends down the side, leading to a cracked sprawl of land and Barret's Gorge to the north."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "22291": "go stairs",
+      "22293": "west",
+      "22299": "east"
+    },
+    "timeto": {
+      "22291": 0.2,
+      "22293": 0.2,
+      "22299": 0.2
+    },
+    "image": "wl-swale-1405616532.png",
+    "image_coords": [
+      533,
+      601,
+      546,
+      615
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "9d6d0c4d426fb69359e7881fd04dad39",
+  "room": {
+    "id": 16366,
+    "title": [
+      "[Snowleaf's Outfitting]",
+      "[Snowleaf's Weaponry]",
+      "[Snowleaf's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "16564": "south"
+    },
+    "timeto": {
+      "16564": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

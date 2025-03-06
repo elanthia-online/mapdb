@@ -1,0 +1,47 @@
+{
+  "checksum": "29516f0c25227c642ebe5b6284348bb8",
+  "room": {
+    "id": 1949,
+    "title": [
+      "[Golvern and Dragonstail]"
+    ],
+    "description": [
+      "A massive drilling rig is set against the tunnel's east wall, placed to excavate further into the rock.  The rig looks a bit like a huge metal mole, with a conical screw for a snout.  It is idle just now, as are the dwarves who operate it.  They lean on their picks and grumble.  One kneels to look under the mole and scratches his head."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1948": "south",
+      "1950": "north",
+      "12392": "west",
+      "12514": "go cave",
+      "26235": "go tent"
+    },
+    "timeto": {
+      "1948": 0.2,
+      "1950": 0.2,
+      "12392": 0.2,
+      "12514": 0.2,
+      "26235": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3001041
+    ],
+    "image": "ti-teras-1264234799.png",
+    "image_coords": [
+      1394,
+      344,
+      1424,
+      374
+    ]
+  }
+}

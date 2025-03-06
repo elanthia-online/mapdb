@@ -1,0 +1,39 @@
+{
+  "checksum": "b1735e76895da462e424a1eac991c935",
+  "room": {
+    "id": 24811,
+    "title": [
+      "[Helden Hall, Dark Cavern]"
+    ],
+    "description": [
+      "The lights from the crystals reach this room with a light touch, giving it a soft glow.  The roughly hewn walls extend in a circular fashion, creating a perfect complement for the huge set of heavy oak double doors that adorn the far wall at the base of the slope.  The echoes of cheering crowds seem to resonate within this room.  Next to the double doors and a little to the side, steep stone steps climb upwards."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3884": "go doors",
+      "3979": "go steps",
+      "24792": "east"
+    },
+    "timeto": {
+      "3884": 0.2,
+      "3979": 0.2,
+      "24792": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "uid": [
+      212420
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      736,
+      1255,
+      772,
+      1291
+    ]
+  }
+}

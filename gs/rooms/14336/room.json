@@ -1,0 +1,28 @@
+{
+  "checksum": "16d8c4f2134b51392bf33a5f7f1a98ce",
+  "room": {
+    "id": 14336,
+    "title": [
+      "[The Krawling Kraken]"
+    ],
+    "description": [
+      "The room is dominated by a huge marble statue to the west, set upon a raised platform of white washed stone.  Dark paneled walls reflect the moonlight cascading down from an open skylight in the high vaulted ceiling onto the base of the statue.  A thick burgundy drape cleverly conceals an alcove across from the statue and some long blue silk curtains offer passage to the south, back to the inn proper.",
+      "The room is dominated by a huge marble statue to the west, set upon a raised platform of white washed stone.  Dark paneled walls reflect the sunlight cascading down from an open skylight in the high vaulted ceiling onto the base of the statue.  A blue velvet drape cleverly conceals an alcove across from the statue and some long blue silk curtains offer passage to the south, back to the inn proper."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14335": "go curtains",
+      "14348": "northwest"
+    },
+    "timeto": {
+      "14335": 0.2,
+      "14348": 0.2
+    },
+    "uid": [
+      4901103
+    ]
+  }
+}

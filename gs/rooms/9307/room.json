@@ -1,0 +1,28 @@
+{
+  "checksum": "23f081654a92e515fa4b835840ac9724",
+  "room": {
+    "id": 9307,
+    "title": [
+      "[Wierdling's Magic Shoppe]"
+    ],
+    "description": [
+      "The broad sweep of the marble floor is interrupted by an iron candelabra.  Halfway to the polished haon ceiling, a round invar-framed window hangs on one of the smooth sandstone walls.  A low wrought iron table and a long mahogany rack are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "737": "out",
+      "12995": "east",
+      "12997": "north"
+    },
+    "timeto": {
+      "737": 0.2,
+      "12995": 0.2,
+      "12997": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

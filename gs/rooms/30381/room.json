@@ -1,0 +1,42 @@
+{
+  "checksum": "6ea78c6bad57018ae6cf0d15c31cf7c6",
+  "room": {
+    "id": 30381,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Waves crash high against the rocky spires of obsidian that dominate the horizon to the south and west, spraying salt water high into the air.  Passage beyond the rock formation appears impossible, the water in the area a turbulent rush of crests and troughs.  The ocean here is much calmer except for the occasional surge of waves as the sea rebounds from the distant rocks.",
+      "Moonlight reflects off of tall black spires that dominate the horizon to the south and west, causing the appearance of silvery mountains in a sea of darkness.  Passage beyond the rocky formation appears impossible, the water in the area a turbulent rush of crests and troughs.  The ocean here is much calmer except for the occasional surge of waves as the sea rebounds from the distant rocks."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30370": "pedal southeast",
+      "30372": "pedal north",
+      "30382": "pedal northwest"
+    },
+    "timeto": {
+      "30370": 6,
+      "30372": 6,
+      "30382": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216207
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      915,
+      4330,
+      936,
+      4346
+    ]
+  }
+}

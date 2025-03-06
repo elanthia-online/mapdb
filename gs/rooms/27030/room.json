@@ -1,0 +1,28 @@
+{
+  "checksum": "d6bd8790214765eb341c6ff5533ea779",
+  "room": {
+    "id": 27030,
+    "title": [
+      "[Lake of Fear, Northern Shore]"
+    ],
+    "description": [
+      "Ice crystals gitter in the sunlight, making the frozen dock to the north appear unearthly.  An endless expanse of ice stretches into the southern darkness, broken only sproadically by strange, dark shapes.",
+      "Ice crystals gitter in the moonlight, making the frozen dock to the north appear unearthly.  An endless expanse of ice stretches into the southern darkness, broken only sproadically by strange, shadowy shapes."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10116": "go shore",
+      "27029": "/rooms/27030/wayto/stringproc-27029.rb"
+    },
+    "timeto": {
+      "10116": 0.2,
+      "27029": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

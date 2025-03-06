@@ -1,0 +1,43 @@
+{
+  "checksum": "c78f6c609e9649a189947d389bd1f915",
+  "room": {
+    "id": 32448,
+    "title": [
+      "[Moonsedge Castle, Ward]"
+    ],
+    "description": [
+      "Hiding in the shadows of the high curtain wall, the kennels are dark and silent, the yips and cries of dogs a conspicuous absence.  Part of the flagstone path diverts toward the building, an open-air collection of grated cages with a veranda anchored to the interior wall.  There is a long trough before it to water the dogs, but the leftover water has a skim of black and green moss across it."
+    ],
+    "paths": [
+      "Obvious paths: east, northwest"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32446": "east",
+      "32449": "go kennels",
+      "32450": "northwest"
+    },
+    "timeto": {
+      "32446": 0.2,
+      "32449": 0.2,
+      "32450": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577118
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      802,
+      826,
+      827,
+      846
+    ]
+  }
+}

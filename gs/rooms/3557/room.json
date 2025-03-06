@@ -1,0 +1,42 @@
+{
+  "checksum": "416548072d2cb4ea494f09b9f8aae4d7",
+  "room": {
+    "id": 3557,
+    "title": [
+      "[Fearling Pass, Cobbled Road]"
+    ],
+    "description": [
+      "Here at the bank of the Mistydeep River stands a large limestone bridge that arches the flowing dark expanse.  A gatehouse sits off to one side of the approach, next to a cantilevered portcullis ready to seal off the town at first threat.  From this gateway, the walls of Ta'Vaalor glisten brightly in the sun, the occasional tower campanile poking above.  The river circles the fortified town like a giant moat, and promises a treacherous crossing for those who make an attempt at unassisted points.",
+      "Here at the bank of the Mistydeep River stands a large limestone bridge that arches the flowing dark expanse.  A gatehouse sits off to one side of the approach, next to a cantilevered portcullis ready to seal off the town at first threat.  From this gateway, the walls of Ta'Vaalor glisten brightly in the moonlight, the occasional tower campanile poking above.  The river circles the fortified town like a giant moat, and promises a treacherous crossing for those who make an attempt at unassisted points."
+    ],
+    "paths": [
+      "Obvious paths: northwest"
+    ],
+    "location": "Fearling Pass",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6101": "northwest",
+      "6103": "go bridge"
+    },
+    "timeto": {
+      "6101": 0.2,
+      "6103": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14002019
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      905,
+      793,
+      915,
+      803
+    ]
+  }
+}

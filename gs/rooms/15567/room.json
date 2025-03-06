@@ -1,0 +1,42 @@
+{
+  "checksum": "355d71bd7511f74ea2fead8b16f8d48d",
+  "room": {
+    "id": 15567,
+    "title": [
+      "[Wehnimer's Museum, Rooftop]"
+    ],
+    "description": [
+      "The view from the rooftop extends all the way to the walls of Wehnimer's Landing and beyond.  Exposed to the elements, this wind blown edifice juts up into the sky opposite the observatory tower on the eastern side of the museum.  Protected from errant footfalls by metal rims, various stained glass skylights are set into the rough stone floor.  An unobtrusive drainpipe is attached to the side of the building, leading rainwater away from the roof."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "237": "climb drainpipe",
+      "14650": "climb rope"
+    },
+    "timeto": {
+      "237": 0.2,
+      "14650": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      28147
+    ],
+    "image": "wl-museum-1487435869.png",
+    "image_coords": [
+      584,
+      147,
+      725,
+      207
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "checksum": "93a864a94823e1df9a8cc240368fa7a4",
+  "room": {
+    "id": 25505,
+    "title": [
+      "[The Firebird, Upper Deck]"
+    ],
+    "description": [
+      "An ornate red bronze hatch crowns the center of the upper deck, glistening from the polished greyish wood of the planking like a jewel in the sunlight.  Spiraling wooden steps proceed down into the covered main deck, their centers worn with the passage of many feet.  A ring of etched gold surrounds the hatch."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Aboard an Airship",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25504": "go hatch",
+      "25512": "south",
+      "25514": "north"
+    },
+    "timeto": {
+      "25504": 0.2,
+      "25512": 0.2,
+      "25514": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      12101017
+    ]
+  }
+}

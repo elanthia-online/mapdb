@@ -1,0 +1,39 @@
+{
+  "checksum": "b80bd4cbfe8e961ffbd07b2f0ffdb86a",
+  "room": {
+    "id": 29996,
+    "title": [
+      "[Secret Tunnel, Entrance]"
+    ],
+    "description": [
+      "Spilled mead, long since dried, has leaked through the floorboards that form the ceiling of the underground passage.  The liquid has left behind sticky patches on the walls and ground of the tunnel end and fills the air with a stale sourness.   Descending as it travels east, the tunnel swiftly moves beyond the feeble illumination creeping in through the slatted boards overhead."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "29994": "east",
+      "29997": "go ladder"
+    },
+    "timeto": {
+      "29994": 0.2,
+      "29997": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503372
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      363,
+      759,
+      377,
+      773
+    ]
+  }
+}

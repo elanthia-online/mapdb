@@ -1,0 +1,29 @@
+{
+  "checksum": "f200a852fc2f9436b0288d5ee94ceec9",
+  "room": {
+    "id": 21249,
+    "title": [
+      "[Krillem's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A Vornavian silk-covered table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west, out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9019": "out",
+      "21257": "west",
+      "21258": "east"
+    },
+    "timeto": {
+      "9019": 0.2,
+      "21257": 0.2,
+      "21258": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

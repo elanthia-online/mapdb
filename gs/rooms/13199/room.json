@@ -1,0 +1,32 @@
+{
+  "checksum": "9ddb9849c5b8bdf102200a6d81237be4",
+  "room": {
+    "id": 13199,
+    "title": [
+      "[The Great Hall of Dreadnaught]"
+    ],
+    "description": [
+      "The domed cathedral ceiling of this great hall is crafted from the finest stained glass.  Just below the canopy, a frieze depicting significant events in Elanthian history rings the upper palisade.  A massive glass griffin sculpture stands in the center, its outstretched wings nearly touching each wall.  An elaborate red carpet connects the entrance of the sculpture with some swinging ebonwood doors and an archway."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "13189": "out",
+      "13204": "go archway",
+      "13205": "go doors",
+      "13206": "climb stairway"
+    },
+    "timeto": {
+      "13189": 0.2,
+      "13204": 0.2,
+      "13205": 0.2,
+      "13206": 0.2
+    },
+    "tags": [
+      "meta:mho:The Elanthian Dreadnaught Alliance",
+      "gone"
+    ]
+  }
+}

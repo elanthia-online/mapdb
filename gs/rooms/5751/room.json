@@ -1,0 +1,64 @@
+{
+  "checksum": "8dd0b3f7424a4fe08bb38e6a7c37d37d",
+  "room": {
+    "id": 5751,
+    "title": [
+      "[Zul Logoth, Emerald Tunnel]"
+    ],
+    "description": [
+      "A tunnel looms to the north, dark and foreboding.  The approach to the tunnel does not make it any less foreboding.  From the dust outlines in the floor, it seems that many of the pots and toadstools have been removed from this area.  The reason is unclear, but the section is quite dim, with the majority of the light located to the southeast.  Even under the low light conditions, it is apparent that stains the color of dried blood mar the floor just this side of the tunnel's entrance."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "the tunnels and caverns of Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5750": "southeast",
+      "5752": "go tunnel",
+      "30712": "/rooms/5751/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "5750": 0.2,
+      "5752": 0.2,
+      "30712": "/rooms/5751/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "pepperthorn root",
+      "ironfern root",
+      "locksmith pool",
+      "meta:boxpool:npc:shady looking dwarf",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "urchin guide locksmithpool",
+      "urchin-access",
+      "locksmithpool",
+      "meta:trashcan:large wooden barrel",
+      "node",
+      "supernode",
+      "ayana leaf",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02",
+      "meta:forage-sensed:night:2023-02",
+      "meta:boxpool:table:blackened ironwood crate"
+    ],
+    "uid": [
+      13006012
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      407,
+      403,
+      427,
+      423
+    ]
+  }
+}

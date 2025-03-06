@@ -1,0 +1,37 @@
+{
+  "checksum": "8588c69fdf2620364b8c86da98d2a6d9",
+  "room": {
+    "id": 32936,
+    "title": [
+      "[Imperial Post]"
+    ],
+    "description": [
+      "Roughly triangular in shape, the Imperial Post widens at the back, providing ample room behind the counter for the storing of mail and letters awaiting sorting.  A polished lebbek wood sign hangs on one terracotta-accented wall, next to an elaborate mural of Brisker's Cove.  Pots of bright pink muhly grass cluster around a vase of fresh-cut flowers, adding splashes of brightness to the otherwise pristine white-and-terracotta decor."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Seareach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32877": "out",
+      "34400": "/rooms/32936/wayto/stringproc-34400.rb"
+    },
+    "timeto": {
+      "32877": 0.2,
+      "34400": "/rooms/32936/timeto/stringproc-34400.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "meta:forage-sensed",
+      "no forageables",
+      "urchin-access",
+      "urchin guide postoffice"
+    ],
+    "uid": [
+      7140508
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "eeee3c847763124dbdca03cfd4037ebd",
+  "room": {
+    "id": 22533,
+    "title": [
+      "[The Squire In The Mire]"
+    ],
+    "description": [
+      "The scent of cologne lingers in the air, almost suffocating the musty stench of the surrounding bog on the other side of a forest green tent flap.  A dapper mannequin commands the central area of the room, and a long glass display case rests along a side wall.  There is a highly polished door at the back of the room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": false,
+    "wayto": {
+      "20128": "go flap",
+      "22534": "go door"
+    },
+    "timeto": {
+      "20128": 0.2,
+      "22534": 0.2
+    }
+  }
+}

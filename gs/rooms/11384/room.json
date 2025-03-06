@@ -1,0 +1,40 @@
+{
+  "checksum": "652c1f6aba95a828b80b6ba7fda7e81a",
+  "room": {
+    "id": 11384,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "Placed on the west wall is a massive painting opposite a narrow stone door seamlessly set into the wall.  Torch sconces line the hallway leading to the north and south above wood paneling and a faded dark blue carpet laid down along the expanse of the corridor."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11383": "south",
+      "11385": "north",
+      "17701": "go door"
+    },
+    "timeto": {
+      "11383": 0.2,
+      "11385": 0.2,
+      "17701": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377321
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      438,
+      1264,
+      448,
+      1274
+    ]
+  }
+}

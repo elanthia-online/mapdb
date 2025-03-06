@@ -1,0 +1,43 @@
+{
+  "checksum": "62f1f5bc7593f42217eed332ea160528",
+  "room": {
+    "id": 4143,
+    "title": [
+      "[Graveyard, Crypt]"
+    ],
+    "description": [
+      "You enter the close, stuffy room that houses the sarcophagus of the once-illustrious inhabitant of this imposing crypt.  The coffin stands upright against one wall, almost touching the low ceiling, its painted lid stuck open on sagging hinges.  You shudder as you notice that there are long, fresh tracks on the dust-covered stone floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4142": "go arch",
+      "4144": "/rooms/4143/wayto/stringproc-4144.rb",
+      "4344": "east",
+      "4345": "west"
+    },
+    "timeto": {
+      "4142": 0.2,
+      "4144": 0.2,
+      "4344": 0.2,
+      "4345": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      18013
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      568,
+      949,
+      578,
+      959
+    ]
+  }
+}

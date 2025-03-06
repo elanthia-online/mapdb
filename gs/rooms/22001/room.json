@@ -1,0 +1,24 @@
+{
+  "checksum": "51cfd37df16da638f5f9f17e5b6ea6a9",
+  "room": {
+    "id": 22001,
+    "title": [
+      "[The Murkwoods, Old Path]"
+    ],
+    "description": [
+      "Not far beyond the edge of the dense path, a clearing opens to reveal what appears to be a small cabin.  A decrepit fence surrounds the structure which, at first glance, seems abandoned."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "22002": "go clearing",
+      "22003": "north"
+    },
+    "timeto": {
+      "22002": 0.2,
+      "22003": 0.2
+    }
+  }
+}

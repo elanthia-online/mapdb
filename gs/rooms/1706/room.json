@@ -1,0 +1,39 @@
+{
+  "checksum": "0d40a5240a3bccc164d52ee55ba75972",
+  "room": {
+    "id": 1706,
+    "title": [
+      "[Abandoned Shrine, Vestibule]"
+    ],
+    "description": [
+      "A thick coat of dust obscures a mosaic of a dagger-pierced heart inlaid in the floor.  Only a few sets of footprints testify to the fact that the shrine may not be completely abandoned.  Heavy swaths of white cloth line the walls, dampening all sound."
+    ],
+    "paths": [
+      "Obvious paths: north, east, out",
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "778": "out",
+      "1707": "east",
+      "1708": "north",
+      "1709": "go door"
+    },
+    "timeto": {
+      "778": 0.2,
+      "1707": 0.2,
+      "1708": 0.2,
+      "1709": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13120101
+    ]
+  }
+}

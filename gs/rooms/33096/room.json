@@ -1,0 +1,38 @@
+{
+  "checksum": "f7b5ded6961152eb4690852f8108ce36",
+  "room": {
+    "id": 33096,
+    "title": [
+      "[The Drowned Moose, Cap's Taps]"
+    ],
+    "description": [
+      "A scavenged gangplank spans several barrels to create a bar, behind which stands a short, brawny dwarf glaring from above a matted beard.  Crates behind the bar contain spare glasses and dishes, all of which are either chipped, cracked, or dirty.  Strategically placed groups of crates have been arranged in the small area into some tables, and directly opposite the makeshift bar is a crooked companionway.  A large hole in one wall provides a glorious view of dark water."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Flotilla",
+    "wayto": {
+      "33095": "go companionway",
+      "33097": "down",
+      "33118": "go bloated table",
+      "33119": "go grinning table",
+      "33120": "go white table",
+      "33121": "go barnacle table"
+    },
+    "timeto": {
+      "33095": 0.2,
+      "33097": 0.2,
+      "33118": 0.2,
+      "33119": 0.2,
+      "33120": 0.2,
+      "33121": 0.2
+    },
+    "tags": [
+      "tables"
+    ],
+    "uid": [
+      7134172
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "6dc99172cd7a3b8f268d2d79a39eafc8",
+  "room": {
+    "id": 11191,
+    "title": [
+      "[Garrison, Hallway]"
+    ],
+    "description": [
+      "The walls are badly scorched here, the mortar flowing in frozen drips, testimony to some tremendous heat.  Blackened bits of bone are scattered about the floor.  As you pass by, your footsteps raise puffs of oily ashes, clogging your nose and throat."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11182": "east",
+      "11188": "north",
+      "11189": "west",
+      "11190": "south"
+    },
+    "timeto": {
+      "11182": 0.2,
+      "11188": 0.2,
+      "11189": 0.2,
+      "11190": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2100017
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      544,
+      384,
+      554,
+      394
+    ]
+  }
+}

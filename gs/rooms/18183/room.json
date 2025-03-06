@@ -1,0 +1,33 @@
+{
+  "checksum": "3866f537ed76f1a5831c921370fb0dd8",
+  "room": {
+    "id": 18183,
+    "title": [
+      "[Melgorehn's Reach, Lost in the Fog]"
+    ],
+    "description": [
+      "You are in a dense fog bank and can see absolutely nothing.  You  realize that you can probably back out of here easily enough."
+    ],
+    "paths": [
+      "Obvious paths: none",
+      "Possible paths: out"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "humid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "18182": "out",
+      "18184": "go vines"
+    },
+    "timeto": {
+      "18182": 0.2,
+      "18184": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      52015
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "checksum": "f74e661b2f266102b7363a1c90193290",
+  "room": {
+    "id": 13583,
+    "title": [
+      "[Aurany's Lockpicks]",
+      "[Aurany's General Store]",
+      "[Aurany's Outfitting]"
+    ],
+    "description": [
+      "Enclosed by blue watered silk walls, the shop features a serene golden wyvern fountain in the center of its oak floor.  A vaalorian crested pennant hangs under the arched ceiling.  Right near the front is a large cherrywood cabinet and a gold-veined black marble counter."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, out"
+    ],
+    "wayto": {
+      "10456": "out",
+      "13667": "northwest",
+      "13668": "northeast"
+    },
+    "timeto": {
+      "10456": 0.2,
+      "13667": 0.2,
+      "13668": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "13a9740c68b35ab117ac93df8e13e3ba",
+  "room": {
+    "id": 4124,
+    "title": [
+      "[Glatoph, Vent Hole]"
+    ],
+    "description": [
+      "The walls and ceiling of this room curve gently around, blending into each other without any sharp corners or straight lines.  It's hot enough in here that you wish you could do with a bit less clothing, like maybe a loincloth.  Four round tunnels lead out of here in different directions."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, up, down"
+    ],
+    "location": "Glatoph",
+    "wayto": {
+      "4123": "up",
+      "4125": "down",
+      "7903": "south",
+      "7905": "northeast"
+    },
+    "timeto": {
+      "4123": 0.2,
+      "4125": 0.2,
+      "7903": 0.2,
+      "7905": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      35012
+    ],
+    "image": "wl-danjirland-1264234799.png",
+    "image_coords": [
+      106,
+      384,
+      116,
+      394
+    ]
+  }
+}

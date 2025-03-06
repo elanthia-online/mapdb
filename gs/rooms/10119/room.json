@@ -1,0 +1,42 @@
+{
+  "checksum": "10b8f09c659b3dc3dd0d0868771669c1",
+  "room": {
+    "id": 10119,
+    "title": [
+      "[Lake of Fear, South Dock]"
+    ],
+    "description": [
+      "Water laps about the pilings that hold up the greying surface of the wooden dock, the only sound to be heard across the eerily silent lake.  A thick coil of rope lies at the edge of the dock, waiting for the next boat to arrive.  A small wooden sign is tacked to the dock's sturdy railing.",
+      "Water laps about the pilings that hold up the greying surface of the wooden dock, the only sound to be heard across the dark and eerily silent lake.  A thick coil of rope lies at the edge of the dock, waiting for the next boat to arrive.  A small wooden sign is tacked to the dock's sturdy railing."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "the Lake of Fear",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10117": "/rooms/10119/wayto/stringproc-10117.rb",
+      "10120": "south"
+    },
+    "timeto": {
+      "10117": 300,
+      "10120": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      14001002
+    ],
+    "image": "en-fearling-1632908688.png",
+    "image_coords": [
+      666,
+      237,
+      676,
+      247
+    ]
+  }
+}

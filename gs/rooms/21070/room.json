@@ -1,0 +1,44 @@
+{
+  "checksum": "d967f6b19e346df3597ce128603cac87",
+  "room": {
+    "id": 21070,
+    "title": [
+      "[Alhan'aht River, The Divide]"
+    ],
+    "description": [
+      "Roughly churning, the river carves a path through the smooth granite bedrock that is the foundation of the surrounding hills.  Dips and gullies cause the water to drop from various heights as it moves in a northern direction away from the large mountain that looms in the southwest."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south"
+    ],
+    "location": "Mist Harbor",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "21069": "/rooms/21070/wayto/stringproc-21069.rb",
+      "21071": "/rooms/21070/wayto/stringproc-21071.rb"
+    },
+    "timeto": {
+      "21069": 2,
+      "21071": 2
+    },
+    "tags": [
+      "stalk of cattail",
+      "murdroot",
+      "meta:forage-sensed",
+      "wavepetal blossom",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      3217009
+    ],
+    "image": "ifw-wilds-1368242816.png",
+    "image_coords": [
+      1498,
+      2081,
+      1517,
+      2101
+    ]
+  }
+}

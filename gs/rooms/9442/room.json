@@ -1,0 +1,42 @@
+{
+  "checksum": "f9d3035c88aff028fb3636f4abda946b",
+  "room": {
+    "id": 9442,
+    "title": [
+      "[Zaratek Hall, Foyer]"
+    ],
+    "description": [
+      "A series of three arches branch off to the west, each a fine example of masonry.  The gentle luminescence of giant glowing toadstools cast upon the foyer's stonework illuminates their cleanly hewn surfaces.  Standing forefront, a life-sized statue wrought of bronze has been set upon a polished granite pedestal."
+    ],
+    "paths": [
+      "Obvious exits: southwest, west, northwest, out"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "1010": "out",
+      "9443": "northwest",
+      "9444": "west",
+      "9445": "southwest"
+    },
+    "timeto": {
+      "1010": 0.2,
+      "9443": 0.2,
+      "9444": 0.2,
+      "9445": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13014106
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      329,
+      2455,
+      396,
+      2521
+    ]
+  }
+}

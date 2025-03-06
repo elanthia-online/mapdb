@@ -1,0 +1,44 @@
+{
+  "checksum": "4d105204306e6feacef31bf4cf8ac158",
+  "room": {
+    "id": 30056,
+    "title": [
+      "[Angargreft, Berserker's End]"
+    ],
+    "description": [
+      "A slumped gigas corpse lies propped against one of the lofty runestones crowning the fane, her eyes still open in death.  No sign of her assailants remain in the area, but there are a half-dozen trails of dried blood and corresponding furrows in the snow heading to the west.  Chunks have been blown out of the stonework, leaving shards scattered everywhere and suggesting that the preceding battle was one of spells as well as arms."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest, west"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30055": "west",
+      "30057": "north",
+      "30058": "southwest"
+    },
+    "timeto": {
+      "30055": 0.2,
+      "30057": 0.2,
+      "30058": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503493
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      691,
+      187,
+      705,
+      202
+    ]
+  }
+}

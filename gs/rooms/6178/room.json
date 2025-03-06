@@ -1,0 +1,44 @@
+{
+  "checksum": "0c0d82194ba39d40512a20eb060bc70b",
+  "room": {
+    "id": 6178,
+    "title": [
+      "[Hidden Plateau, Ruins]"
+    ],
+    "description": [
+      "A battered trapdoor in the floor has been swung wide open, leading into a dark and stuffy area below.  Light enters the hallway in small beams that stream through tiny holes in the ceiling above, dimly illuminating the area."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "6176": "west",
+      "6179": "east",
+      "6185": "south"
+    },
+    "timeto": {
+      "6176": 0.2,
+      "6179": 0.2,
+      "6185": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "agave heart",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2167027
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      278,
+      393,
+      312,
+      427
+    ]
+  }
+}

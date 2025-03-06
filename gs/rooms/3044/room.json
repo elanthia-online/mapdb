@@ -1,0 +1,40 @@
+{
+  "checksum": "7ab4a2a21372b72edfd03b1c008320bb",
+  "room": {
+    "id": 3044,
+    "title": [
+      "[Icemule Trace, Exterior]"
+    ],
+    "description": [
+      "Widening somewhat, the path expands to accommodate both wagons and people.  Judging from several pairs of ruts, perhaps many have glanced at the narrowing trail to the north and turned around to look for a different way to enter the town walls.  Dark patches of the ground have been revealed from all the comings and goings, contrasting with the pale snow here."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3043": "south",
+      "3045": "north"
+    },
+    "timeto": {
+      "3043": 0.2,
+      "3045": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4050312
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      170,
+      973,
+      180,
+      983
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "606e979e9b75d355243e8d492291bcd9",
+  "room": {
+    "id": 22359,
+    "title": [
+      "[Ta'Illistim, Linsandrych Var]"
+    ],
+    "description": [
+      "Festooned with passion vines, a latticework is constructed over the var.  The white flowers, with their star-shaped blossoms and pale blue centers, form a lantern-lit canopy above the cobblestones.  A small alabaster building stands to one side, while a tall pale stone building is surrounded by thick hedges to the other."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest",
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "Ta'Illistim Embassies",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "22354": "northeast",
+      "22360": "northwest",
+      "22379": "go silver doors",
+      "22419": "go pale building",
+      "34949": "south"
+    },
+    "timeto": {
+      "22354": 0.2,
+      "22360": 0.2,
+      "22379": 0.2,
+      "22419": "/rooms/22359/timeto/stringproc-22419.rb",
+      "34949": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13125003
+    ],
+    "image": "en-ta_illistim-embassies-1405076623.png",
+    "image_coords": [
+      541,
+      685,
+      617,
+      760
+    ]
+  }
+}

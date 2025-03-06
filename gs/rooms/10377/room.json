@@ -1,0 +1,75 @@
+{
+  "checksum": "2666b75971dd4bb5cb10e7a9d6f4f9df",
+  "room": {
+    "id": 10377,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "Thin columns of ivory form a circular design around the golden domed building situated in the northern end of the courtyard, the metal gleaming in the sunlight.  Pale white cobblestones lead toward the shallow steps of the low structure.  Vines are twined around the large iron gates enclosing the area, the verdant growths blocking all but the tallest buildings of the city from view.",
+      "Thin columns of ivory form a circular design around the golden domed building situated in the northern end of the courtyard, the metal cast in a dim illumination from the moons.  Pale white cobblestones lead toward the shallow steps of the low structure.  Vines are twined around the large iron gates enclosing the area, the verdant growths blocking all but the tallest buildings of the city from view."
+    ],
+    "paths": [
+      "Obvious paths: south"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "10376": "south",
+      "13502": "go building",
+      "19810": "go shop"
+    },
+    "timeto": {
+      "10376": 0.2,
+      "13502": 0.2,
+      "19810": "/rooms/10377/timeto/stringproc-19810.rb"
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "withered black mushroom",
+      "stalk of chicory",
+      "sprig of alyssum",
+      "heath aster",
+      "stalk of goldenrod",
+      "yellow primrose",
+      "small wild rose",
+      "wild chokecherry",
+      "motherwort",
+      "mistweed",
+      "white baneberry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "rye grass",
+      "meta:forage-sensed:day:2023-05"
+    ],
+    "uid": [
+      675002
+    ],
+    "image": "en-ta_vaalor_cleric_guild.png",
+    "image_coords": [
+      208,
+      827,
+      260,
+      880
+    ]
+  }
+}

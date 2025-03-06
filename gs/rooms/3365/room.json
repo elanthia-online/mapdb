@@ -1,0 +1,69 @@
+{
+  "checksum": "108d05429b2ef85c9dff821aa898de11",
+  "room": {
+    "id": 3365,
+    "title": [
+      "[Icemule Trace, Ice Garden]"
+    ],
+    "description": [
+      "Alpine flowerbeds ring this tucked-away courtyard, their bright colors a feast for the eyes in comparison to the white of all the snow that lies beyond the gate.  Tamped snow paths keep footsteps soft in this small haven as travellers make their way to and from the chambers north of here.  Centered in a bed of white edelweiss and aromatic purple-flowered calamintha is an ice fountain, its watery spray frozen in a sparkling plume."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Icemule Trace",
+    "climate": "glacial",
+    "terrain": "plain dirt",
+    "wayto": {
+      "2304": "go wrought gate",
+      "2635": "/rooms/3365/wayto/stringproc-2635.rb",
+      "2808": "/rooms/3365/wayto/stringproc-2808.rb",
+      "2972": "/rooms/3365/wayto/stringproc-2972.rb",
+      "3140": "/rooms/3365/wayto/stringproc-3140.rb",
+      "3369": "north",
+      "24533": "/rooms/3365/wayto/stringproc-24533.rb",
+      "28817": "/rooms/3365/wayto/stringproc-28817.rb",
+      "30709": "/rooms/3365/wayto/stringproc-30709.rb"
+    },
+    "timeto": {
+      "2304": 0.2,
+      "2635": "/rooms/3365/timeto/stringproc-2635.rb",
+      "2808": "/rooms/3365/timeto/stringproc-2808.rb",
+      "2972": "/rooms/3365/timeto/stringproc-2972.rb",
+      "3140": "/rooms/3365/timeto/stringproc-3140.rb",
+      "3369": 0.2,
+      "24533": "/rooms/3365/timeto/stringproc-24533.rb",
+      "28817": "/rooms/3365/timeto/stringproc-28817.rb",
+      "30709": "/rooms/3365/timeto/stringproc-30709.rb"
+    },
+    "tags": [
+      "voln",
+      "node",
+      "some arctic moss",
+      "winter rose",
+      "supernode",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "frostflower",
+      "ironfern root",
+      "arctic moss",
+      "urchin-access",
+      "meta:seeking",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4043800
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      760,
+      611,
+      796,
+      647
+    ]
+  }
+}

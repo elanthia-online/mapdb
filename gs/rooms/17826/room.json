@@ -1,0 +1,37 @@
+{
+  "checksum": "c2a883206d9bad82f429a47cdcc92e9d",
+  "room": {
+    "id": 17826,
+    "title": [
+      "[Alley]"
+    ],
+    "description": [
+      "The alley comes to an abrupt end, the tall facade of a brick building blocking the way.  Unlike most of the buildings, though, this one has a door."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "17825": "west",
+      "17827": "go door"
+    },
+    "timeto": {
+      "17825": 0.2,
+      "17827": 0.2
+    },
+    "tags": [
+      "rogue guild window"
+    ],
+    "uid": [
+      267113
+    ],
+    "image": "en-vaalor-rogue-guild.png",
+    "image_coords": [
+      1119,
+      633,
+      1160,
+      673
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checksum": "e52dfa7aa2c67048b80e34c7a2ea83b7",
+  "room": {
+    "id": 12148,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "A beached ship lies in the middle of the field here, no clues or explanation as to how it arrived.  The once shiny maoral wood has dulled now with age, and the ship's ribs and masts have split and fallen.  The only passengers of the vessel are the rats, which number in the thousands.  It's almost as if the boat itself writhes with their movements.  High above, on the one remaining mast, flies a flag bearing a rat skull and crossbones."
+    ],
+    "paths": [
+      "Obvious paths: east, west, northwest",
+      "Obvious exits: east, west, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2605": "/rooms/12148/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12148/wayto/stringproc-2635.rb",
+      "12088": "west",
+      "12093": "/rooms/12148/wayto/stringproc-12093.rb",
+      "12143": "northwest",
+      "12149": "east"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12088": 0.2,
+      "12093": 21.6,
+      "12143": 0.2,
+      "12149": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "rotting bile green fleshbulb",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "mass of congealed slime",
+      "twisted black mawflower",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567052
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      923,
+      781,
+      931,
+      789
+    ]
+  }
+}

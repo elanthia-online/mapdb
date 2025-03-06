@@ -1,0 +1,44 @@
+{
+  "checksum": "38f21331c673bbf6c8d8c2c78e761be2",
+  "room": {
+    "id": 11470,
+    "title": [
+      "[Maelstrom Bay, Bottom]"
+    ],
+    "description": [
+      "The rocky wall curves from the south to the northwest.  Bladder rockweed clings to the stones and sways in slow motion.  Schools of mud shrimp scurry among the rockweed.  A few loggerhead sponges the size of large pumpkins grow in the sand of the bay floor."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest, west, northwest, up"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "11467": "/rooms/11470/wayto/stringproc-11467.rb",
+      "11468": "/rooms/11470/wayto/stringproc-11468.rb",
+      "11469": "/rooms/11470/wayto/stringproc-11469.rb",
+      "11471": "/rooms/11470/wayto/stringproc-11471.rb",
+      "11477": "/rooms/11470/wayto/stringproc-11477.rb"
+    },
+    "timeto": {
+      "11467": 2,
+      "11468": 2,
+      "11469": 3,
+      "11471": 2,
+      "11477": 2
+    },
+    "tags": [
+      "meta:underwater",
+      "no forageables"
+    ],
+    "uid": [
+      304226
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      976,
+      1207,
+      986,
+      1217
+    ]
+  }
+}

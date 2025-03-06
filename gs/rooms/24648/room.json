@@ -1,0 +1,29 @@
+{
+  "checksum": "1790a1fb83294a63c2f031a0ec6bb1b9",
+  "room": {
+    "id": 24648,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Dragging footsteps and accidental bumpings are all that let you know others pass this way too, as the darkness encompasses the hallway completely.  The near-intimate groping of hands is quickly withdrawn as they make contact with flesh instead of ruin walls.  The dirt-limned floor muffles the steps scraping along the passage as shuffling continues in each direction."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24646": "north",
+      "24649": "west",
+      "24650": "south",
+      "24654": "east"
+    },
+    "timeto": {
+      "24646": 0.2,
+      "24649": 0.2,
+      "24650": 0.2,
+      "24654": 0.2
+    },
+    "check_location": true
+  }
+}

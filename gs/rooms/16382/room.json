@@ -1,0 +1,28 @@
+{
+  "checksum": "998a7e119ce87e06b73f135f7c760614",
+  "room": {
+    "id": 16382,
+    "title": [
+      "[Loelita's Lockpicks]",
+      "[Loelita's Outfitting]",
+      "[Loelita's Combat Gear]"
+    ],
+    "description": [
+      "Beneath an etched seaglass ceiling, a silken sea-themed tapestry hangs on one of the glazed bamboo walls.  A heavy lead glass display case and a shell-lined bamboo counter sit in opposite corners while a braided seagrass rug rests on a glazed bamboo floor."
+    ],
+    "paths": [
+      "Obvious exits: north, west, out"
+    ],
+    "wayto": {
+      "16383": "north",
+      "16610": "west"
+    },
+    "timeto": {
+      "16383": 0.2,
+      "16610": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

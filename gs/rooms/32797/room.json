@@ -1,0 +1,32 @@
+{
+  "checksum": "9af2cbe65fa60df50349ecf02f9db5aa",
+  "room": {
+    "id": 32797,
+    "title": [
+      "[Ta'Illistim Keep, Hallway]"
+    ],
+    "description": [
+      "Crafted entirely of silvery grey stone, the blocks fit together seamlessly creating the smooth passage walls.  Set into a shallow recess is a narrow archway covered with a peacock blue silk curtain."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "26799": "east",
+      "26803": "go curtain",
+      "32740": "west"
+    },
+    "timeto": {
+      "26799": 0.2,
+      "26803": 240,
+      "32740": 0.2
+    },
+    "tags": [
+      "publiclockers"
+    ],
+    "uid": [
+      13102014
+    ]
+  }
+}

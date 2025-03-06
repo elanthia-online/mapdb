@@ -1,0 +1,44 @@
+{
+  "checksum": "2377600674a61ca04d857654b9dc3c87",
+  "room": {
+    "id": 3704,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Along the east wall of this wide corridor are fortified, iron doors which once held hundreds captive in large, mass cells.  Now many of the doors have rusted, their bolts shot, their hinges giving way from overuse.  The chambers now stand dark and empty."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3693": "south",
+      "3705": "north",
+      "3801": "go door"
+    },
+    "timeto": {
+      "3693": 0.2,
+      "3705": 0.2,
+      "3801": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42025
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      337,
+      1179,
+      347,
+      1189
+    ]
+  }
+}

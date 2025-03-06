@@ -1,0 +1,43 @@
+{
+  "checksum": "a706928abcc5573a16d9bad35a509769",
+  "room": {
+    "id": 12616,
+    "title": [
+      "[Temple of Luukos, Steam Chamber]"
+    ],
+    "description": [
+      "Here, at the far end of the chamber from the odd membrane in the east wall, two statues lean together, their bases shattered.  Apart from these two, the statues marching away in either direction seem unharmed.  A splotch of what appears to be dried blood covers the chest of one."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast, south"
+    ],
+    "location": "the Dark Palisade",
+    "wayto": {
+      "12615": "south",
+      "12617": "north",
+      "12621": "northeast",
+      "12624": "southeast",
+      "12628": "go statue"
+    },
+    "timeto": {
+      "12615": 0.2,
+      "12617": 0.2,
+      "12621": 0.2,
+      "12624": 0.2,
+      "12628": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3041018
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      853,
+      484,
+      863,
+      494
+    ]
+  }
+}

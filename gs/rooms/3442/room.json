@@ -1,0 +1,45 @@
+{
+  "checksum": "728cc73e9d4473014d22b3f8d9ac460a",
+  "room": {
+    "id": 3442,
+    "title": [
+      "[Icemule, Bootlegger's Alley]"
+    ],
+    "description": [
+      "Snow accumulates against the South Wall, which leans over the alley and casts a long shadow over its stores.  An empty cask abandoned at the side of the alley, its staves kicked in by some tremendous force, spreads a faint odor of hops over the cobblestones.",
+      "Snow accumulates against the South Wall, casting a gloomy dark shadow over the alley and its stores.  At the side of the alley lies an empty cask, its staves kicked in by some tremendous force.  A faint odor of hops rises from the cobblestones beneath your feet."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3441": "east",
+      "3443": "west",
+      "15628": "go warehouse",
+      "15631": "go building",
+      "16008": "go emporium",
+      "17659": "go simple shop"
+    },
+    "timeto": {
+      "3441": 0.2,
+      "3443": 0.2,
+      "15628": 0.2,
+      "15631": 0.2,
+      "16008": 0.2,
+      "17659": 0.2
+    },
+    "uid": [
+      735026
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      174,
+      1399,
+      192,
+      1417
+    ]
+  }
+}

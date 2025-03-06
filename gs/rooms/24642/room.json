@@ -1,0 +1,30 @@
+{
+  "checksum": "8b72ca62f257d547565ee4885d84cb48",
+  "room": {
+    "id": 24642,
+    "title": [
+      "[Underground Temple, Core]"
+    ],
+    "description": [
+      "Leaning precariously to one side, a massive stone altar dominates the southern end of the temple.  Webs of cracks and crevices mar the stone beneath and render ancient floor carvings nearly indiscernible.  Partially concealed by the altar, a small tunnel leads down into darkness."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, down",
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "24548": "northwest",
+      "24549": "northeast",
+      "24643": "down",
+      "25555": "go tunnel"
+    },
+    "timeto": {
+      "24548": 0.2,
+      "24549": 0.2,
+      "24643": 0.2,
+      "25555": 0.2
+    },
+    "check_location": false
+  }
+}

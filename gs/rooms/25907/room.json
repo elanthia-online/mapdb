@@ -1,0 +1,33 @@
+{
+  "checksum": "e823490cd7b5ab71e9a4c5ccaf575e9e",
+  "room": {
+    "id": 25907,
+    "title": [
+      "[Sylinar's Spire]"
+    ],
+    "description": [
+      "The walls of the second level are bare, save for a few sconces and the open door that stands amidst its white stones.  The staircase spirals further upward to the third level of the tower."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "25904": "down",
+      "25908": "go staircase",
+      "25915": "go door"
+    },
+    "timeto": {
+      "25904": 0.2,
+      "25908": 0.2,
+      "25915": 0.2
+    },
+    "image": "Spire_Grounds_5117.png",
+    "image_coords": [
+      938,
+      528,
+      987,
+      580
+    ]
+  }
+}

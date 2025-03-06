@@ -1,0 +1,40 @@
+{
+  "checksum": "dc7d5f3c117308f1b4abdf586a409220",
+  "room": {
+    "id": 12232,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Stalactites of blue-white ice glisten dangerously overhead, reflected clearly in the mirror-like floor.  Someone or something flits around the formations with only a faint whirring indicating its presence.  A bower crafted of sticks and twine stands in the cavern's center, encrusted with silvery rime.",
+      "Dull, grey stone is slick with dampness underfoot.  Someone or something flits around in the distant shadows, with only a faint whirring indicating its presence.  A bower crafted of sticks and twine stands in the cavern's center, singed black."
+    ],
+    "paths": [
+      "Obvious exits: southwest, up, down",
+      "Obvious paths: southwest, up, down"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12151": "/rooms/12232/wayto/stringproc-12151.rb",
+      "12230": "southwest",
+      "12235": "down",
+      "12240": "up"
+    },
+    "timeto": {
+      "12151": 11.4,
+      "12230": 0.2,
+      "12235": 0.2,
+      "12240": 0.2
+    },
+    "uid": [
+      4571001
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      294,
+      154,
+      318,
+      178
+    ]
+  }
+}

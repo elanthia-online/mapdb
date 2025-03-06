@@ -1,0 +1,31 @@
+{
+  "checksum": "da40544f23227109474610b399370f25",
+  "room": {
+    "id": 10490,
+    "title": [
+      "[Eaglesoul's Outfitting]",
+      "[Eaglesoul's Combat Gear]",
+      "[Eaglesoul's Weaponry]"
+    ],
+    "description": [
+      "Beneath a cerulean cloud-painted ceiling, a tattered merchant permit hangs on one of the red dragon-inlaid walls.  A floral-etched ceramic case and a large oak table sit in opposite corners while a worn rug rests on a dark oak parquet floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "731": "out",
+      "10757": "east",
+      "10758": "north"
+    },
+    "timeto": {
+      "731": 0.2,
+      "10757": 0.2,
+      "10758": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

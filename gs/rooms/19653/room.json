@@ -1,0 +1,40 @@
+{
+  "checksum": "d9474300999da92fc040132be5120905",
+  "room": {
+    "id": 19653,
+    "title": [
+      "[Cavernhold, Corridor]"
+    ],
+    "description": [
+      "This long and narrow corridor runs roughly southeast to northwest.  It is dimly lit by clumps of a strange glowing fungus that grow on the walls and ceiling."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19652": "northwest",
+      "19654": "southeast"
+    },
+    "timeto": {
+      "19652": 0.2,
+      "19654": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10010
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      646,
+      1157,
+      655,
+      1166
+    ]
+  }
+}

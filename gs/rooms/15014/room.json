@@ -1,0 +1,28 @@
+{
+  "checksum": "02c7aea73aa7942888bbb4040b91de95",
+  "room": {
+    "id": 15014,
+    "title": [
+      "[Sefifoot's Magic Shoppe]"
+    ],
+    "description": [
+      "Beneath a vaulted ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A glass-topped mistwood counter and a gilded maple table sit in opposite corners while a worn rug rests on a mottled walnut floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "wayto": {
+      "338": "out",
+      "15405": "southwest",
+      "15406": "southeast"
+    },
+    "timeto": {
+      "338": 0.2,
+      "15405": 0.2,
+      "15406": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "checksum": "d3d4b886f62dcbd3cce2a91f7ffd347c",
+  "room": {
+    "id": 2522,
+    "title": [
+      "[Blue Glacier, Mountain Pass]"
+    ],
+    "description": [
+      "All the climbing up and down over the icy rocks of this pass has exhausted you -- the bitter cold has taken its toll as well.  The ever-present wind with all its whistling and howling has come close to driving you mad.  What you wouldn't give for a hot bath, a good meal, and a tankard of mulled wine!"
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "the Icemule Trail",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "2521": "/rooms/2522/wayto/stringproc-2521.rb",
+      "2523": "/rooms/2522/wayto/stringproc-2523.rb"
+    },
+    "timeto": {
+      "2521": 0.2,
+      "2523": 0.2
+    },
+    "tags": [
+      "sweetfern stalk",
+      "calamintha blossom",
+      "red winterberry",
+      "sassafras leaf",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "winter rose",
+      "arctic moss",
+      "snowberries",
+      "pale thornberry",
+      "small loganberry",
+      "ironfern root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "silver iceblossom",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4044115
+    ],
+    "image": "imt-trail-1264234799.png",
+    "image_coords": [
+      1066,
+      554,
+      1076,
+      564
+    ]
+  }
+}

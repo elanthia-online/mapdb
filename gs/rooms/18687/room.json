@@ -1,0 +1,44 @@
+{
+  "checksum": "c7a3c6310deb5a170e0987c16fbee48a",
+  "room": {
+    "id": 18687,
+    "title": [
+      "[Shadowed Alcove]"
+    ],
+    "description": [
+      "Motes of dust can be seen floating through the streams of broken moonlight filtering through a small, grimy window.  A thick mat of reeds covers the rough wooden floor, herbs and dried flowers mixed in to mask other unsavory odors.  Piled up about a polished maoral table is a wide variety of boxes, chests, and trunks.  Tucked to one side is a rounded whiskey barrel bound with strips of rusted iron.",
+      "Motes of dust can be seen floating through the streams of broken sunlight filtering through a small, grimy window.  A thick mat of reeds covers the rough wooden floor, herbs and dried flowers mixed in to mask other unsavory odors.  Piled up about a polished maoral table is a wide variety of boxes, chests, and trunks.  Tucked to one side is a rounded whiskey barrel bound with strips of rusted iron."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "13311": "go archway",
+      "30714": "/rooms/18687/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "13311": 0.2,
+      "30714": "/rooms/18687/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "meta:boxpool:npc:small greasy gnome",
+      "meta:boxpool:table:polished maoral table",
+      "locksmith pool",
+      "supernode",
+      "node",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "locksmithpool",
+      "meta:trashcan:rounded whiskey barrel",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13104626
+    ]
+  }
+}

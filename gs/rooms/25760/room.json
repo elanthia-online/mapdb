@@ -1,0 +1,41 @@
+{
+  "checksum": "30c3845c9ecc0db74e95eb1124027240",
+  "room": {
+    "id": 25760,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Smooth, round rocks rise from the sea bed beneath the dark blue waters to create a barrier around a small cove.  Stretching across the face of the island, beyond the rocks, is a small beach filled with glistening white sands.  Passage into the cove is efficiently blocked by the large, stony boulders."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25755": "/rooms/25760/wayto/stringproc-25755.rb",
+      "25756": "/rooms/25760/wayto/stringproc-25756.rb",
+      "25759": "/rooms/25760/wayto/stringproc-25759.rb"
+    },
+    "timeto": {
+      "25755": 6,
+      "25756": 6,
+      "25759": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223827
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2000,
+      1200,
+      2018,
+      1218
+    ]
+  }
+}

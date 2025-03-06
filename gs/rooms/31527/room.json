@@ -1,0 +1,34 @@
+{
+  "checksum": "17a344f1bf187e80183866451d54495a",
+  "room": {
+    "id": 31527,
+    "title": [
+      "[Cormorant's Roost, Observatory]"
+    ],
+    "description": [
+      "A circular table carved from gilt-veined marble dominates the mahogany-planked room, its surface covered with a small scale model of Elanthia and its waterways.  Iron-framed windows flank an antiqued gold telescope, leaving a pair of tall leather-backed chairs to hold back the heavy curtains fashioned of faded pirate flags.  A collection of weaponry is displayed above an unadorned slate fireplace, the mantle stacked with nautical charts and volumes."
+    ],
+    "paths": [
+      "Obvious exits: west, down"
+    ],
+    "location": "Cormorant's Roost, inside the pirate paradise of Kraken's Fall",
+    "wayto": {
+      "31526": "down",
+      "31528": "west",
+      "31529": "/rooms/31527/wayto/stringproc-31529.rb",
+      "31530": "go wood staircase"
+    },
+    "timeto": {
+      "31526": 0.2,
+      "31528": 0.2,
+      "31529": 0.2,
+      "31530": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      730179
+    ]
+  }
+}

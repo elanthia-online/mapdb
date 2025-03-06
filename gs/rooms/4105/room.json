@@ -1,0 +1,30 @@
+{
+  "checksum": "62561fe4294a9aa50747c183c81041ac",
+  "room": {
+    "id": 4105,
+    "title": [
+      "[Grocer's, Tidbit Shop]"
+    ],
+    "description": [
+      "This room contains all sorts of foodstuffs and refreshments to delight the hungry or thirsty adventurer.  Smiling young clerks trot past every so often, their faces flushed from the constant exercise.  Occasionally, one of the youths grabs an item from behind the wooden counter stretching along one wall, then darts away to serve another customer."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "292": "go door",
+      "8631": "east"
+    },
+    "timeto": {
+      "292": 0.2,
+      "8631": 0.2
+    },
+    "tags": [
+      "meta:teleport:fwi"
+    ],
+    "uid": [
+      2042
+    ]
+  }
+}

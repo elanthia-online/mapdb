@@ -1,0 +1,47 @@
+{
+  "checksum": "6eb6bbb05935b30238b1df604df81fa6",
+  "room": {
+    "id": 32415,
+    "title": [
+      "[Moonsedge, Bramble Square]"
+    ],
+    "description": [
+      "Bramble topiaries frame a raised city square, urged by their gardeners' dereliction into an overgrown tangle that holds little resemblance to the cultivated shapes they once held.  The brambles cast their gnarled shadows on steps leading down to the streets feeding the square, stretching as far as the foundations of once-prosperous businesses nearby.  Most of the buildings are boarded and barricaded, but a dim countinghouse to the northwest has had its doors torn away, leaving only deformed hinges behind."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32413": "west",
+      "32414": "north",
+      "32416": "go countinghouse",
+      "32419": "south",
+      "32425": "east"
+    },
+    "timeto": {
+      "32413": 0.2,
+      "32414": 0.2,
+      "32416": 0.2,
+      "32419": 0.2,
+      "32425": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577017
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      381,
+      285,
+      400,
+      304
+    ]
+  }
+}

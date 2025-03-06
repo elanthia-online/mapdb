@@ -1,0 +1,40 @@
+{
+  "checksum": "894e5086e627f35f4067be76cca5b275",
+  "room": {
+    "id": 14119,
+    "title": [
+      "[Warehouse, First Floor]"
+    ],
+    "description": [
+      "Boxes bearing stamps from virtually everywhere are stacked to dangerous heights in a seemingly haphazard manner.  The boxes have been pushed aside here, making room to proceed both north and south.  To the east, a curtained opening occludes a small alcove."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14113": "south",
+      "26723": "go opening",
+      "30728": "north"
+    },
+    "timeto": {
+      "14113": 0.4,
+      "26723": 240,
+      "30728": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "publiclockers"
+    ],
+    "uid": [
+      4219322
+    ],
+    "image": "vo-warehouse_lockers-1485119080.png",
+    "image_coords": [
+      452,
+      1333,
+      553,
+      1387
+    ]
+  }
+}

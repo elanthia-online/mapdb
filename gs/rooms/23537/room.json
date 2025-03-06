@@ -1,0 +1,34 @@
+{
+  "checksum": "765d8c5d91bd24562fc5c1aa90f7b0d0",
+  "room": {
+    "id": 23537,
+    "title": [
+      "[Thornfield Manor, Entry Hall]"
+    ],
+    "description": [
+      "Light blonde ash parquet flooring warmly reflects the ambient light in this immense room.  Vaulted arches soar overhead, creating a vast open space that is accentuated by a brightly burning, elaborate vaalin chandelier hanging from the domed glass ceiling.  Dark cherrywood wainscoting separates the rich cream and forest green wallpaper from the ivory marble walls above.  A small side table sits along the west wall, while a sweeping staircase leading up to the living quarters dominates the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Thornfield Manor, inside the elven city of Ta'Illistim",
+    "wayto": {
+      "23535": "west",
+      "23536": "go doors",
+      "23538": "east",
+      "23539": "north"
+    },
+    "timeto": {
+      "23535": 0.2,
+      "23536": 0.2,
+      "23538": 0.2,
+      "23539": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1301302
+    ]
+  }
+}

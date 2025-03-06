@@ -1,0 +1,41 @@
+{
+  "checksum": "d8cc3b9ffb7e93c9d8bc57f142b4e5fe",
+  "room": {
+    "id": 25757,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Rising sharply out of the water, in mimicry of some ancient sea leviathan, the sharp apertures of Charl's Teeth block passage into the open sea.  Crashing defiantly against the pointed obsidian, the ocean waves spend their fury against the smooth faces of each unyielding spike without avail."
+    ],
+    "paths": [
+      "Obvious paths: southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25756": "/rooms/25757/wayto/stringproc-25756.rb",
+      "25758": "/rooms/25757/wayto/stringproc-25758.rb",
+      "25759": "/rooms/25757/wayto/stringproc-25759.rb"
+    },
+    "timeto": {
+      "25756": 6,
+      "25758": 6,
+      "25759": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223828
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      2161,
+      1199,
+      2181,
+      1218
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "91da9951c8e664224665c106193ef22d",
+  "room": {
+    "id": 24798,
+    "title": [
+      "[Underground Cavern, Cave Pools]"
+    ],
+    "description": [
+      "Nestled in the cavern wall, the expansive niche is burgeoning with a variety of cave pools, some a pale crystal blue hue, others deep sapphire, and just one a distinctive inky black.  An aven in the high ceiling above leads only to darkness, producing the effect of a vacuous hole above you.  Intermittent dripping sounds provide a staccato rhythm to the soft, constant chorus of sighs that echoes through the area."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24241": "go pool",
+      "24756": "northeast"
+    },
+    "timeto": {
+      "24241": 0.2,
+      "24756": 0.2
+    }
+  }
+}

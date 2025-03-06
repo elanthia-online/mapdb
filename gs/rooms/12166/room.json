@@ -1,0 +1,54 @@
+{
+  "checksum": "0f7d34fc97f5b6ca769a95efe1f8353c",
+  "room": {
+    "id": 12166,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Deep in the forest rests what was once a small shrine carefully carved of the butchered haon wood that surrounds you.  Screams and the violent falling of trees fill the air with a strong sense of destruction.  From somewhere nearby, the angry sound of a river rapids completes the unusual symphony.  Little else alters the disquiet save for an occasional muted plea drifting in on the breeze."
+    ],
+    "paths": [
+      "Obvious paths: southwest, northwest",
+      "Obvious exits: southwest, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12166/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12166/wayto/stringproc-2635.rb",
+      "12093": "/rooms/12166/wayto/stringproc-12093.rb",
+      "12104": "southwest",
+      "12128": "northwest"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12093": 21.6,
+      "12104": 0.2,
+      "12128": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "discolored fleshbinder bud",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "rotting bile green fleshbulb",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567027
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      1004,
+      673,
+      1012,
+      681
+    ]
+  }
+}

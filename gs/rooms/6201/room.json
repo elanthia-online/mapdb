@@ -1,0 +1,53 @@
+{
+  "checksum": "5daf967e4c984e4feeeb15a9e0491cc1",
+  "room": {
+    "id": 6201,
+    "title": [
+      "[Labyrinth, The Unending Path]"
+    ],
+    "description": [
+      "The pungent stench of decay has settled on this section of the tunnel, but its source remains hidden.  The path begins to decline steeply, heading deeper into the heart of the darkness."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast",
+      "Obvious exits: southeast, west",
+      "Obvious exits: north, southeast",
+      "Obvious exits: northeast, southeast",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6200": "southeast",
+      "6202": "/rooms/6201/wayto/stringproc-6202.rb"
+    },
+    "timeto": {
+      "6200": 0.2,
+      "6202": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "some cave moss",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      2167070
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      843,
+      302,
+      877,
+      336
+    ]
+  }
+}

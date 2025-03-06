@@ -1,0 +1,42 @@
+{
+  "checksum": "ea59f0f7cca968d3f1dbd89a075bb267",
+  "room": {
+    "id": 30016,
+    "title": [
+      "[Eldurhaart, Village Lane]"
+    ],
+    "description": [
+      "Crushed white stones form a path between looming longhouses, their walls imposing and dark in the perennial twilight.  Garlands of hardy arctic flowers stream from the eaves high above.  Wind whistles through the space between the two great dwellings, carrying hints of a hot iron tang from the north."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30015": "south",
+      "30017": "north"
+    },
+    "timeto": {
+      "30015": 0.2,
+      "30017": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503343
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      1225,
+      721,
+      1240,
+      736
+    ]
+  }
+}

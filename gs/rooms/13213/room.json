@@ -1,0 +1,31 @@
+{
+  "checksum": "b63c57fb362623d65a91a9cba41b5b4c",
+  "room": {
+    "id": 13213,
+    "title": [
+      "[Shimmarglin Inn, West Hall]"
+    ],
+    "description": [
+      "The lively sounds of clinking glasses and conversation grow quiet here, as a heavily carpeted hall runs from east to west.  The sweet scent of burnt incense lingers in the passage, its aroma mixing with the faint odors of old wine and wood polish."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shimmarglin Inn",
+    "wayto": {
+      "13211": "east",
+      "13214": "go heavily door",
+      "13215": "west",
+      "15665": "go smooth door"
+    },
+    "timeto": {
+      "13211": 0.2,
+      "13214": 0.2,
+      "13215": 0.2,
+      "15665": 0.2
+    },
+    "uid": [
+      13108011
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "2ceb29ea9876ebb4757b323485e53ad8",
+  "room": {
+    "id": 5783,
+    "title": [
+      "[Zaerthu Tunnels, Large Chamber]"
+    ],
+    "description": [
+      "Hunks of what smells like rotting meat hang from the high ceiling of this large chamber, each coated with so many luminescent flying insects that it acts as a gruesome natural lantern.  The sickly yellow light reveals a series of holes carved into the rock, some draped with coarsely cured hides.  A stained circular rock crouches at the center of the cavern."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Zaerthu Tunnels",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5782": "go passage",
+      "5784": "east",
+      "5790": "west"
+    },
+    "timeto": {
+      "5782": 0.2,
+      "5784": 0.2,
+      "5790": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pothinir grass",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13009034
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      322,
+      837,
+      332,
+      847
+    ]
+  }
+}

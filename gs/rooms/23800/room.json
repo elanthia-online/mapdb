@@ -1,0 +1,35 @@
+{
+  "checksum": "efc5cc84f72c5ccd6a699ff14e8a9b93",
+  "room": {
+    "id": 23800,
+    "title": [
+      "[Windfellow's Retreat, Courtyard]"
+    ],
+    "description": [
+      "The courtyard extends into a rather grubby stretch of land liberally punctuated with banners, flags, and hand-painted signs that invite festival goers to sample every delight the retreat has to offer.  An insufficient amount of straw has been trampled into the muddy ground creating a slippery walkway through the maze of merchant stalls."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "23757": "east",
+      "28393": "west",
+      "28441": "go oilcloth tent",
+      "28470": "go linden-paneled wagon"
+    },
+    "timeto": {
+      "23757": 0.2,
+      "28393": 0.2,
+      "28441": 0.2,
+      "28470": 0.2
+    },
+    "image": "fest-windfellows_retreat-1625967088.jpg",
+    "image_coords": [
+      788,
+      1688,
+      844,
+      1743
+    ]
+  }
+}

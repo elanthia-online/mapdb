@@ -1,0 +1,38 @@
+{
+  "checksum": "3412194a41cfbe4c981f7d292ef8cbe3",
+  "room": {
+    "id": 1980,
+    "title": [
+      "[Temple, Corridor]"
+    ],
+    "description": [
+      "An ethereal silence looms along this corridor of stone. Residents of Kharam-Dzu move solemnly about their business, as a pensive elven acolyte maintains a respectful watch.  To one side, an elaborate white marble arch decked with garlands leads to the wedding chapel.  A black marble arch solemnly ushers passing travelers to the altar of Lorminstra."
+    ],
+    "paths": [
+      "Obvious paths: south, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1979": "west",
+      "1981": "south",
+      "12376": "go white arch",
+      "13057": "go black arch"
+    },
+    "timeto": {
+      "1979": 0.2,
+      "1981": 0.2,
+      "12376": 0.2,
+      "13057": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3003044
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "04d1138934b460d81a7a39c27f57cfef",
+  "room": {
+    "id": 1961,
+    "title": [
+      "[Militia Armory]"
+    ],
+    "description": [
+      "Lockers line the walls, each held closed by a massive chain wrapped around its handles several times.  The sputtering candles create eerie shadows on the walls.  Muffled noises from beyond the steel door cause you to shiver involuntarily."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1958": "up",
+      "23927": "/rooms/1961/wayto/stringproc-23927.rb"
+    },
+    "timeto": {
+      "1958": 0.2,
+      "23927": 0.6
+    },
+    "uid": [
+      3003053
+    ]
+  }
+}

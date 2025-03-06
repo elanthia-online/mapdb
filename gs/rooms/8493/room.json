@@ -1,0 +1,40 @@
+{
+  "checksum": "7d7806861d0a93ddaf4d9e2b5babd007",
+  "room": {
+    "id": 8493,
+    "title": [
+      "[Temple, Sanctuary]"
+    ],
+    "description": [
+      "The crash of glass falling against stone startles you, making your heart pound against your ribcage.  A wooden column braces the wall, the pilaster carved with symbols that are now indecipherable.  A pair of faded ribbons dangles from the column, and a pile of dead flowers rests at your feet, likely fallen from the restraining ribbons."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "the Temple of Love",
+    "wayto": {
+      "8490": "east",
+      "8492": "north",
+      "8494": "south"
+    },
+    "timeto": {
+      "8490": 0.2,
+      "8492": 0.2,
+      "8494": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2155021
+    ],
+    "image": "wl-trollfang-1264234799.png",
+    "image_coords": [
+      279,
+      709,
+      289,
+      719
+    ]
+  }
+}

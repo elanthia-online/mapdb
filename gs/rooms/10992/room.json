@@ -1,0 +1,40 @@
+{
+  "checksum": "4a9547d059aa1135b492b66c162bad78",
+  "room": {
+    "id": 10992,
+    "title": [
+      "[Mislin Hall, Clerk's Office]"
+    ],
+    "description": [
+      "Dark maoral paneling and sparse furnishings -- only a desk and bookcase -- make for an austere and purely functional office.  Two shallow wooden boxes sit atop the desk, each filled with neatly penned documents, while parchment scrolls and thick ledgers fill the bookcase and lend a musty bite to the air."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Adventurer's Guild",
+    "wayto": {
+      "10991": "south",
+      "30711": "/rooms/10992/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10991": 0.2,
+      "30711": "/rooms/10992/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "advguild",
+      "urchin-access",
+      "urchin guide bounty",
+      "bounty"
+    ],
+    "uid": [
+      15003004
+    ],
+    "image": "adventurers_guild-1485358936.png",
+    "image_coords": [
+      295,
+      1442,
+      362,
+      1511
+    ]
+  }
+}

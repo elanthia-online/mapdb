@@ -1,0 +1,50 @@
+{
+  "checksum": "f45fb01bd62a3c917b49e752b88d6524",
+  "room": {
+    "id": 7591,
+    "title": [
+      "[Ant Nest, Tunnels]"
+    ],
+    "description": [
+      "This niche in the tunnel is dark.  Though your eyes adjust to the faint glow of the lichen to the south, no water drips into this dry, raised alcove, and the smooth stone is bare.  The continual clicking echoes louder here from the rock walls, though the crevice that forms a large opening between two slabs of rock seems oddly silent."
+    ],
+    "paths": [
+      "Obvious exits: southeast, south, southwest"
+    ],
+    "location": "the dark caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7585": "southeast",
+      "7590": "south",
+      "7596": "southwest",
+      "7600": "go crevice"
+    },
+    "timeto": {
+      "7585": 0.2,
+      "7590": 0.2,
+      "7596": 0.2,
+      "7600": 0.2
+    },
+    "tags": [
+      "pothinir grass",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      47032
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      82,
+      1048,
+      92,
+      1058
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "03374881c8dee70dee466f1d6094f6e4",
+  "room": {
+    "id": 6450,
+    "title": [
+      "[Abandoned Mine, Cavern]"
+    ],
+    "description": [
+      "Faint moonlight trickles down from fissures in the natural ceiling high overhead, dappling the floor below and glancing off the hundreds of stalagmites and stalactites that have turned this chamber into a ghostly collection of white and grey pillars.",
+      "Light trickles down from fissures in the natural ceiling high overhead, dappling the floor below and glancing off the hundreds of stalagmites and stalactites that have turned this chamber into a symphony of brilliant color."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Lysierian Hills",
+    "wayto": {
+      "6449": "go narrow opening",
+      "6451": "northeast",
+      "6455": "northwest"
+    },
+    "timeto": {
+      "6449": 0.2,
+      "6451": 0.2,
+      "6455": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      485005
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      1305,
+      213,
+      1315,
+      223
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checksum": "e3a408d83dd91121dee10e046334a3f9",
+  "room": {
+    "id": 5304,
+    "title": [
+      "[Deep Woods, Ruined Temple]"
+    ],
+    "description": [
+      "Dim light emanates from a hole in the stone wall to the west.  Dirt, dead plants and pine needles cover the once-fine marble grey marble floor, and branches take the place of the ceiling in multiple places.  The faint smell of rot tickles the back of your throat, not strong enough to make you retch but too pervasive to simply ignore."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the deep woods",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5305": "northeast",
+      "5311": "southeast",
+      "5699": "west"
+    },
+    "timeto": {
+      "5305": 0.2,
+      "5311": 0.2,
+      "5699": 0.2
+    },
+    "tags": [
+      "vesperti",
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "red vornalite mushroom",
+      "blue trafel mushroom",
+      "ironfern root",
+      "slender twig",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "brostheras grass",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4007019
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      1180,
+      251,
+      1188,
+      259
+    ]
+  }
+}

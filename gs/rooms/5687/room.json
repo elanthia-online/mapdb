@@ -1,0 +1,31 @@
+{
+  "checksum": "dcd64c6aee43103c54a6ac96334cca4a",
+  "room": {
+    "id": 5687,
+    "title": [
+      "[Treeva's Outfitting]",
+      "[Treeva's General Store]",
+      "[Treeva's Weaponry]"
+    ],
+    "description": [
+      "A framed Ta'Illistim map hangs on one of the painted emerald green walls, and a sturdy white cedar ceiling rises overhead.  A worn rug sits in one corner of a cream-colored ceramic tile floor.  There is a long mahogany rack on one side of the shop and a wide faenor-trimmed table on the other.",
+      "Enclosed by painted emerald green walls, the shop features a grey-veined white marble fountain in the center of its ceramic tile floor.  A framed Ta'Illistim map hangs under the white cedar ceiling.  Right near the front is a wide faenor-trimmed table and a long mahogany rack."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "wayto": {
+      "735": "out",
+      "12797": "east",
+      "12843": "north"
+    },
+    "timeto": {
+      "735": 0.2,
+      "12797": 0.2,
+      "12843": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

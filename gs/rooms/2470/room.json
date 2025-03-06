@@ -1,0 +1,44 @@
+{
+  "checksum": "c516abb9785b1c83908d384e0e486582",
+  "room": {
+    "id": 2470,
+    "title": [
+      "[Commerce Burrow, Bazaar]"
+    ],
+    "description": [
+      "A dizzying assortment of colorful tents and booths crowds the cobbles of the bazaar.  Farm stands selling produce from the Olbin Strath stand shoulder to shoulder with the bright silk pavilions of merchants out of Briarmoon Cove.  The savory aroma of roasting rolton weds tantalizingly with the sweetness of fresh-baked tarts on the chilly air.  One wooden warehouse along the perimeter is festooned with garlands, though many of the flowers are dusted with ice crystals.",
+      "The sights and sounds of this bustling bazaar almost overwhelm you.  Stands are set up all through this area selling various wares.  A group of halflings wander past, heading straight for the nearest food stand."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2469": "west",
+      "2471": "east",
+      "3375": "go wooden warehouse"
+    },
+    "timeto": {
+      "2469": 0.2,
+      "2471": 0.2,
+      "3375": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4042313
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      847,
+      1052,
+      883,
+      1088
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "checksum": "3dd13c78de7cd96ce269b62cb0ca0f4f",
+  "room": {
+    "id": 28599,
+    "title": [
+      "[Zelia's Temple, Foyer]"
+    ],
+    "description": [
+      "A beam of light streams through a crooked lunette carved into a slanted modwir door, creating a large half-moon shape on the grey floor tiles.  The walls mimic the tilt of the entryway, creating the discomforting sensation of falling.  A silvery glow extends up from the stone stairs that lead down and further into the temple."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the southern part of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "28598": "go door",
+      "28600": "go stairs"
+    },
+    "timeto": {
+      "28598": 0.2,
+      "28600": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4900502
+    ]
+  }
+}

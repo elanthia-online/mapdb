@@ -1,0 +1,50 @@
+{
+  "checksum": "aa04718182b81fabdeb849843c068472",
+  "room": {
+    "id": 10760,
+    "title": [
+      "[Empath Guild, Cloister]"
+    ],
+    "description": [
+      "Pale green vines, dotted with vivid morning glory blooms, twine up the columns on either side of this wide corridor that defines the north side of a cloister.  Darker vines with large, tightly closed flowers twist about the pale green counterparts, casting occasional shadows.  An intricate mosaic underfoot picks up the theme, with lapis and chalcedony flowers dotted among the variegated malachite leaves.",
+      "Vines so green as to be almost black dominate the columns of the cloister, overshadowing paler green counterparts.  Translucent white moonflower blossoms reveal themselves to the moons and stars above, filtering the night's offerings through their iridescent petals to dance upon the mosaic underfoot."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10759": "north",
+      "13716": "go steps",
+      "13720": "west",
+      "13722": "east"
+    },
+    "timeto": {
+      "10759": 0.2,
+      "13716": 0.2,
+      "13720": 0.2,
+      "13722": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:mapname:Ta'Vaalor - Empath Guild",
+      "meta:mapshortname:Empath Guild (Ta'Vaalor)",
+      "meta:mapcategory:Elven Nations",
+      "meta:mapcategory:Guilds"
+    ],
+    "uid": [
+      657002
+    ],
+    "image": "en-ta_vaalor_empath_guild.png",
+    "image_coords": [
+      1145,
+      320,
+      1209,
+      380
+    ]
+  }
+}

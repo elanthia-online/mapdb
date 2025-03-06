@@ -1,0 +1,57 @@
+{
+  "checksum": "4a2751cb0f8adc51e9358b59368a5f74",
+  "room": {
+    "id": 11990,
+    "title": [
+      "[Old Ta'Faendryl, Foothill]"
+    ],
+    "description": [
+      "A flight of cracked stone steps lead up the final slope of the hill, ending at the base of a large tower.  A faint breeze brings the sound of running water up from the river flowing past the base of the hill to the east.",
+      "A flight of cracked stone steps lead up the final slope of the hill, ending at the base of a large tower.  A faint breeze brings the sound of running water up from the river flowing past the base of the hill to the east.  Further on a pyramid, as tall as the hill and nearly as wide, lifts a sparkling white marble structure high above the city."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11985": "south",
+      "11989": "north",
+      "11991": "climb steps"
+    },
+    "timeto": {
+      "11985": 0.2,
+      "11989": 0.2,
+      "11991": 0.2
+    },
+    "tags": [
+      "small flower",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004033
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      437,
+      522,
+      447,
+      532
+    ]
+  }
+}

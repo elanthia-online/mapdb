@@ -1,0 +1,44 @@
+{
+  "checksum": "5bafb2f70ae5d32d856400cd8e06fc3e",
+  "room": {
+    "id": 7395,
+    "title": [
+      "[Mine Shaft]"
+    ],
+    "description": [
+      "The floors of the tunnel are covered with dirt and debris from the heavily mottled walls.  You notice a slight incline as the shaft extends to the east."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7394": "east",
+      "7396": "west"
+    },
+    "timeto": {
+      "7394": 0.2,
+      "7396": 0.2
+    },
+    "tags": [
+      "cave moss",
+      "blackgrove root",
+      "shadowlace moss",
+      "meta:forage-sensed",
+      "blue moss",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      389051
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1280,
+      339,
+      1288,
+      347
+    ]
+  }
+}

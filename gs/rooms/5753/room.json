@@ -1,0 +1,51 @@
+{
+  "checksum": "faa3a3547bb641a3bb4b4380a4f211b8",
+  "room": {
+    "id": 5753,
+    "title": [
+      "[Mraent Cavern, Entrance Tunnel]"
+    ],
+    "description": [
+      "A small oil lamp casts a feeble light onto this part of the tunnel.  The walls and floor have been polished, creating a sharp contrast with the ceiling, which still bears the mark of the tools that delved into the stone."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "the Mraent Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5752": "go blocks",
+      "5754": "down"
+    },
+    "timeto": {
+      "5752": 0.2,
+      "5754": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "red trafel mushroom",
+      "white hook mushroom",
+      "glowing toadstool",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      13008002
+    ],
+    "image": "en-zul_logoth-1639816187.png",
+    "image_coords": [
+      277,
+      44,
+      287,
+      54
+    ]
+  }
+}

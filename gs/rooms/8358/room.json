@@ -1,0 +1,38 @@
+{
+  "checksum": "5e2bcc206c6969f0f3422e9fcaffb95f",
+  "room": {
+    "id": 8358,
+    "title": [
+      "[Spider Temple, Cell]"
+    ],
+    "description": [
+      "Cool air seems to radiate from the large basalt slab that serves as bed but looks, for all the world, like a bier, giving the room a funereal cast.  Manacles, anxious to slowly gnaw upon the spirit of another captive, hang expectant against the basalt walls which seem to suck the light from the very air."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Spider Temple",
+    "wayto": {
+      "8353": "go door",
+      "25497": "/rooms/8358/wayto/stringproc-25497.rb"
+    },
+    "timeto": {
+      "8353": 0.2,
+      "25497": 4
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13023
+    ],
+    "image": "wl-spider_temple-1264234799.png",
+    "image_coords": [
+      525,
+      642,
+      535,
+      652
+    ]
+  }
+}

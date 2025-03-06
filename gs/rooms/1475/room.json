@@ -1,0 +1,46 @@
+{
+  "checksum": "9e4981dd165180f4540362c6b26fefe5",
+  "room": {
+    "id": 1475,
+    "title": [
+      "[Solhaven, Nerite Lane]"
+    ],
+    "description": [
+      "The bustle of merchants, tradesmen, and sailors through the intersection is almost frantic.  More than a few of them appear to do business within a rather run-down corner shop that displays three brass spheres above the door."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1473": "north",
+      "1478": "west",
+      "1479": "east",
+      "1480": "south",
+      "5711": "go shop"
+    },
+    "timeto": {
+      "1473": 0.2,
+      "1478": 0.2,
+      "1479": 0.2,
+      "1480": 0.2,
+      "5711": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4209048
+    ],
+    "image": "vo-solhaven-1675635404.png",
+    "image_coords": [
+      880,
+      702,
+      904,
+      726
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checksum": "103d62bb15c138dc92263de0af96a4bb",
+  "room": {
+    "id": 6245,
+    "title": [
+      "[Labyrinth, The Dark Altar]"
+    ],
+    "description": [
+      "The tunnel opens into a large, open room.  Carpet remnants line the floor, stretching into separate tunnels as they split into different directions.  Bronze statues depicting large, cloaked priests rest between each path."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "The Hidden Plateau",
+    "wayto": {
+      "6240": "go stair",
+      "6246": "southeast",
+      "6364": "/rooms/6245/wayto/stringproc-6364.rb",
+      "12976": "northeast"
+    },
+    "timeto": {
+      "6240": 0.2,
+      "6246": 0.2,
+      "6364": 0.2,
+      "12976": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "withered black mushroom",
+      "soft white mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2167102
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1160,
+      493,
+      1178,
+      511
+    ]
+  }
+}

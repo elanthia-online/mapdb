@@ -1,0 +1,32 @@
+{
+  "checksum": "e3c9707c46079f7d9e2c3651c4091db0",
+  "room": {
+    "id": 35199,
+    "title": [
+      "[Annex, House Aspis Lobby]"
+    ],
+    "description": [
+      "Simple, but elegant, the teakwood flooring of this room is polished to a lustrous sheen.  A silver velvet pennant edged in viridian hangs near a heavy, white muslin curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12295": "go pointed arch",
+      "35200": "go white curtain"
+    },
+    "timeto": {
+      "12295": 0.2,
+      "35200": 0.2
+    },
+    "tags": [
+      "meta:locker",
+      "annex:Argent",
+      "Aspis"
+    ],
+    "uid": [
+      3215101
+    ]
+  }
+}

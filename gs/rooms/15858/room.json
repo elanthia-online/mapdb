@@ -1,0 +1,30 @@
+{
+  "checksum": "0a388e16ca5dd154c1da913f3a26f7d0",
+  "room": {
+    "id": 15858,
+    "title": [
+      "[Snagus' Magic Shoppe]",
+      "[Snagus' Weaponry]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A smooth plaster counter and a plain wooden table stand side by side in the middle of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2373": "out",
+      "15874": "east",
+      "15875": "north"
+    },
+    "timeto": {
+      "2373": 0.2,
+      "15874": 0.2,
+      "15875": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

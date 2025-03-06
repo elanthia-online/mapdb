@@ -1,0 +1,48 @@
+{
+  "checksum": "19c26012625a57abb1500acc867d1a87",
+  "room": {
+    "id": 5913,
+    "title": [
+      "[Catacombs, Tunnels]"
+    ],
+    "description": [
+      "An ungodly funk permeates throughout this chamber, and the reason for the stench rests along the southern wall.  Slumped in the corner rests the decaying corpse of a fallen warrior.  In his hands, he still clutches his instruments of warfare.  Pity, for they obviously did very little to fend off whatever may have killed him."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "5912": "go door",
+      "5914": "east"
+    },
+    "timeto": {
+      "5912": 0.2,
+      "5914": 0.2
+    },
+    "tags": [
+      "black hook mushroom",
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "ironfern root",
+      "white hook mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "murdroot",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14009005
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      355,
+      742,
+      362,
+      751
+    ]
+  }
+}

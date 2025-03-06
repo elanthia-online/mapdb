@@ -1,0 +1,33 @@
+{
+  "checksum": "d9e29e4a43c0f8dd9b3a635ce4a86559",
+  "room": {
+    "id": 27789,
+    "title": [
+      "[Zedarva's Weaponry]",
+      "[Zedarva's General Store]"
+    ],
+    "description": [
+      "Plain wooden walls rise from an unfinished wooden floor.  Just above a worn rug hangs a tattered merchant permit, and an uneven wooden ceiling completes the picture.  A badly scarred oak counter and a plain wooden table stand side by side in the middle of the room.",
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A plain wooden table sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "27786": "east"
+    },
+    "timeto": {
+      "27786": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:playershop"
+    ],
+    "uid": [
+      632379
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checksum": "d09ed0d4870a80015bbeba0889bd0655",
+  "room": {
+    "id": 18331,
+    "title": [
+      "[Saewehna Lagoon]"
+    ],
+    "description": [
+      "Moonlight filters in through the branches of nearby trees on the shoreline, breaking apart the shadows that drift across the black surface of the lagoon.  The occasional vague shape shifts beneath the water, too dark to be properly seen as it makes its way through the lagoon's depths.",
+      "Sunlight filters in through the branches of nearby trees on the shoreline, broken into brilliant shafts that illuminate the vivid blue surface of the lagoon.  A few stray flowers float in the water, drifting around aimlessly as the current shifts them to and fro, and the occasional silvery fish nibbles at the underside."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, south"
+    ],
+    "location": "the environs of the Saewehna Lagoon",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "18318": "swim north",
+      "18328": "swim south",
+      "18329": "swim northeast",
+      "18330": "swim east",
+      "18332": "go shoreline",
+      "18333": "swim southeast"
+    },
+    "timeto": {
+      "18318": 5,
+      "18328": 5,
+      "18329": 5,
+      "18330": 5,
+      "18332": 0.2,
+      "18333": 5
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3210481
+    ],
+    "image": "ifw-saewehna_lagoon-1525325794.png",
+    "image_coords": [
+      1959,
+      841,
+      1989,
+      868
+    ]
+  }
+}

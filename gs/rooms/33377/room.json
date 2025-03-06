@@ -1,0 +1,27 @@
+{
+  "checksum": "447c540213e7f123f2a3971ef4407e79",
+  "room": {
+    "id": 33377,
+    "title": [
+      "[Vornavis, Castle Hallway]"
+    ],
+    "description": [
+      "Polished marble traverses the south-north expanse of the hallway, decorating the open space between stained glass windows and the portraits of nameless nobility staring blankly from the walls.  Twin doors, a plastered ivory door and an unmarked door, offer entry into other chambers, while a guarded staircase built between the pair leads to the Baronial Bower."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Vornavis Proper",
+    "wayto": {
+      "33301": "go linden doorway",
+      "33378": "north"
+    },
+    "timeto": {
+      "33301": 0.2,
+      "33378": 0.2
+    },
+    "uid": [
+      4201013
+    ]
+  }
+}

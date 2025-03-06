@@ -1,0 +1,35 @@
+{
+  "checksum": "86a05e7e816f9f1c3cab91993e7acea4",
+  "room": {
+    "id": 26332,
+    "title": [
+      "[Barracks, Corridor]"
+    ],
+    "description": [
+      "The hallway splits three ways here, two paths stretching to either side, while another passage leading into complete darkness south of here.  From nearby, the sound of clanging metal reverberates loudly."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26331": "north",
+      "26333": "west",
+      "26338": "south",
+      "26344": "east"
+    },
+    "timeto": {
+      "26331": 0.2,
+      "26333": 0.2,
+      "26338": 0.2,
+      "26344": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1326,
+      137,
+      1352,
+      163
+    ]
+  }
+}

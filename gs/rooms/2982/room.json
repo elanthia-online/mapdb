@@ -1,0 +1,41 @@
+{
+  "checksum": "a8240a1942024d417b685face12d8955",
+  "room": {
+    "id": 2982,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "Several large niches have been carved into the stone, each holding skeletal remains.  Long-withered flowers, brittle with time, lie in dusty piles at the base of each of these alcoves."
+    ],
+    "paths": [
+      "Obvious exits: north, east, northwest"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2980": "east",
+      "2983": "northwest",
+      "2984": "north"
+    },
+    "timeto": {
+      "2980": 0.2,
+      "2983": 0.2,
+      "2984": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132117
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1393,
+      531,
+      1444,
+      586
+    ]
+  }
+}

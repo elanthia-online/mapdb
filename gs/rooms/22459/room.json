@@ -1,0 +1,24 @@
+{
+  "checksum": "833fa64ea2bd66d5af892a7e0b9fb29c",
+  "room": {
+    "id": 22459,
+    "title": [
+      "[Explorer's Outpost]"
+    ],
+    "description": [
+      "Polished wood-paneled walls surround this small room, their smooth surfaces broken only by the door leading out and a narrow arch leading further into the wagon.  Two low tables house a variety of relics and treasures, some still caked with dirt from whence they came."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "22458": "out",
+      "23978": "go arch"
+    },
+    "timeto": {
+      "22458": 0.2,
+      "23978": 0.2
+    }
+  }
+}

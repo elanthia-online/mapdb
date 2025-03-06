@@ -1,0 +1,50 @@
+{
+  "checksum": "7b6c9eb5580efb67116006742e71edd7",
+  "room": {
+    "id": 5661,
+    "title": [
+      "[Warrens]"
+    ],
+    "description": [
+      "A few jagged divots have been clawed into the wall to allow easier access to the gaping opening above, and a gnarled root hanging near the hole serves as a handhold to further ease the climb.  As skinny as the plantlike tendril is, it doesn't appear is if it could support much weight.  Several other roots tumble to the floor in a twisted mass."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest, up"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5660": "up",
+      "5662": "northwest",
+      "5663": "go roots",
+      "5664": "northeast"
+    },
+    "timeto": {
+      "5660": 0.2,
+      "5662": 0.2,
+      "5663": 0.2,
+      "5664": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4006022
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      576,
+      688,
+      586,
+      698
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "checksum": "edaf300df53426a08ad0def63bfedd29",
+  "room": {
+    "id": 23183,
+    "title": [
+      "[Twilight Hall, Lockers]"
+    ],
+    "description": [
+      "Several sturdy lockers line the walls here, decorated with elegant golden leafwork and intricate etchings.  Your locker has been removed from the shelf above and sits ready for you on a sturdy counter."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "18853": "go curtained opening"
+    },
+    "timeto": {
+      "18853": 0.2
+    },
+    "tags": [
+      "peer opening =~ /Twilight, West Tapestry Room/",
+      "meta:che:Twilight Hall",
+      "meta:locker"
+    ],
+    "uid": [
+      108117
+    ],
+    "image": "wl-twilight_hall.jpg",
+    "image_coords": [
+      271,
+      839,
+      328,
+      883
+    ],
+    "unique_loot": [
+      "curtained opening"
+    ]
+  }
+}

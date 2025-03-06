@@ -1,0 +1,42 @@
+{
+  "checksum": "539148214e7713c6047a18c180cbaed8",
+  "room": {
+    "id": 3686,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "Your eyes strain to adjust to the utter darkness of your surroundings.  Strange, scuffling noises from the corner of the room cause your nerves to prickle unpleasantly.  Moving cautiously, your hands outstretched before you, you discover a smooth, cold rock which feels as if it's been pulled from the wall."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "3687": "out",
+      "7070": "go tunnel"
+    },
+    "timeto": {
+      "3687": 0.2,
+      "7070": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      42019
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      243,
+      1117,
+      253,
+      1127
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "checksum": "f26d0408cd4e3ee75daced485a6e8204",
+  "room": {
+    "id": 4646,
+    "title": [
+      "[Cysaegir, Treetop Platform]"
+    ],
+    "description": [
+      "The platform here is interrupted by a massive tree and the decking splits around the trunk, continuing on in northeasterly and southeasterly directions.  A large central section of the tree has been carved away and a large bell hangs within the tiny wooden alcove."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "the village of Cysaegir",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "4641": "west",
+      "4645": "northeast",
+      "4649": "southeast"
+    },
+    "timeto": {
+      "4641": 0.2,
+      "4645": 0.2,
+      "4649": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      14050034
+    ],
+    "image": "en-cysaegir-1679641246.png",
+    "image_coords": [
+      421,
+      424,
+      446,
+      449
+    ]
+  }
+}

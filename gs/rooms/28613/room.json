@@ -1,0 +1,36 @@
+{
+  "checksum": "a9f1b7890a8050cd910f95be515ca994",
+  "room": {
+    "id": 28613,
+    "title": [
+      "[Chapel of the Twins, Entry]"
+    ],
+    "description": [
+      "Embraced by the mirror-image ascents of two curved stairways, the antechamber is a relic of good taste tarnished by the cruelties of time and abandonment.  The floor is a checkerboard of white and black tiles, though age has riddled both hues with impurities and the stones with spidering cracks.  A tiered golden corona lies, bent and warped, in the shadow of the upper balcony.  Light filtering through mud-caked windows breathes prismatic life into shards of crystal scattered over the tiles."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "1519": "go doors",
+      "28614": "go stairway",
+      "28615": "west",
+      "28616": "east"
+    },
+    "timeto": {
+      "1519": 0.2,
+      "28614": 0.2,
+      "28615": 0.2,
+      "28616": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749831
+    ]
+  }
+}

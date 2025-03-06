@@ -1,0 +1,65 @@
+{
+  "checksum": "5b3a9df0d0cb33dd59b20eb102d156ab",
+  "room": {
+    "id": 29033,
+    "title": [
+      "[Kraken's Fall, First Pier]"
+    ],
+    "description": [
+      "Fanning out around the pentagonal-shaped end of the pier, five tie pilings provide a wide berth for ships to sit at anchor while still being bound to the platform.  Fresh tar is clearly visible along the edges of the platform, the gooey substance assisting in the longevity of the wood by helping to prevent rot.  An A-framed white sign that reads \"Pier 1 - Slips 20-25\" rests on the smooth wood."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "250": "/rooms/29033/wayto/stringproc-250.rb",
+      "1870": "/rooms/29033/wayto/stringproc-1870.rb",
+      "10838": "/rooms/29033/wayto/stringproc-10838.rb",
+      "11756": "/rooms/29033/wayto/stringproc-11756.rb",
+      "29034": "northeast",
+      "30716": "/rooms/29033/wayto/stringproc-30716.rb",
+      "31493": "/rooms/29033/wayto/stringproc-31493.rb",
+      "32372": "/rooms/29033/wayto/stringproc-32372.rb",
+      "32928": "/rooms/29033/wayto/stringproc-32928.rb"
+    },
+    "timeto": {
+      "250": "/rooms/29033/timeto/stringproc-250.rb",
+      "1870": "/rooms/29033/timeto/stringproc-1870.rb",
+      "10838": "/rooms/29033/timeto/stringproc-10838.rb",
+      "11756": "/rooms/29033/timeto/stringproc-11756.rb",
+      "29034": 0.2,
+      "30716": "/rooms/29033/timeto/stringproc-30716.rb",
+      "31493": "/rooms/29033/timeto/stringproc-31493.rb",
+      "32372": "/rooms/29033/timeto/stringproc-32372.rb",
+      "32928": "/rooms/29033/timeto/stringproc-32928.rb"
+    },
+    "tags": [
+      "portmaster",
+      "silver-cost:250:25000",
+      "urchin guide portmaster",
+      "urchin-access",
+      "silver-cost:11756:25000",
+      "silver-cost:10838:25000",
+      "silver-cost:1870:25000",
+      "silver-cost:31493:35000",
+      "urchin guide docks",
+      "silver-cost:32372:25000",
+      "silver-cost:32928:25000",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118259
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      239,
+      735,
+      255,
+      750
+    ]
+  }
+}

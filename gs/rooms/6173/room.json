@@ -1,0 +1,52 @@
+{
+  "checksum": "7d30fb0b570a710cabaad969c41237f5",
+  "room": {
+    "id": 6173,
+    "title": [
+      "[Hidden Plateau]"
+    ],
+    "description": [
+      "A dull stone fountain rests near the base of the chipped marble staircase that leads into the palace ruins.  Scattered cobblestones circle around the fountain and head away to the west, hinting at a long overgrown road."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "The Hidden Plateau",
+    "climate": "temperate",
+    "terrain": "subterranean",
+    "wayto": {
+      "6172": "west",
+      "6175": "go staircase"
+    },
+    "timeto": {
+      "6172": 0.2,
+      "6175": 0.2
+    },
+    "tags": [
+      "genkew mushroom",
+      "withered black mushroom",
+      "flathead mushroom",
+      "soft white mushroom",
+      "daggerstalk mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2167123
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      144,
+      819,
+      178,
+      853
+    ]
+  }
+}

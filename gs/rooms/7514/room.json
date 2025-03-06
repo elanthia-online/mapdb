@@ -1,0 +1,32 @@
+{
+  "checksum": "0d3a96c23424d0ec9cac9eb955754877",
+  "room": {
+    "id": 7514,
+    "title": [
+      "[Shanty Town, Inside Hut]"
+    ],
+    "description": [
+      "You are inside a one-room hovel.  A worn quilt patched together from hundreds of tiny scraps of fabric is folded neatly in the corner.  A fat candle, melted down to a waxy stub, rests atop a warped crate in the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "311": "out",
+      "7513": "go hole"
+    },
+    "timeto": {
+      "311": 0.2,
+      "7513": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4018
+    ]
+  }
+}

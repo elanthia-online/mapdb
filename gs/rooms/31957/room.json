@@ -1,0 +1,55 @@
+{
+  "checksum": "f7460b7342378aa7b1a08cd41a11c9f3",
+  "room": {
+    "id": 31957,
+    "title": [
+      "[Vigil's End, Legion Lane]"
+    ],
+    "description": [
+      "Weatherbeaten fences section off pastures in the sage green fields, patchy with amorphous pockets of sanguine flowers slicked wet by dew.  A decaying, beaded pony harness hangs from a hitching post adjacent to the double doors leading into a dark red stable with low windows.  White beams cross the gapped facade, the paint chipped enough to reveal the natural wood grain.  Finely ground gravel, bursting with prickly weeds, lays a path to the small stone lodge set back from the road."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "grassland",
+    "wayto": {
+      "31956": "east",
+      "31958": "west",
+      "34824": "go lodge",
+      "34825": "go stable"
+    },
+    "timeto": {
+      "31956": 0.2,
+      "31958": 0.2,
+      "34824": 0.2,
+      "34825": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "orange milkweed flowers",
+      "red reishi mushroom",
+      "jagged boneset leaf",
+      "marigold blossoms",
+      "orange-yellow chamomile",
+      "pineapple sage",
+      "evermore rosehip",
+      "downy skullcap",
+      "winterbriar moss",
+      "meta:forage-sensed:day:2023-10"
+    ],
+    "uid": [
+      8083096
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      1320,
+      333,
+      1345,
+      355
+    ]
+  }
+}

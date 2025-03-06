@@ -1,0 +1,28 @@
+{
+  "checksum": "1f4515f43f00ada6b0874774fa5c71f5",
+  "room": {
+    "id": 4523,
+    "title": [
+      "[Works of War, Armorworks]"
+    ],
+    "description": [
+      "Occasional gouts of thick smoke and fumes leak from the seals off a large pipe that runs out of the northern wall and then up through the ceiling.  Hot gases waft about the room, stinging your eyes and making it hard to breathe.  A large armor rack adorns the south wall, while a stout oak table occupies the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4522": "northwest",
+      "4524": "northeast"
+    },
+    "timeto": {
+      "4522": 0.2,
+      "4524": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

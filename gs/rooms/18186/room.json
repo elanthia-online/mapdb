@@ -1,0 +1,34 @@
+{
+  "checksum": "2ff6e7fa494836e2bded6e0f77ce6822",
+  "room": {
+    "id": 18186,
+    "title": [
+      "[Melgorehn's Reach, Hot Spring]"
+    ],
+    "description": [
+      "You are in a natural cave of the mountain.  The walls are coated with a glowing fungus providing significant lighting.  Bubbling in one corner is a small pool fed by a hot spring.  The water quickly wanders across the chamber floor in a shallow stream and then vanishes into an opening on the west wall."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Melgorehn's Reach",
+    "climate": "hot, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "451": "/rooms/18186/wayto/stringproc-451.rb",
+      "18185": "go shaft",
+      "18187": "/rooms/18186/wayto/stringproc-18187.rb"
+    },
+    "timeto": {
+      "451": 0.2,
+      "18185": 0.2,
+      "18187": 0.4
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      52018
+    ]
+  }
+}

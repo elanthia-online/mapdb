@@ -1,0 +1,30 @@
+{
+  "checksum": "57599cc481598dc5aff8f21574f1d201",
+  "room": {
+    "id": 29456,
+    "title": [
+      "[Sorrow's Edge, Den of Sorrow]"
+    ],
+    "description": [
+      "The room, lit by a single central brazier, is filled with the strong smell of alcohol and blood.  Faded stains that color every visible surface in shades of red hint at many failed cleanup attempts.  A well-organized collection of metal tools lies on top of a small oaken table, while a set of bronze implements hangs from the side of the brazier.  A torturer's rack is propped up against one wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Sorrow's Edge, outside the glacier-locked town of Icemule Trace",
+    "wayto": {
+      "29455": "go door",
+      "29457": "go gate"
+    },
+    "timeto": {
+      "29455": 0.2,
+      "29457": 0.2
+    },
+    "tags": [
+      "private property"
+    ],
+    "uid": [
+      1303203
+    ]
+  }
+}

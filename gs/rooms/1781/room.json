@@ -1,0 +1,39 @@
+{
+  "checksum": "87428a944838eedb0c45eead77b307c9",
+  "room": {
+    "id": 1781,
+    "title": [
+      "[Hall of Justice, Clerk's Office]"
+    ],
+    "description": [
+      "Stacks of files and papers occupy most of the available space in this small square room.  Behind a long wooden desk, the court clerk sits quietly pouring over some paperwork, occasionally pausing to mark a document with the seal of the court.  The only other permanent fixture in the office seems to be the two city guardsmen that flank the clerk on either side of the desk."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1780": "west",
+      "30714": "/rooms/1781/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "1780": 0.2,
+      "30714": "/rooms/1781/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "jail",
+      "urchin-access",
+      "urchin guide justice",
+      "justice",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      13105002
+    ]
+  }
+}

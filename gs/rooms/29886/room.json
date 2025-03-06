@@ -1,0 +1,48 @@
+{
+  "checksum": "f85d790e19285d734a5ae6553078a5b7",
+  "room": {
+    "id": 29886,
+    "title": [
+      "[Hinterwilds, Issenflow Banks]"
+    ],
+    "description": [
+      "Trapped in the thin skin of ice clinging to the river's edge, a small wooden boat has been abandoned by its occupants.  Without sunlight to silver the wood, it is difficult to tell how long the boat has been locked in place, but a carpet of snowfall now resides within."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, west"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "glacial",
+    "terrain": "riparian",
+    "wayto": {
+      "29885": "west",
+      "29887": "southeast",
+      "29889": "northeast",
+      "30115": "go river"
+    },
+    "timeto": {
+      "29885": 0.2,
+      "29887": 0.2,
+      "29889": 0.2,
+      "30115": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "ironfern root",
+      "sunburst blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503106
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      807,
+      1147,
+      823,
+      1163
+    ]
+  }
+}

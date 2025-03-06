@@ -1,0 +1,40 @@
+{
+  "checksum": "554b9add8dfbfcd5dc2da2e8f52eb343",
+  "room": {
+    "id": 11364,
+    "title": [
+      "[Citadel, Hallway]"
+    ],
+    "description": [
+      "Many layers of dust coat the floor of the hallway here, dampening the sounds of your footfalls."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "11363": "south",
+      "11365": "west",
+      "11370": "east"
+    },
+    "timeto": {
+      "11363": 0.2,
+      "11365": 0.2,
+      "11370": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377023
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      177,
+      1141,
+      187,
+      1151
+    ]
+  }
+}

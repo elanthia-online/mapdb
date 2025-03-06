@@ -1,0 +1,46 @@
+{
+  "checksum": "5328a6a6b0017b4609c749d81037a251",
+  "room": {
+    "id": 23399,
+    "title": [
+      "[A Dark Tunnel, Staircase]"
+    ],
+    "description": [
+      "It is very dark and cold here, and the steep stairs underfoot are very slippery."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23398": "go stairs",
+      "23401": "down"
+    },
+    "timeto": {
+      "23398": 0.2,
+      "23401": 0.2
+    },
+    "tags": [
+      "peer down =~ /Obvious exits: down/",
+      "white hook mushroom",
+      "glowing toadstool",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13018025
+    ],
+    "image": "en-zul_logoth_liaerion-1703216519.png",
+    "image_coords": [
+      190,
+      399,
+      200,
+      409
+    ]
+  }
+}

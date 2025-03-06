@@ -1,0 +1,34 @@
+{
+  "checksum": "75f2f6845ddedca798021b2876485435",
+  "room": {
+    "id": 28122,
+    "title": [
+      "[Rumor Woods, Small Cave]"
+    ],
+    "description": [
+      "The walls of the cramped cave are heavy with moss, lichen, and frost.  A smattering of small bones betray the cave's possible use as a den for a predator sometime in the past.  An array of delicate icicles hanging from the cave's mouth, while only darkness lies further in."
+    ],
+    "paths": [
+      "Obvious paths: northeast"
+    ],
+    "location": false,
+    "wayto": {
+      "28123": "northeast",
+      "28124": "/rooms/28122/wayto/stringproc-28124.rb"
+    },
+    "timeto": {
+      "28123": 0.2,
+      "28124": 1
+    },
+    "uid": [
+      8208630
+    ],
+    "image": "fest-foxhunt-1654928999.jpg",
+    "image_coords": [
+      249,
+      793,
+      272,
+      818
+    ]
+  }
+}

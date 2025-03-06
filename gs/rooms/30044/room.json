@@ -1,0 +1,42 @@
+{
+  "checksum": "75cf5972176627d9347049f6649a2dab",
+  "room": {
+    "id": 30044,
+    "title": [
+      "[Angargreft, Hanging Gardens]"
+    ],
+    "description": [
+      "A splash of incongruous greenery beckons from one of the planters in the form of a single fruit tree.  The sapling is heavily encased in ice, and appears to have been frozen swiftly enough to preserve a semblance of life to its graceful branches and spade-like leaves.  Spindly fruits with skins that glitter like spun gold hang from the branches, tantalizing but trapped in their frosty shell."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30043": "south",
+      "30045": "north"
+    },
+    "timeto": {
+      "30043": 0.2,
+      "30045": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503473
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      941,
+      187,
+      957,
+      202
+    ]
+  }
+}

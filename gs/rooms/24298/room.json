@@ -1,0 +1,28 @@
+{
+  "checksum": "c50fd27b488e199183a7086f435c0ebd",
+  "room": {
+    "id": 24298,
+    "title": [
+      "[Rumrunners' Tavern, Cellar]"
+    ],
+    "description": [
+      "Fruit in various stages of decay rests upon lopsided shelves.  An old, tarnished brass candelabrum hosts a plethora of flickering, tall pillar candles, brightly bathing the room with light.  The uneven floor slopes downward from south to north.  Kegs and casks are stacked in triangular formations at each corner of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "24297": "go stairway",
+      "24303": "west",
+      "24304": "south",
+      "24305": "east"
+    },
+    "timeto": {
+      "24297": 0.2,
+      "24303": 0.2,
+      "24304": 0.2,
+      "24305": 0.2
+    }
+  }
+}

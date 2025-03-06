@@ -1,0 +1,30 @@
+{
+  "checksum": "5f8abff2103415d370405ffd22004569",
+  "room": {
+    "id": 4391,
+    "title": [
+      "[Ruby Level, South Hall]"
+    ],
+    "description": [
+      "A pair of crossed battle-axes adorn one of the earthen walls, both of the weapons bearing leather-wrapped ebon hafts and sharp invar blades."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4389": "east",
+      "4392": "west",
+      "4398": "north"
+    },
+    "timeto": {
+      "4389": 0.2,
+      "4392": 0.2,
+      "4398": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

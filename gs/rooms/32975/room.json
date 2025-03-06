@@ -1,0 +1,30 @@
+{
+  "checksum": "d181e88c71dda9bb33d19bb816195549",
+  "room": {
+    "id": 32975,
+    "title": [
+      "[House Sylvanfair, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "32974": "east",
+      "32976": "go beaded curtain"
+    },
+    "timeto": {
+      "32974": 0.2,
+      "32976": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House Sylvanfair"
+    ],
+    "uid": [
+      5001260
+    ]
+  }
+}

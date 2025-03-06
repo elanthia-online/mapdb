@@ -1,0 +1,33 @@
+{
+  "checksum": "2d45e40b595f4a75d996a6eff579ced9",
+  "room": {
+    "id": 23186,
+    "title": [
+      "[A Weathered Shack]"
+    ],
+    "description": [
+      "Long modwir shelves lined with various potions, tools, and the unidentifiable remains of plants dominate one side of this relatively large shack.  A simple counter sits near the rear of the room directly in front of a thick wooden door."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "426": "out"
+    },
+    "timeto": {
+      "426": 0.2
+    },
+    "tags": [
+      "ranger shack",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      142001
+    ],
+    "check_location": true
+  }
+}

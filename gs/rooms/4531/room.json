@@ -1,0 +1,30 @@
+{
+  "checksum": "18301acd8619abc17bd69f4f3334d271",
+  "room": {
+    "id": 4531,
+    "title": [
+      "[Crystal Level, Hall]"
+    ],
+    "description": [
+      "Water sporadically drips from the ceiling, although it never seems to fall to the same spot twice.  As a result of this constant leaking, the ground is muddy and soft.  Somebody has thoughtfully placed a few planks over the muck, but they are mostly underwater and of little use."
+    ],
+    "paths": [
+      "Obvious exits: east, northwest"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4485": "east",
+      "4526": "northwest",
+      "4532": "go hole"
+    },
+    "timeto": {
+      "4485": 0.2,
+      "4526": 0.2,
+      "4532": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

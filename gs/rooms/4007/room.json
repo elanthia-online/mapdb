@@ -1,0 +1,50 @@
+{
+  "checksum": "f2e1e714a889ab1834e3d2a63a9093cf",
+  "room": {
+    "id": 4007,
+    "title": [
+      "[Griffin's Keen, Inner Trail]"
+    ],
+    "description": [
+      "The trail curls up out of the gully, hugging the grey-white mountainside closely.  Shrieking wails sound from all around, but whether they are the tortured cries of intelligent souls or the whistling screech of the wind is unclear."
+    ],
+    "paths": [
+      "Obvious paths: up, down"
+    ],
+    "location": "Griffin's Keen",
+    "climate": "glacial",
+    "terrain": "mountainous",
+    "wayto": {
+      "4003": "/rooms/4007/wayto/stringproc-4003.rb",
+      "4008": "up"
+    },
+    "timeto": {
+      "4003": 4.2,
+      "4008": 0.2
+    },
+    "tags": [
+      "sassafras leaf",
+      "sweetfern stalk",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "sprig of holly",
+      "meta:forage-sensed",
+      "ironfern root",
+      "sunburst blossom",
+      "deep purple shockroot",
+      "meta:forage-sensed:day:2023-11",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      13302147
+    ],
+    "image": "en-skull-1264234799.png",
+    "image_coords": [
+      771,
+      290,
+      781,
+      300
+    ]
+  }
+}

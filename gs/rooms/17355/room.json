@@ -1,0 +1,34 @@
+{
+  "checksum": "5ae849575bd04266828d1f72b7e04b51",
+  "room": {
+    "id": 17355,
+    "title": [
+      "[Warrior Guild, Basement]"
+    ],
+    "description": [
+      "Wine-casks, ale barrels, and sacks of flour fill the corners of the room to the rafters.  Although the narrow chamber is packed to capacity, there is order to the stored goods and all is clearly labeled.  A large bin near the door holds fresh locally grown apples."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17354": "go steps",
+      "17357": "north"
+    },
+    "timeto": {
+      "17354": 0.2,
+      "17357": 0.2
+    },
+    "uid": [
+      253040
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      882,
+      865,
+      902,
+      884
+    ]
+  }
+}

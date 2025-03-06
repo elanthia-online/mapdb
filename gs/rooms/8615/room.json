@@ -1,0 +1,42 @@
+{
+  "checksum": "ff15f1a3a361538f16b1d5feb2d91a29",
+  "room": {
+    "id": 8615,
+    "title": [
+      "[Blacksmith, Front Yard]"
+    ],
+    "description": [
+      "A horse is tied to a hitching post in the open yard of Iron Jack's.  Near a well in the middle of the yard, the horse's owner is haggling with one of the blacksmiths over the price of new horse shoes.  Now and again, one of the apprentices comes running out of the forge area to get a piece of metal from one of the several stacks of metal around the yard."
+    ],
+    "paths": [
+      "Obvious exits: north, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "261": "out",
+      "8616": "north",
+      "13898": "go doorway"
+    },
+    "timeto": {
+      "261": 0.2,
+      "8616": 0.2,
+      "13898": 0.2
+    },
+    "tags": [
+      "warrior guild sheet metal",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      3018
+    ],
+    "image": "wl-wehnimers-1264234799.png",
+    "image_coords": [
+      505,
+      490,
+      514,
+      499
+    ]
+  }
+}

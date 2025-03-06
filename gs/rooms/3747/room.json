@@ -1,0 +1,48 @@
+{
+  "checksum": "32f07829c9338284c8361f280327168c",
+  "room": {
+    "id": 3747,
+    "title": [
+      "[Ta'Illistim Hall, Courtyard]"
+    ],
+    "description": [
+      "Vines of bright purple clematis creep up the high granite walls that frame this cozy hexagonal courtyard.  Benches have been placed on the slate patio, shaded by large potted orange trees.  Opposite an ornate wrought-iron gate stands a pair of tall double doors that lead into a large greystone building.  Small flowerbeds have been placed against the free walls, planted with daisies and lilacs."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31": "go gate",
+      "28580": "go doors",
+      "30714": "/rooms/3747/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "31": 0.2,
+      "28580": 0.2,
+      "30714": "/rooms/3747/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "mho hall",
+      "mho hall board",
+      "urchin-access",
+      "urchin guide townhall",
+      "townhall",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      851001
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1413,
+      795,
+      1434,
+      817
+    ]
+  }
+}

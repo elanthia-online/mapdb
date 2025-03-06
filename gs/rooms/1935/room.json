@@ -1,0 +1,39 @@
+{
+  "checksum": "aec86da41e3e97eafd6a40de27dff691",
+  "room": {
+    "id": 1935,
+    "title": [
+      "[Adventurers' Rest, Long Hall]"
+    ],
+    "description": [
+      "Gusts of hot air blow into the cavern, occasionally picking up ash and carrying it off to another part of the passage.  The walls are crystallized and appear to have been exposed to some great heat recently."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1934": "west",
+      "1936": "east",
+      "33022": "go emerald archway"
+    },
+    "timeto": {
+      "1934": 0.2,
+      "1936": 0.2,
+      "33022": 0.2
+    },
+    "tags": [
+      "houselockers"
+    ],
+    "uid": [
+      3003030
+    ],
+    "image": "ti-adventurers_rest-1486448911.png",
+    "image_coords": [
+      502,
+      668,
+      648,
+      735
+    ]
+  }
+}

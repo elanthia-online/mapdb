@@ -1,0 +1,44 @@
+{
+  "checksum": "57d74b280efd73be52225d8c41f41e83",
+  "room": {
+    "id": 5713,
+    "title": [
+      "[Solhaven Inn, Main Hall]"
+    ],
+    "description": [
+      "Royal blue wall hangings and marble sheathed walls lend an air of elegance to the main hall of the Inn.  Black, white, and rose marble is placed in an elaborate pattern covering the floor.  Several vultite inlaid modwir tables are ranged around the edge of the room, each with a pair of heavy carved modwir chairs in attendance.  The centerpiece of the room is an immense crystal and candle chandelier, which sends sparks of soft light throughout the room."
+    ],
+    "paths": [
+      "Obvious exits: north, southwest, out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1455": "out",
+      "5714": "north",
+      "5715": "southwest",
+      "5716": "go arch",
+      "13243": "climb staircase",
+      "30710": "/rooms/5713/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1455": 0.2,
+      "5714": 0.2,
+      "5715": 0.2,
+      "5716": 0.2,
+      "13243": 0.2,
+      "30710": "/rooms/5713/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide inn",
+      "inn",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      4740019
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "checksum": "1d81e70314b642f3cca08d649be759a1",
+  "room": {
+    "id": 26293,
+    "title": [
+      "[Lich Citadel, Darkway]"
+    ],
+    "description": [
+      "The very walls seem to shift, as if formed from liquid darkness.  Coils of white smoke twist and turn, drifting up and down the corridor."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26290": "southwest",
+      "26294": "northeast"
+    },
+    "timeto": {
+      "26290": 0.2,
+      "26294": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      1287,
+      844,
+      1314,
+      871
+    ]
+  }
+}

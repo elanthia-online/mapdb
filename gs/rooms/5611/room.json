@@ -1,0 +1,33 @@
+{
+  "checksum": "51f4a36ac0bcb8970386155d7877efd1",
+  "room": {
+    "id": 5611,
+    "title": [
+      "[Mercantylers' Hall, Dark Hall]"
+    ],
+    "description": [
+      "The illumination in this small hallway comes only from light reflected from lamps at the landing.  The hallway ends at an aged oaken door.  A sign on the door stating Registrar's Office is just readable in the dim light."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5605": "north",
+      "14586": "go door"
+    },
+    "timeto": {
+      "5605": 0.2,
+      "14586": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      2120079
+    ]
+  }
+}

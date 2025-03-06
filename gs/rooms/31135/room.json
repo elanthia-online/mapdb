@@ -1,0 +1,37 @@
+{
+  "checksum": "73d21122e77e06666fd72759a097fd29",
+  "room": {
+    "id": 31135,
+    "title": [
+      "[House Aspis, 3rd Floor Hall]"
+    ],
+    "description": [
+      "At this end of the hall, an unused room waits for a new tenant.  Soft carpeting muffles your footsteps and polished woodwork covers the walls."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31134": "west",
+      "31137": "go door"
+    },
+    "timeto": {
+      "31134": 0.2,
+      "31137": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102201
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      785,
+      127,
+      917,
+      192
+    ]
+  }
+}

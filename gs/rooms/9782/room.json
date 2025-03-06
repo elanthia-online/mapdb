@@ -1,0 +1,40 @@
+{
+  "checksum": "408512dffd127afd9f2b5cd68c83f0cc",
+  "room": {
+    "id": 9782,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Tendrils of fog seep out of cracks upon the low ceiling of this rounded corridor, the wisps flowing down toward the floor to shroud the cramped tunnel in a thick haze.  The blurred forms of scattered stones can be seen upon the ground, their rugged surfaces bare.  Verdant moss hangs down from the fissures above, the fuzzy curtains tinted a sickly grey-green by the outpouring mists."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, southeast"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9781": "northeast",
+      "9783": "north",
+      "9790": "southeast"
+    },
+    "timeto": {
+      "9781": 0.2,
+      "9783": 0.2,
+      "9790": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022053
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1149,
+      758,
+      1159,
+      768
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "f01b605800cd863b921d6f99553666a0",
+  "room": {
+    "id": 2360,
+    "title": [
+      "[Magical Burrow, Banshee Lane]"
+    ],
+    "description": [
+      "A biting wind screeches down the lane from the east.  In that direction, in a break between the last houses on the street winks the glacial ice framing the northern gate of the town.  Past the entrance to Enchantment Alley, the road curves to the southwest, delving into the heart of the burrow.",
+      "A biting wind comes from the east.  Between the last houses on the street, you can see the glacial North Gate of Icemule Trace.  The road curves to the southwest into the eerie Magical Burrow."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2359": "east",
+      "2361": "southwest",
+      "2371": "go alley"
+    },
+    "timeto": {
+      "2359": 0.2,
+      "2361": 0.2,
+      "2371": 0.2
+    },
+    "uid": [
+      4042110
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      493,
+      342,
+      529,
+      378
+    ]
+  }
+}

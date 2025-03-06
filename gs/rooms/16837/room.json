@@ -1,0 +1,44 @@
+{
+  "checksum": "d17dfc72835aa89b2f46aa10c05d6141",
+  "room": {
+    "id": 16837,
+    "title": [
+      "[Bluerock Brewery, Kiln]"
+    ],
+    "description": [
+      "A massive black iron kiln occupies the majority of the space in this grey-walled room, its ambient heat causing the surrounding air to warp and waver.  Dwarven workers steadily cart in malt from a reinforced invar arch to be roasted in the giant oven.  As the malt finishes roasting, it is moved south by even more workers.  The nutty aroma of the grain is nearly overpowering."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "9451": "go arch",
+      "16842": "south"
+    },
+    "timeto": {
+      "9451": 0.2,
+      "16842": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "daggerstalk mushroom",
+      "flathead mushroom",
+      "genkew mushroom",
+      "blue trafel mushroom",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-02"
+    ],
+    "uid": [
+      13014003
+    ]
+  }
+}

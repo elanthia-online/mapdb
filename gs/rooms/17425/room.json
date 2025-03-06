@@ -1,0 +1,34 @@
+{
+  "checksum": "94491d6029b4dda7645af6c9b11038f3",
+  "room": {
+    "id": 17425,
+    "title": [
+      "[Redwing Spire, Anteroom]"
+    ],
+    "description": [
+      "Glistening stained crystal windows ring the room, casting small pools of crimson-tinged moonlight amidst larger, brighter ones unsullied by intruding hues.  Walls of alabaster are polished to a white-golden shine, their surfaces nigh as smooth as the slabs of mirror-finished marble that comprise the floor.  Beneath a tall red-lacquered arch, the sinuous rise of a long stairway begins, sprouting as if something organic from the curved walls as it rises."
+    ],
+    "paths": [
+      "Obvious exits: up, out"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "1536": "out",
+      "17426": "up",
+      "23281": "/rooms/17425/wayto/stringproc-23281.rb"
+    },
+    "timeto": {
+      "1536": 0.2,
+      "17426": 0.2,
+      "23281": 0.4
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749821
+    ]
+  }
+}

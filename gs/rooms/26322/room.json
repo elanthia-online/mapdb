@@ -1,0 +1,35 @@
+{
+  "checksum": "9d5c632a73a84dbd28570bbb2f087fd1",
+  "room": {
+    "id": 26322,
+    "title": [
+      "[Lich's Landing, Wraith Way]"
+    ],
+    "description": [
+      "Dark, blood-splattered stones make for an uneven road that stretches along the northern palisade.  Just to the north, stands two large bone towers.  The gnarled forms of undead guards come and go through the main gates, hungrily eyeing everyone that passes."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "26321": "west",
+      "26323": "go shop",
+      "26324": "east",
+      "26325": "north"
+    },
+    "timeto": {
+      "26321": 0.2,
+      "26323": 0.2,
+      "26324": 0.2,
+      "26325": 0.2
+    },
+    "image": "wl-lichs_landing-1500800742.png",
+    "image_coords": [
+      797,
+      333,
+      825,
+      359
+    ]
+  }
+}

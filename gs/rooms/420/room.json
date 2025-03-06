@@ -1,0 +1,94 @@
+{
+  "checksum": "d1c80c68e85d39a7e52a1560597f625f",
+  "room": {
+    "id": 420,
+    "title": [
+      "[Wehnimer's, Exterior]"
+    ],
+    "description": [
+      "The muted sounds of loud bartering from within Wehnimer's Landing, and the lonely calls of a pair of mated fenvaoks high up in the air vie for your attention as you march along the outer western edge of the town."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Lower Dragonsclaw",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "291": "go gate",
+      "419": "north",
+      "435": "south",
+      "30708": "/rooms/420/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "291": "/rooms/420/timeto/stringproc-291.rb",
+      "419": 0.2,
+      "435": 0.2,
+      "30708": "/rooms/420/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "advguard",
+      "sprig of alyssum",
+      "pepperthorn root",
+      "murdroot",
+      "ginger root",
+      "small daisy",
+      "small flower",
+      "ironfern root",
+      "white baneberry",
+      "withered black mushroom",
+      "wild carrot",
+      "heath aster",
+      "stalk of goldenrod",
+      "small wild rose",
+      "small rose",
+      "stalk of chicory",
+      "blue whortleberry",
+      "wild chokecherry",
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "angelica root",
+      "yellow primrose",
+      "motherwort",
+      "murkweed",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "urchin guide guard",
+      "urchin-access",
+      "guard",
+      "pink peppercorn",
+      "black peppercorn",
+      "cardamom",
+      "vanilla bean",
+      "nutmeg",
+      "cumin seeds",
+      "star anise",
+      "meta:forage-sensed:night:2022-11",
+      "juniper berry",
+      "dark blue honeyberries",
+      "plump black mulberries",
+      "brown potato",
+      "agave heart",
+      "kobold",
+      "purple potato",
+      "round grumbleberry",
+      "birch bark",
+      "ghost pepper",
+      "hot pepper",
+      "off-white parsnip",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      9010
+    ],
+    "image": "wl-gates-1264234799.png",
+    "image_coords": [
+      630,
+      328,
+      640,
+      338
+    ]
+  }
+}

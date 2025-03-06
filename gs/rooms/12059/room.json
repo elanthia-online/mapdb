@@ -1,0 +1,56 @@
+{
+  "checksum": "ee50504eb118fbec63050b0cca1f4dbf",
+  "room": {
+    "id": 12059,
+    "title": [
+      "[Old Ta'Faendryl, North Gate]"
+    ],
+    "description": [
+      "Age and the steady seepage of water have conquered the northern wall of the city, undermining the foundations until the entire structure has slumped into a position more horizontal than vertical.  However, the collapsed structure still serves as a barrier, blocking even the gateway that once opened out to the surrounding forest."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, south, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "moist",
+    "terrain": "grassland",
+    "wayto": {
+      "12058": "west",
+      "12060": "east",
+      "12063": "south",
+      "12066": "southeast"
+    },
+    "timeto": {
+      "12058": 0.2,
+      "12060": 0.2,
+      "12063": 0.2,
+      "12066": 0.2
+    },
+    "tags": [
+      "wood violet",
+      "acantha leaf",
+      "wild chokecherry",
+      "bright red cranberry",
+      "wild orchid",
+      "luckbloom blossom",
+      "murdroot",
+      "wavepetal blossom",
+      "nightbloom blossom",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004115
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      715,
+      229,
+      725,
+      239
+    ]
+  }
+}

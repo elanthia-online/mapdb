@@ -1,0 +1,50 @@
+{
+  "checksum": "7cc25e539dafb6518c55dfeb15f0d006",
+  "room": {
+    "id": 12184,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Before you stands a large green house, with smoke billowing out the chimney and the windows broken out.  In front of the worn domicile, an older man and woman lie dead, chests slashed open and eyes staring sightlessly into the sky.  Above them stands a young man, resembling them.  He regards you in a cold, calculating manner, hand clenching and unclenching a bloody blade."
+    ],
+    "paths": [
+      "Obvious exits: north, south",
+      "Obvious paths: north, south"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "2635": "/rooms/12184/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12184/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12184/wayto/stringproc-12152.rb",
+      "12183": "north",
+      "12185": "south"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12183": 0.2,
+      "12185": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb"
+    ],
+    "uid": [
+      4568012
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      348,
+      1135,
+      358,
+      1145
+    ]
+  }
+}

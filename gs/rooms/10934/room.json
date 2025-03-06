@@ -1,0 +1,37 @@
+{
+  "checksum": "cafb0e660213cee20f2c82c5b1f398a8",
+  "room": {
+    "id": 10934,
+    "title": [
+      "[Felinium's Fur Emporium]"
+    ],
+    "description": [
+      "The walls of this small shop appear to be covered with the furs and skins of all types of creatures.  Closer inspection reveals that many are still being prepared for use, although an occasional impeccably finished specimen is found.  Hunt souvenirs rest on a set of shelves tucked in one corner, where a cluster of roughly clad traders have gathered to examine them closely."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10846": "out",
+      "16017": "go steps",
+      "30711": "/rooms/10934/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10846": 0.2,
+      "16017": 0.2,
+      "30711": "/rooms/10934/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "furrier",
+      "urchin-access",
+      "urchin guide furrier",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101901
+    ]
+  }
+}

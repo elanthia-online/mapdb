@@ -1,0 +1,52 @@
+{
+  "checksum": "c709c25ec72d192b7f7a6a0f6265e1c9",
+  "room": {
+    "id": 28897,
+    "title": [
+      "[Kraken's Fall, Deadeye's Road]"
+    ],
+    "description": [
+      "Stretching across the rocky shoals and interrupting a cliff-hugging oak railing, a sturdy oak catwalk links the land to a sprawling network of piers where boats lay at anchor.  To the north, a market of brightly colored tents sprawls across a blue and black cobblestone courtyard against the backdrop of towering cliffs.  Built in the middle of the road, a black shop has an incredibly wordy sign posted on its front door."
+    ],
+    "paths": [
+      "Obvious paths: north, east, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28896": "west",
+      "28898": "north",
+      "28900": "east",
+      "29007": "go shop",
+      "29032": "go catwalk",
+      "30716": "/rooms/28897/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28896": 0.2,
+      "28898": 0.2,
+      "28900": 0.2,
+      "29007": 0.2,
+      "29032": 0.2,
+      "30716": "/rooms/28897/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "handler",
+      "urchin guide catwalk",
+      "urchin-access",
+      "dock handler",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118238
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      405,
+      505,
+      419,
+      518
+    ]
+  }
+}

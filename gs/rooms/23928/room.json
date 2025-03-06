@@ -1,0 +1,27 @@
+{
+  "checksum": "82a82067b82fe4deb93ad3d106dab80c",
+  "room": {
+    "id": 23928,
+    "title": [
+      "[Underground Lair, Vestibule]"
+    ],
+    "description": [
+      "Thick tapestries cover most of the available wall space in this small room, serving to dampen the shouts and insane babblings from the adjacent asylum.  Interspersed among the tapestries are several vents, providing a reprieve from the foul smells seeping through a rough stone arch.  Although none of the cells have a clear view of this area, the feeling of being watched is hard to dismiss.  A pair of ironwood torches flank the frame of an ornate mahogany entryway, which sits flush within the cavern wall."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Underground Lair, inside the isle town of Kharam-Dzu",
+    "wayto": {
+      "23927": "go arch",
+      "23929": "go entryway"
+    },
+    "timeto": {
+      "23927": 0.2,
+      "23929": 0.2
+    },
+    "uid": [
+      1302201
+    ]
+  }
+}

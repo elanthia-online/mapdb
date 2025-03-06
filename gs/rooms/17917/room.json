@@ -1,0 +1,43 @@
+{
+  "checksum": "367691d05eeae48b76cb21fc35bacd80",
+  "room": {
+    "id": 17917,
+    "title": [
+      "[Dark Cavern, West]"
+    ],
+    "description": [
+      "A short tunnel to the west leads to several darkened alcoves carved out of the surrounding rock.  Tiny shards of quartz crystal around the opening to the passageway glimmer in the dim light.  Several knife marks scar the nearby cavern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "17915": "east",
+      "17916": "north",
+      "17918": "south",
+      "30764": "ask yidza about train gambit"
+    },
+    "timeto": {
+      "17915": 0.2,
+      "17916": 0.2,
+      "17918": 0.2,
+      "30764": 0.2
+    },
+    "tags": [
+      "rogue guild dirt",
+      "rogue guild masters",
+      "rogue guild footpads"
+    ],
+    "uid": [
+      268035
+    ],
+    "image": "en-zul_logoth-rogue-1648915933.jpg",
+    "image_coords": [
+      162,
+      1006,
+      201,
+      1045
+    ]
+  }
+}

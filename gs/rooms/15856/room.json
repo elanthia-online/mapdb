@@ -1,0 +1,29 @@
+{
+  "checksum": "97a2b7453d986c3fa848b3679324f9d8",
+  "room": {
+    "id": 15856,
+    "title": [
+      "[Murkshev's Magic Shoppe]"
+    ],
+    "description": [
+      "A colorful Icemule map hangs on one of the dark oak walls, and an ash grey plaster ceiling rises overhead.  A polar bear rug sits in one corner of a polished oak floor.  There is a large brass-bound chest on one side of the shop and a heavy wooden desk on the other."
+    ],
+    "paths": [
+      "Obvious exits: west, northwest, out"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "2374": "out",
+      "15888": "northwest",
+      "15889": "west"
+    },
+    "timeto": {
+      "2374": 0.2,
+      "15888": 0.2,
+      "15889": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

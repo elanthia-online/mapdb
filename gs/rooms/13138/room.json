@@ -1,0 +1,42 @@
+{
+  "checksum": "12bd760f59bd32a48b3a8bd4e5d4275c",
+  "room": {
+    "id": 13138,
+    "title": [
+      "[Outpost, Courtyard]"
+    ],
+    "description": [
+      "Cobblestones encircle a narrow stone well and pave the courtyard set inside the walls of the palisade.  On opposite sides of the courtyard are two graceful stone and wood structures, identical but for vibrant silk banners of gold and silver hung from the eaves of the buildings.  Gold banners float above a small hut on the western side of the courtyard and silver banners flap softly over a small building on the eastern side of the courtyard."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "the Guardians of Sunfist outpost",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10080": "out",
+      "13139": "go hut",
+      "13140": "go building"
+    },
+    "timeto": {
+      "10080": 0.2,
+      "13139": 0.2,
+      "13140": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      566003
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      33,
+      779,
+      69,
+      815
+    ]
+  }
+}

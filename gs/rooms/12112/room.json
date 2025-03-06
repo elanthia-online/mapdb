@@ -1,0 +1,56 @@
+{
+  "checksum": "5f56758506fd591a3becda94025bf84f",
+  "room": {
+    "id": 12112,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Headstones of grey marble seem to grow from the ground, placed in neat rows.  A pall of silence hangs over the graveyard, and not even a breath of wind disturbs the serenity.  Set slightly apart from the rest of the graves is a large black tomb.  Carved upon the face of the stone, in the place reserved for the identity of the departed, is the name \"Elanthia.\""
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, south",
+      "Obvious exits: north, southeast, south"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "2605": "/rooms/12112/wayto/stringproc-2605.rb",
+      "2635": "/rooms/12112/wayto/stringproc-2635.rb",
+      "12089": "southeast",
+      "12093": "/rooms/12112/wayto/stringproc-12093.rb",
+      "12115": "south",
+      "12116": "north"
+    },
+    "timeto": {
+      "2605": 16,
+      "2635": 16,
+      "12089": 0.2,
+      "12093": 21.6,
+      "12115": 0.2,
+      "12116": 0.2
+    },
+    "tags": [
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "oozing fleshsore bulb",
+      "discolored fleshbinder bud",
+      "twisted black mawflower",
+      "rotting bile green fleshbulb",
+      "mass of congealed slime",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4567015
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      868,
+      645,
+      878,
+      655
+    ]
+  }
+}

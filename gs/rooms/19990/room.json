@@ -1,0 +1,42 @@
+{
+  "checksum": "92ca11f91e92fba96c8dfe105c82c35c",
+  "room": {
+    "id": 19990,
+    "title": [
+      "[Cavernhold, Island]"
+    ],
+    "description": [
+      "This small island is actually nothing more than a large piece of rock that sticks up out of the water in the very center of the lake.  Two structures can be seen on the island.  A small hut sits near the waterline, while a tiny pavillion sits on higher ground in the center of the island.  A thin trail seems to lead up that way."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "9400": "go hut",
+      "19733": "go ferryboat",
+      "19991": "go trail"
+    },
+    "timeto": {
+      "9400": 0.2,
+      "19733": 0.2,
+      "19991": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11101
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      948,
+      456,
+      957,
+      463
+    ]
+  }
+}

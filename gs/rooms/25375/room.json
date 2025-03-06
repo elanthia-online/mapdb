@@ -1,0 +1,36 @@
+{
+  "checksum": "0fac816fb87eacffdf7fbd44baee1f0d",
+  "room": {
+    "id": 25375,
+    "title": [
+      "[Delirium Manor, South Hallway]"
+    ],
+    "description": [
+      "This small hallway is a bit quieter than the one to the north, with guestrooms for adult visitors tucked behind heavy teakwood doors.  Each door is slightly ajar, and each room appears abandoned."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast, southwest, west"
+    ],
+    "location": "Delirium Manor",
+    "wayto": {
+      "25374": "north",
+      "25376": "southeast",
+      "34023": "east",
+      "34024": "southwest",
+      "34025": "west"
+    },
+    "timeto": {
+      "25374": 0.2,
+      "25376": 0.2,
+      "34023": 0.2,
+      "34024": 0.2,
+      "34025": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8100032
+    ]
+  }
+}

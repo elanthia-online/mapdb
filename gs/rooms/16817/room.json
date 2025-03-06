@@ -1,0 +1,41 @@
+{
+  "checksum": "62ba89729ebc702424c7773483ff90f6",
+  "room": {
+    "id": 16817,
+    "title": [
+      "[Castle Dungeons]"
+    ],
+    "description": [
+      "The darkened hallway comes to a dead end here.  The skeletal remains of a humanoid lay propped up against the west wall.  A stout wooden cell door appears to have been torn off its hinges and thrown to the ground."
+    ],
+    "paths": [
+      "Obvious exits: north, east"
+    ],
+    "location": "Castle Varunar",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16816": "east",
+      "16823": "north"
+    },
+    "timeto": {
+      "16816": 0.2,
+      "16823": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4750068
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      494,
+      351,
+      504,
+      361
+    ]
+  }
+}

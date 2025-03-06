@@ -1,0 +1,44 @@
+{
+  "checksum": "1b82790f4c29aebe614ba116fa5546fd",
+  "room": {
+    "id": 5422,
+    "title": [
+      "[Bonespear Tower, Stairwell]"
+    ],
+    "description": [
+      "One of the stairs has cracked so badly that it's one heavy foot away from snapping, and judging from the appearance of the rest of this tower, it doesn't appear as if anybody will be along to repair it in the near future.  A look downward reveals that any misstep will surely result in a horrendous fall with nothing less than a grisly death as its reward."
+    ],
+    "paths": [
+      "Obvious exits: south, up, down"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "5420": "down",
+      "5428": "south",
+      "5429": "up"
+    },
+    "timeto": {
+      "5420": 0.2,
+      "5428": 0.2,
+      "5429": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319125
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      950,
+      876,
+      960,
+      886
+    ]
+  }
+}

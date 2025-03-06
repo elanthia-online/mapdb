@@ -1,0 +1,39 @@
+{
+  "checksum": "f9d471a51777302ffd88b8813e21a43c",
+  "room": {
+    "id": 2375,
+    "title": [
+      "[Incantation and Enchantment]"
+    ],
+    "description": [
+      "At the northwest corner of Icemule Trace stands a sturdy square tower, its impressive height casting the meeting point of Incantation and Enchantment alleys into cold, damp shadow.  A few militia guardsmen slip in and among the spellcasters who move between the run-down alleys at all hours of the day.",
+      "At the northwest corner of Icemule Trace stands a sturdy square tower, its impressive height blocking the light from all but the stars directly overhead.  The halfling militia patrols in pairs, their spears and tridents held ready to meet any threat that might approach under cover of darkness."
+    ],
+    "paths": [
+      "Obvious paths: east, south"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2374": "east",
+      "2376": "south",
+      "8944": "go tower"
+    },
+    "timeto": {
+      "2374": 0.2,
+      "2376": 0.2,
+      "8944": 0.2
+    },
+    "uid": [
+      735036
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      49,
+      253,
+      67,
+      271
+    ]
+  }
+}

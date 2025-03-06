@@ -1,0 +1,58 @@
+{
+  "checksum": "3e86ce83781b20045208668f7cb0677c",
+  "room": {
+    "id": 11844,
+    "title": [
+      "[Old Ta'Faendryl, East]"
+    ],
+    "description": [
+      "A tree-lined path extends past broken pillars and collapsed walls.  To the southeast, up a wide brick walkway can be seen a large building that still retains some semblance of its original shape and structure."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, west"
+    ],
+    "location": "Old Ta'Faendryl",
+    "climate": "temperate",
+    "terrain": "plain dirt",
+    "wayto": {
+      "11840": "go walkway",
+      "11845": "southwest",
+      "11846": "west",
+      "11851": "east"
+    },
+    "timeto": {
+      "11840": 0.2,
+      "11845": 0.2,
+      "11846": 0.2,
+      "11851": 0.2
+    },
+    "tags": [
+      "acantha leaf",
+      "calamia fruit",
+      "sovyn clove",
+      "small flower",
+      "small rose",
+      "small daisy",
+      "angelica root",
+      "wild chokecherry",
+      "pepperthorn root",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "bur-clover root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-11",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      17004069
+    ],
+    "image": "en-old_ta_faendryl-1716923763.png",
+    "image_coords": [
+      891,
+      660,
+      901,
+      670
+    ]
+  }
+}

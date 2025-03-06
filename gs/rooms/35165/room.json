@@ -1,0 +1,29 @@
+{
+  "checksum": "947ead5d51bc70e3f7006fd85eaf29da",
+  "room": {
+    "id": 35165,
+    "title": [
+      "[The Raider's Take, Corridor]"
+    ],
+    "description": [
+      "Sunlight slants across the corridor, causing shadows to dance through the fragrant smoke of nearby bronze braziers that dispel the heat of the open-air space.  Pine needles litter the space as they drop from a crooked larch that hangs over this section of the inn.  Carved posts support the exposed rafters of the ceiling and act as sentinels as they flank a set of descending steps.  Recessed into one russet-painted wall is a grey-washed wych elm door, which stands open to guests."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35160": "south",
+      "35161": "go steps",
+      "35166": "go door"
+    },
+    "timeto": {
+      "35160": 0.2,
+      "35161": 0.2,
+      "35166": 0.2
+    },
+    "uid": [
+      4426706
+    ]
+  }
+}

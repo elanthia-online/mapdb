@@ -1,0 +1,43 @@
+{
+  "checksum": "b9e34e11731d37ff242fd0f041773a06",
+  "room": {
+    "id": 10078,
+    "title": [
+      "[Sylvarraend, Foehn Var]"
+    ],
+    "description": [
+      "Herbs and flowers of all kinds are planted in an orderly fashion in beds surrounding a small stone cottage, the plants clearly benefiting from a large patch of sunshine streaming through a break in the surrounding forest.  Bees whir happily betwixt the various blooms as the heady fragrance of the flora drifts on the air.",
+      "Herbs and flowers of all kinds are planted in an orderly fashion in beds surrounding a small stone cottage, the cool night air stirring the plants just enough to waft their heady fragrances upon the breeze.  Golden yellow light shines from the cottage's glaesine windows, a welcoming beacon in the darkness."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the town of Sylvarraend",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "10077": "go bridge",
+      "10079": "go pathway",
+      "13137": "go cottage"
+    },
+    "timeto": {
+      "10077": 0.2,
+      "10079": 0.2,
+      "13137": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13050020
+    ],
+    "image": "en-sylvarraend-1264234799.png",
+    "image_coords": [
+      33,
+      779,
+      69,
+      815
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "checksum": "c67b12ead13accb02196a7097cbb2dda",
+  "room": {
+    "id": 31567,
+    "title": [
+      "[Evermore Hollow, Jester's Court]"
+    ],
+    "description": [
+      "Crescent-shaped cobblestone pavers form concentric bands around a cracked fountain, the contents of which spill across the ground, creating tiny rivulets that cascade down declining stone steps to the north.  Rising out of the broken fountain bowl is a verdigris copper jester statue that pirouettes within vaalin ribbons, the matching sculpted design echoed by those that wrap around the nearby stained glass gate.  Verdant rose vines create shadows upon a twining pathway at one corner of the courtyard, while a dull green moss-covered stone arch slips southeast into darkness."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "31558": "go twining pathway",
+      "31560": "southeast",
+      "31568": "go arch",
+      "31582": "go stained gate",
+      "31583": "northwest"
+    },
+    "timeto": {
+      "31558": 0.2,
+      "31560": 0.2,
+      "31568": 0.2,
+      "31582": 0.2,
+      "31583": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "node"
+    ],
+    "uid": [
+      8083006
+    ],
+    "image": "fest-naidem-part1-1696171838.png",
+    "image_coords": [
+      451,
+      285,
+      473,
+      305
+    ]
+  }
+}

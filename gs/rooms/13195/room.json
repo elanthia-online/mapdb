@@ -1,0 +1,34 @@
+{
+  "checksum": "a65610888ff9ee25751ebaa8e0511c14",
+  "room": {
+    "id": 13195,
+    "title": [
+      "[Fasthr's Lance, Armory]"
+    ],
+    "description": [
+      "Crowded by a series of weapon racks, the chamber is cradled by the curve of a stone ramp as it climbs toward the top of the tower.  To the south, a gap in the inner wall leads to a small enclave, from which wafts occasional breaths of heat and a rich floral scent."
+    ],
+    "paths": [
+      "Obvious exits: south, up, down"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "13194": "down",
+      "13196": "up",
+      "13197": "south"
+    },
+    "timeto": {
+      "13194": 0.2,
+      "13196": 0.2,
+      "13197": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749703
+    ]
+  }
+}

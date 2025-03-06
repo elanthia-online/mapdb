@@ -1,0 +1,50 @@
+{
+  "checksum": "1a871370371680589be219af1f10fe13",
+  "room": {
+    "id": 3655,
+    "title": [
+      "[Wisteria Crossing]"
+    ],
+    "description": [
+      "Glowing candlelight, in various hues of orange and yellow, warms the cool cobblestone street of Wisteria Crossing through the night.  Many of the shops have closed for the evening, turning the daytime bustle of the market place into a serene village square.  The cool, crisp scent of evening drifts on the soft breeze moving down the long, empty street.",
+      "The cobblestone path intersects Wisteria Lane, marking the beginning of the inner township.  Various shops line both sides of the street, offering up all types of wares.  The scents of baked food and tanned leather hang in the air, mingling with other, unfamiliar smells.  A busy shopkeeper whistles a tune to himself as he sets to the task of sweeping the stoop of his establishment."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "the Isle of Four Winds",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3654": "west",
+      "3656": "east",
+      "3657": "north",
+      "3662": "south",
+      "3868": "go arch",
+      "23807": "go establishment"
+    },
+    "timeto": {
+      "3654": 0.2,
+      "3656": 0.2,
+      "3657": 0.2,
+      "3662": 0.2,
+      "3868": 0.2,
+      "23807": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-10"
+    ],
+    "uid": [
+      3201019
+    ],
+    "image": "ifw-isle_of_four_winds-1310232949.png",
+    "image_coords": [
+      2770,
+      1600,
+      2811,
+      1641
+    ]
+  }
+}

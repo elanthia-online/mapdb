@@ -1,0 +1,34 @@
+{
+  "checksum": "8a34fecbe24bf8b7d7bc40089a2aff45",
+  "room": {
+    "id": 1890,
+    "title": [
+      "[Company Store, Jeweler]"
+    ],
+    "description": [
+      "Everything in the room shines and sparkles in the light.  Even the simple counter manages a fine reflection in its polished glass face.  Your only hint of an actual workplace is a small desk near the back that has a few carefully placed jeweler's tools upon it."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "1884": "out",
+      "1891": "east",
+      "30715": "/rooms/1890/wayto/stringproc-30715.rb"
+    },
+    "timeto": {
+      "1884": 0.2,
+      "1891": 0.2,
+      "30715": "/rooms/1890/timeto/stringproc-30715.rb"
+    },
+    "tags": [
+      "gemshop",
+      "urchin-access",
+      "urchin guide gemshop"
+    ],
+    "uid": [
+      3003096
+    ]
+  }
+}

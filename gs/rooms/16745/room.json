@@ -1,0 +1,65 @@
+{
+  "checksum": "654c8b23bf24e370447eb055ab458c5c",
+  "room": {
+    "id": 16745,
+    "title": [
+      "[Aradhul Road, Rocky Trail]"
+    ],
+    "description": [
+      "The high, rocky walls of the ravine loom above the trail, and a gigantic rock, dislodged from high above, blocks passage to the south.  The ravine walls widen to the north, yielding to a thick forest."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Aradhul Road",
+    "climate": "temperate",
+    "terrain": "mountainous",
+    "wayto": {
+      "16744": "north",
+      "16746": "/rooms/16745/wayto/stringproc-16746.rb"
+    },
+    "timeto": {
+      "16744": 0.2,
+      "16746": 15
+    },
+    "tags": [
+      "small apple",
+      "juicy plum",
+      "angelica root",
+      "stalk of bluebells",
+      "wild pink geranium",
+      "sprig of larkspur",
+      "yellow primrose",
+      "wild sage",
+      "sprig of columbine",
+      "crimson dragonstalk",
+      "mountain dryad",
+      "stalk of monkeyflower",
+      "sprig of holly",
+      "sprig of ivy",
+      "pepperthorn root",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "leek",
+      "shallot",
+      "hop flowers",
+      "agave heart",
+      "viburnum twig",
+      "red thanot berry",
+      "thanot thorn",
+      "meta:forage-sensed:night:2024-05"
+    ],
+    "uid": [
+      17005027
+    ],
+    "image": "en-aradhul-road-1308194332.png",
+    "image_coords": [
+      652,
+      756,
+      676,
+      777
+    ]
+  }
+}

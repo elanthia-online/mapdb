@@ -1,0 +1,33 @@
+{
+  "checksum": "b23f9127bbde6c2a1fce7b3a705c2891",
+  "room": {
+    "id": 14359,
+    "title": [
+      "[Solhaven, Beacon Tower]",
+      "[Solhaven, Departures]"
+    ],
+    "description": [
+      "Bare of all furnishings, the room is an exact contrast to the one through the curtained arch.  Where the other is blindingly bright, this one is completely black from ebonwood flooring to raftered ceiling.  A single frosted globe is suspended from the ceiling over a strange series of golden interlacing circles and casts an eerie greenish glow upon the dark walls."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "8634": "/rooms/14359/wayto/stringproc-8634.rb",
+      "8916": "/rooms/14359/wayto/stringproc-8916.rb",
+      "14358": "out"
+    },
+    "timeto": {
+      "8634": "/rooms/14359/timeto/stringproc-8634.rb",
+      "8916": "/rooms/14359/timeto/stringproc-8916.rb",
+      "14358": 0.2
+    },
+    "tags": [
+      "travel waiting room"
+    ],
+    "uid": [
+      4223007
+    ]
+  }
+}

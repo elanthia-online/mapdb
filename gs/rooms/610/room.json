@@ -1,0 +1,47 @@
+{
+  "checksum": "e40597f9cf698f4eb993263cdbfdee2f",
+  "room": {
+    "id": 610,
+    "title": [
+      "[Ta'Illistim, Caear Var]"
+    ],
+    "description": [
+      "The few elves passing through this quiet neighborhood carry home parcels from late night purchases at the various shops and warehouses that line the darkened var.  On the southeast corner of this intersection, a low building with mica-flecked granite pillars beckons shoppers through wide double doors.  Through large bay windows, you can see a variety of home furnishings illuminated by glowing oil lamps.",
+      "Many of the elves passing through this neighborhood are carrying parcels from the various shops and warehouses that line the busy var.  On the southeast corner of this intersection, a low building with mica-flecked granite pillars beckons shoppers through wide double doors.  Through the large bay windows, you can see a variety of home furnishings on display.",
+      "Shops and warehouses line the busy var.  On the southeast corner of the intersection, a low building, with mica-flecked granite columns, has thrown open its wide double doors.  Through the large tracery windows that frame the doorway, a variety of home furnishings are available on display."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "609": "south",
+      "611": "north",
+      "744": "west",
+      "4020": "go building"
+    },
+    "timeto": {
+      "609": 0.2,
+      "611": 0.2,
+      "744": 0.2,
+      "4020": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101056
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      959,
+      298,
+      980,
+      318
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "checksum": "fcb0c5306251d75cd324d09c00311f3a",
+  "room": {
+    "id": 5144,
+    "title": [
+      "[Vornavian Coast, Caverns]"
+    ],
+    "description": [
+      "A warm breeze blows into this chilled room from the east, and a faint light can be seen reflecting from pools of water on the floor.  The dampness increases to the west, while the drier, warmer air to the east seems much more inviting.  Small piles of sand dot the floor occasionally."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast, west"
+    ],
+    "location": "the Vornavian Coast",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "5131": "west",
+      "5145": "northeast",
+      "5146": "southeast"
+    },
+    "timeto": {
+      "5131": 0.2,
+      "5145": 0.2,
+      "5146": 0.2
+    },
+    "tags": [
+      "blue trafel mushroom",
+      "red trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "white hook mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      4202177
+    ],
+    "image": "vo-north_beach-1264234799.png",
+    "image_coords": [
+      318,
+      844,
+      328,
+      854
+    ]
+  }
+}

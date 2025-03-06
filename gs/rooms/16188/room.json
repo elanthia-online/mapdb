@@ -1,0 +1,36 @@
+{
+  "checksum": "e578cf4b0f5072664fe09a0bc6e721c1",
+  "room": {
+    "id": 16188,
+    "title": [
+      "[Beacon Hall, Mentoring Room]"
+    ],
+    "description": [
+      "Latticed windows open out over the bay, providing an inspiring view.  A small table and a few comfortable chairs offer a quiet and intimate setting for personal instruction.  A shelf along one wall contains a variety of bound guides and treatises, and a large slate hangs on the wall opposite."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16184": "southeast",
+      "16190": "northeast",
+      "22224": "/rooms/16188/wayto/stringproc-22224.rb"
+    },
+    "timeto": {
+      "16184": 0.2,
+      "16190": 0.2,
+      "22224": 0.3
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      908,
+      465,
+      954,
+      510
+    ]
+  }
+}

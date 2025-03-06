@@ -1,0 +1,39 @@
+{
+  "checksum": "4467d8c75badc9dbb4151d4f08cd0764",
+  "room": {
+    "id": 24792,
+    "title": [
+      "[Helden Hall, Cavernous Corridor]"
+    ],
+    "description": [
+      "The light from the crystals to the east easily illuminate this cavernous corridor, displaying the roughly hewn walls of stone and a large boulder seemingly pushed up against the southern wall.  A small trickle of water from the stream to the east moves to the west, hinting at the subtle sloping of this corridor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "6944": "go gate",
+      "22035": "east",
+      "24811": "west"
+    },
+    "timeto": {
+      "6944": 0.2,
+      "22035": 0.2,
+      "24811": 0.2
+    },
+    "tags": [
+      "meta:che:Helden Hall"
+    ],
+    "uid": [
+      212419
+    ],
+    "image": "wl-heldenhall-1502386358.png",
+    "image_coords": [
+      809,
+      1256,
+      847,
+      1293
+    ]
+  }
+}

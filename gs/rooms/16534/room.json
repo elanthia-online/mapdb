@@ -1,0 +1,42 @@
+{
+  "checksum": "ab49315384186b41bc87218f9fcd2c0a",
+  "room": {
+    "id": 16534,
+    "title": [
+      "[Rogue Guild, Courtyard]"
+    ],
+    "description": [
+      "A rusted metal ladder is fastened to the stone wall of the building, leading to the roof above.  Several old crates are arranged in a circle on the stony ground as if they have been used for seating, and a few scraggly bushes have taken root in the soil next to the wall."
+    ],
+    "paths": [
+      "Obvious paths: north, south, west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "16492": "south",
+      "16504": "west",
+      "16536": "climb ladder",
+      "16540": "north"
+    },
+    "timeto": {
+      "16492": 0.2,
+      "16504": 0.2,
+      "16536": 0.2,
+      "16540": 0.2
+    },
+    "tags": [
+      "rogue guild dirt",
+      "rogue guild plant"
+    ],
+    "uid": [
+      261014
+    ],
+    "image": "wl-rogue_guild-1267242645.png",
+    "image_coords": [
+      522,
+      247,
+      550,
+      275
+    ]
+  }
+}

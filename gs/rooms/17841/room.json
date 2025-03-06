@@ -1,0 +1,52 @@
+{
+  "checksum": "21ac2697ffe7817101220f10b59eb178",
+  "room": {
+    "id": 17841,
+    "title": [
+      "[Ta'Illistim Keep, Cobalt Salon]"
+    ],
+    "description": [
+      "High above, the vaulted ceiling is a domed expanse of brilliant blue, a mosaic crafted from a multitude of tiny glaes squares.  The tilework continues down the walls, stopping halfway to meet smoothed silvered stonework.  An immense ogee arch is flanked by two smaller doors.  Daylight streams through the well of an alabaster staircase.",
+      "High above, the vaulted ceiling is a domed expanse of brilliant blue, a mosaic of millions upon millions of pieces of tiny glaes squares.  The tilework continues down the walls, stopping halfway to meet smoothed silvered stonework.  An immense ogee arch is flanked by two smaller doors.  Starlight streams through the well of a stone staircase.",
+      "High above, the vaulted ceiling is a domed expanse of brilliant blue, a mosaic of millions upon millions of pieces of tiny glaes squares.  The tilework continues down the walls, stopping halfway to meet smoothed silvered stonework.  An immense ogee arch is flanked by two smaller doors.  Starlight streams through the well of a stone ramp.",
+      "High above, the vaulted ceiling is a domed expanse of brilliant blue, a mosaic of millions upon millions of pieces of tiny glaes squares.  The tilework continues down the walls, stopping halfway to meet smoothed silvered stonework.  An immense ogee arch is flanked by two smaller doors.  Daylight streams through the well of a stone staircase."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16961": "climb staircase",
+      "18138": "go ogee arch",
+      "26830": "go peacock door",
+      "30714": "/rooms/17841/wayto/stringproc-30714.rb",
+      "32741": "go peah door"
+    },
+    "timeto": {
+      "16961": 0.2,
+      "18138": 0.2,
+      "26830": 0.2,
+      "30714": "/rooms/17841/timeto/stringproc-30714.rb",
+      "32741": 0.2
+    },
+    "tags": [
+      "urchin-access",
+      "urchin guide keep",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13102001
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      544,
+      1050,
+      565,
+      1073
+    ]
+  }
+}

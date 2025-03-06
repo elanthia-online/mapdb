@@ -1,0 +1,38 @@
+{
+  "checksum": "c0c8e7810d5154cbf652d843c5596713",
+  "room": {
+    "id": 7564,
+    "title": [
+      "[Moot Hall, Assembly Room]"
+    ],
+    "description": [
+      "In this large assembly room meetings are convened to deal with the affairs of the town, and the locals hold their religious and social events.  There is ample room for benches, long tables and other furnishings befitting special occasions.  Sconces for torches, chandeliers holding many candles, and broad windows impart a warm, friendly glow of good fellowship to this space."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "387": "go double door",
+      "7563": "go louvered door"
+    },
+    "timeto": {
+      "387": 0.2,
+      "7563": 0.2
+    },
+    "tags": [
+      "meta:noteleport:fwi",
+      "meta:nomagic"
+    ],
+    "uid": [
+      2022
+    ],
+    "image": "wl-moot_hall-1486755929.png",
+    "image_coords": [
+      745,
+      965,
+      889,
+      1027
+    ]
+  }
+}

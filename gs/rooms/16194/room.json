@@ -1,0 +1,36 @@
+{
+  "checksum": "28daefa28a490ee3affb4410457c91b6",
+  "room": {
+    "id": 16194,
+    "title": [
+      "[Beacon Hall, Lecture Room]"
+    ],
+    "description": [
+      "Tall stone walls rise high overhead in this vast room.  The immaculate granite floor contains small grooves that improve footing, betraying the room's former use as a gymnasium.  Intricately designed domed windows in the ceiling allow sunlight to stream in during the day while dozens of large brass oil lamps along the walls provide illumination at night.  Several rows of benches face the lectern standing at one end of the room."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16193": "go door",
+      "16195": "west",
+      "16198": "east"
+    },
+    "timeto": {
+      "16193": 0.2,
+      "16195": 0.2,
+      "16198": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      508,
+      366,
+      556,
+      411
+    ]
+  }
+}

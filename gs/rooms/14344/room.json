@@ -1,0 +1,29 @@
+{
+  "checksum": "0c5f8d9bcbf9c315451000fcb6a407f1",
+  "room": {
+    "id": 14344,
+    "title": [
+      "[The Krawling Kraken, Upstairs]"
+    ],
+    "description": [
+      "A carved oak door stands against the outer wall of the mahogany paneled passageway, framed in a finely carved fel.  The nearby railing offers a good view of the room below as people travel about the great room."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "14342": "northeast",
+      "14345": "go door",
+      "14346": "southwest"
+    },
+    "timeto": {
+      "14342": 0.2,
+      "14345": 0.2,
+      "14346": 0.2
+    },
+    "uid": [
+      4901109
+    ]
+  }
+}

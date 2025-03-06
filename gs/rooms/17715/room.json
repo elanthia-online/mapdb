@@ -1,0 +1,38 @@
+{
+  "checksum": "12d54a3ec0d2b2f0673e1c2f7c46e4a3",
+  "room": {
+    "id": 17715,
+    "title": [
+      "[Citadel, Dungeon Corridor]"
+    ],
+    "description": [
+      "Skeletons litter the floor of the corridor, lying in three approximate rows with the fewest falling to the east and all facing the south corridor.  Interspersed amongst the remains are rusting weapons and shattered shields, leaving little free space to step through towards the east.  Mice scurry back and forth between the skeletons from nests built of the remains of tunics and cloaks."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "the Citadel",
+    "wayto": {
+      "17714": "east",
+      "17716": "south"
+    },
+    "timeto": {
+      "17714": 0.2,
+      "17716": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      377308
+    ],
+    "image": "rr-citadel-1717856937.png",
+    "image_coords": [
+      109,
+      948,
+      119,
+      958
+    ]
+  }
+}

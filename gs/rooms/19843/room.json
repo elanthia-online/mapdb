@@ -1,0 +1,36 @@
+{
+  "checksum": "0bc2cdf5c6c5310f1aad06c64a533f0e",
+  "room": {
+    "id": 19843,
+    "title": [
+      "[Cleric Guild, Northwest Hall]"
+    ],
+    "description": [
+      "Brass fixtures line the walls, each bearing a dimly lit torch that illuminates the path down this narrow hall.  A wide square doorway is set in the center of one wall, its massive modwir doors protecting the space beyond."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southeast"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "19837": "southeast",
+      "19844": "go doors",
+      "19847": "northeast"
+    },
+    "timeto": {
+      "19837": 0.2,
+      "19844": 0.2,
+      "19847": 0.2
+    },
+    "uid": [
+      676010
+    ],
+    "image": "en-cleric_guild-1340756524.png",
+    "image_coords": [
+      277,
+      356,
+      318,
+      392
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "06894329f3700a2d779d13df77fbe43c",
+  "room": {
+    "id": 7468,
+    "title": [
+      "[Dark Grotto, Small Tunnel]"
+    ],
+    "description": [
+      "The tunnel is quiet.  Abnormally so.  Even the sounds that you make as you navigate the tunnel are muted and seem to die in the air almost immediately.  There are no echoes from the stone surfaces as one might expect in a tunnel through solid rock."
+    ],
+    "paths": [
+      "Obvious exits: northeast, south, southwest"
+    ],
+    "location": "the Broken Lands",
+    "wayto": {
+      "7467": "/rooms/7468/wayto/stringproc-7467.rb",
+      "7469": "/rooms/7468/wayto/stringproc-7469.rb",
+      "7475": "/rooms/7468/wayto/stringproc-7475.rb"
+    },
+    "timeto": {
+      "7467": 0.2,
+      "7469": 0.2,
+      "7475": 0.2
+    },
+    "tags": [
+      "some cave moss",
+      "magru",
+      "some glowing green lichen"
+    ],
+    "uid": [
+      94011
+    ],
+    "image": "wl-broken-1264234799.png",
+    "image_coords": [
+      860,
+      934,
+      870,
+      944
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "checksum": "779a87469a0a8f7bcd0b02c07c76cd69",
+  "room": {
+    "id": 4986,
+    "title": [
+      "[Maernstrike Caverns, Tunnel]"
+    ],
+    "description": [
+      "Odd clicking sounds surround you, as they echo and bounce off the ceilings and walls in this section of the cavern, making it difficult to determine which direction the noise is truly coming from.  What appear to be the skeletal remains of a gigantic insect are slumped against the wall in a corner.  An inhuman stench wafts through the area."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Maernstrike Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4985": "southwest",
+      "4987": "northeast"
+    },
+    "timeto": {
+      "4985": 0.2,
+      "4987": 0.2
+    },
+    "tags": [
+      "white hook mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      13037018
+    ],
+    "image": "en-sapphire-1658723758.png",
+    "image_coords": [
+      1330,
+      307,
+      1340,
+      317
+    ]
+  }
+}

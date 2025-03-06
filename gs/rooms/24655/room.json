@@ -1,0 +1,29 @@
+{
+  "checksum": "883f9e31f288a3b1955edfd8fd5984f1",
+  "room": {
+    "id": 24655,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Uneven floors slant underfoot, swerving with the curve of the passage.  Pebbly rubble mixed with a mounds of dirt adds a challenging element, and walls slick with moisture don't offer a secure handhold.  Rough gouges mar the way, revealing attempts to create some means to steady travel along this egress."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": false,
+    "wayto": {
+      "24643": "north",
+      "24652": "south",
+      "24653": "west",
+      "24658": "east"
+    },
+    "timeto": {
+      "24643": 0.2,
+      "24652": 0.2,
+      "24653": 0.2,
+      "24658": 0.2
+    },
+    "check_location": true
+  }
+}

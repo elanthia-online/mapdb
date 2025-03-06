@@ -1,0 +1,46 @@
+{
+  "checksum": "41d67fbf06a0caad85780ffb7e657435",
+  "room": {
+    "id": 7144,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "An arched niche is carved out of the south wall, empty now of all but dust.  Chunks of stone are scattered across the corridor, some of them with smooth or regular faces.  A statue must have fallen from the niche, shattering on the stone floor."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7143": "west",
+      "7145": "east",
+      "7146": "go door"
+    },
+    "timeto": {
+      "7143": 0.2,
+      "7145": 0.2,
+      "7146": 0.2
+    },
+    "tags": [
+      "kiramon defender",
+      "kiramon worker",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      41024
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      1002,
+      554,
+      1012,
+      564
+    ]
+  }
+}

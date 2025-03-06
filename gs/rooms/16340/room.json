@@ -1,0 +1,29 @@
+{
+  "checksum": "df97273bea30d972dfb64927b5ffdd05",
+  "room": {
+    "id": 16340,
+    "title": [
+      "[Alerr's General Store]"
+    ],
+    "description": [
+      "Beneath an uneven wooden ceiling, a tattered merchant permit hangs on one of the plain wooden walls.  A wide knotted oak counter sits in one corner while a worn rug rests on the wooden floor."
+    ],
+    "paths": [
+      "Obvious exits: north, south, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12268": "out",
+      "16341": "south",
+      "16344": "north"
+    },
+    "timeto": {
+      "12268": 0.2,
+      "16341": 0.2,
+      "16344": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

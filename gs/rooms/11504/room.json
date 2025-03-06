@@ -1,0 +1,40 @@
+{
+  "checksum": "518a405aaae0f579d9bdd15e6d2f6cae",
+  "room": {
+    "id": 11504,
+    "title": [
+      "[Ruined Tower, Passageway]"
+    ],
+    "description": [
+      "A wide stairway encircles a thick, fluted pillar, both rising and descending from the flagstone landing floor.  The molding remains of old tapestries lie in damp, blackened heaps at the base of the western wall, never again to dazzle visitors with their finery."
+    ],
+    "paths": [
+      "Obvious exits: east, up, down"
+    ],
+    "location": "the Ruined Tower",
+    "wayto": {
+      "11501": "east",
+      "11505": "down",
+      "11507": "up"
+    },
+    "timeto": {
+      "11501": 0.2,
+      "11505": 0.2,
+      "11507": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      305028
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      738,
+      955,
+      748,
+      965
+    ]
+  }
+}

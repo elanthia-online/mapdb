@@ -1,0 +1,28 @@
+{
+  "checksum": "29753831e47ad88b8749222a79758e77",
+  "room": {
+    "id": 18418,
+    "title": [
+      "[Dunstan's Farm Depot]"
+    ],
+    "description": [
+      "An old blue blanket has been thrown across several bales of hay, serving as a make-shift table.  To the left, a broken milking stool has been placed in front of several overturned milk urns.  The aroma of fertilizer and loam drifts into the barn from the yard outside."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18413": "south",
+      "18419": "go doors"
+    },
+    "timeto": {
+      "18413": 0.2,
+      "18419": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

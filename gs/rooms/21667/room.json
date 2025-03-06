@@ -1,0 +1,34 @@
+{
+  "checksum": "f9c3ea19cac6b5c67df84a4c6c111e9d",
+  "room": {
+    "id": 21667,
+    "title": [
+      "[Festival of Frost, Grounds]"
+    ],
+    "description": [
+      "A cluster of smooth wooden tables have been set out around the area, many of them being attended to by busy workers as they clear away leftover food and dirty plates.  The strong aroma of baked bread drifts out of the flap of a huge yellow tent."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, south, southwest, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "21666": "southeast",
+      "21668": "go tent",
+      "21669": "go shop",
+      "21670": "northwest",
+      "21677": "southwest",
+      "21678": "south",
+      "21679": "northeast"
+    },
+    "timeto": {
+      "21666": 0.2,
+      "21668": 0.2,
+      "21669": 0.2,
+      "21670": 0.2,
+      "21677": 0.2,
+      "21678": 0.2,
+      "21679": 0.2
+    }
+  }
+}

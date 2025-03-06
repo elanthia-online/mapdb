@@ -1,0 +1,42 @@
+{
+  "checksum": "8a3f9c818da2cf458b451816f72e6d74",
+  "room": {
+    "id": 5585,
+    "title": [
+      "[Vornavis Caravansary, The Row]"
+    ],
+    "description": [
+      "A sprawling building built of rough-cut logs, chinked with mud, and roofed with red tiles stands half-buried beneath the ground here.  The peak of the roof rises to waist level, and a wide timber stairway set into the turf descends to an equally wide doorway.  A wooden sign depicting a cluster of barrels, crates, and grainsacks hangs above the door."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Solhaven",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "5583": "north",
+      "5586": "east",
+      "5588": "climb stairway"
+    },
+    "timeto": {
+      "5583": 0.2,
+      "5586": 0.2,
+      "5588": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2120055
+    ],
+    "image": "vo-caravansary-1264234799.png",
+    "image_coords": [
+      345,
+      1052,
+      355,
+      1062
+    ]
+  }
+}

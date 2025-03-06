@@ -1,0 +1,39 @@
+{
+  "checksum": "b47a9ada713d899c5560619b40c12252",
+  "room": {
+    "id": 5710,
+    "title": [
+      "[Bank of Vornavis, Solhaven]"
+    ],
+    "description": [
+      "Dark panelled walls rise above you, culminating in a carved coffered ceiling.  The plush burgundy carpets are silent underfoot.  Merchants and townsfolk mill about, speaking in hushed, reverent whispers.  Three teller windows are open, the quiet clink of coins drifting from within."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the free port of Solhaven",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "1461": "out",
+      "13242": "go booth",
+      "30710": "/rooms/5710/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1461": 0.2,
+      "13242": 0.2,
+      "30710": "/rooms/5710/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "bank",
+      "urchin-access",
+      "urchin guide bank",
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:nomagic"
+    ],
+    "uid": [
+      4740018
+    ]
+  }
+}

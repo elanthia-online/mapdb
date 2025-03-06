@@ -1,0 +1,45 @@
+{
+  "checksum": "e26a0bf58995e8ee477792236549f43c",
+  "room": {
+    "id": 17760,
+    "title": [
+      "[Guild Hall, Cavern of Light]"
+    ],
+    "description": [
+      "Subterranean tunnels, burrowed deep beneath the frozen wastes, lead off in several directions from this central cavern.  Around the fringes of the gallery, stalactites and stalagmites meet to form huge pillars which craftsmen have wrought into totems depicting faces of ancient warriors and creatures of all species and sizes.  In the center of the chamber, a gigantic crystalline deposit rises from the floor towards the crystal skylight at its summit."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, west, northwest, out"
+    ],
+    "location": "the Warrior Guild",
+    "wayto": {
+      "17759": "out",
+      "17761": "northwest",
+      "17762": "west",
+      "17767": "east",
+      "17769": "northeast",
+      "17770": "north"
+    },
+    "timeto": {
+      "17759": 0.2,
+      "17761": 0.2,
+      "17762": 0.2,
+      "17767": 0.2,
+      "17769": 0.2,
+      "17770": 0.2
+    },
+    "tags": [
+      "warrior guild administrator"
+    ],
+    "uid": [
+      250015
+    ],
+    "image": "warrior_guilds-1268684755.png",
+    "image_coords": [
+      614,
+      266,
+      634,
+      286
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checksum": "75dff63268237b6cf7388d1e9a1180be",
+  "room": {
+    "id": 35026,
+    "title": [
+      "[Glaoveln, Seething Flats]"
+    ],
+    "description": [
+      "Spanning an infernal fissure flooded with molten rock, a black stone bridge strains toward the more solid ground of the coastal cliffs to the south.  Noxious gases roil up from the chasm's depths and hang in low, unsavory banks of fog over the scorched landscape.  Clouds of toxic smoke fill the air, their underbellies illuminated by the rivers of lava threading through the flats like veins of liquid fire."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35025": "go bridge",
+      "35027": "north"
+    },
+    "timeto": {
+      "35025": 0.2,
+      "35027": 0.2
+    },
+    "uid": [
+      4426301
+    ]
+  }
+}

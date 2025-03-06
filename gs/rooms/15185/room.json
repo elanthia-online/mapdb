@@ -1,0 +1,30 @@
+{
+  "checksum": "215895d99ebf90b6b9895b30332dbe8f",
+  "room": {
+    "id": 15185,
+    "title": [
+      "[Paege's Outfitting]"
+    ],
+    "description": [
+      "The broad sweep of the black marble floor is interrupted by some large invar-bound ale kegs.  Halfway to the beam ceiling, a detailed DragonSpine landscape hangs on one of the varnished ebonwood walls.  A glass-topped mistwood counter and a plank-covered barrel table are pushed close together in the back of the shop."
+    ],
+    "paths": [
+      "Obvious exits: out",
+      "Obvious exits: south, west, out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "350": "out",
+      "25009": "west",
+      "25010": "south"
+    },
+    "timeto": {
+      "350": 0.2,
+      "25009": 0.2,
+      "25010": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

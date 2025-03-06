@@ -1,0 +1,36 @@
+{
+  "checksum": "d2d15a0ac92e4c401e4a75db06395b6b",
+  "room": {
+    "id": 16150,
+    "title": [
+      "[Gargamish's Magic Shoppe]"
+    ],
+    "description": [
+      "A cracked and clouded mirror hangs on one of the paneled mahogany walls, and a cobweb-covered ceiling rises overhead.  A worn rug sits in one corner of a wide-planked walnut floor.  There is a giant willow withy basket on one side of the shop and a badly scarred oak counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest, out"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10876": "out",
+      "16149": "southeast",
+      "16151": "southwest"
+    },
+    "timeto": {
+      "10876": 0.2,
+      "16149": 0.2,
+      "16151": 0.2
+    },
+    "tags": [
+      "fshop",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:playershop"
+    ],
+    "uid": [
+      644017
+    ]
+  }
+}

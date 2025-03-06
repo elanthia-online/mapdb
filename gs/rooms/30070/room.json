@@ -1,0 +1,39 @@
+{
+  "checksum": "cf8b11c33497750ea934dcb060e025da",
+  "room": {
+    "id": 30070,
+    "title": [
+      "[Angargreft, Spirit Walk]"
+    ],
+    "description": [
+      "Atop a set of vast stone steps, the walkway curves toward the northwest, the path guided by long-spent torches in brackets of rusted iron.  One has been wrenched free from its setting, with a gaping hole in the stone left behind.  Cold gusts of air whistle along the sepulchral halls like a chorus of mourning cries."
+    ],
+    "paths": [
+      "Obvious exits: northwest"
+    ],
+    "location": "the Hinterwilds",
+    "wayto": {
+      "30042": "northwest",
+      "30071": "go steps"
+    },
+    "timeto": {
+      "30042": 0.2,
+      "30071": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      7503431
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      861,
+      469,
+      875,
+      484
+    ]
+  }
+}

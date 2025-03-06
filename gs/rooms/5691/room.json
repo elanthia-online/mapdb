@@ -1,0 +1,36 @@
+{
+  "checksum": "7e012761dccc13be7ef923a954dfb0af",
+  "room": {
+    "id": 5691,
+    "title": [
+      "[Warehouse, First Floor]"
+    ],
+    "description": [
+      "Several small boxes have been turned on end here and placed around a slightly taller box.  This appears to be where some warehouse workers take their lunch, or maybe play an occasional game of cards.  The boxes have been pushed aside clearing paths east and south."
+    ],
+    "paths": [
+      "Obvious exits: east, south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "5412": "east",
+      "5692": "go stairs",
+      "14118": "south"
+    },
+    "timeto": {
+      "5412": 0.2,
+      "5692": 0.2,
+      "14118": 0.2
+    },
+    "uid": [
+      4219330
+    ],
+    "image": "vo-warehouse_lockers-1485119080.png",
+    "image_coords": [
+      450,
+      995,
+      555,
+      1045
+    ]
+  }
+}

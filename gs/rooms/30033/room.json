@@ -1,0 +1,44 @@
+{
+  "checksum": "2b59eba5bc2e47c340acd2f18f58a255",
+  "room": {
+    "id": 30033,
+    "title": [
+      "[Angargreft, Sanguine Grove]"
+    ],
+    "description": [
+      "Near to the mouth of one of the dirt-choked burrows is the frozen corpse of a gigas, locked in his last terrible moments by the glacial cold.  A muscled figure crudely carved into the wall of the fane stares impassively down at the preserved carnage."
+    ],
+    "paths": [
+      "Obvious paths: north, southwest"
+    ],
+    "location": "the Hinterwilds",
+    "climate": "glacial",
+    "terrain": "rough",
+    "wayto": {
+      "30032": "southwest",
+      "30034": "north"
+    },
+    "timeto": {
+      "30032": 0.2,
+      "30034": 0.2
+    },
+    "tags": [
+      "arctic moss",
+      "broken twig",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      7503418
+    ],
+    "image": "imt-Hinterwilds-1651886165.jpg",
+    "image_coords": [
+      982,
+      549,
+      997,
+      564
+    ]
+  }
+}

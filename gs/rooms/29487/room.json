@@ -1,0 +1,39 @@
+{
+  "checksum": "4c2e5c147b76508ceb421d05756ebbf1",
+  "room": {
+    "id": 29487,
+    "title": [
+      "[Czeroth Labyrinth, Tunnel]"
+    ],
+    "description": [
+      "Bare granite walls have been carved away, forming this crooked tunnel that exits northwest and northeast.  The ceiling slants at an awkward angle, but the footing here is flat and easily transversable.  This stretch of this tunnel is faintly rancid."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the Czeroth Caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "29479": "northeast",
+      "29482": "northwest"
+    },
+    "timeto": {
+      "29479": 0.2,
+      "29482": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      13007214
+    ],
+    "image": "en-zul_czeroth.png",
+    "image_coords": [
+      345,
+      348,
+      367,
+      368
+    ]
+  }
+}

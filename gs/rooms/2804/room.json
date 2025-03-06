@@ -1,0 +1,82 @@
+{
+  "checksum": "1f3b4325a9867604697a23b57f8b2a5a",
+  "room": {
+    "id": 2804,
+    "title": [
+      "[Courtyard]"
+    ],
+    "description": [
+      "The courtyard is swept with fine drifts of snow that reach over the polished granite tiles like elongated, playful fingers.  From the shelter of an ancient and stately pine growing in the center of the enclosure, birdsong is a constant background, as if the serenading chorus is intent upon making up for melody lost along the silent trails leading to the plaza.  An edifice rises from the granite courtyard like a temple of ice, its white stone glistening with a mantle of snow crystals."
+    ],
+    "paths": [
+      "Obvious paths: northeast, northwest"
+    ],
+    "location": "the Pinefar Trading Post",
+    "climate": "cold, damp",
+    "terrain": "cultivated",
+    "wayto": {
+      "2635": "/rooms/2804/wayto/stringproc-2635.rb",
+      "2803": "northwest",
+      "2805": "northeast",
+      "2808": "/rooms/2804/wayto/stringproc-2808.rb",
+      "2972": "/rooms/2804/wayto/stringproc-2972.rb",
+      "3140": "/rooms/2804/wayto/stringproc-3140.rb",
+      "23145": "go spring"
+    },
+    "timeto": {
+      "2635": "/rooms/2804/timeto/stringproc-2635.rb",
+      "2803": 0.2,
+      "2805": 0.2,
+      "2808": "/rooms/2804/timeto/stringproc-2808.rb",
+      "2972": "/rooms/2804/timeto/stringproc-2972.rb",
+      "3140": "/rooms/2804/timeto/stringproc-3140.rb",
+      "23145": 0.2
+    },
+    "tags": [
+      "node",
+      "some wyrmwood bark",
+      "manroot stalk",
+      "voln",
+      "some valerian root",
+      "sassafras leaf",
+      "sweetfern stalk",
+      "red lichen",
+      "feverfern stalk",
+      "gok nut",
+      "angelica root",
+      "pennyroyal stem",
+      "daggit root",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "moonflower",
+      "bright red cranberry",
+      "frostflower",
+      "blue whortleberry",
+      "arctic brambles",
+      "ayana leaf",
+      "witchwood twig",
+      "yew twig",
+      "luckbloom blossom",
+      "wavepetal blossom",
+      "some red lichen",
+      "valerian root",
+      "wyrmwood bark",
+      "meta:forage-sensed",
+      "meta:seeking",
+      "sunburst blossom",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      10000110
+    ],
+    "image": "imt-pinefar-1264234799.png",
+    "image_coords": [
+      155,
+      1006,
+      165,
+      1016
+    ]
+  }
+}

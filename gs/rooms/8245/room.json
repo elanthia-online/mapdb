@@ -1,0 +1,38 @@
+{
+  "checksum": "80611e2b044c1d2acf2158baf8db2fc8",
+  "room": {
+    "id": 8245,
+    "title": [
+      "[Wolves' Den, Barracks]"
+    ],
+    "description": [
+      "Water has seeped through the northern wall of what was once a barracks.  The moldering remains of cots and wooden racks lie in even rows.  An iron door leads west, and the remains of a wooden one hang in the open doorway to the east."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "the Wolves' Den",
+    "wayto": {
+      "8227": "go iron door",
+      "8246": "east"
+    },
+    "timeto": {
+      "8227": 0.2,
+      "8246": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      390003
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      216,
+      256,
+      226,
+      266
+    ]
+  }
+}

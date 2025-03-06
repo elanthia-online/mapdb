@@ -1,0 +1,42 @@
+{
+  "checksum": "ffac0802e5d689b4ebf3ebea0fcd0a65",
+  "room": {
+    "id": 12249,
+    "title": [
+      "[The Rift, Scatter]"
+    ],
+    "description": [
+      "Stretching as far as the eye can see are dunes of stark white sand.  Discarded windows, violently ripped from their frames, are littered across the bleak landscape.  Some of the shattered glass takes flight in the harsh wind, glittering across the grey sky.",
+      "Stretching as far as the eye can see are dunes of stark white sand.  Discarded windows, violently ripped from their frames, are littered across the bleak landscape.  Some of the shattered glass takes flight in the harsh wind, glittering across the grey sky.  The air wavers like water in the presence of great heat."
+    ],
+    "paths": [
+      "Obvious paths: southwest",
+      "Obvious exits: southwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12233": "go barrier",
+      "12250": "southwest"
+    },
+    "timeto": {
+      "12233": 0.2,
+      "12250": 0.2
+    },
+    "tags": [
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4571003
+    ],
+    "image": "imt-scatter-1264234799.png",
+    "image_coords": [
+      293,
+      377,
+      319,
+      403
+    ]
+  }
+}

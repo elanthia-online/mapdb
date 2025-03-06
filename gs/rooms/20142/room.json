@@ -1,0 +1,26 @@
+{
+  "checksum": "bb0b3c5fee637ac804d44b50e9d07104",
+  "room": {
+    "id": 20142,
+    "title": [
+      "[The Crossing]"
+    ],
+    "description": [
+      "Tall swamp grasses have been trampled flat, creating a small open field.  To either side of the clearing are long aisles separated by bales of hay, each one ending with a large painted target.  Several logs have been placed about the area, their surfaces cut with an indentation perfect for sitting.  A winding dirt path leads away from the gathering space, back towards the main festival area."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Feywrot Mire",
+    "wayto": {
+      "20141": "go path",
+      "20395": "west",
+      "20400": "east"
+    },
+    "timeto": {
+      "20141": 0.2,
+      "20395": 0.2,
+      "20400": 0.2
+    }
+  }
+}

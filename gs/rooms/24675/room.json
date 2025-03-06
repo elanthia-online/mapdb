@@ -1,0 +1,89 @@
+{
+  "checksum": "83093c3bfa7ed6d8ccfe9bd29605c7e0",
+  "room": {
+    "id": 24675,
+    "title": [
+      "[Red Forest, Ring of Mist]"
+    ],
+    "description": [
+      "Serpentine coils of thick grey mist bend and twist through the lush forest, obscuring entire swathes of the crowded forest in a hazy shroud.  The distant call of a songbird echoes somewhere within the heavy canopies above."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast"
+    ],
+    "location": "the Red Forest",
+    "climate": "cold, damp",
+    "terrain": "deciduous forest",
+    "wayto": {
+      "7892": "/rooms/24675/wayto/stringproc-7892.rb",
+      "16744": "/rooms/24675/wayto/stringproc-16744.rb",
+      "24676": "southeast",
+      "24688": "northeast"
+    },
+    "timeto": {
+      "7892": "/rooms/24675/timeto/stringproc-7892.rb",
+      "16744": "/rooms/24675/timeto/stringproc-16744.rb",
+      "24676": 0.2,
+      "24688": 0.2
+    },
+    "tags": [
+      "wild pink geranium",
+      "withered black mushroom",
+      "wild chokecherry",
+      "bright red cranberry",
+      "luckbloom blossom",
+      "yew twig",
+      "stalk of bluebells",
+      "fiddlehead fern",
+      "wild gooseberry",
+      "sassafras leaf",
+      "wintergreen leaf",
+      "sprig of wild lilac",
+      "murdroot",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "sweetfern stalk",
+      "bright red teaberry",
+      "small wild rose",
+      "tkaro root",
+      "blue whortleberry",
+      "massive black boar",
+      "winged viper",
+      "meta:mapname:Red Forest, The",
+      "meta:mapshortname:Red Forest",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:Elven Nations",
+      "acantha leaf",
+      "wolifrew lichen",
+      "ephlox moss",
+      "sticks",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "white hook mushroom",
+      "blueberries",
+      "broken twig",
+      "tree bark",
+      "willow twig",
+      "oak twig",
+      "twisted twig",
+      "slender twig",
+      "bolmara lichen",
+      "brostheras grass",
+      "meta:forage-sensed",
+      "dwarf billberry",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      480201
+    ],
+    "image": "red_forest-1260914757.png",
+    "image_coords": [
+      104,
+      143,
+      118,
+      156
+    ]
+  }
+}

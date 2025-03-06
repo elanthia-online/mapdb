@@ -1,0 +1,53 @@
+{
+  "checksum": "fcf5fdead1b6ee8e7003f05e80a91451",
+  "room": {
+    "id": 8211,
+    "title": [
+      "[Sea Caverns, Sleeping Quarters]"
+    ],
+    "description": [
+      "This southwest corner of the cavern is strewn with bits of leather and broken weapons.  Some old swords in better repair, although not by much, are stacked haphazardly against the wall.  A pile of various types of skulls nearby seems like a small monument to carnage."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8208": "north",
+      "8209": "east",
+      "8210": "northeast"
+    },
+    "timeto": {
+      "8208": 0.2,
+      "8209": 0.2,
+      "8210": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391022
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      553,
+      263,
+      563,
+      273
+    ]
+  }
+}

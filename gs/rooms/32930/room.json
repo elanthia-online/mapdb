@@ -1,0 +1,46 @@
+{
+  "checksum": "ce02e6455239639366c8334338612b3b",
+  "room": {
+    "id": 32930,
+    "title": [
+      "[Billinggate Tavern, Dining Room]"
+    ],
+    "description": [
+      "Short oak walls divide the dining room into five sections, creating booths that have access to one of the tavern's many open windows.  Inviting tables surrounded by benches sit within the rectangular closures, allowing customers a place to rest and enjoy their meal with a modicum of privacy.  Laughter from the nearby taproom fills the air, while bawdy music played by an unseen bard creates an entertaining atmosphere."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Seareach",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32929": "east",
+      "32931": "/rooms/32930/wayto/stringproc-32931.rb",
+      "32932": "/rooms/32930/wayto/stringproc-32932.rb",
+      "32933": "/rooms/32930/wayto/stringproc-32933.rb",
+      "32934": "/rooms/32930/wayto/stringproc-32934.rb",
+      "32935": "/rooms/32930/wayto/stringproc-32935.rb",
+      "34400": "/rooms/32930/wayto/stringproc-34400.rb"
+    },
+    "timeto": {
+      "32929": 0.2,
+      "32931": 0.2,
+      "32932": 0.2,
+      "32933": 0.2,
+      "32934": 0.2,
+      "32935": 0.2,
+      "34400": "/rooms/32930/timeto/stringproc-34400.rb"
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "table",
+      "no forageables",
+      "urchin-access",
+      "urchin guide tables"
+    ],
+    "uid": [
+      7140402
+    ]
+  }
+}

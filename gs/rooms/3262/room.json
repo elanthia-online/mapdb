@@ -1,0 +1,80 @@
+{
+  "checksum": "bfc1fe9f2ec25f8787d15e25e40a1504",
+  "room": {
+    "id": 3262,
+    "title": [
+      "[A Frozen Battlefield, Trench]"
+    ],
+    "description": [
+      "The thudding and pounding above have been replaced by thin scratching sounds.  An occasional rattle fills the air, a familiar yet unnerving noise, perhaps steel on bone.  Footing is treacherous among the frozen puddles that cover the trench basin and threaten to turn an ankle or cause a nasty spill."
+    ],
+    "paths": [
+      "Obvious paths: southeast, west"
+    ],
+    "location": "the Ice Plains",
+    "climate": "cold, damp",
+    "terrain": "plain dirt",
+    "wayto": {
+      "3248": "/rooms/3262/wayto/stringproc-3248.rb",
+      "3257": "/rooms/3262/wayto/stringproc-3257.rb",
+      "3261": "/rooms/3262/wayto/stringproc-3261.rb",
+      "3263": "/rooms/3262/wayto/stringproc-3263.rb"
+    },
+    "timeto": {
+      "3248": 0.2,
+      "3257": 0.2,
+      "3261": 4,
+      "3263": 4
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "some acantha leaf",
+      "some aloeas stem",
+      "some arctic brambles",
+      "orange rowanberry",
+      "handful of bearberries",
+      "some tundra grass",
+      "some valerian root",
+      "stalk of chicory",
+      "bright red cranberry",
+      "some pennyroyal stem",
+      "winter rose",
+      "sweetfern stalk",
+      "small wild rose",
+      "wild chokecherry",
+      "withered black mushroom",
+      "sassafras leaf",
+      "calmintha flower",
+      "buckthorn berry",
+      "cuctucae berry",
+      "some wingstem root",
+      "blue whortleberry",
+      "some angelica root",
+      "frostflower",
+      "acantha leaf",
+      "wolifrew lichen",
+      "aloeas stem",
+      "angelica root",
+      "valerian root",
+      "pennyroyal stem",
+      "bearberries",
+      "tundra grass",
+      "arctic brambles",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2022-09"
+    ],
+    "uid": [
+      7502012
+    ],
+    "image": "imt-east_west_north_gates-1668398077.png",
+    "image_coords": [
+      69,
+      326,
+      79,
+      336
+    ]
+  }
+}

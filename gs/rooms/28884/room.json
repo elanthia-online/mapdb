@@ -1,0 +1,47 @@
+{
+  "checksum": "43d66b05bff88b8a4387d98656fff030",
+  "room": {
+    "id": 28884,
+    "title": [
+      "[Kraken's Fall, Cranial Crawl]"
+    ],
+    "description": [
+      "Sunlight streams across the cobbled road as it descends from the northwest to the southeast, though the current section of road is relatively level.  Carts and wagons are pulled up beside a stout building with a sturdy iron door, while a small shed, under guard, houses various boxes and crates.  Lanterns dominate this section of the lane, their wrought iron pedestals set so close to each other that they reflect light on one another.",
+      "Moonlight streams across the cobbled road as it descends from the northwest to the southeast, though the current section of road is relatively level.  Carts and wagons are pulled up beside a stout building with a sturdy iron door, while a small shed, under guard, houses various boxes and crates.  Lanterns dominate this section of the lane, their wrought iron pedestals set so close to each other that they reflect light on one another."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, west, northwest"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28872": "east",
+      "28883": "southeast",
+      "28885": "northwest",
+      "28886": "west",
+      "29099": "go stout building"
+    },
+    "timeto": {
+      "28872": 0.2,
+      "28883": 0.2,
+      "28885": 0.2,
+      "28886": 0.2,
+      "29099": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118210
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      273,
+      309,
+      287,
+      321
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "e979e1161d09dcf889705a54318b4d41",
+  "room": {
+    "id": 12472,
+    "title": [
+      "[Pebble Court, Granite Way]"
+    ],
+    "description": [
+      "A hodgepodge of homes lines the street.  Most are stoutly constructed of grey stone and modwir, a practical dwarven style, but others are obviously home to halflings or elves."
+    ],
+    "paths": [
+      "Obvious paths: southeast, south, southwest"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "12471": "southwest",
+      "12473": "southeast",
+      "12475": "south"
+    },
+    "timeto": {
+      "12471": 0.2,
+      "12473": 0.2,
+      "12475": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      703051
+    ],
+    "image": "ti-rr-homes-1264234799.png",
+    "image_coords": [
+      298,
+      824,
+      318,
+      844
+    ]
+  }
+}

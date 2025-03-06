@@ -1,0 +1,48 @@
+{
+  "checksum": "3b8ed770f6fdbc20c35db80875969c68",
+  "room": {
+    "id": 11447,
+    "title": [
+      "[Maelstrom Bay, Surface]"
+    ],
+    "description": [
+      "The slow-moving swells of the bay disguise the swift currents that make it impossible to move to the west.  To the east is the tall, steep cliff of the mainland.  The island of River's Rest is visible to the southeast."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast, northwest, down"
+    ],
+    "location": "Maelstrom Bay",
+    "climate": "saltwater",
+    "terrain": "",
+    "wayto": {
+      "11438": "/rooms/11447/wayto/stringproc-11438.rb",
+      "11439": "/rooms/11447/wayto/stringproc-11439.rb",
+      "11446": "/rooms/11447/wayto/stringproc-11446.rb",
+      "11448": "/rooms/11447/wayto/stringproc-11448.rb",
+      "11450": "/rooms/11447/wayto/stringproc-11450.rb",
+      "11456": "/rooms/11447/wayto/stringproc-11456.rb"
+    },
+    "timeto": {
+      "11438": 2,
+      "11439": 2,
+      "11446": 2,
+      "11448": "/rooms/11447/timeto/stringproc-11448.rb",
+      "11450": 2,
+      "11456": 3
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      304017
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      702,
+      1288,
+      712,
+      1298
+    ]
+  }
+}

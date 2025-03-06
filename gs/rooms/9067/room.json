@@ -1,0 +1,32 @@
+{
+  "checksum": "ae6ecbc99ead5596a9af694b57133e7f",
+  "room": {
+    "id": 9067,
+    "title": [
+      "[Morayna's Pet Shop, Aquariums]"
+    ],
+    "description": [
+      "Aquariums of various sizes line the walls of the small room, the faint sound of water trickling in each of the tanks filling the air.  A large glass aquarium takes up most of the space in the center of the room, its interior filled to the brim with a variety of fish and aquatic creatures.  A small child sits next to the center aquarium as if she was the tiny sentry for the large underwater domain."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "9066": "south",
+      "9068": "west",
+      "9069": "east"
+    },
+    "timeto": {
+      "9066": 0.2,
+      "9068": 0.2,
+      "9069": 0.2
+    },
+    "tags": [
+      "meta:nomagic"
+    ],
+    "uid": [
+      4747032
+    ]
+  }
+}

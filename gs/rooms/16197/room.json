@@ -1,0 +1,36 @@
+{
+  "checksum": "f86dd07cd9ff7cf0aab6e765a72f6112",
+  "room": {
+    "id": 16197,
+    "title": [
+      "[Beacon Hall, Office]",
+      "[Beacon Hall, Officers' Chamber]"
+    ],
+    "description": [
+      "Crowded bookshelves line three of the walls.  From massive tomes to small pamphlets, each text competes for space in which to display its recognizable or not-so-recognizable title.  In one corner a carved teak chair sits behind a matching desk.",
+      "Majestic and spacious, this oval room is enclosed with mahogany wainscoting.  An arched bay window resides opposite a carved willow door, providing a sweeping view of Maelstrom Bay.  The focal point of the room is a claw-footed circular table of grand scale, surrounded by ten plush high-backed chairs.  A horizon of elaborate wrought iron sconces provides function and finish to the room."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Maelstrom Bay",
+    "wayto": {
+      "16196": "go door",
+      "18914": "tap oversized tome"
+    },
+    "timeto": {
+      "16196": 0.2,
+      "18914": 0.2
+    },
+    "tags": [
+      "meta:che:Beacon Hall Archive"
+    ],
+    "image": "rr-beacon_hall-1405076623.png",
+    "image_coords": [
+      298,
+      465,
+      344,
+      511
+    ]
+  }
+}

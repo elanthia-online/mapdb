@@ -1,0 +1,39 @@
+{
+  "checksum": "9bfe9537147bc13b0596d51baedbf9a5",
+  "room": {
+    "id": 2237,
+    "title": [
+      "[Glaes Vein]"
+    ],
+    "description": [
+      "At the foot of a barrier of jagged glaes boulders, the passageway curves quickly out of sight around an immense outcropping of blood-red glaes.  The rare stone glistens in the low light, embraced by black glaes, which surrounds it and accents it with the contrast in color.  Within the stone, a dim reflection of light flickers and pulses, as though the huge formation is a beating heart with convoluted striations for veins."
+    ],
+    "paths": [
+      "Obvious exits: northeast"
+    ],
+    "location": "the Eye of V'Tull",
+    "wayto": {
+      "2236": "/rooms/2237/wayto/stringproc-2236.rb",
+      "2238": "northeast"
+    },
+    "timeto": {
+      "2236": 0.2,
+      "2238": 0.2
+    },
+    "tags": [
+      "pepperthorn root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11"
+    ],
+    "uid": [
+      3051007
+    ],
+    "image": "ti-vtull-1663120653.png",
+    "image_coords": [
+      37,
+      814,
+      47,
+      824
+    ]
+  }
+}

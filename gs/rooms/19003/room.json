@@ -1,0 +1,35 @@
+{
+  "checksum": "405eac350c3277268c46cbc2b6d0e2e3",
+  "room": {
+    "id": 19003,
+    "title": [
+      "[Sorcerer Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Ta'Illistim",
+    "wayto": {
+      "18161": "north",
+      "19004": "go cauldrons"
+    },
+    "timeto": {
+      "18161": 0.2,
+      "19004": 0.2
+    },
+    "uid": [
+      666112
+    ],
+    "image": "en-ta_illistim-sorcerer_guild-1405076623.png",
+    "image_coords": [
+      460,
+      462,
+      500,
+      498
+    ],
+    "check_location": true
+  }
+}

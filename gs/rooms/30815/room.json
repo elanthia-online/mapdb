@@ -1,0 +1,41 @@
+{
+  "checksum": "cfbf8deeed51d061a8e7ad3cc1320336",
+  "room": {
+    "id": 30815,
+    "title": [
+      "[Rapids]"
+    ],
+    "description": [
+      "The rapids careen toward the logging colony below.  Offering a glimpse of a tropical beach, an opening is visible to the side of the rapids.  A thick branch looms overhead with a single vine that may reach the opening."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "the Atoll",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "30816": "/rooms/30815/wayto/stringproc-30816.rb",
+      "30817": "/rooms/30815/wayto/stringproc-30817.rb"
+    },
+    "timeto": {
+      "30816": 0.2,
+      "30817": 3
+    },
+    "tags": [
+      "aloeas stem",
+      "wild gooseberry",
+      "strand of seaweed",
+      "stalk of cattail",
+      "alpine violet",
+      "murdroot",
+      "wavepetal blossom",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-11",
+      "meta:nomagic"
+    ],
+    "uid": [
+      7138304
+    ]
+  }
+}

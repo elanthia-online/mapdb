@@ -1,0 +1,27 @@
+{
+  "checksum": "08c1401945ced54a7efac1db300c2d66",
+  "room": {
+    "id": 27022,
+    "title": [
+      "[Lake of Fear, Southern Expanse]"
+    ],
+    "description": [
+      "Despite the normal crystal clarity of the lake, the thickness of the ice makes identifying anything below the surface nearly impossible.  Patches of snow further obscure the dark shapes moving beneath the frozen surface."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27021": "/rooms/27022/wayto/stringproc-27021.rb",
+      "27023": "/rooms/27022/wayto/stringproc-27023.rb"
+    },
+    "timeto": {
+      "27021": 0.2,
+      "27023": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

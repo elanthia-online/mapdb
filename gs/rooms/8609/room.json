@@ -1,0 +1,38 @@
+{
+  "checksum": "23aac05a0c489efac91df9001534d2bf",
+  "room": {
+    "id": 8609,
+    "title": [
+      "[Krag Slopes, Storage Chamber]"
+    ],
+    "description": [
+      "The sickening-sweet smell of decaying flesh and death hangs like a shroud over the stacks of dead adventurers that have been tossed haphazardly against the walls.  Humans, elves, dwarves, even giantmen have been stripped of their possessions and left here.  It would seem that the krag dwellers use this cavern as a food storage chamber."
+    ],
+    "paths": [
+      "Obvious exits: north, west"
+    ],
+    "location": "the Krag slopes",
+    "wayto": {
+      "8608": "west",
+      "8610": "north"
+    },
+    "timeto": {
+      "8608": 0.2,
+      "8610": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      495028
+    ],
+    "image": "wl-wehntoph-1310775397.png",
+    "image_coords": [
+      1435,
+      759,
+      1471,
+      795
+    ]
+  }
+}

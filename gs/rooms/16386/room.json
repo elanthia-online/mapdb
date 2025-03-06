@@ -1,0 +1,30 @@
+{
+  "checksum": "2a908a2f3076207ffe7423a58d32879d",
+  "room": {
+    "id": 16386,
+    "title": [
+      "[Aaryna's General Store]",
+      "[Aaryna's Weaponry]"
+    ],
+    "description": [
+      "A wall-mounted blowfish hangs on one of the blue-speckled sea glass walls, and a low skylight-set ceiling rises overhead.  An ornate bottled ship sits in one corner of a swirled sea glass floor.  There is some carved haon pegs on one side of the shop and a long mistwood counter on the other."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12267": "out",
+      "16596": "east",
+      "16597": "north"
+    },
+    "timeto": {
+      "12267": 0.2,
+      "16596": 0.2,
+      "16597": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

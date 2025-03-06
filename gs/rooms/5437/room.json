@@ -1,0 +1,42 @@
+{
+  "checksum": "ce809e979638075ab71876b7e2653465",
+  "room": {
+    "id": 5437,
+    "title": [
+      "[Bonespear Tower, Hallway]"
+    ],
+    "description": [
+      "A giant gouge has been ripped into one wall, and a few bits of cloth are still stuck to the jagged bones protruding from the hole.  It is difficult to determine if wizardry or beast made this mark, but either way, it's quite unsettling."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "Bonespear Tower",
+    "wayto": {
+      "5429": "southwest",
+      "5438": "northeast"
+    },
+    "timeto": {
+      "5429": 0.2,
+      "5438": 0.2
+    },
+    "tags": [
+      "waern",
+      "dybbuk",
+      "eidolon",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      319134
+    ],
+    "image": "vo-foggy_valley-1264234799.png",
+    "image_coords": [
+      977,
+      823,
+      987,
+      833
+    ]
+  }
+}

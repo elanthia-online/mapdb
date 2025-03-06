@@ -1,0 +1,74 @@
+{
+  "checksum": "6b16216250ff6292b38762f9b20e4354",
+  "room": {
+    "id": 16122,
+    "title": [
+      "[Miasmal Forest, Spectral Mist]"
+    ],
+    "description": [
+      "The thick, clammy fog hugs the marshy ground, obscuring the twisting trails that wind through the bent, skeletal trees and the noxious quagmire.  Weeds, black and slick with some form of rot, choke the malodorous bogs.  The air, tainted with the stink of decay, hangs still and heavy.",
+      "Weeds, black and slick with some singularly foul form of rot, grow thick in the malodorous bogs that line the twisting trails.  The bone-grey fog eddies slowly through the bent, skeletal trees.  The listless breeze is tainted with the stink of decay."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "the Miasmal Forest",
+    "climate": "cold, damp",
+    "terrain": "muddy wetlands",
+    "wayto": {
+      "11612": "/rooms/16122/wayto/stringproc-11612.rb",
+      "11618": "/rooms/16122/wayto/stringproc-11618.rb",
+      "11630": "/rooms/16122/wayto/stringproc-11630.rb",
+      "22218": "/rooms/16122/wayto/stringproc-22218.rb"
+    },
+    "timeto": {
+      "11612": 10,
+      "11618": 10,
+      "11630": 10,
+      "22218": 10
+    },
+    "tags": [
+      "aloeas stem",
+      "soft white mushroom",
+      "withered black mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "wild gooseberry",
+      "stalk of cattail",
+      "small wild rose",
+      "mistweed",
+      "murdroot",
+      "wavepetal blossom",
+      "bolmara lichen",
+      "talneo root",
+      "meta:forage-sensed",
+      "sunburst blossom",
+      "wingstem root",
+      "meta:maze",
+      "meta:map:multi-uid",
+      "meta:forage-sensed:night:2023-02",
+      "meta:forage-sensed:day:2024-05"
+    ],
+    "uid": [
+      5003021,
+      5003022,
+      5003023,
+      5003024,
+      5003025,
+      5003026,
+      5003027,
+      5003030,
+      5003032,
+      5003036,
+      5003037,
+      5003038
+    ],
+    "image": "rr-maelstrom-1619824696.png",
+    "image_coords": [
+      527,
+      537,
+      537,
+      547
+    ]
+  }
+}

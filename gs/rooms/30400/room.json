@@ -1,0 +1,49 @@
+{
+  "checksum": "9359283a896a3aed6e4fe06d16588884",
+  "room": {
+    "id": 30400,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "Flaring slightly, the channel widens, creating a calm respite and allowing the azure waters to spark beneath the glittering ambient light.   Thin waves ripple into one another, their progress unhampened by any obstacles in the immediate area."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30399": "pedal southwest",
+      "30401": "pedal north",
+      "30402": "pedal northwest",
+      "30404": "pedal west",
+      "30407": "pedal south",
+      "30408": "pedal east",
+      "30409": "pedal southeast"
+    },
+    "timeto": {
+      "30399": 6,
+      "30401": 6,
+      "30402": 6,
+      "30404": 6,
+      "30407": 6,
+      "30408": 6,
+      "30409": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3216182
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      521,
+      3022,
+      537,
+      3038
+    ]
+  }
+}

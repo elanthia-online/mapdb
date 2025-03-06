@@ -1,0 +1,38 @@
+{
+  "checksum": "b11dcb140af4d2a8317a1912d4216d15",
+  "room": {
+    "id": 6619,
+    "title": [
+      "[A Dark Recess]"
+    ],
+    "description": [
+      "The narrow walkway, hardly more than a fissure, stops abruptly at a solid modwir door.  It's bound with iron straps and a large, iron ring bolted to the front offers a way to pull it open.  There are hefty slide-bolts above and below the ring."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Castle Anwyn",
+    "wayto": {
+      "6616": "out",
+      "6620": "go door"
+    },
+    "timeto": {
+      "6616": 0.2,
+      "6620": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4285061
+    ],
+    "image": "wl-lysierian-1264234799.png",
+    "image_coords": [
+      971,
+      611,
+      981,
+      621
+    ]
+  }
+}

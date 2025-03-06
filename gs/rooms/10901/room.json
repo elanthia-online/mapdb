@@ -1,0 +1,32 @@
+{
+  "checksum": "b4ca53e254208eec8e8f107296bdd796",
+  "room": {
+    "id": 10901,
+    "title": [
+      "[Aeliena's Tables]"
+    ],
+    "description": [
+      "This room is filled with small tables of all shapes and description.  A copper lantern swings from the rafters, throwing shifting golden light across the room."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "10900": "east",
+      "10902": "go door"
+    },
+    "timeto": {
+      "10900": 0.2,
+      "10902": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      2300006
+    ]
+  }
+}

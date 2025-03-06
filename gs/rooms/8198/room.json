@@ -1,0 +1,55 @@
+{
+  "checksum": "8ad891e45d1dfa2d4a8b3da3ea042ca7",
+  "room": {
+    "id": 8198,
+    "title": [
+      "[Sea Caverns, Massive Chamber]"
+    ],
+    "description": [
+      "This chamber is vast, and the far walls are barely visible in the flickering light from the fire-pit in the center.  A ring of spears surrounds the fire, each topped by a small, fanged skull.  A wide passage leads off to the north, and there's a small opening low on the eastern wall."
+    ],
+    "paths": [
+      "Obvious exits: north, south, west"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8197": "west",
+      "8199": "north",
+      "8201": "go opening",
+      "8202": "south"
+    },
+    "timeto": {
+      "8197": 0.2,
+      "8199": 0.2,
+      "8201": 0.2,
+      "8202": 0.2
+    },
+    "tags": [
+      "red trafel mushroom",
+      "murdroot",
+      "white hook mushroom",
+      "black hook mushroom",
+      "blue trafel mushroom",
+      "soft white mushroom",
+      "withered black mushroom",
+      "cave moss",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      391005
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      526,
+      104,
+      536,
+      114
+    ]
+  }
+}

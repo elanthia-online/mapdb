@@ -1,0 +1,50 @@
+{
+  "checksum": "77b1bac7af2172b1e5dd681c7e62365c",
+  "room": {
+    "id": 7743,
+    "title": [
+      "[Mossy Caverns, Tunnel]"
+    ],
+    "description": [
+      "The odor of sulfur is strong here.  Faint wisps of steam rise from small cracks in the tunnel floor and catch the luminous glow of the ever-present moss.  Small beads of water drip from the ceiling, landing in murky puddles at your feet."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the Coastal Cliffs",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "7742": "northeast",
+      "7744": "southwest"
+    },
+    "timeto": {
+      "7742": 0.2,
+      "7744": 0.2
+    },
+    "tags": [
+      "withered black mushroom",
+      "black trafel mushroom",
+      "pothinir grass",
+      "cave moss",
+      "pepperthorn root",
+      "murdroot",
+      "meta:forage-sensed",
+      "bur-clover root",
+      "round grumbleberry",
+      "ghost pepper",
+      "hot pepper",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      4381005
+    ],
+    "image": "wl-coastal_cliffs-1264234799.png",
+    "image_coords": [
+      894,
+      1155,
+      904,
+      1165
+    ]
+  }
+}

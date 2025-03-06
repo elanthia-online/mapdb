@@ -1,0 +1,52 @@
+{
+  "checksum": "f003970c1c9346383ddd6342e74c1671",
+  "room": {
+    "id": 26847,
+    "title": [
+      "[Bloodriven Village, Lyswe Court]"
+    ],
+    "description": [
+      "Stretching along the interior stone wall is an expansive courtyard with a dilapidated stone fountain, spouting water from a crack in one side, at its center.  Tall brown stone buildings line the courtyard, while green weeds grow up out of the cracks in the uneven cobblestone road.  The walls meet at a tall black iron gate that exits the village."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "Bloodriven Village",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "23728": "go warehouse",
+      "26836": "north",
+      "26848": "go gate",
+      "26849": "go door",
+      "26850": "east",
+      "27651": "go doorway",
+      "29825": "go dust trapdoor",
+      "33580": "go dark pavilion"
+    },
+    "timeto": {
+      "23728": 0.2,
+      "26836": 0.2,
+      "26848": 0.2,
+      "26849": 0.2,
+      "26850": 0.2,
+      "27651": 0.2,
+      "29825": 0.2,
+      "33580": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      8214505
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      771,
+      812,
+      802,
+      841
+    ],
+    "check_location": false
+  }
+}

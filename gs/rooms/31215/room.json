@@ -1,0 +1,39 @@
+{
+  "checksum": "5cefd0f644b2b643f5cfa1269f06c609",
+  "room": {
+    "id": 31215,
+    "title": [
+      "[House Aspis, Hallway]"
+    ],
+    "description": [
+      "This hallway provides access to an oak door and a carved door.  Flickering lanterns cast warm light upon the thickly carpeted area and draw attention to the walls where portraits of the leaders of Aspis through the ages hang, each framed in elegantly carved silverwood."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "31214": "west",
+      "31222": "go oak door",
+      "31223": "go carved door"
+    },
+    "timeto": {
+      "31214": 0.2,
+      "31222": 0.2,
+      "31223": 0.2
+    },
+    "tags": [
+      "meta:che:House of the Argent Aspis"
+    ],
+    "uid": [
+      102030
+    ],
+    "image": "wl-argent_aspis-1680542112.png",
+    "image_coords": [
+      2092,
+      324,
+      2228,
+      395
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "checksum": "2b7e43dcb8cbacdaf9507f6f361cb1f8",
+  "room": {
+    "id": 12187,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Above you the sky is black, dotted with shimmering stars.  The constellations hold no familiar patterns, creating a strangely eerie feeling of disorientation and aloneness.  Beneath your feet crumbles brown-red dirt the consistency of coarse flour.  Around you the air is thin, barely breathable and reeking strongly of sulphur."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west",
+      "Obvious exits: northeast, west"
+    ],
+    "location": "the Rift",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2635": "/rooms/12187/wayto/stringproc-2635.rb",
+      "12089": "/rooms/12187/wayto/stringproc-12089.rb",
+      "12152": "/rooms/12187/wayto/stringproc-12152.rb",
+      "12186": "northeast",
+      "12188": "west"
+    },
+    "timeto": {
+      "2635": 21.6,
+      "12089": 21.6,
+      "12152": 21.6,
+      "12186": 0.2,
+      "12188": 0.2
+    },
+    "tags": [
+      "twisted black mawflower",
+      "withered deathblossom",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "discolored fleshbinder bud",
+      "oozing fleshsore bulb",
+      "rotting bile green fleshbulb",
+      "fleshsore bulb",
+      "fleshbinder bud",
+      "grave blossom",
+      "black mawflower",
+      "green fleshbulb",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4568015
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      309,
+      1250,
+      317,
+      1258
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "checksum": "c7d5055e897acb226c1010181edafbcd",
+  "room": {
+    "id": 614,
+    "title": [
+      "[Ta'Illistim, Aerie Wey]"
+    ],
+    "description": [
+      "The airship dock, an open-aired, multi-platform construction of wood and stone, is nestled next to the city wall in a curved alcove.  At its lowest tier is the airship terminus, while above, connected by means of a wooden lift, is the cargo entrance and exit.  Placed in front of the structure is a carved marble monument.",
+      "The Ta'Illistim Docks, a tremendous wooden platform used for anchoring the great elven airships, lie directly to the east.  Even at this late hour, the shouts and calls of sailors and travellers echoes down the wey.  Pallets of cargo are loaded onto ships by means of a wooden lift.  Large glowing lanterns ring the docks, providing sufficient light to work by.",
+      "The Ta'Illistim Docks, a tremendous wooden platform used for anchoring the great elven airships, lie directly to the east.  The shouts and calls of sailors and travellers echoes down the wey.  Pallets of cargo are loaded onto ships by means of a wooden lift.",
+      "The airshop dock, an open-aired, multi-platform construction of wood and stone, is nestled next to the city wall in a curved alcove.  At its lowest tier is the airship terminus, while above, connected by means of a wooden lift, is the cargo entrance and exit.  Placed in front of the structure is a carved marble monument."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "613": "south",
+      "615": "north",
+      "30274": "go airship terminus"
+    },
+    "timeto": {
+      "613": 0.2,
+      "615": 0.2,
+      "30274": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13101047
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1055,
+      155,
+      1075,
+      176
+    ]
+  }
+}

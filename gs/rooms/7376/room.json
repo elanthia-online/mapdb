@@ -1,0 +1,45 @@
+{
+  "checksum": "469a5618f5c83595b2b6b35a04ea41ac",
+  "room": {
+    "id": 7376,
+    "title": [
+      "[Shadow Valley, Dark Pasture]"
+    ],
+    "description": [
+      "A wall of earth rises up in front of you blocking further passage south.  The wall almost looks as if it rose up of its own volition, dead roots still poking out from the dried earth."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "barren scrub",
+    "wayto": {
+      "7372": "east",
+      "7373": "northeast",
+      "7375": "west"
+    },
+    "timeto": {
+      "7372": 0.2,
+      "7373": 0.2,
+      "7375": 0.2
+    },
+    "tags": [
+      "longgrass",
+      "wyrm thorn",
+      "meta:forage-sensed",
+      "petrified shadowstalk",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161020
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1042,
+      864,
+      1050,
+      872
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checksum": "2b2bdc58177c1e29a40c4eb18d807076",
+  "room": {
+    "id": 28898,
+    "title": [
+      "[Wandering Eye Market, South]"
+    ],
+    "description": [
+      "Brightly reflecting the sunlight, frosted globes dangle from the gutters of a scrollworked purple wooden wagon that is parked upon the painted cobblestones of the sprawling market.  Scrawling gold, silver, and purple lettering adorns the decorative waist board, while roller-scotches rest beneath the wheels to prevent it from rolling either forward or back.  Other shops in this section of the market give the structure a wide berth."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28813": "north",
+      "28895": "west",
+      "28897": "south",
+      "28899": "east",
+      "28943": "go purple wagon",
+      "30291": "go red-bricked shop",
+      "30716": "/rooms/28898/wayto/stringproc-30716.rb"
+    },
+    "timeto": {
+      "28813": 0.2,
+      "28895": 0.2,
+      "28897": 0.2,
+      "28899": 0.2,
+      "28943": 0.2,
+      "30291": 0.2,
+      "30716": "/rooms/28898/timeto/stringproc-30716.rb"
+    },
+    "tags": [
+      "urchin-access",
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118231
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      407,
+      440,
+      419,
+      453
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "636f120fe922e20b2463c9830df1c7fb",
+  "room": {
+    "id": 32333,
+    "title": [
+      "[The Snowcat's Den, Common Room]"
+    ],
+    "description": [
+      "Guarded by a long counter of dark-stained pine, the common room's bar boasts an impressive array of spirits in pristine bottles that come in all of the colors of the rainbow.  Several leather-upholstered stools sit along the counter's outer edge.  A half wall behind the bar provides a glimpse of the inn's kitchen and its hearths, above which game birds and other meats roast on wooden spits.  Nearby, a carved white pine stairway ascends to the second story."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "the Crawling Shore",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32332": "south",
+      "32335": "go stairway"
+    },
+    "timeto": {
+      "32332": 0.2,
+      "32335": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4576056
+    ],
+    "image": "imt-Road_to_Moonsedge-1668377644.png",
+    "image_coords": [
+      766,
+      1055,
+      808,
+      1098
+    ]
+  }
+}

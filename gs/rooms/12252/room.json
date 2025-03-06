@@ -1,0 +1,48 @@
+{
+  "checksum": "295d88c1ab4b4553ad5243ae06165766",
+  "room": {
+    "id": 12252,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "Walls comprised of stacked skulls rise into the starless black sky.  The ground below seems to cradle you as you move, and a quick glance downward explains the reason.  Skeletal hands make up the floor, reflexively clutching and releasing as the weight they carry shifts.  In the center of the room stand three staves of tall femurs, bound together by still-bloody veins."
+    ],
+    "paths": [
+      "Obvious exits: east, southwest, northwest",
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "the Rift",
+    "wayto": {
+      "12103": "southwest",
+      "12119": "northwest",
+      "12157": "east",
+      "12207": "/rooms/12252/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12252/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12103": 0.2,
+      "12119": 0.2,
+      "12157": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "withered deathblossom",
+      "mass of congealed slime",
+      "slime-covered grave blossom",
+      "discolored fleshbinder bud",
+      "twisted black mawflower"
+    ],
+    "uid": [
+      4569005
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      569,
+      1155,
+      577,
+      1163
+    ]
+  }
+}

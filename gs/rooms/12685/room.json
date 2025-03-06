@@ -1,0 +1,37 @@
+{
+  "checksum": "46680b82766975871630d20ac02dcb1b",
+  "room": {
+    "id": 12685,
+    "title": [
+      "[Ruined Temple, Second Floor]"
+    ],
+    "description": [
+      "The hall to the north has completely collapsed, fallen long ago into the depths below.  Several large pillars still rise from the surface of the water to support the ceiling above.  Splotches of a thick, dried white substance stain the area, and the calls of several sea birds echo from a nearby nest."
+    ],
+    "paths": [
+      "Obvious exits: south, southwest"
+    ],
+    "location": "the Ruined Temple",
+    "wayto": {
+      "12684": "south",
+      "12690": "southwest"
+    },
+    "timeto": {
+      "12684": 0.2,
+      "12690": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3031105
+    ],
+    "image": "ti-nelemar-1262373036.png",
+    "image_coords": [
+      945,
+      371,
+      981,
+      407
+    ]
+  }
+}

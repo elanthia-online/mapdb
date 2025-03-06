@@ -1,0 +1,38 @@
+{
+  "checksum": "5b904328ebd005c04673a12282f3dfeb",
+  "room": {
+    "id": 28958,
+    "title": [
+      "[Inking Den, Hallway]"
+    ],
+    "description": [
+      "Navy blue rugs bordered with braided gold rope and bright white anchors cushion the long hallway as it stretches to the east and west.  Wrought iron rings dangle from the ceiling and hold aloft glass-fronted lanterns that shed bright yellow light and dispel all surrounding shadows.  Standing opposite each other, a windowed blue door has the words, \"Office of Employment,\" etched into its glass, while a windowed brown door has the words, \"Office of the Debt Collector,\" etched on its glass."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "28957": "west",
+      "28959": "east",
+      "28971": "go brown door",
+      "28972": "go blue door"
+    },
+    "timeto": {
+      "28957": 0.2,
+      "28959": 0.2,
+      "28971": 0.2,
+      "28972": 0.2
+    },
+    "uid": [
+      7121002
+    ],
+    "image": "kf-inking_den-1615857364.png",
+    "image_coords": [
+      432,
+      599,
+      462,
+      621
+    ]
+  }
+}

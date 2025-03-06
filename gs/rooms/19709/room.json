@@ -1,0 +1,44 @@
+{
+  "checksum": "e248aa69289127affbc8502586172fcf",
+  "room": {
+    "id": 19709,
+    "title": [
+      "[Cavernhold, Huge Chamber]"
+    ],
+    "description": [
+      "This is the southern end of what is perhaps the largest underground chamber you have ever seen.  In the dim light of the cavern, you can make out the faint shoreline of a large lake of calm black water to the north.  You can also see a collection of barrels and vats to the northeast.  To the northwest, you notice a strange light."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, northwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19708": "go arch",
+      "19722": "northwest",
+      "19723": "northeast",
+      "19730": "north"
+    },
+    "timeto": {
+      "19708": 0.2,
+      "19722": 0.2,
+      "19723": 0.2,
+      "19730": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      11003
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      337,
+      725,
+      349,
+      734
+    ]
+  }
+}

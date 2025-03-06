@@ -1,0 +1,45 @@
+{
+  "checksum": "527ffb6deef382b849bbe22b3911cb6f",
+  "room": {
+    "id": 7151,
+    "title": [
+      "[Darkstone, Dungeon]"
+    ],
+    "description": [
+      "The wall opposite the door is covered with moss and oozing water.  If you listen, you hear a steady trickling sound.  A slimy stream crosses the floor to its center and vanishes into an iron grate.  Light from a small pot set high on a wall sparkles off the water droplets clinging to the moss."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "23708": "/rooms/7151/wayto/stringproc-23708.rb"
+    },
+    "timeto": {
+      "23708": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01",
+      "meta:maze",
+      "meta:map:multi-uid"
+    ],
+    "uid": [
+      41005,
+      41010,
+      41015,
+      41018
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      872,
+      581,
+      882,
+      591
+    ]
+  }
+}

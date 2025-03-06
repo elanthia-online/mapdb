@@ -1,0 +1,37 @@
+{
+  "checksum": "549b5a88d32363f3df65d5f020d50a46",
+  "room": {
+    "id": 19282,
+    "title": [
+      "[Marroux and Haert, Chirurgeons]"
+    ],
+    "description": [
+      "One slightly tilted table is placed in the center of the room, located over a metal grating inset into the slate-tiled floor.  Glass-fronted cabinets line the walls.  As if an afterthought, several uncushioned and wobbly-looking stools sit near the sagging frame of a wooden door, arranged haphazardly together."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "611": "go door",
+      "30714": "/rooms/19282/wayto/stringproc-30714.rb"
+    },
+    "timeto": {
+      "611": 0.2,
+      "30714": "/rooms/19282/timeto/stringproc-30714.rb"
+    },
+    "tags": [
+      "herbalist2",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11",
+      "urchin guide tinctures"
+    ],
+    "uid": [
+      13204008
+    ]
+  }
+}

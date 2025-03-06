@@ -1,0 +1,46 @@
+{
+  "checksum": "f240127335a9b3caee008fc01c0525d4",
+  "room": {
+    "id": 36,
+    "title": [
+      "[Ta'Illistim, Gateyard]"
+    ],
+    "description": [
+      "The gateyard begins to narrow as it funnels its occupants towards the northeast.  The stone walls close in a bit, flaming iron-sconced torches spaced evenly along the stoneworks just above reach for even the tallest giantman.  Two guardsmen stand atop a wooden platform, inspecting the hubbub of the gateyard.",
+      "The gateyard begins to narrow as it funnels its occupants towards the northeast.  The stone walls close in a bit, unlit iron-sconced torches spaced evenly along the stoneworks just above reach for even the tallest giantman.  Two guardsmen stand atop a wooden platform, inspecting the hubbub of the gateyard.",
+      "The gateyard's high ceiling lowers here, closer to the city proper.  The stone walls close in a bit, silver lanterns spaced evenly around the circular chamber glowing with a bright blue light.",
+      "The gateyard's high ceiling lowers here, closer to the city proper.  The stone walls close in a bit, silver lanterns spaced evenly around the circular chamber glowing with a dim blue light."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest"
+    ],
+    "location": "Ta'Illistim",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "35": "northeast",
+      "37": "southeast",
+      "10837": "southwest"
+    },
+    "timeto": {
+      "35": 0.2,
+      "37": 0.2,
+      "10837": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      13100004
+    ],
+    "image": "en-ta_illistim-new.jpg",
+    "image_coords": [
+      1581,
+      772,
+      1603,
+      792
+    ]
+  }
+}

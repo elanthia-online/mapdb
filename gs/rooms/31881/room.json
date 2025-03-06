@@ -1,0 +1,32 @@
+{
+  "checksum": "639fca5f0e6bbe44aab4db17f5194a4d",
+  "room": {
+    "id": 31881,
+    "title": [
+      "[The Witching Flower]"
+    ],
+    "description": [
+      "Thick tangles of leafy vines twist about, covering the walls of the small cabin.  Several tendrils creep across the ceiling, their wide lengths curling about the rough wooden beams.  A dense labyrinth of vegetation encircles a tile-inlaid wooden table that rests in the center of the room."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31880": "south",
+      "31882": "north"
+    },
+    "timeto": {
+      "31880": 0.2,
+      "31882": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084442
+    ]
+  }
+}

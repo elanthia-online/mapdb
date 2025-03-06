@@ -1,0 +1,29 @@
+{
+  "checksum": "fe6bdec028908eaf1968dd5d548714ad",
+  "room": {
+    "id": 17320,
+    "title": [
+      "[Wulfguy's General Store]"
+    ],
+    "description": [
+      "Beneath a white painted ceiling, a tattered merchant permit hangs on one of the gilt-trimmed white marble walls.  A large carved haon rack sits in one corner while a worn rug rests on the cherrywood floor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, out"
+    ],
+    "location": "Kharam-Dzu",
+    "wayto": {
+      "1974": "out",
+      "17321": "east",
+      "17322": "north"
+    },
+    "timeto": {
+      "1974": 0.2,
+      "17321": 0.2,
+      "17322": 0.2
+    },
+    "tags": [
+      "meta:playershop"
+    ]
+  }
+}

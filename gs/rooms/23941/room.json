@@ -1,0 +1,39 @@
+{
+  "checksum": "3e0dc8e738d3a561d86a65a6e3e2662c",
+  "room": {
+    "id": 23941,
+    "title": [
+      "[River's Rest, Festival Grounds]"
+    ],
+    "description": [
+      "Opening up into a wide stretch of grass, the grounds are littered with wagons, booths, and stalls all hemmed into neat rows by a short rope and pillar fence.  Small breaks in the fence allow travel through the pathways, and old pickle barrels are provided as trash receptacles."
+    ],
+    "paths": [
+      "Obvious paths: northeast, south, northwest"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "23939": "south",
+      "23942": "go shop",
+      "23943": "go wagon",
+      "23944": "go tent",
+      "23945": "northwest",
+      "23949": "northeast"
+    },
+    "timeto": {
+      "23939": 0.2,
+      "23942": 0.2,
+      "23943": 0.2,
+      "23944": 0.2,
+      "23945": 0.2,
+      "23949": 0.2
+    },
+    "image": "fest-picklefest-1439662135.png",
+    "image_coords": [
+      341,
+      270,
+      367,
+      295
+    ]
+  }
+}

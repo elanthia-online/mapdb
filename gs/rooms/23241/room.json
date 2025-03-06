@@ -1,0 +1,30 @@
+{
+  "checksum": "f9c30cfc1357944b83bbfd9b9ab588e7",
+  "room": {
+    "id": 23241,
+    "title": [
+      "[Twilight Tower, Subterranean]"
+    ],
+    "description": [
+      "At the lower landing of the longer of the tower's two intertwined spiraling stairwells is a large underground chamber.  Two sides of the chamber are composed of bedrock, while a glaes dome encloses the area from the remaining expansive cavern and the intense river of magma flowing nearby.  Light shimmers through the dome and reflects off of massive minerals embedded in the cavern walls.  A reflective black basalt altar joins the wall beneath some ancient runes, across from the stair and next to a stalagmite."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "the town of Kharam-Dzu",
+    "wayto": {
+      "23240": "up",
+      "25646": "push stalagmite"
+    },
+    "timeto": {
+      "23240": 0.2,
+      "25646": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Twilight Hall"
+    ],
+    "uid": [
+      3003708
+    ]
+  }
+}

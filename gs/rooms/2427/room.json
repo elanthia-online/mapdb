@@ -1,0 +1,46 @@
+{
+  "checksum": "6cc954033114caa8287feea6441ba4e3",
+  "room": {
+    "id": 2427,
+    "title": [
+      "[Icemule Trace, East Road]"
+    ],
+    "description": [
+      "As it passes by a half-timbered pale grey stone guildhall, the straight march of the cobblestone road offers a view of snowy foothills beyond the town's walls.  Over the heads of fur-clad merchants from Pinefar and robed sisters leading groups of fresh-faced initiates out of town, the snow-swept wilds are dotted with evergreens and dark rock.  Glimpses of a pale stone abbey in the extreme distance are almost entirely lost to the cloud cover.  To the south, the slate-shingled roof of Clovertooth Hall rises high into the sky.",
+      "Merchants and adventurers crowd this gravel path, talking and laughing as they stroll along.  Off to the south, a stately white dome rises high into the sky."
+    ],
+    "paths": [
+      "Obvious paths: east, south, west"
+    ],
+    "location": "Icemule Trace",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2426": "west",
+      "2428": "south",
+      "2451": "east",
+      "3778": "go guildhall"
+    },
+    "timeto": {
+      "2426": 0.2,
+      "2428": 0.2,
+      "2451": 0.2,
+      "3778": 0.2
+    },
+    "tags": [
+      "calmintha flower",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-11"
+    ],
+    "uid": [
+      4042302
+    ],
+    "image": "imt-icemule-1474811966.png",
+    "image_coords": [
+      761,
+      786,
+      797,
+      822
+    ]
+  }
+}

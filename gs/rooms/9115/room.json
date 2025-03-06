@@ -1,0 +1,43 @@
+{
+  "checksum": "4256868b7f86996b84e0c873b344c6fa",
+  "room": {
+    "id": 9115,
+    "title": [
+      "[Great Cavern, Bog]"
+    ],
+    "description": [
+      "The mud moves underneath the platform of vines on which you stand.  It may be some great slimy creature moving about, or it may be a river flowing below you.  In any event, a nearby stalagmite serves as a welcome crutch as the vines slip about unsteadily."
+    ],
+    "paths": [
+      "Obvious exits: north, east, south, west"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9114": "north",
+      "9116": "west",
+      "9118": "south",
+      "9121": "east"
+    },
+    "timeto": {
+      "9114": 0.2,
+      "9116": 0.2,
+      "9118": 0.2,
+      "9121": 0.2
+    },
+    "tags": [
+      "some orchil lichen",
+      "murdroot",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045228
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      197,
+      755,
+      207,
+      765
+    ]
+  }
+}

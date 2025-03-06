@@ -1,0 +1,43 @@
+{
+  "checksum": "bd67b94ae71aca78feea2ef152567844",
+  "room": {
+    "id": 25693,
+    "title": [
+      "[Eastern Waterway]"
+    ],
+    "description": [
+      "Perfumed with the scent of tropical blossoms, the damp air of the waterway is slightly chilly.  Choppy waves pass by as they make their way toward the beaches that form a solid line of sand to the northeast, while to the southwest, docks surrounded by bright red buoys bob up and down in a lazy manner."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southeast, southwest, northwest"
+    ],
+    "location": "Mist Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25692": "/rooms/25693/wayto/stringproc-25692.rb",
+      "25694": "/rooms/25693/wayto/stringproc-25694.rb",
+      "25695": "/rooms/25693/wayto/stringproc-25695.rb",
+      "25696": "/rooms/25693/wayto/stringproc-25696.rb"
+    },
+    "timeto": {
+      "25692": 6,
+      "25694": 6,
+      "25695": 6,
+      "25696": 6
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      3223815
+    ],
+    "image": "ifw-eastern_waterway-1489553700.png",
+    "image_coords": [
+      1040,
+      1039,
+      1061,
+      1059
+    ]
+  }
+}

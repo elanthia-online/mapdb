@@ -1,0 +1,48 @@
+{
+  "checksum": "1db924f28f2d3687d99702a9cd1e61bc",
+  "room": {
+    "id": 8167,
+    "title": [
+      "[Mine]"
+    ],
+    "description": [
+      "The high ceiling of the cavern arches here about thirty feet above your head.  Mounds of crushed rock lay as evidence of the hours of work that must have taken place here in the quest for precious minerals."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west"
+    ],
+    "location": "the crystal caves",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8166": "west",
+      "8168": "east",
+      "8169": "southeast"
+    },
+    "timeto": {
+      "8166": 0.2,
+      "8168": 0.2,
+      "8169": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      24015
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      916,
+      576,
+      926,
+      586
+    ]
+  }
+}

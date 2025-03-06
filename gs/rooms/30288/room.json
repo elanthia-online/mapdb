@@ -1,0 +1,36 @@
+{
+  "checksum": "beffaba85112118edd785b1c3f3ff6f9",
+  "room": {
+    "id": 30288,
+    "title": [
+      "[Zul Logoth Mail Depot]"
+    ],
+    "description": [
+      "Snaking its way around this cramped room is a long line of Zul Logoth residents awaiting service, most wearing impatience on their faces.  A uniformed clerk is stationed behind a dingy stone counter, next to a shiny grey glaes stand stocked with mailing supplies.  Occupying most of the western wall, a wide notice board has been tacked up with numerous papers."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "16905": "go faux-wood door",
+      "30712": "/rooms/30288/wayto/stringproc-30712.rb"
+    },
+    "timeto": {
+      "16905": 0.2,
+      "30712": "/rooms/30288/timeto/stringproc-30712.rb"
+    },
+    "tags": [
+      "mail",
+      "postoffice",
+      "urchin-access",
+      "urchin guide postoffice",
+      "no forageables"
+    ],
+    "uid": [
+      13014058
+    ]
+  }
+}

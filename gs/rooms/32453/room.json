@@ -1,0 +1,41 @@
+{
+  "checksum": "9995eb523aeaabd7645dedcdc6ef9c58",
+  "room": {
+    "id": 32453,
+    "title": [
+      "[Moonsedge Castle, Pond]"
+    ],
+    "description": [
+      "A decorative pond stretches along the front of the castle, the water cold and murky.  Rising gently over the waters, a bridge of dark, rough-hewn stones arcs to the northeastern shore, where the flagstone path toward the castle entrance continues.  Around the shores of the pond, the grasses grow thick, competing with hardy reeds for space."
+    ],
+    "paths": [
+      "Obvious paths: northeast, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32446": "west",
+      "32451": "northeast"
+    },
+    "timeto": {
+      "32446": 0.2,
+      "32451": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577122
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      989,
+      825,
+      1009,
+      846
+    ]
+  }
+}

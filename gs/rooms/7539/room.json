@@ -1,0 +1,41 @@
+{
+  "checksum": "84b7227f2a0159c2caf7849b95d1e39e",
+  "room": {
+    "id": 7539,
+    "title": [
+      "[Catacombs, Effluent]"
+    ],
+    "description": [
+      "An ancient brick tunnel lined with pipe openings leads to the northwest and southeast here.  Most of the water running down its center seems to be coming from only a few of the pipes, and the flow tapers off to the northwest.  Another smaller passage heading west opens out of the southwestern wall a few feet above the floor."
+    ],
+    "paths": [
+      "Obvious exits: southeast, west, northwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "7531": "southeast",
+      "7540": "west",
+      "7541": "northwest"
+    },
+    "timeto": {
+      "7531": 0.2,
+      "7540": 0.2,
+      "7541": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      46023
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      473,
+      1207,
+      483,
+      1217
+    ]
+  }
+}

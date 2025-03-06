@@ -1,0 +1,40 @@
+{
+  "checksum": "dac87448cff2d8e11b0ccc79b5606e05",
+  "room": {
+    "id": 19672,
+    "title": [
+      "[Cavernhold, Wide Passage]"
+    ],
+    "description": [
+      "This passage is actually large enough to be considered a room in other parts of the cavern, but here it is merely a connection between two larger chambers."
+    ],
+    "paths": [
+      "Obvious exits: northeast, southwest"
+    ],
+    "location": "the foothills of Zeltoph",
+    "wayto": {
+      "19669": "southwest",
+      "19673": "northeast"
+    },
+    "timeto": {
+      "19669": 0.2,
+      "19673": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09",
+      "meta:trap"
+    ],
+    "uid": [
+      10033
+    ],
+    "image": "wl-cavernhold-1295073688.png",
+    "image_coords": [
+      968,
+      806,
+      979,
+      816
+    ]
+  }
+}

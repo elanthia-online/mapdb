@@ -1,0 +1,43 @@
+{
+  "checksum": "476be79cff411689f2387a4c82675ad0",
+  "room": {
+    "id": 1344,
+    "title": [
+      "[Zortahg's Spine, Highroad]"
+    ],
+    "description": [
+      "Following the ridge, this raised and fortified stone roadway stretches out of sight to the east and west.  A newly built ramp climbs the ridge from the north and meets the road at a gap in the battlements.  The ramp and the recent changes to the ancient roadway evidence the precision and craftsmanship that are hallmarks of dwarven stonecraft."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Central Caravansary",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1343": "go ramp",
+      "1345": "west",
+      "9320": "east"
+    },
+    "timeto": {
+      "1343": 0.2,
+      "1345": 0.2,
+      "9320": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      4748002
+    ],
+    "image": "vo-trail-1264234799.png",
+    "image_coords": [
+      703,
+      740,
+      713,
+      750
+    ]
+  }
+}

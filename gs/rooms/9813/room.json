@@ -1,0 +1,42 @@
+{
+  "checksum": "181a401ef390a95a281d524e215ae92c",
+  "room": {
+    "id": 9813,
+    "title": [
+      "[Maaghara Labyrinth]"
+    ],
+    "description": [
+      "Thick clumps of fungus dot the floor, effervescing a faint blue mist from tiny porous holes covering their misshapen forms.  The haze collects in pools upon the ground, the wavering flames above causing the blue fog to glow dimly with reflected light.  Craggy rock formations upon the ceiling are barely visible, their outlines illuminated briefly as the sconces cast their light upon the area."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west, northwest"
+    ],
+    "location": "the Maaghara Tower",
+    "wayto": {
+      "9810": "east",
+      "9812": "west",
+      "9814": "northwest",
+      "9829": "southeast"
+    },
+    "timeto": {
+      "9810": 0.2,
+      "9812": 0.2,
+      "9814": 0.2,
+      "9829": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      13022003
+    ],
+    "image": "en-tower-1264234799.png",
+    "image_coords": [
+      1177,
+      438,
+      1187,
+      448
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checksum": "68f506248246a96fc07c859ef6fc5510",
+  "room": {
+    "id": 16803,
+    "title": [
+      "[Hall of the Dead, Debtors Vault]"
+    ],
+    "description": [
+      "A dried blood trail leads to the south.  In the crypts you see maggots working on the rotting flesh of the bodies.  The bodies of the dead are plump and swollen.  These people have not been entombed very long."
+    ],
+    "paths": [
+      "Obvious exits: east, south, west"
+    ],
+    "location": "the Graveyard",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "4170": "south",
+      "16802": "east",
+      "16804": "west"
+    },
+    "timeto": {
+      "4170": 0.2,
+      "16802": 0.2,
+      "16804": 0.2
+    },
+    "tags": [
+      "wolifrew lichen",
+      "withered black mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "wingstem root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2024-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      2138108
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      914,
+      810,
+      922,
+      818
+    ]
+  }
+}

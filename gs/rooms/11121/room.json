@@ -1,0 +1,39 @@
+{
+  "checksum": "4605bb9c3b91f808b41980b8b0d2fefc",
+  "room": {
+    "id": 11121,
+    "title": [
+      "[Krol Ship, Bilge Forward]"
+    ],
+    "description": [
+      "The foul stench of rotting flesh fills your nose as you strain to see in the blackness of the bilge.  There is barely enough room to stand beneath the beams which form the floor of the hold above.  Brackish water swirls about, ankle deep."
+    ],
+    "paths": [
+      "Obvious exits: north, up"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11119": "up",
+      "11120": "north"
+    },
+    "timeto": {
+      "11119": 0.2,
+      "11120": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26032
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      3532,
+      1585,
+      3555,
+      1607
+    ]
+  }
+}

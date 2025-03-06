@@ -1,0 +1,32 @@
+{
+  "checksum": "a1a74522198dd24c342bed1d10073a07",
+  "room": {
+    "id": 25551,
+    "title": [
+      "[Underground Temple, Sunken Tomb]"
+    ],
+    "description": [
+      "Two lone torches light the way, casting little illumination in the hallway to dispel the darkness.  Rubble from the crumbling ruin walls scatters across the ground, some of it half-buried and tromped into the muck formed by water trickling down upon the piles of dirt.  The air is chilled and dank with the added moisture."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, southwest"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "25550": "east",
+      "25552": "southwest",
+      "25564": "north",
+      "25566": "northeast"
+    },
+    "timeto": {
+      "25550": 0.2,
+      "25552": 0.2,
+      "25564": 0.2,
+      "25566": 0.2
+    },
+    "uid": [
+      8213715
+    ],
+    "check_location": true
+  }
+}

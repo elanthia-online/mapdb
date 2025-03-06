@@ -1,0 +1,38 @@
+{
+  "checksum": "a85df9e1abf95b29d5f6f28709257fcc",
+  "room": {
+    "id": 18541,
+    "title": [
+      "[Grawood Farmstead, Field]"
+    ],
+    "description": [
+      "Settled among the booths, tents, and stalls in this area of the field and under the protection of a square oilcloth umbrella sits a small cloth-draped table.  A sign made of parchment dangles from the edge of the umbrella."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, south, west, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18540": "southeast",
+      "18542": "go booth",
+      "18543": "northwest",
+      "18549": "west",
+      "18550": "south",
+      "18551": "north",
+      "18578": "east"
+    },
+    "timeto": {
+      "18540": 0.2,
+      "18542": 0.2,
+      "18543": 0.2,
+      "18549": 0.2,
+      "18550": 0.2,
+      "18551": 0.2,
+      "18578": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checksum": "cf751816a7c269202520a16162adef9d",
+  "room": {
+    "id": 30092,
+    "title": [
+      "[Rogue's Gambit, Tools and Such]"
+    ],
+    "description": [
+      "All but one of the oil lamps in this section of the pavilion are concentrated along one wall, fully illuminating an open-faced wooden cabinet and a set of round pegs, beneath which sits a small round table with a discreet vellum note card posted amongst its wares.  The other lamp hangs directly above a heavy grey suede curtain that leads deeper into the shop."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Caligos Isle",
+    "wayto": {
+      "30091": "west",
+      "30093": "go curtain"
+    },
+    "timeto": {
+      "30091": 0.2,
+      "30093": 0.2
+    }
+  }
+}

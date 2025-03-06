@@ -1,0 +1,42 @@
+{
+  "checksum": "e187e17d91d56beea4d97d0b278bb0fa",
+  "room": {
+    "id": 408,
+    "title": [
+      "[Kilron's Pawnshop, Front Room]"
+    ],
+    "description": [
+      "This little pawnshop is somewhat cheerier than you would expect, presided over by its well-dressed and well-heeled owner, Kilron.  A polished white marble counter is set off by freshly whitewashed walls and a highly varnished wood floor.  An antique cabinet on the far wall holds several impressive and equally ancient weapons, some precious trinkets, and several items that you cannot identify, except that they seem to glow in different shades of colored light with different intensities."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "322": "out",
+      "409": "go oak door",
+      "8867": "go antique cabinet",
+      "30708": "/rooms/408/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "322": 0.2,
+      "409": 0.2,
+      "8867": 0.2,
+      "30708": "/rooms/408/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "pawnshop",
+      "meta:trashcan:slatted wooden case",
+      "trash",
+      "urchin-access",
+      "urchin guide pawn",
+      "pawn",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      5163
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checksum": "756d392bc425e6a61cbf70e76fe27f10",
+  "room": {
+    "id": 32607,
+    "title": [
+      "[Landing Bazaar, Walkar Avenue]"
+    ],
+    "description": [
+      "Merchants busy themselves outside their pavilions, drawing large crowds to observe them work on their crafts.  Textiles of vibrant prismatic colors hang from a few posts of the outdoor shops, the fabrics eerily waving in the winds.  The constant clang of a hammer on metal reverberates from behind a large thatch-roofed building, a plume of dark smoke billowing upwards.  Several thin hounds dart about the street, scratching at barrels and pressing noses to the ground, fast on the trail of their next meal."
+    ],
+    "paths": [
+      "Obvious paths: southwest, west, northwest"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32602": "west",
+      "32606": "northwest",
+      "32608": "southwest",
+      "32613": "go oak building"
+    },
+    "timeto": {
+      "32602": 0.2,
+      "32606": 0.2,
+      "32608": 0.2,
+      "32613": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      336416
+    ],
+    "image": "wl-bazaar-1671674653.png",
+    "image_coords": [
+      565,
+      286,
+      615,
+      337
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checksum": "34db718ae059c48e526085e430caa6b1",
+  "room": {
+    "id": 2983,
+    "title": [
+      "[Abbey, Ossuary]"
+    ],
+    "description": [
+      "A mound of polished skulls has been stacked with intricate precision so that their peak is just shy of reaching the ceiling.  A fence of golden chain has been built around the bones, securing them in their place of eternal honor."
+    ],
+    "paths": [
+      "Obvious exits: north, east, southeast"
+    ],
+    "location": "the Abbey",
+    "wayto": {
+      "2982": "southeast",
+      "2984": "east",
+      "2986": "north"
+    },
+    "timeto": {
+      "2982": 0.2,
+      "2984": 0.2,
+      "2986": 0.2
+    },
+    "tags": [
+      "arch wight",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4132110
+    ],
+    "image": "imt-Abbey_Map-1652211219.png",
+    "image_coords": [
+      1281,
+      417,
+      1331,
+      472
+    ]
+  }
+}

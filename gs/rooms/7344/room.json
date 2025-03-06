@@ -1,0 +1,46 @@
+{
+  "checksum": "48a41f5c3b96f46ff9d924868dd6722c",
+  "room": {
+    "id": 7344,
+    "title": [
+      "[Dark Pasture, Black Stream]"
+    ],
+    "description": [
+      "Silence rings heavily in your ears, as even the thorny tangles evident elsewhere avoid this area.  Protruding from the black sludge, masquerading as a stream, are the remnants of a wooden footbridge.  The stream bank dips down here, scooping up a trail that begins where the footbridge was swallowed by the murk."
+    ],
+    "paths": [
+      "Obvious paths: east, southeast, southwest, west"
+    ],
+    "location": "the Shadow Valley",
+    "climate": "cold, dry",
+    "terrain": "riparian",
+    "wayto": {
+      "7341": "east",
+      "7343": "southeast",
+      "7347": "west",
+      "7373": "southwest"
+    },
+    "timeto": {
+      "7341": 0.2,
+      "7343": 0.2,
+      "7347": 0.2,
+      "7373": 0.2
+    },
+    "tags": [
+      "black slime",
+      "meta:forage-sensed",
+      "longgrass",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      2161012
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      1094,
+      810,
+      1104,
+      820
+    ]
+  }
+}

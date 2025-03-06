@@ -1,0 +1,53 @@
+{
+  "checksum": "6a8e2acb8dba517d13921f6b150cab70",
+  "room": {
+    "id": 6102,
+    "title": [
+      "[Cleric Guild, Courtyard]"
+    ],
+    "description": [
+      "A limestone walkway crosses briefly with a tiny rivulet as it winds its way towards a mist-shrouded stone temple.  Rows of slender limbed trees nearly obscure the high seashell-inset walls that enclose this courtyard.  As the sea breeze propels the leafy foliage into motion, a shady bower reveals a darkened tunnel leading into the earth."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Solhaven",
+    "climate": "cold, damp",
+    "terrain": "hard, flat",
+    "wayto": {
+      "1485": "go gate",
+      "6105": "go tunnel",
+      "18625": "go temple",
+      "18627": "go shop",
+      "30710": "/rooms/6102/wayto/stringproc-30710.rb"
+    },
+    "timeto": {
+      "1485": 0.2,
+      "6105": 0.2,
+      "18625": "/rooms/6102/timeto/stringproc-18625.rb",
+      "18627": "/rooms/6102/timeto/stringproc-18627.rb",
+      "30710": "/rooms/6102/timeto/stringproc-30710.rb"
+    },
+    "tags": [
+      "clericguild",
+      "meta:mapname:Vornavis - Cleric Guild",
+      "meta:mapshortname:Cleric Guild (VO)",
+      "meta:mapcategory:Vornavis",
+      "meta:mapcategory:Guilds",
+      "urchin-access",
+      "urchin guide clericguild",
+      "no forageables",
+      "cleric guild"
+    ],
+    "uid": [
+      674017
+    ],
+    "image": "vo-cleric_guild-1275418702.png",
+    "image_coords": [
+      695,
+      201,
+      739,
+      245
+    ]
+  }
+}

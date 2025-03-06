@@ -1,0 +1,27 @@
+{
+  "checksum": "6b6fa2bf2aa2572811d8cdb72cda168f",
+  "room": {
+    "id": 27024,
+    "title": [
+      "[Lake of Fear, Southern Expanse]"
+    ],
+    "description": [
+      "The smooth, uniform surface of the lake stretches out in all directions, making navigation difficult.  Beneath the ice, a dark shape larger than the ferry moves slowly through the frigid waters."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "27023": "/rooms/27024/wayto/stringproc-27023.rb",
+      "27025": "/rooms/27024/wayto/stringproc-27025.rb"
+    },
+    "timeto": {
+      "27023": 0.2,
+      "27025": 0.2
+    },
+    "tags": [
+      "meta:storyline"
+    ]
+  }
+}

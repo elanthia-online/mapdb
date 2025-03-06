@@ -1,0 +1,32 @@
+{
+  "checksum": "214200cdba5408a77248e6de8ee48fa8",
+  "room": {
+    "id": 32183,
+    "title": [
+      "[The Minaret, Up the Spire]"
+    ],
+    "description": [
+      "Only a bit of light seeps in from above and below to illuminate the sharp curve of the spiral staircase.  It wends its way upwards and downwards in the minaret, its risers and treads carved from the tower's stone itself.  There is no handrail."
+    ],
+    "paths": [
+      "Obvious exits: up"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "32182": "go staircase",
+      "32184": "up"
+    },
+    "timeto": {
+      "32182": 0.2,
+      "32184": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084250
+    ]
+  }
+}

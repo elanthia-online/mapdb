@@ -1,0 +1,31 @@
+{
+  "checksum": "fc0243a89172bbfa0d8b90443cebd58f",
+  "room": {
+    "id": 32112,
+    "title": [
+      "[The Sorrowwood Crypt, Tombs]"
+    ],
+    "description": [
+      "Cobweb-curtained niches honeycomb the eastern and western walls of this sepulchre, their only occupants spindly, wax-mantled candelabras that illumine the tomb with a warm glow hardly befitting the surroundings.  An imposing limestone sarcophagus rests beside an ithaenil-set runed mistwood cabinet, partially obscuring a series of damaged frescoes.  A very important RULES sign sits just inside the entrance to a darkened passageway."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "32111": "go darkened passageway"
+    },
+    "timeto": {
+      "32111": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10",
+      "meta:nomagic"
+    ],
+    "uid": [
+      8083365
+    ]
+  }
+}

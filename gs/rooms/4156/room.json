@@ -1,0 +1,41 @@
+{
+  "checksum": "e5324fa1571ac0151a3aca02d85c94d3",
+  "room": {
+    "id": 4156,
+    "title": [
+      "[Hall of the Dead, Common Crypt]"
+    ],
+    "description": [
+      "More of the unfortunate dead have been packed into the crudely carved wall slots.  Looking at some of the corpses you notice that they dangle from the often shallow openings."
+    ],
+    "paths": [
+      "Obvious exits: north, east, west"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4152": "north",
+      "4155": "east",
+      "4157": "west"
+    },
+    "timeto": {
+      "4152": 0.2,
+      "4155": 0.2,
+      "4157": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138022
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      914,
+      787,
+      924,
+      797
+    ]
+  }
+}

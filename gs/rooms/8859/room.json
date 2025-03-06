@@ -1,0 +1,35 @@
+{
+  "checksum": "22c3cb943dd4f0928a781c9e4649742a",
+  "room": {
+    "id": 8859,
+    "title": [
+      "[Helga's, Pub Room]"
+    ],
+    "description": [
+      "The narrow, dimly lit room is cluttered with rickety, ale-stained tables and chairs.  Candle stubs mounted in earthenware ale flasks offer the only light, their yellowish glow making the room seem more decrepit than it actually is.  Several dockworkers converse around a table in hushed voices, between sips of grog and puffs of strong pipe tobacco.  A low wooden stage, no more than a small platform, stands at the far end of the room."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "3809": "east",
+      "30708": "/rooms/8859/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "3809": 0.2,
+      "30708": "/rooms/8859/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "node",
+      "supernode",
+      "urchin-access",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4102
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "checksum": "76ce1f1ca3cadc3231e585e74f866c50",
+  "room": {
+    "id": 28906,
+    "title": [
+      "[Kraken's Fall, South Arm Road]"
+    ],
+    "description": [
+      "Colorful pennants and banners snap and flutter in the consistent seaborne breeze from their position along the roof of a narrow log-sided hall, their colorful ends and metallic threading sparkling in the starlight.  Soft voices filter in from the west where the open-air market is quiet, while the sound easy conversation comes from the east.  A large sign post planted in the ground has several arrow-shaped planks nailed to it, each scribbled with tiny letters and images.",
+      "Colorful pennants and banners snap and flutter in the consistent seaborne breeze from their position along the roof of a narrow log-sided hall, their colorful ends and metallic threading sparkling in the sunlight.  Voices rise and fall from the west where the open-air market is in full swing, while the sound of industry travels in from the east.  A large sign post planted in the ground has several arrow-shaped planks nailed to it, each scribbled with tiny letters and images."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Kraken's Fall",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "28901": "south",
+      "28903": "east",
+      "28907": "west",
+      "28909": "north",
+      "29010": "go hall"
+    },
+    "timeto": {
+      "28901": 0.2,
+      "28903": 0.2,
+      "28907": 0.2,
+      "28909": 0.2,
+      "29010": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables"
+    ],
+    "uid": [
+      7118223
+    ],
+    "image": "kf-krakens_fall-1648278406.png",
+    "image_coords": [
+      537,
+      373,
+      552,
+      386
+    ]
+  }
+}

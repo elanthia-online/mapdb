@@ -1,0 +1,48 @@
+{
+  "checksum": "35e199728e45e827052e506a43b8dd1f",
+  "room": {
+    "id": 30411,
+    "title": [
+      "[Western Waterway]"
+    ],
+    "description": [
+      "The trunk of a solitary fossilized tree pokes up from the ocean floor below through the surface of the blue-grey water.  Its height above the breakwater about that of two average giantmen and its girth approximately that of a sideways halfling, the grey stone hulk resembles nothing so much as a pillar intended to pierce the sky above and thus allow a fleeting glimpse to the unreachable stretch of ocean beyond the western boundary of Charl's Teeth."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, south, southwest, west, northwest"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30406": "pedal southwest",
+      "30410": "pedal south",
+      "30412": "pedal west",
+      "30413": "pedal east",
+      "30414": "pedal northeast",
+      "30415": "pedal north"
+    },
+    "timeto": {
+      "30406": 6,
+      "30410": 6,
+      "30412": 6,
+      "30413": 6,
+      "30414": 6,
+      "30415": 6
+    },
+    "tags": [
+      "map:samepath:northeast,northwest",
+      "no forageables"
+    ],
+    "uid": [
+      3216173
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      621,
+      2721,
+      635,
+      2738
+    ]
+  }
+}

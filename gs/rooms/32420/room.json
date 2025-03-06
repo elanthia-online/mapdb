@@ -1,0 +1,45 @@
+{
+  "checksum": "a308aafe7f6b1320f4ba64c624ca62ac",
+  "room": {
+    "id": 32420,
+    "title": [
+      "[Moonsedge, Bramble and Umbral]"
+    ],
+    "description": [
+      "To the south, the ground rises precipitously toward high hills whose black shadows stretch over the road, casting the area in darkness.  Flower beds full of night-blooming jasmine thrive in the gloom, filling the air with their cloying sweetness.  Sprawling across the highest hilltop is a castle of dark basalt.  Its soaring towers and vaulting walls are cut a severe silhouette against the blue of the sky."
+    ],
+    "paths": [
+      "Obvious paths: north, east, south, west"
+    ],
+    "location": "Moonsedge",
+    "climate": "cold, dry",
+    "terrain": "hard, flat",
+    "wayto": {
+      "32419": "north",
+      "32421": "west",
+      "32422": "south",
+      "32424": "east"
+    },
+    "timeto": {
+      "32419": 0.2,
+      "32421": 0.2,
+      "32422": 0.2,
+      "32424": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01",
+      "no forageables"
+    ],
+    "uid": [
+      4577026
+    ],
+    "image": "moonsedge.png",
+    "image_coords": [
+      377,
+      402,
+      403,
+      427
+    ]
+  }
+}

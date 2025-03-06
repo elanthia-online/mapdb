@@ -1,0 +1,39 @@
+{
+  "checksum": "5ed0bacf9b9432cc3cc3e1640066b35a",
+  "room": {
+    "id": 3943,
+    "title": [
+      "[Abandoned Sewer]"
+    ],
+    "description": [
+      "There is a small bit of sludgy water pouring out of one of the many small pipes.  It has collected into a dark slimy looking pool here, with a small trickle of filth oozing on down the tunnel.  There is just enough room to pick your way around it as you continue on deeper into the earth."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the catacombs",
+    "wayto": {
+      "3938": "northwest",
+      "3944": "southeast"
+    },
+    "timeto": {
+      "3938": 0.2,
+      "3944": 0.2
+    },
+    "tags": [
+      "no-auto-map",
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      2136106
+    ],
+    "image": "wl-catacombs-1264234799.png",
+    "image_coords": [
+      772,
+      678,
+      780,
+      685
+    ]
+  }
+}

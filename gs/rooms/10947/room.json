@@ -1,0 +1,38 @@
+{
+  "checksum": "9eccb573aad475edf33840242b71893d",
+  "room": {
+    "id": 10947,
+    "title": [
+      "[Watchtower, Second Floor]"
+    ],
+    "description": [
+      "This room is a jumble of wooden crates, rolled-up mattresses, bins of arrow shafts, and other supplies necessary for withstanding a siege.  Numerous arrow loops allow the light to stream in.  A wooden stairway leading down follows the curve of the wall.  At the top of the stairway is a rope, which hangs from a narrow trapdoor in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10946": "go stairway",
+      "10948": "climb rope"
+    },
+    "timeto": {
+      "10946": 0.2,
+      "10948": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101045
+    ],
+    "image_coords": [
+      917,
+      711,
+      943,
+      737
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "checksum": "e9eb1b5660664f23cd96846540ff62d0",
+  "room": {
+    "id": 22155,
+    "title": [
+      "[Cairnfang Manor, Attic]"
+    ],
+    "description": [
+      "Racks of long forgotten clothing hang to one side of an iron-banded door.  Wigs in a variety of colors and styles sit upon mannequin heads lined neatly upon a wooden shelf.  An antique fel mirror rests against the wall, part of its glass exposed from under a thick white sheet."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the free port of Solhaven",
+    "wayto": {
+      "22154": "northwest",
+      "22156": "go door",
+      "22157": "northeast"
+    },
+    "timeto": {
+      "22154": 0.2,
+      "22156": 0.2,
+      "22157": 0.2
+    },
+    "tags": [
+      "meta:che:Cairnfang Manor"
+    ],
+    "uid": [
+      106305
+    ],
+    "image": "vo-cairnfang_manor-1657584717.png",
+    "image_coords": [
+      849,
+      359,
+      861,
+      372
+    ]
+  }
+}

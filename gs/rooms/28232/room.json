@@ -1,0 +1,36 @@
+{
+  "checksum": "7285c235d1bc6095633f18959d178c59",
+  "room": {
+    "id": 28232,
+    "title": [
+      "[Town Barracks, Armory]"
+    ],
+    "description": [
+      "Sturdy oak racks decorate an entire wall of the armory, their pegs holding an assortment of padded leather and suits of armor.  Long wooden tables and crates provide storage and convenience for piles of sharpened blades, spears, and arrows.  A series of featureless mannequins are propped up in a corner, one of them garbed in a brass-riveted tabard and an etched militia badge."
+    ],
+    "paths": [
+      "Obvious exits: south, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "28225": "west",
+      "28230": "go door",
+      "28237": "south"
+    },
+    "timeto": {
+      "28225": 0.2,
+      "28230": 0.2,
+      "28237": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      336217
+    ]
+  }
+}

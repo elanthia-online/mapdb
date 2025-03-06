@@ -1,0 +1,27 @@
+{
+  "checksum": "7eacf2753f9e5be8ab18b263693f7ad3",
+  "room": {
+    "id": 25531,
+    "title": [
+      "[Elderberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "25530": "go curtain",
+      "25532": "pull lever"
+    },
+    "timeto": {
+      "25530": 0.2,
+      "25532": 0.2
+    },
+    "tags": [
+      "rewritten"
+    ]
+  }
+}

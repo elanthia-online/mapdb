@@ -1,0 +1,37 @@
+{
+  "checksum": "56b0a0304889e75c47caca68505d535d",
+  "room": {
+    "id": 21862,
+    "title": [
+      "[Talador, Pine Avenue]"
+    ],
+    "description": [
+      "Local shops and taverns are mixed throughout the avenue, watched over by the city guards manning the walls to the south.  Citizens walk about on their business, idly chatting as they pass."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "Talador",
+    "wayto": {
+      "21859": "east",
+      "21863": "go tavern",
+      "21865": "go house",
+      "21867": "west",
+      "22018": "go wagon"
+    },
+    "timeto": {
+      "21859": 0.2,
+      "21863": 0.2,
+      "21865": 0.2,
+      "21867": 0.2,
+      "22018": 0.2
+    },
+    "image": "wl-talador-1392305660.png",
+    "image_coords": [
+      140,
+      327,
+      167,
+      355
+    ]
+  }
+}

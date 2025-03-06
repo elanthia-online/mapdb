@@ -1,0 +1,45 @@
+{
+  "checksum": "df980675718274334c4dd808b35ff906",
+  "room": {
+    "id": 31810,
+    "title": [
+      "[Gleyminn Anni River]"
+    ],
+    "description": [
+      "Monstrous, deformed trees grow out of the grey-green river, their twisted limbs acting as route markers pointing in the directions of the diverging currents.  A fallen bough floats on the surface of the deep water beneath the vine-draped branches.  To the southeast, a small waterfall carries a handful of skeletal leaves on a sluggish current towards a heavily wooded terrain."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest"
+    ],
+    "location": "Evermore Hollow",
+    "climate": "freshwater",
+    "terrain": "riparian",
+    "wayto": {
+      "31602": "go stones",
+      "31839": "/rooms/31810/wayto/stringproc-31839.rb",
+      "31840": "/rooms/31810/wayto/stringproc-31840.rb",
+      "32070": "/rooms/31810/wayto/stringproc-32070.rb"
+    },
+    "timeto": {
+      "31602": 0.2,
+      "31839": 0.2,
+      "31840": 4.2,
+      "32070": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8083422
+    ],
+    "image": "fest-naidem-part2-1730328833.png",
+    "image_coords": [
+      1633,
+      647,
+      1656,
+      669
+    ]
+  }
+}

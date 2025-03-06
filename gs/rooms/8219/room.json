@@ -1,0 +1,51 @@
+{
+  "checksum": "94ff8891407e16e1de5ca966ccce5e52",
+  "room": {
+    "id": 8219,
+    "title": [
+      "[Sea Caverns, Spider Lair]"
+    ],
+    "description": [
+      "This cavern is shaped like an elbow, and a dim glow creeps in from the northeast passage.  The walls are pocked with small, dark openings, through which drift faint scuffling sounds and chitterings.  The air is damp and still."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "the sea caverns",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "8217": "northwest",
+      "8218": "northeast"
+    },
+    "timeto": {
+      "8217": 0.2,
+      "8218": 0.2
+    },
+    "tags": [
+      "soft white mushroom",
+      "withered black mushroom",
+      "black hook mushroom",
+      "white hook mushroom",
+      "blue trafel mushroom",
+      "cave moss",
+      "murdroot",
+      "ironfern root",
+      "bolmara lichen",
+      "meta:forage-sensed",
+      "red trafel mushroom",
+      "wingstem root",
+      "meta:forage-sensed:day:2023-02"
+    ],
+    "uid": [
+      392007
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      461,
+      310,
+      471,
+      320
+    ]
+  }
+}

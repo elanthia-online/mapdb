@@ -1,0 +1,43 @@
+{
+  "checksum": "6465771ea142182d44efe4639a296fda",
+  "room": {
+    "id": 4148,
+    "title": [
+      "[Hall of the Dead, Tunnel]"
+    ],
+    "description": [
+      "Flickering torchlight reveals tunnels running off in all directions.  They must lead to rooms that actually house the dead.  This is just part of the connecting tunnels leading you to your final destination."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast, west, northwest"
+    ],
+    "location": "the Graveyard",
+    "wayto": {
+      "4147": "west",
+      "4149": "east",
+      "4161": "southeast",
+      "4165": "northwest"
+    },
+    "timeto": {
+      "4147": 0.2,
+      "4149": 0.2,
+      "4161": 0.2,
+      "4165": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2138007
+    ],
+    "image": "wl-graveyard-1264234799.png",
+    "image_coords": [
+      749,
+      759,
+      759,
+      769
+    ]
+  }
+}

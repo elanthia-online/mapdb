@@ -1,0 +1,34 @@
+{
+  "checksum": "5c10e4f8333f2e360da9d0c4bc9f4b62",
+  "room": {
+    "id": 14576,
+    "title": [
+      "[Subterrain, Crucible]"
+    ],
+    "description": [
+      "Reeking of hot metal and smoke, the chamber centers around a tremendous steel-cased crucible reigning over a circular center island.  Molten metal surrounds the isle, pooling in an enormous basin.  Floor stones surrounding the lake of protometal are cracked and blistered, their centers incised with a hammer and anvil device."
+    ],
+    "paths": [
+      "Obvious exits: north, southeast, southwest"
+    ],
+    "location": "the town of Solhaven",
+    "wayto": {
+      "13511": "north",
+      "14577": "southwest",
+      "14578": "southeast"
+    },
+    "timeto": {
+      "13511": 0.2,
+      "14577": 0.2,
+      "14578": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:day:2022-11"
+    ],
+    "uid": [
+      4749410
+    ]
+  }
+}

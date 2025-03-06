@@ -1,0 +1,41 @@
+{
+  "checksum": "f0b7afb8d7a4eefb8deb1a1f7a8f6d30",
+  "room": {
+    "id": 30382,
+    "title": [
+      "[Western Waterway, Saewehna]"
+    ],
+    "description": [
+      "Gulls glide on the air currents, calling to each other while lazy white clouds drift high overhead, casting shadows on the rough sea.  Large jagged spires of obsidian can be seen in the distance to the west, the sun reflecting on the black glass.  Waves crash against the rocks, sending the ocean swells eastward.",
+      "Shrill cries echo in the distance, while thin clouds drift overhead, casting shadows on the rough seas as they pass against the moon.  Dark mountainous figures can be seen in the distance to the west, moonlight reflecting off the shiny forms.  Crashing waves can be heard in the darkness, causing ocean swells to push eastward."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast"
+    ],
+    "location": "the Western Harbor",
+    "climate": "saltwater",
+    "terrain": "hard, flat",
+    "wayto": {
+      "30373": "pedal north",
+      "30381": "pedal east"
+    },
+    "timeto": {
+      "30373": 6,
+      "30381": 6
+    },
+    "tags": [
+      "map:samepath:southeast,east",
+      "no forageables"
+    ],
+    "uid": [
+      3216206
+    ],
+    "image": "FWI_Western_Waterways.png",
+    "image_coords": [
+      818,
+      4221,
+      833,
+      4239
+    ]
+  }
+}

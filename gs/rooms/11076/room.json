@@ -1,0 +1,39 @@
+{
+  "checksum": "01516c2cb80d9c43e55814cf49f479f9",
+  "room": {
+    "id": 11076,
+    "title": [
+      "[Sea Caves]"
+    ],
+    "description": [
+      "This section of cave sits atop an incline, the cave continuing downward to the southeast and southwest.  Dry sand covers the floor of the cave here, and a steady breeze blows directly down from unseen crevices and cracks in the ceiling."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "the Sea Caves",
+    "wayto": {
+      "11075": "southwest",
+      "11077": "southeast"
+    },
+    "timeto": {
+      "11075": 0.2,
+      "11077": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      26114
+    ],
+    "image": "rr-rivers_rest-1618766733.png",
+    "image_coords": [
+      4525,
+      776,
+      4547,
+      797
+    ]
+  }
+}

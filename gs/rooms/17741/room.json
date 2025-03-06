@@ -1,0 +1,35 @@
+{
+  "checksum": "3a093f241fec5386dae9a248422de0a4",
+  "room": {
+    "id": 17741,
+    "title": [
+      "[Empath Guild, Cauldrons]"
+    ],
+    "description": [
+      "Several training rooms completely equipped with cauldrons, beakers, measures, and other supplies, are accessible around the perimeter of this room, their arched entryways carefully positioned so that no room looks directly into the entrance of another.  A bundle of dried herbs is hung above each archway.  Rippling in each entryway, the air wavers and dances, as if thicker in the archways than elsewhere."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "17734": "south",
+      "17742": "go cauldrons"
+    },
+    "timeto": {
+      "17734": 0.2,
+      "17742": 0.2
+    },
+    "uid": [
+      651017
+    ],
+    "image": "wl-empath_guild-1305919234.png",
+    "image_coords": [
+      113,
+      95,
+      166,
+      150
+    ],
+    "check_location": true
+  }
+}

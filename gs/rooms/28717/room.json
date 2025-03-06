@@ -1,0 +1,41 @@
+{
+  "checksum": "996566c3baf59147bbd0295eadcabdf1",
+  "room": {
+    "id": 28717,
+    "title": [
+      "[Lalena's Box Emporium]"
+    ],
+    "description": [
+      "Although small, the inside of the tent is organized and tidy.  Neatly piled boxes and trunks line the walls, leaving a clear path around a rough walnut table.  Tucked to one side of the opening is a large wooden crate, its surface painted with small stick figures.  A variety of toys can be seen nestled between the stacks."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "the town of River's Rest",
+    "wayto": {
+      "10852": "out",
+      "30711": "/rooms/28717/wayto/stringproc-30711.rb"
+    },
+    "timeto": {
+      "10852": 0.2,
+      "30711": "/rooms/28717/timeto/stringproc-30711.rb"
+    },
+    "tags": [
+      "locksmith pool",
+      "meta:boxpool:npc:slender half-elven woman",
+      "meta:boxpool:table:rough walnut table",
+      "meta:trashcan:large wooden crate",
+      "node",
+      "supernode",
+      "urchin-access",
+      "urchin guide locksmithpool",
+      "locksmithpool",
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2022-09"
+    ],
+    "uid": [
+      2101945
+    ]
+  }
+}

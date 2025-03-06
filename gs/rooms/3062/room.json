@@ -1,0 +1,40 @@
+{
+  "checksum": "c3a5050ad75ceb4a25cd3c3ba63f3bef",
+  "room": {
+    "id": 3062,
+    "title": [
+      "[Icemule Trace, Snowfield Trench]"
+    ],
+    "description": [
+      "A deep trench has been dug into the snowdrifts, creating a wind-free pathway.  The sides of the trench rise above you until they are above your head, muffling the sounds of the icy winds that blow across the snowfield."
+    ],
+    "paths": [
+      "Obvious paths: south, up"
+    ],
+    "location": "the southern snowfields",
+    "climate": "snowy, arctic",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3061": "up",
+      "3063": "south"
+    },
+    "timeto": {
+      "3061": 0.2,
+      "3063": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4128036
+    ],
+    "image": "imt-south_gate-1647231707.png",
+    "image_coords": [
+      548,
+      780,
+      558,
+      790
+    ]
+  }
+}

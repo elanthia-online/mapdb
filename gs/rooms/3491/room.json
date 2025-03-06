@@ -1,0 +1,43 @@
+{
+  "checksum": "5c7135929bab978a27ccb33a6bd6b6e5",
+  "room": {
+    "id": 3491,
+    "title": [
+      "[Ta'Vaalor, Glimaerstone Var]"
+    ],
+    "description": [
+      "The towering edifice of a guild hall looms above the cobbled var, casting the entire area into deep shadow.  Void of the usual carvings and stonework decorative elements, the few windows of the structure are barred with plain iron.  An ironwood door appears to be the only means of entrance to the hall."
+    ],
+    "paths": [
+      "Obvious paths: north, east"
+    ],
+    "location": "the city of Ta'Vaalor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "3490": "north",
+      "3531": "east",
+      "10331": "go ironwood door"
+    },
+    "timeto": {
+      "3490": 0.2,
+      "3531": 0.2,
+      "10331": 0.2
+    },
+    "tags": [
+      "meta:forage-sensed",
+      "no forageables",
+      "meta:forage-sensed:night:2023-01"
+    ],
+    "uid": [
+      14100018
+    ],
+    "image": "en-tavaalor-1565907614.png",
+    "image_coords": [
+      1150,
+      326,
+      1184,
+      364
+    ]
+  }
+}

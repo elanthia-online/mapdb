@@ -1,0 +1,38 @@
+{
+  "checksum": "07428f35fdef5b572e34f07ec1ec6ee9",
+  "room": {
+    "id": 8117,
+    "title": [
+      "[Luinne Bheinn, Church]"
+    ],
+    "description": [
+      "This part of the church is filled with heavy, wooden pews.  Hauling the pews up to this mountain settlement must have been a long and strenuous affair.  Red, amber and blue lights caress the top portion of the pews.  An oaken door leads outside."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Luinne Bheinn",
+    "wayto": {
+      "8089": "go door",
+      "8118": "east"
+    },
+    "timeto": {
+      "8089": 0.2,
+      "8118": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4251105
+    ],
+    "image": "wl-mineroad-1264234799.png",
+    "image_coords": [
+      1053,
+      712,
+      1063,
+      722
+    ]
+  }
+}

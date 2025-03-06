@@ -1,0 +1,40 @@
+{
+  "checksum": "c6e701ed2da42a4cea278b87c3cd0797",
+  "room": {
+    "id": 21645,
+    "title": [
+      "[Third Floor, Main Hall]"
+    ],
+    "description": [
+      "A fel balustrade keeps the unwary from falling over the edge of this balcony overlooking the grand entrance hall below.  A thick crimson carpet with gold fringe covers the hardwood floors.  Sitting opposite the balustrade is a small rosewood table flanked by a pair of cushioned chairs."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "near Fearling Pass",
+    "wayto": {
+      "21639": "go steps",
+      "21648": "west",
+      "21650": "east"
+    },
+    "timeto": {
+      "21639": 0.2,
+      "21648": 0.2,
+      "21650": 0.2
+    },
+    "tags": [
+      "meta:society:Order of Voln",
+      "no forageables"
+    ],
+    "uid": [
+      14116052
+    ],
+    "image": "society-voln-1686351593.png",
+    "image_coords": [
+      676,
+      145,
+      688,
+      156
+    ]
+  }
+}

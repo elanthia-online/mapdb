@@ -1,0 +1,40 @@
+{
+  "checksum": "505c81909ac86c572807ccc682b82c31",
+  "room": {
+    "id": 7970,
+    "title": [
+      "[Moot Hall, Debt Collector's]"
+    ],
+    "description": [
+      "This is the office of the Debt Collector of Wehnimer's Landing.  An old, wizened clerk is sitting behind a desk, poring through yellowed record ledgers."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "7969": "east",
+      "30708": "/rooms/7970/wayto/stringproc-30708.rb"
+    },
+    "timeto": {
+      "7969": 0.2,
+      "30708": "/rooms/7970/timeto/stringproc-30708.rb"
+    },
+    "tags": [
+      "meta:teleport:fwi",
+      "urchin guide debts",
+      "urchin-access",
+      "debts"
+    ],
+    "uid": [
+      2020
+    ],
+    "image": "wl-moot_hall-1486755929.png",
+    "image_coords": [
+      712,
+      1273,
+      855,
+      1333
+    ]
+  }
+}

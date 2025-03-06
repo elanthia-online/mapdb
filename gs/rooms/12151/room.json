@@ -1,0 +1,50 @@
+{
+  "checksum": "aadaaf529c1253a18aa136dc26be3f14",
+  "room": {
+    "id": 12151,
+    "title": [
+      "[The Rift]"
+    ],
+    "description": [
+      "The smell of fresh mortar is in the air, thick and moist.  Rough brick walls surround you, each roughly four feet wide and as high as a giantman's head.  From behind the structures come muffled cries, and one blockade trembles with the rhythmic pounding it is taking from within."
+    ],
+    "paths": [
+      "Obvious paths: southeast, northwest",
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "the Rift",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "12097": "southeast",
+      "12133": "northwest",
+      "12207": "/rooms/12151/wayto/stringproc-12207.rb",
+      "12235": "/rooms/12151/wayto/stringproc-12235.rb"
+    },
+    "timeto": {
+      "12097": 0.2,
+      "12133": 0.2,
+      "12207": 11.4,
+      "12235": 11.4
+    },
+    "tags": [
+      "oozing fleshsore bulb",
+      "twisted black mawflower",
+      "slime-covered grave blossom",
+      "mass of congealed slime",
+      "withered deathblossom",
+      "congealed slime",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4569018
+    ],
+    "image": "imt-rift-1554575848.png",
+    "image_coords": [
+      569,
+      1262,
+      579,
+      1272
+    ]
+  }
+}

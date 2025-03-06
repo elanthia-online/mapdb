@@ -1,0 +1,43 @@
+{
+  "checksum": "d87a2fea72fe042085504c1712fff9ff",
+  "room": {
+    "id": 2116,
+    "title": [
+      "[Teras Isle, High Road]"
+    ],
+    "description": [
+      "A particularly fearsome lava flow has obliterated a section of the causeway's upper lip, leaving a clear view of the volcanic slope above.  Far above, the truncated cone of the volcano issues great clouds of steam into the air, and even at this distance an angry grumble rattles bone, stone, and soul."
+    ],
+    "paths": [
+      "Obvious paths: northeast, southwest, up"
+    ],
+    "location": "the old Logging Road",
+    "climate": "arid",
+    "terrain": "hard, flat",
+    "wayto": {
+      "2115": "southwest",
+      "2117": "up",
+      "2119": "northeast"
+    },
+    "timeto": {
+      "2115": 0.2,
+      "2117": 0.2,
+      "2119": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      3009025
+    ],
+    "image": "ti-wilds-1643860469.png",
+    "image_coords": [
+      501,
+      268,
+      511,
+      278
+    ]
+  }
+}

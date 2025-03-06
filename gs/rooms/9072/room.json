@@ -1,0 +1,43 @@
+{
+  "checksum": "0712c73e830f460e9ec3c9125a92f0b8",
+  "room": {
+    "id": 9072,
+    "title": [
+      "[Underground Tunnel]"
+    ],
+    "description": [
+      "The nondescript tunnel runs off into the darkness.  A dull thudding reverberates through the tunnel, shaking dirt clods loose from the ceiling which explode on the floor in syncopated time.  A thick cloud of dust obscures your vision."
+    ],
+    "paths": [
+      "Obvious exits: east, up"
+    ],
+    "location": "the subterranean tunnels",
+    "wayto": {
+      "9071": "up",
+      "9073": "go tunnel",
+      "9074": "east"
+    },
+    "timeto": {
+      "9071": 0.2,
+      "9073": 0.2,
+      "9074": 0.2
+    },
+    "tags": [
+      "some wolifrew lichen",
+      "some wingstem root",
+      "wolifrew lichen",
+      "ironfern root",
+      "meta:forage-sensed"
+    ],
+    "uid": [
+      4045101
+    ],
+    "image": "imt-underground-1264234799.png",
+    "image_coords": [
+      1113,
+      171,
+      1123,
+      181
+    ]
+  }
+}

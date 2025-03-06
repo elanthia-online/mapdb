@@ -1,0 +1,50 @@
+{
+  "checksum": "84f1e966db0dd6b8753d0cdbd1872c1d",
+  "room": {
+    "id": 6997,
+    "title": [
+      "[Castle Darkstone]"
+    ],
+    "description": [
+      "You are standing before the main gate of a decrepit ruin of stone, which appears to have once been a great fortress.  A moat filled with brackish water and foul smells surrounds the ruin, providing safeguard against intruders."
+    ],
+    "paths": [
+      "Obvious paths: southeast",
+      "Obvious paths: west"
+    ],
+    "location": "Darkstone Castle",
+    "climate": "cold, dry",
+    "terrain": "rough",
+    "wayto": {
+      "6998": "/rooms/6997/wayto/stringproc-6998.rb",
+      "34516": "southeast"
+    },
+    "timeto": {
+      "6998": 5.2,
+      "34516": 0.2
+    },
+    "tags": [
+      "stalk of chicory",
+      "heath aster",
+      "sprig of larkspur",
+      "bright red teaberry",
+      "wintergreen leaf",
+      "broken twig",
+      "moonlight cactus-bloom",
+      "ironfern root",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2023-01",
+      "meta:forage-sensed:day:2025-02"
+    ],
+    "uid": [
+      45103
+    ],
+    "image": "wl-darkstone-1717380773.png",
+    "image_coords": [
+      160,
+      225,
+      169,
+      233
+    ]
+  }
+}

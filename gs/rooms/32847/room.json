@@ -1,0 +1,30 @@
+{
+  "checksum": "bda0f01806fcc8745d150e9370b4bfc7",
+  "room": {
+    "id": 32847,
+    "title": [
+      "[House of Paupers Annex]"
+    ],
+    "description": [
+      "A circular polished rosewood bar dominates the center of the room, flanked by low-backed leather and rosewood stools.  Opposite a gold-banded lapis velvet curtain leading out is a back-lit stained glass panel depicting the town of Cysaegir, and a steel-bound bristle dart board set with silver rings hangs on the wall to the right.  A recessed alcove to the left of the panel is covered by a gold-threaded white flyrsilk curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Cysaegir",
+    "wayto": {
+      "32838": "go lapis curtain",
+      "32848": "go white curtain"
+    },
+    "timeto": {
+      "32838": 0.2,
+      "32848": 0.2
+    },
+    "tags": [
+      "meta:locker annex:House of Paupers"
+    ],
+    "uid": [
+      2174015
+    ]
+  }
+}

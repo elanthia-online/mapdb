@@ -1,0 +1,28 @@
+{
+  "checksum": "433e3c9d9a15d91267df0042bf4c44cf",
+  "room": {
+    "id": 4529,
+    "title": [
+      "[ArmorWorks - Studded]"
+    ],
+    "description": [
+      "This cavern is dotted with small stalactites and wavy formations throughout, giving the distinct impression that the stone started to melt at some point.  Flat-topped stones serve as stools for tired patrons and enterprising dwarves alike."
+    ],
+    "paths": [
+      "Obvious exits: east, southeast"
+    ],
+    "location": "Revel of the Anfelt",
+    "wayto": {
+      "4528": "southeast",
+      "4530": "east"
+    },
+    "timeto": {
+      "4528": 0.2,
+      "4530": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:anfelt"
+    ]
+  }
+}

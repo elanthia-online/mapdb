@@ -1,0 +1,36 @@
+{
+  "checksum": "04aa5c82cceee08b120fd6172764399b",
+  "room": {
+    "id": 18455,
+    "title": [
+      "[Grawood Farmstead, Meadow]"
+    ],
+    "description": [
+      "The grass has been worn thin in a small strip that leads up to the doors of a structure that could only be a distillery.  With every breeze that stirs the air, the scent of hops, too-sweet grapes, and malt drift through this part of the meadow.  A broken wagon wheel leans against the side of the building, ruined and abandoned for so long that a jasmine vine has begun to grow along the spokes.  Nearby is a sign made of aged barrel planks, and off a ways in the meadow is a crosseyed black cow."
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, southwest, northwest"
+    ],
+    "location": "Grawood Farmstead outside of River's Rest",
+    "wayto": {
+      "18454": "southwest",
+      "18456": "go distillery",
+      "18457": "northwest",
+      "18461": "southeast",
+      "18464": "east",
+      "18466": "northeast"
+    },
+    "timeto": {
+      "18454": 0.2,
+      "18456": 0.2,
+      "18457": 0.2,
+      "18461": 0.2,
+      "18464": 0.2,
+      "18466": 0.2
+    },
+    "tags": [
+      "closed",
+      "meta:fest:grawood"
+    ]
+  }
+}

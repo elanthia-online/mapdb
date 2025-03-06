@@ -1,0 +1,34 @@
+{
+  "checksum": "a39cec79dec4b473006315aa05daefca",
+  "room": {
+    "id": 32572,
+    "title": [
+      "[Darkstone Bay]"
+    ],
+    "description": [
+      "The waters of Darkstone Bay are cold, made worse by the winds pushing against you.  The rocky walls of the coastal cliffs rise up to the west, as the murky waters continue endlessly to the north, connecting to the horizon."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the town of Wehnimer's Landing",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "32570": "/rooms/32572/wayto/stringproc-32570.rb",
+      "32573": "/rooms/32572/wayto/stringproc-32573.rb"
+    },
+    "timeto": {
+      "32570": 3.2,
+      "32573": 3.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2023-01"
+    ],
+    "uid": [
+      336811
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checksum": "2eaeb7edcd6996aab8aac3ff52b6e9b6",
+  "room": {
+    "id": 21197,
+    "title": [
+      "[Sewers, The Underside of Health]"
+    ],
+    "description": [
+      "Glass globes housed in copper cages are suspended from the ceiling and provide ample illumination for this section of the tunnel.  Painted bright white, the walls, ceiling, and floor are all uniformly the same and a narrow cot appears to be the only furnishing.  A blackened iron ladder leads upward through a small trapdoor."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12288": "go ladder",
+      "21196": "north",
+      "21198": "south"
+    },
+    "timeto": {
+      "12288": 0.2,
+      "21196": 0.2,
+      "21198": 0.2
+    },
+    "uid": [
+      265428
+    ]
+  }
+}

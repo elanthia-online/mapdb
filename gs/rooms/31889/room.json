@@ -1,0 +1,32 @@
+{
+  "checksum": "eefb287e87e56b35c3eb205bfbbf0a46",
+  "room": {
+    "id": 31889,
+    "title": [
+      "[Tippy Toes, Entry]"
+    ],
+    "description": [
+      "A richly carved mahogany carriage loaded with wooden trunks and wicker baskets is parked in the middle of the high-ceilinged foyer.  To the north, an archway separates the tack and equipment storage area from the living quarters beyond.  The fragrant scent of hay mingled with oiled leather hovers in the chill air."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31866": "out",
+      "31890": "go archway"
+    },
+    "timeto": {
+      "31866": 0.2,
+      "31890": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2022-10"
+    ],
+    "uid": [
+      8084141
+    ]
+  }
+}

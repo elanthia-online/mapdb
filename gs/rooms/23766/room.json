@@ -1,0 +1,36 @@
+{
+  "checksum": "88a829868dfa75008cf198974df3988b",
+  "room": {
+    "id": 23766,
+    "title": [
+      "[Duskruin Arena, Entrance]"
+    ],
+    "description": [
+      "Jagged granite walls appear to have been carved directly into the mountain creating a wide corridor stretching to the north.  The bottom spikes of an enormous iron portcullis stick out of the rocky ceiling.  Each wall is lined with flickering oil lanterns, hung on the walls and evenly spaced with a variety of suits of armor that stand at attention.  A thick, blood red rug stretches the length of the dark stone corridor and into the shadows beyond."
+    ],
+    "paths": [
+      "Obvious exits: north"
+    ],
+    "location": "Duskruin Arena",
+    "wayto": {
+      "23767": "north",
+      "26885": "go iron portcullis",
+      "33578": "/rooms/23766/wayto/stringproc-33578.rb"
+    },
+    "timeto": {
+      "23767": 0.2,
+      "26885": 0.2,
+      "33578": "/rooms/23766/timeto/stringproc-33578.rb"
+    },
+    "uid": [
+      8213001
+    ],
+    "image": "fest-duskruin-1660957206.png",
+    "image_coords": [
+      1425,
+      793,
+      1443,
+      810
+    ]
+  }
+}

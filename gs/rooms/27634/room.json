@@ -1,0 +1,30 @@
+{
+  "checksum": "cbb6fe4b3b1b03782b4fe8b123e87abb",
+  "room": {
+    "id": 27634,
+    "title": [
+      "[Annex, Silvergate Inn Lobby]"
+    ],
+    "description": [
+      "Simple, but elegant, the teakwood flooring of this room is polished to a lustrous sheen.  A silver velvet pennant edged with green hangs near a heavy, white muslin curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12296": "/rooms/27634/wayto/stringproc-12296.rb",
+      "29573": "go curtain"
+    },
+    "timeto": {
+      "12296": 0.2,
+      "29573": 0.2
+    },
+    "tags": [
+      "meta:locker annex:Silvergate Inn"
+    ],
+    "uid": [
+      3215111
+    ]
+  }
+}

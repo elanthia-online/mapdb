@@ -1,0 +1,29 @@
+{
+  "checksum": "8e7f4835c3dc53caec51822e7e8e7b3b",
+  "room": {
+    "id": 35151,
+    "title": [
+      "[Traders' Hall, Clerk]"
+    ],
+    "description": [
+      "Bathed in the light of tall pillar candles burning in rough-edged nooks along the granite walls, an elaborate desk houses the accoutrements of the guild's clerk.  Quill pens from a number of bright-plumed birds sit near several pots holding inks of different colors.  The desk is carefully positioned to watch over a white ash door inlaid with a spill of golden coins, just beyond which stands a tall mosaic archway that marks the hallway's end."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Glaoveln",
+    "wayto": {
+      "35058": "west",
+      "35152": "go archway",
+      "35153": "go door"
+    },
+    "timeto": {
+      "35058": 0.2,
+      "35152": 0.2,
+      "35153": 0.2
+    },
+    "uid": [
+      4426608
+    ]
+  }
+}
