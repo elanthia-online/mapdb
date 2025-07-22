@@ -72,8 +72,8 @@ jobs:
           # Build mapdb.json from all room files
           bun run build
           
-          # Validate the complete mapdb.json
-          bun run validate
+          # Validate the complete mapdb.json using cartographer --input
+          bunx @elanthia/cartographer validate --input ./mapdb.json
           
           echo "✅ Full build and validation completed successfully"
 
