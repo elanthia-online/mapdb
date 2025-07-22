@@ -44,7 +44,7 @@ jobs:
         run: bun run build
       
       - name: Validate mapdb.json
-        run: bun run validate
+        run: bunx @elanthia/cartographer validate --input mapdb.json
       
       - name: Upload mapdb.json to release
         env:
