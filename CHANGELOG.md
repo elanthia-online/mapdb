@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/elanthia-online/mapdb/compare/v0.2.0...v0.2.1) (2025-07-22)
+
+
+### Bug Fixes
+
+* remove cartographer dependency to use bunx for latest version ([63112f5](https://github.com/elanthia-online/mapdb/commit/63112f5ff30fb6122ab2b6be7993fcdf37449c71))
+
 ## [0.2.0](https://github.com/elanthia-online/mapdb/compare/v0.1.0...v0.2.0) (2025-07-22)
 
 
