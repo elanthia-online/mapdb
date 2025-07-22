@@ -1,0 +1,31 @@
+{
+  "name": "@elanthia/mapdb",
+  "version": "1.0.0",
+  "description": "Elanthia Online map database containing room data for the game world",
+  "main": "mapdb.json",
+  "type": "module",
+  "scripts": {
+    "build": "bunx @elanthia/cartographer reconstruct --input ./gs --output ./mapdb.json",
+    "validate": "bunx @elanthia/cartographer validate --input ./mapdb.json"
+  },
+  "files": [
+    "mapdb.json",
+    "gs/**/*"
+  ],
+  "keywords": [
+    "elanthia",
+    "mud",
+    "mapdb",
+    "gameworld",
+    "rooms"
+  ],
+  "author": "Elanthia Online",
+  "license": "MIT",
+  "devDependencies": {
+    "@elanthia/cartographer": "^0.1.0",
+    "bun-types": "latest"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
