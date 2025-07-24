@@ -5,7 +5,9 @@
   "main": "mapdb.json",
   "type": "module",
   "scripts": {
-    "build": "bunx @elanthia/cartographer reconstruct --input ./gs --output ./mapdb.json",
+    "build": "bunx @elanthia/cartographer build --userland --input ./gs --output ./userland && cp userland/mapdb.json mapdb.json",
+    "build:userland": "bunx @elanthia/cartographer build --userland --input ./gs --output ./userland",
+    "build:standard": "bunx @elanthia/cartographer build --input ./gs --output ./mapdb-standard.json",
     "validate": "bunx @elanthia/cartographer validate --input ./mapdb.json"
   },
   "files": [

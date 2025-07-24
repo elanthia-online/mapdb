@@ -37,14 +37,21 @@ jobs:
         with:
           bun-version: latest
       
-      - name: Build mapdb.json
+      - name: Build userland format with bundled StringProcs
         run: bun run build
       
-      - name: Validate mapdb.json
-        run: bunx @elanthia/cartographer validate --input mapdb.json
+      - name: Create StringProc tarball
+        run: |
+          cd userland
+          tar -czf ../stringprocs.tar.gz stringprocs/
+          cd ..
+        
+      - name: Validate userland mapdb.json
+        run: bun run validate
       
-      - name: Upload mapdb.json to release
+      - name: Upload release assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release upload ${{ needs.release-please.outputs.tag_name }} mapdb.json --clobber
+          gh release upload ${{ needs.release-please.outputs.tag_name }} stringprocs.tar.gz --clobber
