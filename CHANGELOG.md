@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/elanthia-online/mapdb/compare/v0.2.1...v0.3.0) (2026-02-04)
+
+
+### Features
+
+* sync to latest mapdb 20260204 ([#6](https://github.com/elanthia-online/mapdb/issues/6)) ([f6bd376](https://github.com/elanthia-online/mapdb/commit/f6bd37639f447ced7613f7f0b8a4f6d4b717fbd3))
+
 ## [0.2.1](https://github.com/elanthia-online/mapdb/compare/v0.2.0...v0.2.1) (2025-07-22)
 
 
