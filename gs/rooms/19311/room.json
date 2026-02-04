@@ -1,11 +1,13 @@
 {
-  "checksum": "1c3d0bdc1414fbf3eb6cfffcd7dea130",
+  "checksum": "9a89e5911e582bc3009f7fc7692c61e1",
   "room": {
     "id": 19311,
     "title": [
       "[Willow Hall, Willow Tree]"
     ],
     "description": [
+      "The bole of the monstrous willow is surrounded with a wealth of hanging garlands.  They obscure the existence of a small enclave at the base of the tree near some louvered swinging doors, both curtained off by the tiny silver-backed leaves.  Constantly shifting spots of sunlight filtering through the boughs are hypnotic.  High up in the branch system, a circular construction is barely visible encircling the willow's trunk.",
+      "The bole of the monstrous willow is surrounded with a wealth of hanging garlands.  They obscure the existence of a small, shadowy enclave at the base of the tree near some louvered swinging doors, both curtained off by the tiny silver-backed leaves.  Soft moonlight filters through the boughs, leaving the silhouette of the branches as stark, black lines.  High up in the tree top, a circular construction is barely visible in the night's cloak of darkness.",
       "The bole of the monstrous willow is surrounded with a wealth of hanging garlands.  They obscure the existence of a small, shadowy enclave at the base of the tree, curtained off by the tiny silver-backed leaves.  Soft moonlight filters through the boughs, leaving the silhouette of the branches as stark, black lines.  High up in the tree top, a circular construction is barely visible in the night's cloak of darkness.",
       "The bole of the monstrous willow is surrounded with a wealth of hanging garlands.  They obscure the existence of a small enclave at the base of the tree, curtained off by the tiny silver-backed leaves.  Constantly shifting spots of sunlight filtering through the boughs are hypnotic.  High up in the branch system, a circular construction is barely visible encircling the willow's trunk."
     ],
@@ -15,11 +17,13 @@
     "location": "Willow Hall",
     "wayto": {
       "19290": "east",
-      "19312": "climb tree"
+      "19312": "climb tree",
+      "35233": "go swinging doors"
     },
     "timeto": {
       "19290": 0.2,
-      "19312": 0.2
+      "19312": 0.2,
+      "35233": 0.2
     },
     "tags": [
       "meta:che:Willow Hall"

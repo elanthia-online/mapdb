@@ -1,2 +1,1 @@
-fput "stand" unless standing?
-move "out"
+fput 'stand' unless standing?; move 'out'

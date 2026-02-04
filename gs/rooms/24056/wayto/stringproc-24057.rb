@@ -1,2 +1,1 @@
-fput "search"
-move "go jagged opening"
+fput "search";move "go jagged opening"

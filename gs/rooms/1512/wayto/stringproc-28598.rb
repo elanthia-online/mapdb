@@ -1,2 +1,1 @@
-fput "search"
-move "go wall"
+fput 'search'; move 'go wall'

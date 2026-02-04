@@ -1,2 +1,1 @@
-move "crawl crevice"
-fput "stand" until standing?
+move 'crawl crevice';fput 'stand' until standing?

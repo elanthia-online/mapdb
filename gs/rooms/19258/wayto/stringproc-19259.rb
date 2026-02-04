@@ -1,1 +1,1 @@
-fput "lean tart book"
+fput 'lean tart book'

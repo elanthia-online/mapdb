@@ -1,0 +1,47 @@
+{
+  "checksum": "323cc837e82c0d8fe924786da19bc3c8",
+  "room": {
+    "id": 36094,
+    "title": [
+      "[House Arcane, Foyer]"
+    ],
+    "description": [
+      "This small vestibule is the terminus to the rest of the House.  The spiral staircase is made of the same darkly finished hardwood with which the room is panelled; the steps themselves are covered by a soft, forest green carpet which cushions your steps as you pass through the room.  Paintings lining the walls treat your eyes to colorful renditions of ancient heroes and their quests while smells of whiskey, spices and wood mingle in your nostrils."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36093": "go ebony door",
+      "36095": "go oaken archway",
+      "36096": "go stone archway",
+      "36097": "go spiral staircase",
+      "36157": "go mahogany door"
+    },
+    "timeto": {
+      "36093": 0.2,
+      "36095": 0.2,
+      "36096": 0.2,
+      "36097": 0.2,
+      "36157": 0.2
+    },
+    "tags": [
+      "meta:mapname:Wehnimer's Landing - House of the Arcane Masters",
+      "meta:mapshortname:House of the Arcane Masters",
+      "meta:mapcategory:Wehnimer's Landing",
+      "meta:mapcategory:CHE",
+      "meta:che:Arcane Masters"
+    ],
+    "uid": [
+      105001
+    ],
+    "image": "wl-house_arcane-1765480679.png",
+    "image_coords": [
+      403,
+      822,
+      481,
+      901
+    ]
+  }
+}

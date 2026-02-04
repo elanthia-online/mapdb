@@ -1,4 +1,1 @@
-fput "search"
-waitrt?
-fput "search"
-move "go trapdoor"
+fput 'search'; waitrt?; fput 'search'; move 'go trapdoor'

@@ -1,0 +1,36 @@
+{
+  "checksum": "a50c294121f6fdbfca5885d14828acb9",
+  "room": {
+    "id": 36100,
+    "title": [
+      "[House Arcane, Hall's End]"
+    ],
+    "description": [
+      "The hallway ends here with a set of steep, wooden stairs which ascend to the third floor."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36099": "south",
+      "36103": "go oak door",
+      "36104": "go wooden stairs"
+    },
+    "timeto": {
+      "36099": 0.2,
+      "36103": 0.2,
+      "36104": 0.2
+    },
+    "uid": [
+      105013
+    ],
+    "image": "wl-house_arcane-1765480679.png",
+    "image_coords": [
+      561,
+      182,
+      640,
+      261
+    ]
+  }
+}

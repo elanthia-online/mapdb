@@ -1,2 +1,2 @@
-fput "push door"
-move "go door"
+fput 'push door'
+move 'go door'

@@ -1,0 +1,41 @@
+{
+  "checksum": "b31204b9aea37f30fe344a8d58d08f92",
+  "room": {
+    "id": 35740,
+    "title": [
+      "[The Tonbury, Cargo Hold]"
+    ],
+    "description": [
+      "Moldy crates glisten with a thick veneer of briny grime, any clues to their origins lost to time's ravages.  Waterlogged barrels drift, half-submerged, through deep waters that rise and fall with the pounding of the surf outside.  Overhead, slouching beams drip befouled water, dangling the rusted remnants of lantern chains that once lit mildewed steps leading out of the hold.  There is a stale smell to the dark, dank air."
+    ],
+    "paths": [
+      "Obvious exits: southwest"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35738": "go steps",
+      "35741": "southwest",
+      "35768": "/rooms/35740/wayto/stringproc-35768.rb"
+    },
+    "timeto": {
+      "35738": 0.2,
+      "35741": 0.2,
+      "35768": 1
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150529
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1160,
+      2920,
+      1240,
+      3000
+    ]
+  }
+}

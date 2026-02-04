@@ -1,1 +1,1 @@
-fput "go north"
+fput 'go north'

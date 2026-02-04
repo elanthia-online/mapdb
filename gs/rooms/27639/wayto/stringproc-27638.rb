@@ -1,1 +1,1 @@
-UserVars.Peregrine&.each { |c| fput c.to_s }
+if UserVars.Peregrine; UserVars.Peregrine.each{|c| fput "#{c}" } end

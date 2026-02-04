@@ -1,11 +1,12 @@
 {
-  "checksum": "99c959fe8e135bbda6d6a79cf26bd896",
+  "checksum": "db30db016e57767aafd108ab6349579c",
   "room": {
     "id": 31743,
     "title": [
       "[The Graveyard Temporalis]"
     ],
     "description": [
+      "The gravel path begins to turn westward at this juncture, while to the north, the dark silhouettes of statuary and a dilapidated chapel are voids against the color of the skyline.  A gentle breath of stirring air is constant here, and beneath the whistling of it through trees is the most subtle of whispers, indecipherable but unmistakably there.",
       "The gravel path begins to turn westward at this juncture, while to the north, the dark silhouettes of statuary and a small chapel are voids against the color of the skyline.  A gentle breath of stirring air is constant here, and beneath the whistling of it through trees is the most subtle of whispers, indecipherable but unmistakably there."
     ],
     "paths": [
@@ -14,11 +15,13 @@
     "location": "Evermore Hollow",
     "wayto": {
       "31742": "south",
-      "31744": "northwest"
+      "31744": "northwest",
+      "35841": "go dilapidated chapel"
     },
     "timeto": {
       "31742": 0.2,
-      "31744": 0.2
+      "31744": 0.2,
+      "35841": 0.2
     },
     "tags": [
       "saffron alpestris",

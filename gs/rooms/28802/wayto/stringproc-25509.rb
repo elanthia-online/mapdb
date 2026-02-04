@@ -1,2 +1,1 @@
-move("go burnt door")
-UserVars.mapdb_marksofthebeast_origin = 28802
+move('go burnt door');UserVars.mapdb_marksofthebeast_origin = 28802;

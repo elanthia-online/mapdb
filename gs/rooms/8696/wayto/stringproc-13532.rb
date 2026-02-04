@@ -1,2 +1,1 @@
-$SILVERWOOD_TOWN = :imt
-move "go door"
+$SILVERWOOD_TOWN=:imt;move 'go door'

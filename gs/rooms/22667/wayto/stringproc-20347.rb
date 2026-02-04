@@ -1,2 +1,1 @@
-fput "stand" until standing?
-move "out"
+fput "stand" until standing?;move "out"

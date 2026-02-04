@@ -1,3 +1,1 @@
-move "northeast"
-move "east"
-move "southwest"
+move 'northeast'; move 'east'; move 'southwest'

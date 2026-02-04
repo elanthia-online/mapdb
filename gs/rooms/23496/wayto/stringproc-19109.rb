@@ -1,2 +1,1 @@
-move "knock wall"
-fput "stand"
+move "knock wall"; fput"stand"

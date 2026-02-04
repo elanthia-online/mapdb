@@ -1,1 +1,1 @@
-move "north" until Room.current.id == 5892
+move 'north' until Room.current.id == 5892

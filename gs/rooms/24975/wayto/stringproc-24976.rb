@@ -1,2 +1,1 @@
-fput "stand" until standing?
-move "west"
+fput 'stand' until standing?;move 'west'

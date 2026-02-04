@@ -1,0 +1,30 @@
+{
+  "checksum": "32ec366c729023bdbc8d55017f73f493",
+  "room": {
+    "id": 35982,
+    "title": [
+      "[Lounge Lockers]"
+    ],
+    "description": [
+      "Warm light filters through the curtained opening, faintly illuminating the simple cell."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "35981": "/rooms/35982/wayto/stringproc-35981.rb"
+    },
+    "timeto": {
+      "35981": 0.2
+    },
+    "tags": [
+      "bhalocker",
+      "meta:locker",
+      "locker:beaconhall"
+    ],
+    "uid": [
+      13112316
+    ]
+  }
+}

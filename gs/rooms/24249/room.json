@@ -1,5 +1,5 @@
 {
-  "checksum": "eb1e427341094bd80ac1c4b6fa4aa4f1",
+  "checksum": "4708cbb99a7992ad38e25b8f474d62f1",
   "room": {
     "id": 24249,
     "title": [
@@ -13,13 +13,18 @@
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "15474": "go door"
+      "15474": "go door",
+      "24764": "go white door"
     },
     "timeto": {
-      "15474": 0.2
+      "15474": 0.2,
+      "24764": 0.2
     },
     "tags": [
       "meta:che:Helden Hall"
+    ],
+    "uid": [
+      212424
     ]
   }
 }

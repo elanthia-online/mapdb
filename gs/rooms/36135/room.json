@@ -1,0 +1,30 @@
+{
+  "checksum": "69b9147623bc3c4d89d23dfdb2417b98",
+  "room": {
+    "id": 36135,
+    "title": [
+      "[Lingonberry Room, Cubbyhole]"
+    ],
+    "description": [
+      "The small room ends in a dark leather curtain which is drawn shut.  Remnants of old advertising slogans are painted onto the curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Icemule Trace",
+    "wayto": {
+      "36134": "pull small lever",
+      "36136": "go leather curtain"
+    },
+    "timeto": {
+      "36134": 0.2,
+      "36136": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_locker"
+    ],
+    "uid": [
+      4043273
+    ]
+  }
+}

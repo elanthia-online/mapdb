@@ -1,0 +1,29 @@
+{
+  "checksum": "ba0853eca0ad1e36b888333ba2dc66e8",
+  "room": {
+    "id": 36223,
+    "title": [
+      "[Deserted House, Wyrom's Office]"
+    ],
+    "description": [
+      "A pair of metal sconces stand guard over a battered wooden door, each intricately made to resemble the open maw of a drake.  Red carpet has been placed on the floor leading both northwest and northeast, however at each end, the carpet has been torn to shreds.  A large granite plaque hangs on the wall across from the door."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Elanthia",
+    "wayto": {
+      "36222": "go door",
+      "36224": "ne",
+      "36237": "nw"
+    },
+    "timeto": {
+      "36222": 0.2,
+      "36224": 0.2,
+      "36237": 0.2
+    },
+    "uid": [
+      9181014
+    ]
+  }
+}

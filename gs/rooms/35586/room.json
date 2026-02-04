@@ -1,0 +1,39 @@
+{
+  "checksum": "a961c52d02b538b4ed24953ba4e9d885",
+  "room": {
+    "id": 35586,
+    "title": [
+      "[The Contempt, Orlop Deck]"
+    ],
+    "description": [
+      "Nearing the bow of the ship, a greying bulkhead of planks choked by creeping algae separates the ship's mess from the rest of the orlop deck.  In its face is an uneven arch carved into the shapes of intertwined sirens.  Along the port side of the ship stretches a cabin with an ebony door and golden rivets, the wood and metal far better maintained than the surrounding deck space."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35585": "go door",
+      "35587": "go arch",
+      "35588": "east"
+    },
+    "timeto": {
+      "35585": 0.2,
+      "35587": 0.2,
+      "35588": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7150614
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      3880,
+      1000,
+      3960,
+      1080
+    ]
+  }
+}

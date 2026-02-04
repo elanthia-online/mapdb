@@ -1,11 +1,12 @@
 {
-  "checksum": "fe8244b3aac48a4047462da96c6ffd5c",
+  "checksum": "49359923eb3bf8eb2bfee5be02ae3409",
   "room": {
     "id": 29106,
     "title": [
       "[The Peaceful Porpoise, Portico]"
     ],
     "description": [
+      "Thin rivulets run down the spiralled flutings of columns framing the vestibule's entry, the water flowing into seaglass-filled channels carved into marble floors leading toward a driftwood arch.  Petrified coral sconces with flickering cerulean candles accent a mosaic crafted from broken shells spanning rockface walls.  Cut into these same walls is an opening leading to a small nook.",
       "Thin rivulets run down the spiralled flutings of columns framing the vestibule's entry, the water flowing into seaglass-filled channels carved into marble floors leading toward a driftwood arch.  Petrified coral sconces with flickering cerulean candles accent a mosaic crafted from broken shells spanning rockface walls."
     ],
     "paths": [
@@ -15,12 +16,14 @@
     "wayto": {
       "28891": "out",
       "29107": "go arch",
-      "29108": "go steps"
+      "29108": "go steps",
+      "35470": "go small opening"
     },
     "timeto": {
       "28891": 0.2,
       "29107": 0.2,
-      "29108": 0.2
+      "29108": 0.2,
+      "35470": 0.2
     },
     "uid": [
       7118386

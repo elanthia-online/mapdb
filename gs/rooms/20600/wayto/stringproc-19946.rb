@@ -1,1 +1,1 @@
-multifput "search", "go crevice"
+multifput 'search', 'go crevice'

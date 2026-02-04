@@ -1,5 +1,5 @@
 {
-  "checksum": "09df2b5782cf812b5898000ac1ab2045",
+  "checksum": "61c912c1ddf02aab0a054cc59475563a",
   "room": {
     "id": 32338,
     "title": [
@@ -9,6 +9,7 @@
       "Frigid winds whip the black sand shoreline as it clings to sheer, dark bluffs of basalt as if pinned between the stone and sea.  Salt is heavy on the icy breeze.  Leading up to an old dock of time-silvered wood, the stone-strewn sands are spattered with white droppings.  A switchback trail climbs to the lip of a ridge crowning the bluffs."
     ],
     "paths": [
+      "Obvious paths: east, northwest",
       "Obvious paths: east",
       "Obvious paths: none"
     ],
@@ -18,12 +19,14 @@
     "wayto": {
       "32323": "go trail",
       "32339": "go dock",
-      "34067": "east"
+      "34067": "east",
+      "36292": "northwest"
     },
     "timeto": {
       "32323": 0.2,
       "32339": 0.2,
-      "34067": 0.2
+      "34067": 0.2,
+      "36292": 0.2
     },
     "tags": [
       "acantha leaf",

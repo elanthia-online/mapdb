@@ -1,24 +1,28 @@
 {
-  "checksum": "0ea1db50c7426be28138a0ad28115e08",
+  "checksum": "9cd0c47657d89fd67f196a34bd4b1831",
   "room": {
     "id": 32283,
     "title": [
       "[Innoscents Lost, Showroom]"
     ],
     "description": [
+      "Dim light filters in through the open shutters of a large glass window flanked by a pair of unlit sconces to illuminate the room in a dull, gray glow.  A large wool rug is laid out in the center of the room with a pair of over-stuffed couches set on it.  Next to the couches, a large river rock fireplace serves as the central focus of the room with a wood bin dutifully placed beside it.  Almost as an afterthought, a glass display case and a dark mahogany table have been placed against opposite walls with their wares illuminated in an amber light by a pair of candelabras.",
       "Two lit sconces flanking a shuttered glass window illuminate the room in a dull, amber light.  A large wool rug is laid out in the center of the room with a pair of over-stuffed couches set on it.  Next to the couches, a large river rock fireplace serves as the central focus of the room with a wood bin dutifully placed beside it.  Almost as an afterthought, a glass display case and a dark mahogany table have been placed against opposite walls with their wares illuminated in an amber light by a pair of candelabras."
     ],
     "paths": [
+      "Obvious exits: west, out",
       "Obvious exits: out"
     ],
     "location": "Evermore Hollow",
     "wayto": {
       "31626": "out",
-      "32284": "go mahogany door"
+      "32284": "go mahogany door",
+      "35830": "west"
     },
     "timeto": {
       "31626": 0.2,
-      "32284": 0.2
+      "32284": 0.2,
+      "35830": 0.2
     },
     "tags": [
       "no forageables"

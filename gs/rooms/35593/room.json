@@ -1,0 +1,45 @@
+{
+  "checksum": "3eb96c3d49ea400fd141c43c58c3d968",
+  "room": {
+    "id": 35593,
+    "title": [
+      "[The Contempt, Main Deck]"
+    ],
+    "description": [
+      "Beneath the main mast, a disintegrating hatch of iron with edges swollen by rust yawns into the hold below.  The deck before it is worn smooth by the passage of many feet over countless years.  Its greying planks and the steps leading down to the hold are weakened in places by splotches of black rot.  Air from below wafts up in cold gusts, laden with the perfume of lamp oil and a less pleasant sweetness of old decay."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "3668": "/rooms/35593/wayto/stringproc-3668.rb",
+      "35588": "go hatch",
+      "35594": "east",
+      "35603": "climb mast"
+    },
+    "timeto": {
+      "3668": "/rooms/35593/timeto/stringproc-3668.rb",
+      "35588": 0.2,
+      "35594": 0.2,
+      "35603": 0.2
+    },
+    "tags": [
+      "meta:teleport",
+      "meta:fwi:teleport",
+      "stalk of bluebells",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150607
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      4360,
+      680,
+      4440,
+      760
+    ]
+  }
+}

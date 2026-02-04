@@ -1,5 +1,5 @@
 {
-  "checksum": "5c70869499e7a69aca977da109c119a1",
+  "checksum": "12f6b6f653d54b851f1506c6fac90890",
   "room": {
     "id": 24764,
     "title": [
@@ -14,16 +14,21 @@
     "location": "Wehnimer's Landing",
     "wayto": {
       "15474": "east",
+      "24249": "go white door",
       "24765": "go glaes door",
       "24766": "go wooden door"
     },
     "timeto": {
       "15474": 0.2,
+      "24249": 0.2,
       "24765": 0.2,
       "24766": 0.2
     },
     "tags": [
       "meta:che:Helden Hall"
+    ],
+    "uid": [
+      212017
     ],
     "image": "wl-heldenhall-1502386358.png",
     "image_coords": [

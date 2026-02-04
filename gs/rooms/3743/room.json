@@ -1,5 +1,5 @@
 {
-  "checksum": "b15747b87cbb679193f69b99b9fb8ff2",
+  "checksum": "348ad86c6bac1d5d44dd9aa498f1c796",
   "room": {
     "id": 3743,
     "title": [
@@ -9,6 +9,7 @@
       "The serving maid stops in at each of the tables to check on her customers, and she nods a greeting in your direction.  The conversation is louder here, and someone's cigar adds to the smoky haze that fills one side of the room."
     ],
     "paths": [
+      "Obvious exits: east, west",
       "Obvious exits: west"
     ],
     "location": "Wehnimer's Landing",
@@ -18,7 +19,8 @@
       "17371": "/rooms/3743/wayto/stringproc-17371.rb",
       "17372": "/rooms/3743/wayto/stringproc-17372.rb",
       "17373": "/rooms/3743/wayto/stringproc-17373.rb",
-      "17374": "/rooms/3743/wayto/stringproc-17374.rb"
+      "17374": "/rooms/3743/wayto/stringproc-17374.rb",
+      "36008": "east"
     },
     "timeto": {
       "3740": 0.2,
@@ -26,7 +28,8 @@
       "17371": 0.2,
       "17372": 0.2,
       "17373": 0.2,
-      "17374": 0.2
+      "17374": 0.2,
+      "36008": 0.2
     },
     "uid": [
       109599

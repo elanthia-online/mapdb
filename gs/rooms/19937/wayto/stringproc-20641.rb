@@ -1,1 +1,1 @@
-multifput "search", "go trapdoor"
+multifput 'search', 'go trapdoor'

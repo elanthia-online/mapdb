@@ -1,0 +1,39 @@
+{
+  "checksum": "e91308c575693ce7d200ee72624b0046",
+  "room": {
+    "id": 35517,
+    "title": [
+      "[Tideswept Bazaar]"
+    ],
+    "description": [
+      "Glasstide roses bloom in fragile clusters secreted among the rocky walls, their translucent petals refracting the shifting light.  A jagged archway of stone marks the entrance to the bazaar that stretches over a soft, sandy bottom where rippling currents carve delicate patterns in the grains.  Vivid corals in deep blues, golds, and crimsons cling to the walls, their branching forms creating a labyrinth of color.  Schools of fish dart past drifting strands of sea flora swaying with the tide."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "35516": "go archway",
+      "35518": "ne",
+      "35526": "nw",
+      "35527": "go kelp curtain",
+      "35529": "go thick curtain",
+      "35531": "go coral-beaded curtain",
+      "35532": "go flag cavern",
+      "35568": "go spiraled staircase"
+    },
+    "timeto": {
+      "35516": 0.2,
+      "35518": 0.2,
+      "35526": 0.2,
+      "35527": 0.2,
+      "35529": 0.2,
+      "35531": 0.2,
+      "35532": 0.2,
+      "35568": 0.2
+    },
+    "uid": [
+      4410305
+    ]
+  }
+}

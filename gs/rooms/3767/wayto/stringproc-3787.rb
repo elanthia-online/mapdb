@@ -1,2 +1,2 @@
-fput "search"
-move "go crevice"
+fput 'search'
+move 'go crevice'

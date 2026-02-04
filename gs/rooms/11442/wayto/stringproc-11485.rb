@@ -1,2 +1,2 @@
-move "climb pathway"
+move 'climb pathway'
 fill_hands

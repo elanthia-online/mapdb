@@ -1,1 +1,1 @@
-move "go lake"
+move 'go lake'

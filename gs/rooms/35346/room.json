@@ -1,0 +1,35 @@
+{
+  "checksum": "c671b3b9047bbbdd25921a739f61911a",
+  "room": {
+    "id": 35346,
+    "title": [
+      "[Harbor's Echo Inn, Front Desk]"
+    ],
+    "description": [
+      "Arranged along the northern wall, a refurbished tobacco wood desk is attended by a young half-elven clerk who greets visitors and answers questions with aplomb.  Several hooks with either tags or keys hang upon the wall, each tidily labeled with a room number, and a wide cork message board allows visitors and locals to leave notes for one another.  The eastern and southern corridors lead toward the inn's guest rooms, while a door to the southeast offers egress."
+    ],
+    "paths": [
+      "Obvious exits: east, south, northwest, out"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35344": "northwest",
+      "35347": "east",
+      "35350": "south",
+      "35355": "out"
+    },
+    "timeto": {
+      "35344": 0.2,
+      "35347": 0.2,
+      "35350": 0.2,
+      "35355": 0.2
+    },
+    "tags": [
+      "inn",
+      "front desk"
+    ],
+    "uid": [
+      7142282
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "checksum": "1c6884400905db86673e6105f713c945",
+  "checksum": "200451c1380b10674a094fd773c5f196",
   "room": {
     "id": 6211,
     "title": [
@@ -16,6 +16,8 @@
       "Obvious exits: northeast, southeast"
     ],
     "location": "The Hidden Plateau",
+    "climate": "none",
+    "terrain": "none",
     "wayto": {
       "6200": "northeast",
       "6212": "/rooms/6211/wayto/stringproc-6212.rb"
@@ -37,8 +39,8 @@
       "bolmara lichen",
       "meta:forage-sensed",
       "wingstem root",
-      "meta:forage-sensed:night:2022-09",
-      "meta:forage-sensed:day:2025-02"
+      "meta:forage-sensed:day:2025-02",
+      "meta:forage-sensed:night:2025-06"
     ],
     "uid": [
       2167090

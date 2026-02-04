@@ -1,2 +1,1 @@
-move "climb hole"
-waitrt?
+move 'climb hole'; waitrt?

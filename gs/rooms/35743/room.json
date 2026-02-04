@@ -1,0 +1,39 @@
+{
+  "checksum": "5410fa5e5a74b32faaeb7830ab57741c",
+  "room": {
+    "id": 35743,
+    "title": [
+      "[The Tonbury, Forward Hold]"
+    ],
+    "description": [
+      "A faint rotten egg tang lingers on the heavy air of the hold, which has largely been denuded of its cargo, ill-secured by its entry hatch.  Empty ring bolts gape from waterlogged oak beams where crates and barrels once clustered.  The grooves between drowned planks are lined with barnacles and pale tunicates, while shards of shell and bits of frayed rope drift in shallow pools."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35742": "go hatch",
+      "35744": "east"
+    },
+    "timeto": {
+      "35742": 0.2,
+      "35744": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150532
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1000,
+      3240,
+      1080,
+      3320
+    ]
+  }
+}

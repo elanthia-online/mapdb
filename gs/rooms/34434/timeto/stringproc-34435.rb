@@ -1,1 +1,1 @@
-((UserVars.Cuddfan_Hollow.to_s != "true") ? nil : 0.2)
+(UserVars.Cuddfan_Hollow.to_s != 'true' ? nil : 0.2)

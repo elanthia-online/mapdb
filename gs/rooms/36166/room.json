@@ -1,0 +1,36 @@
+{
+  "checksum": "05b39c03ea71cb633c0d94de4bb152aa",
+  "room": {
+    "id": 36166,
+    "title": [
+      "[Lake Pass, Rickety Shack]"
+    ],
+    "description": [
+      "Creaking and shifting incessantly, the elm wooden walls and roof, and even the rotting doorway, of the shack appear to be hanging on to the very edge of total collapse.  A short jagged-edge table stands in the center of the room, with two rickety chairs framing its length.  Along the rear wall, a makeshift chimney is filled with soot and burnt, decayed remains, and the air is filled with an overwhelming amount of dust and a sharp, rancid stench."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Finders Keepers, inside the elven city of Ta'Illistim",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "36165": "go doorway",
+      "36167": "/rooms/36166/wayto/stringproc-36167.rb"
+    },
+    "timeto": {
+      "36165": 0.2,
+      "36167": 0.2
+    },
+    "tags": [
+      "private property",
+      "stalk of bluebells",
+      "wild sage",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-12"
+    ],
+    "uid": [
+      2009502
+    ]
+  }
+}

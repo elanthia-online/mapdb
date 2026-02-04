@@ -1,0 +1,31 @@
+{
+  "checksum": "05b092467c5e36d79e4b2f281313e0e3",
+  "room": {
+    "id": 35581,
+    "title": [
+      "[Nautilus, Heart of the Spiral]"
+    ],
+    "description": [
+      "The mammoth shell's curvature pinches inward before widening into the rounded chamber at the heart of the spiral.  Bands of ammolite ripple across the interior, their iridescence preserved in fossilized stillness.  A jagged fissure bisects one arc, leading back to the mouth of the nautilus.  Opposite it, a lush curtain of glistening sea grapes conceals one segment, adjacent to a shadowed alcove enshrouded in lacy glassthread vines.  To the southeast and southwest, twin gaps lead to where the shell's whorling geometry stretches outward into another pair of cells."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "35580": "go jagged fissure",
+      "35582": "sw",
+      "35583": "go lush curtain",
+      "35584": "se"
+    },
+    "timeto": {
+      "35580": 0.2,
+      "35582": 0.2,
+      "35583": 0.2,
+      "35584": 0.2
+    },
+    "uid": [
+      4410491
+    ]
+  }
+}

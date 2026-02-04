@@ -1,1 +1,1 @@
-move "go beach"
+move 'go beach'

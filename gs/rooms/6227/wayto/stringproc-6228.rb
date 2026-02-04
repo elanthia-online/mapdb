@@ -1,1 +1,1 @@
-move "climb path"
+move 'climb path'

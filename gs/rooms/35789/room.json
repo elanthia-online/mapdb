@@ -1,0 +1,29 @@
+{
+  "checksum": "073a66826f126195006e788f0da19b6c",
+  "room": {
+    "id": 35789,
+    "title": [
+      "[Drunken D'Wharf, Private Pier]"
+    ],
+    "description": [
+      "The pier juts out from the shoreline into foamy waters, its thick beams aged from years of salt spray.  A teak-framed tavern with a slanted roof of slate tiles stands atop sturdy beams driven deep into the seabed.  Smoke curls from the chimney of a bustling workshop, carrying the scent of burning wood and forge fire.  Iron rings are embedded into the edge of the pier, anchoring thick ropes that stretch toward a two-masted brigantine.  Bridging the gap between ship and shore, a gangplank rests, its boards worn smooth by countless boots."
+    ],
+    "paths": [
+      "Obvious paths: out"
+    ],
+    "location": "Drunken D'Wharf, inside the island town of Mist Harbor",
+    "wayto": {
+      "35780": "out",
+      "35790": "go gangplank",
+      "35791": "go tavern"
+    },
+    "timeto": {
+      "35780": 0.2,
+      "35790": 0.2,
+      "35791": 0.2
+    },
+    "uid": [
+      2014102
+    ]
+  }
+}

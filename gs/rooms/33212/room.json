@@ -1,5 +1,5 @@
 {
-  "checksum": "9d489350e9a053b30caf7dc1d0a3615c",
+  "checksum": "471af2dceb7c1b5439b820c0f1f4772e",
   "room": {
     "id": 33212,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "the Lost Home",
     "wayto": {
-      "33211": "pull ring"
+      "33211": "pull ring",
+      "36090": "go curtained opening"
     },
     "timeto": {
-      "33211": 0.2
+      "33211": 0.2,
+      "36090": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       13112213

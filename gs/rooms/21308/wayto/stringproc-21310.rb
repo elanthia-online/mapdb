@@ -1,1 +1,1 @@
-fput "pull lever"
+fput 'pull lever'

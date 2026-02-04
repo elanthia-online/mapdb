@@ -1,5 +1,5 @@
 {
-  "checksum": "7b7afa39eabef791c98c9614af475a6a",
+  "checksum": "ed538c85779d2ae8fdc27a9278f27944",
   "room": {
     "id": 29737,
     "title": [
@@ -13,13 +13,15 @@
     ],
     "location": "the Lost Home",
     "wayto": {
-      "13274": "go arch"
+      "13274": "go arch",
+      "35981": "pull sconce"
     },
     "timeto": {
-      "13274": 0.2
+      "13274": 0.2,
+      "35981": 0.2
     },
-    "tags": [
-      "bhalocker"
+    "uid": [
+      13112116
     ]
   }
 }

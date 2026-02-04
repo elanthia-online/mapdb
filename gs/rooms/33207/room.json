@@ -1,5 +1,5 @@
 {
-  "checksum": "20af6960e0f9a6331c703afe0347277d",
+  "checksum": "fc2cf09e9454d28ff27f137d50e1c510",
   "room": {
     "id": 33207,
     "title": [
@@ -13,13 +13,17 @@
     ],
     "location": "Zul Logoth",
     "wayto": {
-      "28675": "go arch"
+      "28675": "go brass arch",
+      "36087": "go curtain"
     },
     "timeto": {
-      "28675": 0.2
+      "28675": 0.2,
+      "36087": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker",
+      "meta:che:rone_academy:entrance_annex"
     ],
     "uid": [
       13010152

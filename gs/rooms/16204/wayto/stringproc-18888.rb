@@ -1,2 +1,1 @@
-fput "push shield"
-move "go door"
+fput 'push shield'; move 'go door'

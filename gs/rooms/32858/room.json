@@ -1,11 +1,12 @@
 {
-  "checksum": "529c67e48f0da6657b150ede41309e9f",
+  "checksum": "d98477c0ea64351a15d4d0a7bd731936",
   "room": {
     "id": 32858,
     "title": [
       "[Silvergate Annex]"
     ],
     "description": [
+      "Silvery moonlight floods through glass doors adorned by pale green sheers.  A tri-fold crystal mirror rests beside a rose-carved pearwood archway opposite an Inn News chalkboard.  Silver flyrsilk covers the sofa and armchairs grouped upon a floral-patterned paeline rug.  Dominating the far wall is a large oil painting above a marble-topped long pearwood sideboard holding a pair of glowing brass candle lanterns.  A polished brass bin sits beside a pale jade ramie silk curtain embroidered with the Silvergate Inn crest.",
       "Pale green sheers billow in the breeze from open glass doors guarded by a wrought iron step balcony.  A tri-fold crystal mirror rests beside a rose-carved pearwood archway opposite an Inn News chalkboard.  Silver flyrsilk covers the sofa and armchairs grouped upon a floral-patterned paeline rug.  Dominating the far wall is a large oil painting above a marble-topped long pearwood sideboard.  A polished brass bin sits beside a pale jade ramie silk curtain embroidered with the Silvergate Inn crest."
     ],
     "paths": [
@@ -14,14 +15,16 @@
     "location": "Cysaegir",
     "wayto": {
       "32844": "go ramie curtain",
-      "32859": "go archway"
+      "32859": "go pearwood archway"
     },
     "timeto": {
       "32844": 0.2,
       "32859": 0.2
     },
     "tags": [
-      "meta:locker annex:Silvergate Inn"
+      "meta:locker annex:Silvergate Inn",
+      "meta:che:silvergate_inn:entrance_annex",
+      "meta:che:silvergate_inn:entrance_locker"
     ],
     "uid": [
       2174040

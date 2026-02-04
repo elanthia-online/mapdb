@@ -1,5 +1,5 @@
 {
-  "checksum": "ce0d21f057068dd1c7ed1735b9d0374b",
+  "checksum": "b71530f8f3dbe378fc3ca00418c23c63",
   "room": {
     "id": 33210,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "Ta'Vaalor",
     "wayto": {
-      "33209": "pull ring"
+      "33209": "pull mithglin ring",
+      "36091": "go curtained opening"
     },
     "timeto": {
-      "33209": 0.2
+      "33209": 0.2,
+      "36091": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       14109212

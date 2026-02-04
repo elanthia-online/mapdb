@@ -1,3 +1,1 @@
-pause 0.2
-waitrt?
-fput "push s"
+pause 0.2; waitrt?; fput 'push s'

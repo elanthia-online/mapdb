@@ -1,5 +1,5 @@
 {
-  "checksum": "243e9900ad27a448219897b4b725776c",
+  "checksum": "585b7c5e2334556e60a0afedc3478aeb",
   "room": {
     "id": 24509,
     "title": [
@@ -15,17 +15,18 @@
     ],
     "location": "the Lost Home",
     "wayto": {
+      "24507": "out",
       "24510": "go arch",
-      "27013": "out",
       "28714": "go curtained opening"
     },
     "timeto": {
+      "24507": 0.2,
       "24510": 0.2,
-      "27013": 0.2,
       "28714": 0.2
     },
     "tags": [
-      "meta:locker annex:Twilight Hall"
+      "meta:locker annex:Twilight Hall",
+      "meta:che:twilight_hall:entrance_locker"
     ],
     "uid": [
       13112522

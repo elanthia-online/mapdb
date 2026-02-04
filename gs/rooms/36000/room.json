@@ -1,0 +1,30 @@
+{
+  "checksum": "a7c01cb2e6b4d3a2d2fe3b7fce692320",
+  "room": {
+    "id": 36000,
+    "title": [
+      "[The Armor Lounge]"
+    ],
+    "description": [
+      "The massive granite hearth is flanked by two sets of gleaming armor.  The rich hardwood floor is covered with a small area rug embroidered with repeating patterns of red and white.  Comfortable looking oak chairs are scattered about the room, several pulled close to the hearth as if waiting to share in quiet conversation.  Two large broadswords are mounted above the mantel, their blades crossed, their edges sparkling in the firelight."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "13271": "go arch",
+      "36001": "pull candle sconce"
+    },
+    "timeto": {
+      "13271": 0.2,
+      "36001": 0.2
+    },
+    "tags": [
+      "meta:che:helden_hall:entrance_annex"
+    ],
+    "uid": [
+      13112110
+    ]
+  }
+}

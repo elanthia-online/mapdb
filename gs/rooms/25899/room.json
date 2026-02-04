@@ -1,11 +1,12 @@
 {
-  "checksum": "7bf8f65e4b5cafcbc2dbcbf71de7183c",
+  "checksum": "f73c923910d457b35b1ae367b950d6fe",
   "room": {
     "id": 25899,
     "title": [
       "[Summit Academy, South Ellipse]"
     ],
     "description": [
+      "A current of warm air flows from the walkway that winds south beneath an arched canopy of trees.  As it mixes with the frosty air, a constant breeze swirls through the area.  A narrow flagstone path splits as it leads to both a tile-roofed manor house and a thatch-roofed cobblestone cottage.",
       "A current of warm air flows from the walkway that winds south beneath an arched canopy of trees.  As it mixes with the frosty air, a constant breeze swirls through the area.  A narrow flagstone path leads up to a tile-roofed manor house."
     ],
     "paths": [
@@ -13,18 +14,18 @@
     ],
     "location": "Summit Academy",
     "wayto": {
-      "25898": "northwest",
       "25900": "go house",
       "25916": "north",
       "28088": "go walkway",
-      "34466": "northeast"
+      "34466": "northeast",
+      "35455": "northwest"
     },
     "timeto": {
-      "25898": 0.2,
       "25900": 0.2,
       "25916": 0.2,
       "28088": 0.2,
-      "34466": 0.2
+      "34466": 0.2,
+      "35455": 0.2
     },
     "uid": [
       8211303

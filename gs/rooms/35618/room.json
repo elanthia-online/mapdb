@@ -1,0 +1,40 @@
+{
+  "checksum": "fc3f3bf63f069cbe9e9396c24cdf9fcc",
+  "room": {
+    "id": 35618,
+    "title": [
+      "[The Mageborn, Hold]"
+    ],
+    "description": [
+      "Set into a bulkhead streaked with rust and choked with barnacles, a corroded hatch has been rusted open.  Ribbons of salt water pour over its threshold, plinking into the larger body of seawater that occupies much of the hold.  Waterlogged fragments of old vellum charts drift near the surface, though their inks have run to a point past uselessness.  Overhead, a single ship's lantern hangs, its light long since gone out."
+    ],
+    "paths": [
+      "Obvious exits: southeast"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35614": "southeast",
+      "35619": "go hatch"
+    },
+    "timeto": {
+      "35614": 0.2,
+      "35619": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10",
+      "meta:splashy"
+    ],
+    "uid": [
+      7150508
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1480,
+      2280,
+      1560,
+      2360
+    ]
+  }
+}

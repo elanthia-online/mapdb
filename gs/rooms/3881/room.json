@@ -1,5 +1,5 @@
 {
-  "checksum": "130b768c268d325dc10ead6f300007cf",
+  "checksum": "31a6093b3b18f36225c074134c709ad7",
   "room": {
     "id": 3881,
     "title": [
@@ -13,8 +13,8 @@
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "3879": "go gate",
-      "3880": "go doors",
+      "3879": "go wrought-iron gate",
+      "3880": "go oaken doors",
       "15473": "go hut",
       "15680": "go stables",
       "17697": "go tree"
@@ -31,7 +31,11 @@
       "meta:mapshortname:Helden Hall",
       "meta:mapcategory:Wehnimer's Landing",
       "meta:mapcategory:CHE",
-      "meta:che:Helden Hall"
+      "meta:che:Helden Hall",
+      "meta:che:helden_hall:entrance_che"
+    ],
+    "uid": [
+      212002
     ],
     "image": "wl-heldenhall-1502386358.png",
     "image_coords": [

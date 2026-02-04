@@ -1,5 +1,5 @@
 {
-  "checksum": "b348caae9f71a63aeaaf983c54d0b60d",
+  "checksum": "258b44043e3a11dc8c8c76ffed570784",
   "room": {
     "id": 33214,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "the town of Kharam-Dzu",
     "wayto": {
-      "33213": "pull lever"
+      "33213": "pull small lever",
+      "36088": "go curtain"
     },
     "timeto": {
-      "33213": 0.2
+      "33213": 0.2,
+      "36088": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       3003124

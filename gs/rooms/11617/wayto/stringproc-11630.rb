@@ -1,6 +1,1 @@
-fput "search"
-move "go path"
-move "northwest"
-move "southeast"
-move "northwest"
-move "northeast"
+fput 'search';move 'go path';move 'northwest';move 'southeast';move 'northwest';move 'northeast'

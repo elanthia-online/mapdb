@@ -1,0 +1,34 @@
+{
+  "checksum": "30fdd076860d716506e928dc4ccb9c4d",
+  "room": {
+    "id": 35862,
+    "title": [
+      "[River Muagh, Waterfall]"
+    ],
+    "description": [
+      "Crashing down a rocky, moss-covered ridge to the south, a towering waterfall pours into a wide pool that feeds into the River Muagh as the current sweeps it north.   A verdant bank flanks a rugged wooden dock, which looks oddly out of place amid the foliage."
+    ],
+    "paths": [
+      "Obvious paths: north"
+    ],
+    "location": "the River Muagh",
+    "wayto": {
+      "35861": "/rooms/35862/wayto/stringproc-35861.rb",
+      "35863": "go wooden dock"
+    },
+    "timeto": {
+      "35861": 0.2,
+      "35863": 0.2
+    },
+    "uid": [
+      3024017
+    ],
+    "image": "ti-kragnek_dzu-1761314324.png",
+    "image_coords": [
+      261,
+      1026,
+      297,
+      1063
+    ]
+  }
+}

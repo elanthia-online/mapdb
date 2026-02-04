@@ -1,1 +1,1 @@
-UserVars.Shivergale.nil? ? nil : 0.2
+UserVars.Shivergale.nil? ? nil : 0.2;

@@ -1,0 +1,44 @@
+{
+  "checksum": "19a30055fe8df0ec1d81dbd87a2054e4",
+  "room": {
+    "id": 36021,
+    "title": [
+      "[Halan Lea, Rundling Green]"
+    ],
+    "description": [
+      "Positioned along the southeastern edge, a bright white felt ger and a ruddy dumpling-shaped ger face a web of narrow trails that branch into different parts of the village.  Beyond their circular forms, the grasslands rise and fall in long, wind-shaped waves.  Directly opposite, a line of alternating larch and birch steps climbs the hillside, each tread set into the earth in a steady progression that leads toward the gathering space above."
+    ],
+    "paths": [
+      "Obvious paths: north, southeast, southwest, west"
+    ],
+    "location": "Northern Steppes",
+    "wayto": {
+      "36020": "west",
+      "36022": "north",
+      "36033": "go larch steps",
+      "36044": "southwest",
+      "36045": "go white ger",
+      "36046": "go dumpling-shaped ger",
+      "36047": "southeast"
+    },
+    "timeto": {
+      "36020": 0.2,
+      "36022": 0.2,
+      "36033": 0.2,
+      "36044": 0.2,
+      "36045": 0.2,
+      "36046": 0.2,
+      "36047": 0.2
+    },
+    "uid": [
+      8022004
+    ],
+    "image": "fest-white_star-1765071445.png",
+    "image_coords": [
+      531,
+      356,
+      574,
+      395
+    ]
+  }
+}

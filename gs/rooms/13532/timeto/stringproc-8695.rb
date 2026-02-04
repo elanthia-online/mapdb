@@ -1,1 +1,1 @@
-($SILVERWOOD_TOWN == :wl) ? 0.2 : nil
+$SILVERWOOD_TOWN == :wl ? 0.2 : nil

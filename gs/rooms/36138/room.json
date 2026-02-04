@@ -1,0 +1,30 @@
+{
+  "checksum": "0547d2073f0908f0346ca99716f3ad55",
+  "room": {
+    "id": 36138,
+    "title": [
+      "[House Arcane, Cubby]"
+    ],
+    "description": [
+      "This small antechamber to the locker area is lighted by a simple brass oil lamp.  The walls, crafted from smooth panels of yew wood, are bare of any adornment.  A plain cotton rug muffles your footsteps."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "River's Rest",
+    "wayto": {
+      "36137": "east",
+      "36139": "go beaded curtain"
+    },
+    "timeto": {
+      "36137": 0.2,
+      "36139": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_locker"
+    ],
+    "uid": [
+      5001073
+    ]
+  }
+}

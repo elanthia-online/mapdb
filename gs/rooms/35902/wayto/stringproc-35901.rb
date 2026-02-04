@@ -1,0 +1,1 @@
+fput('get chain'); fput('push chain')

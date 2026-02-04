@@ -1,5 +1,5 @@
 {
-  "checksum": "06d035fa96ae558d2e3891c6b6a11dbc",
+  "checksum": "b89456b1520bfd0c05bd0b09ae22a14a",
   "room": {
     "id": 34619,
     "title": [
@@ -15,15 +15,27 @@
     "wayto": {
       "34618": "southwest",
       "34620": "south",
-      "34621": "southeast"
+      "34621": "southeast",
+      "34779": "go gate"
     },
     "timeto": {
       "34618": 0.2,
       "34620": 0.2,
-      "34621": 0.2
+      "34621": 0.2,
+      "34779": 0.2
     },
+    "tags": [
+      "gate"
+    ],
     "uid": [
       4572001
+    ],
+    "image": "Sablecross_1200_911.jpg",
+    "image_coords": [
+      452,
+      54,
+      480,
+      84
     ]
   }
 }

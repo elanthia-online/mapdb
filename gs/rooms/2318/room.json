@@ -1,11 +1,12 @@
 {
-  "checksum": "d2a61c1e40d1f15d09cbf54e4a079f9a",
+  "checksum": "af9fac004381bd1a88511ae394986054",
   "room": {
     "id": 2318,
     "title": [
       "[Temple Burrow, Cholen Lane]"
     ],
     "description": [
+      "A glassy sheet of ice slicks half of the cobblestone street.  On the north side of the encroaching glacier, a wide porch joins several homes carved into the ice, lights from within making the surrounding slope glow with golden hues.  Carvings decorate the lintels of the doors, and several houses display small ice statues on their roofs.  One yard sports a small snowman with a crooked carrot for a nose.",
       "A glassy sheet of ice slicks half of the cobblestone street.  Several homes on the north side are dug into the ice of the encroaching glacier, lights from within making the surrounding slope glow with golden hues.  Carvings decorate the lintels of the doors, and several houses display small ice statues on their roofs.  One yard sports a small snowman with a crooked carrot for a nose.",
       "Ice covers half of this street.  Several houses on the north side are carved from the glacier, lights from within making the whole building glow with golden ambiance.  Carvings decorate the lintels of the doors, and several houses display small ice statues on their roofs."
     ],
@@ -18,12 +19,14 @@
     "wayto": {
       "2306": "south",
       "2319": "northeast",
-      "2321": "west"
+      "2321": "west",
+      "35471": "go porch"
     },
     "timeto": {
       "2306": 0.2,
       "2319": 0.2,
-      "2321": 0.2
+      "2321": 0.2,
+      "35471": 0.2
     },
     "tags": [
       "calmintha flower",

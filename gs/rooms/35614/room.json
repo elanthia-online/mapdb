@@ -1,0 +1,44 @@
+{
+  "checksum": "6cbd61def93e077d5ab7b1c10f3e62d0",
+  "room": {
+    "id": 35614,
+    "title": [
+      "[The Mageborn, Hold]"
+    ],
+    "description": [
+      "Seawater surges and ebbs, battering rotted support beams in the darkness of the hold.  Broken crates float amid drifting seaweed that fills the space with the sweetness of decay, though a few still secured to the deck by tortured lines are stacked to allow access to a rusted iron hatch.  Faint twinkles of starlight beckon from cracks between the planks overhead, casting silvery luminescence across bulkheads crawling with algae.  The ceaseless rocking of the ship sends concentric waves rippling across black water."
+    ],
+    "paths": [
+      "Obvious exits: southeast, northwest"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35613": "go hatch",
+      "35615": "southeast",
+      "35618": "northwest",
+      "35727": "/rooms/35614/wayto/stringproc-35727.rb"
+    },
+    "timeto": {
+      "35613": 0.2,
+      "35615": 0.2,
+      "35618": 0.2,
+      "35727": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10",
+      "meta:splashy"
+    ],
+    "uid": [
+      7150507
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1640,
+      2440,
+      1720,
+      2520
+    ]
+  }
+}

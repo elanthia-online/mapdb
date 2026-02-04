@@ -1,2 +1,1 @@
-fput "stance def"
-move("jump")
+fput 'stance def';move('jump')

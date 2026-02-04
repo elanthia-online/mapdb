@@ -1,0 +1,31 @@
+{
+  "checksum": "36072336bc0010ed6528cf44d20e0219",
+  "room": {
+    "id": 35790,
+    "title": [
+      "[Whiskey or Bust, Deck]"
+    ],
+    "description": [
+      "The vessel's deck is laid with sturdy planks of dark oak, worn smooth by years of boots and brine.  The central mast rises like a spine from the heart of the ship, thick with rigging and taut lines.  Mid-deck, a wide hatch sits flush with the planks, its iron handles used to lift the heavy cover.  At the stern, the captain's wheel stands, forged of iron-braced wood, its grip worn from constant use.  Behind the wheel is a stout wooden door set into the sterncastle opposite a gangplank leading to the pier below."
+    ],
+    "paths": [
+      "Obvious paths: none"
+    ],
+    "location": "Drunken D'Wharf, inside the island town of Mist Harbor",
+    "wayto": {
+      "35789": "go gangplank",
+      "35792": "go door",
+      "35793": "go hatch",
+      "35795": "go mast"
+    },
+    "timeto": {
+      "35789": 0.2,
+      "35792": 0.2,
+      "35793": 0.2,
+      "35795": 0.2
+    },
+    "uid": [
+      2014107
+    ]
+  }
+}

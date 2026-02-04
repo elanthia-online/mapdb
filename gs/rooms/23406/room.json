@@ -1,5 +1,5 @@
 {
-  "checksum": "302717f2d72cdbbefef5dc1822559ae6",
+  "checksum": "912d5919961dace91802e90bd1d83b10",
   "room": {
     "id": 23406,
     "title": [
@@ -15,8 +15,8 @@
     "climate": "none",
     "terrain": "none",
     "wayto": {
-      "23405": "northeast",
-      "23407": "southwest"
+      "23405": "/rooms/23406/wayto/stringproc-23405.rb",
+      "23407": "/rooms/23406/wayto/stringproc-23407.rb"
     },
     "timeto": {
       "23405": 0.2,

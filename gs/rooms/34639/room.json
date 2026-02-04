@@ -1,5 +1,5 @@
 {
-  "checksum": "ce7685535156e2f2b18bc77bcda6418a",
+  "checksum": "60c12496bec98b1a25189af5931a2af4",
   "room": {
     "id": 34639,
     "title": [
@@ -14,14 +14,23 @@
     "location": "Sablecross",
     "wayto": {
       "34620": "north",
-      "34638": "south"
+      "34638": "south",
+      "35238": "go tannery"
     },
     "timeto": {
       "34620": 0.2,
-      "34638": 0.2
+      "34638": 0.2,
+      "35238": 0.2
     },
     "uid": [
       4572003
+    ],
+    "image": "Sablecross_1200_911.jpg",
+    "image_coords": [
+      449,
+      208,
+      480,
+      238
     ]
   }
 }

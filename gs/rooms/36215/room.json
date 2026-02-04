@@ -1,0 +1,27 @@
+{
+  "checksum": "fdb854113b888024968a7ee25a73ae1e",
+  "room": {
+    "id": 36215,
+    "title": [
+      "[The Crossroads]"
+    ],
+    "description": [
+      "The soft white mist that seems to sparkle with a faint glow lazily reaches this far and continues to extend in every direction as far as you can see, and several new portals open up before you, leading to mysterious places.  Which will you approach next?"
+    ],
+    "paths": [
+      "Obvious paths: northeast, east, southeast, southwest, west, northwest"
+    ],
+    "location": "the twin spires of Thanatoph",
+    "wayto": {
+      "36213": "go corridor",
+      "36216": "ne"
+    },
+    "timeto": {
+      "36213": 0.2,
+      "36216": 0.2
+    },
+    "uid": [
+      4290026
+    ]
+  }
+}

@@ -1,2 +1,1 @@
-2.times { fput "quest transport duskruin" }
-UserVars.mapdb_duskruin_origin = 4651
+2.times{fput "event transport duskruin"};UserVars.mapdb_duskruin_origin = 4651;

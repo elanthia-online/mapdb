@@ -1,4 +1,1 @@
-empty_hands
-move "climb landslide"
-waitrt?
-fill_hands
+empty_hands; move 'climb landslide'; waitrt?; fill_hands

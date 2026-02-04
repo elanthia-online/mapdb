@@ -1,1 +1,1 @@
-fput "go shed"
+fput 'go shed'

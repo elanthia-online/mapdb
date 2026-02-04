@@ -1,1 +1,1 @@
-UserVars.sunset_cabin.nil? ? nil : 0.2
+UserVars.sunset_cabin.nil? ? nil : 0.2;

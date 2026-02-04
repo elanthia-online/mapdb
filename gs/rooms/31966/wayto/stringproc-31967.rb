@@ -1,3 +1,1 @@
-fput "search"
-waitrt?
-move("go steps")
+fput 'search';waitrt?;move('go steps')

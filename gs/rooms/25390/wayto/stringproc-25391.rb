@@ -1,2 +1,1 @@
-fput "stand"
-fput "out"
+fput 'stand'; fput 'out'

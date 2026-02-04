@@ -1,3 +1,3 @@
 empty_hands
-move "climb wall"
+move 'climb wall'
 fill_hands

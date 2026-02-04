@@ -1,5 +1,5 @@
 {
-  "checksum": "7e87350f2b1953bdf0a745f57bd74175",
+  "checksum": "0e35c10537c601e05925368515439b75",
   "room": {
     "id": 33201,
     "title": [
@@ -13,15 +13,19 @@
     ],
     "location": "Solhaven",
     "wayto": {
-      "30753": "go arch",
-      "33202": "north"
+      "30753": "go pine door",
+      "33202": "north",
+      "36084": "go curtained opening"
     },
     "timeto": {
       "30753": 0.2,
-      "33202": 0.2
+      "33202": 0.2,
+      "36084": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_annex",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       4219462

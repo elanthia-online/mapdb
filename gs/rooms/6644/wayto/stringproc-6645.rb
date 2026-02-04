@@ -1,2 +1,1 @@
-move "north"
-move "west" unless checkpaths.include?("e")
+move 'north'; move 'west' unless checkpaths.include?('e')

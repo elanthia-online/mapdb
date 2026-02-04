@@ -1,1 +1,1 @@
-move "northwest"
+move 'northwest'

@@ -1,2 +1,1 @@
-move "climb upward stairs"
-waitrt?
+move 'climb upward stairs'; waitrt?

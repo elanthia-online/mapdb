@@ -1,1 +1,1 @@
-multifput "touch rock", "go gaping hole"
+multifput 'touch rock', 'go gaping hole'

@@ -1,3 +1,1 @@
-pause 0.2
-waitrt?
-fput "go tree"
+pause 0.2; waitrt?; fput 'go tree'

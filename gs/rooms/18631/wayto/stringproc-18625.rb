@@ -1,2 +1,1 @@
-move "out"
-move "east"
+move 'out'; move 'east'

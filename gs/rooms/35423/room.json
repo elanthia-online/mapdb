@@ -1,0 +1,32 @@
+{
+  "checksum": "a94e80fd0e70477119ea63f930ee1439",
+  "room": {
+    "id": 35423,
+    "title": [
+      "[Rust and Rivet Locksmithing Co.]"
+    ],
+    "description": [
+      "Moonlight glistens in the wide windows at the front of the shop, casting silvery light across a workbench cluttered with tools, unfinished lockpicks, and keys.  A small brass bell above the door rings softly with each entry, blending into the faint clatter.  Bins of spare parts and coils of twine line nearby shelves, while hooks on the walls display lock mechanisms and key blanks.  The floor is scuffed but clean, with scattered marks hinting at years of steady foot traffic."
+    ],
+    "paths": [
+      "Obvious exits: southwest, out"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35332": "out",
+      "35424": "southwest"
+    },
+    "timeto": {
+      "35332": 0.2,
+      "35424": 0.2
+    },
+    "tags": [
+      "locksmith",
+      "npclocksmith",
+      "npc locksmith"
+    ],
+    "uid": [
+      7142357
+    ]
+  }
+}

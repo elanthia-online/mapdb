@@ -1,1 +1,1 @@
-multifput "go darkened alleyway", "go darkened alleyway"
+multifput 'go darkened alleyway', 'go darkened alleyway'

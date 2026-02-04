@@ -1,0 +1,39 @@
+{
+  "checksum": "c2931f4b4d6cb72ec047883a15de1e82",
+  "room": {
+    "id": 35589,
+    "title": [
+      "[The Contempt, Orlop Deck]"
+    ],
+    "description": [
+      "Harsh daylight burns through the gun ports to either side of the broad orlop deck, catching on the shapes of cannons slumped under the weight of disuse.  Cannonballs rattle in racks beside them, but they, too, are spotted with streaks of rust, with thin threads of cobweb spanning the spaces between them.  Moldering bulkheads frame a cabin set off from the walkway with a carved black oak hatch serving as its entrance."
+    ],
+    "paths": [
+      "Obvious exits: east, west"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35588": "west",
+      "35590": "east",
+      "35602": "go hatch"
+    },
+    "timeto": {
+      "35588": 0.2,
+      "35590": 0.2,
+      "35602": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7150612
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      4200,
+      1000,
+      4280,
+      1080
+    ]
+  }
+}

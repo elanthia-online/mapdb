@@ -1,1 +1,1 @@
-move "go glass door"
+move 'go glass door'

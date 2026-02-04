@@ -1,0 +1,39 @@
+{
+  "checksum": "68b4b61a6d0b8556418052af87f466f1",
+  "room": {
+    "id": 35697,
+    "title": [
+      "[Moghreb Jungle, Ruin]"
+    ],
+    "description": [
+      "Creeping vines cascade down the walls, their thorny coils as threatening as their vibrant white blossoms are lovely.  They twist about the base of a crumbling statue of ivory that has been stained the color of dark honey by the passage of years.  Along the walls, decorative carvings are worn almost smooth by the elements and ages, colored by only teasing hints of the pigments that once illuminated them."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35631": "go vines",
+      "35696": "northwest",
+      "35698": "northeast"
+    },
+    "timeto": {
+      "35631": 0.2,
+      "35696": 0.2,
+      "35698": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7150209
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      2760,
+      2280,
+      2840,
+      2360
+    ]
+  }
+}

@@ -1,2 +1,1 @@
-fput "push eye"
-move "go opening"
+fput 'push eye'; move 'go opening'

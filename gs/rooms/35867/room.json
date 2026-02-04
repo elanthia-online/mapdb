@@ -1,0 +1,34 @@
+{
+  "checksum": "402410b56a04dfd52a49c922f2e3d468",
+  "room": {
+    "id": 35867,
+    "title": [
+      "[Kragnek-Dzu, Vestibule]"
+    ],
+    "description": [
+      "An invar-banded gate rests in a half-opened position, at the ready to barricade the settlement against the wild denizens of Teras Isle.  Opposite the gate, a raised invar portcullis serves as the second line of defense, its sharp tines held in position above the cobblestone threshold leading into Kragnek Dzu."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the River Muagh",
+    "wayto": {
+      "35866": "go invar-banded gate",
+      "35868": "go invar portcullis"
+    },
+    "timeto": {
+      "35866": 0.2,
+      "35868": 0.2
+    },
+    "uid": [
+      3024104
+    ],
+    "image": "ti-kragnek_dzu-1761314324.png",
+    "image_coords": [
+      401,
+      1247,
+      439,
+      1285
+    ]
+  }
+}

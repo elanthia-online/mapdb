@@ -1,1 +1,1 @@
-Spell[112].active? ? move("southwest") : move("swim southwest")
+if Spell[112].active?; move 'southwest';else; move 'swim southwest';end

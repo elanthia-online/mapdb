@@ -1,2 +1,1 @@
-fput "search"
-move "go trail"
+fput 'search'; move 'go trail'

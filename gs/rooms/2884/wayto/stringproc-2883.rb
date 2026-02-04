@@ -1,1 +1,1 @@
-move "climb outcropping"
+move 'climb outcropping'

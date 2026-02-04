@@ -1,1 +1,1 @@
-move "south" while Room.current.id == 3035
+move 'south' while Room.current.id == 3035

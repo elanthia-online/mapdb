@@ -1,11 +1,12 @@
 {
-  "checksum": "76ef70c2993af4c797fbd25e086c999b",
+  "checksum": "99033ae14a92a38507e0cc64f348069c",
   "room": {
     "id": 31723,
     "title": [
       "[The Graveyard Temporalis]"
     ],
     "description": [
+      "Debris of broken tree limbs and crumbling monuments litter the ground, with the heavy and low-lying mist trickling between the stones and over the branches in thin tendrils that swirl and collect in eddies before flowing onward.  On one haphazardly leaning gravestone, a single raven is perched, though it barely seems to move, only wavers as if the shifting lights of the colorful undulating sky are playing tricks on the eye.  Nearby is an old stone chapel, its white-painted face a pale beacon in the gloom.",
       "Debris of broken tree limbs and crumbling monuments litter the ground, with the heavy and low-lying mist trickling between the stones and over the branches in thin tendrils that swirl and collect in eddies before flowing onward.  On one haphazardly leaning gravestone, a single raven is perched, though it barely seems to move, only wavers as if the shifting lights of the colorful undulating sky are playing tricks on the eye."
     ],
     "paths": [
@@ -14,11 +15,13 @@
     "location": "Evermore Hollow",
     "wayto": {
       "31722": "east",
-      "31724": "west"
+      "31724": "west",
+      "35824": "go stone chapel"
     },
     "timeto": {
       "31722": 0.2,
-      "31724": 0.2
+      "31724": 0.2,
+      "35824": 0.2
     },
     "tags": [
       "saffron alpestris",

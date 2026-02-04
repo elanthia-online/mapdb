@@ -1,2 +1,1 @@
-move("go mouth")
-fput "stand"
+move('go mouth'); fput 'stand'

@@ -1,5 +1,5 @@
 {
-  "checksum": "d18b8ac22011a407f91390f419365741",
+  "checksum": "2c049b8fa7c8f87222213007e28ffa4e",
   "room": {
     "id": 31020,
     "title": [
@@ -9,6 +9,7 @@
       "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
     ],
     "paths": [
+      "Obvious exits: north",
       "Obvious exits: north, out"
     ],
     "location": "Solhaven",
@@ -24,7 +25,9 @@
     },
     "tags": [
       "brigatta locker",
-      "meta:locker annex:House Brigatta"
+      "meta:locker annex:House Brigatta",
+      "meta:che:brigatta:entrance_annex",
+      "meta:che:brigatta:entrance_locker"
     ],
     "uid": [
       4219392

@@ -1,19 +1,22 @@
 {
-  "checksum": "8ef8675553a29250f058e5a8bdd21895",
+  "checksum": "fba29ac4a8f99446cd16bc2fb52fd8f3",
   "room": {
     "id": 31749,
     "title": [
+      "[Evermore Hotel, Platform]",
       "[Evermore Hotel, Lift]"
     ],
     "description": [
+      "Behind a gilded scissor gate, a platform operator stands at the ready, one hand on a polished brass lever clearly marked with the floors of the hotel.  The walls are covered with burnished cherrywood and silvered glass which reflects a cushioned bench covered in plush crimson velvet at the rear of the clockwork platform.  A low thrum emanates from behind the paneling.",
       "Behind a gilded scissor gate, a lift operator stands at the ready, one hand on a polished brass lever clearly marked with the floors of the hotel.  The walls are covered with burnished cherrywood and silvered glass which reflects a cushioned bench covered in plush crimson velvet at the rear of the lift.  A low thrum emanates from behind the paneling."
     ],
     "paths": [
+      "Obvious exits: out",
       "Obvious exits: none"
     ],
     "location": "Naidem",
     "wayto": {
-      "31748": "go gate"
+      "31748": "out"
     },
     "timeto": {
       "31748": 0.2

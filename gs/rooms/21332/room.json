@@ -1,5 +1,5 @@
 {
-  "checksum": "a3a9a86345b9007f215f9b4ea80d2154",
+  "checksum": "b50c7a56a5950152e4ba45a286fe89ed",
   "room": {
     "id": 21332,
     "title": [
@@ -13,11 +13,13 @@
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "21333": "go pathway",
-      "21334": "go door",
+      "21330": "go black door",
+      "21333": "go slate pathway",
+      "21334": "go lilac door",
       "26063": "go ironwood door"
     },
     "timeto": {
+      "21330": 0.2,
       "21333": 0.2,
       "21334": 0.2,
       "26063": 0.2

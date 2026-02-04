@@ -1,2 +1,2 @@
-fput "search"
-move "go fissure"
+fput 'search'
+move 'go fissure'

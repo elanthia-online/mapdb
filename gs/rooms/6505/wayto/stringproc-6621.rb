@@ -1,1 +1,1 @@
-move "read runes"
+move 'read runes'

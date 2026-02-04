@@ -1,3 +1,1 @@
-fput "search"
-waitrt?
-move("go wooden panel")
+fput 'search';waitrt?;move ('go wooden panel')

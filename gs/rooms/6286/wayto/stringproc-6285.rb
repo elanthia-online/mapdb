@@ -1,1 +1,1 @@
-move "climb bucket"
+move 'climb bucket'

@@ -1,1 +1,1 @@
-2.times { fput "ask sailor about boat" }
+2.times{fput 'ask sailor about boat';}

@@ -1,4 +1,4 @@
-fput "search"
+fput 'search'
 waitrt?
-fput "open trapdoor"
-move "go trapdoor"
+fput 'open trapdoor'
+move 'go trapdoor'

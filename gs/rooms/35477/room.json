@@ -1,0 +1,31 @@
+{
+  "checksum": "b6fe25c781529d0dd440a008ed8007db",
+  "room": {
+    "id": 35477,
+    "title": [
+      "[Kestrel's Perch, Sitting Room]"
+    ],
+    "description": [
+      "Polished oak paneling skirts the lodge, contrasting with green trim and upholstery on the generous leather armchairs.  A large trestle table occupies one of the room's ends, flanked by a number of carved oak chairs.  In the shadow of an overstuffed green sofa is a narrow slatted stairway, which leads upward to an open loft.  A stone hearth dominates all, occupying the long wall across from a painted green door.  Above the hearth, an immense elk trophy surveys its domain with a solemn gaze."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Kestrel's Perch, outside the frontier town of Wehnimer's Landing",
+    "wayto": {
+      "35476": "go green door",
+      "35478": "go stairway",
+      "35479": "go oak door",
+      "35480": "west"
+    },
+    "timeto": {
+      "35476": 0.2,
+      "35478": 0.2,
+      "35479": 0.2,
+      "35480": 0.2
+    },
+    "uid": [
+      4549152
+    ]
+  }
+}

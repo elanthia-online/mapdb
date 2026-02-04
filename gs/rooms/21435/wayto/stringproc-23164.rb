@@ -1,2 +1,1 @@
-fput "search"
-move "go concealed door"
+fput "search";move "go concealed door"

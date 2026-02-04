@@ -1,5 +1,5 @@
 {
-  "checksum": "91fbe84169742ef155530dedfc57dfc1",
+  "checksum": "1a39030108240798126ecae3d4222962",
   "room": {
     "id": 18880,
     "title": [
@@ -14,8 +14,8 @@
     "location": "Wehnimer's Landing",
     "wayto": {
       "18853": "west",
-      "23184": "go curtain",
-      "23185": "go opening"
+      "23184": "go velvet curtain",
+      "23185": "go curtained opening"
     },
     "timeto": {
       "18853": 0.2,
@@ -23,7 +23,8 @@
       "23185": 0.2
     },
     "tags": [
-      "meta:che:Twilight Hall"
+      "meta:che:Twilight Hall",
+      "meta:che:twilight_hall:entrance_locker"
     ],
     "uid": [
       108018

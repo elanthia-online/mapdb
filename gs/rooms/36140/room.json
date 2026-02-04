@@ -1,0 +1,31 @@
+{
+  "checksum": "9496595c949e931ba95e85995f6225cc",
+  "room": {
+    "id": 36140,
+    "title": [
+      "[Annex, House Arcane Lobby]"
+    ],
+    "description": [
+      "Simple, but elegant, the teakwood flooring of this room is polished to a lustrous sheen.  A jade velvet pennant trimmed with crystal hangs near a heavy, white muslin curtain."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "12295": "go pointed arch",
+      "36141": "go curtain"
+    },
+    "timeto": {
+      "12295": 0.2,
+      "36141": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_annex",
+      "meta:che:arcane_masters:entrance_locker"
+    ],
+    "uid": [
+      3215105
+    ]
+  }
+}

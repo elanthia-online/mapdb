@@ -1,2 +1,2 @@
-fput "search"
-move "go snowy path"
+fput 'search'
+move 'go snowy path'

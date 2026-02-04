@@ -1,0 +1,38 @@
+{
+  "checksum": "775fc0d54ad619ff94f12bc1a80fc891",
+  "room": {
+    "id": 36099,
+    "title": [
+      "[House Arcane, Hallway]"
+    ],
+    "description": [
+      "Soft, golden light flickers gently against the polished wood panelling as the air stirs with your presence in this quiet section of the hallway.  Set into one wall is an incredibly stunning door of black-veined, white marble, fitted with a knob of polished onyx which gleams in the lamplight.  On the opposite wall is a dark cherry door with a cut crystal doorknob."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36098": "south",
+      "36100": "north",
+      "36101": "go marble door",
+      "36102": "go dark door"
+    },
+    "timeto": {
+      "36098": 0.2,
+      "36100": 0.2,
+      "36101": 0.2,
+      "36102": 0.2
+    },
+    "uid": [
+      105012
+    ],
+    "image": "wl-house_arcane-1765480679.png",
+    "image_coords": [
+      560,
+      340,
+      641,
+      421
+    ]
+  }
+}

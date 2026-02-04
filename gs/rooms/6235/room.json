@@ -1,5 +1,5 @@
 {
-  "checksum": "390e8207c76645f517b6e0b37f7a2fb4",
+  "checksum": "91d09a2d928a1279fa47ee08fc8cfe32",
   "room": {
     "id": 6235,
     "title": [
@@ -12,6 +12,8 @@
       "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
     ],
     "location": "The Hidden Plateau",
+    "climate": "none",
+    "terrain": "none",
     "wayto": {
       "6222": "/rooms/6235/wayto/stringproc-6222.rb",
       "6223": "/rooms/6235/wayto/stringproc-6223.rb",
@@ -49,8 +51,8 @@
       "meta:forage-sensed",
       "red trafel mushroom",
       "wingstem root",
-      "meta:forage-sensed:night:2022-09",
-      "meta:forage-sensed:day:2025-02"
+      "meta:forage-sensed:day:2025-02",
+      "meta:forage-sensed:night:2025-06"
     ],
     "uid": [
       2167116

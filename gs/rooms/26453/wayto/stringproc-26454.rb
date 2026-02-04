@@ -1,2 +1,1 @@
-move "go tunnel"
-$go2_restart = true
+move 'go tunnel'; $go2_restart=true

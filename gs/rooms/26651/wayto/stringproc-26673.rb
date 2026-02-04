@@ -1,2 +1,1 @@
-move "swim down"
-$go2_restart = true
+move 'swim down'; $go2_restart=true

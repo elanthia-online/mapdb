@@ -1,5 +1,5 @@
 {
-  "checksum": "05ea7a36b762d1afa9157e4ca86c74db",
+  "checksum": "e3fe6acfab969e636d5d5d9f184b28ff",
   "room": {
     "id": 12574,
     "title": [
@@ -10,18 +10,21 @@
       "The moonlight adds an ethereal glow to the torchlight in the room.  A wide staircase leads upward, spiraling round and round beneath the enormous, glass dome ceiling.  Even at night, the sparsely decorated room exudes a sense of elegance and respect.  A seemingly endless blue-black sky glitters with the hundreds of white starstones that dangle from the ceiling far overhead."
     ],
     "paths": [
+      "Obvious exits: east, down",
       "Obvious exits: east"
     ],
     "location": "Stormbrow Gallery",
     "wayto": {
-      "1950": "go gates",
-      "12981": "climb staircase",
-      "14707": "east"
+      "1950": "down",
+      "12981": "go staircase",
+      "14707": "east",
+      "35438": "go glaes archway"
     },
     "timeto": {
       "1950": 0.2,
       "12981": 0.2,
-      "14707": 0.2
+      "14707": 0.2,
+      "35438": 0.2
     },
     "tags": [
       "meta:nomagic"

@@ -1,4 +1,1 @@
-50.times {
-  move "go forest"
-  break if Room.current.id == 9887
-}
+50.times { move 'go forest'; break if Room.current.id == 9887 }

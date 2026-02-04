@@ -1,4 +1,3 @@
-fput "kneel" until kneeling?
-fput "crawl crack"
+fput 'kneel' until kneeling?;fput 'crawl crack'
 waitrt?
-fput "stand" until standing?
+fput 'stand' until standing?

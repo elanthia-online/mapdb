@@ -1,1 +1,1 @@
-multifput "search", "go long rope"
+multifput 'search', 'go long rope'

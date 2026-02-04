@@ -1,5 +1,5 @@
 {
-  "checksum": "c9537ac4b67932c9fa3787bf26278d85",
+  "checksum": "820e2ea637674a37b12772d4757ce32d",
   "room": {
     "id": 32473,
     "title": [
@@ -15,14 +15,16 @@
     "location": "Moonsedge",
     "wayto": {
       "32466": "southwest",
-      "32474": "go door"
+      "32474": "go pine door"
     },
     "timeto": {
       "32466": 0.2,
       "32474": 0.2
     },
     "tags": [
-      "no forageables"
+      "stalk of bluebells",
+      "meta:forage-sensed",
+      "meta:forage-sensed:night:2025-11"
     ],
     "uid": [
       4577244

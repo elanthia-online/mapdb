@@ -1,1 +1,1 @@
-(Stats.prof == "Warrior") ? 0.2 : nil
+Stats.prof == 'Warrior' ? 0.2 : nil

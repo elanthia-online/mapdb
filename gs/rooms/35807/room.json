@@ -1,0 +1,29 @@
+{
+  "checksum": "9d151178744bfd36a2d84f901a1dad61",
+  "room": {
+    "id": 35807,
+    "title": [
+      "[Dragonfly Den, Retreat]"
+    ],
+    "description": [
+      "Surprisingly roomy for being inside a hollowed-out tree trunk, a swaying rope bridge leading from the retreat to the limestone cliff at the far opposite of the spiraling stairway lets in a soft breeze.  An over-stuffed sofa and complementing chair with ottoman are placed around a highly polished tanik table sitting low and holding some refreshments.  Resting on a square of dark terra cotta tile, a small black iron brazier glows steadily, the bright coals sending out a welcome warmth.  Decorations are minimal, allowing the patterns of the sapwood grain to stand out."
+    ],
+    "paths": [
+      "Obvious exits: down"
+    ],
+    "location": "Dragonfly Den, inside the island town of Mist Harbor",
+    "wayto": {
+      "35806": "down",
+      "35808": "climb rope",
+      "35811": "go bridge"
+    },
+    "timeto": {
+      "35806": 0.2,
+      "35808": 0.2,
+      "35811": 0.2
+    },
+    "uid": [
+      2005102
+    ]
+  }
+}

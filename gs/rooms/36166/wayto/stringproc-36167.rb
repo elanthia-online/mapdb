@@ -1,0 +1,1 @@
+multifput('sit chair', 'pull splinter'); waitrt?; fput('stand'); waitrt?

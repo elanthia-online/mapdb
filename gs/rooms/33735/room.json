@@ -1,5 +1,5 @@
 {
-  "checksum": "28fa176ac6549d27165a83a194070c75",
+  "checksum": "1e14b0247cc6d166850ea56e010a8266",
   "room": {
     "id": 33735,
     "title": [
@@ -14,12 +14,15 @@
     "location": "River's Rest",
     "wayto": {
       "33734": "east",
-      "33736": "go curtain"
+      "33736": "go beaded curtain"
     },
     "timeto": {
       "33734": 0.2,
       "33736": 0.2
     },
+    "tags": [
+      "meta:che:cairnfang_manor:entrance_locker"
+    ],
     "uid": [
       5001076
     ]

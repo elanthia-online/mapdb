@@ -1,5 +1,5 @@
 {
-  "checksum": "f6a5d7086ceeb8a3b496e43e5ab5324c",
+  "checksum": "3f7d50db3689e26113b77e7855ef52f8",
   "room": {
     "id": 31024,
     "title": [
@@ -13,14 +13,17 @@
     ],
     "location": "Solhaven",
     "wayto": {
-      "31023": "south"
+      "31023": "south",
+      "36009": "go curtained opening"
     },
     "timeto": {
-      "31023": 0.2
+      "31023": 0.2,
+      "36009": 0.2
     },
     "tags": [
       "silvergate locker",
-      "meta:locker annex:Silvergate Inn"
+      "meta:locker annex:Silvergate Inn",
+      "meta:che:silvergate_inn:entrance_locker"
     ],
     "uid": [
       4219404

@@ -1,5 +1,5 @@
 {
-  "checksum": "83c3756bd829968702e1e3011ca5e25d",
+  "checksum": "d99cd8ea98431ebfadd1d9c49add3311",
   "room": {
     "id": 17605,
     "title": [
@@ -16,10 +16,12 @@
     "climate": "humid",
     "terrain": "rough",
     "wayto": {
-      "17604": "southeast"
+      "17604": "southeast",
+      "35514": "go archway"
     },
     "timeto": {
-      "17604": 0.2
+      "17604": 0.2,
+      "35514": 0.2
     },
     "tags": [
       "white passionflower",
@@ -27,7 +29,8 @@
       "blue passionflower",
       "cone-shaped pineapple",
       "meta:forage-sensed",
-      "meta:forage-sensed:day:2024-05"
+      "meta:forage-sensed:day:2024-05",
+      "fwifestival"
     ],
     "uid": [
       3216011

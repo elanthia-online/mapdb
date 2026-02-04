@@ -1,2 +1,2 @@
-move "swim opening"
-fput "stand" unless standing?
+move 'swim opening'
+fput 'stand' unless standing?

@@ -1,5 +1,1 @@
-if (celerity = Spell[506]) && celerity.known? && celerity.affordable? && !celerity.active?
-  celerity.cast
-end
-fput "search"
-move "go camouflaged opening"
+if celerity = Spell[506] and celerity.known? and celerity.affordable? and not celerity.active?; celerity.cast; end; fput 'search'; move 'go camouflaged opening'

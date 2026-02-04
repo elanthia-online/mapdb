@@ -1,2 +1,1 @@
-move "north"
-$go2_restart = true
+move 'north';$go2_restart=true

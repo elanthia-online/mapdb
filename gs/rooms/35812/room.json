@@ -1,0 +1,31 @@
+{
+  "checksum": "ccc7889aa31173e50bbf4fd1556c9bd2",
+  "room": {
+    "id": 35812,
+    "title": [
+      "[Symbolization, Neutrality]"
+    ],
+    "description": [
+      "Artwork of Arkati and spirits cover the walls of this small room, portraying those that claim neutrality.  A door inlaid with rune-shaped cinnabar leads back out towards the orchard, while a thick curtain heads further inwards.  Standing center in the room, a large mahogany table is cluttered with jewelry-crafting tools, a felt-lined box, and a paper-stuffed tray."
+    ],
+    "paths": [
+      "Obvious exits: northeast, northwest"
+    ],
+    "location": "Evermore Hollow",
+    "wayto": {
+      "31861": "go vermilion door",
+      "35813": "go thick curtain",
+      "35814": "northwest",
+      "35815": "northeast"
+    },
+    "timeto": {
+      "31861": 0.2,
+      "35813": 0.2,
+      "35814": 0.2,
+      "35815": 0.2
+    },
+    "uid": [
+      8084901
+    ]
+  }
+}

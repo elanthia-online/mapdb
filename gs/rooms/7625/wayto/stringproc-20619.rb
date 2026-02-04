@@ -1,1 +1,1 @@
-multifput "search", "go gap"
+multifput 'search', 'go gap'

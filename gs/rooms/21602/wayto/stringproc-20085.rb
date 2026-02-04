@@ -1,1 +1,1 @@
-fput "go opening"
+fput 'go opening'

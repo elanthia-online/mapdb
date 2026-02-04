@@ -1,2 +1,1 @@
-move "climb path"
-waitrt?
+move 'climb path'; waitrt?

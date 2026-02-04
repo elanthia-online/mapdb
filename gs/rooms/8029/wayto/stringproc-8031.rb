@@ -1,3 +1,3 @@
-fput "crawl bush"
+fput 'crawl bush'
 waitrt?
-fput "stand" unless standing?
+fput 'stand' unless standing?

@@ -1,0 +1,38 @@
+{
+  "checksum": "17a89669a4c463d2538419f559779eb7",
+  "room": {
+    "id": 36286,
+    "title": [
+      "[The Lodge, Main Lounge]"
+    ],
+    "description": [
+      "Plump pillows and overstuffed sofas encircle a massive riverstone fireplace sunken into the center of the room, creating a comfortable place to relax.  Large animal pelts are scattered underfoot, cutting the chill of the stone flooring.  Sturdy oaken beams bring the circular walls to a peak overhead.  Against one wall, a long sideboard offers food and drink.  A glass panel leads out to a lush garden."
+    ],
+    "paths": [
+      "Obvious exits: southeast, southwest"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "36285": "go carved doors",
+      "36287": "southeast",
+      "36288": "southwest",
+      "36289": "go rune arch",
+      "36290": "go glass panel"
+    },
+    "timeto": {
+      "36285": 0.2,
+      "36287": 0.2,
+      "36288": 0.2,
+      "36289": 0.2,
+      "36290": 0.2
+    },
+    "tags": [
+      "lodge",
+      "platinum lodge",
+      "plat lodge"
+    ],
+    "uid": [
+      18901002
+    ]
+  }
+}

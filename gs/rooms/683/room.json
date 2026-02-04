@@ -1,11 +1,12 @@
 {
-  "checksum": "56a35ba8dbda37986ab556cc09dd7e15",
+  "checksum": "49ba9fe871d958807528933766d57967",
   "room": {
     "id": 683,
     "title": [
       "[Sylvarraend, Mistglin Wey]"
     ],
     "description": [
+      "A small cottage with ivy-twined trellises faces an old dwelling across the trail, each equally tidy and charming.  While the facade of the first is a pleasant mingling of pinewood and maple, the other is composed of smooth river rock and mortar.  Each boasts a roof of thick red clay tiles, the eaves of which offer a convenient roosting place for local birds.",
       "Two small cottages face one another across the trail, each equally tidy and charming.  While one's walls are made of smooth river rock and mortar, the other's walls have been plastered with creamy colored stucco.  Golden light spills from the windows of both cottages, gently illuminating the night.",
       "Two small cottages face one another across the trail, each equally tidy and charming.  While one's walls are made of smooth river rock and mortar, the other's walls have been plastered with creamy colored stucco.  Each boasts a thick red clay tile roof, which provides a convenient roosting place for several birds."
     ],
@@ -17,11 +18,13 @@
     "terrain": "hard, flat",
     "wayto": {
       "682": "northwest",
-      "684": "east"
+      "684": "east",
+      "35451": "go cottage"
     },
     "timeto": {
       "682": 0.2,
-      "684": 0.2
+      "684": 0.2,
+      "35451": 0.2
     },
     "tags": [
       "no forageables",

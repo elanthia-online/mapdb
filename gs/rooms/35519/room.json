@@ -1,0 +1,35 @@
+{
+  "checksum": "a7f3a12373db61a43647fd4025f48490",
+  "room": {
+    "id": 35519,
+    "title": [
+      "[Tideswept Bazaar]"
+    ],
+    "description": [
+      "Bright corals in shades of crimson, gold, and violet cling to the walls and arching formations bringing the bazaar to life with their brilliant hues.  Schools of silvery fish weave about, their sleek bodies catching the shifting light that filters through the cavern.  Strands of kelp and drifting sea flora sway with the gentle currents, their rhythmic movements casting fluid shadows on the pathways.  Fringed with sea moss and glowing specks of bioluminescence, a narrow opening pulses with an ethereal glow."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "35518": "s",
+      "35520": "n",
+      "35537": "go opening",
+      "35549": "go anemone archway",
+      "35551": "go coral cavern",
+      "35552": "go coral archway"
+    },
+    "timeto": {
+      "35518": 0.2,
+      "35520": 0.2,
+      "35537": 0.2,
+      "35549": 0.2,
+      "35551": 0.2,
+      "35552": 0.2
+    },
+    "uid": [
+      4410307
+    ]
+  }
+}

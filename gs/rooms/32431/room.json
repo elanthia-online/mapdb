@@ -1,11 +1,12 @@
 {
-  "checksum": "1f665ccda6000a9c19c5cf3518f437fc",
+  "checksum": "e4d5c65f0e319968f9c62c18a5f8145b",
   "room": {
     "id": 32431,
     "title": [
       "[Moonsedge, Gem Shop]"
     ],
     "description": [
+      "Paintings of fanciful trinkets and ostentatious adornments line the walls of the store, likely a mirror to the jewelry that once lined beds of black velvet near to the windows.  Not a trace of gold glistens within the looted shop.  Even the inlay on the counter has been pried free.  A sturdy modwir door in the rear of the shop is hacked and clawed, but stands fast, a testament to its sturdy wood.",
       "Paintings of fanciful trinkets and ostentatious adornments line the walls of the store, likely a mirror to the jewelry that once lined beds of black velvet near to the windows.  Not a trace of gold glistens within the looted shop.  Even the inlay on the counter has been pried free."
     ],
     "paths": [
@@ -13,10 +14,12 @@
     ],
     "location": "Moonsedge",
     "wayto": {
-      "32430": "out"
+      "32430": "out",
+      "35452": "go door"
     },
     "timeto": {
-      "32430": 0.2
+      "32430": 0.2,
+      "35452": 0.2
     },
     "tags": [
       "no forageables"

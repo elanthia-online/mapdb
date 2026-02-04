@@ -1,11 +1,12 @@
 {
-  "checksum": "2584d1bb9db4ac65742e8dfd2e97ee5e",
+  "checksum": "f98c598fe98a3e9d5dfa0bfba82278b2",
   "room": {
     "id": 249,
     "title": [
       "[Wehnimer's, Bay's Watch West]"
     ],
     "description": [
+      "Here at the northern end of Wehnimer's Landing, the fickle waters of the Locksmehr River flow into Darkstone Bay.  The westernmost of the twin guardtowers that keep watch over the river gates into town rises above, casting a dark shadow over the lamplit cobblestones.  The huge ironbound sea gates straddle the river, extending to the matching tower on the eastern bank.",
       "Here at the northern end of Wehnimer's Landing, the fickle waters of the Locksmehr River flow to the east.  The westernmost of the twin guardtowers that keep watch over the river gates into town rises above, casting a dark shadow over the lamplit cobblestones.  The huge ironbound sea gates straddle the river, extending to the matching tower on the eastern bank.",
       "Here at the northern end of Wehnimer's Landing, the fickle waters of the Locksmehr River flow to the east.  The westernmost of the twin guardtowers that keep watch over the river gates into town rises above, casting a shadow over the cobblestones.  The huge ironbound sea gates, greenish water plants clinging to them at water level, straddle the river, extending to the matching tower on the eastern bank."
     ],
@@ -18,12 +19,14 @@
     "wayto": {
       "248": "south",
       "268": "west",
-      "14135": "go guardtower"
+      "14135": "go guardtower",
+      "36093": "go wrought gate"
     },
     "timeto": {
       "248": 0.2,
       "268": 0.2,
-      "14135": 0.2
+      "14135": 0.2,
+      "36093": 0.2
     },
     "tags": [
       "pepperthorn root",

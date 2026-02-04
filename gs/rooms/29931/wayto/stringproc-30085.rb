@@ -1,2 +1,1 @@
-fput "search"
-move("go shrouded path")
+fput 'search';move('go shrouded path')

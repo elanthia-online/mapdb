@@ -1,11 +1,12 @@
 {
-  "checksum": "d0891b285e9e24090937e12a98abd88c",
+  "checksum": "044a2ebec311b4e47f0c6c83e1bba8fc",
   "room": {
     "id": 31658,
     "title": [
       "[Bittermere Woods]"
     ],
     "description": [
+      "With trunks that broaden as they spread into roots in the marshy ground, the trees are covered in a fine down of blue-hazed teal pincushion moss and ringed with spore-filled tangerine mushrooms.  Here and there amid the living fleece are clustered shelves of bear bread mushrooms, their bands of saffron, russet, and scarlet increasing their visibility against the nearly monochrome landscape.  Along the northeastern edge, a hyrrad rises, its frame blending seamlessly with the surrounding growth.",
       "With trunks that broaden as they spread into roots in the increasingly marshy ground, the trees are covered in a fine down of blue-hazed teal pincushion moss and ringed with spore-filled tangerine mushrooms.  Here and there amid the living fleece are clustered shelves of bear bread mushrooms, their bands of saffron, russet, and scarlet increasing their visibility against the nearly monochrome background."
     ],
     "paths": [
@@ -14,11 +15,13 @@
     "location": "Evermore Hollow",
     "wayto": {
       "31657": "northwest",
-      "31659": "southeast"
+      "31659": "southeast",
+      "35829": "go hyrrad"
     },
     "timeto": {
       "31657": 0.2,
-      "31659": 0.2
+      "31659": 0.2,
+      "35829": 0.2
     },
     "tags": [
       "deep plum direbloom",

@@ -1,5 +1,5 @@
 {
-  "checksum": "bafab43564a1fc18c85c191b82b3390c",
+  "checksum": "1beb81e9b935fc38204e0d60fdc45033",
   "room": {
     "id": 15952,
     "title": [
@@ -14,14 +14,15 @@
     "location": "Wehnimer's Landing",
     "wayto": {
       "15951": "north",
-      "26917": "go opening"
+      "26917": "go curtained opening"
     },
     "timeto": {
       "15951": 0.2,
       "26917": 0.2
     },
     "tags": [
-      "meta:che:House of Paupers"
+      "meta:che:House of Paupers",
+      "meta:che:paupers:entrance_locker"
     ],
     "uid": [
       104409

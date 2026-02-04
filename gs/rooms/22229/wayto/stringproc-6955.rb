@@ -1,2 +1,1 @@
-fput "swim up"
-fput "go shore"
+fput "swim up";fput "go shore"

@@ -1,0 +1,1 @@
+move('push east')

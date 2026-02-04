@@ -1,11 +1,12 @@
 {
-  "checksum": "3f5017c4ecaf5e92cd9a776380811ed4",
+  "checksum": "7472c25a83e7b6b3a2668526748051a8",
   "room": {
     "id": 31654,
     "title": [
       "[Bittermere Woods]"
     ],
     "description": [
+      "Low amber ferns with curled and flanged heads are interspersed with the spiked grasses and mushroom towers, their glowing lamella shedding luminescent spores that light the path they edge.  Tiny motes, as delicate and weightless as dandelion seeds proliferate the air, pinpricks of blue-green illumination that dance on the air currents.  The soft chime of bells tickles the air, the source a bright harlequin pavilion whose colorful ribbons sway in the air.",
       "Low amber ferns with curled and flanged heads are interspersed with the spiked grasses and mushroom towers with their glowing lamella shedding luminescent spores that light the path they edge.  Tiny motes, as delicate and weightless as dandelion seeds proliferate the air, pinpricks of blue-green illumination that dance on the air currents."
     ],
     "paths": [
@@ -15,12 +16,14 @@
     "wayto": {
       "31631": "northwest",
       "31655": "southwest",
-      "31657": "southeast"
+      "31657": "southeast",
+      "35832": "go harlequin pavilion"
     },
     "timeto": {
       "31631": 0.2,
       "31655": 0.2,
-      "31657": 0.2
+      "31657": 0.2,
+      "35832": 0.2
     },
     "tags": [
       "deep plum direbloom",

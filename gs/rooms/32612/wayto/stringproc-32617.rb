@@ -1,2 +1,1 @@
-3.times { fput "knock ash door" }
-move "go ash door"
+3.times { fput 'knock ash door' };move 'go ash door'

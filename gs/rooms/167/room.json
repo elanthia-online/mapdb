@@ -1,5 +1,5 @@
 {
-  "checksum": "a8838260753f286c9941ba63297cf1fb",
+  "checksum": "4de8b3ee38746a84812a2776d26c3650",
   "room": {
     "id": 167,
     "title": [
@@ -18,11 +18,13 @@
     "terrain": "hard, flat",
     "wayto": {
       "166": "southwest",
-      "168": "north"
+      "168": "north",
+      "36170": "go gate"
     },
     "timeto": {
       "166": 0.2,
-      "168": 0.2
+      "168": 0.2,
+      "36170": "/rooms/167/timeto/stringproc-36170.rb"
     },
     "tags": [
       "no forageables",

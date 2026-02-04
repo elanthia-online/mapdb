@@ -1,0 +1,34 @@
+{
+  "checksum": "af3ab67719e67ebee674023434130894",
+  "room": {
+    "id": 35899,
+    "title": [
+      "[River Muagh, Mouth]"
+    ],
+    "description": [
+      "A churning black maelstrom blocks the sky on the eastern, seaward facing side of lifeless, dark cliffs that flank the river along both banks.  The wind whips about with an intensity only rivaled by dwarves charging toward free ale, and surging waves from the Obsidian Sea meet the River Muagh head on.  A battered raft tethered to a jagged basalt ledge is caught in a constant, turbulent mix of brackish water, tossed one way, then the other."
+    ],
+    "paths": [
+      "Obvious paths: southwest"
+    ],
+    "location": "the River Muagh",
+    "wayto": {
+      "35898": "/rooms/35899/wayto/stringproc-35898.rb",
+      "35900": "go basalt ledge"
+    },
+    "timeto": {
+      "35898": 0.2,
+      "35900": 0.2
+    },
+    "uid": [
+      3024015
+    ],
+    "image": "ti-kragnek_dzu-1761314324.png",
+    "image_coords": [
+      331,
+      525,
+      369,
+      562
+    ]
+  }
+}

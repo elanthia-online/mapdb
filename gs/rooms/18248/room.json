@@ -1,5 +1,5 @@
 {
-  "checksum": "8436bab036711bca131e807db0e94769",
+  "checksum": "d9020d2f44e943e23aa9e6a7777f9987",
   "room": {
     "id": 18248,
     "title": [
@@ -15,17 +15,19 @@
     "location": "Solhaven",
     "wayto": {
       "18253": "north",
-      "25690": "go opening",
-      "30741": "go arch"
+      "30741": "go pine door",
+      "35765": "go curtained opening"
     },
     "timeto": {
       "18253": 0.2,
-      "25690": 0.2,
-      "30741": 0.2
+      "30741": 0.2,
+      "35765": 0.2
     },
     "tags": [
       "paupers locker",
-      "meta:locker annex:House of Paupers"
+      "meta:locker annex:House of Paupers",
+      "meta:che:paupers:entrance_locker",
+      "meta:che:paupers:entrance_annex"
     ],
     "uid": [
       4219372

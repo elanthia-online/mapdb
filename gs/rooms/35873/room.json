@@ -1,0 +1,36 @@
+{
+  "checksum": "3ec5525974dd207569aa824973c04ada",
+  "room": {
+    "id": 35873,
+    "title": [
+      "[Kragnek-Dzu, Stone Mill Road]"
+    ],
+    "description": [
+      "The cobblestones of the promenade come to a sudden end, transitioning into a rugged gravel road.  Alongside the road is a narrow stream that gushes forth from a bubbling hot spring, its surface layered with roiling fog.  A stout stone mill resides between the promenade and the spring, its waterwheel turning steadily in the rushing waters.  Berry-laden bushes grow between mushroom-covered mangroves along the opposite bank."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "the River Muagh",
+    "wayto": {
+      "35872": "west",
+      "35874": "go stone mill",
+      "35875": "go hot spring"
+    },
+    "timeto": {
+      "35872": 0.2,
+      "35874": 0.2,
+      "35875": 0.2
+    },
+    "uid": [
+      3024111
+    ],
+    "image": "ti-kragnek_dzu-1761314324.png",
+    "image_coords": [
+      754,
+      1247,
+      793,
+      1285
+    ]
+  }
+}

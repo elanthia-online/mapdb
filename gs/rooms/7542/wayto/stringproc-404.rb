@@ -1,1 +1,1 @@
-multifput "pull huge broadsword", "go depression"
+multifput 'pull huge broadsword', 'go depression'

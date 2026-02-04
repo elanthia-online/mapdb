@@ -1,2 +1,1 @@
-move "northwest"
-waitrt?
+move 'northwest'; waitrt?

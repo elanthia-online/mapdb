@@ -1,4 +1,4 @@
 empty_hands
-move "swim stream"
+move 'swim stream'
 waitrt?
 fill_hands

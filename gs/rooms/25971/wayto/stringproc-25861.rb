@@ -1,1 +1,1 @@
-move "go passage"
+move 'go passage'

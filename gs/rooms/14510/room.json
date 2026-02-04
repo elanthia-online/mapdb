@@ -1,24 +1,30 @@
 {
-  "checksum": "9ea12e730af7b716c440d7b6cf72bef1",
+  "checksum": "0dc98b57c8e864d71ad020e642b04b36",
   "room": {
     "id": 14510,
     "title": [
       "[Elanthian Fauna]"
     ],
     "description": [
+      "The well-lit tunnel slopes down towards a thick, leaded glass wall.  Hard-packed earth, littered with large stones fills most of the space on the other side of the barrier.  Enormous tunnels butt right up against the viewing surface, offering a look at a juvenile roa'ter in its underground home.",
       "The well-lit tunnel slopes down towards a thick, clear glaes wall.  Hard-packed earth, littered with large stones fills most of the space on the other side of the barrier.  Enormous tunnels butt right up against the viewing surface, offering a look at a juvenile roa'ter in its underground home."
     ],
     "paths": [
+      "Obvious exits: northeast, south, northwest",
       "Obvious exits: southeast, northwest"
     ],
     "location": "Solhaven",
     "wayto": {
+      "14507": "northeast",
       "14509": "southeast",
-      "14511": "northwest"
+      "14511": "northwest",
+      "35980": "south"
     },
     "timeto": {
+      "14507": 0.2,
       "14509": 0.2,
-      "14511": 0.2
+      "14511": 0.2,
+      "35980": 0.2
     },
     "tags": [
       "meta:nomagic"

@@ -1,2 +1,2 @@
-fput "search"
-move "climb opening"
+fput 'search'
+move 'climb opening'

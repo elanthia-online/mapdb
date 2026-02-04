@@ -1,0 +1,35 @@
+{
+  "checksum": "a5fc2425bb30eb751afa91f00c5cda0a",
+  "room": {
+    "id": 36181,
+    "title": [
+      "[Emberstone Hall, Upstairs Hall]"
+    ],
+    "description": [
+      "A lavish navy blue carpet runs the span of the hallway, which ends at a pair of glass doors.  Various oil-painted portraits hang from each wall, broken up only by a dark mahogany double door."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Emberstone Hall, inside the island town of Mist Harbor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "36177": "go stairwell",
+      "36182": "go glass doors",
+      "36183": "go mahogany door"
+    },
+    "timeto": {
+      "36177": 0.2,
+      "36182": 0.2,
+      "36183": 0.2
+    },
+    "tags": [
+      "private property",
+      "no forageables"
+    ],
+    "uid": [
+      2005607
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-multifput "search", "go fissure"
+multifput 'search', 'go fissure'

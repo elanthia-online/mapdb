@@ -1,3 +1,1 @@
-move "crawl tree"
-fput "stand"
-waitrt?
+move 'crawl tree'; fput 'stand'; waitrt?

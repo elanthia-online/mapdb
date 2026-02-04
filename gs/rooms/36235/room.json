@@ -1,0 +1,27 @@
+{
+  "checksum": "c4614bea7cda7c7550e505abc8ac275a",
+  "room": {
+    "id": 36235,
+    "title": [
+      "[The Vault, Cave-in]"
+    ],
+    "description": [
+      "Inside the vault, the entire area has caved in.  Rock and steel lie everywhere, covering any further passage within.  Almost hidden from view, a shattered glass hatch is barely visible under all the rubble, while an enormous vault entrance stands guard over the entire mess."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Elanthia",
+    "wayto": {
+      "36217": "go entrance",
+      "36236": "go hatch"
+    },
+    "timeto": {
+      "36217": 0.2,
+      "36236": 0.2
+    },
+    "uid": [
+      9181002
+    ]
+  }
+}
