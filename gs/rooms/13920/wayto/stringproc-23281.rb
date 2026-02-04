@@ -1,2 +1,1 @@
-move("go doorframe")
-UserVars.mapdb_talondown_origin = 13920
+move('go doorframe');UserVars.mapdb_talondown_origin = 13920;

@@ -1,2 +1,1 @@
-fput "search"
-fput "climb steps"
+fput "search";fput "climb steps"

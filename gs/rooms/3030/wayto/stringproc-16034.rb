@@ -1,2 +1,1 @@
-move "go door"
-fput "close door"
+move 'go door'; fput 'close door'

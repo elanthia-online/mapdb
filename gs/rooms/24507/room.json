@@ -1,21 +1,22 @@
 {
-  "checksum": "f20c4a4af6668a5375549c8a7485c9e8",
+  "checksum": "aab4ee734450fb9355c9df8e5bbf1f03",
   "room": {
     "id": 24507,
     "title": [
       "[Twilight Lodge, Clearing]"
     ],
     "description": [
-      "An ivy-covered riverstone lodge provides tranquil refuge in the darkness, light from its windows reflecting off the nearby towering silver lor tree and an eahnor-streaked waxing stone moon.  Across the clearing, a magnificent angel oak erupts from the ground, its many gnarled and twisted limbs embrace the glade, shielding it from the encroaching forest.  A braided hemp ladder hangs from the lor tree, and a glowbark dart board embellished with an astral rune is mounted on the oak."
+      "An ivy-covered riverstone lodge provides tranquil refuge in the darkness, light from its windows reflecting off the nearby towering silver lor tree and an eahnor-streaked waxing stone moon.  Across the clearing, a magnificent angel oak erupts from the ground, its many gnarled and twisted limbs embrace the glade, shielding it from the encroaching forest.  A braided hemp ladder hangs from the lor tree, and a glowbark dart board embellished with an astral rune is mounted on the oak.",
+      "An ivy-covered riverstone lodge basks in the sun alongside a towering silver lor tree and an eahnor-streaked waxing stone moon.  Across the clearing, a magnificent angel oak erupts from the ground, its many gnarled and twisted limbs embrace the glade, shielding it from the encroaching forest.  A braided hemp ladder hangs from the lor tree, and a glowbark dart board embellished with an astral rune is mounted on the oak."
     ],
     "paths": [
       "Obvious paths: none"
     ],
     "location": "the Lost Home",
     "wayto": {
-      "4709": "go forest",
-      "24508": "go ladder",
-      "24509": "go lodge"
+      "4709": "/rooms/24507/wayto/stringproc-4709.rb",
+      "24508": "go hemp ladder",
+      "24509": "go riverstone lodge"
     },
     "timeto": {
       "4709": 0.2,
@@ -26,7 +27,11 @@
       "meta:mapname:Elven Nations - Twilight Hall Annex",
       "meta:mapcategory:CHE:Twilight Hall Annex (Elven Nations)",
       "meta:mapcategory:Elven Nations:Twilight Hall Annex",
-      "meta:locker annex:Twilight Hall"
+      "meta:locker annex:Twilight Hall",
+      "meta:che:twilight_hall:entrance_annex"
+    ],
+    "uid": [
+      13112521
     ],
     "image": "en-TwilightHallAnnex.png",
     "image_coords": [

@@ -1,1 +1,1 @@
-!kneeling? ? fput "kneel" if !/dwarf|halfling|gnome/i.match?(Stats.race) : nil; fput "southeast"
+if not kneeling?;	fput 'kneel' if Stats.race !~ /dwarf|halfling|gnome/i;end;fput 'southeast'

@@ -1,0 +1,31 @@
+{
+  "checksum": "828e7d751a88fd14c828f1543e358e24",
+  "room": {
+    "id": 36269,
+    "title": [
+      "[Militia Keep, Main Hall]"
+    ],
+    "description": [
+      "Guarded from the outside world by a steel portcullis, this area seems to serve as little more than a buffer for the main building.  Two arched stone doors stand to the north, ready to swing in or out at but a moment's notice if the need should arise.  Several cots and benches have been arranged along each wall, neighbored by sturdy racks stocked with nearly every kind of medical implement.  A pair of large golden banners hangs from the ceiling, proudly heralding the keep's entrance."
+    ],
+    "paths": [
+      "Obvious exits: out"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "20901": "out",
+      "36270": "go doors"
+    },
+    "timeto": {
+      "20901": 0.2,
+      "36270": 0.2
+    },
+    "tags": [
+      "sanctuary",
+      "node"
+    ],
+    "uid": [
+      18908001
+    ]
+  }
+}

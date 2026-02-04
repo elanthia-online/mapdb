@@ -1,0 +1,29 @@
+{
+  "checksum": "46ef07f30603783f5d8636d194c1ff49",
+  "room": {
+    "id": 35347,
+    "title": [
+      "[Harbor's Echo Inn, Guest Hall]"
+    ],
+    "description": [
+      "Wide windows dominate the southern and eastern walls, the pristine and polished glass providing a view of the outside veranda and the ocean beyond.  Large vases filled with flowers rest beneath their bright white sills.  Frosted globes emit soft illumination as they dangle over the striped teak and tobacco wood floors.  Beside each other in the northern wall are a pair of frosted glass doors leading to the inn's guest rooms.  One is decorated with an etched rose, and the other, an etched wren."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35346": "west",
+      "35348": "go first door",
+      "35349": "go second door"
+    },
+    "timeto": {
+      "35346": 0.2,
+      "35348": 0.2,
+      "35349": 0.2
+    },
+    "uid": [
+      7142285
+    ]
+  }
+}

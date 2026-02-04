@@ -1,2 +1,1 @@
-fput "search"
-fput "go narrow door"
+fput "search";fput "go narrow door"

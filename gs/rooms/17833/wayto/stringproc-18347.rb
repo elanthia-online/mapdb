@@ -1,1 +1,1 @@
-move "go panel"
+move 'go panel'

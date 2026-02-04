@@ -1,11 +1,12 @@
 {
-  "checksum": "2534209251ee36625823b714d3e67f91",
+  "checksum": "1351f84d7e0e9907f849fc3a0cdf2709",
   "room": {
     "id": 3646,
     "title": [
       "[Cobblestone Path]"
     ],
     "description": [
+      "Verdant vines, laden with passionflowers, surrounding an ivy-draped white lattice archway, gently nod their heads as an errant ocean breeze passes through the area.  Moths and fireflies drift through along the cobblestone path, the former seeking flowers and the latter flickering with erratic abandon through the foliage.  Tall grasses along the northwestern edge of the path surround a wooden gate that leads into the stone-lined streets of a neighborhood.",
       "Beneath a moonlit sky full of twinkling stars lies a field of wheat dusted with wildflower blossoms.  A breeze blows across it, bending the stalks of grain and giving them a faint golden shimmer as the silver moonlight dances across them.  Fireflies dart to and fro playing their endless game of tag across the rolling hills.",
       "A gentle breeze blows across the rolling hills of golden wheat and colorful wildflowers, causing them to bend nearly in half and then rise upward once again.  The cobblestone path appears less kept to the northeast as it lazily winds up a small slope.  A pair of butterflies, caught up in their dizzying play, flutter across the wheat in a blur of color.",
       "Verdant vines, laden with passionflowers, gently nod their heads as an errant ocean breeze passes through the area.  Butterflies and dragonflies drift through along the cobblestone path, the former seeking flowers and the latter snatching at gnats that seem to find the area pleasing.  Tall grasses along the northwestern edge of the path surround a wooden gate that leads into the stone-lined streets of a neighborhood.",
@@ -21,13 +22,15 @@
       "3645": "southwest",
       "3647": "northeast",
       "12307": "go gate",
-      "30718": "/rooms/3646/wayto/stringproc-30718.rb"
+      "30718": "/rooms/3646/wayto/stringproc-30718.rb",
+      "35770": "go white archway"
     },
     "timeto": {
       "3645": 0.2,
       "3647": 0.2,
       "12307": 0.2,
-      "30718": "/rooms/3646/timeto/stringproc-30718.rb"
+      "30718": "/rooms/3646/timeto/stringproc-30718.rb",
+      "35770": 0.2
     },
     "tags": [
       "urchin-access",
@@ -49,7 +52,22 @@
       "fresh lemongrass",
       "stalk of celery",
       "meta:forage-sensed",
-      "meta:forage-sensed:day:2024-05"
+      "meta:forage-sensed:day:2024-05",
+      "nightbloom blossom",
+      "small watermelon",
+      "cherry peppers",
+      "fresh catnip",
+      "tea leaves",
+      "white tea leaves",
+      "black tea leaves",
+      "green tea leaves",
+      "purple tea leaves",
+      "mate leaves",
+      "peppermint leaves",
+      "butterfly pea flower",
+      "sprig of rooibos",
+      "sun-wilted tea leaves",
+      "meta:forage-sensed:night:2025-10"
     ],
     "uid": [
       3201051

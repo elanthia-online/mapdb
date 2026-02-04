@@ -1,2 +1,1 @@
-fput "search"
-move "go shallow notches"
+fput "search";move "go shallow notches"

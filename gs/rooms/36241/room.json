@@ -1,0 +1,29 @@
+{
+  "checksum": "d724c942e8115f7693427a70640ecebf",
+  "room": {
+    "id": 36241,
+    "title": [
+      "[Mariath's Manse, Rotunda]"
+    ],
+    "description": [
+      "Cylindrical and two stories tall, the rotunda has a very open feel due to the lack of furnishings save for a central table set with a big vase of assorted flowers in hues of crimson and blackish purple, and the crystal-paned dome overhead.  Ebonwood-banistered curving staircases meet at the second floor landing where there is a single rosewood door.  To the east is an archway, while under the stairs is a corridor leading back to the kitchen.  An antechamber sheltering the front door is to the south."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": false,
+    "wayto": {
+      "36240": "s",
+      "36242": "go corridor",
+      "36244": "go archway"
+    },
+    "timeto": {
+      "36240": 0.2,
+      "36242": 0.2,
+      "36244": 0.2
+    },
+    "uid": [
+      9040303
+    ]
+  }
+}

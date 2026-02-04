@@ -1,2 +1,1 @@
-move "go ring"
-$go2_restart = true
+move 'go ring'; $go2_restart=true

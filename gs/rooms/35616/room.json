@@ -1,0 +1,39 @@
+{
+  "checksum": "4b6f1f08e3a9275da75b9323f26e8c79",
+  "room": {
+    "id": 35616,
+    "title": [
+      "[The Mageborn, Guest Quarters]"
+    ],
+    "description": [
+      "In the darkness lazes a sprawling suite that begins in a narrow antechamber once secured by a painted hatchway.  Padded benches are joined to the sodden planks to which they are bolted by an overgrowth of faintly glowing moss.  Threadbare curtains shroud windows that, while spiderwebbed with cracks, still hold back the pressure of the dark seawater beyond them.  Saltwater rains down in plinking droplets that echo loudly throughout the sepulchral wreckage."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35615": "go hatchway",
+      "35617": "west"
+    },
+    "timeto": {
+      "35615": 0.2,
+      "35617": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150511
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1640,
+      2600,
+      1720,
+      2680
+    ]
+  }
+}

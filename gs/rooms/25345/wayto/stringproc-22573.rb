@@ -1,1 +1,1 @@
-fput "go curtain"
+fput 'go curtain'

@@ -1,1 +1,1 @@
-(Stats.prof == "Rogue") ? 1.6 : nil
+if Stats.prof == 'Rogue'; 1.6; else; nil; end

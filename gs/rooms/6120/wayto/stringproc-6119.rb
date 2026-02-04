@@ -1,2 +1,1 @@
-move "jump chasm"
-waitrt?
+move 'jump chasm'; waitrt?

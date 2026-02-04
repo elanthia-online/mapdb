@@ -1,5 +1,5 @@
 {
-  "checksum": "df01dd7ca595788fd1a8feab24c102dd",
+  "checksum": "8d41b08579162b01ca97845103398d7e",
   "room": {
     "id": 3738,
     "title": [
@@ -10,14 +10,17 @@
       "Tiny, colorful songbirds and magnificent honeysuckle vines on hand-painted white silk wall coverings reach up to the high, coffered ceiling.  Crystal-shaded golden oil lamps rest on tables scattered around the plush green carpet.  Overstuffed armchairs circle each table.  A tall leaded glass window offering a view of a bustling courtyard neatly frames a wide bench seat with pale golden silk cushions.  Opposite the window is a tray-covered pearwood side table."
     ],
     "paths": [
+      "Obvious exits: south, west",
       "Obvious exits: south"
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "3736": "south"
+      "3736": "south",
+      "36008": "west"
     },
     "timeto": {
-      "3736": 0.2
+      "3736": 0.2,
+      "36008": 0.2
     },
     "uid": [
       109004

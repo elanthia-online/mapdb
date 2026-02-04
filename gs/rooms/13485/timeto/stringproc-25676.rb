@@ -1,1 +1,1 @@
-(!defined?(Stats.prof) || (Stats.prof == "Bard")) ? 0.2 : nil
+(!defined?(Stats.prof) or Stats.prof == 'Bard') ? 0.2 : nil

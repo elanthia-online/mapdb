@@ -1,0 +1,39 @@
+{
+  "checksum": "c4bdb1d3eea1a366e9ed34d92521b578",
+  "room": {
+    "id": 36177,
+    "title": [
+      "[Emberstone Hall, Atrium]"
+    ],
+    "description": [
+      "The manor opens up into a large circular chamber with a high glass dome ceiling.  A dark ironwood tree rises up from the center of the room, its branches bathed in sunlight from above.  Finely dressed servants bustle between a mahogany archway and a long hallway, while a wide stairwell ascends to the second floor."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Emberstone Hall, inside the island town of Mist Harbor",
+    "climate": "none",
+    "terrain": "none",
+    "wayto": {
+      "36176": "go dark doors",
+      "36178": "go patio door",
+      "36179": "go archway",
+      "36180": "go hallway",
+      "36181": "go stairwell"
+    },
+    "timeto": {
+      "36176": 0.2,
+      "36178": 0.2,
+      "36179": 0.2,
+      "36180": 0.2,
+      "36181": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "private property"
+    ],
+    "uid": [
+      2005603
+    ]
+  }
+}

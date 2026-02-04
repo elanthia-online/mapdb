@@ -1,5 +1,5 @@
 {
-  "checksum": "4467d8c75badc9dbb4151d4f08cd0764",
+  "checksum": "ee38dbe3664d738c0d05f41b72b8f67d",
   "room": {
     "id": 24792,
     "title": [
@@ -13,14 +13,16 @@
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "6944": "go gate",
+      "6944": "go ironbound gate",
       "22035": "east",
-      "24811": "west"
+      "24811": "west",
+      "35985": "go boulder"
     },
     "timeto": {
       "6944": 0.2,
       "22035": 0.2,
-      "24811": 0.2
+      "24811": 0.2,
+      "35985": 0.2
     },
     "tags": [
       "meta:che:Helden Hall"

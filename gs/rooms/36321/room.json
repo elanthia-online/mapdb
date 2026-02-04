@@ -1,0 +1,42 @@
+{
+  "checksum": "70ab577ae5b8c601053e6d391ac061e8",
+  "room": {
+    "id": 36321,
+    "title": [
+      "[Albatross, Patrons' Hallway]"
+    ],
+    "description": [
+      "Elegant beeswax candles hang from the ceiling in hunter green glass holders, their light dappling the richly carpeted hallway and casting shadows along the rosewood walls.  Solid gold and silver filigree frame the entryways leading to the various shops on this level of the riverboat.  An ivory-inset mahogany archway and a gold-trimmed rosewood door rest on the western wall, which is lined with colorful tapestries.  Several chairs and serving trays are set out throughout the hallway."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36302": "go carved staircase",
+      "36322": "north",
+      "36323": "northeast",
+      "36324": "northwest",
+      "36325": "go rosewood door",
+      "36326": "east"
+    },
+    "timeto": {
+      "36302": 0.2,
+      "36322": 0.2,
+      "36323": 0.2,
+      "36324": 0.2,
+      "36325": 0.2,
+      "36326": 0.2
+    },
+    "uid": [
+      777320
+    ],
+    "image": "albatross-1342665555.png",
+    "image_coords": [
+      281,
+      511,
+      300,
+      531
+    ]
+  }
+}

@@ -1,2 +1,1 @@
-fput "get rope"
-move "push rope"
+fput "get rope";move "push rope"

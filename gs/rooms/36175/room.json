@@ -1,0 +1,34 @@
+{
+  "checksum": "d8d9251a1a4bf02807137807a7b18d55",
+  "room": {
+    "id": 36175,
+    "title": [
+      "[Emberstone Hall, Dock]"
+    ],
+    "description": [
+      "A wide driftwood dock rises above the water and stretches to a sandy beach where large palm trees sway with the ocean's breeze.  Meticulously carved wooden steps lead from the shore up to a high rolaren gate where a two-story manor lies beyond."
+    ],
+    "paths": [
+      "Obvious paths: west"
+    ],
+    "location": "Emberstone Hall, inside the island town of Mist Harbor",
+    "climate": "temperate",
+    "terrain": "hard, flat",
+    "wayto": {
+      "25834": "go boat",
+      "36176": "go gate"
+    },
+    "timeto": {
+      "25834": 0.2,
+      "36176": 0.2
+    },
+    "tags": [
+      "no forageables",
+      "Emberstone",
+      "private property"
+    ],
+    "uid": [
+      2005601
+    ]
+  }
+}

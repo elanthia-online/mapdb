@@ -1,5 +1,5 @@
 {
-  "checksum": "2cc7e7af07b10da610dbae369a97364e",
+  "checksum": "a34669bf9e774db443f6860d8fc0bf73",
   "room": {
     "id": 5604,
     "title": [
@@ -16,11 +16,13 @@
     "terrain": "none",
     "wayto": {
       "5602": "west",
-      "5603": "north"
+      "5603": "north",
+      "35241": "go opening"
     },
     "timeto": {
       "5602": 0.2,
-      "5603": 0.2
+      "5603": 0.2,
+      "35241": 0.2
     },
     "tags": [
       "meta:forage-sensed",

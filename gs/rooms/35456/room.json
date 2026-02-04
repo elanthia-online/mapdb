@@ -1,0 +1,27 @@
+{
+  "checksum": "4d865c989f83bd61f1375722fdba9d27",
+  "room": {
+    "id": 35456,
+    "title": [
+      "[Virelion Hall, Entry]"
+    ],
+    "description": [
+      "Lamplight spills across polished stone as the foyer opens into a wide, high-ceilinged space.  Deep violet banners hang between tall windows, each bearing the sigil of crossed blades in pale thread.  Weapon stands flank the walls, holding blunted practice arms and paired dueling sabres.  A faint scent of oiled leather lingers in the air, mingling with the colder breath of wind that trails in from the door."
+    ],
+    "paths": [
+      "Obvious exits: east, out"
+    ],
+    "location": "Summit Academy",
+    "wayto": {
+      "35455": "go door",
+      "35457": "east"
+    },
+    "timeto": {
+      "35455": 0.2,
+      "35457": 0.2
+    },
+    "uid": [
+      8211362
+    ]
+  }
+}

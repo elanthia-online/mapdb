@@ -1,5 +1,5 @@
 {
-  "checksum": "a0fd2e2ddbdce460711d9dd968c9e66f",
+  "checksum": "1cb1c48bee6f6d51e1fc33b7b154732f",
   "room": {
     "id": 33161,
     "title": [
@@ -12,10 +12,15 @@
       "Obvious exits: none"
     ],
     "location": "the town of Kharam-Dzu",
-    "wayto": {},
-    "timeto": {},
+    "wayto": {
+      "33160": "go curtain"
+    },
+    "timeto": {
+      "33160": 0.2
+    },
     "tags": [
-      "meta:locker"
+      "meta:locker",
+      "meta:che:white_haven:locker"
     ],
     "uid": [
       3003213

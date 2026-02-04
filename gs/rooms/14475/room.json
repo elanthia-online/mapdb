@@ -1,15 +1,17 @@
 {
-  "checksum": "883b9a7ab0db5d29051bd22a75efb8e0",
+  "checksum": "1ddbbb4d81c45d443813cb5473b60e0a",
   "room": {
     "id": 14475,
     "title": [
       "[Solindago Anox]"
     ],
     "description": [
+      "Sunlight falls in bands across the crushed seashell pathway that curves in a gentle arc from south to northwest, illuminating tiny animal-shaped ornaments in the thuja hedges that surround an iron gate.  Soft bleats, barks, and mooing can be heard from beyond the entry, which is marked with bold lettering across its expanse that reads, \"Petting Zoo.\"  A silvery green woolly hedgenettle grows along the northwestern edge of the pathway, its spear-shaped flowers dappled in violet petals.",
       "Verdant green borders contrast with the white gravel of the path.  The dense green-black of jungle growth looms to the southwest.  Occasionally the distinctive chattering and calls of primates echo through the air.  A wide open space, the colors indistinct in the moonlight, can be glimpsed to the northwest.",
       "Verdant green borders contrast with the white gravel of the path.  The dense green-black of jungle growth looms to the southwest.  Occasionally the distinctive chattering and calls of primates echo through the air.  A glimpse of the sandy colors of the savannah can be seen to the northwest."
     ],
     "paths": [
+      "Obvious paths: southeast, northwest",
       "Obvious paths: southeast, west, northwest"
     ],
     "location": "Solhaven",
@@ -18,11 +20,13 @@
     "wayto": {
       "14424": "southeast",
       "14473": "northwest",
+      "14474": "go iron gate",
       "14479": "west"
     },
     "timeto": {
       "14424": 0.2,
       "14473": 0.2,
+      "14474": 0.2,
       "14479": 0.2
     },
     "tags": [

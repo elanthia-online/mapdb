@@ -1,5 +1,5 @@
 {
-  "checksum": "58d917feb11b7f21e6775813d5d3097e",
+  "checksum": "4ae818a4cabb13ce6d61dffe98981d1e",
   "room": {
     "id": 33737,
     "title": [
@@ -14,12 +14,15 @@
     "location": "the town of Kharam-Dzu",
     "wayto": {
       "1939": "go mistwood arch",
-      "33738": "pull dwarvish tome"
+      "33738": "pull dwarvish tome in mistwood bookcase"
     },
     "timeto": {
       "1939": 0.2,
       "33738": 0.2
     },
+    "tags": [
+      "meta:che:cairnfang_manor:entrance_annex"
+    ],
     "uid": [
       3003128
     ],

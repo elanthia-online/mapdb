@@ -1,11 +1,12 @@
 {
-  "checksum": "c2431a5328d4b80f2d6879bdb5d78e81",
+  "checksum": "a1719d4e937c428c5ed9bea582c06412",
   "room": {
     "id": 20901,
     "title": [
       "[A Winding Trail]"
     ],
     "description": [
+      "Winding and steep, the trail moves from the jungle floor towards a ridge of gnarl-limbed zebrawood trees.  Bamboo and wire fencing is used to hold back the multiple tangles of tropical vines that threaten to clog the walking area.  At the bend, a cluster of rocks has been piled in an odd arrangement.  Tucked back behind a thick stand of trees is a moss-covered stone keep.",
       "Winding and steep, the trail moves from the jungle floor towards a ridge of gnarl-limbed zebrawood trees.  Bamboo and wire fencing is used to hold back the multiple tangles of liana, sweet pea, and calabash vines that threaten to clog the walking area.  At the bend, a cluster of rocks has been piled in an odd arrangement."
     ],
     "paths": [
@@ -16,11 +17,13 @@
     "terrain": "tropical",
     "wayto": {
       "20899": "down",
-      "20986": "northeast"
+      "20986": "northeast",
+      "36269": "go stone keep"
     },
     "timeto": {
       "20899": 0.2,
-      "20986": 0.2
+      "20986": 0.2,
+      "36269": 0.2
     },
     "tags": [
       "acantha leaf",

@@ -1,2 +1,1 @@
-fput "swim south"
-move "swim south"
+fput 'swim south'; move 'swim south'

@@ -1,11 +1,12 @@
 {
-  "checksum": "ac230d177a97fabb88818a031662bdf9",
+  "checksum": "73ffc9650345118d2638ea59b73bd797",
   "room": {
     "id": 4954,
     "title": [
       "[Seethe Naedal, Winding Path]"
     ],
     "description": [
+      "Passing through a dense copse of trees, the path continues its journey along the mountainside.  A smaller side pathway leads through the dense branches, as the trees invade the space of their neighbors, dueling for precious land.  Songbirds whistle the day away while a stream flows through the copse.  The stream spills over a rocky outcropping before rushing under a hollow log.",
       "Passing through a dense copse of trees, the path continues its journey along the mountainside.  The trees' branches greedily invade the space of their neighbors, dueling for precious sunlight.  Songbirds whistle the day away while a stream flows through the copse.  The stream spills over a rocky outcropping before rushing under a hollow log.",
       "Passing through a dense copse of trees, the path continues its journey along the mountainside.  The trees' branches greedily invade the space of their neighbors, dueling for precious space.  An owl hoots softly in the distance while a stream flows through the copse.  The stream spills over a rocky outcropping before rushing under a hollow log."
     ],
@@ -17,11 +18,13 @@
     "terrain": "mountainous",
     "wayto": {
       "4953": "east",
-      "4955": "northwest"
+      "4955": "northwest",
+      "36075": "go pathway"
     },
     "timeto": {
       "4953": 0.2,
-      "4955": 0.2
+      "4955": 0.2,
+      "36075": 0.2
     },
     "tags": [
       "angelica root",

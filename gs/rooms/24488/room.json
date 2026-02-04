@@ -1,5 +1,5 @@
 {
-  "checksum": "9007f0e0d8a1b5ee3e9a0614fe1a8ddf",
+  "checksum": "2d7e83b9acd1b72440f8c659467690fa",
   "room": {
     "id": 24488,
     "title": [
@@ -13,9 +13,11 @@
     ],
     "location": "Rone Academy",
     "wayto": {
-      "24484": "go staircase"
+      "24475": "out",
+      "24484": "go small staircase"
     },
     "timeto": {
+      "24475": 0.2,
       "24484": 0.2
     },
     "uid": [

@@ -1,1 +1,1 @@
-move("go iron door")
+move('go iron door')

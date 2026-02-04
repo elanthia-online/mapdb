@@ -1,11 +1,12 @@
 {
-  "checksum": "c6e0e8a92145ec028297ffac3a6ff029",
+  "checksum": "7a1e114f33bdff3b592c1bd7f004b2c4",
   "room": {
     "id": 13298,
     "title": [
       "[Solindago Anox, Entrance]"
     ],
     "description": [
+      "Built on an incline, the tunnel is fashioned from a combination of cobblestones and sandstone blocks that stretch between a massive stone arch to the south and some towering wrought iron gates to the north.  Large pavers of blue and white are surrounded by gold moss and purple carpet stonecrop, whose tiny flowerheads are favored by local hymenopteran species.  Illuminated by a strategically placed lantern, a silver sign hangs above a door, while a gift shop sits open, spilling a pool of light onto its entry.",
       "A stone tunnel leads from the main gates to the park itself, a wide slit in its top offering ample natural lighting.  To the west is a heavy ironwood door set between large glaes-paned picture windows that offer a view into a well-stocked gift shop.  To the east, a natural piece of ebonwood has been fitted into a door space marked by a silver sign."
     ],
     "paths": [
@@ -15,10 +16,10 @@
     "climate": "temperate",
     "terrain": "hard, flat",
     "wayto": {
-      "1603": "go gates",
+      "1603": "go wrought gates",
       "13299": "go door",
-      "13301": "go shop",
-      "14415": "go arch"
+      "13301": "go gift shop",
+      "14415": "go massive arch"
     },
     "timeto": {
       "1603": 0.2,

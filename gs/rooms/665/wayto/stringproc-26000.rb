@@ -1,1 +1,1 @@
-move "go thinness"
+move 'go thinness'

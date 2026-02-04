@@ -1,0 +1,40 @@
+{
+  "checksum": "7eeb153907b4d3ae7783de2e157536c8",
+  "room": {
+    "id": 35333,
+    "title": [
+      "[Sleeping Drake Harbor, Yuzu Way]"
+    ],
+    "description": [
+      "Perched at the crest of the gentle incline, a stately kermes oak spreads its vast canopy, casting intricate shadows over the cobblestone below, as well as the neighboring pawnshop and store.  The oak's gnarled branches cradle the breeze, their leaves rustling in soothing whispers.  Growing between the tree's lateral, ropey roots and along the edges of the street, wildflowers flourish in an untamed riot of color, crowding the street corners and spilling over the worn stones."
+    ],
+    "paths": [
+      "Obvious paths: north, south"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35332": "south",
+      "35334": "north",
+      "35339": "go oak",
+      "35340": "go pawnshop",
+      "35342": "go store"
+    },
+    "timeto": {
+      "35332": 0.2,
+      "35334": 0.2,
+      "35339": 0.2,
+      "35340": 0.2,
+      "35342": 0.2
+    },
+    "uid": [
+      7142129
+    ],
+    "image": "2Sleeping_Drake_Harbor_and_Bericsaba_Market.png",
+    "image_coords": [
+      854,
+      1029,
+      882,
+      1056
+    ]
+  }
+}

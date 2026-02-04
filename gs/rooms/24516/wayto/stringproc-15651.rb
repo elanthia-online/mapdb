@@ -1,2 +1,1 @@
-fput "kneel" until kneeling?
-move "go opening"
+fput 'kneel' until kneeling?; move 'go opening'

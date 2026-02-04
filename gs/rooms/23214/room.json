@@ -1,5 +1,5 @@
 {
-  "checksum": "92aa18a3f6937a81b25bd8a36564c2a1",
+  "checksum": "40846cdb95a490d228e69ad675751836",
   "room": {
     "id": 23214,
     "title": [
@@ -14,14 +14,17 @@
     "location": "White Haven",
     "wayto": {
       "23211": "go mural",
-      "23238": "go curtained opening"
+      "23238": "go curtain",
+      "33005": "go curtained opening"
     },
     "timeto": {
       "23211": 0.2,
-      "23238": 0.2
+      "23238": 0.2,
+      "33005": 0.2
     },
     "tags": [
-      "meta:che:White Haven"
+      "meta:che:White Haven",
+      "meta:che:white_haven:entrance_locker"
     ],
     "uid": [
       213040

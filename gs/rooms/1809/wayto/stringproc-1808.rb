@@ -1,1 +1,1 @@
-move "northeast" while checkpaths.include?("nw")
+move 'northeast' while checkpaths.include?('nw')

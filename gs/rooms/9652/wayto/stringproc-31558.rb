@@ -1,2 +1,1 @@
-2.times { fput "quest transport ebon gate" }
-UserVars.mapdb_ebon_gate_origin = 9652
+2.times{fput "event transport ebon gate"};UserVars.mapdb_ebon_gate_origin = 9652;

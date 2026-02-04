@@ -1,1 +1,1 @@
-move "go wooden door"
+move 'go wooden door'

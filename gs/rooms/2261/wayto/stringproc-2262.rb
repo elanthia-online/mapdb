@@ -1,1 +1,1 @@
-move "go gate"
+move 'go gate'

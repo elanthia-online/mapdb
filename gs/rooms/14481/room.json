@@ -1,5 +1,5 @@
 {
-  "checksum": "b22294872513943a8c2c9206fb157e49",
+  "checksum": "8fd425732f9e5766fc2c67e99f3ab297",
   "room": {
     "id": 14481,
     "title": [
@@ -9,6 +9,7 @@
       "Several long branching trees make up the primary focal point of the enclosed habitat to the west.  A few of the branches are bare, while several more have bushy leaves that rustle in the wind.  Glimpses of a spider monkey and a light brown lemur flash between the foliage of the enclosure."
     ],
     "paths": [
+      "Obvious paths: north",
       "Obvious paths: east, southeast"
     ],
     "location": "Solhaven",
@@ -16,10 +17,12 @@
     "terrain": "hard, flat",
     "wayto": {
       "14476": "east",
+      "14479": "north",
       "14480": "southeast"
     },
     "timeto": {
       "14476": 0.2,
+      "14479": 0.2,
       "14480": 0.2
     },
     "tags": [

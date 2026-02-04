@@ -1,5 +1,5 @@
 {
-  "checksum": "d847702cb383b59572920825dbd563d5",
+  "checksum": "e553ef13ca335a66ac3a906a63beea4c",
   "room": {
     "id": 6242,
     "title": [
@@ -12,6 +12,8 @@
       "Obvious exits: north, northeast, east, southeast, south, southwest, west, northwest"
     ],
     "location": "The Hidden Plateau",
+    "climate": "none",
+    "terrain": "none",
     "wayto": {
       "6236": "south",
       "6239": "north",
@@ -38,7 +40,9 @@
       "murdroot",
       "ironfern root",
       "bolmara lichen",
-      "meta:forage-sensed"
+      "meta:forage-sensed",
+      "wingstem root",
+      "meta:forage-sensed:night:2025-06"
     ],
     "uid": [
       2167082

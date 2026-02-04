@@ -1,1 +1,1 @@
-put "tap globe"
+put 'tap globe'

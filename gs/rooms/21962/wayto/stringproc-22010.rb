@@ -1,2 +1,1 @@
-waitrt?
-move "west"
+waitrt?; move 'west'

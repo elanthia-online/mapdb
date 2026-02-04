@@ -1,1 +1,1 @@
-fput "go manor"
+fput 'go manor'

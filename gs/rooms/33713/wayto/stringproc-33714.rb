@@ -1,1 +1,1 @@
-multifput "get rope", "push rope"
+multifput 'get rope', 'push rope'

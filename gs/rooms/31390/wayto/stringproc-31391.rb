@@ -1,2 +1,1 @@
-multifput "get vine", "push vine"
-waitrt?
+multifput "get vine","push vine"; waitrt?;

@@ -1,2 +1,2 @@
-fput "pull sconce"
-move "go chute"
+fput 'pull sconce'
+move 'go chute'

@@ -1,1 +1,1 @@
-move "go southwest"
+move 'go southwest'

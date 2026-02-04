@@ -1,2 +1,1 @@
-fput "go overhang"
-fput "go door"
+fput "go overhang";fput "go door"

@@ -1,1 +1,1 @@
-fput "jump"
+fput 'jump'

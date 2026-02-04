@@ -1,1 +1,1 @@
-(UserVars.mapdb_car_to_sos == true) ? 120 : nil
+if UserVars.mapdb_car_to_sos == true;120;else;nil;end

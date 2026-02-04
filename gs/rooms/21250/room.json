@@ -1,5 +1,5 @@
 {
-  "checksum": "8ee8fde8b5ed84fc4142a83edcd7758f",
+  "checksum": "4da1b2f0ca593ca351f828c4d19e00cd",
   "room": {
     "id": 21250,
     "title": [
@@ -13,8 +13,8 @@
     ],
     "location": "Wehnimer's Landing",
     "wayto": {
-      "21225": "go staircase",
-      "21259": "go door",
+      "21225": "go narrow staircase",
+      "21259": "go reinforced door",
       "21265": "go curtain",
       "21268": "northwest",
       "21280": "south"
@@ -28,7 +28,8 @@
     },
     "tags": [
       "meta:che:Silvergate Inn",
-      "meta:che:Silvergate Manor"
+      "meta:che:Silvergate Manor",
+      "meta:che:silvergate_inn:entrance_locker"
     ],
     "uid": [
       109009

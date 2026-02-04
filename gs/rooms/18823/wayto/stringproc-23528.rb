@@ -1,4 +1,1 @@
-checksitting ? while Room.current.id == 18823
-                 fput("row southeast")
-                 waitrt?
-               end : move("swim southeast")
+if checksitting;while Room.current.id == 18823;fput('row southeast');waitrt?;end;else;move('swim southeast');end;

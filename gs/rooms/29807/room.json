@@ -1,5 +1,5 @@
 {
-  "checksum": "9bdb3e8fa35d9c7209e6fef43414ff7d",
+  "checksum": "37e0b0bae0827b3fe4814fce32eb26ed",
   "room": {
     "id": 29807,
     "title": [
@@ -13,15 +13,16 @@
     ],
     "location": "Icemule Trace",
     "wayto": {
-      "26004": "/rooms/29807/wayto/stringproc-26004.rb",
-      "29808": "go curtain"
+      "26004": "pull small lever",
+      "29808": "go leather curtain"
     },
     "timeto": {
       "26004": 0.2,
       "29808": 0.2
     },
     "tags": [
-      "meta:locker annex:Silvergate Inn"
+      "meta:locker annex:Silvergate Inn",
+      "meta:che:silvergate_inn:entrance_locker"
     ],
     "uid": [
       4043264

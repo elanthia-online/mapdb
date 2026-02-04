@@ -1,5 +1,5 @@
 {
-  "checksum": "7d67f76de697a809af70469f2c7950c3",
+  "checksum": "ebbe6fbe052518ad17292289ae25c945",
   "room": {
     "id": 35174,
     "title": [
@@ -13,13 +13,22 @@
     ],
     "location": "Glaoveln",
     "wayto": {
-      "35175": "southwest"
+      "35175": "southwest",
+      "35750": "north"
     },
     "timeto": {
-      "35175": 0.2
+      "35175": 0.2,
+      "35750": 0.2
     },
     "uid": [
       4426121
+    ],
+    "image": "imt-glaoveln-1754606664.png",
+    "image_coords": [
+      947,
+      1612,
+      968,
+      1632
     ]
   }
 }

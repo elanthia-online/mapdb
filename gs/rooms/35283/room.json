@@ -1,0 +1,40 @@
+{
+  "checksum": "364b73fd3297b617fd4123e9f48fe227",
+  "room": {
+    "id": 35283,
+    "title": [
+      "[Sleeping Drake Harbor, Ixia Ave]"
+    ],
+    "description": [
+      "Nestled beneath travertine terraces, a small avenue features the beginnings of a grand staircase that rises towards the cliffs above.  Carved into the stone, the steps resemble the scales of a dragon's back, and a pair of stone statues guards the ascent.  Surrounding the staircase are several vine-covered buildings, their walls adorned with blooming vines and their roofs covered in terracotta.  Clusters of cistus shrubs stretch between a white wooden gate and the open doors of a sturdy stable, their delicate blooms perfuming the air."
+    ],
+    "paths": [
+      "Obvious paths: east, west"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35245": "go gate",
+      "35284": "west",
+      "35296": "east",
+      "35367": "go stable",
+      "35370": "go staircase"
+    },
+    "timeto": {
+      "35245": 0.2,
+      "35284": 0.2,
+      "35296": 0.2,
+      "35367": 0.2,
+      "35370": 0.2
+    },
+    "uid": [
+      7142108
+    ],
+    "image": "2Sleeping_Drake_Harbor_and_Bericsaba_Market.png",
+    "image_coords": [
+      686,
+      778,
+      719,
+      807
+    ]
+  }
+}

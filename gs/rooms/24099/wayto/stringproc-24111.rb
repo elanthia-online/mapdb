@@ -1,3 +1,1 @@
-fput "search"
-fput "crawl opening"
-move "up"
+fput "search";fput "crawl opening";move "up"

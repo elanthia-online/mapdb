@@ -1,2 +1,2 @@
-fput "unhide" if checkspell "invisibility"
-move "go rope"
+fput 'unhide' if checkspell 'invisibility'
+move 'go rope'

@@ -1,1 +1,1 @@
-move (XMLData.room_exits - ["west"]).first
+move (XMLData.room_exits - [ 'west' ]).first

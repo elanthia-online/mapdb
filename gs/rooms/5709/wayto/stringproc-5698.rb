@@ -1,2 +1,2 @@
-fput "search"
-move "go window"
+fput 'search'
+move 'go window'

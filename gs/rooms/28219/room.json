@@ -1,5 +1,5 @@
 {
-  "checksum": "394b2426aeeeefde673793d77519a5d2",
+  "checksum": "b0ac9a32de20eaea7c0337cf2abf9789",
   "room": {
     "id": 28219,
     "title": [
@@ -13,9 +13,9 @@
     ],
     "location": "Solhaven",
     "wayto": {
-      "1431": "go door",
-      "28220": "go staircase",
-      "28221": "go archway"
+      "1431": "go oak door",
+      "28220": "go carved staircase",
+      "28221": "go low-beamed archway"
     },
     "timeto": {
       "1431": 0.2,
@@ -24,7 +24,8 @@
     },
     "tags": [
       "meta:forage-sensed",
-      "meta:locker annex:House Sylvanfair"
+      "meta:locker annex:House Sylvanfair",
+      "meta:che:sylvanfair:entrance_annex"
     ],
     "uid": [
       4219500

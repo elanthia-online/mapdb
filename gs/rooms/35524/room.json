@@ -1,0 +1,35 @@
+{
+  "checksum": "b4cbba1a62d30d25f899d5488fbb1fa0",
+  "room": {
+    "id": 35524,
+    "title": [
+      "[Tideswept Bazaar]"
+    ],
+    "description": [
+      "Winding through submerged rock, the coral tunnel is lined with spiny ridges and bulbous growths in muted hues.  Glowing sea plants cling to walls and ceiling, their soft radiance casting shifting patterns across the passage.  Schools of small, sleek swimmers dart between roots and crevices, flashing silver and blue.  At the far end, a narrow opening filters light from beyond, illuminating suspended particles and outlining the silhouettes of marine life as they vanish into deeper water."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Mist Harbor",
+    "wayto": {
+      "35523": "n",
+      "35525": "s",
+      "35537": "go opening",
+      "35538": "go grotto",
+      "35540": "go kelp",
+      "35542": "go blue door"
+    },
+    "timeto": {
+      "35523": 0.2,
+      "35525": 0.2,
+      "35537": 0.2,
+      "35538": 0.2,
+      "35540": 0.2,
+      "35542": 0.2
+    },
+    "uid": [
+      4410312
+    ]
+  }
+}

@@ -1,3 +1,1 @@
-empty_hands
-move "go slope"
-fill_hands
+empty_hands;move 'go slope';fill_hands

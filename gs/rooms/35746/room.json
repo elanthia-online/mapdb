@@ -1,0 +1,37 @@
+{
+  "checksum": "6425401ed0ec36281723f4051b3abc14",
+  "room": {
+    "id": 35746,
+    "title": [
+      "[The Kyusharu, Stateroom]"
+    ],
+    "description": [
+      "Near its entry hatch, crossbeams strain to support the cabin's fractured overhead, though they are slowly yielding to the weight of the ship's damaged aftercastle above.  Several broken planks have fallen into the clots of muck covering what was once a vibrantly colored carpet.  Battered furnishings and ruined treasures are scattered haphazardly about, one marble bust with a crack down its base staring up from the base of a mosaic arch of pearl and agate tesserae that leads further into the stateroom."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35745": "go hatch",
+      "35747": "go arch"
+    },
+    "timeto": {
+      "35745": 0.2,
+      "35747": 0.2
+    },
+    "tags": [
+      "no forageables"
+    ],
+    "uid": [
+      7150519
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1160,
+      2440,
+      1240,
+      2520
+    ]
+  }
+}

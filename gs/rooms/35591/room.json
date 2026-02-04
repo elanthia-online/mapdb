@@ -1,0 +1,38 @@
+{
+  "checksum": "89de936e66950f77b211330875e45c63",
+  "room": {
+    "id": 35591,
+    "title": [
+      "[The Contempt, Hold]"
+    ],
+    "description": [
+      "Far from the open air and the activity of the other decks, the hold is dark and echoes with a symphony of creaking timbers and dripping water.  Though a skim of water lingers over the swollen planks of the deck, most of the cargo, a collection of crates, barrels, and foot lockers in a variety of makes, remains dry and secured by lengths of line.  A single sea lamp swings from a rusted iron chain overhead, throwing fitful light over the cavernous space."
+    ],
+    "paths": [
+      "Obvious exits: west"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35590": "climb ladder",
+      "35592": "west"
+    },
+    "timeto": {
+      "35590": 0.2,
+      "35592": 0.2
+    },
+    "tags": [
+      "furrier",
+      "no forageables"
+    ],
+    "uid": [
+      7150615
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      4360,
+      1160,
+      4440,
+      1240
+    ]
+  }
+}

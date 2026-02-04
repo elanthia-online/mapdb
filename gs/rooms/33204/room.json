@@ -1,5 +1,5 @@
 {
-  "checksum": "a05cbc2c7cc57290bbc31ba0bf1904fa",
+  "checksum": "32d1269b46ade516c5085304177e4a0b",
   "room": {
     "id": 33204,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "Icemule Trace",
     "wayto": {
-      "33203": "pull lever"
+      "33203": "pull small lever",
+      "36085": "go leather curtain"
     },
     "timeto": {
-      "33203": 0.2
+      "33203": 0.2,
+      "36085": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       4043941

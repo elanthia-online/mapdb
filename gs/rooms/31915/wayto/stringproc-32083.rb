@@ -1,3 +1,1 @@
-fput "search"
-waitrt?
-move("go black arch")
+fput 'search';waitrt?;move ('go black arch')

@@ -1,0 +1,32 @@
+{
+  "checksum": "5ee597417867932726d9dd0dd78ab7f7",
+  "room": {
+    "id": 36081,
+    "title": [
+      "[Rone Academy, Locker Entrance]"
+    ],
+    "description": [
+      "This small room smells of years of dust and mildew.  Books needing repair are stacked all around.  Scrolls are grouped according to their contents, each waiting to be painstakingly cross-translated into the tongues of Elanthia and bound into volumes."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Rone Academy",
+    "wayto": {
+      "24473": "pull iron lever",
+      "36082": "go #-12489",
+      "36083": "go #-12369"
+    },
+    "timeto": {
+      "24473": 0.2,
+      "36082": 0.2,
+      "36083": 0.2
+    },
+    "tags": [
+      "meta:che:rone_academy:entrance_locker"
+    ],
+    "uid": [
+      217052
+    ]
+  }
+}

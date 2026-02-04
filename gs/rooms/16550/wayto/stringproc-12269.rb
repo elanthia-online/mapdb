@@ -1,2 +1,1 @@
-move "out"
-$go2_restart = true
+move 'out'; $go2_restart = true

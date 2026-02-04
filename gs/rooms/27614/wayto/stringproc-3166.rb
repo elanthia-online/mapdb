@@ -1,2 +1,1 @@
-move "go path"
-$go2_restart = true
+move "go path";$go2_restart = true

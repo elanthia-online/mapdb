@@ -1,1 +1,1 @@
-move "out"
+move 'out'

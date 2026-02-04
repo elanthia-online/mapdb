@@ -1,3 +1,1 @@
-fput "kneel"
-move "go burrow"
-fput "stand"
+fput 'kneel'; move 'go burrow'; fput 'stand'

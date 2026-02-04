@@ -1,0 +1,31 @@
+{
+  "checksum": "f4297d2fc2adb43711540733c1b8ec6b",
+  "room": {
+    "id": 35993,
+    "title": [
+      "[Helden Hall Annex]"
+    ],
+    "description": [
+      "Two huge toadstools in large stone pots illuminate a large, comfortable room.  Dusky brown granite benches line two of the marble walls, facing each other across the sapphire carpet.  Above one bench hangs the Helden Hall house crest.  On one wall, a brass arch allows exit to the corridor outside, while on the other wall a curtain provides entrance to the locker area."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Zul Logoth",
+    "wayto": {
+      "9500": "go brass arch",
+      "35994": "go curtain"
+    },
+    "timeto": {
+      "9500": 0.2,
+      "35994": 0.2
+    },
+    "tags": [
+      "meta:che:helden_hall:entrance_annex",
+      "meta:che:helden_hall:entrance_locker"
+    ],
+    "uid": [
+      13010149
+    ]
+  }
+}

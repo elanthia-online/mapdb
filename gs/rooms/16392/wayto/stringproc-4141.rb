@@ -1,3 +1,1 @@
-move "jump"
-waitrt?
-fill_hands
+move 'jump'; waitrt?; fill_hands

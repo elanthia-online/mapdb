@@ -1,5 +1,5 @@
 {
-  "checksum": "6cb54525bdd7472b024f01bbe347c4c2",
+  "checksum": "48dafe8fb3424ffa8cf237bfd8b8600e",
   "room": {
     "id": 29869,
     "title": [
@@ -22,7 +22,8 @@
       "29871": "northwest",
       "29872": "northeast",
       "29877": "go tavern",
-      "31083": "/rooms/29869/wayto/stringproc-31083.rb"
+      "31083": "/rooms/29869/wayto/stringproc-31083.rb",
+      "35783": "go stone path"
     },
     "timeto": {
       "3668": "/rooms/29869/timeto/stringproc-3668.rb",
@@ -32,13 +33,13 @@
       "29871": 0.2,
       "29872": 0.2,
       "29877": 0.2,
-      "31083": 0.2
+      "31083": 0.2,
+      "35783": 0.2
     },
     "tags": [
       "sassafras leaf",
       "sweetfern stalk",
       "red lichen",
-      "feverfern stalk",
       "gok nut",
       "manroot stalk",
       "angelica root",
@@ -56,8 +57,9 @@
       "wingstem root",
       "meta:forage-sensed",
       "meta:forage-sensed:night:2023-01",
-      "meta:forage-sensed:day:2023-01",
-      "meta:fwi:teleport"
+      "meta:fwi:teleport",
+      "feverfew stalk",
+      "meta:forage-sensed:day:2025-03"
     ],
     "uid": [
       7503202

@@ -1,5 +1,5 @@
 {
-  "checksum": "9bc6d05968f304d4e9ca6f6b72a35055",
+  "checksum": "0cb5934a199bd90c65eab4e80e819e98",
   "room": {
     "id": 35173,
     "title": [
@@ -13,13 +13,25 @@
     ],
     "location": "Glaoveln",
     "wayto": {
-      "34967": "northwest"
+      "34967": "northwest",
+      "35748": "southeast"
     },
     "timeto": {
-      "34967": 0.2
+      "34967": 0.2,
+      "35748": 0.2
     },
+    "tags": [
+      "portmaster"
+    ],
     "uid": [
       4426117
+    ],
+    "image": "imt-glaoveln-1754606664.png",
+    "image_coords": [
+      796,
+      1412,
+      816,
+      1430
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checksum": "f19bb38c7b812ff7fcf998a9d747d14b",
+  "checksum": "0166e1b5ef539a5273d3e97d0ffca016",
   "room": {
     "id": 33206,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "River's Rest",
     "wayto": {
-      "33205": "east"
+      "33205": "east",
+      "36086": "go beaded curtain"
     },
     "timeto": {
-      "33205": 0.2
+      "33205": 0.2,
+      "36086": 0.2
     },
     "tags": [
-      "meta:locker annex:Rone Academy"
+      "meta:locker annex:Rone Academy",
+      "meta:che:rone_academy:entrance_locker"
     ],
     "uid": [
       5001278

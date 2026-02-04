@@ -1,11 +1,12 @@
 {
-  "checksum": "6ea46baea0b9232a751e9b62ff3fd5f4",
+  "checksum": "947d03b2fa2c9b4f4c9ff3a17b7e541c",
   "room": {
     "id": 34944,
     "title": [
       "[Nereid's Cradle, Canopied Walk]"
     ],
     "description": [
+      "Multiple pieces of stitched-together linens cover the area and drape down to the boardwalk's edges, forming a dim tunnel of planks, pillars, and cloth.  Through a few pinned-back sections of this linen canopy, the night sky is visible.  Small, rug-covered squares line the tunnel, offering additional space for market stalls.  This tunnel gives way to an open boardwalk with a wooden fountain at its center, surrounded by several cloth pillows and a series of lanterns.",
       "Multiple pieces of colorful, stitched-together linen cover the area and drape down to the boardwalk's edges, which paints this area in a soft, multihued glow during the day.  Small, rug-covered squares mark the path forward and offer additional space for market stalls.  These stalls give way to an open boardwalk with a wooden fountain at its center, surrounded by several cloth pillows and a series of lanterns."
     ],
     "paths": [
@@ -14,11 +15,13 @@
     "location": "Kraken's Fall",
     "wayto": {
       "34941": "south",
-      "34945": "west"
+      "34945": "west",
+      "35234": "go stairs"
     },
     "timeto": {
       "34941": 0.2,
-      "34945": 0.2
+      "34945": 0.2,
+      "35234": 0.2
     },
     "uid": [
       7132101

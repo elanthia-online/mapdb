@@ -1,2 +1,1 @@
-move "go stream"
-waitrt?
+move 'go stream'; waitrt?

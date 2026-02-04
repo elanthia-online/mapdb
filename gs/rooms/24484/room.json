@@ -1,11 +1,12 @@
 {
-  "checksum": "250ba07e66e1b5620fa32ae468947e0c",
+  "checksum": "87066f4ec038ea1c2e9990531309ea72",
   "room": {
     "id": 24484,
     "title": [
       "[Rone Academy, Cathedral]"
     ],
     "description": [
+      "Moonlight floats down through tall, stained-glass windows from the gabled ceiling of the Cathedral.  Elevated by a two-step platform, the altar is located in the middle of the rectangular cathedral and circled by wooden chairs padded with soft material for comfort.  The cream colored marble floor shines as if newly polished.  To the right of the altar is the ambo, where sacred scrolls are placed.",
       "Sunlight streams through tall, stained-glass windows from the gabled ceiling of the cathedral.  Elevated by a two-step platform, the altar is located in the middle of the rectangular cathedral and circled by wooden chairs padded with soft material for comfort.  The cream colored marble floor shines as if newly polished.  To the right of the altar is the ambo, where sacred scrolls are placed."
     ],
     "paths": [
@@ -13,8 +14,8 @@
     ],
     "location": "Rone Academy",
     "wayto": {
-      "24483": "go arch",
-      "24489": "go doors"
+      "24483": "go open arch",
+      "24489": "go stained doors"
     },
     "timeto": {
       "24483": 0.2,

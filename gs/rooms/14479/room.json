@@ -1,5 +1,5 @@
 {
-  "checksum": "f8b99be62da5e76c0a5473528a62473b",
+  "checksum": "7178f362f883acaa6ee9486b63126da3",
   "room": {
     "id": 14479,
     "title": [
@@ -9,6 +9,7 @@
       "Numerous trees and leafy plants fill the enclosure to the south, forming a thriving jungle surrounded by walls of stone.  A small waterfall cascades down the back wall and flows into a stream that heads towards the south wall of the habitat.  Brief glimpses of movement disturb the foliage, and a silver-backed black gorilla can be seen through the leaves."
     ],
     "paths": [
+      "Obvious paths: north, south",
       "Obvious paths: east, west"
     ],
     "location": "Solhaven",
@@ -16,11 +17,13 @@
     "terrain": "hard, flat",
     "wayto": {
       "14475": "east",
-      "14476": "west"
+      "14476": "north",
+      "14481": "south"
     },
     "timeto": {
       "14475": 0.2,
-      "14476": 0.2
+      "14476": 0.2,
+      "14481": 0.2
     },
     "tags": [
       "no forageables",

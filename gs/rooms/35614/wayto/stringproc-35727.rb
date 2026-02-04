@@ -1,0 +1,1 @@
+fput 'search'; waitrt?; fput 'go gash'

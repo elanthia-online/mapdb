@@ -1,0 +1,31 @@
+{
+  "checksum": "3943634e0f3dbd685f58e3e4aff38fb8",
+  "room": {
+    "id": 36006,
+    "title": [
+      "[House Annex, Helden Hall]"
+    ],
+    "description": [
+      "Devoid of nearby furnishings, a serpent-entwined claidhmore mural decorates the western wall under the light of several frosted glaesine globes that dangle from the ceiling.  Plush argent carpeting dappled with azure threads lends the otherwise austere space a coziness that is enhanced by the presence of a pale blue crushed velvet settee.  A lacquered beige door leads to the hallway, while a silver-edged lapis blue silk curtain provides access to the storage facilities."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Kraken's Fall",
+    "wayto": {
+      "26923": "go beige door",
+      "36007": "go lapis curtain"
+    },
+    "timeto": {
+      "26923": 0.2,
+      "36007": 0.2
+    },
+    "tags": [
+      "meta:che:helden_hall:entrance_locker",
+      "meta:che:helden_hall:entrance_annex"
+    ],
+    "uid": [
+      7121232
+    ]
+  }
+}

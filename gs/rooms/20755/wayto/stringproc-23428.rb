@@ -1,1 +1,1 @@
-move "go east"
+move 'go east'

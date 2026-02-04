@@ -1,1 +1,1 @@
-$platinum ? move("go furrier") : move("go warehouse")
+if $platinum; move 'go furrier'; else; move 'go warehouse'; end

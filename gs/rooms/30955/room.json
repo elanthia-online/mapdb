@@ -1,5 +1,5 @@
 {
-  "checksum": "6fa06604fbcce3b179d9eeca951d0e22",
+  "checksum": "506e1414a18833dc77d503dc393077c5",
   "room": {
     "id": 30955,
     "title": [
@@ -13,10 +13,12 @@
     ],
     "location": "the free port of Solhaven",
     "wayto": {
-      "30954": "go staircase"
+      "30954": "go staircase",
+      "36068": "pull sconces"
     },
     "timeto": {
-      "30954": 0.2
+      "30954": 0.2,
+      "36068": 0.2
     },
     "tags": [
       "meta:che:Cairnfang Manor"

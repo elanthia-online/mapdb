@@ -1,5 +1,5 @@
 {
-  "checksum": "d704679c99a6b64e270ece5bd5db2328",
+  "checksum": "c8aa996140ff18d99c08e152d033f452",
   "room": {
     "id": 26798,
     "title": [
@@ -15,22 +15,21 @@
     "climate": "none",
     "terrain": "none",
     "wayto": {
-      "18140": "/rooms/26798/wayto/stringproc-18140.rb",
-      "26799": "east",
-      "26803": "go curtain",
-      "32740": "west"
+      "18140": "west",
+      "18145": "east",
+      "26803": "go curtain"
     },
     "timeto": {
       "18140": 0.2,
-      "26799": 0.6,
-      "26803": 240,
-      "32740": 0.2
+      "18145": 0.2,
+      "26803": 240
     },
     "tags": [
       "no forageables",
       "meta:forage-sensed",
       "meta:forage-sensed:night:2022-11",
-      "publiclockers"
+      "publiclockers",
+      "public locker"
     ],
     "uid": [
       13102011

@@ -1,2 +1,1 @@
-move "go edge"
-waitrt?
+move 'go edge'; waitrt?

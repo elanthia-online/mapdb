@@ -1,1 +1,1 @@
-fput "go path"
+fput 'go path'

@@ -1,1 +1,1 @@
-wait_until { Map.current.id != 30815 }
+wait_until{Map.current.id != 30815}

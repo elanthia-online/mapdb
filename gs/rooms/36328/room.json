@@ -1,0 +1,36 @@
+{
+  "checksum": "d418c299f8cb958e21389091ba3a78ed",
+  "room": {
+    "id": 36328,
+    "title": [
+      "[Albatross, Upper Hallway]"
+    ],
+    "description": [
+      "Narrow lengths of purple carpeting cover the dark chestnut marble flooring of the hallway.  On the north wall is a heavy rosewood door and on the opposite wall facing it is a silver-traced door.  The remainder of the hallway branches off into other rooms, likely the quarters for the staff on the riverboat."
+    ],
+    "paths": [
+      "Obvious exits: east"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36327": "east",
+      "36330": "go silver-traced door",
+      "36331": "go rosewood door"
+    },
+    "timeto": {
+      "36327": 0.2,
+      "36330": 0.2,
+      "36331": 0.2
+    },
+    "uid": [
+      777330
+    ],
+    "image": "albatross-1342665555.png",
+    "image_coords": [
+      492,
+      441,
+      510,
+      460
+    ]
+  }
+}

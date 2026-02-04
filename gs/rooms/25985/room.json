@@ -1,5 +1,5 @@
 {
-  "checksum": "9564ea22028b4824f7752650fc39e935",
+  "checksum": "bedb0cfd3bbb6ce9b45664f1bcb1d5a2",
   "room": {
     "id": 25985,
     "title": [
@@ -15,10 +15,11 @@
     "climate": "temperate",
     "terrain": "cultivated",
     "wayto": {
-      "25984": "go gate",
+      "1451": "go mistwood gate",
       "26834": "/rooms/25985/wayto/stringproc-26834.rb"
     },
     "timeto": {
+      "1451": 0.2,
       "25984": 0.2,
       "26834": 0.2
     },

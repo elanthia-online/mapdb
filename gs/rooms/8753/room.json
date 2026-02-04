@@ -1,5 +1,5 @@
 {
-  "checksum": "3a5f3f8df89290a757a76fe32da3e72e",
+  "checksum": "9feb7791ba0c12432f4bf629d93bae24",
   "room": {
     "id": 8753,
     "title": [
@@ -16,12 +16,14 @@
     "climate": "temperate",
     "terrain": "plain dirt",
     "wayto": {
-      "302": "go path",
-      "21330": "go door"
+      "302": "go stone-lined path",
+      "21330": "go polished door",
+      "21333": "west"
     },
     "timeto": {
       "302": 0.2,
-      "21330": 0.2
+      "21330": 0.2,
+      "21333": 0.2
     },
     "tags": [
       "some calamia fruit",

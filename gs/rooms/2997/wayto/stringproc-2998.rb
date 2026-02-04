@@ -1,1 +1,1 @@
-move "climb landslide"
+move 'climb landslide'

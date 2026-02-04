@@ -1,2 +1,1 @@
-fput "search"
-move("go crystalline glade")
+fput 'search';move('go crystalline glade')

@@ -1,2 +1,1 @@
-move("go cave")
-fput "stand"
+move('go cave'); fput 'stand'

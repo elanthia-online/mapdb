@@ -1,1 +1,1 @@
-move "go opening"
+move 'go opening'

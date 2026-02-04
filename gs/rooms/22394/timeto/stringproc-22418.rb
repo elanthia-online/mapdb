@@ -1,1 +1,1 @@
-(Stats.race == "Dwarf") ? 0.2 : nil
+Stats.race == 'Dwarf' ? 0.2 : nil

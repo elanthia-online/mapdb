@@ -1,0 +1,32 @@
+{
+  "checksum": "d853f8aed7068c18296ea3dfcbc62048",
+  "room": {
+    "id": 36076,
+    "title": [
+      "[Chalet Cairnfang, Approach]"
+    ],
+    "description": [
+      "Conifers give way to a veritable alpine oasis perched on the side of the mountain, where deposits of slate and granite rise to prominence toward rocky crags above.  Nestled atop a gently sloping grassy knoll, a rustic fel-framed chalet is afforded a grand view of the vista below, with tended flowerbeds cradling its perimeter.  Patches of sunlight gently dapple the tree-laden path behind a simple cedarwood bridge leading across the brook, while a woven trellis draped in flowering wisteria beckons eastward."
+    ],
+    "paths": [
+      "Obvious paths: east"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "36075": "go cedarwood bridge",
+      "36077": "east",
+      "36078": "go fel-framed chalet"
+    },
+    "timeto": {
+      "36075": 0.2,
+      "36077": 0.2,
+      "36078": 0.2
+    },
+    "tags": [
+      "meta:che:cairnfang_manor:entrance_annex"
+    ],
+    "uid": [
+      13112526
+    ]
+  }
+}

@@ -1,2 +1,2 @@
-move "climb up"
+move 'climb up'
 waitrt?

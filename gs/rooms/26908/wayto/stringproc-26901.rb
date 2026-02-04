@@ -1,2 +1,1 @@
-fput "search"
-move "go panel"
+fput 'search'; move 'go panel'

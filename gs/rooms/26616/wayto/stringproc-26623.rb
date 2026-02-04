@@ -1,2 +1,1 @@
-fput "search"
-move "go rope"
+fput 'search'; move 'go rope'

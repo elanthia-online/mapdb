@@ -1,0 +1,30 @@
+{
+  "checksum": "f472c98feb305a860c3346ce44afed7d",
+  "room": {
+    "id": 36149,
+    "title": [
+      "[The Cherry Lounge]"
+    ],
+    "description": [
+      "The walls are covered in panels of rich cherry wood which reflect the light of the sconce, adding to the warm comfort of the room.  Embroidered chairs are set about the room in no apparent order.  A small table is drawn up next to one of the chairs with a small opened book resting on top.  A sword and a staff are mounted above the artfully carved marble hearth, crossing each other in a symbol of defense."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "13276": "go arch",
+      "36150": "pull candle sconce"
+    },
+    "timeto": {
+      "13276": 0.2,
+      "36150": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_annex"
+    ],
+    "uid": [
+      13112104
+    ]
+  }
+}

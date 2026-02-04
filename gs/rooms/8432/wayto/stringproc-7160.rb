@@ -1,2 +1,1 @@
-move "go tree"
-waitrt?
+move 'go tree'; waitrt?

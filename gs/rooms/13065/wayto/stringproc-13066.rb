@@ -1,2 +1,2 @@
-fput "search"
-move "go cleft"
+fput 'search'
+move 'go cleft'

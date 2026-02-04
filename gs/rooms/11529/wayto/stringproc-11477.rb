@@ -1,2 +1,2 @@
 empty_hands
-move "go opening"
+move 'go opening'

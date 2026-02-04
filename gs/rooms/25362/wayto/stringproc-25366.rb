@@ -1,1 +1,1 @@
-fput "go pantry"
+fput 'go pantry'

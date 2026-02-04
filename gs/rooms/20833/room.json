@@ -1,5 +1,5 @@
 {
-  "checksum": "084487ec2c8b31ec899a07d61564353f",
+  "checksum": "f0411b6ba449bde871ab7ca168f44470",
   "room": {
     "id": 20833,
     "title": [
@@ -14,14 +14,15 @@
     "location": "Wehnimer's Landing",
     "wayto": {
       "20831": "north",
-      "20834": "go opening"
+      "20834": "go curtained opening"
     },
     "timeto": {
       "20831": 0.2,
       "20834": 0.2
     },
     "tags": [
-      "meta:che:House Sovyn"
+      "meta:che:House Sovyn",
+      "meta:che:sovyn:entrance_locker"
     ],
     "uid": [
       210701

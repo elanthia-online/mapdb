@@ -1,2 +1,2 @@
-move "climb dock"
+move 'climb dock'
 fill_hands

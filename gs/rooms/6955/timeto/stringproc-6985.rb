@@ -1,1 +1,1 @@
-(XMLData.level > 19) ? 33.2 : nil
+XMLData.level > 19 ? 33.2 : nil

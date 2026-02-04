@@ -1,2 +1,1 @@
-multifput "search", "go opening"
-waitrt?
+multifput "search","go opening"; waitrt?;

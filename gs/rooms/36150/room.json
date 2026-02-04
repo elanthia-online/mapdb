@@ -1,0 +1,30 @@
+{
+  "checksum": "c2378eda5043043f4534476647748f70",
+  "room": {
+    "id": 36150,
+    "title": [
+      "[A Stone Chamber]"
+    ],
+    "description": [
+      "A single oil lamp hanging from the high vaulted ceiling illuminates the small oval chamber.  Smooth, dark-veined granite walls rise into the shadowed darkness.  Firmly bolted to the wall at one side of the room is a small, cast-iron ring.  At the far end of the chamber is a simple curtained opening."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "the Lost Home",
+    "wayto": {
+      "36149": "pull ring",
+      "36151": "go curtained opening"
+    },
+    "timeto": {
+      "36149": 0.2,
+      "36151": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_locker"
+    ],
+    "uid": [
+      13112204
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-(Skills.climbing >= [percentencumbrance / 1.25, 12].max) ? 3.0 : nil
+if Skills.climbing >= [XMLData.encumbrance_value/1.25,12].max; 3.0; else; nil; end

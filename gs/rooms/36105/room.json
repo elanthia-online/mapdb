@@ -1,0 +1,38 @@
+{
+  "checksum": "9b6a95763c8f53fcc04b41e5dcb817cd",
+  "room": {
+    "id": 36105,
+    "title": [
+      "[House Arcane, Hallway]"
+    ],
+    "description": [
+      "You pass along the carpeted hall under the soft, amber glow of lamplight.  To one side is a heavy oak door with a misshapen knob and a small plaque set into the surface.  Across from it, a varnished wooden door leads to Lord Corwin's chamber.  Hanging on the wall nearby is a hand drawn map of lands you recognize as having been spoken of by Sages in ancient tales."
+    ],
+    "paths": [
+      "Obvious exits: north, south"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36104": "north",
+      "36106": "south",
+      "36107": "go oak door",
+      "36108": "go wooden door"
+    },
+    "timeto": {
+      "36104": 0.2,
+      "36106": 0.2,
+      "36107": 0.2,
+      "36108": 0.2
+    },
+    "uid": [
+      105301
+    ],
+    "image": "wl-house_arcane-1765480679.png",
+    "image_coords": [
+      240,
+      341,
+      322,
+      423
+    ]
+  }
+}

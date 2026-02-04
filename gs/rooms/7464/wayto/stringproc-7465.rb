@@ -1,2 +1,1 @@
-fput "kneel" unless kneeling? || (Stats.race =~ /Dwarf|Halfling|Gnome/)
-move "south"
+fput 'kneel' unless kneeling? or (Stats.race =~ /Dwarf|Halfling|Gnome/); move 'south'

@@ -1,0 +1,41 @@
+{
+  "checksum": "2a9ae757789e0b2fe028f0b20bc58e35",
+  "room": {
+    "id": 35731,
+    "title": [
+      "[The Kyusharu, Aft]"
+    ],
+    "description": [
+      "Weather-beaten oak planks tilt sharply toward a yawning gap where the merchant cog's shattered taffrail once stood.  Splintered timbers jut outward like broken ribs, offering a perilous climb down to the jagged islet below.  Slick tangles of sargassum drape rotting steps descending toward the scant space of the main deck, their sickly green dark against the sun-bleached wood.  Each rising swell rocks the ship and sends sprays of stinging brine cascading down over its beaten form."
+    ],
+    "paths": [
+      "Obvious paths: west, down"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35730": "go timbers",
+      "35732": "west",
+      "35745": "down"
+    },
+    "timeto": {
+      "35730": 0.2,
+      "35732": 0.2,
+      "35745": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150517
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1000,
+      2280,
+      1080,
+      2360
+    ]
+  }
+}

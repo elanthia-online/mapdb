@@ -1,0 +1,36 @@
+{
+  "checksum": "160471d9e3dd41c74a50931326bd13b4",
+  "room": {
+    "id": 35860,
+    "title": [
+      "[River Muagh, Confluence]"
+    ],
+    "description": [
+      "The rushing waters of the river are met by a surging, tributary stream from the eastern bank, and the flow of the river shifts northward as it meanders between crowded canver and mistwood trees.  Thin, thorn-covered vines hang from gnarled branches that reach over the water's edge, and have conglomerated along the eastern bank."
+    ],
+    "paths": [
+      "Obvious paths: east, southwest, northwest"
+    ],
+    "location": "the River Muagh",
+    "wayto": {
+      "35859": "/rooms/35860/wayto/stringproc-35859.rb",
+      "35861": "/rooms/35860/wayto/stringproc-35861.rb",
+      "35893": "/rooms/35860/wayto/stringproc-35893.rb"
+    },
+    "timeto": {
+      "35859": 0.2,
+      "35861": 0.2,
+      "35893": 0.2
+    },
+    "uid": [
+      3024008
+    ],
+    "image": "ti-kragnek_dzu-1761314324.png",
+    "image_coords": [
+      193,
+      954,
+      230,
+      992
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checksum": "fc8c8f13509ad9337bf27efe9673bb48",
+  "room": {
+    "id": 35587,
+    "title": [
+      "[The Contempt, Mess Hall]"
+    ],
+    "description": [
+      "Opposite an uneven arch, strands of faded bunting in teal and saffron hang where the beams of the overhead meet a half-wall of grated steel separating the galley from the wider mess.  Beyond the grating, the galley is lit by lanterns of patinated brass, its ovens the source of the aroma of spiced bread and salt-cured meat infusing the air.  Several tables stand within the mess, each flanked by benches studded with copper nails."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35586": "go arch",
+      "35605": "go ebb table",
+      "35606": "go seaspray table",
+      "35607": "go leviathan table"
+    },
+    "timeto": {
+      "35586": 0.2,
+      "35605": 0.2,
+      "35606": 0.2,
+      "35607": 0.2
+    },
+    "tags": [
+      "tables",
+      "table",
+      "no forageables"
+    ],
+    "uid": [
+      7150617
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      3880,
+      840,
+      3960,
+      920
+    ]
+  }
+}

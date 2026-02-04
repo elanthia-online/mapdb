@@ -1,0 +1,30 @@
+{
+  "checksum": "288d9822fffbaec430bbdc3e28c66846",
+  "room": {
+    "id": 36131,
+    "title": [
+      "[Lockers, Antechamber]"
+    ],
+    "description": [
+      "A simple wooden chair and a short square table are the only furnishings in this bare room.  The open ceiling shows the warehouse roof high above.  The sounds of workers moving crates in the warehouse below can be easily heard through the thin floors."
+    ],
+    "paths": [
+      "Obvious exits: south"
+    ],
+    "location": "Solhaven",
+    "wayto": {
+      "36130": "south",
+      "36133": "go curtained opening"
+    },
+    "timeto": {
+      "36130": 0.2,
+      "36133": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_locker"
+    ],
+    "uid": [
+      4219379
+    ]
+  }
+}

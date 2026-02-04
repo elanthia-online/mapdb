@@ -1,1 +1,1 @@
-multifput "go vortex", "go vortex"
+multifput 'go vortex', 'go vortex'

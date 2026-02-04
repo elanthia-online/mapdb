@@ -1,1 +1,1 @@
-multifput "unlatch silver door", "open silver door", "go silver door"
+multifput 'unlatch silver door', 'open silver door', 'go silver door'

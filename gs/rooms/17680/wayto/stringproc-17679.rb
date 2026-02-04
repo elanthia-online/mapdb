@@ -1,3 +1,1 @@
-move "crawl opening"
-fput "stand" unless standing?
-waitrt?
+move 'crawl opening'; fput 'stand' unless standing?; waitrt?

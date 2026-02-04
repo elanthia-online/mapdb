@@ -1,1 +1,1 @@
-multifput "jump", "jump"
+multifput 'jump', 'jump'

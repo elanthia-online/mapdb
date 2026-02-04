@@ -1,5 +1,5 @@
 {
-  "checksum": "2a8582c0bf58b72471f5f609d8fdf153",
+  "checksum": "5321ff16a15480483e25a81e92c8ef4f",
   "room": {
     "id": 28618,
     "title": [
@@ -9,14 +9,19 @@
       "This barn is cavernous, but still very well lit via the combination of flickering flames emanating from delicate ivory sconces at regular intervals around the perimeter of the barn, and a discreet smattering of indirect lighting from various windows placed in the ceiling.  The floor underfoot is straw, but it is clean and sweet-smelling, and has been carefully raked to lie flat.  The center of the space contains a large number of chests and crates, each one placed directly across from a stall."
     ],
     "paths": [
+      "Obvious exits: northeast, northwest, out",
       "Obvious exits: out"
     ],
     "location": "Mist Harbor",
     "wayto": {
-      "28617": "out"
+      "28617": "out",
+      "36187": "ne",
+      "36188": "nw"
     },
     "timeto": {
-      "28617": 0.2
+      "28617": 0.2,
+      "36187": 0.2,
+      "36188": 0.2
     },
     "tags": [
       "acantha leaf",

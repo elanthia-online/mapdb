@@ -1,1 +1,1 @@
-multifput "search", "go crack"
+multifput 'search', 'go crack'

@@ -1,5 +1,5 @@
 {
-  "checksum": "e4a662e2dc1dae29ff85cbec7d5c760c",
+  "checksum": "b1c4f7b9b2c7e41c782a34cc730da5a0",
   "room": {
     "id": 27390,
     "title": [
@@ -13,13 +13,16 @@
     ],
     "location": "the town of Kharam-Dzu",
     "wayto": {
-      "27389": "pull lever"
+      "27389": "pull lever",
+      "36011": "go curtain"
     },
     "timeto": {
-      "27389": 0.2
+      "27389": 0.2,
+      "36011": 0.2
     },
     "tags": [
-      "meta:locker annex:Silvergate Inn"
+      "meta:locker annex:Silvergate Inn",
+      "meta:che:silvergate_inn:entrance_locker"
     ],
     "uid": [
       3003113

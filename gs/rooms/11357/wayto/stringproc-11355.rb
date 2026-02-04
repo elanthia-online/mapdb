@@ -1,6 +1,1 @@
-save_stance = checkstance
-fput "stance offensive" if save_stance != "offensive"
-move("climb wall")
-fput "stance #{save_stance}" if save_stance != checkstance
-
-$go2_restart = true
+save_stance = XMLData.stance_text;fput 'stance offensive' if save_stance != 'offensive';move('climb wall');fput "stance #{save_stance}" if save_stance != XMLData.stance_text;;$go2_restart = true;

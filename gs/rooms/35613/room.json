@@ -1,0 +1,39 @@
+{
+  "checksum": "8e31e9cb9c06e6d0ad693843b5e9150d",
+  "room": {
+    "id": 35613,
+    "title": [
+      "[The Mageborn, Main Deck]"
+    ],
+    "description": [
+      "The deck is partially bisected by the ship's broken main mast, but still overshadowed by what remains of the shrouds.  Decaying lines cast foreboding patterns of shadow over a hatch that permits access into the partially submerged hold.  The rush of the tide beckons from the gloom below, and in a narrow square of sunlight, white foam stands out against a backdrop of surging black water."
+    ],
+    "paths": [
+      "Obvious paths: up"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35608": "up",
+      "35614": "go hatch"
+    },
+    "timeto": {
+      "35608": 0.2,
+      "35614": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150506
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1800,
+      2280,
+      1880,
+      2360
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-((!defined?(Skills) || !defined?(Skills.climbing) || (defined?(Skills) && defined?(Skills.climbing) && (Skills.climbing > 14))) ? 0.2 : nil)
+((!defined?(Skills) or !defined?(Skills.climbing) or (defined?(Skills) and defined?(Skills.climbing) and Skills.climbing > 14)) ? 0.2 : nil)

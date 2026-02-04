@@ -1,2 +1,1 @@
-fput "get jug"
-move "go archway"
+fput 'get jug'; move 'go archway'

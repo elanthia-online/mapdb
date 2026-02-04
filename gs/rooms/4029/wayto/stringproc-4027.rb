@@ -1,4 +1,3 @@
-loop do
-  move "north"
-  break if Room.current.id == 4027
-end
+begin
+move 'north'
+end until Room.current.id == 4027

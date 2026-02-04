@@ -1,1 +1,1 @@
-(Stats.prof == "Empath") ? 0.2 : nil
+Stats.prof == 'Empath' ? 0.2 : nil

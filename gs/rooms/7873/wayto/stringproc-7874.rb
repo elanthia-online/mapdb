@@ -1,4 +1,1 @@
-move "crawl south"
-waitrt?
-fput "stand" unless standing?
-waitrt?
+move 'crawl south'; waitrt?; fput 'stand' unless standing?; waitrt?

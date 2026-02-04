@@ -1,2 +1,1 @@
-checkspell(112) ? (move "southeast") : (move "swim southeast")
-waitrt?
+if checkspell(112) then move 'southeast' else move 'swim southeast' end; waitrt?

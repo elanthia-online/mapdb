@@ -1,2 +1,1 @@
-dothistimeout "push southwest", 5, /you push|you can't push/i
-waitrt?
+dothistimeout 'push southwest',5,/you push|you can't push/i;waitrt?

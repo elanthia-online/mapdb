@@ -1,2 +1,1 @@
-fput "search"
-move "climb stair"
+fput 'search'; move 'climb stair'

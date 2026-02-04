@@ -1,0 +1,30 @@
+{
+  "checksum": "34f1a5385eceb825a27c65e7eed1e6ae",
+  "room": {
+    "id": 36152,
+    "title": [
+      "[Mana Staff Dahcre Chamber]"
+    ],
+    "description": [
+      "This elegantly appointed room, with cherrywood-panelled walls and a floor of snow white alabaster, offers a comfortable place for the weary adventurer.  Several wingback armchairs upholstered in soft leather are drawn up around a black marble fireplace, above which is set a beveled glaes mirror.  Various flagons and carafes rest on a cherrywood bar nearby, which is flanked by twin banners bearing a serpent's head.  An opalescent feystone medallion gleams at the top-most joint of the mistwood arch leading into this room."
+    ],
+    "paths": [
+      "Obvious exits: none"
+    ],
+    "location": "Ta'Vaalor",
+    "wayto": {
+      "10416": "go mistwood arch",
+      "36153": "pull obsidian statue"
+    },
+    "timeto": {
+      "10416": 0.2,
+      "36153": 0.2
+    },
+    "tags": [
+      "meta:che:arcane_masters:entrance_annex"
+    ],
+    "uid": [
+      14109103
+    ]
+  }
+}

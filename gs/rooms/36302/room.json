@@ -1,0 +1,46 @@
+{
+  "checksum": "d9875e1e8dd38688c1df967d6a0f5874",
+  "room": {
+    "id": 36302,
+    "title": [
+      "[Albatross, Gambler's Rest]"
+    ],
+    "description": [
+      "The casino floor begins here and branches off in all directions.  Rosewood and mahogany doors are barely visible along the tapestry-covered walls, which are lined with some dark leather couches and serving trays.  In the center of the room is an elaborately carved mistwood staircase that climbs up to the next level of the riverboat, and a silver-inlaid mahogany archway leads toward the bar, ballroom, and buffet.  A short flight of steps lead down to the cashier."
+    ],
+    "paths": [
+      "Obvious exits: north, northeast, east, west, northwest"
+    ],
+    "location": "Wehnimer's Landing",
+    "wayto": {
+      "36299": "go mahogany-framed exit",
+      "36303": "north",
+      "36304": "east",
+      "36305": "west",
+      "36306": "northeast",
+      "36307": "northwest",
+      "36318": "go mahogany archway",
+      "36321": "go carved staircase"
+    },
+    "timeto": {
+      "36299": 0.2,
+      "36303": 0.2,
+      "36304": 0.2,
+      "36305": 0.2,
+      "36306": 0.2,
+      "36307": 0.2,
+      "36318": 0.2,
+      "36321": 0.2
+    },
+    "uid": [
+      777308
+    ],
+    "image": "albatross-1342665555.png",
+    "image_coords": [
+      283,
+      300,
+      300,
+      320
+    ]
+  }
+}

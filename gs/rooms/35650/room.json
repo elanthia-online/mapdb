@@ -1,0 +1,50 @@
+{
+  "checksum": "1f10ec546cf448a5dcccf43ad8c85521",
+  "room": {
+    "id": 35650,
+    "title": [
+      "[Talon Isle, Docks]"
+    ],
+    "description": [
+      "A span of wood, silvered by sun and green with moss, stretches from the gleaming white sands out into the azure waters of the sea.  Severe cliffs watch over the structure, their jagged tops crowned with trees that grow so thick together that it is difficult to tell where one ends and another begins.  The humid air is full of the honeyed sweetness of wildflowers and the beckoning freshness of the ocean brine."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast, east, southeast",
+      "Obvious paths: northeast, east, southeast"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35649": "go sands",
+      "35651": "northeast",
+      "35654": "east",
+      "35656": "southeast",
+      "35767": "north"
+    },
+    "timeto": {
+      "35649": 0.2,
+      "35651": 0.2,
+      "35654": 0.2,
+      "35656": 0.2,
+      "35767": 0.2
+    },
+    "tags": [
+      "docks",
+      "dock",
+      "stalk of bluebells",
+      "wild sage",
+      "bract of sea spurge",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150106
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      3560,
+      1480,
+      3640,
+      1560
+    ]
+  }
+}

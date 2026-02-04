@@ -1,5 +1,5 @@
 {
-  "checksum": "205549685d2e02b9dfc40630f31920f0",
+  "checksum": "61d4523b38c25d0b43ac5a6df6bcdd7e",
   "room": {
     "id": 30959,
     "title": [
@@ -9,17 +9,25 @@
       "Curving down and to the west, marble steps cut through the travertine planters that line the pathway that trails away from Pentas Avenue.  Concentric bands of gold-veined tiles form overlapping knotwork patterns upon the broad expanse, as twinkling lights spill out of blown glass orbs that reside at various places amid succulent plants and white ground-covering pebbles.  Dappling the ground with mottled shadows, starlight filters through nearby cypress trees cooling the area."
     ],
     "paths": [
+      "Obvious paths: east, west",
       "Obvious paths: east"
     ],
     "location": "the Needle of Pentas",
     "wayto": {
       "26960": "east",
-      "30960": "go steps"
+      "30960": "go steps",
+      "35381": "west"
     },
     "timeto": {
       "26960": 0.2,
-      "30960": 0.2
+      "30960": 0.2,
+      "35381": 0.2
     },
+    "tags": [
+      "agora entry",
+      "agora",
+      "agora promenade"
+    ],
     "uid": [
       7110301
     ],

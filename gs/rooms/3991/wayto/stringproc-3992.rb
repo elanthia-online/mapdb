@@ -1,4 +1,4 @@
 empty_hands
-move "climb depressions"
+move 'climb depressions'
 waitrt?
 fill_hands

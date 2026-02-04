@@ -1,0 +1,43 @@
+{
+  "checksum": "1897539d9e4d7d25af77026bcde6d38b",
+  "room": {
+    "id": 35666,
+    "title": [
+      "[Sailor's Grief, Wreckage]"
+    ],
+    "description": [
+      "Barely afloat, a shipwreck juts from the swirling morass of wreckage, its bow tipped downward as though it is slowly sinking back into the sea.  The wood is cracked and bowed, releasing bubbles of air that merge with the effervescent foam on the surface.  A few whip-thin sharks prowl about the submerged portions of the wreck's hull, scouring the abandoned wreck for prey.  They pay little heed to the clams and mussels that have found shelter in the shadows."
+    ],
+    "paths": [
+      "Obvious paths: north, east, southeast, northwest"
+    ],
+    "location": "Sailor's Grief",
+    "wayto": {
+      "35665": "northwest",
+      "35667": "southeast",
+      "35670": "east",
+      "35671": "north"
+    },
+    "timeto": {
+      "35665": 0.2,
+      "35667": 0.2,
+      "35670": 0.2,
+      "35671": 0.2
+    },
+    "tags": [
+      "dusky pink sea thrift",
+      "meta:forage-sensed",
+      "meta:forage-sensed:day:2025-10"
+    ],
+    "uid": [
+      7150709
+    ],
+    "image": "Sailors_Grief.jpg",
+    "image_coords": [
+      1320,
+      1480,
+      1400,
+      1560
+    ]
+  }
+}

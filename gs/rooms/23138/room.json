@@ -1,5 +1,5 @@
 {
-  "checksum": "35114cc493bb8c2083c3cde1644694f8",
+  "checksum": "d26103ebd6ad97d6eace8d8e22d17b30",
   "room": {
     "id": 23138,
     "title": [
@@ -14,9 +14,9 @@
     ],
     "location": "Mist Harbor",
     "wayto": {
-      "12295": "go arch",
-      "23144": "go curtain",
-      "32852": "go opening"
+      "12295": "go pointed arch",
+      "23144": "go flyrsilk curtain",
+      "32852": "go muslin-covered opening"
     },
     "timeto": {
       "12295": 0.2,
@@ -25,7 +25,9 @@
     },
     "tags": [
       "pauperslockers",
-      "meta:locker annex:House of Paupers"
+      "meta:locker annex:House of Paupers",
+      "meta:che:paupers:entrance_annex",
+      "meta:che:paupers:entrance_locker"
     ],
     "uid": [
       3215107

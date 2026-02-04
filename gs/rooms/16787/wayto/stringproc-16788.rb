@@ -1,2 +1,1 @@
-fput "lean table"
-move "go portal"
+fput 'lean table'; move 'go portal'

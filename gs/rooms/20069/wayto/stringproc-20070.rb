@@ -1,1 +1,1 @@
-fput "go mausoleum"
+fput 'go mausoleum'

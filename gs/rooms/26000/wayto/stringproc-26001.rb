@@ -1,1 +1,1 @@
-move "go doors"
+move 'go doors'

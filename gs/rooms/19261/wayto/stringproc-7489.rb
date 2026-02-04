@@ -1,2 +1,1 @@
-fput "touch large statue"
-fput "say dyar trog"
+fput 'touch large statue';fput 'say dyar trog'

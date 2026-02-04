@@ -1,2 +1,2 @@
-fput "pull chain"
-move "go chute"
+fput 'pull chain'
+move 'go chute'

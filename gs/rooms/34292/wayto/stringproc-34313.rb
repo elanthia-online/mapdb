@@ -1,3 +1,1 @@
-fput "search"
-waitrt?
-move "go gap"
+fput 'search'; waitrt?; move 'go gap'

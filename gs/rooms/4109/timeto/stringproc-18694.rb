@@ -1,1 +1,1 @@
-(Script.running?("bigshot") || Script.running?("wander")) ? nil : 0.2
+(Script.running?('bigshot') or Script.running?('wander')) ? nil : 0.2

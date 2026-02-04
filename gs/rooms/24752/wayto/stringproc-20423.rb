@@ -1,5 +1,1 @@
-["west", "west", "northwest"].each { |d| move(d) }
-fput "rub blood"
-["southeast", "east", "east"].each { |d| move(d) }
-fput "rub hatch"
-move("go hatch")
+['west','west','northwest'].each{|d| move(d)};fput 'rub blood';['southeast','east','east'].each{|d| move(d)};fput 'rub hatch';move('go hatch');

@@ -1,0 +1,38 @@
+{
+  "checksum": "03e852fa033432ff259b7fe78a4cb6ef",
+  "room": {
+    "id": 35332,
+    "title": [
+      "[Sleeping Drake Harbor, Fig Lane]"
+    ],
+    "description": [
+      "Set just beneath a gentle incline to the north, the cobblestone lane spreads into a crescent-shaped courtyard bordered by modest homes and shops, all topped with terra-cotta roofs and accented by bright white shutters.  Resting at the center, a copper and stained glass fountain sits, filling the air with the soft sounds of trickling water.  Along the north end is a greenhouse surrounded by an herbaceous garden, while the south end supports a copper-roofed locksmith shop."
+    ],
+    "paths": [
+      "Obvious paths: north, northeast"
+    ],
+    "location": "the Isle of Ornath",
+    "wayto": {
+      "35331": "northeast",
+      "35333": "north",
+      "35423": "go shop",
+      "35425": "go greenhouse"
+    },
+    "timeto": {
+      "35331": 0.2,
+      "35333": 0.2,
+      "35423": 0.2,
+      "35425": 0.2
+    },
+    "uid": [
+      7142128
+    ],
+    "image": "2Sleeping_Drake_Harbor_and_Bericsaba_Market.png",
+    "image_coords": [
+      854,
+      1109,
+      882,
+      1135
+    ]
+  }
+}
