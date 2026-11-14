@@ -15,7 +15,7 @@ if sack.contents.nil?
    if open_result =~ /^You open/
       close_sack = true
    else
-      dothistimeout "look in ##{sack.id}", 10, /In the .*? you see/
+      dothistimeout "look in ##{sack.id}", 10, /In the .*?(?: you see|:\s*$)/
    end
 end
 empty_hand
